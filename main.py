@@ -9,14 +9,16 @@ import pandas as pd
 from bs4 import BeautifulSoup
 
 
+URL_BASE = "https://www.transfermarkt.com"
+
+
 # URL setup. Note that some site directories are in German.
-base = "https://www.transfermarkt.com/"
 league = "premier-league"
 transfers = "transfers"
 competition = "wettbewerb"
 level = "GB1"
 
-url = base + f'{league}/{transfers}/{competition}/{level}'
+url = URL_BASE + f'/{league}/{transfers}/{competition}/{level}'
 
 # GET and parse the HTML.
 response = httpx.get(url=url)
