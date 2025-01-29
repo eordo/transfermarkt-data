@@ -46,23 +46,56 @@ parse_col_index = {
     8: parse_text
 }
 
-dfs = []
-for table in tables:
+# Parse the transfer data from the tables.
+dfs_in = []
+dfs_out = []
+for i, table in enumerate(tables):
     col_headers = [th.text for th in table.find_all("th")]
     col_headers.insert(-1, "Country")
 
     rows = table.tbody.find_all("tr")
-    data = []
+    table_data = []
     for row in rows:
         tds = row.findAll("td")
         transfer = []
-        for i, td in enumerate(tds):
+        for j, td in enumerate(tds):
             try:
-                info = parse_col_index[i](td)
+                info = parse_col_index[j](td)
             except:
                 info = None
             transfer.append(info)
-        data.append(transfer)
+        table_data.append(transfer)
     
-    df = pd.DataFrame(data, columns=col_headers)
-    dfs.append(df)
+    df = pd.DataFrame(table_data, columns=col_headers)
+    # Tables alternate between transfers in and out.
+    if i % 2 == 0:
+        dfs_in.append(df)
+    else:
+        dfs_out.append(df)
+
+# Make column names consistent.
+col_names = {
+    "Age": "age",
+    "Nat.": "nationality",
+    "Position": "position",
+    "Pos": "pos",
+    "Market value": "market_value",
+    "Country": "dealing_country",
+    "Fee": "fee"
+}
+
+for i, (club, df_in, df_out) in enumerate(zip(clubs, dfs_in, dfs_out)):
+    df_in = df_in.rename(columns={"In": "player", "Left": "dealing_club"})
+    df_in = df_in.rename(columns=col_names)
+    df_in.insert(loc=0, column="club", value=club)
+    df_in.insert(loc=1, column="movement", value="in")
+
+    df_out = df_out.rename(columns={"Out": "player", "Joined": "dealing_club"})
+    df_out = df_out.rename(columns=col_names)
+    df_out.insert(loc=0, column="club", value=club)
+    df_out.insert(loc=1, column="movement", value="out")
+
+    dfs_in[i] = df_in
+    dfs_out[i] = df_out
+
+data = pd.concat([pd.concat(dfs_in), pd.concat(dfs_out)])
