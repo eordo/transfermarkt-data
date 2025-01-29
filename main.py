@@ -86,7 +86,8 @@ col_names = {
     "Fee": "fee"
 }
 
-for i, (club, df_in, df_out) in enumerate(zip(clubs, dfs_in, dfs_out)):
+dfs = []
+for club, df_in, df_out in zip(clubs, dfs_in, dfs_out):
     df_in = df_in.rename(columns={"In": "player", "Left": "dealing_club"})
     df_in = df_in.rename(columns=col_names)
     df_in.insert(loc=0, column="club", value=club)
@@ -97,7 +98,7 @@ for i, (club, df_in, df_out) in enumerate(zip(clubs, dfs_in, dfs_out)):
     df_out.insert(loc=0, column="club", value=club)
     df_out.insert(loc=1, column="movement", value="out")
 
-    dfs_in[i] = df_in
-    dfs_out[i] = df_out
+    df = pd.concat([df_in, df_out])
+    dfs.append(df)
 
-data = pd.concat([pd.concat(dfs_in), pd.concat(dfs_out)])
+data = pd.concat(dfs)
