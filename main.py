@@ -1,15 +1,18 @@
 """Transfermarkt Transfer Data Scraper
 
-This script web scrapes Transfermarkt for club transfers. The script currently 
-scrapes only the English Premier League for the 2024-25 season.
+This script web scrapes Transfermarkt for club transfers. The transfer data 
+are written to CSVs in the `data/` directory. The script currently scrapes 
+only the English Premier League for the 2024-25 season.
 """
 
 import httpx
 import pandas as pd
+from pathlib import Path
 from bs4 import BeautifulSoup
 
 
 URL_BASE = "https://www.transfermarkt.com"
+DATA_DIR = "./data"
 
 
 # URL setup. Note that some site directories are in German.
@@ -86,6 +89,7 @@ col_names = {
     "Fee": "fee"
 }
 
+# Merge the data.
 dfs = []
 for club, df_in, df_out in zip(clubs, dfs_in, dfs_out):
     df_in = df_in.rename(columns={"In": "player", "Left": "dealing_club"})
@@ -102,3 +106,9 @@ for club, df_in, df_out in zip(clubs, dfs_in, dfs_out):
     dfs.append(df)
 
 data = pd.concat(dfs)
+
+# Save the data.
+output_dir = Path(DATA_DIR)
+output_file = "data.csv"
+output_dir.mkdir(parents=True, exist_ok=True)
+data.to_csv(output_dir / output_file, index=False, encoding="utf-8")
