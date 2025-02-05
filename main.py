@@ -5,6 +5,7 @@ are written to CSVs in the `data/` directory. The script currently scrapes
 only the English Premier League for the 2024-25 season.
 """
 
+import re
 import httpx
 import pandas as pd
 from pathlib import Path
@@ -13,6 +14,31 @@ from bs4 import BeautifulSoup
 
 URL_BASE = "https://www.transfermarkt.com"
 DATA_DIR = "./data"
+
+
+def parse_currency(x):
+    """Convert a currency string into a numeric value."""
+    # '-' denotes a missing value.
+    if x == '-':
+        return None
+    
+    # Drop the currency symbol and split the string into the numeric amount 
+    # and multiplier.
+    tokens = re.findall(r'[0-9.]+|[^0-9.]', x[1:])
+
+    # If there is no multiplier, e.g., the original string was "€1000", then 
+    # the only token is the numeric value.
+    if len(tokens) == 1:
+        value = float(tokens[0])
+    else:
+        multipliers = {
+            "m": 1_000_000,
+            "k": 1_000
+        }
+        amount, power = float(tokens[0]), tokens[1]
+        value = amount * multipliers[power]
+    
+    return value
 
 
 # URL setup. Note that some site directories are in German.
@@ -29,10 +55,16 @@ html = response.text
 soup = BeautifulSoup(html, "html.parser")
 
 # Club names are h2 headers with the "content-box-headline--logo" class.
-clubs = [tag.text.strip() for tag in soup.findAll("h2", class_="content-box-headline--logo")]
+clubs = [
+    tag.text.strip()
+    for tag in soup.findAll("h2", class_="content-box-headline--logo")
+]
 
 # Transfers are listed in tables nested in "responsive-table"-class divs.
-tables = [tag.find("table") for tag in soup.findAll("div", class_="responsive-table")]
+tables = [
+    tag.find("table")
+    for tag in soup.findAll("div", class_="responsive-table")
+]
 
 # Player transfer information is nested differently depending on the cell.
 parse_player_name = lambda x: x.find("span", class_="hide-for-small").text
@@ -106,6 +138,9 @@ for club, df_in, df_out in zip(clubs, dfs_in, dfs_out):
     dfs.append(df)
 
 data = pd.concat(dfs)
+
+# Clean the market values.
+data["market_value"] = data.market_value.apply(parse_currency)
 
 # Save the data.
 output_dir = Path(DATA_DIR)
