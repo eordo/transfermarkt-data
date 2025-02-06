@@ -16,6 +16,32 @@ URL_BASE = "https://www.transfermarkt.com"
 DATA_DIR = "./data"
 
 
+def get_fee_and_loan_status(x):
+    """Parse transfer fee and impute player loan status."""
+    # Unknown/missing values.
+    if x in "-?":
+        fee = 0
+        is_loan = False
+    # Free transfers.
+    elif x == "free transfer":
+        fee = 0
+        is_loan = False
+    # Loans with no fee.
+    elif x == "loan transfer" or x.startswith("End of loan"):
+        fee = 0
+        is_loan = True
+    # Loans with a fee.
+    elif x.startswith("Loan fee"):
+        fee = parse_currency(x.split(':')[-1])
+        is_loan = True
+    # Transfers with a fee.
+    else:
+        fee = parse_currency(x)
+        is_loan = False
+    
+    return fee, is_loan
+
+
 def parse_currency(x):
     """Convert a currency string into a numeric value."""
     # '-' denotes a missing value.
@@ -139,8 +165,9 @@ for club, df_in, df_out in zip(clubs, dfs_in, dfs_out):
 
 data = pd.concat(dfs)
 
-# Clean the market values.
+# Clean the market values and fees; impute loan status.
 data["market_value"] = data.market_value.apply(parse_currency)
+data["fee"], data["is_loan"] = zip(*data.fee.map(get_fee_and_loan_status))
 
 # Save the data.
 output_dir = Path(DATA_DIR)
