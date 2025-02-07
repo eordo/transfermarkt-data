@@ -78,116 +78,147 @@ def random_user_agent():
     return random.choice(USER_AGENTS)
 
 
-# URL setup. Note that some site directories are in German.
+# Note that some site directories are in German.
 league = "premier-league"
 transfers = "transfers"
 competition = "wettbewerb"
 level = "GB1"
 
-url = URL_BASE + f'/{league}/{transfers}/{competition}/{level}'
+# URL origin.
+origin = '/'.join([URL_BASE, league, transfers, competition, level])
 
-# GET the page. Try another user agent header if the request is denied.
-headers = {"User-Agent": random_user_agent()}
-response = httpx.get(url=url, headers=headers)
-while response.status_code != httpx.codes.ok:
-    headers["User-Agent"] = random_user_agent()
+# URL query string.
+season_id = "saison_id"
+windows = "s_w"
+loans = "leihe"
+internal_movements = "intern"
+
+queries = {
+    season_id: "2024",
+    windows: "",
+    loans: "3",
+    internal_movements: "0"
+}
+
+# Scrape the summer transfer window and the winter transfer window separately.
+soups = []
+for window in ['s', 'w']:
+    queries[windows] = window
+    query_string = '&'.join(f'{k}={v}' for k, v in queries.items())
+
+    # Full URL setup.
+    url = origin + "/plus/?" + query_string
+
+    # GET the page. Try another user agent header if the request is denied.
+    headers = {"User-Agent": random_user_agent()}
     response = httpx.get(url=url, headers=headers)
+    while response.status_code != httpx.codes.ok:
+        headers["User-Agent"] = random_user_agent()
+        response = httpx.get(url=url, headers=headers)
 
-# Parse the HTML.
-soup = BeautifulSoup(response.text, "html.parser")
+    # Parse the HTML.
+    soup = BeautifulSoup(response.text, "html.parser")
+    soups.append(soup)
 
-# Club names are h2 headers with the "content-box-headline--logo" class.
-clubs = [
-    tag.text.strip()
-    for tag in soup.findAll("h2", class_="content-box-headline--logo")
-]
+data = []
+for soup, window in zip(soups, ["summer", "winter"]):
+    # Club names are h2 headers with the "content-box-headline--logo" class.
+    clubs = [
+        tag.text.strip()
+        for tag in soup.findAll("h2", class_="content-box-headline--logo")
+    ]
 
-# Transfers are listed in tables nested in "responsive-table"-class divs.
-tables = [
-    tag.find("table")
-    for tag in soup.findAll("div", class_="responsive-table")
-]
+    # Transfers are listed in tables nested in "responsive-table"-class divs.
+    tables = [
+        tag.find("table")
+        for tag in soup.findAll("div", class_="responsive-table")
+    ]
 
-# Player transfer information is nested differently depending on the cell.
-parse_player_name = lambda x: x.find("span", class_="hide-for-small").text
-parse_text = lambda x: x.text
-parse_from_img = lambda x: x.find("img").get("title")
+    # Player transfer information is nested differently depending on the cell.
+    parse_player_name = lambda x: x.find("span", class_="hide-for-small").text
+    parse_text = lambda x: x.text
+    parse_from_img = lambda x: x.find("img").get("title")
 
-parse_col_index = {
-    0: parse_player_name,
-    1: parse_text,
-    2: parse_from_img,
-    3: parse_text,
-    4: parse_text,
-    5: parse_text,
-    6: parse_from_img,
-    7: parse_from_img,
-    8: parse_text
-}
+    parse_col_index = {
+        0: parse_player_name,
+        1: parse_text,
+        2: parse_from_img,
+        3: parse_text,
+        4: parse_text,
+        5: parse_text,
+        6: parse_from_img,
+        7: parse_from_img,
+        8: parse_text
+    }
 
-# Parse the transfer data from the tables.
-dfs_in = []
-dfs_out = []
-for i, table in enumerate(tables):
-    col_headers = [th.text for th in table.find_all("th")]
-    col_headers.insert(-1, "Country")
+    # Parse the transfer data from the tables.
+    dfs_in = []
+    dfs_out = []
+    for i, table in enumerate(tables):
+        col_headers = [th.text for th in table.find_all("th")]
+        col_headers.insert(-1, "Country")
 
-    table_data = []
-    for row in table.tbody.find_all("tr"):
-        tds = row.findAll("td")
+        table_data = []
+        for row in table.tbody.find_all("tr"):
+            tds = row.findAll("td")
+            
+            # If there are no transfers in this window, the row has one cell.
+            if len(tds) == 1: break
+            
+            # Otherwise, there are nine cells to parse.
+            transfer = []
+            for j, td in enumerate(tds):
+                try:
+                    info = parse_col_index[j](td)
+                except:
+                    info = None
+                transfer.append(info)
+            table_data.append(transfer)
         
-        # If there are no transfers in this window, the row has one cell.
-        if len(tds) == 1: break
-        
-        # Otherwise, there are nine cells to parse.
-        transfer = []
-        for j, td in enumerate(tds):
-            try:
-                info = parse_col_index[j](td)
-            except:
-                info = None
-            transfer.append(info)
-        table_data.append(transfer)
-    
-    df = pd.DataFrame(table_data, columns=col_headers)
-    # Tables alternate between transfers in and out.
-    if i % 2 == 0:
-        dfs_in.append(df)
-    else:
-        dfs_out.append(df)
+        df = pd.DataFrame(table_data, columns=col_headers)
+        # Tables alternate between transfers in and out.
+        if i % 2 == 0:
+            dfs_in.append(df)
+        else:
+            dfs_out.append(df)
 
-# Make column names consistent.
-col_names = {
-    "Age": "age",
-    "Nat.": "nationality",
-    "Position": "position",
-    "Pos": "pos",
-    "Market value": "market_value",
-    "Country": "dealing_country",
-    "Fee": "fee"
-}
+    # Make column names consistent.
+    col_names = {
+        "Age": "age",
+        "Nat.": "nationality",
+        "Position": "position",
+        "Pos": "pos",
+        "Market value": "market_value",
+        "Country": "dealing_country",
+        "Fee": "fee"
+    }
 
-# Merge the data.
-dfs = []
-for club, df_in, df_out in zip(clubs, dfs_in, dfs_out):
-    df_in = df_in.rename(columns={"In": "player", "Left": "dealing_club"})
-    df_in = df_in.rename(columns=col_names)
-    df_in.insert(loc=0, column="club", value=club)
-    df_in.insert(loc=1, column="movement", value="in")
+    # Merge the data.
+    for club, df_in, df_out in zip(clubs, dfs_in, dfs_out):
+        df_in = df_in.rename(columns={"In": "player", "Left": "dealing_club"})
+        df_in = df_in.rename(columns=col_names)
+        df_in.insert(loc=0, column="club", value=club)
+        df_in.insert(loc=1, column="movement", value="in")
+        df_in.insert(loc=2, column="window", value=window)
 
-    df_out = df_out.rename(columns={"Out": "player", "Joined": "dealing_club"})
-    df_out = df_out.rename(columns=col_names)
-    df_out.insert(loc=0, column="club", value=club)
-    df_out.insert(loc=1, column="movement", value="out")
+        df_out = df_out.rename(columns={"Out": "player", "Joined": "dealing_club"})
+        df_out = df_out.rename(columns=col_names)
+        df_out.insert(loc=0, column="club", value=club)
+        df_out.insert(loc=1, column="movement", value="out")
+        df_out.insert(loc=2, column="window", value=window)
 
-    df = pd.concat([df_in, df_out])
-    dfs.append(df)
+        df = pd.concat([df_in, df_out])
+        data.append(df)
 
-data = pd.concat(dfs)
+data = pd.concat(data)
 
 # Clean the market values and fees; impute loan status.
 data["market_value"] = data.market_value.apply(parse_currency)
 data["fee"], data["is_loan"] = zip(*data.fee.map(get_fee_and_loan_status))
+
+# Sort the data alphabetically by club, then transfers in/out, then 
+# summer/winter
+data = data.sort_values(["club", "movement", "window"])
 
 # Save the data.
 output_dir = Path(DATA_DIR)
