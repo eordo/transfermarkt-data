@@ -5,6 +5,7 @@ are written to CSVs in the `data/` directory. The script currently scrapes
 only the English Premier League for the 2024-25 season.
 """
 
+import random
 import re
 import httpx
 import pandas as pd
@@ -13,6 +14,11 @@ from bs4 import BeautifulSoup
 
 
 URL_BASE = "https://www.transfermarkt.com"
+USER_AGENTS = [
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/115.0.0.0",
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15) Firefox/113.0",
+    "Mozilla/5.0 (X11; Linux x86_64) Chrome/113.0.0.0"
+]
 DATA_DIR = "./data"
 
 
@@ -67,6 +73,11 @@ def parse_currency(x):
     return value
 
 
+def random_user_agent():
+    """Choose a random user agent for request headers."""
+    return random.choice(USER_AGENTS)
+
+
 # URL setup. Note that some site directories are in German.
 league = "premier-league"
 transfers = "transfers"
@@ -75,10 +86,15 @@ level = "GB1"
 
 url = URL_BASE + f'/{league}/{transfers}/{competition}/{level}'
 
-# GET and parse the HTML.
-response = httpx.get(url=url)
-html = response.text
-soup = BeautifulSoup(html, "html.parser")
+# GET the page. Try another user agent header if the request is denied.
+headers = {"User-Agent": random_user_agent()}
+response = httpx.get(url=url, headers=headers)
+while response.status_code != httpx.codes.ok:
+    headers["User-Agent"] = random_user_agent()
+    response = httpx.get(url=url, headers=headers)
+
+# Parse the HTML.
+soup = BeautifulSoup(response.text, "html.parser")
 
 # Club names are h2 headers with the "content-box-headline--logo" class.
 clubs = [
