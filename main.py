@@ -116,10 +116,14 @@ for i, table in enumerate(tables):
     col_headers = [th.text for th in table.find_all("th")]
     col_headers.insert(-1, "Country")
 
-    rows = table.tbody.find_all("tr")
     table_data = []
-    for row in rows:
+    for row in table.tbody.find_all("tr"):
         tds = row.findAll("td")
+        
+        # If there are no transfers in this window, the row has one cell.
+        if len(tds) == 1: break
+        
+        # Otherwise, there are nine cells to parse.
         transfer = []
         for j, td in enumerate(tds):
             try:
