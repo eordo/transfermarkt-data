@@ -135,12 +135,20 @@ for soup, window in zip(soups, ["summer", "winter"]):
     ]
 
     # Player transfer information is nested differently depending on the cell.
-    parse_player_name = lambda x: x.find("span", class_="hide-for-small").text
-    parse_text = lambda x: x.text
-    parse_from_img = lambda x: x.find("img").get("title")
+    def parse_player_name_and_id(x):
+        player_span = x.find("span", class_="hide-for-small")
+        player_name = player_span.a.text
+        player_id = player_span.a['href'].split('/')[-1]
+        return player_name, player_id
+    
+    def parse_text(x):
+        return x.text
+    
+    def parse_from_img(x):
+        return x.find("img").get("title")
 
     parse_col_index = {
-        0: parse_player_name,
+        0: parse_player_name_and_id,
         1: parse_text,
         2: parse_from_img,
         3: parse_text,
@@ -212,12 +220,22 @@ for soup, window in zip(soups, ["summer", "winter"]):
 
 data = pd.concat(data)
 
+# Separate player names and IDs.
+player_name, player_id = zip(*data.player)
+data["player"] = player_name
+data = data.rename(columns={"player": "player_name"})
+data.insert(loc=4, column="player_id", value=player_id)
+
 # Clean the market values and fees; impute loan status.
 data["market_value"] = data.market_value.apply(parse_currency)
 data["fee"], data["is_loan"] = zip(*data.fee.map(get_fee_and_loan_status))
 
+# Convert ID and age from strings to ints.
+for col in ["player_id", "age"]:
+    data[col] = data[col].astype(int)
+
 # Sort the data alphabetically by club, then transfers in/out, then 
-# summer/winter
+# summer/winter window.
 data = data.sort_values(["club", "movement", "window"])
 
 # Save the data.
