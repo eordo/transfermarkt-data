@@ -108,13 +108,15 @@ for window in ['s', 'w']:
 
     # Full URL setup.
     url = origin + "/plus/?" + query_string
+    print(f"Querying {url}")
 
     # GET the page. Try another user agent header if the request is denied.
     headers = {"User-Agent": random_user_agent()}
-    response = httpx.get(url=url, headers=headers)
+    response = httpx.get(url=url, headers=headers, timeout=10.0)
     while response.status_code != httpx.codes.ok:
         headers["User-Agent"] = random_user_agent()
-        response = httpx.get(url=url, headers=headers)
+        response = httpx.get(url=url, headers=headers, timeout=10.0)
+    print(f"Status code {response.status_code}")
 
     # Parse the HTML.
     soup = BeautifulSoup(response.text, "html.parser")
@@ -125,13 +127,13 @@ for soup, window in zip(soups, ["summer", "winter"]):
     # Club names are h2 headers with the "content-box-headline--logo" class.
     clubs = [
         tag.text.strip()
-        for tag in soup.findAll("h2", class_="content-box-headline--logo")
+        for tag in soup.find_all("h2", class_="content-box-headline--logo")
     ]
 
     # Transfers are listed in tables nested in "responsive-table"-class divs.
     tables = [
         tag.find("table")
-        for tag in soup.findAll("div", class_="responsive-table")
+        for tag in soup.find_all("div", class_="responsive-table")
     ]
 
     # Player transfer information is nested differently depending on the cell.
@@ -168,7 +170,7 @@ for soup, window in zip(soups, ["summer", "winter"]):
 
         table_data = []
         for row in table.tbody.find_all("tr"):
-            tds = row.findAll("td")
+            tds = row.find_all("td")
             
             # If there are no transfers in this window, the row has one cell.
             if len(tds) == 1: break
@@ -217,8 +219,11 @@ for soup, window in zip(soups, ["summer", "winter"]):
 
         df = pd.concat([df_in, df_out])
         data.append(df)
+    
+    print(f"Done with {window} window")
 
 data = pd.concat(data)
+print("Done reading data")
 
 # Separate player names and IDs.
 player_name, player_id = zip(*data.player)
@@ -237,9 +242,11 @@ for col in ["player_id", "age"]:
 # Sort the data alphabetically by club, then transfers in/out, then 
 # summer/winter window.
 data = data.sort_values(["club", "movement", "window"])
+print("Done cleaning data")
 
 # Save the data.
 output_dir = Path(DATA_DIR)
-output_file = "data.csv"
+output_file = "transfers.csv"
 output_dir.mkdir(parents=True, exist_ok=True)
 data.to_csv(output_dir / output_file, index=False, encoding="utf-8")
+print(f"Wrote {output_file} in {output_dir}")
