@@ -19,8 +19,8 @@ USER_AGENTS = [
     "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15) Firefox/113.0",
     "Mozilla/5.0 (X11; Linux x86_64) Chrome/113.0.0.0"
 ]
-DATA_DIR = "./data"
-
+# Output directory where all scraped and cleaned data will be written.
+DATA_DIR = Path("./data")
 # Enable to print progress statements.
 VERBOSE = True
 
@@ -226,7 +226,7 @@ def clean(df, verbose=False):
     return df
 
 
-def save(df, filename, destination="", verbose=False):
+def save(df, filename, destination=DATA_DIR, verbose=False):
     """Save the data as a CSV in the destination directory."""
     output_dir = Path(destination)
     output_dir.mkdir(parents=True, exist_ok=True)
