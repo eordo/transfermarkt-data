@@ -240,41 +240,42 @@ def random_user_agent():
     return random.choice(USER_AGENTS)
 
 
-# URL setup. Note that site directories and parameters are in German.
-# URL origin.
-league = "premier-league"
-transfers = "transfers"
-competition = "wettbewerb"
-level = "GB1"
+if __name__ == "__main__":
+    # URL setup. Note that site directories and parameters are in German.
+    # URL origin.
+    league = "premier-league"
+    transfers = "transfers"
+    competition = "wettbewerb"
+    level = "GB1"
 
-origin = '/'.join([URL_BASE, league, transfers, competition, level])
+    origin = '/'.join([URL_BASE, league, transfers, competition, level])
 
-# URL query string.
-season_id = "saison_id"
-windows = "s_w"
-loans = "leihe"
-internal_movements = "intern"
+    # URL query string.
+    season_id = "saison_id"
+    windows = "s_w"
+    loans = "leihe"
+    internal_movements = "intern"
 
-queries = {
-    season_id: "2024",
-    windows: "",
-    loans: "3",
-    internal_movements: "0"
-}
+    queries = {
+        season_id: "2024",
+        windows: "",
+        loans: "3",
+        internal_movements: "0"
+    }
 
-# Scrape the summer transfer window and the winter transfer window separately.
-urls = []
-for window in ('s', 'w'):
-    queries[windows] = window
-    query_string = '&'.join(f'{k}={v}' for k, v in queries.items())
-    url = origin + "/plus/?" + query_string
-    urls.append(url)
+    # Scrape the summer and winter transfer windows separately.
+    urls = []
+    for window in ('s', 'w'):
+        queries[windows] = window
+        query_string = '&'.join(f'{k}={v}' for k, v in queries.items())
+        url = origin + "/plus/?" + query_string
+        urls.append(url)
 
-# Read, parse, clean, and save the data.
-soups = [scrape_transfer_window(url, verbose=VERBOSE) for url in urls]
-data = pd.concat([
-    soup_to_df(soup, window, verbose=VERBOSE)
-    for soup, window in zip(soups, ("summer", "winter"))
-])
-data = clean(data, verbose=VERBOSE)
-save(data, "transfers.csv", destination=DATA_DIR, verbose=VERBOSE)
+    # Read, parse, clean, and save the data.
+    soups = [scrape_transfer_window(url, verbose=VERBOSE) for url in urls]
+    data = pd.concat([
+        soup_to_df(soup, window, verbose=VERBOSE)
+        for soup, window in zip(soups, ("summer", "winter"))
+    ])
+    data = clean(data, verbose=VERBOSE)
+    save(data, "transfers.csv", destination=DATA_DIR, verbose=VERBOSE)
