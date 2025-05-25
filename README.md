@@ -22,5 +22,6 @@ The transfer data are written to CSVs in the `data/` directory.
 
 ## Releases
 
+* `0.1.1`, 5/25/25
 * `0.1.0`, 5/13/25
   * Includes all club transfers for the 2024&ndash;25 English Premier League season.
