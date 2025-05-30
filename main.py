@@ -44,7 +44,7 @@ def scrape_transfer_window(url, verbose=False):
     return soup
 
 
-def soup_to_df(soup, window, verbose=False):
+def soup_to_df(soup, is_winter=False, verbose=False):
     """Create a data frame from the soup of a scraped transfer window."""
     # Club names are h2 headers with the "content-box-headline--logo" class.
     clubs = [
@@ -134,19 +134,20 @@ def soup_to_df(soup, window, verbose=False):
     for club, df_in, df_out in zip(clubs, dfs_in, dfs_out):
         df_in = df_in.rename(columns=col_names)
         df_in.insert(loc=0, column="club", value=club)
-        df_in.insert(loc=1, column="movement", value="in")
-        df_in.insert(loc=2, column="window", value=window)
+        df_in.insert(loc=1, column="is_transfer_out", value=False)
+        df_in.insert(loc=2, column="is_winter_window", value=is_winter)
 
         df_out = df_out.rename(columns=col_names)
         df_out.insert(loc=0, column="club", value=club)
-        df_out.insert(loc=1, column="movement", value="out")
-        df_out.insert(loc=2, column="window", value=window)
+        df_out.insert(loc=1, column="is_transfer_out", value=True)
+        df_out.insert(loc=2, column="is_winter_window", value=is_winter)
 
         df = pd.concat([df_in, df_out])
         dfs.append(df)
     
     if verbose:
-        print(f"Done with {window} window.")
+        current_window = "winter window" if is_winter else "summer window"
+        print(f"Done with {current_window}.")
 
     return pd.concat(dfs)
 
@@ -215,10 +216,17 @@ def clean(df, verbose=False):
     # Convert ID and age from strings to ints.
     for col in ("player_id", "age"):
         df[col] = df[col].astype(int)
+    # Convert bools to ints.
+    for col in df.select_dtypes(include='bool').columns:
+        df[col] = df[col].astype(int)
 
     # Sort the data alphabetically by club, then transfers in/out, then 
     # summer/winter window.
-    df.sort_values(["club", "movement", "window"], inplace=True)
+    df.sort_values([
+        "club",
+        "is_transfer_out",
+        "is_winter_window"
+    ], inplace=True)
 
     if verbose:
         print("Cleaned data.")
@@ -274,8 +282,8 @@ if __name__ == "__main__":
     # Read, parse, clean, and save the data.
     soups = [scrape_transfer_window(url, verbose=VERBOSE) for url in urls]
     data = pd.concat([
-        soup_to_df(soup, window, verbose=VERBOSE)
-        for soup, window in zip(soups, ("summer", "winter"))
+        soup_to_df(soup, is_winter, verbose=VERBOSE)
+        for soup, is_winter in zip(soups, (False, True))
     ])
     data = clean(data, verbose=VERBOSE)
     save(data, "transfers.csv", destination=DATA_DIR, verbose=VERBOSE)
