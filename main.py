@@ -25,14 +25,120 @@ DATA_DIR = Path("./data")
 VERBOSE = True
 
 
-def scrape_transfer_window(url, verbose=False):
+def scrape(url, verbose=False):
+    """Scrape a Transfermarkt URL and return a data frame."""
+    def _is_winter(url):
+        """Return whether the URL is for a winter transfer window."""
+        window_query = "s_w="
+        window = url[url.find(window_query) + len(window_query)]
+        return window == 'w'
+        
+    soup = _scrape_transfer_window(url, verbose=verbose)
+    is_winter = _is_winter(url)
+    df = _soup_to_df(soup, is_winter=is_winter, verbose=verbose)
+
+    return df
+
+
+def clean(df, verbose=False):
+    """Clean a data frame of club transfers."""
+    def _get_fee_and_loan_status(x):
+        """Parse transfer fee and impute player loan status."""
+        # Unknown/missing values.
+        if x in "-?":
+            fee = 0
+            is_loan = False
+        # Free transfers.
+        elif x == "free transfer":
+            fee = 0
+            is_loan = False
+        # Loans with no fee.
+        elif x == "loan transfer" or x.startswith("End of loan"):
+            fee = 0
+            is_loan = True
+        # Loans with a fee.
+        elif x.startswith("Loan fee"):
+            fee = _parse_currency(x.split(':')[-1])
+            is_loan = True
+        # Transfers with a fee.
+        else:
+            fee = _parse_currency(x)
+            is_loan = False
+        
+        return fee, is_loan
+
+    def _parse_currency(x):
+        """Convert a currency string into a numeric value."""
+        # '-' denotes a missing value.
+        if x == '-':
+            return None
+        
+        # Drop the currency symbol and split the string into the numeric amount 
+        # and multiplier.
+        tokens = re.findall(r'[0-9.]+|[^0-9.]', x[1:])
+
+        # If there is no multiplier, e.g., the original string was "€1000",
+        # then the only token is the numeric value.
+        if len(tokens) == 1:
+            value = float(tokens[0])
+        else:
+            multipliers = {
+                "m": 1_000_000,
+                "k": 1_000
+            }
+            amount, power = float(tokens[0]), tokens[1]
+            value = amount * multipliers[power]
+        
+        return value
+
+    # Separate player names and IDs.
+    player_name, player_id = zip(*df.player)
+    df["player"] = player_name
+    df = df.rename(columns={"player": "player_name"})
+    df.insert(loc=4, column="player_id", value=player_id)
+
+    # Clean the market values and fees; impute loan status.
+    df["market_value"] = df.market_value.apply(_parse_currency)
+    df["fee"], df["is_loan"] = zip(*df.fee.map(_get_fee_and_loan_status))
+
+    # Convert ID and age from strings to ints.
+    for col in ("player_id", "age"):
+        df[col] = df[col].astype(int)
+    # Convert bools to ints.
+    for col in df.select_dtypes(include='bool').columns:
+        df[col] = df[col].astype(int)
+
+    # Sort the data alphabetically by club, then transfers in/out, then 
+    # summer/winter window.
+    df.sort_values([
+        "club",
+        "is_transfer_out",
+        "is_winter_window"
+    ], inplace=True)
+
+    if verbose:
+        print("Cleaned data.")
+
+    return df
+
+
+def save(df, filename, destination=DATA_DIR, verbose=False):
+    """Save the data as a CSV in the destination directory."""
+    output_dir = Path(destination)
+    output_dir.mkdir(parents=True, exist_ok=True)
+    df.to_csv(output_dir / filename, index=False, encoding="utf-8")
+    if verbose:
+        print(f"Saved {output_dir / filename}.")
+
+
+def _scrape_transfer_window(url, verbose=False):
     """Scrape all transfers in the given URL."""
     # GET the page. Try another user agent header if the request is denied.
-    headers = {"User-Agent": random_user_agent()}
-    response = httpx.get(url=url, headers=headers, timeout=10.0)
+    headers = {"User-Agent": _random_user_agent()}
+    response = httpx.get(url=url, headers=headers, timeout=30.0)
     while response.status_code != httpx.codes.ok:
-        headers["User-Agent"] = random_user_agent()
-        response = httpx.get(url=url, headers=headers, timeout=10.0)
+        headers["User-Agent"] = _random_user_agent()
+        response = httpx.get(url=url, headers=headers, timeout=30.0)
     if verbose:
         print(f"Status code {response.status_code}.")
 
@@ -44,7 +150,7 @@ def scrape_transfer_window(url, verbose=False):
     return soup
 
 
-def soup_to_df(soup, is_winter=False, verbose=False):
+def _soup_to_df(soup, is_winter=False, verbose=False):
     """Create a data frame from the soup of a scraped transfer window."""
     # Club names are h2 headers with the "content-box-headline--logo" class.
     clubs = [
@@ -132,19 +238,18 @@ def soup_to_df(soup, is_winter=False, verbose=False):
     # Merge the data.
     dfs = []
     for club, df_in, df_out in zip(clubs, dfs_in, dfs_out):
-        df_in = df_in.rename(columns=col_names)
+        df_in.rename(columns=col_names, inplace=True)
         df_in.insert(loc=0, column="club", value=club)
         df_in.insert(loc=1, column="is_transfer_out", value=False)
         df_in.insert(loc=2, column="is_winter_window", value=is_winter)
+        dfs.append(df_in)
 
-        df_out = df_out.rename(columns=col_names)
+        df_out.rename(columns=col_names, inplace=True)
         df_out.insert(loc=0, column="club", value=club)
         df_out.insert(loc=1, column="is_transfer_out", value=True)
         df_out.insert(loc=2, column="is_winter_window", value=is_winter)
+        dfs.append(df_out)
 
-        df = pd.concat([df_in, df_out])
-        dfs.append(df)
-    
     if verbose:
         current_window = "winter window" if is_winter else "summer window"
         print(f"Done with {current_window}.")
@@ -152,98 +257,7 @@ def soup_to_df(soup, is_winter=False, verbose=False):
     return pd.concat(dfs)
 
 
-def clean(df, verbose=False):
-    """Clean a data frame of club transfers."""
-    def get_fee_and_loan_status(x):
-        """Parse transfer fee and impute player loan status."""
-        # Unknown/missing values.
-        if x in "-?":
-            fee = 0
-            is_loan = False
-        # Free transfers.
-        elif x == "free transfer":
-            fee = 0
-            is_loan = False
-        # Loans with no fee.
-        elif x == "loan transfer" or x.startswith("End of loan"):
-            fee = 0
-            is_loan = True
-        # Loans with a fee.
-        elif x.startswith("Loan fee"):
-            fee = parse_currency(x.split(':')[-1])
-            is_loan = True
-        # Transfers with a fee.
-        else:
-            fee = parse_currency(x)
-            is_loan = False
-        
-        return fee, is_loan
-
-    def parse_currency(x):
-        """Convert a currency string into a numeric value."""
-        # '-' denotes a missing value.
-        if x == '-':
-            return None
-        
-        # Drop the currency symbol and split the string into the numeric amount 
-        # and multiplier.
-        tokens = re.findall(r'[0-9.]+|[^0-9.]', x[1:])
-
-        # If there is no multiplier, e.g., the original string was "€1000",
-        # then the only token is the numeric value.
-        if len(tokens) == 1:
-            value = float(tokens[0])
-        else:
-            multipliers = {
-                "m": 1_000_000,
-                "k": 1_000
-            }
-            amount, power = float(tokens[0]), tokens[1]
-            value = amount * multipliers[power]
-        
-        return value
-
-    # Separate player names and IDs.
-    player_name, player_id = zip(*df.player)
-    df["player"] = player_name
-    df = df.rename(columns={"player": "player_name"})
-    df.insert(loc=4, column="player_id", value=player_id)
-
-    # Clean the market values and fees; impute loan status.
-    df["market_value"] = df.market_value.apply(parse_currency)
-    df["fee"], df["is_loan"] = zip(*df.fee.map(get_fee_and_loan_status))
-
-    # Convert ID and age from strings to ints.
-    for col in ("player_id", "age"):
-        df[col] = df[col].astype(int)
-    # Convert bools to ints.
-    for col in df.select_dtypes(include='bool').columns:
-        df[col] = df[col].astype(int)
-
-    # Sort the data alphabetically by club, then transfers in/out, then 
-    # summer/winter window.
-    df.sort_values([
-        "club",
-        "is_transfer_out",
-        "is_winter_window"
-    ], inplace=True)
-
-    if verbose:
-        print("Cleaned data.")
-
-    return df
-
-
-def save(df, filename, destination=DATA_DIR, verbose=False):
-    """Save the data as a CSV in the destination directory."""
-    output_dir = Path(destination)
-    output_dir.mkdir(parents=True, exist_ok=True)
-    df.to_csv(output_dir / filename, index=False, encoding="utf-8")
-    if verbose:
-        print(f"Saved {output_dir / filename}.")
-
-
-def random_user_agent():
+def _random_user_agent():
     """Choose a random user agent for request headers."""
     return random.choice(USER_AGENTS)
 
@@ -280,10 +294,6 @@ if __name__ == "__main__":
         urls.append(url)
 
     # Read, parse, clean, and save the data.
-    soups = [scrape_transfer_window(url, verbose=VERBOSE) for url in urls]
-    data = pd.concat([
-        soup_to_df(soup, is_winter, verbose=VERBOSE)
-        for soup, is_winter in zip(soups, (False, True))
-    ])
+    data = pd.concat([scrape(url, verbose=VERBOSE) for url in urls])
     data = clean(data, verbose=VERBOSE)
     save(data, "transfers.csv", destination=DATA_DIR, verbose=VERBOSE)
