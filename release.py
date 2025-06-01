@@ -1,3 +1,10 @@
+"""
+Archiving Transfermarkt transfer data
+
+This script compresses the saved transfer data to TAR and ZIP files. This is a 
+utility script to be used for GitHub releases and sharing the data online.
+"""
+
 import shutil
 from pathlib import Path
 from main import DATA_DIR

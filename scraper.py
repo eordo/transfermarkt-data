@@ -1,4 +1,9 @@
-"""Transfermarkt Transfer Scraper"""
+"""
+Transfermarkt transfer scraper
+
+This file provides a class for web scraping player transfer records from 
+Transfermarkt.
+"""
 
 import random
 import re
@@ -9,18 +14,43 @@ from bs4 import BeautifulSoup
 
 
 class Scraper:
+    """
+    A web scraper for Transfermarkt transfers.
+
+    An instance of this class corresponds to one league, and it can scrape 
+    multiple transfer windows over multiple seasons of that league. It also 
+    has methods for cleaning and saving the scraped data to a CSV.
+
+    Attributes:
+        origin (str): URL of the league's transfer summary for the most recent 
+            season.
+        queries (dict): URL query key-value pairs.
+    """
+    # This scraper only scrapes the international version of the site.
     _URL_BASE = "https://www.transfermarkt.com"
     _USER_AGENTS = [
         "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/115.0.0.0",
         "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15) Firefox/113.0",
         "Mozilla/5.0 (X11; Linux x86_64) Chrome/113.0.0.0"
     ]
+    # URL query keys are in German.
     _QUERY_SEASON_ID = "saison_id"
     _QUERY_WINDOWS = "s_w"
     _QUERY_LOANS = "leihe"
     _QUERY_INTERNAL_MOVEMENTS = "intern"
 
     def __init__(self, league="premier-league", level="GB1"):
+        """
+        Initialize a new scraper.
+
+        The league and level must match Transfermarkt's unique identifiers for 
+        a league's name and its level in the pyramid. The default constructor 
+        is for the English Premier League.
+
+        Args:
+            league (str): Name of the league.
+            level (str): Level of the league in its national pyramid.
+        """
         self.origin = '/'.join([
             self._URL_BASE,
             league,
@@ -36,6 +66,29 @@ class Scraper:
         }
 
     def create_url(self, season, window):
+        """
+        Create the URL of the Transfermarkt transfers page for the input season
+        and window.
+
+        Calling this function also updates the season and window in the queries 
+        dict.
+
+        Args:
+            season (int or str): Year in which the league season begins.
+            window (str): Either `s` (summer) or `w` (winter).
+        
+        Returns:
+            url (str): URL of the transfers page.
+        
+        Raises:
+            ValueError: If `season` is not a year.
+            ValueError: If `window` is not one of `s` or `w`.
+        """
+        if not float(season).is_integer():
+            raise ValueError("season must be a year")
+        if window not in ('s', 'w'):
+            raise ValueError("window must be either 's' or 'w'")
+        
         self.queries[self._QUERY_SEASON_ID] = season
         self.queries[self._QUERY_WINDOWS] = window
         query_string = '&'.join(f'{k}={v}' for k, v in self.queries.items())
@@ -43,20 +96,34 @@ class Scraper:
         return url
 
     def scrape(self, url, verbose=False):
-        """Scrape a Transfermarkt URL and return a data frame."""
-        def _is_winter(url):
-            """Return whether the URL is for a winter transfer window."""
-            window_query = "s_w="
-            window = url[url.find(window_query) + len(window_query)]
-            return window == 'w'
-            
+        """
+        Scrape a Transfermarkt transfers page and return the parsed data.
+        
+        Args:
+            url (str): URL of the page to scrape.
+            verbose (bool): Whether to print progress statements.
+
+        Returns:
+            pd.DataFrame: The scraped data.
+        """            
         soup = self._scrape_transfer_window(url, verbose=verbose)
-        is_winter = _is_winter(url)
+        is_winter = self.queries[self._QUERY_WINDOWS] == 'w'
         df = self._soup_to_df(soup, is_winter=is_winter, verbose=verbose)
         return df
 
     def clean(self, df, verbose=False):
-        """Clean a data frame of club transfers."""
+        """
+        Clean a data frame of club transfers.
+
+        This function must be used with the unmodified output of `scrape`.
+        
+        Args:
+            df (pd.DataFrame): The scraped data.
+            verbose (bool): Whether to print progress statements.
+
+        Returns:
+            pd.DataFrame: The cleaned data.
+        """
         def _get_fee_and_loan_status(x):
             """Parse transfer fee and impute player loan status."""
             # Unknown/missing values.
@@ -137,7 +204,15 @@ class Scraper:
         return df
 
     def save(self, df, filename, destination=".", verbose=False):
-        """Save the data as a CSV in the destination directory."""
+        """
+        Save the data as a CSV in the destination directory.
+
+        Args:
+            df (pd.DataFrame): Data to save.
+            filename (str): CSV file name, with extension.
+            destination (str or Path): Directory in which to save `df`.
+            verbose (bool): Whether to print progress statements.
+        """
         output_dir = Path(destination)
         output_dir.mkdir(parents=True, exist_ok=True)
         df.to_csv(output_dir / filename, index=False, encoding="utf-8")
@@ -145,7 +220,7 @@ class Scraper:
             print(f"Saved {output_dir / filename}.")
 
     def _scrape_transfer_window(self, url, verbose=False):
-        """Scrape all transfers in the given URL."""
+        """Scrape all transfers listed on the page at the input URL."""
         # GET the page. Try another user agent header if the request is denied.
         headers = {"User-Agent": self._random_user_agent()}
         response = httpx.get(url=url, headers=headers, timeout=30.0)
