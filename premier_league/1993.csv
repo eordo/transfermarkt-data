@@ -1,0 +1,380 @@
+season,league,club,window,movement,player_name,player_id,age,nationality,position,pos,market_value,dealing_club,dealing_country,fee,is_loan
+1993,Premier League,Arsenal FC,summer,in,Eddie McGoldrick,102491,28,Ireland,Central Midfield,CM,,Crystal Palace,England,1280000.0,0
+1993,Premier League,Arsenal FC,summer,out,David O'Leary,104109,35,Ireland,Centre-Back,CB,,Leeds United,England,0.0,0
+1993,Premier League,Arsenal FC,summer,out,Colin Pates,176755,31,England,Centre-Back,CB,,Brighton & Hove Albion,England,0.0,0
+1993,Premier League,Arsenal FC,summer,out,John Bacon,587360,20,Ireland,Centre-Forward,CF,,Shamrock Rovers,Ireland,0.0,0
+1993,Premier League,Arsenal FC,summer,out,Jason Brissett,893096,18,England,Left Midfield,LM,,Peterborough United,England,0.0,0
+1993,Premier League,Arsenal FC,summer,out,Paul Dickov,9221,20,Scotland,Centre-Forward,CF,,Luton Town,England,0.0,1
+1993,Premier League,Arsenal FC,winter,out,Anders Limpar,101098,28,Sweden,Central Midfield,CM,,Everton FC,England,1900000.0,0
+1993,Premier League,Arsenal FC,winter,out,Neil Heaney,21265,22,England,Left Winger,LW,,Southampton FC,England,380000.0,0
+1993,Premier League,Arsenal FC,winter,out,Pål Lydersen,142511,28,Norway,Left-Back,LB,,IK Start,Norway,0.0,1
+1993,Premier League,Arsenal FC,winter,out,Paul Dickov,9221,21,Scotland,Centre-Forward,CF,,Brighton & Hove Albion,England,0.0,1
+1993,Premier League,Aston Villa,summer,in,Andy Townsend,102498,29,Ireland,Central Midfield,CM,,Chelsea FC,England,2400000.0,0
+1993,Premier League,Aston Villa,summer,in,Guy Whittingham,106806,28,England,Centre-Forward,CF,,Portsmouth FC,England,1800000.0,0
+1993,Premier League,Aston Villa,summer,in,Gordon Cowans,193796,34,England,Central Midfield,CM,,Blackburn Rovers,England,0.0,0
+1993,Premier League,Aston Villa,winter,in,Scott Murray,13417,19,Scotland,Right Winger,RW,,Fraserburgh FC,Scotland,50000.0,0
+1993,Premier League,Aston Villa,summer,out,Mark Blake,222489,22,England,Central Midfield,CM,,Portsmouth FC,England,501000.0,0
+1993,Premier League,Aston Villa,summer,out,Martin Carruthers,20761,20,England,Centre-Forward,CF,,Stoke City,England,420000.0,0
+1993,Premier League,Aston Villa,summer,out,Cyrille Regis,222304,35,England,Centre-Forward,CF,,Wolverhampton Wanderers,England,0.0,0
+1993,Premier League,Aston Villa,summer,out,Chris Boden,227856,20,England,Left-Back,LB,,Barnsley FC,England,0.0,1
+1993,Premier League,Aston Villa,summer,out,Henrik Larsen,101330,27,Denmark,Attacking Midfield,AM,,AC Pisa 1909,Italy,0.0,1
+1993,Premier League,Aston Villa,winter,out,Gordon Cowans,193796,35,England,Central Midfield,CM,,Derby County,England,230000.0,0
+1993,Premier League,Aston Villa,winter,out,Michael Oakes,4237,20,England,Goalkeeper,GK,,Scarborough FC (- 2007),England,0.0,1
+1993,Premier League,Aston Villa,winter,out,Graham Fenton,97931,19,England,Centre-Forward,CF,,West Bromwich Albion,England,0.0,1
+1993,Premier League,Aston Villa,winter,out,Lee Williams,321025,21,England,Central Midfield,CM,,Peterborough United,England,,0
+1993,Premier League,Aston Villa,winter,out,Guy Whittingham,106806,29,England,Centre-Forward,CF,,Wolverhampton Wanderers,England,0.0,1
+1993,Premier League,Aston Villa,winter,out,Dariusz Kubicki,117233,30,Poland,Right-Back,RB,,Sunderland AFC,England,0.0,1
+1993,Premier League,Blackburn Rovers,summer,in,David Batty,3295,24,England,Defensive Midfield,DM,,Leeds United,England,3780000.0,0
+1993,Premier League,Blackburn Rovers,summer,in,Paul Warhurst,3307,23,England,Central Midfield,CM,,Sheffield Wednesday,England,3750000.0,0
+1993,Premier League,Blackburn Rovers,summer,in,Andy Morrison,175898,23,Scotland,Centre-Back,CB,,Plymouth Argyle,England,500000.0,0
+1993,Premier League,Blackburn Rovers,summer,in,Ian Pearce,3879,19,England,Centre-Back,CB,,Chelsea FC,England,450000.0,0
+1993,Premier League,Blackburn Rovers,winter,in,Tim Flowers,4249,26,England,Goalkeeper,GK,,Southampton FC,England,3800000.0,0
+1993,Premier League,Blackburn Rovers,summer,out,Tony Dobson,226876,24,England,Left-Back,LB,,Portsmouth FC,England,188000.0,0
+1993,Premier League,Blackburn Rovers,summer,out,Gordon Cowans,193796,34,England,Central Midfield,CM,,Aston Villa,England,0.0,0
+1993,Premier League,Blackburn Rovers,summer,out,Wayne Burnett,306884,21,England,Central Midfield,CM,,Plymouth Argyle,England,0.0,0
+1993,Premier League,Blackburn Rovers,summer,out,Mickey Evans,222258,20,Ireland,Centre-Forward,CF,,Plymouth Argyle,England,0.0,1
+1993,Premier League,Blackburn Rovers,winter,out,Patrik Andersson,191,22,Sweden,Centre-Back,CB,,Borussia Mönchengladbach,Germany,550000.0,0
+1993,Premier League,Blackburn Rovers,winter,out,Rob Dewhurst,1124008,22,England,Centre-Back,CB,,Hull City,England,0.0,0
+1993,Premier League,Blackburn Rovers,winter,out,Peter Thorne,12724,20,England,Centre-Forward,CF,,Wigan Athletic,England,0.0,1
+1993,Premier League,Blackburn Rovers,winter,out,Simon Ireland,239915,22,England,Right Winger,RW,,Mansfield Town,England,0.0,1
+1993,Premier League,Chelsea FC,summer,in,Gavin Peacock,175582,25,England,Central Midfield,CM,,Newcastle United,England,1700000.0,0
+1993,Premier League,Chelsea FC,summer,in,Mark Stein,107104,27,England,Centre-Forward,CF,,Stoke City,England,1660000.0,0
+1993,Premier League,Chelsea FC,summer,in,Jakob Kjeldbjerg,175581,23,Denmark,Centre-Back,CB,,Silkeborg IF,Denmark,480000.0,0
+1993,Premier League,Chelsea FC,summer,in,Andy Dow,170389,20,Scotland,Centre-Back,CB,,Dundee FC,Scotland,300000.0,0
+1993,Premier League,Chelsea FC,summer,in,Glenn Hoddle,117193,35,England,Attacking Midfield,AM,,Swindon Town,England,86000.0,0
+1993,Premier League,Chelsea FC,summer,out,Andy Townsend,102498,29,Ireland,Central Midfield,CM,,Aston Villa,England,2400000.0,0
+1993,Premier League,Chelsea FC,summer,out,Graham Stuart,3334,22,England,Right Winger,RW,,Everton FC,England,1280000.0,0
+1993,Premier League,Chelsea FC,summer,out,Ian Pearce,3879,19,England,Centre-Back,CB,,Blackburn Rovers,England,450000.0,0
+1993,Premier League,Chelsea FC,summer,out,Steve Livingstone,176815,24,England,Centre-Forward,CF,,Grimsby Town,England,150000.0,0
+1993,Premier League,Chelsea FC,summer,out,Paul Elliott,222499,30,England,Centre-Back,CB,,Retired,,,0
+1993,Premier League,Chelsea FC,summer,out,Nick Colgan,12690,20,Ireland,Goalkeeper,GK,,Crewe Alexandra,England,0.0,1
+1993,Premier League,Chelsea FC,summer,out,Anthony Barness,3288,20,England,Left-Back,LB,,Middlesbrough FC,England,0.0,1
+1993,Premier League,Chelsea FC,summer,out,Steve Livingstone,176815,23,England,Centre-Forward,CF,,Port Vale FC,England,0.0,1
+1993,Premier League,Chelsea FC,winter,out,Dave Beasant,10384,34,England,Goalkeeper,GK,,Southampton FC,England,380000.0,0
+1993,Premier League,Chelsea FC,winter,out,Damian Matthew,222518,23,England,Central Midfield,CM,,Crystal Palace,England,187000.0,0
+1993,Premier League,Chelsea FC,winter,out,Zeke Rowe,1308792,20,England,Centre-Forward,CF,,Barnet FC,England,0.0,1
+1993,Premier League,Coventry City,summer,in,Mick Harford,176806,34,England,Centre-Forward,CF,,Sunderland AFC,England,225000.0,0
+1993,Premier League,Coventry City,summer,in,Paul Williams,229054,23,England,Left-Back,LB,,Stockport County,England,185000.0,0
+1993,Premier League,Coventry City,summer,in,Julian Darby,222497,25,England,Central Midfield,CM,,Bolton Wanderers,England,180000.0,0
+1993,Premier League,Coventry City,summer,in,Steve Morgan,222522,24,England,Left-Back,LB,,Plymouth Argyle,England,135000.0,0
+1993,Premier League,Coventry City,summer,in,John Gayle,232905,29,England,Centre-Forward,CF,,Birmingham City,England,120000.0,0
+1993,Premier League,Coventry City,summer,in,Ally Pickering,222528,26,England,Right-Back,RB,,Rotherham United,England,100000.0,0
+1993,Premier League,Coventry City,summer,in,Tim Dalton,214884,27,Ireland,Goalkeeper,GK,,Ernest Borel (dissolved),Hongkong,,0
+1993,Premier League,Coventry City,summer,in,Zbigniew Kruszyński,112262,32,Poland,Central Midfield,CM,,Brentford FC,England,,0
+1993,Premier League,Coventry City,summer,in,Lee Hirst,1376706,24,England,Centre-Back,CB,,Scarborough FC (- 2007),England,,0
+1993,Premier League,Coventry City,winter,in,Sandy Robertson,180246,22,Scotland,Central Midfield,CM,,Rangers FC,Scotland,375000.0,0
+1993,Premier League,Coventry City,winter,in,Chris Marsden,4117,24,England,Central Midfield,CM,,Huddersfield Town,England,0.0,1
+1993,Premier League,Coventry City,summer,out,Andy Pearce,222527,27,England,Centre-Back,CB,,Sheffield Wednesday,England,600000.0,0
+1993,Premier League,Coventry City,summer,out,Peter Billing,222486,28,England,Centre-Back,CB,,Port Vale FC,England,40000.0,0
+1993,Premier League,Coventry City,summer,out,Steve Williams,103766,18,Wales,Goalkeeper,GK,,Cardiff City,England,0.0,0
+1993,Premier League,Coventry City,summer,out,Karl Wilson,680114,19,Ireland,Central Midfield,CM,,Shelbourne FC,Ireland,0.0,0
+1993,Premier League,Coventry City,summer,out,Martyn Booty,106366,22,England,Right-Back,RB,,Crewe Alexandra,England,0.0,0
+1993,Premier League,Coventry City,summer,out,Terry Fleming,226771,20,England,Central Midfield,CM,,Northampton Town,England,0.0,0
+1993,Premier League,Coventry City,summer,out,Craig Middleton,238088,22,England,Central Midfield,CM,,Cambridge United,England,0.0,0
+1993,Premier League,Coventry City,summer,out,Billy Woods,34631,19,Ireland,Left Winger,LW,,Cork City FC,Ireland,0.0,0
+1993,Premier League,Coventry City,summer,out,Micky Gynn,222506,31,England,Central Midfield,CM,,Stoke City,England,,0
+1993,Premier League,Coventry City,summer,out,Tim Dalton,214884,27,Ireland,Goalkeeper,GK,,Bangor FC,Northern Ireland,,0
+1993,Premier League,Coventry City,summer,out,Stewart Robson,176722,29,England,Central Midfield,CM,,Retired,,,0
+1993,Premier League,Coventry City,summer,out,Brian Borrows,177179,32,England,Right-Back,RB,,Bristol City,England,0.0,1
+1993,Premier League,Coventry City,winter,out,Ray Woods,373616,28,England,Right Winger,RW,,Shrewsbury Town,England,0.0,0
+1993,Premier League,Coventry City,winter,out,Zbigniew Kruszyński,112262,33,Poland,Central Midfield,CM,,Peterborough United,England,,0
+1993,Premier League,Coventry City,winter,out,Lee Hirst,1376706,24,England,Centre-Back,CB,,Lincoln City,England,0.0,1
+1993,Premier League,Coventry City,winter,out,Paul Williams,229054,24,England,Left-Back,LB,,West Bromwich Albion,England,0.0,1
+1993,Premier League,Coventry City,winter,out,Chris Marsden,4117,25,England,Central Midfield,CM,,Huddersfield Town,England,0.0,1
+1993,Premier League,Everton FC,summer,in,Graham Stuart,3334,22,England,Right Winger,RW,,Chelsea FC,England,1280000.0,0
+1993,Premier League,Everton FC,summer,in,Brett Angell,177256,25,England,Centre-Forward,CF,,Southend United,England,0.0,1
+1993,Premier League,Everton FC,winter,in,Anders Limpar,101098,28,Sweden,Central Midfield,CM,,Arsenal FC,England,1900000.0,0
+1993,Premier League,Everton FC,winter,in,Brett Angell,177256,25,England,Centre-Forward,CF,,Southend United,England,500000.0,0
+1993,Premier League,Everton FC,winter,in,Joe Parkinson,177273,22,England,Central Midfield,CM,,AFC Bournemouth,England,375000.0,0
+1993,Premier League,Everton FC,winter,in,Gary Rowett,4102,19,England,Right-Back,RB,,Cambridge United,England,280000.0,0
+1993,Premier League,Everton FC,winter,in,Brett Angell,177256,25,England,Centre-Forward,CF,,Southend United,England,0.0,1
+1993,Premier League,Everton FC,summer,out,Peter Beardsley,102030,32,England,Second Striker,SS,,Newcastle United,England,1700000.0,0
+1993,Premier League,Everton FC,summer,out,Mo Johnston,29914,30,Scotland,Centre-Forward,CF,,Heart of Midlothian FC,Scotland,0.0,0
+1993,Premier League,Everton FC,summer,out,Iain Jenkins,170392,20,Northern Ireland,Right-Back,RB,,Chester City (- 2010),England,0.0,0
+1993,Premier League,Everton FC,summer,out,Alan Harper,226890,32,England,Centre-Back,CB,,Luton Town,England,0.0,0
+1993,Premier League,Everton FC,summer,out,Brett Angell,177256,25,England,Centre-Forward,CF,,Southend United,England,0.0,1
+1993,Premier League,Everton FC,winter,out,Peter Beagrie,138385,28,England,Left Winger,LW,,Manchester City,England,1700000.0,0
+1993,Premier League,Everton FC,winter,out,Mark Ward,177143,31,England,Right Winger,RW,,Birmingham City,England,750000.0,0
+1993,Premier League,Everton FC,winter,out,Billy Kenny,237558,20,England,Central Midfield,CM,,Without Club,,,0
+1993,Premier League,Everton FC,winter,out,Brett Angell,177256,25,England,Centre-Forward,CF,,Southend United,England,0.0,1
+1993,Premier League,Ipswich Town,summer,in,Stuart Slater,224420,24,England,Left Winger,LW,,Celtic FC,Scotland,1200000.0,0
+1993,Premier League,Ipswich Town,summer,in,Ian Marshall,107794,27,England,Centre-Back,CB,,Oldham Athletic,England,1130000.0,0
+1993,Premier League,Ipswich Town,summer,in,Paul Mason,134345,29,England,Central Midfield,CM,,Aberdeen FC,Scotland,600000.0,0
+1993,Premier League,Ipswich Town,summer,out,Jason Dozzell,223226,25,England,Central Midfield,CM,,Tottenham Hotspur,England,2400000.0,0
+1993,Premier League,Ipswich Town,summer,out,Vlado Bozinovski,225302,29,Australia,Central Midfield,CM,,FC Paços de Ferreira,Portugal,,0
+1993,Premier League,Ipswich Town,winter,out,Steve Whitton,225378,33,England,Central Midfield,CM,,Colchester United,England,13000.0,0
+1993,Premier League,Ipswich Town,winter,out,Neil Gregory,229022,21,Zambia,Centre-Forward,CF,,Chesterfield FC,England,0.0,1
+1993,Premier League,Leeds United,summer,in,Brian Deane,8058,25,England,Centre-Forward,CF,,Sheffield United,England,4350000.0,0
+1993,Premier League,Leeds United,summer,in,David O'Leary,104109,35,Ireland,Centre-Back,CB,,Arsenal FC,England,0.0,0
+1993,Premier League,Leeds United,winter,in,David White,177060,26,England,Right Winger,RW,,Manchester City,England,3000000.0,0
+1993,Premier League,Leeds United,winter,in,John Pemberton,223245,28,England,Centre-Back,CB,,Sheffield United,England,313000.0,0
+1993,Premier League,Leeds United,summer,out,David Batty,3295,24,England,Defensive Midfield,DM,,Blackburn Rovers,England,3780000.0,0
+1993,Premier League,Leeds United,summer,out,Dylan Kerr,170377,26,Malta,Left-Back,LB,,Reading FC,England,883000.0,0
+1993,Premier League,Leeds United,summer,out,David Kerslake,223238,27,England,Right-Back,RB,,Tottenham Hotspur,England,563000.0,0
+1993,Premier League,Leeds United,summer,out,Lee Chapman,175862,33,England,Centre-Forward,CF,,Portsmouth FC,England,313000.0,0
+1993,Premier League,Leeds United,summer,out,Chris Whyte,175891,31,England,Centre-Back,CB,,Birmingham City,England,300000.0,0
+1993,Premier League,Leeds United,summer,out,Carl Shutt,175889,31,England,Centre-Forward,CF,,Birmingham City,England,60000.0,0
+1993,Premier League,Leeds United,summer,out,Mervyn Day,222734,38,England,Goalkeeper,GK,,Carlisle United,England,,0
+1993,Premier League,Leeds United,winter,out,David Rocastle,175583,26,England,Attacking Midfield,AM,,Manchester City,England,2400000.0,0
+1993,Premier League,Leeds United,winter,out,Frank Strandli,172184,21,Norway,Centre-Forward,CF,,SK Brann,Norway,0.0,1
+1993,Premier League,Leeds United,winter,out,Ray Wallace,223257,24,England,Central Midfield,CM,,Reading FC,England,0.0,1
+1993,Premier League,Liverpool FC,summer,in,Neil Ruddock,3487,25,England,Centre-Back,CB,,Tottenham Hotspur,England,3000000.0,0
+1993,Premier League,Liverpool FC,summer,in,Nigel Clough,101322,27,England,Attacking Midfield,AM,,Nottingham Forest,England,2750000.0,0
+1993,Premier League,Liverpool FC,summer,in,Julian Dicks,107806,25,England,Left-Back,LB,,West Ham United,England,2250000.0,0
+1993,Premier League,Liverpool FC,winter,in,Mark Gayle,145767,24,England,Goalkeeper,GK,,Crewe Alexandra,England,0.0,1
+1993,Premier League,Liverpool FC,summer,out,Mike Hooper,175869,29,England,Goalkeeper,GK,,Newcastle United,England,628000.0,0
+1993,Premier League,Liverpool FC,summer,out,István Kozma,176436,28,Hungary,Central Midfield,CM,,Újpesti TE,Hungary,0.0,0
+1993,Premier League,Liverpool FC,summer,out,Mike Marsh,222517,24,England,Right Midfield,RM,,West Ham United,England,0.0,0
+1993,Premier League,Liverpool FC,summer,out,David Burrows,109481,24,England,Left-Back,LB,,West Ham United,England,,0
+1993,Premier League,Liverpool FC,summer,out,Steve Harkness,107196,22,England,Left-Back,LB,,Huddersfield Town,England,0.0,1
+1993,Premier League,Liverpool FC,summer,out,Lee Jones,222092,20,Wales,Centre-Forward,CF,,Crewe Alexandra,England,0.0,1
+1993,Premier League,Liverpool FC,winter,out,Ronny Rosenthal,141047,30,Israel,Left Winger,LW,,Tottenham Hotspur,England,300000.0,0
+1993,Premier League,Liverpool FC,winter,out,Paul Stewart,145778,29,England,Centre-Forward,CF,,Crystal Palace,England,0.0,1
+1993,Premier League,Liverpool FC,winter,out,Mark Walters,180242,29,England,Left Midfield,LM,,Stoke City,England,0.0,1
+1993,Premier League,Liverpool FC,winter,out,Nick Tanner,222097,28,England,Centre-Back,CB,,Retired,,,0
+1993,Premier League,Liverpool FC,winter,out,Stig Inge Bjørnebye,102510,24,Norway,Left-Back,LB,,Rosenborg BK,Norway,0.0,1
+1993,Premier League,Liverpool FC,winter,out,Mark Gayle,145767,24,England,Goalkeeper,GK,,Crewe Alexandra,England,0.0,1
+1993,Premier League,Manchester City,summer,in,Alan Kernaghan,14619,26,Ireland,Centre-Back,CB,,Middlesbrough FC,England,2400000.0,0
+1993,Premier League,Manchester City,summer,in,Carl Griffiths,222217,21,Wales,Centre-Forward,CF,,Shrewsbury Town,England,600000.0,0
+1993,Premier League,Manchester City,summer,in,Alfons Groenendijk,149294,29,Netherlands,Central Midfield,CM,,Ajax Amsterdam,Netherlands,341000.0,0
+1993,Premier League,Manchester City,winter,in,David Rocastle,175583,26,England,Attacking Midfield,AM,,Leeds United,England,2400000.0,0
+1993,Premier League,Manchester City,winter,in,Peter Beagrie,138385,28,England,Left Winger,LW,,Everton FC,England,1700000.0,0
+1993,Premier League,Manchester City,winter,in,Uwe Rösler,1440,25,Germany,Centre-Forward,CF,,1.FC Nuremberg,Germany,1000000.0,0
+1993,Premier League,Manchester City,winter,in,Paul Walsh,202797,31,England,Centre-Forward,CF,,Portsmouth FC,England,850000.0,0
+1993,Premier League,Manchester City,winter,in,Steffen Karl,1542,23,Germany,Central Midfield,CM,,Borussia Dortmund,Germany,0.0,1
+1993,Premier League,Manchester City,winter,in,Carl Shutt,175889,32,England,Centre-Forward,CF,,Birmingham City,England,0.0,1
+1993,Premier League,Manchester City,summer,out,Rick Holden,222221,29,England,Left Winger,LW,,Oldham Athletic,England,675000.0,0
+1993,Premier League,Manchester City,summer,out,Peter Reid,79806,37,England,Defensive Midfield,DM,,Southampton FC,England,0.0,0
+1993,Premier League,Manchester City,summer,out,Ray Ranson,176930,33,England,Right-Back,RB,,Reading FC,England,,0
+1993,Premier League,Manchester City,summer,out,Kåre Ingebrigtsen,173071,27,Norway,Defensive Midfield,DM,,Rosenborg BK,Norway,0.0,1
+1993,Premier League,Manchester City,summer,out,Kåre Ingebrigtsen,173071,28,Norway,Defensive Midfield,DM,,Strømsgodset IF,Norway,0.0,1
+1993,Premier League,Manchester City,winter,out,David White,177060,26,England,Right Winger,RW,,Leeds United,England,3000000.0,0
+1993,Premier League,Manchester City,winter,out,Martyn Margetson,12718,22,Wales,Goalkeeper,GK,,Bristol Rovers,England,0.0,1
+1993,Premier League,Manchester City,winter,out,Martyn Margetson,12718,22,Wales,Goalkeeper,GK,,Bolton Wanderers,England,0.0,1
+1993,Premier League,Manchester City,winter,out,Carl Shutt,175889,32,England,Centre-Forward,CF,,Birmingham City,England,0.0,1
+1993,Premier League,Manchester United,summer,in,Roy Keane,3396,21,Ireland,Central Midfield,CM,,Nottingham Forest,England,4400000.0,0
+1993,Premier League,Manchester United,summer,out,Danny Wallace,176635,29,England,Left Winger,LW,,Birmingham City,England,300000.0,0
+1993,Premier League,Manchester United,summer,out,Brian Carey,176022,25,Ireland,Centre-Back,CB,,Leicester City,England,293000.0,0
+1993,Premier League,Manchester United,summer,out,Russell Beardsmore,176624,24,England,Central Midfield,CM,,AFC Bournemouth,England,0.0,0
+1993,Premier League,Manchester United,summer,out,Keith Gillespie,3827,18,Northern Ireland,Right Midfield,RM,,Wigan Athletic,England,0.0,1
+1993,Premier League,Manchester United,summer,out,Neil Whitworth,170379,21,England,Centre-Back,CB,,Rotherham United,England,0.0,1
+1993,Premier League,Manchester United,winter,out,Darren Ferguson,36737,21,Scotland,Central Midfield,CM,,Wolverhampton Wanderers,England,375000.0,0
+1993,Premier League,Manchester United,winter,out,Lee Martin,176025,25,England,Left-Back,LB,,Celtic FC,Scotland,,0
+1993,Premier League,Manchester United,winter,out,Gary Walsh,13547,25,England,Goalkeeper,GK,,Oldham Athletic,England,0.0,1
+1993,Premier League,Manchester United,winter,out,Neil Whitworth,170379,21,England,Centre-Back,CB,,Blackpool FC,England,0.0,1
+1993,Premier League,Manchester United,winter,out,Simon Davies,176012,19,Wales,Central Midfield,CM,,Exeter City,England,0.0,1
+1993,Premier League,Newcastle United,summer,in,Peter Beardsley,102030,32,England,Second Striker,SS,,Everton FC,England,1700000.0,0
+1993,Premier League,Newcastle United,summer,in,Mike Hooper,175869,29,England,Goalkeeper,GK,,Liverpool FC,England,628000.0,0
+1993,Premier League,Newcastle United,summer,in,Malcolm Allen,181599,26,Wales,Centre-Forward,CF,,Millwall FC,England,350000.0,0
+1993,Premier League,Newcastle United,summer,in,Alex Mathie,170394,24,Scotland,Centre-Forward,CF,,Greenock Morton FC,Scotland,320000.0,0
+1993,Premier League,Newcastle United,summer,in,Nikodimos Papavasiliou,170797,22,Cyprus,Central Midfield,CM,,OFI Crete FC,Greece,180000.0,0
+1993,Premier League,Newcastle United,summer,in,Michael Jeffrey,207269,22,England,Centre-Forward,CF,,Doncaster Rovers,England,60000.0,0
+1993,Premier League,Newcastle United,summer,in,John Burridge,228060,41,England,Goalkeeper,GK,,Hibernian FC,Scotland,0.0,0
+1993,Premier League,Newcastle United,summer,in,Steve Harper,3562,18,England,Goalkeeper,GK,,Seaham Red Star,England,0.0,0
+1993,Premier League,Newcastle United,summer,in,Peter Cormack,1319083,19,Scotland,Centre-Back,CB,,Meadowbank Thistle FC,Scotland,0.0,0
+1993,Premier League,Newcastle United,winter,in,Darren Peacock,107099,26,England,Centre-Back,CB,,Queens Park Rangers,England,5000000.0,0
+1993,Premier League,Newcastle United,winter,in,Ruel Fox,104904,26,Montserrat,Central Midfield,CM,,Norwich City,England,2500000.0,0
+1993,Premier League,Newcastle United,winter,in,Chris Holland,34608,18,England,Defensive Midfield,DM,,Preston North End,England,119000.0,0
+1993,Premier League,Newcastle United,winter,in,Brian Reid,14808,23,Scotland,Centre-Back,CB,,Rangers FC,Scotland,0.0,1
+1993,Premier League,Newcastle United,summer,out,Gavin Peacock,175582,25,England,Central Midfield,CM,,Chelsea FC,England,1700000.0,0
+1993,Premier League,Newcastle United,summer,out,David Kelly,102499,27,Ireland,Centre-Forward,CF,,Wolverhampton Wanderers,England,829000.0,0
+1993,Premier League,Newcastle United,summer,out,Tommy Wright,206780,29,Northern Ireland,Goalkeeper,GK,,Nottingham Forest,England,675000.0,0
+1993,Premier League,Newcastle United,summer,out,Alan Thompson,3485,19,England,Left Midfield,LM,,Bolton Wanderers,England,375000.0,0
+1993,Premier League,Newcastle United,summer,out,Mark Stimson,884504,25,England,Left-Back,LB,,Portsmouth FC,England,115000.0,0
+1993,Premier League,Newcastle United,summer,out,David Roche,954527,22,England,Central Midfield,CM,,Doncaster Rovers,England,100000.0,0
+1993,Premier League,Newcastle United,summer,out,Kevin Sheedy,104111,33,Ireland,Left Midfield,LM,,Blackpool FC,England,0.0,0
+1993,Premier League,Newcastle United,summer,out,John Burridge,228060,41,England,Goalkeeper,GK,,Scarborough FC (- 2007),England,0.0,0
+1993,Premier League,Newcastle United,summer,out,John Watson,1017120,19,England,Right Winger,RW,,Scunthorpe United,England,0.0,0
+1993,Premier League,Newcastle United,summer,out,Brian Reid,14808,23,Scotland,Centre-Back,CB,,Rangers FC,Scotland,0.0,1
+1993,Premier League,Newcastle United,winter,out,Kevin Scott,222741,27,England,Centre-Back,CB,,Tottenham Hotspur,England,1100000.0,0
+1993,Premier League,Newcastle United,winter,out,Liam O'Brien,118342,29,Ireland,Defensive Midfield,DM,,Tranmere Rovers,England,425000.0,0
+1993,Premier League,Newcastle United,winter,out,Brian Kilcline,224179,31,England,Centre-Back,CB,,Swindon Town,England,113000.0,0
+1993,Premier League,Newcastle United,winter,out,Matty Appleby,195172,21,England,Central Midfield,CM,,Darlington FC (- 2012),England,0.0,1
+1993,Premier League,Newcastle United,winter,out,Kevin Brock,466667,31,England,Central Midfield,CM,,Cardiff City,England,0.0,1
+1993,Premier League,Norwich City,summer,in,Scott Howie,105170,21,Scotland,Goalkeeper,GK,,Clyde FC,Scotland,450000.0,0
+1993,Premier League,Norwich City,summer,in,Spencer Prior,12722,22,England,Centre-Back,CB,,Southend United,England,250000.0,0
+1993,Premier League,Norwich City,winter,in,Neil Adams,222481,28,England,Right Winger,RW,,Oldham Athletic,England,375000.0,0
+1993,Premier League,Norwich City,summer,out,David Phillips,168585,30,Wales,Right Midfield,RM,,Nottingham Forest,England,500000.0,0
+1993,Premier League,Norwich City,summer,out,Mark Peters,66499,21,Wales,Centre-Back,CB,,Peterborough United,England,0.0,0
+1993,Premier League,Norwich City,summer,out,Lee Power,227043,21,Ireland,Centre-Forward,CF,,Sunderland AFC,England,0.0,1
+1993,Premier League,Norwich City,summer,out,Lee Power,227043,21,Ireland,Centre-Forward,CF,,Portsmouth FC,England,0.0,1
+1993,Premier League,Norwich City,winter,out,Ruel Fox,104904,26,Montserrat,Central Midfield,CM,,Newcastle United,England,2500000.0,0
+1993,Premier League,Norwich City,winter,out,Lee Power,227043,21,Ireland,Centre-Forward,CF,,Bradford City,England,200000.0,0
+1993,Premier League,Norwich City,winter,out,Mark Walton,222906,24,Wales,Goalkeeper,GK,,Bolton Wanderers,England,0.0,0
+1993,Premier League,Norwich City,winter,out,Deryn Brace,144144,19,Wales,Left-Back,LB,,Wrexham AFC,England,0.0,0
+1993,Premier League,Norwich City,winter,out,Ade Akinbiyi,4037,19,Nigeria,Centre-Forward,CF,,Hereford United (- 2014),England,0.0,1
+1993,Premier League,Norwich City,winter,out,Mark Walton,222906,24,Wales,Goalkeeper,GK,,Dundee United FC,Scotland,0.0,1
+1993,Premier League,Oldham Athletic,summer,in,Rick Holden,222221,29,England,Left Winger,LW,,Manchester City,England,675000.0,0
+1993,Premier League,Oldham Athletic,summer,in,Lance Key,165697,25,England,Goalkeeper,GK,,Sheffield Wednesday,England,0.0,1
+1993,Premier League,Oldham Athletic,winter,in,Sean McCarthy,222519,26,Wales,Centre-Forward,CF,,Bradford City,England,628000.0,0
+1993,Premier League,Oldham Athletic,winter,in,Tore Pedersen,99931,24,Norway,Centre-Back,CB,,SK Brann,Norway,,0
+1993,Premier League,Oldham Athletic,winter,in,Gary Walsh,13547,25,England,Goalkeeper,GK,,Manchester United,England,0.0,1
+1993,Premier League,Oldham Athletic,summer,out,Ian Marshall,107794,27,England,Centre-Back,CB,,Ipswich Town,England,1130000.0,0
+1993,Premier League,Oldham Athletic,summer,out,John Keeley,226572,32,England,Goalkeeper,GK,,Colchester United,England,0.0,0
+1993,Premier League,Oldham Athletic,summer,out,Tore Pedersen,99931,24,Norway,Centre-Back,CB,,SK Brann,Norway,,0
+1993,Premier League,Oldham Athletic,summer,out,Orpheo Keizerweerd,240271,24,Netherlands,Centre-Forward,CF,,Rodez AF,France,0.0,1
+1993,Premier League,Oldham Athletic,winter,out,Neil Adams,222481,28,England,Right Winger,RW,,Norwich City,England,375000.0,0
+1993,Premier League,Oldham Athletic,winter,out,Neil Tolson,226595,20,England,Centre-Forward,CF,,Bradford City,England,,0
+1993,Premier League,Oldham Athletic,winter,out,Gunnar Halle,102506,28,Norway,Right-Back,RB,,Lillestrøm SK,Norway,0.0,1
+1993,Premier League,Oldham Athletic,winter,out,Andy Barlow,222485,27,England,Left-Back,LB,,Bradford City,England,0.0,1
+1993,Premier League,Oldham Athletic,winter,out,Gary Walsh,13547,25,England,Goalkeeper,GK,,Manchester United,England,0.0,1
+1993,Premier League,Oldham Athletic,winter,out,Lance Key,165697,25,England,Goalkeeper,GK,,Sheffield Wednesday,England,0.0,1
+1993,Premier League,Queens Park Rangers,summer,in,Steve Yates,223575,23,England,Centre-Back,CB,,Bristol Rovers,England,820000.0,0
+1993,Premier League,Queens Park Rangers,summer,in,Trevor Sinclair,3253,20,England,Left Winger,LW,,Blackpool FC,England,600000.0,0
+1993,Premier League,Queens Park Rangers,summer,out,Andy Sinton,101326,27,England,Left Midfield,LM,,Sheffield Wednesday,England,3350000.0,0
+1993,Premier League,Queens Park Rangers,summer,out,Garry Thompson,222688,33,England,Centre-Forward,CF,,Cardiff City,England,0.0,0
+1993,Premier League,Queens Park Rangers,summer,out,Danny Dichio,3651,18,England,Centre-Forward,CF,,Barnet FC,England,0.0,1
+1993,Premier League,Queens Park Rangers,summer,out,Dennis Bailey,226548,27,England,Centre-Forward,CF,,Charlton Athletic,England,0.0,1
+1993,Premier League,Queens Park Rangers,winter,out,Darren Peacock,107099,26,England,Centre-Back,CB,,Newcastle United,England,5000000.0,0
+1993,Premier League,Queens Park Rangers,winter,out,Robbie Herrera,223300,23,England,Left-Back,LB,,Fulham FC,England,48000.0,0
+1993,Premier League,Queens Park Rangers,winter,out,Dennis Bailey,226548,28,England,Centre-Forward,CF,,Watford FC,England,0.0,1
+1993,Premier League,Queens Park Rangers,winter,out,Tony Witter,229835,29,England,Centre-Back,CB,,Reading FC,England,0.0,1
+1993,Premier League,Queens Park Rangers,winter,out,Alan McCarthy,229034,21,Wales,Centre-Back,CB,,Watford FC,England,0.0,1
+1993,Premier League,Queens Park Rangers,winter,out,Alan McCarthy,229034,22,Wales,Centre-Back,CB,,Plymouth Argyle,England,0.0,1
+1993,Premier League,Sheffield United,summer,in,Jostein Flo,102505,28,Norway,Right Winger,RW,,Sogndal IL,Norway,600000.0,0
+1993,Premier League,Sheffield United,summer,in,Willie Falconer,220507,27,Scotland,Central Midfield,CM,,Middlesbrough FC,England,600000.0,0
+1993,Premier League,Sheffield United,summer,in,Dave Tuttle,195615,21,England,Centre-Back,CB,,Tottenham Hotspur,England,490000.0,0
+1993,Premier League,Sheffield United,summer,in,Rob Scott,13646,19,England,Right-Back,RB,,Sutton United,England,25000.0,0
+1993,Premier League,Sheffield United,summer,in,Jonas Wirmola,185897,23,Sweden,Centre-Back,CB,,Spårvägens FF,Sweden,0.0,0
+1993,Premier League,Sheffield United,summer,in,Chris Kamara,232934,35,England,Central Midfield,CM,,Luton Town,England,0.0,0
+1993,Premier League,Sheffield United,summer,in,Sal Bibbo,1035023,18,England,Goalkeeper,GK,,Crawley Town,England,0.0,0
+1993,Premier League,Sheffield United,winter,in,Roger Nilsen,102509,24,Norway,Centre-Back,CB,,Viking FK,Norway,550000.0,0
+1993,Premier League,Sheffield United,winter,in,Nathan Blake,4229,21,Wales,Centre-Forward,CF,,Cardiff City,England,420000.0,0
+1993,Premier League,Sheffield United,winter,in,Bobby Davison,235737,34,England,Centre-Forward,CF,,Leicester City,England,0.0,0
+1993,Premier League,Sheffield United,winter,in,Carl Muggleton,44487,25,England,Goalkeeper,GK,,Leicester City,England,0.0,1
+1993,Premier League,Sheffield United,summer,out,Brian Deane,8058,25,England,Centre-Forward,CF,,Leeds United,England,4350000.0,0
+1993,Premier League,Sheffield United,summer,out,Nathan Peel,644383,21,England,Centre-Forward,CF,,Burnley FC,England,69000.0,0
+1993,Premier League,Sheffield United,summer,out,Ian Bryson,226554,30,Scotland,Left Winger,LW,,Barnsley FC,England,30000.0,0
+1993,Premier League,Sheffield United,summer,out,Tom Cowan,12825,24,Scotland,Left-Back,LB,,Stoke City,England,0.0,1
+1993,Premier League,Sheffield United,winter,out,John Pemberton,223245,28,England,Centre-Back,CB,,Leeds United,England,313000.0,0
+1993,Premier League,Sheffield United,winter,out,David Barnes,226549,32,England,Left-Back,LB,,Watford FC,England,63000.0,0
+1993,Premier League,Sheffield United,winter,out,Jonas Wirmola,185897,24,Sweden,Centre-Back,CB,,Malmö FF,Sweden,0.0,0
+1993,Premier League,Sheffield United,winter,out,Jamie Hoyland,232476,28,England,Central Midfield,CM,,Bristol City,England,0.0,1
+1993,Premier League,Sheffield United,winter,out,Willie Falconer,220507,27,Scotland,Central Midfield,CM,,Celtic FC,Scotland,,0
+1993,Premier League,Sheffield United,winter,out,Tom Cowan,12825,24,Scotland,Left-Back,LB,,Huddersfield Town,England,0.0,1
+1993,Premier League,Sheffield United,winter,out,John Gannon,226563,26,England,Central Midfield,CM,,Middlesbrough FC,England,0.0,1
+1993,Premier League,Sheffield United,winter,out,Carl Muggleton,44487,25,England,Goalkeeper,GK,,Leicester City,England,0.0,1
+1993,Premier League,Sheffield Wednesday,summer,in,Andy Sinton,101326,27,England,Left Midfield,LM,,Queens Park Rangers,England,3350000.0,0
+1993,Premier League,Sheffield Wednesday,summer,in,Des Walker,10000,27,England,Centre-Back,CB,,UC Sampdoria,Italy,3000000.0,0
+1993,Premier League,Sheffield Wednesday,summer,in,Andy Pearce,222527,27,England,Centre-Back,CB,,Coventry City,England,600000.0,0
+1993,Premier League,Sheffield Wednesday,summer,in,Adem Poric,223287,20,Australia,Central Midfield,CM,,St George Saints FC,Australia,72000.0,0
+1993,Premier League,Sheffield Wednesday,winter,in,Simon Coleman,223282,25,England,Centre-Back,CB,,Derby County,England,382000.0,0
+1993,Premier League,Sheffield Wednesday,summer,out,Paul Warhurst,3307,23,England,Central Midfield,CM,,Blackburn Rovers,England,3750000.0,0
+1993,Premier League,Sheffield Wednesday,summer,out,John Harkes,102005,26,United States,Defensive Midfield,DM,,Derby County,England,1200000.0,0
+1993,Premier League,Sheffield Wednesday,summer,out,Peter Shirtliff,195180,32,England,Centre-Back,CB,,Wolverhampton Wanderers,England,287000.0,0
+1993,Premier League,Sheffield Wednesday,summer,out,Viv Anderson,117188,36,England,Right-Back,RB,,Barnsley FC,England,0.0,0
+1993,Premier League,Sheffield Wednesday,summer,out,Danny Wilson,223317,33,Northern Ireland,Right Midfield,RM,,Barnsley FC,England,0.0,0
+1993,Premier League,Sheffield Wednesday,summer,out,Phil King,222296,25,England,Left-Back,LB,,Notts County,England,0.0,1
+1993,Premier League,Sheffield Wednesday,summer,out,Nigel Jemson,223302,24,England,Centre-Forward,CF,,Grimsby Town,England,0.0,1
+1993,Premier League,Sheffield Wednesday,summer,out,Lance Key,165697,25,England,Goalkeeper,GK,,Oldham Athletic,England,0.0,1
+1993,Premier League,Southampton FC,summer,in,Paul Allen,222253,30,England,Central Midfield,CM,,Tottenham Hotspur,England,660000.0,0
+1993,Premier League,Southampton FC,summer,in,Simon Charlton,19846,21,England,Left-Back,LB,,Huddersfield Town,England,350000.0,0
+1993,Premier League,Southampton FC,summer,in,Colin Cramb,43783,19,Scotland,Centre-Forward,CF,,Hamilton Academical FC,Scotland,70000.0,0
+1993,Premier League,Southampton FC,summer,in,Peter Reid,79806,37,England,Defensive Midfield,DM,,Manchester City,England,0.0,0
+1993,Premier League,Southampton FC,winter,in,Jim Magilton,3481,24,Northern Ireland,Central Midfield,CM,,Oxford United,England,800000.0,0
+1993,Premier League,Southampton FC,winter,in,Neil Heaney,21265,22,England,Left Winger,LW,,Arsenal FC,England,380000.0,0
+1993,Premier League,Southampton FC,winter,in,Dave Beasant,10384,34,England,Goalkeeper,GK,,Chelsea FC,England,380000.0,0
+1993,Premier League,Southampton FC,winter,in,Craig Maskell,224246,25,England,Centre-Forward,CF,,Swindon Town,England,350000.0,0
+1993,Premier League,Southampton FC,summer,out,David Speedie,176832,33,Scotland,Centre-Forward,CF,,Leicester City,England,0.0,0
+1993,Premier League,Southampton FC,summer,out,Oleksiy Cherednyk,214451,32,Ukraine,Defensive Midfield,DM,,Without Club,,,0
+1993,Premier League,Southampton FC,summer,out,Matthew Bound,13664,20,England,Centre-Back,CB,,Hull City,England,0.0,1
+1993,Premier League,Southampton FC,winter,out,Tim Flowers,4249,26,England,Goalkeeper,GK,,Blackburn Rovers,England,3800000.0,0
+1993,Premier League,Southampton FC,winter,out,Paul Moody,175986,26,England,Centre-Forward,CF,,Oxford United,England,70000.0,0
+1993,Premier League,Southampton FC,winter,out,Peter Reid,79806,37,England,Defensive Midfield,DM,,Notts County,England,0.0,0
+1993,Premier League,Southampton FC,winter,out,Perry Groves,176691,28,England,Left Winger,LW,,Dagenham & Redbridge FC,England,0.0,0
+1993,Premier League,Southampton FC,winter,out,Glenn Cockerill,176001,34,England,Central Midfield,CM,,Leyton Orient,England,0.0,0
+1993,Premier League,Southampton FC,winter,out,Terry Hurlock,222260,35,England,Central Midfield,CM,,Millwall FC,England,0.0,0
+1993,Premier League,Southampton FC,winter,out,Lee Powell,229831,20,Wales,Right Winger,RW,,Hamilton Academical FC,Scotland,0.0,0
+1993,Premier League,Southampton FC,winter,out,Martin Thomas,985647,20,England,Central Midfield,CM,,Leyton Orient,England,0.0,0
+1993,Premier League,Southampton FC,winter,out,Stuart Gray,222641,33,England,Left-Back,LB,,Bognor Regis Town,England,,0
+1993,Premier League,Southampton FC,winter,out,Micky Adams,222252,32,England,Left-Back,LB,,Stoke City,England,0.0,1
+1993,Premier League,Swindon Town,summer,in,Jan Åge Fjørtoft,514,26,Norway,Centre-Forward,CF,,Rapid Vienna,Austria,700000.0,0
+1993,Premier League,Swindon Town,summer,in,Adrian Whitbread,225376,21,England,Centre-Back,CB,,Leyton Orient,England,623000.0,0
+1993,Premier League,Swindon Town,summer,in,Andy Mutch,224248,29,England,Centre-Forward,CF,,Wolverhampton Wanderers,England,310000.0,0
+1993,Premier League,Swindon Town,summer,in,Luc Nijholt,189312,31,Netherlands,Centre-Back,CB,,Motherwell FC,Scotland,260000.0,0
+1993,Premier League,Swindon Town,summer,in,Terry Fenwick,117191,33,England,Centre-Back,CB,,Tottenham Hotspur,England,0.0,0
+1993,Premier League,Swindon Town,summer,in,Ty Gooden,224171,20,England,Left Winger,LW,,Wycombe Wanderers,England,0.0,0
+1993,Premier League,Swindon Town,winter,in,Brian Kilcline,224179,31,England,Centre-Back,CB,,Newcastle United,England,113000.0,0
+1993,Premier League,Swindon Town,winter,in,Lawrie Sanchez,222305,34,Northern Ireland,Central Midfield,CM,,Wimbledon FC (- 2004),England,0.0,0
+1993,Premier League,Swindon Town,winter,in,Paul Heald,13790,25,England,Goalkeeper,GK,,Leyton Orient,England,0.0,1
+1993,Premier League,Swindon Town,winter,in,Stewart Kerr,136079,19,Scotland,Goalkeeper,GK,,Celtic FC,Scotland,0.0,1
+1993,Premier League,Swindon Town,winter,in,Frank McAvennie,116148,34,Scotland,Centre-Forward,CF,,Celtic FC,Scotland,0.0,1
+1993,Premier League,Swindon Town,winter,in,Jon Sheffield,225363,24,England,Goalkeeper,GK,,Cambridge United,England,0.0,1
+1993,Premier League,Swindon Town,summer,out,Colin Calderwood,103641,28,Scotland,Centre-Back,CB,,Tottenham Hotspur,England,1800000.0,0
+1993,Premier League,Swindon Town,summer,out,Glenn Hoddle,117193,35,England,Attacking Midfield,AM,,Chelsea FC,England,86000.0,0
+1993,Premier League,Swindon Town,summer,out,Dave Mitchell,110321,31,Australia,Centre-Forward,CF,,Altay SK,Türkiye,29000.0,0
+1993,Premier League,Swindon Town,summer,out,Brian Marwood,176750,33,England,Left Midfield,LM,,Barnet FC,England,0.0,0
+1993,Premier League,Swindon Town,summer,out,Paul Hunt,1014890,22,England,Centre-Forward,CF,,SK Brann,Norway,0.0,0
+1993,Premier League,Swindon Town,summer,out,Shaun Close,960585,26,England,Centre-Forward,CF,,Barnet FC,England,,0
+1993,Premier League,Swindon Town,summer,out,Paul Heald,13790,25,England,Goalkeeper,GK,,Leyton Orient,England,0.0,1
+1993,Premier League,Swindon Town,summer,out,Frank McAvennie,116148,34,Scotland,Centre-Forward,CF,,Celtic FC,Scotland,0.0,1
+1993,Premier League,Swindon Town,winter,out,Craig Maskell,224246,25,England,Centre-Forward,CF,,Southampton FC,England,350000.0,0
+1993,Premier League,Swindon Town,winter,out,Micky Hazard,176808,33,England,Central Midfield,CM,,Tottenham Hotspur,England,55000.0,0
+1993,Premier League,Swindon Town,winter,out,Stewart Kerr,136079,19,Scotland,Goalkeeper,GK,,Celtic FC,Scotland,0.0,1
+1993,Premier League,Swindon Town,winter,out,Jon Sheffield,225363,25,England,Goalkeeper,GK,,Cambridge United,England,0.0,1
+1993,Premier League,Tottenham Hotspur,summer,in,Jason Dozzell,223226,25,England,Central Midfield,CM,,Ipswich Town,England,2400000.0,0
+1993,Premier League,Tottenham Hotspur,summer,in,Colin Calderwood,103641,28,Scotland,Centre-Back,CB,,Swindon Town,England,1800000.0,0
+1993,Premier League,Tottenham Hotspur,summer,in,David Kerslake,223238,27,England,Right-Back,RB,,Leeds United,England,563000.0,0
+1993,Premier League,Tottenham Hotspur,winter,in,Kevin Scott,222741,27,England,Centre-Back,CB,,Newcastle United,England,1100000.0,0
+1993,Premier League,Tottenham Hotspur,winter,in,Ronny Rosenthal,141047,30,Israel,Left Winger,LW,,Liverpool FC,England,300000.0,0
+1993,Premier League,Tottenham Hotspur,winter,in,Micky Hazard,176808,33,England,Central Midfield,CM,,Swindon Town,England,55000.0,0
+1993,Premier League,Tottenham Hotspur,summer,out,Neil Ruddock,3487,25,England,Centre-Back,CB,,Liverpool FC,England,3000000.0,0
+1993,Premier League,Tottenham Hotspur,summer,out,Gordon Durie,101129,27,Scotland,Centre-Forward,CF,,Rangers FC,Scotland,1800000.0,0
+1993,Premier League,Tottenham Hotspur,summer,out,Paul Allen,222253,30,England,Central Midfield,CM,,Southampton FC,England,660000.0,0
+1993,Premier League,Tottenham Hotspur,summer,out,Dave Tuttle,195615,21,England,Centre-Back,CB,,Sheffield United,England,490000.0,0
+1993,Premier League,Tottenham Hotspur,summer,out,Nayim,184495,26,Spain,Central Midfield,CM,,Real Zaragoza,Spain,300000.0,0
+1993,Premier League,Tottenham Hotspur,summer,out,Ian Hendon,49598,21,England,Right-Back,RB,,Leyton Orient,England,65000.0,0
+1993,Premier League,Tottenham Hotspur,summer,out,Terry Fenwick,117191,33,England,Centre-Back,CB,,Swindon Town,England,0.0,0
+1993,Premier League,Tottenham Hotspur,summer,out,Pat Van Den Hauwe,177254,32,Wales,Left-Back,LB,,Millwall FC,England,0.0,0
+1993,Premier League,Tottenham Hotspur,summer,out,David McDonald,240737,22,Ireland,Right-Back,RB,,Peterborough United,England,0.0,0
+1993,Premier League,Tottenham Hotspur,summer,out,Kevin Dearden,238049,23,England,Goalkeeper,GK,,Brentford FC,England,0.0,0
+1993,Premier League,Tottenham Hotspur,summer,out,Paul Mahorn,229827,20,England,Centre-Forward,CF,,Fulham FC,England,0.0,1
+1993,Premier League,Tottenham Hotspur,winter,out,Stephen Robinson,33500,19,Northern Ireland,Attacking Midfield,AM,,Leyton Orient,England,0.0,1
+1993,Premier League,Tottenham Hotspur,winter,out,Peter Beadle,313289,21,England,Centre-Forward,CF,,Southend United,England,0.0,1
+1993,Premier League,Tottenham Hotspur,winter,out,Gudni Bergsson,3268,28,Iceland,Centre-Back,CB,,Valur Reykjavík,Iceland,0.0,1
+1993,Premier League,Tottenham Hotspur,winter,out,Kevin Watson,13432,20,England,Central Midfield,CM,,Brentford FC,England,0.0,1
+1993,Premier League,Tottenham Hotspur,winter,out,Lee Hodges,20970,20,England,Central Midfield,CM,,Wycombe Wanderers,England,0.0,1
+1993,Premier League,West Ham United,summer,in,Dale Gordon,182832,26,England,Right Winger,RW,,Rangers FC,Scotland,850000.0,0
+1993,Premier League,West Ham United,summer,in,Simon Webster,229705,29,England,Centre-Back,CB,,Charlton Athletic,England,650000.0,0
+1993,Premier League,West Ham United,summer,in,Lee Chapman,175862,33,England,Centre-Forward,CF,,Portsmouth FC,England,313000.0,0
+1993,Premier League,West Ham United,summer,in,Jeroen Boere,227414,25,Netherlands,Centre-Forward,CF,,Go Ahead Eagles,Netherlands,300000.0,0
+1993,Premier League,West Ham United,summer,in,Keith Rowland,149519,21,Northern Ireland,Left-Back,LB,,AFC Bournemouth,England,165000.0,0
+1993,Premier League,West Ham United,summer,in,Mike Marsh,222517,24,England,Right Midfield,RM,,Liverpool FC,England,0.0,0
+1993,Premier League,West Ham United,summer,in,Gerry Peyton,104115,37,Ireland,Goalkeeper,GK,,Brentford FC,England,0.0,0
+1993,Premier League,West Ham United,summer,in,David Burrows,109481,24,England,Left-Back,LB,,Liverpool FC,England,,0
+1993,Premier League,West Ham United,winter,in,Ian Feuer,141044,22,United States,Goalkeeper,GK,,Los Angeles Salsa,United States,85000.0,0
+1993,Premier League,West Ham United,winter,in,Paul Mitchell,229829,22,England,Central Midfield,CM,,AFC Bournemouth,England,46000.0,0
+1993,Premier League,West Ham United,winter,in,Malcolm McPherson,996830,19,Scotland,Central Midfield,CM,,Yeovil Town,England,36000.0,0
+1993,Premier League,West Ham United,winter,in,Gary Kelly,305993,27,Ireland,Goalkeeper,GK,,Bury FC,England,0.0,1
+1993,Premier League,West Ham United,summer,out,Julian Dicks,107806,25,England,Left-Back,LB,,Liverpool FC,England,2250000.0,0
+1993,Premier League,West Ham United,summer,out,Kevin Keen,373496,26,England,Right Midfield,RM,,Wolverhampton Wanderers,England,720000.0,0
+1993,Premier League,West Ham United,summer,out,Dean Martin,117073,21,England,Centre-Forward,CF,,Kettering Town,England,0.0,0
+1993,Premier League,West Ham United,summer,out,Danny Williamson,197252,19,England,Central Midfield,CM,,Doncaster Rovers,England,0.0,1
+1993,Premier League,West Ham United,summer,out,Mike Small,244029,31,England,Centre-Forward,CF,,Wolverhampton Wanderers,England,0.0,1
+1993,Premier League,West Ham United,summer,out,Alex Bunbury,176292,26,Canada,Centre-Forward,CF,,CS Marítimo,Portugal,,0
+1993,Premier League,West Ham United,summer,out,Paul Whitmarsh,876362,19,England,Centre-Forward,CF,,Doncaster Rovers,England,,0
+1993,Premier League,West Ham United,summer,out,Gary Kelly,305993,27,Ireland,Goalkeeper,GK,,Bury FC,England,0.0,1
+1993,Premier League,West Ham United,winter,out,Mark Robson,229834,24,England,Left Winger,LW,,Charlton Athletic,England,155000.0,0
+1993,Premier League,West Ham United,winter,out,Colin Foster,229824,29,England,Centre-Back,CB,,Watford FC,England,125000.0,0
+1993,Premier League,West Ham United,winter,out,Clive Allen,176672,32,England,Centre-Forward,CF,,Millwall FC,England,85000.0,0
+1993,Premier League,West Ham United,winter,out,Paul Marquis,229828,21,England,Centre-Back,CB,,Doncaster Rovers,England,0.0,0
+1993,Premier League,West Ham United,winter,out,Mitchell Thomas,307169,29,England,Left-Back,LB,,Luton Town,England,0.0,0
+1993,Premier League,West Ham United,winter,out,Mike Small,244029,31,England,Centre-Forward,CF,,BK Häcken,Sweden,0.0,0
+1993,Premier League,West Ham United,winter,out,Mike Basham,1234311,20,England,Centre-Back,CB,,Swansea City,England,0.0,0
+1993,Premier League,West Ham United,winter,out,Matthew Rush,228086,22,Ireland,Central Midfield,CM,,Swansea City,England,0.0,1
+1993,Premier League,West Ham United,winter,out,Jeroen Boere,227414,26,Netherlands,Centre-Forward,CF,,Portsmouth FC,England,0.0,1
+1993,Premier League,West Ham United,winter,out,Mike Basham,1234311,20,England,Centre-Back,CB,,Colchester United,England,0.0,1
+1993,Premier League,West Ham United,winter,out,Gerry Peyton,104115,37,Ireland,Goalkeeper,GK,,Retired,,,0
+1993,Premier League,West Ham United,winter,out,Colin Foster,229824,29,England,Centre-Back,CB,,Notts County,England,0.0,1
+1993,Premier League,Wimbledon FC (- 2004),summer,in,Alan Kimble,109508,26,England,Left-Back,LB,,Cambridge United,England,210000.0,0
+1993,Premier League,Wimbledon FC (- 2004),summer,in,Gary Blissett,6778,29,England,Centre-Forward,CF,,Brentford FC,England,0.0,0
+1993,Premier League,Wimbledon FC (- 2004),winter,in,Marcus Gayle,3135,23,Jamaica,Centre-Forward,CF,,Brentford FC,England,375000.0,0
+1993,Premier League,Wimbledon FC (- 2004),summer,out,Steve Cotterill,237549,29,England,Centre-Forward,CF,,AFC Bournemouth,England,102000.0,0
+1993,Premier League,Wimbledon FC (- 2004),summer,out,Terry Gibson,176501,30,England,Centre-Forward,CF,,Peterborough United,England,0.0,0
+1993,Premier League,Wimbledon FC (- 2004),summer,out,Carlton Fairweather,373613,31,England,Right Winger,RW,,Carlisle United,England,,0
+1993,Premier League,Wimbledon FC (- 2004),winter,out,Greg Berry,226937,23,England,Left Winger,LW,,Millwall FC,England,250000.0,0
+1993,Premier League,Wimbledon FC (- 2004),winter,out,Lawrie Sanchez,222305,34,Northern Ireland,Central Midfield,CM,,Swindon Town,England,0.0,0
+1993,Premier League,Wimbledon FC (- 2004),winter,out,Perry Digweed,481138,34,England,Goalkeeper,GK,,Watford FC,England,0.0,0
+1993,Premier League,Wimbledon FC (- 2004),winter,out,Steve Anthrobus,227076,25,England,Centre-Forward,CF,,Peterborough United,England,0.0,1
+1993,Premier League,Wimbledon FC (- 2004),winter,out,Aidan Newhouse,237396,21,England,Centre-Forward,CF,,Port Vale FC,England,0.0,1
+1993,Premier League,Wimbledon FC (- 2004),winter,out,Justin Skinner,884935,21,England,Left-Back,LB,,AFC Bournemouth,England,0.0,1

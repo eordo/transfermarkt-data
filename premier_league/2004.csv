@@ -1,0 +1,632 @@
+season,league,club,window,movement,player_name,player_id,age,nationality,position,pos,market_value,dealing_club,dealing_country,fee,is_loan
+2004,Premier League,Arsenal FC,summer,in,Manuel Almunia,16621,27,Spain,Goalkeeper,GK,,Celta de Vigo,Spain,5000000.0,0
+2004,Premier League,Arsenal FC,summer,in,Robin van Persie,4380,20,Netherlands,Centre-Forward,CF,,Feyenoord Rotterdam,Netherlands,4500000.0,0
+2004,Premier League,Arsenal FC,summer,in,Mathieu Flamini,17396,20,France,Defensive Midfield,DM,,Olympique Marseille,France,480000.0,0
+2004,Premier League,Arsenal FC,summer,in,Arturo Lupoli,22227,17,Italy,Centre-Forward,CF,,Parma FC Youth,Italy,300000.0,0
+2004,Premier League,Arsenal FC,winter,in,Emmanuel Eboué,13058,21,Cote d'Ivoire,Right-Back,RB,2200000.0,KSK Beveren (-2010),Belgium,2200000.0,0
+2004,Premier League,Arsenal FC,summer,out,Francis Jeffers,3186,23,England,Centre-Forward,CF,,Charlton Athletic,England,3900000.0,0
+2004,Premier League,Arsenal FC,summer,out,Liam Chilvers,4084,22,England,Centre-Back,CB,,Colchester United,England,0.0,0
+2004,Premier League,Arsenal FC,summer,out,Stephen Bradley,57361,19,Ireland,Attacking Midfield,AM,,Dunfermline Athletic FC,Scotland,0.0,0
+2004,Premier League,Arsenal FC,summer,out,Giovanni van Bronckhorst,3191,29,Netherlands,Left-Back,LB,,FC Barcelona,Spain,0.0,0
+2004,Premier League,Arsenal FC,summer,out,Ray Parlour,3208,31,England,Central Midfield,CM,,Middlesbrough FC,England,0.0,0
+2004,Premier League,Arsenal FC,summer,out,Stathis Tavlaridis,3201,24,Greece,Centre-Back,CB,,LOSC Lille,France,0.0,0
+2004,Premier League,Arsenal FC,summer,out,Igors Stepanovs,3200,28,Latvia,Centre-Back,CB,,Grasshopper Club Zurich,Switzerland,0.0,0
+2004,Premier League,Arsenal FC,summer,out,Nwankwo Kanu,3133,27,Nigeria,Centre-Forward,CF,,West Bromwich Albion,England,0.0,0
+2004,Premier League,Arsenal FC,summer,out,Sylvain Wiltord,3188,30,France,Second Striker,SS,,Olympique Lyon,France,0.0,0
+2004,Premier League,Arsenal FC,summer,out,Martin Keown,3184,37,England,Centre-Back,CB,,Leicester City,England,0.0,0
+2004,Premier League,Arsenal FC,summer,out,Graham Stack,3559,22,Ireland,Goalkeeper,GK,,Millwall FC,England,0.0,1
+2004,Premier League,Arsenal FC,summer,out,David Bentley,3205,19,England,Right Midfield,RM,,Norwich City,England,0.0,1
+2004,Premier League,Arsenal FC,summer,out,Sebastian Svärd,3204,21,Denmark,Defensive Midfield,DM,,Bröndby IF,Denmark,0.0,1
+2004,Premier League,Arsenal FC,summer,out,Frank Simek,31313,19,United States,Right-Back,RB,,Queens Park Rangers,England,0.0,1
+2004,Premier League,Arsenal FC,summer,out,Rami Shaaban,3199,29,Sweden,Goalkeeper,GK,,Without Club,,,0
+2004,Premier League,Arsenal FC,winter,out,Stuart Taylor,3190,23,England,Goalkeeper,GK,1000000.0,Leicester City,England,0.0,1
+2004,Premier League,Arsenal FC,winter,out,Daniel Karbassiyoon,9337,20,United States,Left-Back,LB,300000.0,Ipswich Town,England,0.0,1
+2004,Premier League,Arsenal FC,winter,out,Frank Simek,31313,20,United States,Right-Back,RB,,AFC Bournemouth,England,0.0,1
+2004,Premier League,Arsenal FC,winter,out,Jermaine Pennant,3195,22,England,Right Winger,RW,3000000.0,Birmingham City,England,0.0,1
+2004,Premier League,Aston Villa,summer,in,Martin Laursen,3503,26,Denmark,Centre-Back,CB,,AC Milan,Italy,5300000.0,0
+2004,Premier League,Aston Villa,summer,in,Mathieu Berson,5508,24,France,Defensive Midfield,DM,,FC Nantes,France,2300000.0,0
+2004,Premier League,Aston Villa,summer,in,Carlton Cole,3179,20,England,Centre-Forward,CF,,Chelsea FC,England,0.0,1
+2004,Premier League,Aston Villa,summer,in,Václav Drobný,5612,23,Czech Republic,Centre-Back,CB,,RC Strasbourg Alsace,France,0.0,1
+2004,Premier League,Aston Villa,winter,in,Eric Djemba Djemba,5509,23,Cameroon,Defensive Midfield,DM,7000000.0,Manchester United,England,2540000.0,0
+2004,Premier League,Aston Villa,summer,out,Peter Crouch,4072,23,England,Centre-Forward,CF,,Southampton FC,England,3000000.0,0
+2004,Premier League,Aston Villa,summer,out,Rob Edwards,4068,21,Wales,Centre-Back,CB,,Wolverhampton Wanderers,England,225000.0,0
+2004,Premier League,Aston Villa,summer,out,Marcus Allbäck,3267,30,Sweden,Centre-Forward,CF,,FC Hansa Rostock,Germany,200000.0,0
+2004,Premier League,Aston Villa,summer,out,Ronny Johnsen,3578,35,Norway,Centre-Back,CB,,Newcastle United,England,0.0,0
+2004,Premier League,Aston Villa,summer,out,Dion Dublin,3763,35,England,Centre-Forward,CF,,Leicester City,England,0.0,0
+2004,Premier League,Aston Villa,summer,out,Colin Marshall,9414,19,Scotland,Central Midfield,CM,,St. Johnstone FC,Scotland,0.0,0
+2004,Premier League,Aston Villa,summer,out,Jonathan Bewers,4073,21,England,Right-Back,RB,,Walsall FC,England,0.0,0
+2004,Premier League,Aston Villa,summer,out,Peter Hynes,16015,20,Ireland,Centre-Forward,CF,,Tamworth FC,England,0.0,0
+2004,Premier League,Aston Villa,summer,out,Stefan Moore,4076,20,England,Centre-Forward,CF,,Millwall FC,England,0.0,1
+2004,Premier League,Aston Villa,summer,out,Wayne Henderson,3718,20,Ireland,Goalkeeper,GK,,Notts County,England,0.0,1
+2004,Premier League,Aston Villa,summer,out,Hassan Kachloul,4066,31,Morocco,Left Midfield,LM,,Without Club,,,0
+2004,Premier League,Aston Villa,summer,out,Carlton Cole,3179,21,England,Centre-Forward,CF,3500000.0,Chelsea FC,England,0.0,1
+2004,Premier League,Aston Villa,winter,out,Gary Cahill,27511,18,England,Centre-Back,CB,,Burnley FC,England,0.0,1
+2004,Premier League,Aston Villa,winter,out,Stephen Cooke,4074,21,England,Right Midfield,RM,50000.0,Wycombe Wanderers,England,0.0,1
+2004,Premier League,Aston Villa,winter,out,Peter Whittingham,3762,20,England,Central Midfield,CM,1000000.0,Burnley FC,England,0.0,1
+2004,Premier League,Aston Villa,winter,out,Stefan Moore,4076,21,England,Centre-Forward,CF,400000.0,Leicester City,England,0.0,1
+2004,Premier League,Birmingham City,summer,in,Emile Heskey,3142,26,England,Centre-Forward,CF,,Liverpool FC,England,9320000.0,0
+2004,Premier League,Birmingham City,summer,in,Jesper Grønkjær,3137,26,Denmark,Left Winger,LW,,Chelsea FC,England,3300000.0,0
+2004,Premier League,Birmingham City,summer,in,Dwight Yorke,3223,32,Trinidad and Tobago,Centre-Forward,CF,,Blackburn Rovers,England,400000.0,0
+2004,Premier League,Birmingham City,summer,in,Mario Melchiot,3158,27,Netherlands,Right-Back,RB,,Chelsea FC,England,0.0,0
+2004,Premier League,Birmingham City,summer,in,Darren Anderton,3277,32,England,Right Midfield,RM,,Tottenham Hotspur,England,0.0,0
+2004,Premier League,Birmingham City,summer,in,Julian Gray,8735,24,England,Centre-Forward,CF,,Crystal Palace,England,0.0,0
+2004,Premier League,Birmingham City,summer,in,Muzzy Izzet,3123,29,Türkiye,Right Midfield,RM,,Leicester City,England,0.0,0
+2004,Premier League,Birmingham City,summer,in,Sam Oji,36590,18,England,Centre-Back,CB,,Arsenal FC U18,England,,0
+2004,Premier League,Birmingham City,winter,in,Robbie Blake,3490,28,England,Second Striker,SS,2500000.0,Burnley FC,England,2250000.0,0
+2004,Premier League,Birmingham City,winter,in,Njazi Kuqi,25368,21,Finland,Centre-Forward,CF,600000.0,FC Lahti,Finland,500000.0,0
+2004,Premier League,Birmingham City,winter,in,Jermaine Pennant,3195,22,England,Right Winger,RW,3000000.0,Arsenal FC,England,0.0,1
+2004,Premier League,Birmingham City,winter,in,Mehdi Nafti,7862,26,Tunisia,Defensive Midfield,DM,1000000.0,Racing Santander,Spain,0.0,1
+2004,Premier League,Birmingham City,winter,in,Salif Diao,3600,27,Senegal,Defensive Midfield,DM,8000000.0,Liverpool FC,England,0.0,1
+2004,Premier League,Birmingham City,winter,in,Walter Pandiani,7691,28,Uruguay,Centre-Forward,CF,10000000.0,Deportivo de La Coruña,Spain,0.0,1
+2004,Premier League,Birmingham City,summer,out,Darren Purse,3106,27,England,Centre-Back,CB,,West Bromwich Albion,England,900000.0,0
+2004,Premier League,Birmingham City,summer,out,Aliou Cissé,3796,28,Senegal,Defensive Midfield,DM,,Portsmouth FC,England,450000.0,0
+2004,Premier League,Birmingham City,summer,out,Stern John,3793,27,Trinidad and Tobago,Centre-Forward,CF,,Coventry City,England,300000.0,0
+2004,Premier League,Birmingham City,summer,out,Tom Williams,16116,23,Cyprus,Left-Back,LB,,Barnsley FC,England,0.0,0
+2004,Premier League,Birmingham City,summer,out,Bryan Hughes,3939,28,England,Attacking Midfield,AM,,Charlton Athletic,England,0.0,0
+2004,Premier League,Birmingham City,summer,out,Andy Barrowman,15163,19,Scotland,Centre-Forward,CF,,Blackpool FC,England,0.0,1
+2004,Premier League,Birmingham City,summer,out,Darren Carter,3929,20,England,Central Midfield,CM,,Sunderland AFC,England,0.0,1
+2004,Premier League,Birmingham City,summer,out,Salif Diao,3600,28,Senegal,Defensive Midfield,DM,5000000.0,Liverpool FC,England,0.0,1
+2004,Premier League,Birmingham City,summer,out,Mehdi Nafti,7862,26,Tunisia,Defensive Midfield,DM,1000000.0,Racing Santander,Spain,0.0,1
+2004,Premier League,Birmingham City,winter,out,Robbie Savage,3797,30,Wales,Defensive Midfield,DM,4750000.0,Blackburn Rovers,England,4500000.0,0
+2004,Premier League,Birmingham City,winter,out,Jesper Grønkjær,3137,27,Denmark,Left Winger,LW,6500000.0,Atlético de Madrid,Spain,2000000.0,0
+2004,Premier League,Birmingham City,winter,out,Ian Bennett,3299,33,England,Goalkeeper,GK,1000000.0,Sheffield United,England,0.0,1
+2004,Premier League,Birmingham City,winter,out,Andy Barrowman,15163,20,Scotland,Centre-Forward,CF,75000.0,Mansfield Town,England,0.0,1
+2004,Premier League,Birmingham City,winter,out,Colin Doyle,28728,19,Ireland,Goalkeeper,GK,,Chester City (- 2010),England,0.0,1
+2004,Premier League,Birmingham City,winter,out,Alex Bruce,37957,20,Northern Ireland,Centre-Back,CB,,Sheffield Wednesday,England,0.0,1
+2004,Premier League,Birmingham City,winter,out,Ian Bennett,3299,33,England,Goalkeeper,GK,1000000.0,Coventry City,England,0.0,1
+2004,Premier League,Birmingham City,winter,out,Neil Kilkenny,2997,18,Australia,Defensive Midfield,DM,100000.0,Oldham Athletic,England,0.0,1
+2004,Premier League,Birmingham City,winter,out,Colin Doyle,28728,19,Ireland,Goalkeeper,GK,,Nottingham Forest,England,0.0,1
+2004,Premier League,Birmingham City,winter,out,Alex Bruce,37957,20,Northern Ireland,Centre-Back,CB,,Oldham Athletic,England,0.0,1
+2004,Premier League,Birmingham City,winter,out,Martin Grainger,3934,32,England,Left-Back,LB,,Retired,,,0
+2004,Premier League,Birmingham City,winter,out,Mikael Forssell,3127,23,Finland,Centre-Forward,CF,9000000.0,Chelsea FC,England,0.0,1
+2004,Premier League,Blackburn Rovers,summer,in,Morten Gamst Pedersen,22741,22,Norway,Central Midfield,CM,,Tromsø IL,Norway,2250000.0,0
+2004,Premier League,Blackburn Rovers,summer,in,Paul Dickov,9221,31,Scotland,Centre-Forward,CF,,Leicester City,England,225000.0,0
+2004,Premier League,Blackburn Rovers,summer,in,Dominic Matteo,3765,30,Scotland,Left-Back,LB,,Leeds United,England,0.0,0
+2004,Premier League,Blackburn Rovers,summer,in,Javi de Pedro,7348,30,Spain,Left Midfield,LM,,Real Sociedad,Spain,0.0,0
+2004,Premier League,Blackburn Rovers,summer,in,Jay Bothroyd,8188,22,England,Centre-Forward,CF,,AC Perugia,Italy,0.0,1
+2004,Premier League,Blackburn Rovers,summer,in,Youri Djorkaeff,4,36,France,Attacking Midfield,AM,,Without Club,,,0
+2004,Premier League,Blackburn Rovers,winter,in,Robbie Savage,3797,30,Wales,Defensive Midfield,DM,4750000.0,Birmingham City,England,4500000.0,0
+2004,Premier League,Blackburn Rovers,winter,in,Aaron Mokoena,4756,24,South Africa,Centre-Back,CB,1750000.0,KRC Genk,Belgium,900000.0,0
+2004,Premier League,Blackburn Rovers,winter,in,Ryan Nelsen,28878,27,New Zealand,Centre-Back,CB,,D.C. United,United States,0.0,0
+2004,Premier League,Blackburn Rovers,summer,out,Dwight Yorke,3223,32,Trinidad and Tobago,Centre-Forward,CF,,Birmingham City,England,400000.0,0
+2004,Premier League,Blackburn Rovers,summer,out,Gordon Greer,3824,23,Scotland,Centre-Back,CB,,Kilmarnock FC,Scotland,0.0,0
+2004,Premier League,Blackburn Rovers,summer,out,Egil Østenstad,3705,32,Norway,Centre-Forward,CF,,Viking FK,Norway,0.0,0
+2004,Premier League,Blackburn Rovers,summer,out,Andy Cole,3238,32,England,Centre-Forward,CF,,Fulham FC,England,0.0,0
+2004,Premier League,Blackburn Rovers,summer,out,Michael Taylor,4107,21,England,Centre-Back,CB,,Cheltenham Town,England,0.0,0
+2004,Premier League,Blackburn Rovers,summer,out,Jerome Watt,20803,19,England,Central Midfield,CM,,Cercle Brugge ,Belgium,0.0,1
+2004,Premier League,Blackburn Rovers,summer,out,Paul Weaver,20804,18,Scotland,Midfielder,Midfielder,,Cercle Brugge ,Belgium,0.0,1
+2004,Premier League,Blackburn Rovers,summer,out,Neil Danns,4108,21,Guyana,Central Midfield,CM,,Colchester United,England,0.0,1
+2004,Premier League,Blackburn Rovers,summer,out,Alan Kelly,3819,35,Ireland,Goalkeeper,GK,,Retired,,,0
+2004,Premier League,Blackburn Rovers,summer,out,Markus Babbel,192,31,Germany,Centre-Back,CB,,Liverpool FC,England,0.0,1
+2004,Premier League,Blackburn Rovers,summer,out,Martin Andresen,16134,27,Norway,Central Midfield,CM,,Stabæk Fotball,Norway,0.0,1
+2004,Premier League,Blackburn Rovers,summer,out,Jay Bothroyd,8188,22,England,Centre-Forward,CF,1750000.0,AC Perugia,Italy,0.0,1
+2004,Premier League,Blackburn Rovers,winter,out,Barry Ferguson,10251,26,Scotland,Defensive Midfield,DM,5250000.0,Rangers FC,Scotland,7250000.0,0
+2004,Premier League,Blackburn Rovers,winter,out,Neil Danns,4108,21,Guyana,Central Midfield,CM,,Colchester United,England,50000.0,0
+2004,Premier League,Blackburn Rovers,winter,out,Javi de Pedro,7348,31,Spain,Left Midfield,LM,2000000.0,AC Perugia,Italy,0.0,0
+2004,Premier League,Blackburn Rovers,winter,out,Youri Djorkaeff,4,36,France,Attacking Midfield,AM,400000.0,New York MetroStars,United States,0.0,0
+2004,Premier League,Blackburn Rovers,winter,out,Michael Gray,4128,30,England,Left-Back,LB,2000000.0,Leeds United,England,0.0,1
+2004,Premier League,Blackburn Rovers,winter,out,Gary Harkins,29414,20,Scotland,Attacking Midfield,AM,,Bury FC,England,0.0,1
+2004,Premier League,Blackburn Rovers,winter,out,Alan Morgan,11368,21,Scotland,Left Midfield,LM,75000.0,Cheltenham Town,England,0.0,1
+2004,Premier League,Blackburn Rovers,winter,out,Alex Bruce,37957,20,Northern Ireland,Centre-Back,CB,,Oldham Athletic,England,0.0,1
+2004,Premier League,Blackburn Rovers,winter,out,Jonathan Douglas,7435,23,Ireland,Central Midfield,CM,75000.0,Gillingham FC,England,0.0,1
+2004,Premier League,Blackburn Rovers,winter,out,David Yelldell,4746,23,United States,Goalkeeper,GK,100000.0,Brighton & Hove Albion,England,0.0,1
+2004,Premier League,Blackburn Rovers,winter,out,Jay McEveley,3825,20,Scotland,Centre-Back,CB,400000.0,Gillingham FC,England,0.0,1
+2004,Premier League,Bolton Wanderers,summer,in,Gary Speed,3459,34,Wales,Central Midfield,CM,,Newcastle United,England,1130000.0,0
+2004,Premier League,Bolton Wanderers,summer,in,Tal Ben Haim,20714,22,Israel,Centre-Back,CB,,Maccabi Tel Aviv,Israel,225000.0,0
+2004,Premier League,Bolton Wanderers,summer,in,Jaroslaw Fojut,34652,16,Poland,Centre-Back,CB,,MSP Szamotuly,Poland,25000.0,0
+2004,Premier League,Bolton Wanderers,summer,in,Blessing Kaku,22544,26,Nigeria,Central Midfield,CM,,FC Ashdod,Israel,0.0,0
+2004,Premier League,Bolton Wanderers,summer,in,Johann Smith,16887,17,United States,Left-Back,LB,,Oakwood SC U19,United States,0.0,0
+2004,Premier League,Bolton Wanderers,summer,in,Michael Bridges,3767,25,England,Centre-Forward,CF,,Leeds United,England,0.0,0
+2004,Premier League,Bolton Wanderers,summer,in,Júlio César,2943,25,Brazil,Centre-Back,CB,,Real Valladolid CF,Spain,0.0,0
+2004,Premier League,Bolton Wanderers,summer,in,Fernando Hierro,7513,36,Spain,Centre-Back,CB,,Al-Rayyan SC,Qatar,0.0,0
+2004,Premier League,Bolton Wanderers,summer,in,Les Ferdinand,3645,37,England,Centre-Forward,CF,,Leicester City,England,0.0,0
+2004,Premier League,Bolton Wanderers,summer,in,Radhi Jaïdi,19310,28,Tunisia,Centre-Back,CB,,Esperance Tunis,Tunisia,0.0,0
+2004,Premier League,Bolton Wanderers,summer,in,Andy Oakes,13480,27,England,Goalkeeper,GK,,Derby County,England,0.0,1
+2004,Premier League,Bolton Wanderers,summer,in,El-Hadji Diouf,3604,23,Senegal,Centre-Forward,CF,,Liverpool FC,England,0.0,1
+2004,Premier League,Bolton Wanderers,summer,in,Khalilou Fadiga,3887,29,Senegal,Left Winger,LW,,Without Club,,,0
+2004,Premier League,Bolton Wanderers,winter,in,Vincent Candela,5939,31,France,Left-Back,LB,4000000.0,AS Roma,Italy,0.0,1
+2004,Premier League,Bolton Wanderers,summer,out,Simon Charlton,19846,32,England,Left-Back,LB,,Norwich City,England,375000.0,0
+2004,Premier League,Bolton Wanderers,summer,out,Steve Howey,3138,32,England,Centre-Back,CB,,New England Revolution,United States,0.0,0
+2004,Premier League,Bolton Wanderers,summer,out,Delroy Facey,3948,24,Grenada,Centre-Forward,CF,,Hull City,England,0.0,0
+2004,Premier League,Bolton Wanderers,summer,out,Wayne Buchanan,3944,22,Northern Ireland,Centre-Back,CB,,Lisburn Distillery FC,Northern Ireland,0.0,0
+2004,Premier League,Bolton Wanderers,summer,out,Michael Bridges,3767,26,England,Centre-Forward,CF,,Sunderland AFC,England,0.0,0
+2004,Premier League,Bolton Wanderers,summer,out,Danny Livesey,10054,19,England,Centre-Back,CB,,Blackpool FC,England,0.0,0
+2004,Premier League,Bolton Wanderers,summer,out,Kangana N'Diwa,3497,20,DR Congo,Centre-Back,CB,,Stalybridge Celtic,England,0.0,0
+2004,Premier League,Bolton Wanderers,summer,out,Per Frandsen,3735,34,Denmark,Right Midfield,RM,,Wigan Athletic,England,0.0,0
+2004,Premier League,Bolton Wanderers,summer,out,Ibrahim Bá,5815,30,France,Right Midfield,RM,,Caykur Rizespor,Türkiye,0.0,0
+2004,Premier League,Bolton Wanderers,summer,out,Gérald Forschelet,9676,22,France,Defensive Midfield,DM,,FC Istres Ouest Provence ,France,0.0,0
+2004,Premier League,Bolton Wanderers,summer,out,Émerson Thome,3643,32,Brazil,Centre-Back,CB,,Wigan Athletic,England,0.0,0
+2004,Premier League,Bolton Wanderers,summer,out,Jardel,3625,30,Brazil,Centre-Forward,CF,,CA Newell's Old Boys,Argentina,0.0,1
+2004,Premier League,Bolton Wanderers,summer,out,Charlie Comyn-Platt,25382,18,England,Centre-Back,CB,,Wycombe Wanderers,England,0.0,1
+2004,Premier League,Bolton Wanderers,summer,out,Donovan Ricketts,15544,27,Jamaica,Goalkeeper,GK,,Bradford City,England,0.0,1
+2004,Premier League,Bolton Wanderers,summer,out,Dwight Pezzarossi,51576,25,Guatemala,Centre-Forward,CF,,CSD Comunicaciones,Guatemala,,0
+2004,Premier League,Bolton Wanderers,summer,out,Youri Djorkaeff,4,36,France,Attacking Midfield,AM,,Without Club,,,0
+2004,Premier League,Bolton Wanderers,summer,out,El-Hadji Diouf,3604,24,Senegal,Centre-Forward,CF,6500000.0,Liverpool FC,England,0.0,1
+2004,Premier League,Bolton Wanderers,summer,out,Javi Moreno,7768,29,Spain,Centre-Forward,CF,,Atlético de Madrid,Spain,0.0,1
+2004,Premier League,Bolton Wanderers,winter,out,Danny Livesey,10054,20,England,Centre-Back,CB,50000.0,Carlisle United,England,0.0,0
+2004,Premier League,Bolton Wanderers,winter,out,Les Ferdinand,3645,38,England,Centre-Forward,CF,750000.0,Reading FC,England,0.0,0
+2004,Premier League,Bolton Wanderers,winter,out,Blessing Kaku,22544,26,Nigeria,Central Midfield,CM,800000.0,Derby County,England,0.0,1
+2004,Premier League,Bolton Wanderers,winter,out,Florent Laville,3888,31,France,Centre-Back,CB,1500000.0,Coventry City,England,0.0,1
+2004,Premier League,Bolton Wanderers,winter,out,Ricky Shakes,28939,20,Guyana,Right Midfield,RM,50000.0,Bristol Rovers,England,0.0,1
+2004,Premier League,Bolton Wanderers,winter,out,Ricky Shakes,28939,20,Guyana,Right Midfield,RM,50000.0,Bury FC,England,0.0,1
+2004,Premier League,Bolton Wanderers,winter,out,Andy Oakes,13480,28,England,Goalkeeper,GK,50000.0,Derby County,England,0.0,1
+2004,Premier League,Charlton Athletic,summer,in,Francis Jeffers,3186,23,England,Centre-Forward,CF,,Arsenal FC,England,3900000.0,0
+2004,Premier League,Charlton Athletic,summer,in,Dennis Rommedahl,4361,25,Denmark,Right Winger,RW,,PSV Eindhoven,Netherlands,3500000.0,0
+2004,Premier League,Charlton Athletic,summer,in,Danny Murphy,3221,27,England,Central Midfield,CM,,Liverpool FC,England,3250000.0,0
+2004,Premier League,Charlton Athletic,summer,in,Talal El Karkouri,4130,27,Morocco,Centre-Back,CB,,Paris Saint-Germain,France,1500000.0,0
+2004,Premier League,Charlton Athletic,summer,in,Stephan Andersen,17880,22,Denmark,Goalkeeper,GK,,Akademisk Boldklub,Denmark,1100000.0,0
+2004,Premier League,Charlton Athletic,summer,in,Bryan Hughes,3939,28,England,Attacking Midfield,AM,,Birmingham City,England,0.0,0
+2004,Premier League,Charlton Athletic,summer,out,Claus Jensen,3099,27,Denmark,Attacking Midfield,AM,,Fulham FC,England,1900000.0,0
+2004,Premier League,Charlton Athletic,summer,out,Mathias Svensson,3861,29,Sweden,Centre-Forward,CF,,Norwich City,England,50000.0,0
+2004,Premier League,Charlton Athletic,summer,out,Adrian Deane,12129,21,Ireland,Midfielder,Midfielder,,Crawley Town,England,0.0,0
+2004,Premier League,Charlton Athletic,summer,out,Sérgio Leite,10372,24,Portugal,Goalkeeper,GK,,AD Ovarense,Portugal,0.0,0
+2004,Premier League,Charlton Athletic,summer,out,Paolo Di Canio,3699,36,Italy,Centre-Forward,CF,,SS Lazio,Italy,0.0,0
+2004,Premier League,Charlton Athletic,summer,out,Jamal Campbell-Ryce,4106,21,Jamaica,Right Winger,RW,,Chesterfield FC,England,0.0,0
+2004,Premier League,Charlton Athletic,summer,out,Stephen Hughes,10400,27,England,Central Midfield,CM,,Coventry City,England,0.0,0
+2004,Premier League,Charlton Athletic,summer,out,Rob Elliot,39037,18,Ireland,Goalkeeper,GK,,Bishop's Stortford FC,England,0.0,1
+2004,Premier League,Charlton Athletic,summer,out,Simon Royce,5162,33,England,Goalkeeper,GK,,Luton Town,England,0.0,1
+2004,Premier League,Charlton Athletic,summer,out,Paul Rachubka,4098,23,England,Goalkeeper,GK,,Northampton Town,England,0.0,1
+2004,Premier League,Charlton Athletic,summer,out,Paul Rachubka,4098,23,England,Goalkeeper,GK,,Milton Keynes Dons,England,0.0,1
+2004,Premier League,Charlton Athletic,summer,out,Gary Rowett,4102,30,England,Right-Back,RB,,Career break,,,0
+2004,Premier League,Charlton Athletic,summer,out,Richard Rufus,4101,29,England,Centre-Back,CB,,Retired,,,0
+2004,Premier League,Charlton Athletic,winter,out,Chris Powell,4100,35,England,Left-Back,LB,400000.0,West Ham United,England,0.0,0
+2004,Premier League,Charlton Athletic,winter,out,Paul Rachubka,4098,23,England,Goalkeeper,GK,1000000.0,Huddersfield Town,England,0.0,0
+2004,Premier League,Charlton Athletic,winter,out,Michael Turner,12127,21,England,Centre-Back,CB,50000.0,Brentford FC,England,0.0,0
+2004,Premier League,Charlton Athletic,winter,out,Graham Stuart,3334,34,England,Right Winger,RW,,Norwich City,England,0.0,0
+2004,Premier League,Charlton Athletic,winter,out,Simon Royce,5162,33,England,Goalkeeper,GK,250000.0,Queens Park Rangers,England,0.0,0
+2004,Premier League,Charlton Athletic,winter,out,Rob Elliot,39037,18,Ireland,Goalkeeper,GK,,Notts County,England,0.0,1
+2004,Premier League,Chelsea FC,summer,in,Didier Drogba,3924,26,Cote d'Ivoire,Centre-Forward,CF,,Olympique Marseille,France,38500000.0,0
+2004,Premier League,Chelsea FC,summer,in,Ricardo Carvalho,9828,26,Portugal,Centre-Back,CB,,FC Porto,Portugal,30000000.0,0
+2004,Premier League,Chelsea FC,summer,in,Paulo Ferreira,9832,25,Portugal,Right-Back,RB,,FC Porto,Portugal,20000000.0,0
+2004,Premier League,Chelsea FC,summer,in,Arjen Robben,4360,20,Netherlands,Right Winger,RW,,PSV Eindhoven,Netherlands,18000000.0,0
+2004,Premier League,Chelsea FC,summer,in,Tiago Mendes,8538,23,Portugal,Central Midfield,CM,,SL Benfica,Portugal,15000000.0,0
+2004,Premier League,Chelsea FC,summer,in,Petr Cech,5658,22,Czech Republic,Goalkeeper,GK,,Stade Rennais FC,France,13000000.0,0
+2004,Premier League,Chelsea FC,summer,in,Alex,15420,22,Brazil,Centre-Back,CB,,Santos FC,Brazil,11500000.0,0
+2004,Premier League,Chelsea FC,summer,in,Mateja Kežman,4358,25,Serbia,Centre-Forward,CF,,PSV Eindhoven,Netherlands,7500000.0,0
+2004,Premier League,Chelsea FC,summer,in,Alcides,3835,19,Brazil,Centre-Back,CB,,Esporte Clube Vitória,Brazil,900000.0,0
+2004,Premier League,Chelsea FC,summer,in,Nuno Morais,17350,20,Portugal,Defensive Midfield,DM,,FC Penafiel,Portugal,0.0,0
+2004,Premier League,Chelsea FC,winter,in,Jiri Jarosik,15581,27,Czech Republic,Centre-Back,CB,12000000.0,CSKA Moscow,Russia,8000000.0,0
+2004,Premier League,Chelsea FC,summer,out,Jesper Grønkjær,3137,26,Denmark,Left Winger,LW,,Birmingham City,England,3300000.0,0
+2004,Premier League,Chelsea FC,summer,out,Mario Melchiot,3158,27,Netherlands,Right-Back,RB,,Birmingham City,England,0.0,0
+2004,Premier League,Chelsea FC,summer,out,Jimmy Floyd Hasselbaink,3175,32,Netherlands,Centre-Forward,CF,,Middlesbrough FC,England,0.0,0
+2004,Premier League,Chelsea FC,summer,out,Alexis Nicolas,33073,21,Cyprus,Defensive Midfield,DM,,Brighton & Hove Albion,England,0.0,0
+2004,Premier League,Chelsea FC,summer,out,Marco Ambrosio,4294,31,Italy,Goalkeeper,GK,,Grasshopper Club Zurich,Switzerland,0.0,0
+2004,Premier League,Chelsea FC,summer,out,Andy Ross,10430,21,Scotland,Central Midfield,CM,,Partick Thistle FC,Scotland,0.0,0
+2004,Premier League,Chelsea FC,summer,out,Boudewijn Zenden,3173,27,Netherlands,Left Winger,LW,,Middlesbrough FC,England,0.0,0
+2004,Premier League,Chelsea FC,summer,out,Neil Sullivan,4045,34,Scotland,Goalkeeper,GK,,Leeds United,England,0.0,0
+2004,Premier League,Chelsea FC,summer,out,Jürgen Macho,3567,26,Austria,Goalkeeper,GK,,Rapid Vienna,Austria,0.0,0
+2004,Premier League,Chelsea FC,summer,out,Juan Sebastián Verón,3143,29,Argentina,Central Midfield,CM,,Inter Milan,Italy,0.0,1
+2004,Premier League,Chelsea FC,summer,out,Alcides,3835,19,Brazil,Centre-Back,CB,,SL Benfica,Portugal,0.0,1
+2004,Premier League,Chelsea FC,summer,out,Craig Rocastle,22228,23,Grenada,Right Midfield,RM,,Hibernian FC,Scotland,0.0,1
+2004,Premier League,Chelsea FC,summer,out,Valerio Di Cesare,3159,21,Italy,Centre-Back,CB,,UC AlbinoLeffe,Italy,0.0,1
+2004,Premier League,Chelsea FC,summer,out,Carlton Cole,3179,20,England,Centre-Forward,CF,,Aston Villa,England,0.0,1
+2004,Premier League,Chelsea FC,summer,out,Sebastian Kneißl,2902,21,Germany,Attacking Midfield,AM,,KVC Westerlo,Belgium,0.0,1
+2004,Premier League,Chelsea FC,summer,out,Hernán Crespo,3410,29,Argentina,Centre-Forward,CF,,AC Milan,Italy,0.0,1
+2004,Premier League,Chelsea FC,summer,out,Alex,15420,22,Brazil,Centre-Back,CB,,PSV Eindhoven,Netherlands,0.0,1
+2004,Premier League,Chelsea FC,summer,out,Filipe Oliveira,3178,20,Portugal,Right Winger,RW,,Preston North End,England,0.0,1
+2004,Premier League,Chelsea FC,summer,out,Winston Bogarde,3155,33,Netherlands,Centre-Back,CB,,Retired,,,0
+2004,Premier League,Chelsea FC,summer,out,Marcel Desailly,3154,35,France,Centre-Back,CB,,Without Club,,,0
+2004,Premier League,Chelsea FC,summer,out,Adrian Mutu,5879,25,Romania,Left Winger,LW,15000000.0,Without Club,,,0
+2004,Premier League,Chelsea FC,summer,out,Mario Stanic,3164,32,Croatia,Right Winger,RW,,Retired,,,0
+2004,Premier League,Chelsea FC,summer,out,Emmanuel Petit,3166,33,France,Defensive Midfield,DM,,Retired,,,0
+2004,Premier League,Chelsea FC,winter,out,Celestine Babayaro,3153,26,Nigeria,Left-Back,LB,4000000.0,Newcastle United,England,0.0,0
+2004,Premier League,Chelsea FC,winter,out,Craig Rocastle,22228,23,Grenada,Right Midfield,RM,100000.0,Sheffield Wednesday,England,0.0,0
+2004,Premier League,Crystal Palace,summer,in,Fitz Hall,6580,23,England,Centre-Back,CB,,Southampton FC,England,2250000.0,0
+2004,Premier League,Crystal Palace,summer,in,Sándor Torghelle,5229,22,Hungary,Centre-Forward,CF,,MTK Budapest,Hungary,1100000.0,0
+2004,Premier League,Crystal Palace,summer,in,Julián Speroni,12814,25,Argentina,Goalkeeper,GK,,Dundee FC,Scotland,1000000.0,0
+2004,Premier League,Crystal Palace,summer,in,Joonas Kolkka,4293,29,Finland,Right Winger,RW,,Borussia Mönchengladbach,Germany,700000.0,0
+2004,Premier League,Crystal Palace,summer,in,Wayne Andrews,23344,26,England,Striker,Striker,,Colchester United,England,100000.0,0
+2004,Premier League,Crystal Palace,summer,in,Emmerson Boyce,19641,24,Barbados,Right-Back,RB,,Luton Town,England,0.0,0
+2004,Premier League,Crystal Palace,summer,in,Mark Hudson,3640,22,England,Centre-Back,CB,,Fulham FC,England,0.0,0
+2004,Premier League,Crystal Palace,summer,in,Gábor Király,342,28,Hungary,Goalkeeper,GK,,Hertha BSC,Germany,0.0,0
+2004,Premier League,Crystal Palace,summer,in,Gonzalo Sorondo,13488,24,Uruguay,Centre-Back,CB,,Inter Milan,Italy,0.0,1
+2004,Premier League,Crystal Palace,summer,in,Anthony Danze,25526,20,Australia,Midfielder,Midfielder,,Perth Glory,Australia,,0
+2004,Premier League,Crystal Palace,summer,in,Iván Kaviedes,7561,26,Ecuador,Centre-Forward,CF,,Barcelona SC Guayaquil,Ecuador,,0
+2004,Premier League,Crystal Palace,summer,in,Nicola Ventola,5798,26,Italy,Centre-Forward,CF,,Inter Milan,Italy,0.0,1
+2004,Premier League,Crystal Palace,winter,in,Vasilios Lakis,9863,28,Greece,Right Midfield,RM,2500000.0,Without Club,,,0
+2004,Premier League,Crystal Palace,summer,out,Jamie Smith,14073,29,England,Right-Back,RB,,Bristol City,England,0.0,0
+2004,Premier League,Crystal Palace,summer,out,Gavin Heeroo,14022,19,Mauritius,Midfielder,Midfielder,,Billericay Town,England,0.0,0
+2004,Premier League,Crystal Palace,summer,out,Tariq Nabil,15909,19,England,Attacking Midfield,AM,,Windsor & Eton FC,England,0.0,0
+2004,Premier League,Crystal Palace,summer,out,Curtis Fleming,11353,35,Ireland,Centre-Back,CB,,Darlington FC (- 2012),England,0.0,0
+2004,Premier League,Crystal Palace,summer,out,Julian Gray,8735,24,England,Centre-Forward,CF,,Birmingham City,England,0.0,0
+2004,Premier League,Crystal Palace,summer,out,Tommy Black,13992,24,England,Right Midfield,RM,,Sheffield United,England,0.0,1
+2004,Premier League,Crystal Palace,summer,out,Gareth Williams,14083,21,Wales,Attacking Midfield,AM,,Colchester United,England,,0
+2004,Premier League,Crystal Palace,summer,out,Matt Clarke,13781,30,England,Goalkeeper,GK,,Retired,,,0
+2004,Premier League,Crystal Palace,summer,out,Nico Vaesen,3737,34,Belgium,Goalkeeper,GK,,Birmingham City,England,0.0,1
+2004,Premier League,Crystal Palace,summer,out,Gonzalo Sorondo,13488,25,Uruguay,Centre-Back,CB,2500000.0,Inter Milan,Italy,0.0,1
+2004,Premier League,Crystal Palace,winter,out,Shaun Derry,14007,27,England,Defensive Midfield,DM,750000.0,Leeds United,England,100000.0,0
+2004,Premier League,Crystal Palace,winter,out,Cédric Berthelin,13894,28,France,Goalkeeper,GK,500000.0,RAEC Mons (-2015),Belgium,0.0,0
+2004,Premier League,Crystal Palace,winter,out,Iván Kaviedes,7561,27,Ecuador,Centre-Forward,CF,2000000.0,Barcelona SC Guayaquil,Ecuador,0.0,0
+2004,Premier League,Crystal Palace,winter,out,Shaun Derry,14007,27,England,Defensive Midfield,DM,750000.0,Nottingham Forest,England,0.0,1
+2004,Premier League,Crystal Palace,winter,out,Anthony Danze,25526,20,Australia,Midfielder,Midfielder,400000.0,Milton Keynes Dons,England,0.0,1
+2004,Premier League,Everton FC,summer,in,Tim Cahill,13556,24,Australia,Attacking Midfield,AM,,Millwall FC,England,2200000.0,0
+2004,Premier League,Everton FC,summer,in,Marcus Bent,9958,26,England,Centre-Forward,CF,,Ipswich Town,England,675000.0,0
+2004,Premier League,Everton FC,summer,in,Eddy Bosnar,3053,24,Australia,Centre-Back,CB,,SK Sturm Graz,Austria,0.0,0
+2004,Premier League,Everton FC,winter,in,James Beattie,3112,26,England,Centre-Forward,CF,10000000.0,Southampton FC,England,9000000.0,0
+2004,Premier League,Everton FC,winter,in,Guillaume Plessis,12363,19,France,Defensive Midfield,DM,300000.0,RC Lens,France,0.0,0
+2004,Premier League,Everton FC,winter,in,Mikel Arteta,7451,22,Spain,Central Midfield,CM,8000000.0,Real Sociedad,Spain,0.0,1
+2004,Premier League,Everton FC,summer,out,Wayne Rooney,3332,18,England,Centre-Forward,CF,,Manchester United,England,37000000.0,0
+2004,Premier League,Everton FC,summer,out,Tomasz Radzinski,3585,30,Canada,Centre-Forward,CF,,Fulham FC,England,3000000.0,0
+2004,Premier League,Everton FC,summer,out,Tobias Linderoth,3586,25,Sweden,Defensive Midfield,DM,,FC Copenhagen,Denmark,1600000.0,0
+2004,Premier League,Everton FC,summer,out,Scot Gemmill,3617,33,Scotland,Central Midfield,CM,,Leicester City,England,0.0,0
+2004,Premier League,Everton FC,summer,out,Niclas Alexandersson,3265,32,Sweden,Right Midfield,RM,,IFK Göteborg,Sweden,0.0,0
+2004,Premier League,Everton FC,summer,out,Steve Simonsen,3583,25,England,Goalkeeper,GK,,Stoke City,England,0.0,0
+2004,Premier League,Everton FC,summer,out,David Unsworth,3272,30,England,Left-Back,LB,,Portsmouth FC,England,0.0,0
+2004,Premier League,Everton FC,summer,out,Steven Schumacher,15304,20,England,Central Midfield,CM,,Bradford City,England,0.0,0
+2004,Premier League,Everton FC,summer,out,Paul Gerrard,3584,31,England,Goalkeeper,GK,,Nottingham Forest,England,0.0,0
+2004,Premier League,Everton FC,summer,out,Peter Clarke,25201,22,England,Centre-Back,CB,,Blackpool FC,England,0.0,0
+2004,Premier League,Everton FC,summer,out,Mikel Arteta,7451,23,Spain,Central Midfield,CM,8000000.0,Real Sociedad,Spain,0.0,1
+2004,Premier League,Everton FC,winter,out,Thomas Gravesen,301,28,Denmark,Defensive Midfield,DM,6000000.0,Real Madrid,Spain,3400000.0,0
+2004,Premier League,Everton FC,winter,out,Nick Chadwick,3616,22,England,Centre-Forward,CF,300000.0,Plymouth Argyle,England,400000.0,0
+2004,Premier League,Everton FC,winter,out,Alex Nyarko,3727,31,Ghana,Central Midfield,CM,3000000.0,IK Start,Norway,0.0,0
+2004,Premier League,Everton FC,winter,out,Kevin Campbell,3468,34,England,Centre-Forward,CF,1500000.0,West Bromwich Albion,England,0.0,0
+2004,Premier League,Everton FC,winter,out,Iain Turner,3582,21,Scotland,Goalkeeper,GK,100000.0,Doncaster Rovers,England,0.0,1
+2004,Premier League,Fulham FC,summer,in,Papa Bouba Diop,5485,26,Senegal,Central Midfield,CM,,RC Lens,France,9000000.0,0
+2004,Premier League,Fulham FC,summer,in,Tomasz Radzinski,3585,30,Canada,Centre-Forward,CF,,Everton FC,England,3000000.0,0
+2004,Premier League,Fulham FC,summer,in,Claus Jensen,3099,27,Denmark,Attacking Midfield,AM,,Charlton Athletic,England,1900000.0,0
+2004,Premier League,Fulham FC,summer,in,Ricardo Batista,24846,17,Angola,Goalkeeper,GK,,Vitória Setúbal FC U19,Portugal,50000.0,0
+2004,Premier League,Fulham FC,summer,in,Billy McKinlay,9212,35,Scotland,Right Midfield,RM,,Leicester City,England,0.0,0
+2004,Premier League,Fulham FC,summer,in,Andy Cole,3238,32,England,Centre-Forward,CF,,Blackburn Rovers,England,0.0,0
+2004,Premier League,Fulham FC,summer,out,Sean Davis,4036,24,England,Defensive Midfield,DM,,Tottenham Hotspur,England,5200000.0,0
+2004,Premier League,Fulham FC,summer,out,Mark Hudson,3640,22,England,Centre-Back,CB,,Crystal Palace,England,0.0,0
+2004,Premier League,Fulham FC,summer,out,Jon Harley,4014,24,England,Left-Back,LB,,Sheffield United,England,0.0,0
+2004,Premier League,Fulham FC,summer,out,Barry Hayles,4035,32,Jamaica,Centre-Forward,CF,,Sheffield United,England,0.0,0
+2004,Premier League,Fulham FC,summer,out,Dean Leacock,4039,20,England,Centre-Back,CB,,Coventry City,England,0.0,1
+2004,Premier League,Fulham FC,summer,out,Liam Fontaine,28953,18,England,Centre-Back,CB,,Yeovil Town,England,0.0,1
+2004,Premier League,Fulham FC,summer,out,Stuart Noble,14659,20,Scotland,Centre-Forward,CF,,Torquay United,England,0.0,1
+2004,Premier League,Fulham FC,summer,out,Abdeslam Ouaddou,4002,25,France,Centre-Back,CB,,Stade Rennais FC,France,,0
+2004,Premier League,Fulham FC,summer,out,Facundo Sava,3709,30,Argentina,Centre-Forward,CF,,Celta de Vigo,Spain,0.0,1
+2004,Premier League,Fulham FC,summer,out,Andrejs Stolcers,3724,29,Latvia,Attacking Midfield,AM,,Without Club,,,0
+2004,Premier League,Fulham FC,summer,out,Dave Beasant,10384,45,England,Goalkeeper,GK,,Career break,,,0
+2004,Premier League,Fulham FC,summer,out,Bobby Petta,3335,29,Netherlands,Left Midfield,LM,,Celtic FC,Scotland,0.0,1
+2004,Premier League,Fulham FC,summer,out,Martin Djetou,3725,29,France,Centre-Back,CB,,Parma FC,Italy,0.0,1
+2004,Premier League,Fulham FC,winter,out,Stuart Noble,14659,21,Scotland,Centre-Forward,CF,75000.0,Northampton Town,England,0.0,0
+2004,Premier League,Fulham FC,winter,out,Andy Cole,3238,33,England,Centre-Forward,CF,5500000.0,Manchester City,England,0.0,0
+2004,Premier League,Fulham FC,winter,out,Liam Fontaine,28953,18,England,Centre-Back,CB,,Kilmarnock FC,Scotland,0.0,1
+2004,Premier League,Fulham FC,winter,out,Elvis Hammond,3722,24,Ghana,Centre-Forward,CF,250000.0,RBC Roosendaal,Netherlands,0.0,1
+2004,Premier League,Fulham FC,winter,out,Darren Pratley,28957,19,England,Central Midfield,CM,50000.0,Brentford FC,England,0.0,1
+2004,Premier League,Fulham FC,winter,out,Adam Green,4766,21,England,Left-Back,LB,350000.0,AFC Bournemouth,England,0.0,1
+2004,Premier League,Fulham FC,winter,out,Adam Green,4766,21,England,Left-Back,LB,350000.0,Sheffield Wednesday,England,0.0,1
+2004,Premier League,Fulham FC,winter,out,Ross Flitney,9411,20,England,Goalkeeper,GK,100000.0,Doncaster Rovers,England,0.0,1
+2004,Premier League,Fulham FC,winter,out,Ross Flitney,9411,20,England,Goalkeeper,GK,100000.0,Yeading FC (- 2007),England,0.0,1
+2004,Premier League,Liverpool FC,summer,in,Djibril Cissé,3966,22,France,Centre-Forward,CF,,AJ Auxerre,France,20000000.0,0
+2004,Premier League,Liverpool FC,summer,in,Xabi Alonso,7476,22,Spain,Defensive Midfield,DM,,Real Sociedad,Spain,16000000.0,0
+2004,Premier League,Liverpool FC,summer,in,Luis García,7920,26,Spain,Right Winger,RW,,FC Barcelona,Spain,8750000.0,0
+2004,Premier League,Liverpool FC,summer,in,Josemi,7776,24,Spain,Centre-Back,CB,,Málaga CF,Spain,3000000.0,0
+2004,Premier League,Liverpool FC,summer,in,Antonio Núñez,15466,25,Spain,Right Winger,RW,,Real Madrid,Spain,0.0,0
+2004,Premier League,Liverpool FC,winter,in,Fernando Morientes,7531,28,Spain,Centre-Forward,CF,15000000.0,Real Madrid,Spain,9250000.0,0
+2004,Premier League,Liverpool FC,winter,in,Scott Carson,14555,19,England,Goalkeeper,GK,750000.0,Leeds United,England,1400000.0,0
+2004,Premier League,Liverpool FC,winter,in,Mauricio Pellegrino,7573,33,Argentina,Centre-Back,CB,2250000.0,Valencia CF,Spain,0.0,0
+2004,Premier League,Liverpool FC,summer,out,Michael Owen,1397,24,England,Centre-Forward,CF,,Real Madrid,Spain,12000000.0,0
+2004,Premier League,Liverpool FC,summer,out,Emile Heskey,3142,26,England,Centre-Forward,CF,,Birmingham City,England,9320000.0,0
+2004,Premier League,Liverpool FC,summer,out,Danny Murphy,3221,27,England,Central Midfield,CM,,Charlton Athletic,England,3250000.0,0
+2004,Premier League,Liverpool FC,summer,out,Steven Gillespie,48229,19,England,Centre-Forward,CF,,Bristol City,England,0.0,0
+2004,Premier League,Liverpool FC,summer,out,Chris Butler,68387,19,Ireland,Left-Back,LB,,Accrington Stanley,England,0.0,0
+2004,Premier League,Liverpool FC,summer,out,Michael Foley-Sheridan,3607,21,Ireland,Central Midfield,CM,,St. Patrick's Athletic,Ireland,0.0,0
+2004,Premier League,Liverpool FC,summer,out,Stephen Vaughan,17620,19,England,Right-Back,RB,,Chester City (- 2010),England,0.0,0
+2004,Premier League,Liverpool FC,summer,out,Markus Babbel,192,31,Germany,Centre-Back,CB,,VfB Stuttgart,Germany,0.0,0
+2004,Premier League,Liverpool FC,summer,out,Alou Diarra,1327,23,France,Defensive Midfield,DM,,RC Lens,France,0.0,1
+2004,Premier League,Liverpool FC,summer,out,El-Hadji Diouf,3604,23,Senegal,Centre-Forward,CF,,Bolton Wanderers,England,0.0,1
+2004,Premier League,Liverpool FC,summer,out,Anthony Le Tallec,4217,19,France,Centre-Forward,CF,,AS Saint-Étienne,France,0.0,1
+2004,Premier League,Liverpool FC,summer,out,Jon Otsemobor,3599,21,England,Right-Back,RB,,Crewe Alexandra,England,0.0,1
+2004,Premier League,Liverpool FC,summer,out,Carl Medjani,8060,19,Algeria,Centre-Back,CB,,FC Lorient,France,0.0,1
+2004,Premier League,Liverpool FC,summer,out,Bruno Cheyrou,3602,26,France,Central Midfield,CM,,Olympique Marseille,France,0.0,1
+2004,Premier League,Liverpool FC,summer,out,Arnaud Bühler,10058,19,Switzerland,Centre-Back,CB,,FC Aarau,Switzerland,,0
+2004,Premier League,Liverpool FC,summer,out,Grégory Vignal,4755,23,France,Left-Back,LB,,Rangers FC,Scotland,0.0,1
+2004,Premier League,Liverpool FC,summer,out,Bernard Diomède,3920,30,France,Left Winger,LW,,Without Club,,,0
+2004,Premier League,Liverpool FC,winter,out,Stéphane Henchoz,3210,30,Switzerland,Centre-Back,CB,5000000.0,Celtic FC,Scotland,0.0,0
+2004,Premier League,Liverpool FC,winter,out,Paul Harrison,22229,20,England,Goalkeeper,GK,125000.0,Leeds United,England,0.0,1
+2004,Premier League,Liverpool FC,winter,out,Robbie Foy,28945,19,Scotland,Left Winger,LW,50000.0,Chester City (- 2010),England,0.0,1
+2004,Premier League,Liverpool FC,winter,out,Salif Diao,3600,27,Senegal,Defensive Midfield,DM,8000000.0,Birmingham City,England,0.0,1
+2004,Premier League,Manchester City,summer,in,Ben Thatcher,3304,28,Wales,Left-Back,LB,,Leicester City,England,1500000.0,0
+2004,Premier League,Manchester City,summer,in,Geert De Vlieger,3959,32,Belgium,Goalkeeper,GK,,Willem II Tilburg,Netherlands,0.0,0
+2004,Premier League,Manchester City,summer,in,Ronald Waterreus,4335,33,Netherlands,Goalkeeper,GK,,PSV Eindhoven,Netherlands,0.0,0
+2004,Premier League,Manchester City,summer,in,Danny Mills,3743,27,England,Right-Back,RB,,Leeds United,England,0.0,0
+2004,Premier League,Manchester City,winter,in,Andy Cole,3238,33,England,Centre-Forward,CF,5500000.0,Fulham FC,England,0.0,0
+2004,Premier League,Manchester City,winter,in,Kiki Musampa,7787,27,Netherlands,Left Winger,LW,3500000.0,Atlético de Madrid,Spain,0.0,1
+2004,Premier League,Manchester City,summer,out,Paulo Wanchope,3230,28,Costa Rica,Centre-Forward,CF,,Málaga CF,Spain,750000.0,0
+2004,Premier League,Manchester City,summer,out,Chris Shuker,7932,22,England,Right Midfield,RM,,Barnsley FC,England,0.0,0
+2004,Premier League,Manchester City,summer,out,Michael Tarnat,222,34,Germany,Left-Back,LB,,Hannover 96,Germany,0.0,0
+2004,Premier League,Manchester City,summer,out,Danny Tiatto,3227,31,Australia,Left-Back,LB,,Leicester City,England,0.0,0
+2004,Premier League,Manchester City,summer,out,Gerard Wiekens,3319,31,Netherlands,Centre-Back,CB,,BV Veendam,Netherlands,0.0,0
+2004,Premier League,Manchester City,summer,out,Keiren Westwood,15164,19,Ireland,Goalkeeper,GK,,Carlisle United,England,0.0,0
+2004,Premier League,Manchester City,summer,out,Mikkel Bischoff,3302,22,Denmark,Centre-Back,CB,,Wolverhampton Wanderers,England,0.0,1
+2004,Premier League,Manchester City,summer,out,Árni Arason,3502,29,Iceland,Goalkeeper,GK,,Vålerenga Fotball Elite,Norway,,0
+2004,Premier League,Manchester City,summer,out,Mark Redshaw,108740,19,England,Second Striker,SS,,Radcliffe FC,England,,0
+2004,Premier League,Manchester City,summer,out,Daniel Van Buyten,4740,26,Belgium,Centre-Back,CB,,Olympique Marseille,France,0.0,1
+2004,Premier League,Manchester City,winter,out,Nicolas Anelka,3226,25,France,Centre-Forward,CF,12800000.0,Fenerbahce,Türkiye,7190000.0,0
+2004,Premier League,Manchester City,winter,out,Ronald Waterreus,4335,34,Netherlands,Goalkeeper,GK,2500000.0,Rangers FC,Scotland,0.0,0
+2004,Premier League,Manchester City,winter,out,Dorryl Proffitt,16154,19,England,Centre-Forward,CF,400000.0,Leek Town FC,England,0.0,0
+2004,Premier League,Manchester City,winter,out,Mikkel Bischoff,3302,23,Denmark,Centre-Back,CB,1500000.0,Wolverhampton Wanderers,England,0.0,1
+2004,Premier League,Manchester City,winter,out,Lee Croft,27510,19,England,Right Midfield,RM,,Oldham Athletic,England,0.0,1
+2004,Premier League,Manchester City,winter,out,Kevin Stuhr-Ellegaard,3466,21,Denmark,Goalkeeper,GK,1500000.0,Blackpool FC,England,0.0,1
+2004,Premier League,Manchester City,winter,out,Karl Bermingham,29555,19,Ireland,Centre-Forward,CF,50000.0,Lincoln City,England,0.0,1
+2004,Premier League,Manchester City,winter,out,Christian Negouai,3811,27,Martinique,Defensive Midfield,DM,700000.0,Coventry City,England,0.0,1
+2004,Premier League,Manchester United,summer,in,Wayne Rooney,3332,18,England,Centre-Forward,CF,,Everton FC,England,37000000.0,0
+2004,Premier League,Manchester United,summer,in,Gabriel Heinze,5555,26,Argentina,Centre-Back,CB,,Paris Saint-Germain,France,10000000.0,0
+2004,Premier League,Manchester United,summer,in,Alan Smith,3768,23,England,Central Midfield,CM,,Leeds United,England,9000000.0,0
+2004,Premier League,Manchester United,summer,in,Gerard Piqué,18944,17,Spain,Centre-Back,CB,,FC Barcelona U19,Spain,5250000.0,0
+2004,Premier League,Manchester United,summer,in,Liam Miller,9505,23,Ireland,Central Midfield,CM,,Celtic FC,Scotland,0.0,0
+2004,Premier League,Manchester United,summer,out,Nicky Butt,3543,29,England,Defensive Midfield,DM,,Newcastle United,England,3750000.0,0
+2004,Premier League,Manchester United,summer,out,Diego Forlán,3408,25,Uruguay,Centre-Forward,CF,,Villarreal CF,Spain,3200000.0,0
+2004,Premier League,Manchester United,summer,out,Daniel Nardiello,3536,22,Wales,Centre-Forward,CF,100000.0,Barnsley FC,England,100000.0,0
+2004,Premier League,Manchester United,summer,out,Mark Lynch,3537,22,England,Right-Back,RB,,Sunderland AFC,England,75000.0,0
+2004,Premier League,Manchester United,summer,out,Hussein Yasser,13902,21,Qatar,Attacking Midfield,AM,125000.0,AEL Limassol,Cyprus,0.0,0
+2004,Premier League,Manchester United,summer,out,Luke Chadwick,3658,23,England,Attacking Midfield,AM,,West Ham United,England,0.0,0
+2004,Premier League,Manchester United,summer,out,Danny Pugh,3546,21,England,Left-Back,LB,,Leeds United,England,0.0,0
+2004,Premier League,Manchester United,summer,out,Neil Wood,11320,21,England,Central Midfield,CM,,Coventry City,England,0.0,0
+2004,Premier League,Manchester United,summer,out,Fabien Barthez,3289,33,France,Goalkeeper,GK,,Olympique Marseille,France,0.0,0
+2004,Premier League,Manchester United,summer,out,Luke Steele,3539,19,England,Goalkeeper,GK,,Coventry City,England,0.0,1
+2004,Premier League,Manchester United,summer,out,Eddie Johnson,15997,19,England,Centre-Forward,CF,,Coventry City,England,0.0,1
+2004,Premier League,Manchester United,summer,out,Michael Stewart,3246,23,Scotland,Central Midfield,CM,,Heart of Midlothian FC,Scotland,0.0,1
+2004,Premier League,Manchester United,summer,out,Nick Culkin,13719,24,England,Goalkeeper,GK,,Queens Park Rangers,England,,0
+2004,Premier League,Manchester United,summer,out,Daniel Nardiello,3536,21,Wales,Centre-Forward,CF,,Barnsley FC,England,0.0,1
+2004,Premier League,Manchester United,winter,out,Eric Djemba Djemba,5509,23,Cameroon,Defensive Midfield,DM,7000000.0,Aston Villa,England,2540000.0,0
+2004,Premier League,Manchester United,winter,out,Bojan Djordjic,3659,22,Sweden,Left Winger,LW,1000000.0,Rangers FC,Scotland,0.0,0
+2004,Premier League,Manchester United,winter,out,Colin Heath,4232,20,England,Centre-Forward,CF,50000.0,Cambridge United,England,0.0,1
+2004,Premier League,Manchester United,winter,out,Paul Tierney,4231,22,Ireland,Left-Back,LB,150000.0,Bradford City,England,0.0,1
+2004,Premier League,Manchester United,winter,out,Kieran Richardson,3548,20,England,Left-Back,LB,500000.0,West Bromwich Albion,England,0.0,1
+2004,Premier League,Manchester United,winter,out,Chris Eagles,24635,19,England,Right Winger,RW,750000.0,Watford FC,England,0.0,1
+2004,Premier League,Middlesbrough FC,summer,in,Mark Viduka,3242,28,Australia,Centre-Forward,CF,,Leeds United,England,6750000.0,0
+2004,Premier League,Middlesbrough FC,summer,in,Boudewijn Zenden,3173,27,Netherlands,Left Winger,LW,,Chelsea FC,England,0.0,0
+2004,Premier League,Middlesbrough FC,summer,in,Gaizka Mendieta,7603,30,Spain,Right Midfield,RM,,SS Lazio,Italy,0.0,0
+2004,Premier League,Middlesbrough FC,summer,in,Ray Parlour,3208,31,England,Central Midfield,CM,,Arsenal FC,England,0.0,0
+2004,Premier League,Middlesbrough FC,summer,in,Jimmy Floyd Hasselbaink,3175,32,Netherlands,Centre-Forward,CF,,Chelsea FC,England,0.0,0
+2004,Premier League,Middlesbrough FC,summer,in,Michael Reiziger,4375,31,Netherlands,Right-Back,RB,,FC Barcelona,Spain,0.0,0
+2004,Premier League,Middlesbrough FC,summer,out,Jonathan Greening,3865,25,England,Central Midfield,CM,,West Bromwich Albion,England,1750000.0,0
+2004,Premier League,Middlesbrough FC,summer,out,Massimo Maccarone,3713,24,Italy,Centre-Forward,CF,,Parma FC,Italy,1000000.0,1
+2004,Premier League,Middlesbrough FC,summer,out,Craig Dove,4040,20,England,Right Midfield,RM,,Rushden & Diamonds (- 2011),England,0.0,0
+2004,Premier League,Middlesbrough FC,summer,out,Phil Gulliver,13243,21,England,Centre-Back,CB,,Rushden & Diamonds (- 2011),England,0.0,0
+2004,Premier League,Middlesbrough FC,summer,out,Robbie Stockdale,3712,24,Scotland,Right-Back,RB,,Rotherham United,England,0.0,0
+2004,Premier League,Middlesbrough FC,summer,out,Allan Johnston,3649,30,Scotland,Right Midfield,RM,,Kilmarnock FC,Scotland,0.0,0
+2004,Premier League,Middlesbrough FC,summer,out,Juninho Paulista,3505,31,Brazil,Attacking Midfield,AM,,Celtic FC,Scotland,0.0,0
+2004,Premier League,Middlesbrough FC,summer,out,David Murphy,3868,20,England,Left-Back,LB,,Hibernian FC,Scotland,0.0,0
+2004,Premier League,Middlesbrough FC,summer,out,Michael Ricketts,4062,25,England,Centre-Forward,CF,,Leeds United,England,0.0,0
+2004,Premier League,Middlesbrough FC,summer,out,Sam Russell,4043,21,England,Goalkeeper,GK,,Darlington FC (- 2012),England,0.0,0
+2004,Premier League,Middlesbrough FC,summer,out,Ross Turnbull,29159,19,England,Goalkeeper,GK,,Bradford City,England,0.0,1
+2004,Premier League,Middlesbrough FC,summer,out,Ross Turnbull,29159,19,England,Goalkeeper,GK,,Barnsley FC,England,0.0,1
+2004,Premier League,Middlesbrough FC,summer,out,Mark Wilson,3327,25,England,Central Midfield,CM,,Doncaster Rovers,England,0.0,1
+2004,Premier League,Middlesbrough FC,summer,out,Boudewijn Zenden,3173,27,Netherlands,Left Winger,LW,,Chelsea FC,England,0.0,1
+2004,Premier League,Middlesbrough FC,summer,out,Gaizka Mendieta,7603,30,Spain,Right Midfield,RM,,SS Lazio,Italy,0.0,1
+2004,Premier League,Middlesbrough FC,winter,out,Massimo Maccarone,3713,25,Italy,Centre-Forward,CF,6500000.0,AC Siena,Italy,400000.0,1
+2004,Premier League,Middlesbrough FC,winter,out,Carlo Nash,3804,31,England,Goalkeeper,GK,250000.0,Preston North End,England,300000.0,0
+2004,Premier League,Middlesbrough FC,winter,out,Brad Jones,4042,22,Australia,Goalkeeper,GK,100000.0,Blackpool FC,England,0.0,1
+2004,Premier League,Middlesbrough FC,winter,out,Andrew Davies,3869,20,England,Centre-Back,CB,500000.0,Queens Park Rangers,England,0.0,1
+2004,Premier League,Middlesbrough FC,winter,out,Mark Wilson,3327,25,England,Central Midfield,CM,1750000.0,Livingston FC,Scotland,0.0,1
+2004,Premier League,Middlesbrough FC,winter,out,Matthew Bates,29149,18,England,Centre-Back,CB,,Darlington FC (- 2012),England,0.0,1
+2004,Premier League,Newcastle United,summer,in,James Milner,3333,18,England,Central Midfield,CM,,Leeds United,England,7400000.0,0
+2004,Premier League,Newcastle United,summer,in,Nicky Butt,3543,29,England,Defensive Midfield,DM,,Manchester United,England,3750000.0,0
+2004,Premier League,Newcastle United,summer,in,Stephen Carr,4046,27,Ireland,Right-Back,RB,,Tottenham Hotspur,England,3000000.0,0
+2004,Premier League,Newcastle United,summer,in,Charles N'Zogbia,22165,18,France,Right Winger,RW,,Le Havre AC,France,1000000.0,0
+2004,Premier League,Newcastle United,summer,in,Ronny Johnsen,3578,35,Norway,Centre-Back,CB,,Aston Villa,England,0.0,0
+2004,Premier League,Newcastle United,summer,in,Patrick Kluivert,4385,28,Netherlands,Centre-Forward,CF,,FC Barcelona,Spain,0.0,0
+2004,Premier League,Newcastle United,winter,in,Jean-Alain Boumsong,5418,25,France,Centre-Back,CB,8500000.0,Rangers FC,Scotland,11300000.0,0
+2004,Premier League,Newcastle United,winter,in,Amdy Faye,5428,27,Senegal,Defensive Midfield,DM,3000000.0,Portsmouth FC,England,3000000.0,0
+2004,Premier League,Newcastle United,winter,in,Celestine Babayaro,3153,26,Nigeria,Left-Back,LB,4000000.0,Chelsea FC,England,0.0,0
+2004,Premier League,Newcastle United,summer,out,Jonathan Woodgate,3224,24,England,Centre-Back,CB,,Real Madrid,Spain,18300000.0,0
+2004,Premier League,Newcastle United,summer,out,Lomana LuaLua,3458,23,DR Congo,Centre-Forward,CF,,Portsmouth FC,England,2250000.0,0
+2004,Premier League,Newcastle United,summer,out,Gary Speed,3459,34,Wales,Central Midfield,CM,,Bolton Wanderers,England,1130000.0,0
+2004,Premier League,Newcastle United,summer,out,Andy Ferrell,47902,20,England,Left Midfield,LM,,Watford FC,England,0.0,0
+2004,Premier League,Newcastle United,summer,out,Brian Kerr,3260,22,Scotland,Central Midfield,CM,,Motherwell FC,Scotland,0.0,0
+2004,Premier League,Newcastle United,summer,out,Steven Caldwell,3462,23,Scotland,Centre-Back,CB,,Sunderland AFC,England,0.0,0
+2004,Premier League,Newcastle United,summer,out,Andy Griffin,3579,25,England,Right-Back,RB,,Portsmouth FC,England,0.0,0
+2004,Premier League,Newcastle United,summer,out,Calvin Zola,3269,19,DR Congo,Centre-Forward,CF,,Tranmere Rovers,England,0.0,0
+2004,Premier League,Newcastle United,summer,out,Hugo Viana,3480,21,Portugal,Central Midfield,CM,,Sporting CP,Portugal,0.0,1
+2004,Premier League,Newcastle United,summer,out,Michael Chopra,3463,20,England,Centre-Forward,CF,,Barnsley FC,England,0.0,1
+2004,Premier League,Newcastle United,summer,out,Diego Gavilán,4087,24,Paraguay,Central Midfield,CM,,Sport Club Internacional,Brazil,,0
+2004,Premier League,Newcastle United,summer,out,Robert Middleby,43171,28,Australia,Right-Back,RB,,Sydney FC,Australia,,0
+2004,Premier League,Newcastle United,summer,out,Richard Offiong,20902,20,England,Centre-Forward,CF,,Istanbulspor,Türkiye,,0
+2004,Premier League,Newcastle United,winter,out,Olivier Bernard,3301,25,France,Left-Back,LB,4000000.0,Southampton FC,England,600000.0,0
+2004,Premier League,Newcastle United,winter,out,Ronny Johnsen,3578,35,Norway,Centre-Back,CB,450000.0,Vålerenga Fotball Elite,Norway,0.0,0
+2004,Premier League,Newcastle United,winter,out,Craig Bellamy,3297,25,Wales,Left Winger,LW,12000000.0,Celtic FC,Scotland,0.0,1
+2004,Premier League,Newcastle United,winter,out,Stephen Brennan,38101,21,Ireland,Defensive Midfield,DM,,Shelbourne FC,Ireland,0.0,1
+2004,Premier League,Norwich City,summer,in,Mattias Jonson,15044,30,Sweden,Centre-Forward,CF,,Bröndby IF,Denmark,1350000.0,0
+2004,Premier League,Norwich City,summer,in,Youssef Safri,10035,27,Morocco,Defensive Midfield,DM,,Coventry City,England,750000.0,0
+2004,Premier League,Norwich City,summer,in,Simon Charlton,19846,32,England,Left-Back,LB,,Bolton Wanderers,England,375000.0,0
+2004,Premier League,Norwich City,summer,in,Mathias Svensson,3861,29,Sweden,Centre-Forward,CF,,Charlton Athletic,England,50000.0,0
+2004,Premier League,Norwich City,summer,in,Paul Gallacher,12569,24,Scotland,Goalkeeper,GK,,Dundee United FC,Scotland,0.0,0
+2004,Premier League,Norwich City,summer,in,Thomas Helveg,5802,33,Denmark,Right-Back,RB,,Inter Milan,Italy,0.0,0
+2004,Premier League,Norwich City,summer,in,Darren Ward,9993,30,Wales,Goalkeeper,GK,,Nottingham Forest,England,0.0,0
+2004,Premier League,Norwich City,summer,in,Gary Doherty,4052,24,Ireland,Centre-Back,CB,,Tottenham Hotspur,England,0.0,0
+2004,Premier League,Norwich City,summer,in,David Bentley,3205,19,England,Right Midfield,RM,,Arsenal FC,England,0.0,1
+2004,Premier League,Norwich City,winter,in,Dean Ashton,14168,21,England,Centre-Forward,CF,750000.0,Crewe Alexandra,England,6000000.0,0
+2004,Premier League,Norwich City,winter,in,Graham Stuart,3334,34,England,Right Winger,RW,,Charlton Athletic,England,0.0,0
+2004,Premier League,Norwich City,summer,out,Malky Mackay,11714,32,Scotland,Centre-Back,CB,,West Ham United,England,450000.0,0
+2004,Premier League,Norwich City,summer,out,Paul Crichton,11661,35,England,Goalkeeper,GK,,York City,England,0.0,0
+2004,Premier League,Norwich City,summer,out,Iwan Roberts,11747,36,Wales,Centre-Forward,CF,,Gillingham FC,England,0.0,0
+2004,Premier League,Norwich City,summer,out,Mark Rivers,11746,28,England,Centre-Forward,CF,,Crewe Alexandra,England,0.0,0
+2004,Premier League,Norwich City,summer,out,Zema Abbey,11639,27,England,Centre-Forward,CF,,Wycombe Wanderers,England,0.0,0
+2004,Premier League,Norwich City,summer,out,Dean Sinclair,11759,19,England,Right Winger,RW,,Barnet FC,England,0.0,0
+2004,Premier League,Norwich City,summer,out,Clint Easton,11666,26,England,Left-Back,LB,,Wycombe Wanderers,England,0.0,0
+2004,Premier League,Norwich City,summer,out,Zema Abbey,11639,27,England,Centre-Forward,CF,,Boston United,England,0.0,1
+2004,Premier League,Norwich City,summer,out,Keith Briggs,11654,22,England,Central Midfield,CM,,Crewe Alexandra,England,0.0,1
+2004,Premier League,Norwich City,winter,out,Keith Briggs,11654,23,England,Central Midfield,CM,75000.0,Stockport County,England,0.0,0
+2004,Premier League,Norwich City,winter,out,Paul Gallacher,12569,25,Scotland,Goalkeeper,GK,500000.0,Gillingham FC,England,0.0,1
+2004,Premier League,Norwich City,winter,out,Danny Crow,25818,19,England,Centre-Forward,CF,50000.0,Northampton Town,England,0.0,1
+2004,Premier League,Norwich City,winter,out,Paul Gallacher,12569,25,Scotland,Goalkeeper,GK,500000.0,Sheffield Wednesday,England,0.0,1
+2004,Premier League,Norwich City,winter,out,Ryan Jarvis,11692,18,England,Central Midfield,CM,1000000.0,Colchester United,England,0.0,1
+2004,Premier League,Norwich City,winter,out,David Bentley,3205,20,England,Right Midfield,RM,2000000.0,Arsenal FC,England,0.0,1
+2004,Premier League,Portsmouth FC,summer,in,Diomansy Kamara,6053,23,Senegal,Right Winger,RW,,Modena FC,Italy,3500000.0,0
+2004,Premier League,Portsmouth FC,summer,in,Ricardo Fuller,14014,24,Jamaica,Centre-Forward,CF,,Preston North End,England,2500000.0,0
+2004,Premier League,Portsmouth FC,summer,in,Lomana LuaLua,3458,23,DR Congo,Centre-Forward,CF,,Newcastle United,England,2250000.0,0
+2004,Premier League,Portsmouth FC,summer,in,Valéry Mézague,5703,20,Cameroon,Attacking Midfield,AM,,Montpellier HSC,France,500000.0,1
+2004,Premier League,Portsmouth FC,summer,in,Aliou Cissé,3796,28,Senegal,Defensive Midfield,DM,,Birmingham City,England,450000.0,0
+2004,Premier League,Portsmouth FC,summer,in,Jamie Ashdown,13397,23,England,Goalkeeper,GK,,Reading FC,England,0.0,0
+2004,Premier League,Portsmouth FC,summer,in,David Unsworth,3272,30,England,Left-Back,LB,,Everton FC,England,0.0,0
+2004,Premier League,Portsmouth FC,summer,in,Andy Griffin,3579,25,England,Right-Back,RB,,Newcastle United,England,0.0,0
+2004,Premier League,Portsmouth FC,winter,in,Giannis Skopelitis,15219,26,Greece,Defensive Midfield,DM,800000.0,AO Egaleo,Greece,1500000.0,0
+2004,Premier League,Portsmouth FC,winter,in,Konstantinos Chalkias,15423,30,Greece,Goalkeeper,GK,1250000.0,Panathinaikos FC,Greece,150000.0,0
+2004,Premier League,Portsmouth FC,winter,in,Aleksandar Rodic,24569,25,Slovenia,Centre-Forward,CF,,ND Gorica,Slovenia,0.0,0
+2004,Premier League,Portsmouth FC,winter,in,Andrea Guatelli,28808,20,Italy,Goalkeeper,GK,75000.0,Parma Primavera,Italy,0.0,0
+2004,Premier League,Portsmouth FC,summer,out,Rowan Vine,7930,21,England,Centre-Forward,CF,,Luton Town,England,375000.0,0
+2004,Premier League,Portsmouth FC,summer,out,Teddy Sheringham,3392,38,England,Centre-Forward,CF,,West Ham United,England,0.0,0
+2004,Premier League,Portsmouth FC,summer,out,Pavel Srnicek,5963,36,Czech Republic,Goalkeeper,GK,,SC Beira-Mar,Portugal,0.0,0
+2004,Premier League,Portsmouth FC,summer,out,Courtney Pitt,4083,22,England,Left Midfield,LM,,Boston United,England,0.0,0
+2004,Premier League,Portsmouth FC,summer,out,Eddie Howe,9208,26,England,Centre-Back,CB,,AFC Bournemouth,England,0.0,0
+2004,Premier League,Portsmouth FC,summer,out,Deon Burton,3464,27,Jamaica,Centre-Forward,CF,,Brentford FC,England,0.0,0
+2004,Premier League,Portsmouth FC,summer,out,Sebastian Olszar,2847,22,Poland,Centre-Forward,CF,,Polonia Warsaw,Poland,0.0,0
+2004,Premier League,Portsmouth FC,summer,out,Chris Tardif,9188,23,Guernsey,Goalkeeper,GK,,Oxford United,England,0.0,0
+2004,Premier League,Portsmouth FC,summer,out,Tim Sherwood,4005,35,England,Central Midfield,CM,,Coventry City,England,0.0,0
+2004,Premier League,Portsmouth FC,summer,out,Ivica Mornar,9615,30,Croatia,Centre-Forward,CF,,Stade Rennais FC,France,0.0,1
+2004,Premier League,Portsmouth FC,summer,out,James Keene,38089,18,England,Centre-Forward,CF,,AFC Newbury,England,0.0,1
+2004,Premier League,Portsmouth FC,summer,out,James Keene,38089,18,England,Centre-Forward,CF,,Kidderminster Harriers,England,0.0,1
+2004,Premier League,Portsmouth FC,summer,out,Mark Burchill,25204,24,Scotland,Centre-Forward,CF,,Rotherham United,England,0.0,1
+2004,Premier League,Portsmouth FC,summer,out,Kevin Harper,9220,28,Scotland,Right Midfield,RM,,Leicester City,England,0.0,1
+2004,Premier League,Portsmouth FC,summer,out,John Curtis,7913,25,England,Right-Back,RB,,Preston North End,England,0.0,1
+2004,Premier League,Portsmouth FC,summer,out,Richard Duffy,16082,19,Wales,Centre-Back,CB,,Burnley FC,England,0.0,1
+2004,Premier League,Portsmouth FC,summer,out,Shaun Cooper,9222,20,England,Defensive Midfield,DM,,Kidderminster Harriers,England,0.0,1
+2004,Premier League,Portsmouth FC,summer,out,Gary O'Neil,3995,21,England,Central Midfield,CM,,Cardiff City,England,0.0,1
+2004,Premier League,Portsmouth FC,summer,out,Gary Silk,21220,19,England,Right-Back,RB,,Wycombe Wanderers,England,0.0,1
+2004,Premier League,Portsmouth FC,summer,out,Warren Hunt,1283734,20,England,Centre-Forward,CF,,FC Fareham Town,England,,0
+2004,Premier League,Portsmouth FC,summer,out,Alan Knight,128501,43,England,Goalkeeper,GK,,Retired,,,0
+2004,Premier League,Portsmouth FC,summer,out,Lomana LuaLua,3458,23,DR Congo,Centre-Forward,CF,,Newcastle United,England,0.0,1
+2004,Premier League,Portsmouth FC,summer,out,Valéry Mézague,5703,21,Cameroon,Attacking Midfield,AM,1750000.0,Montpellier HSC,France,0.0,1
+2004,Premier League,Portsmouth FC,winter,out,Nigel Quashie,4139,26,Scotland,Central Midfield,CM,2500000.0,Southampton FC,England,3150000.0,0
+2004,Premier League,Portsmouth FC,winter,out,Amdy Faye,5428,27,Senegal,Defensive Midfield,DM,3000000.0,Newcastle United,England,3000000.0,0
+2004,Premier League,Portsmouth FC,winter,out,Kevin Harper,9220,29,Scotland,Right Midfield,RM,1000000.0,Stoke City,England,75000.0,0
+2004,Premier League,Portsmouth FC,winter,out,Lewis Buxton,9203,20,England,Right-Back,RB,75000.0,Stoke City,England,0.0,0
+2004,Premier League,Portsmouth FC,winter,out,John Curtis,7913,26,England,Right-Back,RB,300000.0,Nottingham Forest,England,0.0,0
+2004,Premier League,Portsmouth FC,winter,out,Mark Burchill,25204,24,Scotland,Centre-Forward,CF,750000.0,Heart of Midlothian FC,Scotland,0.0,0
+2004,Premier League,Portsmouth FC,winter,out,Anthony Pulis,28759,20,Wales,Central Midfield,CM,,Stoke City,England,0.0,0
+2004,Premier League,Portsmouth FC,winter,out,Sébastien Schemmel,3798,29,France,Right-Back,RB,1000000.0,Le Havre AC,France,0.0,0
+2004,Premier League,Portsmouth FC,winter,out,David Unsworth,3272,31,England,Left-Back,LB,3800000.0,Ipswich Town,England,0.0,1
+2004,Premier League,Portsmouth FC,winter,out,Chris Clark,29416,20,England,Central Midfield,CM,,Stoke City,England,0.0,1
+2004,Premier League,Portsmouth FC,winter,out,Richard Duffy,16082,19,Wales,Centre-Back,CB,500000.0,Coventry City,England,0.0,1
+2004,Premier League,Portsmouth FC,winter,out,Harald Wapenaar,4180,34,Netherlands,Goalkeeper,GK,2000000.0,Vitesse Arnhem,Netherlands,,0
+2004,Premier League,Portsmouth FC,winter,out,Eyal Berkovic,3231,32,Israel,Attacking Midfield,AM,1250000.0,Without Club,,,0
+2004,Premier League,Southampton FC,summer,in,Jelle Van Damme,4323,20,Belgium,Centre-Back,CB,,Ajax Amsterdam,Netherlands,3000000.0,0
+2004,Premier League,Southampton FC,summer,in,Peter Crouch,4072,23,England,Centre-Forward,CF,,Aston Villa,England,3000000.0,0
+2004,Premier League,Southampton FC,summer,in,Andreas Jakobsson,254,31,Sweden,Centre-Back,CB,,Bröndby IF,Denmark,1800000.0,0
+2004,Premier League,Southampton FC,summer,in,Mikael Nilsson,15353,26,Sweden,Right-Back,RB,,Halmstads BK,Sweden,600000.0,0
+2004,Premier League,Southampton FC,summer,in,Alaeddine Yahia,5451,22,Tunisia,Centre-Back,CB,,EA Guingamp,France,525000.0,0
+2004,Premier League,Southampton FC,summer,in,Kenwyne Jones,28245,19,Trinidad and Tobago,Centre-Forward,CF,,W Connection,Trinidad and Tobago,83000.0,0
+2004,Premier League,Southampton FC,winter,in,Nigel Quashie,4139,26,Scotland,Central Midfield,CM,2500000.0,Portsmouth FC,England,3150000.0,0
+2004,Premier League,Southampton FC,winter,in,Olivier Bernard,3301,25,France,Left-Back,LB,4000000.0,Newcastle United,England,600000.0,0
+2004,Premier League,Southampton FC,winter,in,Jamie Redknapp,3424,31,England,Central Midfield,CM,3000000.0,Tottenham Hotspur,England,0.0,0
+2004,Premier League,Southampton FC,winter,in,Kasey Keller,3608,34,United States,Goalkeeper,GK,3500000.0,Tottenham Hotspur,England,0.0,1
+2004,Premier League,Southampton FC,winter,in,Henri Camara,3900,27,Senegal,Centre-Forward,CF,3500000.0,Wolverhampton Wanderers,England,0.0,1
+2004,Premier League,Southampton FC,winter,in,Calum Davenport,4221,22,England,Centre-Back,CB,2000000.0,Tottenham Hotspur,England,0.0,1
+2004,Premier League,Southampton FC,summer,out,Fitz Hall,6580,23,England,Centre-Back,CB,,Crystal Palace,England,2250000.0,0
+2004,Premier League,Southampton FC,summer,out,Stephen Crainey,9499,23,Scotland,Left-Back,LB,,Leeds United,England,250000.0,0
+2004,Premier League,Southampton FC,summer,out,Stephen Hunt,77350,19,England,Left-Back,LB,,Colchester United,England,0.0,0
+2004,Premier League,Southampton FC,summer,out,Stuart Anderson,43255,18,Scotland,Defensive Midfield,DM,,Blackpool FC,England,0.0,0
+2004,Premier League,Southampton FC,summer,out,Mike Williamson,10642,20,England,Centre-Back,CB,,Wycombe Wanderers,England,0.0,0
+2004,Premier League,Southampton FC,summer,out,Kenwyne Jones,28245,19,Trinidad and Tobago,Centre-Forward,CF,,Sheffield Wednesday,England,0.0,1
+2004,Premier League,Southampton FC,summer,out,Martin Cranie,27659,18,England,Centre-Back,CB,,AFC Bournemouth,England,0.0,1
+2004,Premier League,Southampton FC,summer,out,Matt Mills,25384,18,England,Centre-Back,CB,,Coventry City,England,0.0,1
+2004,Premier League,Southampton FC,summer,out,Brett Ormerod,4113,27,England,Centre-Forward,CF,,Leeds United,England,0.0,1
+2004,Premier League,Southampton FC,summer,out,Jo Tessem,4109,32,Norway,Central Midfield,CM,,Lyn 1896 FK,Norway,0.0,1
+2004,Premier League,Southampton FC,summer,out,Francis Benali,3298,35,England,Left-Back,LB,,Retired,,,0
+2004,Premier League,Southampton FC,summer,out,Graeme Le Saux,3157,36,England,Left-Back,LB,650000.0,Retired,,,0
+2004,Premier League,Southampton FC,summer,out,Henri Camara,3900,27,Senegal,Centre-Forward,CF,3500000.0,Wolverhampton Wanderers,England,0.0,1
+2004,Premier League,Southampton FC,summer,out,Calum Davenport,4221,22,England,Centre-Back,CB,2000000.0,Tottenham Hotspur,England,0.0,1
+2004,Premier League,Southampton FC,winter,out,James Beattie,3112,26,England,Centre-Forward,CF,10000000.0,Everton FC,England,9000000.0,0
+2004,Premier League,Southampton FC,winter,out,Jason Dodd,3685,34,England,Right-Back,RB,1250000.0,Plymouth Argyle,England,0.0,1
+2004,Premier League,Southampton FC,winter,out,Dexter Blackstock,28491,18,Antigua and Barbuda,Centre-Forward,CF,200000.0,Plymouth Argyle,England,0.0,1
+2004,Premier League,Southampton FC,winter,out,Darren Kenton,4181,26,England,Centre-Back,CB,1000000.0,Leicester City,England,0.0,1
+2004,Premier League,Southampton FC,winter,out,Yoann Folly,7021,19,Togo,Defensive Midfield,DM,400000.0,Preston North End,England,0.0,1
+2004,Premier League,Southampton FC,winter,out,Brett Ormerod,4113,28,England,Centre-Forward,CF,2000000.0,Wigan Athletic,England,0.0,1
+2004,Premier League,Southampton FC,winter,out,Andrew Surman,29975,18,England,Central Midfield,CM,,Walsall FC,England,0.0,1
+2004,Premier League,Southampton FC,winter,out,Matt Mills,25384,18,England,Centre-Back,CB,50000.0,AFC Bournemouth,England,0.0,1
+2004,Premier League,Southampton FC,winter,out,Kenwyne Jones,28245,20,Trinidad and Tobago,Centre-Forward,CF,50000.0,Stoke City,England,0.0,1
+2004,Premier League,Southampton FC,winter,out,Alaeddine Yahia,5451,23,Tunisia,Centre-Back,CB,1400000.0,AS Saint-Étienne,France,0.0,1
+2004,Premier League,Southampton FC,winter,out,Alan Blayney,28806,23,Northern Ireland,Goalkeeper,GK,,Rushden & Diamonds (- 2011),England,0.0,1
+2004,Premier League,Southampton FC,winter,out,Yoann Folly,7021,19,Togo,Defensive Midfield,DM,350000.0,Nottingham Forest,England,0.0,1
+2004,Premier League,Southampton FC,winter,out,Leon Best,28244,18,Ireland,Centre-Forward,CF,,Queens Park Rangers,England,0.0,1
+2004,Premier League,Southampton FC,winter,out,Jo Tessem,4109,32,Norway,Central Midfield,CM,2000000.0,Millwall FC,England,0.0,1
+2004,Premier League,Southampton FC,winter,out,Léandre Griffit,6240,20,France,Central Midfield,CM,125000.0,Leeds United,England,0.0,1
+2004,Premier League,Southampton FC,winter,out,Léandre Griffit,6240,20,France,Central Midfield,CM,125000.0,Rotherham United,England,0.0,1
+2004,Premier League,Southampton FC,winter,out,Kasey Keller,3608,35,United States,Goalkeeper,GK,3500000.0,Tottenham Hotspur,England,0.0,1
+2004,Premier League,Tottenham Hotspur,summer,in,Sean Davis,4036,24,England,Defensive Midfield,DM,,Fulham FC,England,5200000.0,0
+2004,Premier League,Tottenham Hotspur,summer,in,Thimothée Atouba,2887,22,Cameroon,Left-Back,LB,,FC Basel 1893,Switzerland,4500000.0,0
+2004,Premier League,Tottenham Hotspur,summer,in,Michael Carrick,3878,23,England,Defensive Midfield,DM,,West Ham United,England,4099999.9999999995,0
+2004,Premier League,Tottenham Hotspur,summer,in,Paul Robinson,3630,24,England,Goalkeeper,GK,,Leeds United,England,3000000.0,0
+2004,Premier League,Tottenham Hotspur,summer,in,Pedro Mendes,9811,25,Portugal,Central Midfield,CM,,FC Porto,Portugal,3000000.0,0
+2004,Premier League,Tottenham Hotspur,summer,in,Noé Pamarot,5531,25,France,Centre-Back,CB,,OGC Nice,France,2400000.0,0
+2004,Premier League,Tottenham Hotspur,summer,in,Erik Edman,4394,25,Sweden,Left-Back,LB,,SC Heerenveen,Netherlands,2000000.0,0
+2004,Premier League,Tottenham Hotspur,summer,in,Calum Davenport,4221,21,England,Centre-Back,CB,,Coventry City,England,1800000.0,0
+2004,Premier League,Tottenham Hotspur,summer,in,Noureddine Naybet,7493,34,Morocco,Centre-Back,CB,,Deportivo de La Coruña,Spain,1000000.0,0
+2004,Premier League,Tottenham Hotspur,summer,in,Reto Ziegler,9915,18,Switzerland,Centre-Back,CB,,Grasshopper Club Zurich,Switzerland,1000000.0,0
+2004,Premier League,Tottenham Hotspur,summer,in,Rodrigo Defendi,18981,18,Brazil,Centre-Back,CB,,Cruzeiro Esporte Clube,Brazil,900000.0,0
+2004,Premier League,Tottenham Hotspur,summer,in,Márton Fülöp,17879,21,Hungary,Goalkeeper,GK,,MTK Budapest,Hungary,750000.0,0
+2004,Premier League,Tottenham Hotspur,summer,in,Leigh Mills,19639,16,England,Centre-Back,CB,,Swindon Town U18,England,225000.0,0
+2004,Premier League,Tottenham Hotspur,summer,in,Edson Sousa,15768,20,Portugal,Centre-Forward,CF,,PSV Eindhoven,Netherlands,0.0,0
+2004,Premier League,Tottenham Hotspur,winter,in,Andy Reid,10008,22,Ireland,Left Midfield,LM,3500000.0,Nottingham Forest,England,8000000.0,0
+2004,Premier League,Tottenham Hotspur,winter,in,Michael Dawson,9988,21,England,Centre-Back,CB,1000000.0,Nottingham Forest,England,7000000.0,0
+2004,Premier League,Tottenham Hotspur,winter,in,Mido,4329,21,Egypt,Centre-Forward,CF,7000000.0,AS Roma,Italy,2000000.0,1
+2004,Premier League,Tottenham Hotspur,winter,in,Mounir El Hamdaoui,21490,20,Morocco,Centre-Forward,CF,600000.0,SBV Excelsior,Netherlands,750000.0,0
+2004,Premier League,Tottenham Hotspur,winter,in,Radek Cerny,21010,30,Czech Republic,Goalkeeper,GK,50000.0,SK Slavia Prague,Czech Republic,400000.0,1
+2004,Premier League,Tottenham Hotspur,winter,in,Spase Dilevski,6856,19,Australia,Defensive Midfield,DM,200000.0,PSV Eindhoven,Netherlands,0.0,0
+2004,Premier League,Tottenham Hotspur,winter,in,David Limbersky,16090,21,Czech Republic,Left-Back,LB,150000.0,FC Viktoria Plzen,Czech Republic,0.0,1
+2004,Premier League,Tottenham Hotspur,summer,out,Hélder Postiga,5169,21,Portugal,Centre-Forward,CF,,FC Porto,Portugal,7500000.0,0
+2004,Premier League,Tottenham Hotspur,summer,out,Stephen Carr,4046,27,Ireland,Right-Back,RB,,Newcastle United,England,3000000.0,0
+2004,Premier League,Tottenham Hotspur,summer,out,Christian Ziege,916,32,Germany,Left Midfield,LM,,Borussia Mönchengladbach,Germany,0.0,0
+2004,Premier League,Tottenham Hotspur,summer,out,Danny Foster,66829,19,England,Right-Back,RB,,Dagenham & Redbridge FC,England,0.0,0
+2004,Premier League,Tottenham Hotspur,summer,out,Ben Bowditch,259561,20,England,Defensive Midfield,DM,,Colchester United,England,0.0,0
+2004,Premier League,Tottenham Hotspur,summer,out,David Galbraith,6581,20,England,Left Midfield,LM,,Northampton Town,England,0.0,0
+2004,Premier League,Tottenham Hotspur,summer,out,Lars Hirschfeld,3609,25,Canada,Goalkeeper,GK,,Dundee United FC,Scotland,0.0,0
+2004,Premier League,Tottenham Hotspur,summer,out,Gary Doherty,4052,24,Ireland,Centre-Back,CB,,Norwich City,England,0.0,0
+2004,Premier League,Tottenham Hotspur,summer,out,Sergiy Rebrov,3122,30,Ukraine,Second Striker,SS,,West Ham United,England,0.0,0
+2004,Premier League,Tottenham Hotspur,summer,out,Darren Anderton,3277,32,England,Right Midfield,RM,,Birmingham City,England,0.0,0
+2004,Premier League,Tottenham Hotspur,summer,out,Milenko Acimovic,3261,27,Slovenia,Left Midfield,LM,,LOSC Lille,France,0.0,0
+2004,Premier League,Tottenham Hotspur,summer,out,Calum Davenport,4221,21,England,Centre-Back,CB,,West Ham United,England,0.0,1
+2004,Premier League,Tottenham Hotspur,summer,out,Mark Yeates,15167,19,Ireland,Left Winger,LW,,Swindon Town,England,0.0,1
+2004,Premier League,Tottenham Hotspur,summer,out,Rohan Ricketts,4047,21,England,Right Midfield,RM,,Coventry City,England,0.0,1
+2004,Premier League,Tottenham Hotspur,summer,out,Rob Burch,27814,20,England,Goalkeeper,GK,,Stevenage Borough FC,England,0.0,1
+2004,Premier League,Tottenham Hotspur,summer,out,Gustavo Poyet,3361,36,Uruguay,Attacking Midfield,AM,,Retired,,,0
+2004,Premier League,Tottenham Hotspur,summer,out,Stéphane Dalmat,7259,25,France,Central Midfield,CM,,Inter Milan,Italy,0.0,1
+2004,Premier League,Tottenham Hotspur,summer,out,David Limbersky,16090,21,Czech Republic,Left-Back,LB,100000.0,FC Viktoria Plzen,Czech Republic,0.0,1
+2004,Premier League,Tottenham Hotspur,winter,out,Mauricio Taricco,4050,31,Argentina,Left-Back,LB,3000000.0,West Ham United,England,0.0,0
+2004,Premier League,Tottenham Hotspur,winter,out,Jamie Redknapp,3424,31,England,Central Midfield,CM,3000000.0,Southampton FC,England,0.0,0
+2004,Premier League,Tottenham Hotspur,winter,out,Rohan Ricketts,4047,22,England,Right Midfield,RM,250000.0,Wolverhampton Wanderers,England,0.0,0
+2004,Premier League,Tottenham Hotspur,winter,out,Mbulelo Mabizela,8978,24,South Africa,Centre-Back,CB,700000.0,Vålerenga Fotball Elite,Norway,0.0,0
+2004,Premier League,Tottenham Hotspur,winter,out,Kasey Keller,3608,35,United States,Goalkeeper,GK,2000000.0,Borussia Mönchengladbach,Germany,0.0,0
+2004,Premier League,Tottenham Hotspur,winter,out,Kasey Keller,3608,34,United States,Goalkeeper,GK,3500000.0,Southampton FC,England,0.0,1
+2004,Premier League,Tottenham Hotspur,winter,out,Lee Barnard,4058,20,England,Centre-Forward,CF,50000.0,Northampton Town,England,0.0,1
+2004,Premier League,Tottenham Hotspur,winter,out,Dean Marney,4055,20,England,Central Midfield,CM,50000.0,Gillingham FC,England,0.0,1
+2004,Premier League,Tottenham Hotspur,winter,out,Márton Fülöp,17879,21,Hungary,Goalkeeper,GK,400000.0,Chesterfield FC,England,0.0,1
+2004,Premier League,Tottenham Hotspur,winter,out,Johnnie Jackson,29430,22,England,Central Midfield,CM,,Watford FC,England,0.0,1
+2004,Premier League,Tottenham Hotspur,winter,out,Edson Sousa,15768,21,Portugal,Centre-Forward,CF,150000.0,ADO Den Haag,Netherlands,0.0,1
+2004,Premier League,Tottenham Hotspur,winter,out,Lee Barnard,4058,20,England,Centre-Forward,CF,50000.0,Leyton Orient,England,0.0,1
+2004,Premier League,Tottenham Hotspur,winter,out,Calum Davenport,4221,22,England,Centre-Back,CB,2000000.0,Southampton FC,England,0.0,1
+2004,Premier League,Tottenham Hotspur,winter,out,Rob Burch,27814,21,England,Goalkeeper,GK,50000.0,Stevenage Borough FC,England,0.0,1
+2004,Premier League,Tottenham Hotspur,winter,out,Rob Burch,27814,21,England,Goalkeeper,GK,,West Ham United,England,0.0,1
+2004,Premier League,Tottenham Hotspur,winter,out,Dean Richards,3829,30,England,Centre-Back,CB,,Retired,,,0
+2004,Premier League,West Bromwich Albion,summer,in,Robert Earnshaw,12707,23,Wales,Centre-Forward,CF,,Cardiff City,England,4500000.0,0
+2004,Premier League,West Bromwich Albion,summer,in,Martin Albrechtsen,14960,24,Denmark,Centre-Back,CB,,FC Copenhagen,Denmark,3750000.0,0
+2004,Premier League,West Bromwich Albion,summer,in,Zoltán Gera,18324,25,Hungary,Attacking Midfield,AM,,Ferencvárosi TC,Hungary,2250000.0,0
+2004,Premier League,West Bromwich Albion,summer,in,Jonathan Greening,3865,25,England,Central Midfield,CM,,Middlesbrough FC,England,1750000.0,0
+2004,Premier League,West Bromwich Albion,summer,in,Darren Purse,3106,27,England,Centre-Back,CB,,Birmingham City,England,900000.0,0
+2004,Premier League,West Bromwich Albion,summer,in,Junichi Inamoto,3568,24,Japan,Defensive Midfield,DM,,Gamba Osaka,Japan,300000.0,0
+2004,Premier League,West Bromwich Albion,summer,in,Riccardo Scimeca,5174,29,England,Centre-Back,CB,,Leicester City,England,150000.0,0
+2004,Premier League,West Bromwich Albion,summer,in,Tomasz Kuszczak,1320,22,Poland,Goalkeeper,GK,,Hertha BSC,Germany,0.0,0
+2004,Premier League,West Bromwich Albion,summer,in,Nwankwo Kanu,3133,27,Nigeria,Centre-Forward,CF,,Arsenal FC,England,0.0,0
+2004,Premier League,West Bromwich Albion,summer,in,Cosmin Contra,5808,28,Romania,Right-Back,RB,,Atlético de Madrid,Spain,0.0,1
+2004,Premier League,West Bromwich Albion,winter,in,Richard Chaplow,9975,19,England,Central Midfield,CM,50000.0,Burnley FC,England,2250000.0,0
+2004,Premier League,West Bromwich Albion,winter,in,Kevin Campbell,3468,34,England,Centre-Forward,CF,1500000.0,Everton FC,England,0.0,0
+2004,Premier League,West Bromwich Albion,winter,in,Kieran Richardson,3548,20,England,Left-Back,LB,500000.0,Manchester United,England,0.0,1
+2004,Premier League,West Bromwich Albion,summer,out,Sean Gregan,3638,30,England,Centre-Back,CB,,Leeds United,England,750000.0,0
+2004,Premier League,West Bromwich Albion,summer,out,James Chambers,3676,23,England,Right-Back,RB,,Watford FC,England,375000.0,0
+2004,Premier League,West Bromwich Albion,summer,out,Phil Gilchrist,3656,30,England,Centre-Back,CB,,Rotherham United,England,0.0,0
+2004,Premier League,West Bromwich Albion,summer,out,Joost Volmer,4545,30,Netherlands,Centre-Back,CB,,FC Den Bosch,Netherlands,0.0,0
+2004,Premier League,West Bromwich Albion,summer,out,Mark Kinsella,4064,31,Ireland,Defensive Midfield,DM,,Walsall FC,England,0.0,0
+2004,Premier League,West Bromwich Albion,summer,out,Ross Adams,3637,21,England,Defender,Defender,,Hednesford Town,England,0.0,0
+2004,Premier League,West Bromwich Albion,summer,out,Lee Marshall,3671,25,England,Central Midfield,CM,,Hull City,England,0.0,0
+2004,Premier League,West Bromwich Albion,summer,out,Simon Brown,13915,20,England,Midfielder,Midfielder,,Kidderminster Harriers,England,0.0,1
+2004,Premier League,West Bromwich Albion,summer,out,Joe Murphy,3655,23,Ireland,Goalkeeper,GK,300000.0,Walsall FC,England,0.0,1
+2004,Premier League,West Bromwich Albion,summer,out,Lee Hughes,3660,28,England,Centre-Forward,CF,,Career break,,,0
+2004,Premier League,West Bromwich Albion,summer,out,Morten Skoubo,2703,24,Denmark,Centre-Forward,CF,,Borussia Mönchengladbach,Germany,0.0,1
+2004,Premier League,West Bromwich Albion,summer,out,Kieran Richardson,3548,20,England,Left-Back,LB,500000.0,Manchester United,England,0.0,1
+2004,Premier League,West Bromwich Albion,summer,out,Alassane N'Dour,3918,22,Senegal,Defensive Midfield,DM,,AS Saint-Étienne,France,0.0,1
+2004,Premier League,West Bromwich Albion,winter,out,Scott Dobie,3665,26,Scotland,Centre-Forward,CF,2500000.0,Millwall FC,England,750000.0,0
+2004,Premier League,West Bromwich Albion,winter,out,Simon Brown,13915,21,England,Midfielder,Midfielder,50000.0,Mansfield Town,England,75000.0,0
+2004,Premier League,West Bromwich Albion,winter,out,James O'Connor,3786,25,Ireland,Central Midfield,CM,300000.0,Burnley FC,England,0.0,0
+2004,Premier League,West Bromwich Albion,winter,out,Bernt Haas,2888,26,Switzerland,Right-Back,RB,1500000.0,SC Bastia,France,0.0,0
+2004,Premier League,West Bromwich Albion,winter,out,Philip Midworth,28792,19,England,Centre-Back,CB,,Burton Albion,England,0.0,0
+2004,Premier League,West Bromwich Albion,winter,out,Adam Chambers,3675,24,England,Defensive Midfield,DM,1000000.0,Kidderminster Harriers,England,0.0,0
+2004,Premier League,West Bromwich Albion,winter,out,Rob Hulse,9980,25,England,Centre-Forward,CF,1000000.0,Leeds United,England,0.0,1
+2004,Premier League,West Bromwich Albion,winter,out,Junichi Inamoto,3568,25,Japan,Defensive Midfield,DM,1250000.0,Cardiff City,England,0.0,1
+2004,Premier League,West Bromwich Albion,winter,out,Lárus Orri Sigurdsson,3657,31,Iceland,Centre-Back,CB,,Thór Akureyri,Iceland,,0
+2004,Premier League,West Bromwich Albion,winter,out,Ezekeil Tomlinson,259501,,England,Midfielder,Midfielder,,Stockport County,England,,0
+2004,Premier League,West Bromwich Albion,winter,out,Lloyd Dyer,3668,22,England,Left Midfield,LM,350000.0,Coventry City,England,0.0,1
+2004,Premier League,West Bromwich Albion,winter,out,Cosmin Contra,5808,29,Romania,Right-Back,RB,,Atlético de Madrid,Spain,0.0,1

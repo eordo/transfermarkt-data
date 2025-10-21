@@ -1,0 +1,493 @@
+season,league,club,window,movement,player_name,player_id,age,nationality,position,pos,market_value,dealing_club,dealing_country,fee,is_loan
+1998,Premier League,Arsenal FC,summer,in,Freddie Ljungberg,3134,21,Sweden,Right Midfield,RM,,Halmstads BK,Sweden,4500000.0,0
+1998,Premier League,Arsenal FC,summer,in,Nelson Vivas,30936,28,Argentina,Right-Back,RB,,FC Lugano,Switzerland,2200000.0,0
+1998,Premier League,Arsenal FC,summer,in,David Grondin,12626,18,France,Left-Back,LB,,AS Saint-Étienne,France,,0
+1998,Premier League,Arsenal FC,summer,in,Fabián Caballero,12808,20,Paraguay,Centre-Forward,CF,,Club Cerro Porteño,Paraguay,0.0,1
+1998,Premier League,Arsenal FC,winter,in,Nwankwo Kanu,3133,22,Nigeria,Centre-Forward,CF,,Inter Milan,Italy,6250000.0,0
+1998,Premier League,Arsenal FC,winter,in,Kaba Diawara,5571,23,Guinea,Centre-Forward,CF,,FC Girondins Bordeaux,France,3000000.0,0
+1998,Premier League,Arsenal FC,summer,out,Kaba Diawara,5571,23,Guinea,Centre-Forward,CF,,Olympique Marseille,France,3500000.0,0
+1998,Premier League,Arsenal FC,summer,out,Ian Wright,104637,34,England,Centre-Forward,CF,,West Ham United,England,750000.0,0
+1998,Premier League,Arsenal FC,summer,out,Scott Marshall,106912,25,Scotland,Centre-Back,CB,,Southampton FC,England,0.0,0
+1998,Premier League,Arsenal FC,summer,out,Gavin McGowan,106913,22,England,Left-Back,LB,,Luton Town,England,0.0,0
+1998,Premier League,Arsenal FC,summer,out,Chris Kiwomya,173696,28,England,Centre-Forward,CF,,Queens Park Rangers,England,0.0,0
+1998,Premier League,Arsenal FC,summer,out,Paolo Vernazza,14080,18,England,Central Midfield,CM,,Ipswich Town,England,0.0,1
+1998,Premier League,Arsenal FC,summer,out,Vince Bartram,13778,29,England,Goalkeeper,GK,,Gillingham FC,England,,0
+1998,Premier League,Arsenal FC,summer,out,David Platt,101318,32,England,Attacking Midfield,AM,,Career break,,,0
+1998,Premier League,Arsenal FC,winter,out,Jason Crowe,6096,20,England,Right-Back,RB,,Crystal Palace,England,0.0,1
+1998,Premier League,Arsenal FC,winter,out,Alberto Méndez,477,24,Germany,Attacking Midfield,AM,,AEK Athens,Greece,0.0,1
+1998,Premier League,Arsenal FC,winter,out,Ömer Riza,10150,19,England,Second Striker,SS,,ADO Den Haag,Netherlands,0.0,1
+1998,Premier League,Arsenal FC,winter,out,Christopher Wreh,15712,23,Liberia,Centre-Forward,CF,,AEK Athens,Greece,0.0,1
+1998,Premier League,Aston Villa,summer,in,Alan Thompson,3485,24,England,Left Midfield,LM,,Bolton Wanderers,England,7200000.0,0
+1998,Premier League,Aston Villa,summer,in,Paul Merson,3250,30,England,Attacking Midfield,AM,,Middlesbrough FC,England,6750000.0,0
+1998,Premier League,Aston Villa,summer,in,Steve Watson,3309,24,England,Right-Back,RB,,Newcastle United,England,6000000.0,0
+1998,Premier League,Aston Villa,summer,in,David Unsworth,3272,24,England,Left-Back,LB,,West Ham United,England,4600000.0,0
+1998,Premier League,Aston Villa,summer,in,David James,3646,28,England,Goalkeeper,GK,,Liverpool FC,England,2400000.0,0
+1998,Premier League,Aston Villa,winter,in,Dion Dublin,3763,29,England,Centre-Forward,CF,,Coventry City,England,8600000.0,0
+1998,Premier League,Aston Villa,winter,in,Steve Stone,3364,27,England,Right Midfield,RM,,Nottingham Forest,England,8000000.0,0
+1998,Premier League,Aston Villa,winter,in,Peter Enckelman,3719,21,Finland,Goalkeeper,GK,,Turun Palloseura,Finland,570000.0,0
+1998,Premier League,Aston Villa,winter,in,Mark Delaney,3841,22,Wales,Right-Back,RB,,Cardiff City,Wales,375000.0,0
+1998,Premier League,Aston Villa,winter,in,Neil Tarrant,210156,19,Scotland,Centre-Forward,CF,,Ross County FC,Scotland,375000.0,0
+1998,Premier League,Aston Villa,winter,in,Colin Calderwood,103641,34,Scotland,Centre-Back,CB,,Tottenham Hotspur,England,330000.0,0
+1998,Premier League,Aston Villa,summer,out,Dwight Yorke,3223,26,Trinidad and Tobago,Centre-Forward,CF,,Manchester United,England,19250000.0,0
+1998,Premier League,Aston Villa,summer,out,David Unsworth,3272,24,England,Left-Back,LB,,Everton FC,England,4600000.0,0
+1998,Premier League,Aston Villa,summer,out,Nélson,106821,26,Portugal,Right-Back,RB,,FC Porto,Portugal,1130000.0,0
+1998,Premier League,Aston Villa,summer,out,Steve Staunton,3839,29,Ireland,Left-Back,LB,,Liverpool FC,England,0.0,0
+1998,Premier League,Aston Villa,summer,out,Savo Milosevic,7896,24,Serbia,Centre-Forward,CF,,Real Zaragoza,Spain,0.0,0
+1998,Premier League,Aston Villa,summer,out,Neil Davis,230934,24,England,Centre-Forward,CF,,Walsall FC,England,0.0,0
+1998,Premier League,Aston Villa,winter,out,Gary Charles,106810,28,England,Right-Back,RB,,SL Benfica,Portugal,1000000.0,0
+1998,Premier League,Aston Villa,winter,out,Alan Lee,12715,20,Ireland,Centre-Forward,CF,,Torquay United,England,0.0,1
+1998,Premier League,Aston Villa,winter,out,Alan Lee,12715,20,Ireland,Centre-Forward,CF,,Port Vale FC,England,0.0,1
+1998,Premier League,Aston Villa,winter,out,Darren Byfield,13658,22,Jamaica,Centre-Forward,CF,,Preston North End,England,0.0,1
+1998,Premier League,Aston Villa,winter,out,Richard Walker,16103,21,England,Centre-Forward,CF,,Cambridge United,England,0.0,1
+1998,Premier League,Blackburn Rovers,summer,in,Kevin Davies,4114,21,England,Centre-Forward,CF,,Southampton FC,England,11250000.0,0
+1998,Premier League,Blackburn Rovers,summer,in,Christian Dailly,3799,24,Scotland,Centre-Back,CB,,Derby County,England,7950000.0,0
+1998,Premier League,Blackburn Rovers,summer,in,Sébastien Pérez,5316,24,France,Right-Back,RB,,SC Bastia,France,3600000.0,0
+1998,Premier League,Blackburn Rovers,summer,in,Oumar Kondé,413,19,Switzerland,Centre-Back,CB,,FC Basel 1893,Switzerland,750000.0,0
+1998,Premier League,Blackburn Rovers,summer,in,Darren Peacock,107099,30,England,Centre-Back,CB,,Newcastle United,England,0.0,0
+1998,Premier League,Blackburn Rovers,winter,in,Ashley Ward,13548,28,England,Centre-Forward,CF,,Barnsley FC,England,6290000.0,0
+1998,Premier League,Blackburn Rovers,winter,in,Matt Jansen,10502,21,England,Centre-Forward,CF,,Crystal Palace,England,6000000.0,0
+1998,Premier League,Blackburn Rovers,winter,in,Nathan Blake,4229,26,Wales,Centre-Forward,CF,,Bolton Wanderers,England,5950000.0,0
+1998,Premier League,Blackburn Rovers,winter,in,Jason McAteer,3710,27,Ireland,Right Midfield,RM,,Liverpool FC,England,5550000.0,0
+1998,Premier League,Blackburn Rovers,winter,in,Lee Carsley,3618,25,Ireland,Defensive Midfield,DM,,Derby County,England,5100000.0,0
+1998,Premier League,Blackburn Rovers,winter,in,Keith Gillespie,3827,23,Northern Ireland,Right Midfield,RM,,Newcastle United,England,3500000.0,0
+1998,Premier League,Blackburn Rovers,winter,in,David McNamee,11364,18,Scotland,Right-Back,RB,,St. Mirren FC U17,Scotland,450000.0,0
+1998,Premier League,Blackburn Rovers,winter,in,Dario Marcolin,3510,27,Italy,Defensive Midfield,DM,,SS Lazio,Italy,0.0,1
+1998,Premier League,Blackburn Rovers,summer,out,Colin Hendry,103642,32,Scotland,Centre-Back,CB,,Rangers FC,Scotland,6000000.0,0
+1998,Premier League,Blackburn Rovers,summer,out,Stuart Ripley,107223,30,England,Right Midfield,RM,,Southampton FC,England,2250000.0,0
+1998,Premier League,Blackburn Rovers,summer,out,James Beattie,3112,20,England,Centre-Forward,CF,,Southampton FC,England,1400000.0,0
+1998,Premier League,Blackburn Rovers,summer,out,Martin Dahlin,21654,30,Sweden,Centre-Forward,CF,,Hamburger SV,Germany,200000.0,1
+1998,Premier League,Blackburn Rovers,summer,out,Patrick Valéry,107238,28,France,Right-Back,RB,,SC Bastia,France,120000.0,0
+1998,Premier League,Blackburn Rovers,summer,out,Tore Pedersen,99931,28,Norway,Centre-Back,CB,,Eintracht Frankfurt,Germany,,0
+1998,Premier League,Blackburn Rovers,summer,out,Anders Andersson,13210,24,Sweden,Defensive Midfield,DM,,Aalborg BK,Denmark,,0
+1998,Premier League,Blackburn Rovers,summer,out,Adam Reed,1155108,23,England,Central Midfield,CM,,Darlington FC (- 2012),England,,0
+1998,Premier League,Blackburn Rovers,summer,out,Anthony Whealing,1213303,21,England,Centre-Back,CB,,Leigh Railway Mechanics Institute FC,England,,0
+1998,Premier League,Blackburn Rovers,summer,out,Michael Watt,224100,27,Scotland,Goalkeeper,GK,,Aberdeen FC,Scotland,0.0,1
+1998,Premier League,Blackburn Rovers,winter,out,Tim Sherwood,4005,29,England,Central Midfield,CM,,Tottenham Hotspur,England,6000000.0,0
+1998,Premier League,Blackburn Rovers,winter,out,David Worrell,20997,21,Ireland,Right-Back,RB,,Dundee United FC,Scotland,75000.0,0
+1998,Premier League,Blackburn Rovers,winter,out,Graham Coughlan,20961,24,Ireland,Centre-Back,CB,,Livingston FC,Scotland,0.0,0
+1998,Premier League,Blackburn Rovers,winter,out,David McNamee,11364,18,Scotland,Right-Back,RB,,St. Mirren FC,Scotland,0.0,1
+1998,Premier League,Blackburn Rovers,winter,out,Anthony Williams,16084,21,Wales,Goalkeeper,GK,,Bristol Rovers,England,0.0,1
+1998,Premier League,Blackburn Rovers,winter,out,Anthony Williams,16084,21,Wales,Goalkeeper,GK,,Macclesfield Town FC,England,0.0,1
+1998,Premier League,Blackburn Rovers,winter,out,Luke Staton,730492,19,Wales,Midfielder,Midfielder,,Bolton Wanderers,England,,0
+1998,Premier League,Blackburn Rovers,winter,out,Sébastien Pérez,5316,25,France,Right-Back,RB,,SC Bastia,France,0.0,1
+1998,Premier League,Charlton Athletic,summer,in,Chris Powell,4100,28,England,Left-Back,LB,,Derby County,England,1250000.0,0
+1998,Premier League,Charlton Athletic,summer,in,Neil Redfearn,195179,33,England,Central Midfield,CM,,Barnsley FC,England,1150000.0,0
+1998,Premier League,Charlton Athletic,summer,in,Carl Tiler,198681,28,England,Centre-Back,CB,,Everton FC,England,874000.0,0
+1998,Premier League,Charlton Athletic,summer,in,Simon Royce,5162,26,England,Goalkeeper,GK,,Southend United,England,0.0,0
+1998,Premier League,Charlton Athletic,summer,in,Paul Smith,16092,18,England,Goalkeeper,GK,,Walton & Hersham FC,England,0.0,0
+1998,Premier League,Charlton Athletic,summer,in,Andy Hunt,202555,28,England,Centre-Forward,CF,,West Bromwich Albion,England,0.0,0
+1998,Premier League,Charlton Athletic,summer,in,Emeka Ifejiagwa,700,20,Nigeria,Centre-Back,CB,,Iwuanyanwu Nationale,Nigeria,,0
+1998,Premier League,Charlton Athletic,winter,in,Graham Stuart,3334,28,England,Right Winger,RW,,Sheffield United,England,1750000.0,0
+1998,Premier League,Charlton Athletic,winter,in,Martin Pringle,17482,28,Sweden,Centre-Forward,CF,,SL Benfica,Portugal,1100000.0,0
+1998,Premier League,Charlton Athletic,winter,in,Mark McCammon,13592,20,Barbados,Centre-Forward,CF,,Cambridge United,England,65000.0,0
+1998,Premier League,Charlton Athletic,winter,in,John Barnes,87436,35,England,Left Midfield,LM,,Newcastle United,England,0.0,0
+1998,Premier League,Charlton Athletic,winter,in,Dave Tuttle,195615,27,England,Centre-Back,CB,,Crystal Palace,England,0.0,1
+1998,Premier League,Charlton Athletic,summer,out,Stuart Balmer,22726,28,Scotland,Right-Back,RB,,Wigan Athletic,England,300000.0,0
+1998,Premier League,Charlton Athletic,summer,out,Jamie Stuart,91483,21,England,Centre-Back,CB,,Millwall FC,England,0.0,0
+1998,Premier League,Charlton Athletic,summer,out,Phil Chapple,716616,31,England,Centre-Back,CB,,Peterborough United,England,0.0,0
+1998,Premier League,Charlton Athletic,summer,out,Paul Emblen,958274,22,England,Right Winger,RW,,Wycombe Wanderers,England,,0
+1998,Premier League,Charlton Athletic,summer,out,Emeka Ifejiagwa,700,20,Nigeria,Centre-Back,CB,,Brighton & Hove Albion,England,0.0,1
+1998,Premier League,Charlton Athletic,summer,out,Mark Bright,223280,36,England,Centre-Forward,CF,,Retired,,,0
+1998,Premier League,Charlton Athletic,summer,out,Dave Tuttle,195615,27,England,Centre-Back,CB,,Crystal Palace,England,0.0,1
+1998,Premier League,Charlton Athletic,winter,out,Kevin Nicholls,33498,20,England,Right Midfield,RM,,Brighton & Hove Albion,England,0.0,1
+1998,Premier League,Charlton Athletic,winter,out,Kevin Lisbie,4097,20,Jamaica,Centre-Forward,CF,,Gillingham FC,England,0.0,1
+1998,Premier League,Charlton Athletic,winter,out,Bradley Allen,223445,27,England,Centre-Forward,CF,,Colchester United,England,0.0,1
+1998,Premier League,Charlton Athletic,winter,out,Adrian Webster,43194,18,New Zealand,Right Winger,RW,,Colchester United,England,,0
+1998,Premier League,Charlton Athletic,winter,out,Mike Salmon,591026,34,England,Goalkeeper,GK,,Oxford United,England,0.0,1
+1998,Premier League,Chelsea FC,summer,in,Pierluigi Casiraghi,102485,29,Italy,Centre-Forward,CF,,SS Lazio,Italy,7750000.0,0
+1998,Premier League,Chelsea FC,summer,in,Marcel Desailly,3154,29,France,Centre-Back,CB,,AC Milan,Italy,6750000.0,0
+1998,Premier League,Chelsea FC,summer,in,Albert Ferrer,3152,28,Spain,Right-Back,RB,,FC Barcelona,Spain,4300000.0,0
+1998,Premier League,Chelsea FC,summer,in,Mikael Forssell,3127,17,Finland,Centre-Forward,CF,,HJK Helsinki,Finland,0.0,0
+1998,Premier League,Chelsea FC,summer,in,Brian Laudrup,39667,29,Denmark,Right Winger,RW,,Rangers FC,Scotland,0.0,0
+1998,Premier League,Chelsea FC,winter,in,Bjarne Goldbaek,3105,30,Denmark,Central Midfield,CM,,FC Copenhagen,Denmark,500000.0,0
+1998,Premier League,Chelsea FC,winter,in,Nick Crittenden,107085,19,England,Right Midfield,RM,,Plymouth Argyle,England,,0
+1998,Premier League,Chelsea FC,winter,in,Laurent Charvet,107083,24,France,Right-Back,RB,,AS Cannes,France,,0
+1998,Premier League,Chelsea FC,summer,out,Frank Sinclair,8056,26,Jamaica,Centre-Back,CB,,Leicester City,England,3000000.0,0
+1998,Premier League,Chelsea FC,summer,out,Danny Granville,13789,23,England,Left-Back,LB,,Leeds United,England,2200000.0,0
+1998,Premier League,Chelsea FC,summer,out,Mark Hughes,8022,34,Wales,Second Striker,SS,,Southampton FC,England,900000.0,0
+1998,Premier League,Chelsea FC,summer,out,Laurent Charvet,107083,25,France,Right-Back,RB,,Newcastle United,England,850000.0,0
+1998,Premier League,Chelsea FC,summer,out,Nick Colgan,12690,24,Ireland,Goalkeeper,GK,,AFC Bournemouth,England,0.0,0
+1998,Premier League,Chelsea FC,summer,out,David Rocastle,175583,31,England,Attacking Midfield,AM,,Sabah FA,Malaysia,0.0,0
+1998,Premier League,Chelsea FC,summer,out,Mark Stein,107104,32,England,Centre-Forward,CF,,AFC Bournemouth,England,0.0,0
+1998,Premier League,Chelsea FC,summer,out,Nick Crittenden,107085,19,England,Right Midfield,RM,,Plymouth Argyle,England,,0
+1998,Premier League,Chelsea FC,summer,out,Ruud Gullit,101045,35,Netherlands,Attacking Midfield,AM,,Retired,,,0
+1998,Premier League,Chelsea FC,summer,out,Steve Clarke,107084,35,Scotland,Right-Back,RB,,Retired,,,0
+1998,Premier League,Chelsea FC,winter,out,Brian Laudrup,39667,29,Denmark,Right Winger,RW,,FC Copenhagen,Denmark,1100000.0,0
+1998,Premier League,Chelsea FC,winter,out,David Lee,107092,29,England,Centre-Back,CB,,Bristol Rovers,England,0.0,0
+1998,Premier League,Chelsea FC,winter,out,Paul Hughes,33494,22,England,Central Midfield,CM,,Stockport County,England,0.0,1
+1998,Premier League,Chelsea FC,winter,out,Paul Hughes,33494,22,England,Central Midfield,CM,,Norwich City,England,0.0,1
+1998,Premier League,Chelsea FC,winter,out,Neil Clement,3789,20,England,Centre-Back,CB,,Reading FC,England,0.0,1
+1998,Premier League,Chelsea FC,winter,out,Neil Clement,3789,20,England,Centre-Back,CB,,Preston North End,England,0.0,1
+1998,Premier League,Coventry City,summer,in,Steve Froggatt,222292,25,England,Left Winger,LW,,Wolverhampton Wanderers,England,2300000.0,0
+1998,Premier League,Coventry City,summer,in,Marc Edworthy,4235,25,England,Right-Back,RB,,Crystal Palace,England,1800000.0,0
+1998,Premier League,Coventry City,summer,in,John Aloisi,7741,22,Australia,Centre-Forward,CF,,Portsmouth FC,England,975000.0,0
+1998,Premier League,Coventry City,summer,in,Philippe Clement,9636,24,Belgium,Centre-Back,CB,,KRC Genk,Belgium,875000.0,0
+1998,Premier League,Coventry City,summer,in,Gary McPhee,29882,18,Scotland,Centre-Forward,CF,,Vitesse Arnhem U19,Netherlands,0.0,0
+1998,Premier League,Coventry City,summer,in,Jean-Guy Wallemme,155753,30,France,Centre-Back,CB,,RC Lens,France,,0
+1998,Premier League,Coventry City,summer,in,Darren Jackson,103643,32,Scotland,Striker,Striker,,Celtic FC,Scotland,,0
+1998,Premier League,Coventry City,summer,in,Ian Brightwell,67373,30,England,Right-Back,RB,,Manchester City,England,,0
+1998,Premier League,Coventry City,summer,in,Paul Hall,48670,25,Jamaica,Centre-Forward,CF,,Portsmouth FC,England,,0
+1998,Premier League,Coventry City,summer,in,Barry Ferguson,68336,18,Ireland,Defender,Defender,,Home Farm,Ireland,,0
+1998,Premier League,Coventry City,winter,in,Stefano Gioacchini,21982,22,Italy,Second Striker,SS,,AC Venezia 1907,Italy,2800000.0,0
+1998,Premier League,Coventry City,winter,in,Laurent Delorge,13114,19,Belgium,Right Winger,RW,,KAA Gent,Belgium,1750000.0,0
+1998,Premier League,Coventry City,winter,in,Muhamed Konjic,10022,28,Bosnia-Herzegovina,Centre-Back,CB,,AS Monaco,France,,0
+1998,Premier League,Coventry City,summer,out,Viorel Moldovan,5519,25,Romania,Centre-Forward,CF,,Fenerbahce,Türkiye,4200000.0,0
+1998,Premier League,Coventry City,summer,out,John Andrews,894733,19,Ireland,Defender,Defender,,Shepshed Dynamo FC,England,0.0,0
+1998,Premier League,Coventry City,summer,out,John Salako,13423,29,England,Left Midfield,LM,,Fulham FC,England,0.0,0
+1998,Premier League,Coventry City,summer,out,Adam Willis,322198,21,England,Centre-Back,CB,,Swindon Town,England,0.0,0
+1998,Premier League,Coventry City,summer,out,Michael O'Neill,21798,29,Northern Ireland,Attacking Midfield,AM,,Wigan Athletic,England,0.0,0
+1998,Premier League,Coventry City,summer,out,Simon Haworth,109484,21,Wales,Centre-Forward,CF,,Wigan Athletic,England,,0
+1998,Premier League,Coventry City,summer,out,Martin Johansen,3493,26,Denmark,Centre-Forward,CF,,Lyngby Boldklub,Denmark,,0
+1998,Premier League,Coventry City,summer,out,Barry Prenderville,29884,21,Ireland,Defender,Defender,,Hibernian FC,Scotland,0.0,1
+1998,Premier League,Coventry City,winter,out,Dion Dublin,3763,29,England,Centre-Forward,CF,,Aston Villa,England,8600000.0,0
+1998,Premier League,Coventry City,winter,out,John Eustace,13569,19,England,Defensive Midfield,DM,,Dundee United FC,Scotland,0.0,1
+1998,Premier League,Coventry City,winter,out,Craig Faulconbridge,170409,20,England,Centre-Forward,CF,,Hull City,England,0.0,1
+1998,Premier League,Coventry City,winter,out,Jean-Guy Wallemme,155753,31,France,Centre-Back,CB,,FC Sochaux-Montbéliard,France,,0
+1998,Premier League,Coventry City,winter,out,Darren Jackson,103643,32,Scotland,Striker,Striker,,Celtic FC,Scotland,,0
+1998,Premier League,Coventry City,winter,out,Gavin Strachan,41027,20,Scotland,Defensive Midfield,DM,,Dundee FC,Scotland,0.0,1
+1998,Premier League,Derby County,summer,in,Horacio Carbonari,30799,24,Argentina,Centre-Back,CB,,CA Rosario Central,Argentina,3000000.0,0
+1998,Premier League,Derby County,summer,in,Spencer Prior,12722,27,England,Centre-Back,CB,,Leicester City,England,1000000.0,0
+1998,Premier League,Derby County,summer,in,Kevin Harper,9220,22,Scotland,Right Midfield,RM,,Hibernian FC,Scotland,450000.0,0
+1998,Premier League,Derby County,summer,in,Malcolm Christie,3790,19,England,Centre-Forward,CF,,Nuneaton Town,England,75000.0,0
+1998,Premier League,Derby County,summer,in,Stefan Schnoor,702,27,Germany,Centre-Back,CB,,Hamburger SV,Germany,0.0,0
+1998,Premier League,Derby County,summer,in,Tony Dorigo,101324,32,England,Left-Back,LB,,Torino Calcio,Italy,,0
+1998,Premier League,Derby County,summer,in,Brian Launders,227861,22,Ireland,Central Midfield,CM,,BV Veendam,Netherlands,,0
+1998,Premier League,Derby County,winter,in,Mikkel Beck,5650,25,Denmark,Centre-Forward,CF,,Middlesbrough FC,England,700000.0,0
+1998,Premier League,Derby County,winter,in,Paul Boertien,13440,20,England,Left-Back,LB,,Carlisle United,England,375000.0,0
+1998,Premier League,Derby County,winter,in,Richard Jackson,13467,18,England,Right-Back,RB,,Scarborough FC (- 2007),England,50000.0,0
+1998,Premier League,Derby County,winter,in,Gerard Doherty,16006,17,Northern Ireland,Goalkeeper,GK,,Derry City,Ireland,36000.0,0
+1998,Premier League,Derby County,winter,in,Vasilios Borbokis,9875,30,Greece,Right-Back,RB,,Sheffield United,England,0.0,0
+1998,Premier League,Derby County,summer,out,Christian Dailly,3799,24,Scotland,Centre-Back,CB,,Blackburn Rovers,England,7950000.0,0
+1998,Premier League,Derby County,summer,out,Gary Rowett,4102,24,England,Right-Back,RB,,Birmingham City,England,1400000.0,0
+1998,Premier League,Derby County,summer,out,Chris Powell,4100,28,England,Left-Back,LB,,Charlton Athletic,England,1250000.0,0
+1998,Premier League,Derby County,summer,out,Robin van der Laan,107826,29,Netherlands,Attacking Midfield,AM,,Barnsley FC,England,450000.0,0
+1998,Premier League,Derby County,summer,out,Matt Carbon,43138,23,England,Centre-Back,CB,,West Bromwich Albion,England,0.0,0
+1998,Premier League,Derby County,summer,out,Dean Yates,107825,30,England,Centre-Back,CB,,Watford FC,England,0.0,0
+1998,Premier League,Derby County,summer,out,Jonathan Hunt,107811,26,England,Right Winger,RW,,Sheffield United,England,0.0,1
+1998,Premier League,Derby County,summer,out,Jonathan Hunt,107811,26,England,Right Winger,RW,,Ipswich Town,England,0.0,1
+1998,Premier League,Derby County,summer,out,Mauricio Solís,16446,25,Costa Rica,Left Midfield,LM,,CSD Comunicaciones,Guatemala,,0
+1998,Premier League,Derby County,summer,out,Ron Willems,107824,31,Netherlands,Striker,Striker,,Retired,,,0
+1998,Premier League,Derby County,winter,out,Lee Carsley,3618,25,Ireland,Defensive Midfield,DM,,Blackburn Rovers,England,5100000.0,0
+1998,Premier League,Derby County,winter,out,Rob Kozluk,13525,21,England,Right-Back,RB,,Sheffield United,England,0.0,0
+1998,Premier League,Derby County,winter,out,Deon Burton,3464,22,Jamaica,Centre-Forward,CF,,Barnsley FC,England,0.0,1
+1998,Premier League,Derby County,winter,out,Marc Bridge-Wilkinson,39231,19,England,Central Midfield,CM,,Carlisle United,England,0.0,1
+1998,Premier League,Derby County,winter,out,Jonathan Hunt,107811,27,England,Right Winger,RW,,Sheffield United,England,,0
+1998,Premier League,Derby County,winter,out,Brian Launders,227861,22,Ireland,Central Midfield,CM,,Colchester United,England,0.0,1
+1998,Premier League,Derby County,winter,out,Richard Knight,468494,19,England,Goalkeeper,GK,,Carlisle United,England,0.0,1
+1998,Premier League,Everton FC,summer,in,Ibrahima Bakayoko,3899,21,Cote d'Ivoire,Centre-Forward,CF,,Montpellier HSC,France,6750000.0,0
+1998,Premier League,Everton FC,summer,in,Olivier Dacourt,3572,23,France,Defensive Midfield,DM,,RC Strasbourg Alsace,France,6000000.0,0
+1998,Premier League,Everton FC,summer,in,Steve Simonsen,3583,19,England,Goalkeeper,GK,,Tranmere Rovers,England,4950000.0,0
+1998,Premier League,Everton FC,summer,in,David Unsworth,3272,24,England,Left-Back,LB,,Aston Villa,England,4600000.0,0
+1998,Premier League,Everton FC,summer,in,John Collins,3663,30,Scotland,Left Midfield,LM,,AS Monaco,France,3750000.0,0
+1998,Premier League,Everton FC,summer,in,Marco Materazzi,5778,24,Italy,Centre-Back,CB,,AC Perugia,Italy,3000000.0,0
+1998,Premier League,Everton FC,summer,in,Richard Gough,101124,37,Scotland,Centre-Back,CB,,San Jose Clash,United States,0.0,0
+1998,Premier League,Everton FC,summer,in,Alec Cleland,173069,27,Scotland,Right-Back,RB,,Rangers FC,Scotland,,0
+1998,Premier League,Everton FC,winter,in,David Weir,3312,28,Scotland,Centre-Back,CB,,Heart of Midlothian FC,Scotland,300000.0,0
+1998,Premier League,Everton FC,winter,in,Scot Gemmill,3617,28,Scotland,Central Midfield,CM,,Nottingham Forest,England,300000.0,0
+1998,Premier League,Everton FC,winter,in,Peter Degn,22461,21,Denmark,Right Midfield,RM,,Aarhus GF,Denmark,,0
+1998,Premier League,Everton FC,winter,in,Kevin Campbell,3468,29,England,Centre-Forward,CF,,Trabzonspor,Türkiye,0.0,1
+1998,Premier League,Everton FC,summer,out,Ibrahima Bakayoko,3899,22,Cote d'Ivoire,Centre-Forward,CF,,Olympique Marseille,France,6000000.0,0
+1998,Premier League,Everton FC,summer,out,Carl Tiler,198681,28,England,Centre-Back,CB,,Charlton Athletic,England,874000.0,0
+1998,Premier League,Everton FC,summer,out,Adam Eaton,277337,19,England,Defender,Defender,,Preston North End,England,6000.0,0
+1998,Premier League,Everton FC,summer,out,Graham Allen,224477,21,England,Centre-Back,CB,,Tranmere Rovers,England,0.0,0
+1998,Premier League,Everton FC,summer,out,John O'Kane,150458,23,England,Right-Back,RB,,Burnley FC,England,0.0,1
+1998,Premier League,Everton FC,summer,out,Graham Allen,224477,21,England,Centre-Back,CB,,Tranmere Rovers,England,0.0,1
+1998,Premier League,Everton FC,summer,out,Michael Branch,10393,20,England,Centre-Forward,CF,,Manchester City,England,0.0,1
+1998,Premier League,Everton FC,summer,out,Kevin Campbell,3468,29,England,Centre-Forward,CF,,Trabzonspor,Türkiye,0.0,1
+1998,Premier League,Everton FC,winter,out,Duncan Ferguson,3239,26,Scotland,Centre-Forward,CF,,Newcastle United,England,10700000.0,0
+1998,Premier League,Everton FC,winter,out,Gavin McCann,4136,20,England,Central Midfield,CM,,Sunderland AFC,England,750000.0,0
+1998,Premier League,Everton FC,winter,out,Tony Thomas,195614,27,England,Right-Back,RB,,Motherwell FC,Scotland,220000.0,0
+1998,Premier League,Everton FC,winter,out,John Spencer,27004,28,Scotland,Centre-Forward,CF,,Motherwell FC,Scotland,0.0,0
+1998,Premier League,Everton FC,winter,out,Paul Gerrard,3584,25,England,Goalkeeper,GK,,Oxford United,England,0.0,1
+1998,Premier League,Everton FC,winter,out,Mickaël Madar,104068,30,France,Centre-Forward,CF,,Paris Saint-Germain,France,,0
+1998,Premier League,Leeds United,summer,in,Eirik Bakke,3284,21,Norway,Central Midfield,CM,,Sogndal IL,Norway,2600000.0,0
+1998,Premier League,Leeds United,summer,in,Danny Granville,13789,23,England,Left-Back,LB,,Chelsea FC,England,2200000.0,0
+1998,Premier League,Leeds United,summer,in,Clyde Wijnhard,14387,24,Netherlands,Centre-Forward,CF,,Willem II Tilburg,Netherlands,2100000.0,0
+1998,Premier League,Leeds United,summer,in,Nuno Santos,17361,25,Portugal,Goalkeeper,GK,,Vitória Setúbal FC,Portugal,,0
+1998,Premier League,Leeds United,winter,in,David Batty,3295,30,England,Defensive Midfield,DM,,Newcastle United,England,6350000.0,0
+1998,Premier League,Leeds United,winter,in,Willem Korsten,104898,23,Netherlands,Left Winger,LW,,Vitesse Arnhem,Netherlands,0.0,1
+1998,Premier League,Leeds United,summer,out,Andy Gray,13575,20,Scotland,Centre-Forward,CF,,Nottingham Forest,England,200000.0,0
+1998,Premier League,Leeds United,summer,out,Jason Blunt,225922,20,England,Central Midfield,CM,,Blackpool FC,England,0.0,0
+1998,Premier League,Leeds United,summer,out,Lee Matthews,20977,19,England,Central Midfield,CM,,Notts County,England,0.0,1
+1998,Premier League,Leeds United,summer,out,Mark Jackson,48257,21,England,Centre-Back,CB,,Huddersfield Town,England,0.0,1
+1998,Premier League,Leeds United,summer,out,Rod Wallace,13803,28,England,Centre-Forward,CF,,Rangers FC,Scotland,,0
+1998,Premier League,Leeds United,summer,out,Gunnar Halle,102506,33,Norway,Right-Back,RB,,Bradford City,England,,0
+1998,Premier League,Leeds United,summer,out,Paul Evans,103459,24,South Africa,Goalkeeper,GK,,SuperSport United,South Africa,,0
+1998,Premier League,Leeds United,winter,out,Derek Lilley,13327,24,Scotland,Centre-Forward,CF,,Heart of Midlothian FC,Scotland,0.0,1
+1998,Premier League,Leeds United,winter,out,Derek Lilley,13327,25,Scotland,Centre-Forward,CF,,Bury FC,England,0.0,1
+1998,Premier League,Leeds United,winter,out,Lee Sharpe,107229,27,England,Left Midfield,LM,,UC Sampdoria,Italy,0.0,1
+1998,Premier League,Leeds United,winter,out,Lee Sharpe,107229,27,England,Left Midfield,LM,,Bradford City,England,0.0,1
+1998,Premier League,Leeds United,winter,out,Paul Shepherd,228811,21,England,Right-Back,RB,,Tranmere Rovers,England,0.0,1
+1998,Premier League,Leeds United,winter,out,Alan Maybury,12597,20,Ireland,Right-Back,RB,,Reading FC,England,0.0,1
+1998,Premier League,Leeds United,winter,out,Mark Beeney,107177,31,England,Goalkeeper,GK,,Career break,,,0
+1998,Premier League,Leicester City,summer,in,Frank Sinclair,8056,26,Jamaica,Centre-Back,CB,,Chelsea FC,England,3000000.0,0
+1998,Premier League,Leicester City,summer,in,Gerry Taggart,4264,27,Northern Ireland,Centre-Back,CB,,Bolton Wanderers,England,0.0,0
+1998,Premier League,Leicester City,summer,in,Lawrie Dudfield,16204,18,England,Centre-Forward,CF,,Kettering Town,England,0.0,0
+1998,Premier League,Leicester City,summer,in,John Hodges,775807,18,England,Goalkeeper,GK,,Unknown,,,0
+1998,Premier League,Leicester City,winter,in,Andy Impey,4250,27,England,Right-Back,RB,,West Ham United,England,3100000.0,0
+1998,Premier League,Leicester City,winter,in,Arnar Gunnlaugsson,17955,25,Iceland,Right Winger,RW,,Bolton Wanderers,England,2800000.0,0
+1998,Premier League,Leicester City,winter,in,Charlie Miller,11366,23,Scotland,Attacking Midfield,AM,,Rangers FC,Scotland,0.0,1
+1998,Premier League,Leicester City,summer,out,Spencer Prior,12722,27,England,Centre-Back,CB,,Derby County,England,1000000.0,0
+1998,Premier League,Leicester City,summer,out,Sascha Lenhart,33611,24,Germany,Striker,Striker,,Wuppertaler SV,Germany,0.0,0
+1998,Premier League,Leicester City,summer,out,Julian Watts,223290,27,England,Centre-Back,CB,,Bristol City,England,0.0,0
+1998,Premier League,Leicester City,summer,out,Fergal Harkin,222922,21,Ireland,Central Midfield,CM,,Bohemian Football Club,Ireland,0.0,0
+1998,Premier League,Leicester City,summer,out,Guy Branston,15933,19,England,Centre-Back,CB,,Colchester United,England,0.0,1
+1998,Premier League,Leicester City,summer,out,Charlie Miller,11366,23,Scotland,Attacking Midfield,AM,,Rangers FC,Scotland,0.0,1
+1998,Premier League,Leicester City,winter,out,Guy Branston,15933,19,England,Centre-Back,CB,,Plymouth Argyle,England,0.0,1
+1998,Premier League,Leicester City,winter,out,Guy Branston,15933,20,England,Centre-Back,CB,,Rushden & Diamonds (- 2011),England,0.0,1
+1998,Premier League,Leicester City,winter,out,Gary Neil,107795,20,Scotland,Centre-Forward,CF,,Torquay United,England,0.0,1
+1998,Premier League,Leicester City,winter,out,Sam McMahon,223990,22,England,Central Midfield,CM,,Cambridge United,England,,0
+1998,Premier League,Liverpool FC,summer,in,Vegard Heggem,3596,22,Norway,Right-Back,RB,,Rosenborg BK,Norway,5200000.0,0
+1998,Premier League,Liverpool FC,summer,in,Steve Staunton,3839,29,Ireland,Left-Back,LB,,Aston Villa,England,0.0,0
+1998,Premier League,Liverpool FC,winter,in,Rigobert Song,1419,22,Cameroon,Centre-Back,CB,,US Salernitana,Italy,3690000.0,0
+1998,Premier League,Liverpool FC,winter,in,Frode Kippe,8511,20,Norway,Centre-Back,CB,,Lillestrøm SK,Norway,1050000.0,0
+1998,Premier League,Liverpool FC,winter,in,Djimi Traoré,3598,18,Mali,Centre-Back,CB,,Stade Lavallois,France,800000.0,0
+1998,Premier League,Liverpool FC,winter,in,Jean-Michel Ferri,168517,29,France,Defensive Midfield,DM,,Istanbulspor,Türkiye,,0
+1998,Premier League,Liverpool FC,summer,out,David James,3646,28,England,Goalkeeper,GK,,Aston Villa,England,2400000.0,0
+1998,Premier League,Liverpool FC,summer,out,Neil Ruddock,3487,30,England,Centre-Back,CB,,West Ham United,England,350000.0,0
+1998,Premier League,Liverpool FC,summer,out,Michael Thomas,107235,30,England,Right Midfield,RM,,SL Benfica,Portugal,0.0,0
+1998,Premier League,Liverpool FC,summer,out,Mark Wright,101386,34,England,Centre-Back,CB,,Retired,,,0
+1998,Premier League,Liverpool FC,winter,out,Jason McAteer,3710,27,Ireland,Right Midfield,RM,,Blackburn Rovers,England,5550000.0,0
+1998,Premier League,Liverpool FC,winter,out,Steve Harkness,107196,27,England,Left-Back,LB,,SL Benfica,Portugal,1130000.0,0
+1998,Premier League,Liverpool FC,winter,out,Tony Warner,10259,24,Trinidad and Tobago,Goalkeeper,GK,,Aberdeen FC,Scotland,0.0,1
+1998,Premier League,Liverpool FC,winter,out,Tony Warner,10259,24,Trinidad and Tobago,Goalkeeper,GK,,Celtic FC,Scotland,0.0,1
+1998,Premier League,Liverpool FC,winter,out,Danny Murphy,3221,21,England,Central Midfield,CM,,Crewe Alexandra,England,0.0,1
+1998,Premier League,Liverpool FC,winter,out,Jørgen Nielsen,23085,27,Denmark,Goalkeeper,GK,,Wolverhampton Wanderers,England,0.0,1
+1998,Premier League,Manchester United,summer,in,Dwight Yorke,3223,26,Trinidad and Tobago,Centre-Forward,CF,,Aston Villa,England,19250000.0,0
+1998,Premier League,Manchester United,summer,in,Jaap Stam,3557,25,Netherlands,Centre-Back,CB,,PSV Eindhoven,Netherlands,17000000.0,0
+1998,Premier League,Manchester United,summer,in,Jesper Blomqvist,3095,24,Sweden,Left Midfield,LM,,AC Parma,Italy,7000000.0,0
+1998,Premier League,Manchester United,winter,in,Bojan Djordjic,3659,17,Sweden,Left Winger,LW,,IF Brommapojkarna,Sweden,1500000.0,0
+1998,Premier League,Manchester United,summer,out,Gary Pallister,106917,33,England,Centre-Back,CB,,Middlesbrough FC,England,2800000.0,0
+1998,Premier League,Manchester United,summer,out,Grant Brebner,12687,20,Scotland,Central Midfield,CM,,Reading FC,England,450000.0,0
+1998,Premier League,Manchester United,summer,out,Ben Thornley,16727,23,England,Left Winger,LW,,Huddersfield Town,England,200000.0,0
+1998,Premier League,Manchester United,summer,out,Kevin Pilkington,77354,24,England,Goalkeeper,GK,,Port Vale FC,England,0.0,0
+1998,Premier League,Manchester United,summer,out,Robert Trees,992639,20,England,Right Midfield,RM,,Bristol Rovers,England,0.0,0
+1998,Premier League,Manchester United,summer,out,Stuart Brightwell,865481,19,England,Right Midfield,RM,,Hartlepool United,England,0.0,0
+1998,Premier League,Manchester United,summer,out,Danny Higginbotham,3686,19,Gibraltar,Centre-Back,CB,,Royal Antwerp FC,Belgium,0.0,1
+1998,Premier League,Manchester United,summer,out,Alex Notman,11729,18,Scotland,Right Winger,RW,,Aberdeen FC,Scotland,0.0,1
+1998,Premier League,Manchester United,summer,out,Graeme Tomlinson,150468,22,England,Centre-Forward,CF,,Macclesfield Town FC,England,,0
+1998,Premier League,Manchester United,summer,out,Michael Twiss,67350,20,England,Right Midfield,RM,,Sheffield United,England,0.0,1
+1998,Premier League,Manchester United,summer,out,Chris Casper,150434,23,England,Centre-Back,CB,,Reading FC,England,0.0,1
+1998,Premier League,Manchester United,winter,out,Chris Casper,150434,23,England,Centre-Back,CB,,Reading FC,England,300000.0,0
+1998,Premier League,Manchester United,winter,out,Ronnie Wallwork,3305,21,England,Central Midfield,CM,,Royal Antwerp FC,Belgium,0.0,1
+1998,Premier League,Manchester United,winter,out,Erik Nevland,13711,21,Norway,Centre-Forward,CF,,IFK Göteborg,Sweden,0.0,1
+1998,Premier League,Manchester United,winter,out,Terry Cooke,13404,22,England,Right Winger,RW,,Unknown,,,0
+1998,Premier League,Manchester United,winter,out,Jordi Cruyff,7436,24,Netherlands,Attacking Midfield,AM,,Celta de Vigo,Spain,0.0,1
+1998,Premier League,Manchester United,winter,out,Terry Cooke,13404,22,England,Right Winger,RW,,Wrexham AFC,Wales,0.0,1
+1998,Premier League,Manchester United,winter,out,Terry Cooke,13404,22,England,Right Winger,RW,,Manchester City,England,0.0,1
+1998,Premier League,Middlesbrough FC,summer,in,Brian Deane,8058,30,England,Centre-Forward,CF,,SL Benfica,Portugal,4179999.9999999995,0
+1998,Premier League,Middlesbrough FC,summer,in,Colin Cooper,3867,31,England,Left-Back,LB,,Nottingham Forest,England,3750000.0,0
+1998,Premier League,Middlesbrough FC,summer,in,Gary Pallister,106917,33,England,Centre-Back,CB,,Manchester United,England,2800000.0,0
+1998,Premier League,Middlesbrough FC,summer,in,Dean Gordon,10049,25,England,Left-Back,LB,,Crystal Palace,England,1350000.0,0
+1998,Premier League,Middlesbrough FC,summer,in,Luke Wilkshire,3321,16,Australia,Right-Back,RB,,South Coast Wolves FC,Australia,0.0,0
+1998,Premier League,Middlesbrough FC,summer,in,Gustavo Lombardi,184341,22,Argentina,Right-Back,RB,,UD Salamanca,Spain,0.0,1
+1998,Premier League,Middlesbrough FC,winter,in,Keith O'Neill,10017,23,Ireland,Left Winger,LW,,Norwich City,England,810000.0,0
+1998,Premier League,Middlesbrough FC,summer,out,Paul Merson,3250,30,England,Attacking Midfield,AM,,Aston Villa,England,6750000.0,0
+1998,Premier League,Middlesbrough FC,summer,out,Émerson,8754,26,Brazil,Defensive Midfield,DM,,CD Tenerife,Spain,6400000.0,0
+1998,Premier League,Middlesbrough FC,summer,out,Paul Connor,16880,19,England,Centre-Forward,CF,,Stoke City,England,0.0,0
+1998,Premier League,Middlesbrough FC,summer,out,Craig Hignett,3787,28,England,Right Winger,RW,,Aberdeen FC,Scotland,0.0,0
+1998,Premier League,Middlesbrough FC,summer,out,Andy Dibble,39339,33,Wales,Goalkeeper,GK,,Altrincham FC,England,0.0,0
+1998,Premier League,Middlesbrough FC,summer,out,Nigel Pearson,222229,34,England,Centre-Back,CB,,Retired,,,0
+1998,Premier League,Middlesbrough FC,winter,out,Mikkel Beck,5650,25,Denmark,Centre-Forward,CF,,Derby County,England,700000.0,0
+1998,Premier League,Middlesbrough FC,winter,out,Ben Roberts,4099,23,England,Goalkeeper,GK,,Millwall FC,England,0.0,1
+1998,Premier League,Middlesbrough FC,winter,out,Craig Harrison,223760,21,England,Defender,Defender,,Preston North End,England,0.0,1
+1998,Premier League,Middlesbrough FC,winter,out,Andy Campbell,12689,19,England,Centre-Forward,CF,,Sheffield United,England,0.0,1
+1998,Premier League,Middlesbrough FC,winter,out,Anthony Ormerod,106162,19,Ireland,Right Winger,RW,,Carlisle United,England,0.0,1
+1998,Premier League,Middlesbrough FC,winter,out,Anthony Ormerod,106162,19,Ireland,Right Winger,RW,,Bury FC,England,0.0,1
+1998,Premier League,Middlesbrough FC,winter,out,Gustavo Lombardi,184341,23,Argentina,Right-Back,RB,,UD Salamanca,Spain,0.0,1
+1998,Premier League,Newcastle United,summer,in,Dietmar Hamann,919,24,Germany,Defensive Midfield,DM,,Bayern Munich,Germany,7500000.0,0
+1998,Premier League,Newcastle United,summer,in,Nolberto Solano,3460,23,Peru,Right Midfield,RM,,CA Boca Juniors,Argentina,4000000.0,0
+1998,Premier League,Newcastle United,summer,in,Stéphane Guivarc'h,102753,27,France,Centre-Forward,CF,,AJ Auxerre,France,4000000.0,0
+1998,Premier League,Newcastle United,summer,in,John Karelse,3561,29,Netherlands,Goalkeeper,GK,,NAC Breda,Netherlands,1200000.0,0
+1998,Premier League,Newcastle United,summer,in,Stephen Glass,12696,22,Scotland,Left Midfield,LM,,Aberdeen FC,Scotland,975000.0,0
+1998,Premier League,Newcastle United,summer,in,Laurent Charvet,107083,25,France,Right-Back,RB,,Chelsea FC,England,850000.0,0
+1998,Premier League,Newcastle United,summer,in,Carl Serrant,225606,22,England,Left-Back,LB,,Oldham Athletic,England,600000.0,0
+1998,Premier League,Newcastle United,summer,in,Georgios Georgiadis,9678,26,Greece,Right Winger,RW,,Panathinaikos FC,Greece,420000.0,0
+1998,Premier League,Newcastle United,summer,in,Garry Brady,12822,21,Scotland,Central Midfield,CM,,Tottenham Hotspur Reserves,England,0.0,0
+1998,Premier League,Newcastle United,summer,in,Lionel Perez,223246,31,France,Goalkeeper,GK,,Sunderland AFC,England,0.0,0
+1998,Premier League,Newcastle United,winter,in,Duncan Ferguson,3239,26,Scotland,Centre-Forward,CF,,Everton FC,England,10700000.0,0
+1998,Premier League,Newcastle United,winter,in,Silvio Maric,9842,23,Croatia,Attacking Midfield,AM,,NK Croatia Zagreb,Croatia,5800000.0,0
+1998,Premier League,Newcastle United,winter,in,Didier Domi,3965,20,France,Left-Back,LB,,Paris Saint-Germain,France,5580000.0,0
+1998,Premier League,Newcastle United,winter,in,Louis Saha,4015,20,France,Centre-Forward,CF,,FC Metz,France,0.0,1
+1998,Premier League,Newcastle United,summer,out,Faustino Asprilla,102150,28,Colombia,Centre-Forward,CF,,AC Parma,Italy,6800000.0,0
+1998,Premier League,Newcastle United,summer,out,Steve Watson,3309,24,England,Right-Back,RB,,Aston Villa,England,6000000.0,0
+1998,Premier League,Newcastle United,summer,out,Jon Dahl Tomasson,4169,21,Denmark,Centre-Forward,CF,,Feyenoord Rotterdam,Netherlands,3200000.0,0
+1998,Premier League,Newcastle United,summer,out,Paul Dalglish,36357,22,Scotland,Centre-Forward,CF,,Norwich City,England,450000.0,0
+1998,Premier League,Newcastle United,summer,out,Pavel Srnicek,5963,30,Czech Republic,Goalkeeper,GK,,FC Banik Ostrava,Czech Republic,0.0,0
+1998,Premier League,Newcastle United,summer,out,Brian Pinas,4381,19,Netherlands,Left Winger,LW,,Feyenoord Rotterdam,Netherlands,0.0,0
+1998,Premier League,Newcastle United,summer,out,Bjarni Gudjónsson,4186,19,Iceland,Right Midfield,RM,,KRC Genk,Belgium,0.0,0
+1998,Premier League,Newcastle United,summer,out,Shaka Hislop,4175,29,Trinidad and Tobago,Goalkeeper,GK,,West Ham United,England,0.0,0
+1998,Premier League,Newcastle United,summer,out,Darren Peacock,107099,30,England,Centre-Back,CB,,Blackburn Rovers,England,0.0,0
+1998,Premier League,Newcastle United,summer,out,Ian Rush,145743,36,Wales,Centre-Forward,CF,,Wrexham AFC,Wales,0.0,0
+1998,Premier League,Newcastle United,summer,out,Des Hamilton,107087,22,England,Right Midfield,RM,,Sheffield United,England,0.0,1
+1998,Premier League,Newcastle United,summer,out,Stuart Elliott,92574,21,England,Centre-Back,CB,,Gillingham FC,England,0.0,1
+1998,Premier League,Newcastle United,summer,out,Louis Saha,4015,20,France,Centre-Forward,CF,,FC Metz,France,0.0,1
+1998,Premier League,Newcastle United,winter,out,David Batty,3295,30,England,Defensive Midfield,DM,,Leeds United,England,6350000.0,0
+1998,Premier League,Newcastle United,winter,out,Stéphane Guivarc'h,102753,28,France,Centre-Forward,CF,,Rangers FC,Scotland,4000000.0,0
+1998,Premier League,Newcastle United,winter,out,Keith Gillespie,3827,23,Northern Ireland,Right Midfield,RM,,Blackburn Rovers,England,3500000.0,0
+1998,Premier League,Newcastle United,winter,out,John Barnes,87436,35,England,Left Midfield,LM,,Charlton Athletic,England,0.0,0
+1998,Premier League,Newcastle United,winter,out,Philippe Albert,27972,31,Belgium,Centre-Back,CB,,Fulham FC,England,0.0,1
+1998,Premier League,Newcastle United,winter,out,Paul Barrett,107082,20,England,Midfielder,Midfielder,,Wrexham AFC,Wales,,0
+1998,Premier League,Newcastle United,winter,out,Alessandro Pistone,3588,23,Italy,Left-Back,LB,,AC Venezia 1907,Italy,0.0,1
+1998,Premier League,Newcastle United,winter,out,Carl Serrant,225606,23,England,Left-Back,LB,,Bury FC,England,0.0,1
+1998,Premier League,Newcastle United,winter,out,Des Hamilton,107087,22,England,Right Midfield,RM,,Huddersfield Town,England,0.0,1
+1998,Premier League,Newcastle United,winter,out,Paul Dalglish,36357,22,Scotland,Centre-Forward,CF,,Norwich City,England,0.0,1
+1998,Premier League,Newcastle United,winter,out,Stuart Elliott,92574,21,England,Centre-Back,CB,,Hartlepool United,England,0.0,1
+1998,Premier League,Newcastle United,winter,out,Stuart Elliott,92574,21,England,Centre-Back,CB,,Wrexham AFC,Wales,0.0,1
+1998,Premier League,Nottingham Forest,summer,in,Nigel Quashie,4139,19,Scotland,Central Midfield,CM,,Queens Park Rangers,England,3750000.0,0
+1998,Premier League,Nottingham Forest,summer,in,Neil Shipperley,13801,23,England,Centre-Forward,CF,,Crystal Palace,England,2100000.0,0
+1998,Premier League,Nottingham Forest,summer,in,Dougie Freedman,13787,24,Scotland,Centre-Forward,CF,,Wolverhampton Wanderers,England,1100000.0,0
+1998,Premier League,Nottingham Forest,summer,in,Andy Gray,13575,20,Scotland,Centre-Forward,CF,,Leeds United,England,200000.0,0
+1998,Premier League,Nottingham Forest,summer,in,Jean-Claude Darcheville,5382,22,French Guiana,Centre-Forward,CF,,Stade Rennais FC,France,0.0,1
+1998,Premier League,Nottingham Forest,summer,in,Mark Goodlad,48211,18,England,Goalkeeper,GK,,Unknown,,,0
+1998,Premier League,Nottingham Forest,summer,in,Mathieu Louis-Jean,3902,22,France,Right-Back,RB,,Le Havre AC,France,0.0,1
+1998,Premier League,Nottingham Forest,winter,in,Carlton Palmer,101325,33,England,Defensive Midfield,DM,,Southampton FC,England,1350000.0,0
+1998,Premier League,Nottingham Forest,winter,in,Jesper Mattsson,227197,30,Sweden,Centre-Back,CB,,Halmstads BK,Sweden,300000.0,0
+1998,Premier League,Nottingham Forest,winter,in,Richard Gough,101124,36,Scotland,Centre-Back,CB,,San Jose Clash,United States,0.0,1
+1998,Premier League,Nottingham Forest,winter,in,Bernard Allou,140391,23,France,Right Winger,RW,,Nagoya Grampus,Japan,,0
+1998,Premier League,Nottingham Forest,winter,in,Porfírio,17187,25,Portugal,Left Winger,LW,,SL Benfica,Portugal,0.0,1
+1998,Premier League,Nottingham Forest,winter,in,Ståle Stensaas,12381,27,Norway,Left-Back,LB,,Rangers FC,Scotland,0.0,1
+1998,Premier League,Nottingham Forest,winter,in,John Harkes,102005,31,United States,Defensive Midfield,DM,,D.C. United,United States,0.0,1
+1998,Premier League,Nottingham Forest,summer,out,Pierre van Hooijdonk,3520,29,Netherlands,Centre-Forward,CF,,Vitesse Arnhem,Netherlands,4730000.0,0
+1998,Premier League,Nottingham Forest,summer,out,Kevin Campbell,3468,28,England,Centre-Forward,CF,,Trabzonspor,Türkiye,4000000.0,0
+1998,Premier League,Nottingham Forest,summer,out,Colin Cooper,3867,31,England,Left-Back,LB,,Middlesbrough FC,England,3750000.0,0
+1998,Premier League,Nottingham Forest,summer,out,Ian Thomas-Moore,9990,21,England,Centre-Forward,CF,,Stockport County,England,1200000.0,0
+1998,Premier League,Nottingham Forest,summer,out,Steve Guinan,16670,22,England,Centre-Forward,CF,,Halifax Town (- 2008),England,0.0,1
+1998,Premier League,Nottingham Forest,summer,out,Marco Pascolo,4807,32,Switzerland,Goalkeeper,GK,,FC Zürich,Switzerland,,0
+1998,Premier League,Nottingham Forest,summer,out,Paul McGregor,168581,23,England,Centre-Forward,CF,,Carlisle United,England,0.0,1
+1998,Premier League,Nottingham Forest,summer,out,Chris Allen,223949,25,England,Left Winger,LW,,Cardiff City,Wales,0.0,1
+1998,Premier League,Nottingham Forest,summer,out,Richard Gough,101124,37,Scotland,Centre-Back,CB,,San Jose Clash,United States,0.0,1
+1998,Premier League,Nottingham Forest,winter,out,Steve Stone,3364,27,England,Right Midfield,RM,,Aston Villa,England,8000000.0,0
+1998,Premier League,Nottingham Forest,winter,out,Craig Armstrong,13396,23,England,Central Midfield,CM,,Huddersfield Town,England,1130000.0,0
+1998,Premier League,Nottingham Forest,winter,out,Scot Gemmill,3617,28,Scotland,Central Midfield,CM,,Everton FC,England,300000.0,0
+1998,Premier League,Nottingham Forest,winter,out,Andy Dawson,36860,20,England,Left-Back,LB,,Scunthorpe United,England,75000.0,0
+1998,Premier League,Nottingham Forest,winter,out,Chris Allen,223949,26,England,Left Winger,LW,,Port Vale FC,England,0.0,0
+1998,Premier League,Nottingham Forest,winter,out,Andy Gray,13575,21,Scotland,Centre-Forward,CF,,Oldham Athletic,England,0.0,1
+1998,Premier League,Nottingham Forest,winter,out,Andy Gray,13575,21,Scotland,Centre-Forward,CF,,Preston North End,England,0.0,1
+1998,Premier League,Nottingham Forest,winter,out,Steve Guinan,16670,23,England,Centre-Forward,CF,,Plymouth Argyle,England,0.0,1
+1998,Premier League,Nottingham Forest,winter,out,Andy Todd,39342,19,England,Left Midfield,LM,,Scarborough FC (- 2007),England,0.0,1
+1998,Premier League,Nottingham Forest,winter,out,Marlon Harewood,10011,19,England,Centre-Forward,CF,,Ipswich Town,England,0.0,1
+1998,Premier League,Nottingham Forest,winter,out,Glyn Hodges,221987,35,Wales,Right Midfield,RM,,Scarborough FC (- 2007),England,,0
+1998,Premier League,Nottingham Forest,winter,out,Paul McGregor,168581,24,England,Centre-Forward,CF,,Preston North End,England,0.0,1
+1998,Premier League,Nottingham Forest,winter,out,Christian Edwards,139093,23,Wales,Centre-Back,CB,,Bristol City,England,0.0,1
+1998,Premier League,Nottingham Forest,winter,out,Des Lyttle,3674,27,England,Right Winger,RW,,Port Vale FC,England,0.0,1
+1998,Premier League,Nottingham Forest,winter,out,Mark Goodlad,48211,19,England,Goalkeeper,GK,,Scarborough FC (- 2007),England,0.0,1
+1998,Premier League,Nottingham Forest,winter,out,Richard Follett,1132843,19,England,Right-Back,RB,,Scunthorpe United,England,0.0,1
+1998,Premier League,Nottingham Forest,winter,out,Ståle Stensaas,12381,27,Norway,Left-Back,LB,,Rangers FC,Scotland,0.0,1
+1998,Premier League,Nottingham Forest,winter,out,John Harkes,102005,32,United States,Defensive Midfield,DM,,D.C. United,United States,0.0,1
+1998,Premier League,Sheffield Wednesday,summer,in,Wim Jonk,101046,31,Netherlands,Defensive Midfield,DM,,PSV Eindhoven,Netherlands,2800000.0,0
+1998,Premier League,Sheffield Wednesday,summer,in,Danny Sonner,9998,26,Northern Ireland,Defensive Midfield,DM,,Ipswich Town,England,100000.0,0
+1998,Premier League,Sheffield Wednesday,summer,in,Peter Holmes,33492,17,England,Central Midfield,CM,,Liverpool FC U18,England,,0
+1998,Premier League,Sheffield Wednesday,summer,in,Juan Cobian,223281,22,Argentina,Right-Back,RB,,CA Boca Juniors II,Argentina,,0
+1998,Premier League,Sheffield Wednesday,winter,in,Richard Cresswell,14002,21,England,Centre-Forward,CF,,York City,England,1600000.0,0
+1998,Premier League,Sheffield Wednesday,winter,in,Phil Scott,211267,24,Scotland,Midfielder,Midfielder,,St. Johnstone FC,Scotland,110000.0,0
+1998,Premier League,Sheffield Wednesday,winter,in,Pavel Srnicek,5963,30,Czech Republic,Goalkeeper,GK,,FC Banik Ostrava,Czech Republic,,0
+1998,Premier League,Sheffield Wednesday,summer,out,Mark Pembridge,3615,27,Wales,Left Midfield,LM,,SL Benfica,Portugal,0.0,0
+1998,Premier League,Sheffield Wednesday,summer,out,Christian Mayrleb,6728,26,Austria,Centre-Forward,CF,,Austria Vienna,Austria,0.0,0
+1998,Premier League,Sheffield Wednesday,summer,out,Simon Weaver,44406,20,England,Centre-Back,CB,,Ilkeston Town (- 2010),England,0.0,0
+1998,Premier League,Sheffield Wednesday,summer,out,Ryan Jones,107090,24,Wales,Central Midfield,CM,,Worksop Town,England,0.0,0
+1998,Premier League,Sheffield Wednesday,summer,out,Steve Nicol,107096,36,Scotland,Right-Back,RB,,Doncaster Rovers,England,0.0,0
+1998,Premier League,Sheffield Wednesday,winter,out,Paolo Di Canio,3699,30,Italy,Centre-Forward,CF,,West Ham United,England,2230000.0,0
+1998,Premier League,Sheffield Wednesday,winter,out,Jim Magilton,3481,29,Northern Ireland,Central Midfield,CM,,Ipswich Town,England,900000.0,0
+1998,Premier League,Sheffield Wednesday,winter,out,Goce Sedloski,24625,24,North Macedonia,Centre-Back,CB,,NK Croatia Zagreb,Croatia,0.0,0
+1998,Premier League,Sheffield Wednesday,winter,out,Graham Hyde,106798,28,England,Central Midfield,CM,,Birmingham City,England,0.0,0
+1998,Premier League,Sheffield Wednesday,winter,out,Mark Platts,107100,19,England,Left Winger,LW,,Torquay United,England,0.0,0
+1998,Premier League,Sheffield Wednesday,winter,out,Jon Newsome,107093,28,England,Centre-Back,CB,,Bolton Wanderers,England,0.0,1
+1998,Premier League,Sheffield Wednesday,winter,out,Mark Platts,107100,19,England,Left Winger,LW,,Torquay United,England,0.0,1
+1998,Premier League,Sheffield Wednesday,winter,out,Stuart Jones,16231,21,England,Goalkeeper,GK,,Crewe Alexandra,England,0.0,1
+1998,Premier League,Sheffield Wednesday,winter,out,Guy Whittingham,106806,33,England,Centre-Forward,CF,,Wolverhampton Wanderers,England,0.0,1
+1998,Premier League,Sheffield Wednesday,winter,out,Guy Whittingham,106806,34,England,Centre-Forward,CF,,Portsmouth FC,England,0.0,1
+1998,Premier League,Sheffield Wednesday,winter,out,Guy Whittingham,106806,34,England,Centre-Forward,CF,,Watford FC,England,0.0,1
+1998,Premier League,Sheffield Wednesday,winter,out,Mark McKeever,226927,20,Ireland,Midfielder,Midfielder,,Bristol Rovers,England,0.0,1
+1998,Premier League,Southampton FC,summer,in,Stuart Ripley,107223,30,England,Right Midfield,RM,,Blackburn Rovers,England,2250000.0,0
+1998,Premier League,Southampton FC,summer,in,James Beattie,3112,20,England,Centre-Forward,CF,,Blackburn Rovers,England,1400000.0,0
+1998,Premier League,Southampton FC,summer,in,Mark Hughes,8022,34,Wales,Second Striker,SS,,Chelsea FC,England,900000.0,0
+1998,Premier League,Southampton FC,summer,in,Hassan Kachloul,4066,25,Morocco,Left Midfield,LM,,AS Saint-Étienne,France,350000.0,0
+1998,Premier League,Southampton FC,summer,in,Scott Marshall,106912,25,Scotland,Centre-Back,CB,,Arsenal FC,England,0.0,0
+1998,Premier League,Southampton FC,summer,in,Scott Hiley,211250,29,England,Right-Back,RB,,Manchester City,England,0.0,0
+1998,Premier League,Southampton FC,summer,in,Scott Hiley,211250,29,England,Right-Back,RB,,Manchester City,England,0.0,1
+1998,Premier League,Southampton FC,summer,in,David Howells,109492,30,England,Central Midfield,CM,,Tottenham Hotspur,England,,0
+1998,Premier League,Southampton FC,summer,in,Cosimo Sarli,168250,19,Italy,Centre-Forward,CF,,Torino Calcio,Italy,,0
+1998,Premier League,Southampton FC,summer,in,Scott Marshall,106912,26,Scotland,Centre-Back,CB,,Celtic FC,Scotland,,0
+1998,Premier League,Southampton FC,summer,in,Alessandro Atzeni,227270,18,Italy,Centre-Forward,CF,,Fiorentina Primavera,Italy,,0
+1998,Premier League,Southampton FC,winter,in,Marians Pahars,3689,22,Latvia,Centre-Forward,CF,,Skonto Riga (- 2016),Latvia,1200000.0,0
+1998,Premier League,Southampton FC,winter,in,Chris Marsden,4117,30,England,Central Midfield,CM,,Birmingham City,England,1200000.0,0
+1998,Premier League,Southampton FC,winter,in,Michael Stensgaard,211168,24,Denmark,Goalkeeper,GK,,FC Copenhagen,Denmark,0.0,0
+1998,Premier League,Southampton FC,winter,in,Patrick Colleter,107065,33,France,Left-Back,LB,,Olympique Marseille,France,,0
+1998,Premier League,Southampton FC,summer,out,Kevin Davies,4114,21,England,Centre-Forward,CF,,Blackburn Rovers,England,11250000.0,0
+1998,Premier League,Southampton FC,summer,out,Lee Todd,109498,26,England,Left-Back,LB,,Bradford City,England,300000.0,0
+1998,Premier League,Southampton FC,summer,out,Kevin Richardson,109495,35,England,Central Midfield,CM,,Barnsley FC,England,0.0,0
+1998,Premier League,Southampton FC,summer,out,Scott Bevan,4110,20,England,Goalkeeper,GK,,Ayr United FC,Scotland,0.0,1
+1998,Premier League,Southampton FC,summer,out,Garry Monk,4111,19,England,Centre-Back,CB,,Torquay United,England,0.0,1
+1998,Premier League,Southampton FC,summer,out,Duncan Spedding,109497,20,England,Defensive Midfield,DM,,Northampton Town,England,,0
+1998,Premier League,Southampton FC,summer,out,Stig Johansen,24083,26,Norway,Centre-Forward,CF,,Helsingborgs IF,Sweden,,0
+1998,Premier League,Southampton FC,summer,out,Russell Watkinson,225986,21,England,Midfielder,Midfielder,,Aldershot Town,England,,0
+1998,Premier League,Southampton FC,summer,out,Scott Hiley,211250,29,England,Right-Back,RB,,Manchester City,England,0.0,1
+1998,Premier League,Southampton FC,winter,out,Carlton Palmer,101325,33,England,Defensive Midfield,DM,,Nottingham Forest,England,1350000.0,0
+1998,Premier League,Southampton FC,winter,out,Scott Marshall,106912,25,Scotland,Centre-Back,CB,,Celtic FC,Scotland,0.0,0
+1998,Premier League,Southampton FC,winter,out,Cosimo Sarli,168250,19,Italy,Centre-Forward,CF,,KSC Eendracht Aalst,Belgium,,0
+1998,Premier League,Southampton FC,winter,out,David Howells,109492,31,England,Central Midfield,CM,,Bristol City,England,0.0,1
+1998,Premier League,Southampton FC,winter,out,Shayne Bradley,211242,19,England,Striker,Striker,,Swindon Town,England,0.0,1
+1998,Premier League,Southampton FC,winter,out,Steve Basham,13663,21,England,Centre-Forward,CF,,Preston North End,England,0.0,1
+1998,Premier League,Tottenham Hotspur,summer,in,Paolo Tramezzani,6406,27,Italy,Left-Back,LB,,Piacenza FC,Italy,1800000.0,0
+1998,Premier League,Tottenham Hotspur,summer,in,Hans Segers,104902,36,Netherlands,Goalkeeper,GK,,Wolverhampton Wanderers,England,0.0,0
+1998,Premier League,Tottenham Hotspur,winter,in,Tim Sherwood,4005,29,England,Central Midfield,CM,,Blackburn Rovers,England,6000000.0,0
+1998,Premier League,Tottenham Hotspur,winter,in,Mauricio Taricco,4050,25,Argentina,Left-Back,LB,,Ipswich Town,England,2650000.0,0
+1998,Premier League,Tottenham Hotspur,winter,in,Steffen Freund,3990,28,Germany,Defensive Midfield,DM,,Borussia Dortmund,Germany,1130000.0,0
+1998,Premier League,Tottenham Hotspur,winter,in,Roger Nilsen,102509,29,Norway,Centre-Back,CB,,Sheffield United,England,0.0,0
+1998,Premier League,Tottenham Hotspur,summer,out,Frode Grodås,263,33,Norway,Goalkeeper,GK,,FC Schalke 04,Germany,150000.0,0
+1998,Premier League,Tottenham Hotspur,summer,out,Mark Arber,47997,20,England,Centre-Back,CB,,Barnet FC,England,120000.0,0
+1998,Premier League,Tottenham Hotspur,summer,out,Simon Brown,21412,21,England,Goalkeeper,GK,,Kingstonian FC,England,0.0,1
+1998,Premier League,Tottenham Hotspur,summer,out,Dean Austin,109486,28,England,Right-Back,RB,,Crystal Palace,England,,0
+1998,Premier League,Tottenham Hotspur,summer,out,David Howells,109492,30,England,Central Midfield,CM,,Southampton FC,England,,0
+1998,Premier League,Tottenham Hotspur,summer,out,Darren Davies,109488,19,Wales,Left-Back,LB,,Barry Town,Wales,,0
+1998,Premier League,Tottenham Hotspur,winter,out,Colin Calderwood,103641,34,Scotland,Centre-Back,CB,,Aston Villa,England,330000.0,0
+1998,Premier League,Tottenham Hotspur,winter,out,Nicola Berti,102473,31,Italy,Central Midfield,CM,,Deportivo Alavés,Spain,200000.0,0
+1998,Premier League,Tottenham Hotspur,winter,out,Peter Gain,48000,22,Ireland,Left Midfield,LM,,Lincoln City,England,25000.0,0
+1998,Premier League,Tottenham Hotspur,winter,out,Mark Gower,39700,20,England,Central Midfield,CM,,Motherwell FC,Scotland,0.0,1
+1998,Premier League,Tottenham Hotspur,winter,out,Neale Fenn,34620,21,Ireland,Centre-Forward,CF,,Swindon Town,England,0.0,1
+1998,Premier League,Tottenham Hotspur,winter,out,Neale Fenn,34620,21,Ireland,Centre-Forward,CF,,Lincoln City,England,0.0,1
+1998,Premier League,Tottenham Hotspur,winter,out,Peter Gain,48000,22,Ireland,Left Midfield,LM,,Lincoln City,England,0.0,1
+1998,Premier League,West Ham United,summer,in,Ian Wright,104637,34,England,Centre-Forward,CF,,Arsenal FC,England,750000.0,0
+1998,Premier League,West Ham United,summer,in,Neil Ruddock,3487,30,England,Centre-Back,CB,,Liverpool FC,England,350000.0,0
+1998,Premier League,West Ham United,summer,in,Daniel Sjölund,3957,15,Finland,Defensive Midfield,DM,,IF Brommapojkarna,Sweden,265000.0,0
+1998,Premier League,West Ham United,summer,in,Shaka Hislop,4175,29,Trinidad and Tobago,Goalkeeper,GK,,Newcastle United,England,0.0,0
+1998,Premier League,West Ham United,summer,in,Marc Keller,131608,30,France,Right Midfield,RM,,Karlsruher SC,Germany,0.0,0
+1998,Premier League,West Ham United,summer,in,Jamie Coyne,22548,17,Australia,Right-Back,RB,,Perth SC,Australia,,0
+1998,Premier League,West Ham United,summer,in,Javier Margas,133852,29,Chile,Centre-Back,CB,,CD Universidad Católica,Chile,,0
+1998,Premier League,West Ham United,winter,in,Marc-Vivien Foé,3889,23,Cameroon,Defensive Midfield,DM,,RC Lens,France,6000000.0,0
+1998,Premier League,West Ham United,winter,in,Paolo Di Canio,3699,30,Italy,Centre-Forward,CF,,Sheffield Wednesday,England,2230000.0,0
+1998,Premier League,West Ham United,winter,in,Scott Minto,3884,27,England,Left-Back,LB,,SL Benfica,Portugal,1500000.0,0
+1998,Premier League,West Ham United,winter,in,Jimmy Bullard,13510,20,England,Central Midfield,CM,,Gravesend and Northfleet FC,England,45000.0,0
+1998,Premier League,West Ham United,winter,in,Gavin Holligan,16067,18,England,Centre-Forward,CF,,Kingstonian FC,England,,0
+1998,Premier League,West Ham United,summer,out,David Unsworth,3272,24,England,Left-Back,LB,,Aston Villa,England,4600000.0,0
+1998,Premier League,West Ham United,summer,out,Bernard Lama,3736,35,France,Goalkeeper,GK,,Paris Saint-Germain,France,0.0,0
+1998,Premier League,West Ham United,summer,out,Chris Coyne,33487,19,Australia,Centre-Back,CB,,Brentford FC,England,0.0,1
+1998,Premier League,West Ham United,summer,out,Tim Breacker,107804,33,England,Right-Back,RB,,Queens Park Rangers,England,0.0,1
+1998,Premier League,West Ham United,summer,out,Scott Mean,107816,24,England,Central Midfield,CM,,Port Vale FC,England,0.0,1
+1998,Premier League,West Ham United,summer,out,Mohammed Berthé,13035,25,France,Centre-Forward,CF,,AFC Bournemouth,England,,0
+1998,Premier League,West Ham United,summer,out,Ludek Miklosko,106952,36,Czech Republic,Goalkeeper,GK,,Queens Park Rangers,England,0.0,1
+1998,Premier League,West Ham United,summer,out,Neil Finn,230514,19,England,Goalkeeper,GK,,Career break,,,0
+1998,Premier League,West Ham United,winter,out,John Hartson,3094,23,Wales,Centre-Forward,CF,,Wimbledon FC (- 2004),England,11250000.0,0
+1998,Premier League,West Ham United,winter,out,Andy Impey,4250,27,England,Right-Back,RB,,Leicester City,England,3100000.0,0
+1998,Premier League,West Ham United,winter,out,David Partridge,12672,20,Wales,Centre-Back,CB,,Dundee United FC,Scotland,60000.0,0
+1998,Premier League,West Ham United,winter,out,Tim Breacker,107804,33,England,Right-Back,RB,,Queens Park Rangers,England,0.0,0
+1998,Premier League,West Ham United,winter,out,Samassi Abou,107822,25,France,Centre-Forward,CF,,Ipswich Town,England,0.0,1
+1998,Premier League,West Ham United,winter,out,Lee Hodges,807434,21,England,Left Midfield,LM,,Southend United,England,0.0,1
+1998,Premier League,West Ham United,winter,out,Lee Hodges,807434,20,England,Left Midfield,LM,,Ipswich Town,England,0.0,1
+1998,Premier League,West Ham United,winter,out,Lee Boylan,66498,20,England,Centre-Forward,CF,,Kingstonian FC,England,0.0,1
+1998,Premier League,West Ham United,winter,out,Chris Coyne,33487,20,Australia,Centre-Back,CB,,Southend United,England,0.0,1
+1998,Premier League,West Ham United,winter,out,Ludek Miklosko,106952,37,Czech Republic,Goalkeeper,GK,,Queens Park Rangers,England,,0
+1998,Premier League,West Ham United,winter,out,Emmanuel Omoyinmi,13254,21,Nigeria,Centre-Forward,CF,,Leyton Orient,England,0.0,1
+1998,Premier League,West Ham United,winter,out,Joe Keith,45688,20,England,Defensive Midfield,DM,,Waterford United,Ireland,0.0,1
+1998,Premier League,West Ham United,winter,out,Richard Hall,222259,27,England,Centre-Back,CB,,Retired,,,0
+1998,Premier League,Wimbledon FC (- 2004),summer,in,Gareth Ainsworth,13713,25,England,Right Midfield,RM,,Port Vale FC,England,3000000.0,0
+1998,Premier League,Wimbledon FC (- 2004),summer,in,Andy Roberts,13603,24,England,Central Midfield,CM,,Crystal Palace,England,2500000.0,0
+1998,Premier League,Wimbledon FC (- 2004),summer,in,Lee Jones,202864,23,New Zealand,Defensive Midfield,DM,,Akron Zips (University of Akron),United States,,0
+1998,Premier League,Wimbledon FC (- 2004),winter,in,John Hartson,3094,23,Wales,Centre-Forward,CF,,West Ham United,England,11250000.0,0
+1998,Premier League,Wimbledon FC (- 2004),winter,in,Morten Bakke,160900,30,Norway,Goalkeeper,GK,,Molde FK,Norway,0.0,1
+1998,Premier League,Wimbledon FC (- 2004),summer,out,Andy Clarke,109503,31,England,Centre-Forward,CF,,Port Vale FC,England,0.0,1
+1998,Premier League,Wimbledon FC (- 2004),summer,out,Alan Reeves,222303,30,England,Centre-Back,CB,,Swindon Town,England,,0
+1998,Premier League,Wimbledon FC (- 2004),summer,out,Mick Harford,176806,39,England,Centre-Forward,CF,,Retired,,,0
+1998,Premier League,Wimbledon FC (- 2004),winter,out,Andy Clarke,109503,31,England,Centre-Forward,CF,,Northampton Town,England,0.0,1
+1998,Premier League,Wimbledon FC (- 2004),winter,out,Morten Bakke,160900,31,Norway,Goalkeeper,GK,,Molde FK,Norway,0.0,1

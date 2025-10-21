@@ -1,0 +1,669 @@
+season,league,club,window,movement,player_name,player_id,age,nationality,position,pos,market_value,dealing_club,dealing_country,fee,is_loan
+2006,Premier League,Arsenal FC,summer,in,Tomas Rosicky,132,25,Czech Republic,Attacking Midfield,AM,11000000.0,Borussia Dortmund,Germany,10000000.0,0
+2006,Premier League,Arsenal FC,summer,in,Denílson,42352,18,Brazil,Defensive Midfield,DM,,São Paulo Futebol Clube,Brazil,5000000.0,0
+2006,Premier League,Arsenal FC,summer,in,William Gallas,3156,29,France,Centre-Back,CB,14700000.0,Chelsea FC,England,0.0,0
+2006,Premier League,Arsenal FC,summer,in,Joe O'Cearuill,44797,19,Ireland,Centre-Back,CB,,Watford FC U18,England,0.0,0
+2006,Premier League,Arsenal FC,summer,in,Júlio Baptista,15952,24,Brazil,Attacking Midfield,AM,20000000.0,Real Madrid,Spain,0.0,1
+2006,Premier League,Arsenal FC,summer,out,Ashley Cole,3182,25,England,Left-Back,LB,17000000.0,Chelsea FC,England,7400000.0,0
+2006,Premier League,Arsenal FC,summer,out,Pascal Cygan,3193,32,France,Centre-Back,CB,1400000.0,Villarreal CF,Spain,2900000.0,0
+2006,Premier League,Arsenal FC,summer,out,Graham Stack,3559,24,Ireland,Goalkeeper,GK,350000.0,Reading FC,England,0.0,0
+2006,Premier League,Arsenal FC,summer,out,Sol Campbell,3198,31,England,Centre-Back,CB,7500000.0,Portsmouth FC,England,0.0,0
+2006,Premier League,Arsenal FC,summer,out,Robert Pirès,3185,32,France,Left Midfield,LM,9000000.0,Villarreal CF,Spain,0.0,0
+2006,Premier League,Arsenal FC,summer,out,Kerrea Gilbert,34562,19,England,Right-Back,RB,200000.0,Cardiff City,England,0.0,1
+2006,Premier League,Arsenal FC,summer,out,Arturo Lupoli,22227,19,Italy,Centre-Forward,CF,1380000.0,Derby County,England,0.0,1
+2006,Premier League,Arsenal FC,summer,out,Vito Mannone,33781,18,Italy,Goalkeeper,GK,500000.0,Barnsley FC,England,0.0,1
+2006,Premier League,Arsenal FC,summer,out,Carlos Vela,35773,17,Mexico,Right Winger,RW,3000000.0,UD Salamanca,Spain,0.0,1
+2006,Premier League,Arsenal FC,summer,out,Sebastian Larsson,31720,21,Sweden,Central Midfield,CM,175000.0,Birmingham City,England,0.0,1
+2006,Premier League,Arsenal FC,summer,out,Fabrice Muamba,35586,18,England,Central Midfield,CM,100000.0,Birmingham City,England,0.0,1
+2006,Premier League,Arsenal FC,summer,out,José Antonio Reyes,7717,22,Spain,Right Winger,RW,17000000.0,Real Madrid,Spain,0.0,1
+2006,Premier League,Arsenal FC,summer,out,Dennis Bergkamp,3187,37,Netherlands,Second Striker,SS,2250000.0,Retired,,,0
+2006,Premier League,Arsenal FC,winter,out,Sebastian Larsson,31720,21,Sweden,Central Midfield,CM,400000.0,Birmingham City,England,1500000.0,0
+2006,Premier League,Arsenal FC,winter,out,Laurén,3189,29,Cameroon,Right-Back,RB,6500000.0,Portsmouth FC,England,550000.0,0
+2006,Premier League,Arsenal FC,winter,out,Alex Song,27394,19,Cameroon,Defensive Midfield,DM,4000000.0,Charlton Athletic,England,275000.0,1
+2006,Premier League,Arsenal FC,winter,out,Joe O'Cearuill,44797,19,Ireland,Centre-Back,CB,250000.0,Brighton & Hove Albion,England,0.0,1
+2006,Premier League,Aston Villa,summer,in,Stiliyan Petrov,3252,27,Bulgaria,Central Midfield,CM,7350000.0,Celtic FC,Scotland,10000000.0,0
+2006,Premier League,Aston Villa,summer,in,Didier Agathé,9490,30,France,Right Midfield,RM,1500000.0,Without Club,,,0
+2006,Premier League,Aston Villa,summer,in,Chris Sutton,7453,33,England,Centre-Forward,CF,3300000.0,Without Club,,,0
+2006,Premier League,Aston Villa,winter,in,Ashley Young,14086,21,England,Right-Back,RB,6500000.0,Watford FC,England,13200000.0,0
+2006,Premier League,Aston Villa,winter,in,Shaun Maloney,9508,24,Scotland,Attacking Midfield,AM,3000000.0,Celtic FC,Scotland,1500000.0,0
+2006,Premier League,Aston Villa,winter,in,Phil Bardsley,15773,21,Scotland,Right-Back,RB,500000.0,Manchester United,England,0.0,1
+2006,Premier League,Aston Villa,winter,in,Gábor Király,342,30,Hungary,Goalkeeper,GK,2500000.0,Crystal Palace,England,0.0,1
+2006,Premier League,Aston Villa,winter,in,John Carew,3570,27,Norway,Centre-Forward,CF,6000000.0,Olympique Lyon,France,,0
+2006,Premier League,Aston Villa,summer,out,Kevin Phillips,3131,33,England,Centre-Forward,CF,3500000.0,West Bromwich Albion,England,1050000.0,0
+2006,Premier League,Aston Villa,summer,out,Mathieu Berson,5508,26,France,Defensive Midfield,DM,3500000.0,Levante UD,Spain,250000.0,0
+2006,Premier League,Aston Villa,summer,out,Ulises de la Cruz,3842,32,Ecuador,Right-Back,RB,1500000.0,Reading FC,England,0.0,0
+2006,Premier League,Aston Villa,summer,out,Stefan Postma,3714,29,Netherlands,Goalkeeper,GK,1500000.0,ADO Den Haag,Netherlands,0.0,0
+2006,Premier League,Aston Villa,summer,out,Lee Hendrie,4069,29,England,Central Midfield,CM,2100000.0,Stoke City,England,0.0,1
+2006,Premier League,Aston Villa,summer,out,Stephen O'Halloran,54130,18,Ireland,Left-Back,LB,,Wycombe Wanderers,England,0.0,1
+2006,Premier League,Aston Villa,summer,out,Sam Williams,45554,19,England,Centre-Forward,CF,,Brighton & Hove Albion,England,0.0,1
+2006,Premier League,Aston Villa,winter,out,Milan Baros,3216,25,Czech Republic,Centre-Forward,CF,9000000.0,Olympique Lyon,France,2500000.0,0
+2006,Premier League,Aston Villa,winter,out,Peter Whittingham,3762,22,England,Central Midfield,CM,850000.0,Cardiff City,England,525000.0,0
+2006,Premier League,Aston Villa,winter,out,Juan Pablo Ángel,3278,31,Colombia,Centre-Forward,CF,6600000.0,New York Red Bulls,United States,0.0,0
+2006,Premier League,Aston Villa,winter,out,Didier Agathé,9490,31,France,Right Midfield,RM,1500000.0,JS Saint-Pierroise,Réunion,0.0,0
+2006,Premier League,Aston Villa,winter,out,Patrik Berger,3218,32,Czech Republic,Attacking Midfield,AM,3000000.0,Stoke City,England,0.0,1
+2006,Premier League,Aston Villa,winter,out,Eric Djemba Djemba,5509,25,Cameroon,Defensive Midfield,DM,2000000.0,Burnley FC,England,0.0,1
+2006,Premier League,Aston Villa,winter,out,Bobby Olejnik,6170,20,Austria,Goalkeeper,GK,300000.0,Lincoln City,England,0.0,1
+2006,Premier League,Aston Villa,winter,out,Phil Bardsley,15773,21,Scotland,Right-Back,RB,500000.0,Manchester United,England,0.0,1
+2006,Premier League,Aston Villa,winter,out,Gábor Király,342,30,Hungary,Goalkeeper,GK,2500000.0,Crystal Palace,England,0.0,1
+2006,Premier League,Blackburn Rovers,summer,in,Jason Roberts,3666,28,Grenada,Centre-Forward,CF,3850000.0,Wigan Athletic,England,4080000.0,0
+2006,Premier League,Blackburn Rovers,summer,in,Benni McCarthy,3091,28,South Africa,Centre-Forward,CF,6000000.0,FC Porto,Portugal,3700000.0,0
+2006,Premier League,Blackburn Rovers,summer,in,André Ooijer,4345,32,Netherlands,Centre-Back,CB,3000000.0,PSV Eindhoven,Netherlands,3000000.0,0
+2006,Premier League,Blackburn Rovers,summer,in,Zurab Khizanishvili,9621,24,Georgia,Centre-Back,CB,2500000.0,Rangers FC,Scotland,750000.0,0
+2006,Premier League,Blackburn Rovers,summer,in,Jason Brown,15916,24,Wales,Goalkeeper,GK,50000.0,Gillingham FC,England,0.0,0
+2006,Premier League,Blackburn Rovers,summer,in,Francis Jeffers,3186,25,England,Centre-Forward,CF,2600000.0,Charlton Athletic,England,0.0,0
+2006,Premier League,Blackburn Rovers,summer,in,Shabani Nonda,3499,29,DR Congo,Centre-Forward,CF,6000000.0,AS Roma,Italy,0.0,1
+2006,Premier League,Blackburn Rovers,summer,in,Stéphane Henchoz,3210,32,Switzerland,Centre-Back,CB,3400000.0,Without Club,,,0
+2006,Premier League,Blackburn Rovers,winter,in,David Dunn,4243,27,England,Attacking Midfield,AM,5500000.0,Birmingham City,England,3200000.0,0
+2006,Premier League,Blackburn Rovers,winter,in,Stephen Warnock,3308,25,England,Left-Back,LB,1800000.0,Liverpool FC,England,2250000.0,0
+2006,Premier League,Blackburn Rovers,winter,in,Christopher Samba,29016,22,Congo,Centre-Back,CB,500000.0,Hertha BSC,Germany,500000.0,0
+2006,Premier League,Blackburn Rovers,winter,in,Bruno Berner,1589,29,Switzerland,Left-Back,LB,450000.0,FC Basel 1893,Switzerland,500000.0,0
+2006,Premier League,Blackburn Rovers,summer,out,Craig Bellamy,3297,26,Wales,Left Winger,LW,9000000.0,Liverpool FC,England,9000000.0,0
+2006,Premier League,Blackburn Rovers,summer,out,Shefki Kuqi,12398,29,Finland,Centre-Forward,CF,1750000.0,Crystal Palace,England,3750000.0,0
+2006,Premier League,Blackburn Rovers,summer,out,Jemal Johnson,34851,21,United States,Left Winger,LW,150000.0,Wolverhampton Wanderers,England,750000.0,0
+2006,Premier League,Blackburn Rovers,summer,out,Luke Jones,33495,19,England,Centre-Back,CB,800000.0,Ashton United,England,0.0,0
+2006,Premier League,Blackburn Rovers,summer,out,Gary Harkins,29414,21,Scotland,Attacking Midfield,AM,100000.0,Grimsby Town,England,0.0,0
+2006,Premier League,Blackburn Rovers,summer,out,Jerome Watt,20803,21,England,Central Midfield,CM,200000.0,Northampton Town,England,0.0,0
+2006,Premier League,Blackburn Rovers,summer,out,Vratislav Gresko,71,29,Slovakia,Left-Back,LB,2000000.0,1.FC Nuremberg,Germany,0.0,0
+2006,Premier League,Blackburn Rovers,summer,out,Jonathan Douglas,7435,24,Ireland,Central Midfield,CM,900000.0,Leeds United,England,0.0,0
+2006,Premier League,Blackburn Rovers,summer,out,Paul Dickov,9221,33,Scotland,Centre-Forward,CF,1500000.0,Manchester City,England,0.0,0
+2006,Premier League,Blackburn Rovers,summer,out,Keith Barker,37412,19,England,Striker,Striker,200000.0,Rochdale AFC,England,0.0,1
+2006,Premier League,Blackburn Rovers,summer,out,Andy Taylor,37600,20,England,Left-Back,LB,250000.0,Crewe Alexandra,England,0.0,1
+2006,Premier League,Blackburn Rovers,summer,out,Lorenzo Amoruso,4288,35,Italy,Centre-Back,CB,8000000.0,Without Club,,,0
+2006,Premier League,Blackburn Rovers,summer,out,Shabani Nonda,3499,30,DR Congo,Centre-Forward,CF,6000000.0,AS Roma,Italy,0.0,1
+2006,Premier League,Blackburn Rovers,winter,out,Lucas Neill,3826,28,Australia,Centre-Back,CB,3000000.0,West Ham United,England,2300000.0,0
+2006,Premier League,Blackburn Rovers,winter,out,Jay McEveley,3825,21,Scotland,Centre-Back,CB,750000.0,Derby County,England,900000.0,0
+2006,Premier League,Blackburn Rovers,winter,out,Joe Garner,46111,18,England,Centre-Forward,CF,,Carlisle United,England,210000.0,0
+2006,Premier League,Blackburn Rovers,winter,out,Dominic Matteo,3765,32,Scotland,Left-Back,LB,2500000.0,Stoke City,England,0.0,0
+2006,Premier League,Blackburn Rovers,winter,out,Tony Kane,46762,19,Northern Ireland,Right-Back,RB,,Cercle Brugge ,Belgium,0.0,1
+2006,Premier League,Blackburn Rovers,winter,out,Andy Taylor,37600,20,England,Left-Back,LB,250000.0,Huddersfield Town,England,0.0,1
+2006,Premier League,Blackburn Rovers,winter,out,Francis Jeffers,3186,26,England,Centre-Forward,CF,2600000.0,Ipswich Town,England,0.0,1
+2006,Premier League,Blackburn Rovers,winter,out,Eddie Nolan,47601,18,Ireland,Centre-Back,CB,,Stockport County,England,0.0,1
+2006,Premier League,Blackburn Rovers,winter,out,Michael Gray,4128,32,England,Left-Back,LB,1500000.0,Leeds United,England,0.0,1
+2006,Premier League,Blackburn Rovers,winter,out,Tony Kane,46762,19,Northern Ireland,Right-Back,RB,,Stockport County,England,0.0,1
+2006,Premier League,Blackburn Rovers,winter,out,Bryan Hodge,48106,19,Scotland,Central Midfield,CM,,Mansfield Town,England,0.0,1
+2006,Premier League,Bolton Wanderers,summer,in,Nicolas Anelka,3226,27,France,Centre-Forward,CF,12000000.0,Fenerbahce,Türkiye,12000000.0,0
+2006,Premier League,Bolton Wanderers,summer,in,Abdoulaye Faye,6107,28,Senegal,Centre-Back,CB,2400000.0,RC Lens,France,3000000.0,0
+2006,Premier League,Bolton Wanderers,summer,in,Abdoulaye Méïté,5315,25,Cote d'Ivoire,Centre-Back,CB,4000000.0,Olympique Marseille,France,1500000.0,0
+2006,Premier League,Bolton Wanderers,summer,in,Quinton Fortune,3541,29,South Africa,Left-Back,LB,2250000.0,Manchester United,England,0.0,0
+2006,Premier League,Bolton Wanderers,summer,in,Andranik Teymourian,39938,23,Iran,Central Midfield,CM,400000.0,FC Aboomoslem,Iran,0.0,0
+2006,Premier League,Bolton Wanderers,summer,in,Dietmar Hamann,919,32,Germany,Defensive Midfield,DM,4000000.0,Liverpool FC,England,0.0,0
+2006,Premier League,Bolton Wanderers,summer,in,Idan Tal,24485,30,Israel,Defensive Midfield,DM,900000.0,Maccabi Haifa,Israel,0.0,0
+2006,Premier League,Bolton Wanderers,winter,in,Lubomir Michalik,46591,23,Slovakia,Centre-Back,CB,,FC Senec (1990 - 2008),Slovakia,500000.0,0
+2006,Premier League,Bolton Wanderers,winter,in,David Thompson,4127,29,England,Central Midfield,CM,2750000.0,Portsmouth FC,England,0.0,0
+2006,Premier League,Bolton Wanderers,winter,in,César Martín,7487,29,Spain,Centre-Back,CB,1750000.0,Levante UD,Spain,0.0,0
+2006,Premier League,Bolton Wanderers,summer,out,Radhi Jaïdi,19310,30,Tunisia,Centre-Back,CB,2000000.0,Birmingham City,England,3250000.0,0
+2006,Premier League,Bolton Wanderers,summer,out,Dietmar Hamann,919,32,Germany,Defensive Midfield,DM,4000000.0,Manchester City,England,600000.0,0
+2006,Premier League,Bolton Wanderers,summer,out,Jared Borgetti,29573,32,Mexico,Centre-Forward,CF,2500000.0,Al-Ittihad Club,Saudi Arabia,0.0,0
+2006,Premier League,Bolton Wanderers,summer,out,Khalilou Fadiga,3887,31,Senegal,Left Winger,LW,1850000.0,Al-Wakrah SC,Qatar,0.0,0
+2006,Premier League,Bolton Wanderers,summer,out,Jay-Jay Okocha,3708,32,Nigeria,Attacking Midfield,AM,4250000.0,Qatar SC,Qatar,0.0,0
+2006,Premier League,Bolton Wanderers,summer,out,Bruno N'Gotty,3964,35,France,Centre-Back,CB,2400000.0,Birmingham City,England,0.0,0
+2006,Premier League,Bolton Wanderers,summer,out,Chris Howarth,34659,20,England,Goalkeeper,GK,125000.0,Oldham Athletic,England,0.0,1
+2006,Premier League,Bolton Wanderers,summer,out,Matt Jansen,10502,28,England,Centre-Forward,CF,1500000.0,Career break,,,0
+2006,Premier League,Bolton Wanderers,summer,out,Abdoulaye Faye,6107,28,Senegal,Centre-Back,CB,2400000.0,RC Lens,France,0.0,1
+2006,Premier League,Bolton Wanderers,summer,out,Hidetoshi Nakata,5875,29,Japan,Attacking Midfield,AM,3500000.0,ACF Fiorentina,Italy,0.0,1
+2006,Premier League,Bolton Wanderers,winter,out,Bédi Buval,39932,20,Martinique,Centre-Forward,CF,50000.0,Red Star FC 93,France,0.0,0
+2006,Premier League,Bolton Wanderers,winter,out,Przemyslaw Kazimierczak,42576,18,Poland,Goalkeeper,GK,50000.0,Accrington Stanley,England,0.0,1
+2006,Premier League,Bolton Wanderers,winter,out,Johann Smith,16887,19,United States,Left-Back,LB,50000.0,Carlisle United,England,0.0,1
+2006,Premier League,Bolton Wanderers,winter,out,Lubomir Michalik,46591,23,Slovakia,Centre-Back,CB,,Leeds United,England,0.0,1
+2006,Premier League,Bolton Wanderers,winter,out,Ricardo Vaz Tê,9413,20,Portugal,Right Winger,RW,1000000.0,Hull City,England,0.0,1
+2006,Premier League,Charlton Athletic,summer,in,Souleymane Diawara,12503,27,Senegal,Centre-Back,CB,4000000.0,FC Sochaux-Montbéliard,France,5400000.0,0
+2006,Premier League,Charlton Athletic,summer,in,Andy Reid,10008,23,Ireland,Left Midfield,LM,5700000.0,Tottenham Hotspur,England,4200000.0,0
+2006,Premier League,Charlton Athletic,summer,in,Amdy Faye,5428,29,Senegal,Defensive Midfield,DM,2500000.0,Newcastle United,England,3000000.0,0
+2006,Premier League,Charlton Athletic,summer,in,Djimi Traoré,3598,26,Mali,Centre-Back,CB,2500000.0,Liverpool FC,England,2800000.0,0
+2006,Premier League,Charlton Athletic,summer,in,Simon Walton,24797,18,England,Central Midfield,CM,200000.0,Leeds United,England,675000.0,0
+2006,Premier League,Charlton Athletic,summer,in,Cory Gibbs,1186,26,United States,Centre-Back,CB,1750000.0,Feyenoord Rotterdam,Netherlands,0.0,0
+2006,Premier League,Charlton Athletic,summer,in,Jimmy Floyd Hasselbaink,3175,34,Netherlands,Centre-Forward,CF,4800000.0,Middlesbrough FC,England,0.0,0
+2006,Premier League,Charlton Athletic,summer,in,Omar Pouso,44450,26,Uruguay,Central Midfield,CM,,CA Peñarol,Uruguay,0.0,1
+2006,Premier League,Charlton Athletic,summer,in,Scott Carson,14555,20,England,Goalkeeper,GK,1750000.0,Liverpool FC,England,0.0,1
+2006,Premier League,Charlton Athletic,winter,in,Madjid Bougherra,38074,24,Algeria,Centre-Back,CB,100000.0,Sheffield Wednesday,England,3790000.0,0
+2006,Premier League,Charlton Athletic,winter,in,Ben Thatcher,3304,31,Wales,Left-Back,LB,3500000.0,Manchester City,England,750000.0,0
+2006,Premier League,Charlton Athletic,winter,in,Ismaël Fofana,39184,18,Cote d'Ivoire,Centre-Forward,CF,,ASEC Mimosas,Cote d'Ivoire,700000.0,0
+2006,Premier League,Charlton Athletic,winter,in,Alex Song,27394,19,Cameroon,Defensive Midfield,DM,4000000.0,Arsenal FC,England,275000.0,1
+2006,Premier League,Charlton Athletic,winter,in,Chris Dickson,55745,22,Ghana,Centre-Forward,CF,,Dulwich Hamlet,England,60000.0,0
+2006,Premier League,Charlton Athletic,winter,in,Zhi Zheng,21556,26,China,Defensive Midfield,DM,1000000.0,Shandong Luneng Taishan,China,0.0,1
+2006,Premier League,Charlton Athletic,summer,out,Jason Euell,3092,29,Jamaica,Left Winger,LW,8000000.0,Middlesbrough FC,England,0.0,0
+2006,Premier League,Charlton Athletic,summer,out,Adam Cottrell,48104,19,England,Defender,Defender,,Millwall FC,England,0.0,0
+2006,Premier League,Charlton Athletic,summer,out,Barry Fuller,28940,21,England,Right-Back,RB,50000.0,Stevenage Borough FC,England,0.0,0
+2006,Premier League,Charlton Athletic,summer,out,Mark Ricketts,28941,21,England,Defensive Midfield,DM,50000.0,Gravesend and Northfleet FC,England,0.0,0
+2006,Premier League,Charlton Athletic,summer,out,Francis Jeffers,3186,25,England,Centre-Forward,CF,2600000.0,Blackburn Rovers,England,0.0,0
+2006,Premier League,Charlton Athletic,summer,out,Jonatan Johansson,3117,30,Finland,Centre-Forward,CF,3750000.0,Malmö FF,Sweden,0.0,0
+2006,Premier League,Charlton Athletic,summer,out,Chris Powell,4100,36,England,Left-Back,LB,400000.0,Watford FC,England,0.0,0
+2006,Premier League,Charlton Athletic,summer,out,Shaun Bartlett,3089,33,South Africa,Centre-Forward,CF,1500000.0,Kaizer Chiefs,South Africa,0.0,0
+2006,Premier League,Charlton Athletic,summer,out,Jay Bothroyd,8188,24,England,Centre-Forward,CF,1750000.0,Wolverhampton Wanderers,England,0.0,0
+2006,Premier League,Charlton Athletic,summer,out,Chris Perry,4051,33,England,Centre-Back,CB,4400000.0,West Bromwich Albion,England,0.0,0
+2006,Premier League,Charlton Athletic,summer,out,Darren Randolph,51321,19,Ireland,Goalkeeper,GK,,Gillingham FC,England,0.0,1
+2006,Premier League,Charlton Athletic,summer,out,James Walker,39038,18,Antigua and Barbuda,Centre-Forward,CF,,Bristol Rovers,England,0.0,1
+2006,Premier League,Charlton Athletic,summer,out,Rob Elliot,39037,20,Ireland,Goalkeeper,GK,75000.0,Accrington Stanley,England,0.0,1
+2006,Premier League,Charlton Athletic,summer,out,Lloyd Sam,12131,21,Ghana,Right Winger,RW,300000.0,Sheffield Wednesday,England,0.0,1
+2006,Premier League,Charlton Athletic,summer,out,Simon Walton,24797,18,England,Central Midfield,CM,500000.0,Ipswich Town,England,0.0,1
+2006,Premier League,Charlton Athletic,summer,out,Gonçalo Brandão,14195,19,Portugal,Centre-Back,CB,300000.0,CF Os Belenenses,Portugal,0.0,1
+2006,Premier League,Charlton Athletic,summer,out,Alex Song,27394,19,Cameroon,Defensive Midfield,DM,2900000.0,Arsenal FC,England,0.0,1
+2006,Premier League,Charlton Athletic,summer,out,Scott Carson,14555,21,England,Goalkeeper,GK,2500000.0,Liverpool FC,England,0.0,1
+2006,Premier League,Charlton Athletic,winter,out,Djimi Traoré,3598,26,Mali,Centre-Back,CB,3000000.0,Portsmouth FC,England,1400000.0,0
+2006,Premier League,Charlton Athletic,winter,out,Stephan Andersen,17880,25,Denmark,Goalkeeper,GK,1000000.0,Bröndby IF,Denmark,600000.0,0
+2006,Premier League,Charlton Athletic,winter,out,Ismaël Fofana,39184,18,Cote d'Ivoire,Centre-Forward,CF,,Fredrikstad FK,Norway,275000.0,1
+2006,Premier League,Charlton Athletic,winter,out,Gonzalo Sorondo,13488,27,Uruguay,Centre-Back,CB,2500000.0,Defensor Sporting Club,Uruguay,0.0,0
+2006,Premier League,Charlton Athletic,winter,out,Myles Weston,55525,19,Antigua and Barbuda,Left Winger,LW,,Notts County,England,0.0,0
+2006,Premier League,Charlton Athletic,winter,out,Lloyd Sam,12131,22,Ghana,Right Winger,RW,300000.0,Southend United,England,0.0,1
+2006,Premier League,Charlton Athletic,winter,out,Jonathan Fortune,4103,26,England,Centre-Back,CB,1000000.0,Stoke City,England,0.0,1
+2006,Premier League,Charlton Athletic,winter,out,Alistair John,254544,18,England,Midfielder,Midfielder,,Brighton & Hove Albion,England,0.0,1
+2006,Premier League,Charlton Athletic,winter,out,Alistair John,254544,19,England,Midfielder,Midfielder,,Torquay United,England,0.0,1
+2006,Premier League,Charlton Athletic,winter,out,James Walker,39038,18,Antigua and Barbuda,Centre-Forward,CF,,Leyton Orient,England,0.0,1
+2006,Premier League,Charlton Athletic,winter,out,James Walker,39038,19,Antigua and Barbuda,Centre-Forward,CF,,Notts County,England,0.0,1
+2006,Premier League,Charlton Athletic,winter,out,Nathan Ashton,34065,20,England,Left-Back,LB,,Millwall FC,England,0.0,1
+2006,Premier League,Charlton Athletic,winter,out,Kelly Youga,32520,21,Central African Republic,Left-Back,LB,200000.0,Bradford City,England,0.0,1
+2006,Premier League,Charlton Athletic,winter,out,Jonathan Fortune,4103,26,England,Centre-Back,CB,1000000.0,Stoke City,England,0.0,1
+2006,Premier League,Charlton Athletic,winter,out,Simon Walton,24797,19,England,Central Midfield,CM,525000.0,Cardiff City,England,0.0,1
+2006,Premier League,Charlton Athletic,winter,out,Radostin Kishishev,3001,32,Bulgaria,Defensive Midfield,DM,2500000.0,Leeds United,England,0.0,1
+2006,Premier League,Charlton Athletic,winter,out,Omar Pouso,44450,26,Uruguay,Central Midfield,CM,400000.0,CA Peñarol,Uruguay,0.0,1
+2006,Premier League,Chelsea FC,summer,in,Andriy Shevchenko,3522,29,Ukraine,Centre-Forward,CF,51000000.0,AC Milan,Italy,43880000.0,0
+2006,Premier League,Chelsea FC,summer,in,John Obi Mikel,30739,19,Nigeria,Defensive Midfield,DM,,Lyn 1896 FK,Norway,20000000.0,0
+2006,Premier League,Chelsea FC,summer,in,Khalid Boulahrouz,4489,24,Netherlands,Centre-Back,CB,13000000.0,Hamburger SV,Germany,13200000.0,0
+2006,Premier League,Chelsea FC,summer,in,Ashley Cole,3182,25,England,Left-Back,LB,17000000.0,Arsenal FC,England,7400000.0,0
+2006,Premier League,Chelsea FC,summer,in,Salomon Kalou,7971,20,Cote d'Ivoire,Left Winger,LW,8500000.0,Feyenoord Rotterdam,Netherlands,4000000.0,0
+2006,Premier League,Chelsea FC,summer,in,Ben Sahar,40436,16,Israel,Centre-Forward,CF,,Hapoel Tel Aviv U19,Israel,500000.0,0
+2006,Premier League,Chelsea FC,summer,in,Hilário,13886,30,Portugal,Goalkeeper,GK,500000.0,CD Nacional,Portugal,0.0,0
+2006,Premier League,Chelsea FC,summer,in,Michael Ballack,63,29,Germany,Central Midfield,CM,35000000.0,Bayern Munich,Germany,0.0,0
+2006,Premier League,Chelsea FC,winter,in,Magnus Hedman,3438,33,Sweden,Goalkeeper,GK,1850000.0,Career break,,,0
+2006,Premier League,Chelsea FC,summer,out,Damien Duff,3259,27,Ireland,Right Winger,RW,15000000.0,Newcastle United,England,15500000.0,0
+2006,Premier League,Chelsea FC,summer,out,Eidur Gudjohnsen,3176,27,Iceland,Centre-Forward,CF,12000000.0,FC Barcelona,Spain,12000000.0,0
+2006,Premier League,Chelsea FC,summer,out,Robert Huth,2998,22,Germany,Centre-Back,CB,7500000.0,Middlesbrough FC,England,8900000.0,0
+2006,Premier League,Chelsea FC,summer,out,Asier del Horno,7617,25,Spain,Left-Back,LB,12000000.0,Valencia CF,Spain,7500000.0,0
+2006,Premier League,Chelsea FC,summer,out,Jiri Jarosik,15581,28,Czech Republic,Centre-Back,CB,6500000.0,Celtic FC,Scotland,3500000.0,0
+2006,Premier League,Chelsea FC,summer,out,Carlton Cole,3179,22,England,Centre-Forward,CF,3000000.0,West Ham United,England,3000000.0,0
+2006,Premier League,Chelsea FC,summer,out,Juan Sebastián Verón,3143,31,Argentina,Central Midfield,CM,4000000.0,Club Estudiantes de La Plata,Argentina,2200000.0,0
+2006,Premier League,Chelsea FC,summer,out,Joe Tillen,31699,19,England,Left Midfield,LM,50000.0,Milton Keynes Dons,England,0.0,0
+2006,Premier League,Chelsea FC,summer,out,William Gallas,3156,29,France,Centre-Back,CB,14700000.0,Arsenal FC,England,0.0,0
+2006,Premier League,Chelsea FC,summer,out,Lenny Pidgeley,3181,22,England,Goalkeeper,GK,100000.0,Millwall FC,England,0.0,0
+2006,Premier League,Chelsea FC,summer,out,Glen Johnson,3881,21,England,Right-Back,RB,4000000.0,Portsmouth FC,England,0.0,1
+2006,Premier League,Chelsea FC,summer,out,Hernán Crespo,3410,31,Argentina,Centre-Forward,CF,14000000.0,Inter Milan,Italy,0.0,1
+2006,Premier League,Chelsea FC,summer,out,Michael Mancienne,38100,18,Seychelles,Centre-Back,CB,250000.0,Queens Park Rangers,England,0.0,1
+2006,Premier League,Chelsea FC,summer,out,Joe Keenan,3162,23,England,Left-Back,LB,600000.0,Willem II Tilburg,Netherlands,,0
+2006,Premier League,Chelsea FC,summer,out,Maniche,9822,28,Portugal,Central Midfield,CM,13000000.0,Dinamo Moscow,Russia,0.0,1
+2006,Premier League,Chelsea FC,winter,out,Alcides,3835,21,Brazil,Centre-Back,CB,3000000.0,PSV Eindhoven,Netherlands,0.0,1
+2006,Premier League,Chelsea FC,winter,out,James Russell,40049,19,England,Goalkeeper,GK,,Walton & Hersham FC,England,0.0,1
+2006,Premier League,Everton FC,summer,in,Andy Johnson,14031,25,England,Centre-Forward,CF,11000000.0,Crystal Palace,England,11000000.0,0
+2006,Premier League,Everton FC,summer,in,Joleon Lescott,4241,23,England,Centre-Back,CB,8000000.0,Wolverhampton Wanderers,England,6500000.0,0
+2006,Premier League,Everton FC,summer,in,Tim Howard,4267,27,United States,Goalkeeper,GK,2400000.0,Manchester United,England,0.0,1
+2006,Premier League,Everton FC,winter,in,Manuel Fernandes,16791,20,Portugal,Attacking Midfield,AM,14500000.0,SL Benfica,Portugal,400000.0,1
+2006,Premier League,Everton FC,summer,out,Kevin Kilbane,4135,29,Ireland,Left Midfield,LM,4500000.0,Wigan Athletic,England,2500000.0,0
+2006,Premier League,Everton FC,summer,out,Tie Li,3590,29,China,Defensive Midfield,DM,1000000.0,Sheffield United,England,0.0,0
+2006,Premier League,Everton FC,summer,out,Paddy Boyle,23489,19,Scotland,Left-Back,LB,,Norwich City,England,0.0,1
+2006,Premier League,Everton FC,summer,out,John Ruddy,29712,19,England,Goalkeeper,GK,350000.0,Stockport County,England,0.0,1
+2006,Premier League,Everton FC,summer,out,Duncan Ferguson,3239,34,Scotland,Centre-Forward,CF,1300000.0,Retired,,,0
+2006,Premier League,Everton FC,summer,out,Matteo Ferrari,5860,26,Italy,Centre-Back,CB,4000000.0,AS Roma,Italy,0.0,1
+2006,Premier League,Everton FC,winter,out,David Weir,3312,36,Scotland,Centre-Back,CB,1000000.0,Rangers FC,Scotland,0.0,0
+2006,Premier League,Everton FC,winter,out,Simon Davies,4056,27,Wales,Right Midfield,RM,3700000.0,Fulham FC,England,0.0,0
+2006,Premier League,Everton FC,winter,out,Iain Turner,3582,22,Scotland,Goalkeeper,GK,150000.0,Crystal Palace,England,0.0,1
+2006,Premier League,Everton FC,winter,out,John Ruddy,29712,20,England,Goalkeeper,GK,350000.0,Wrexham AFC,England,0.0,1
+2006,Premier League,Everton FC,winter,out,Iain Turner,3582,23,Scotland,Goalkeeper,GK,150000.0,Sheffield Wednesday,England,0.0,1
+2006,Premier League,Everton FC,winter,out,John Ruddy,29712,20,England,Goalkeeper,GK,500000.0,Bristol City,England,0.0,1
+2006,Premier League,Everton FC,winter,out,Stephen Connor,55252,17,England,Centre-Forward,CF,,Partick Thistle FC,Scotland,0.0,1
+2006,Premier League,Everton FC,winter,out,Alan Kearney,48151,19,Ireland,Defensive Midfield,DM,,Chester City (- 2010),England,0.0,1
+2006,Premier League,Fulham FC,summer,in,Franck Queudrue,3711,27,France,Left-Back,LB,4500000.0,Middlesbrough FC,England,4500000.0,0
+2006,Premier League,Fulham FC,summer,in,Jimmy Bullard,13510,27,England,Central Midfield,CM,4500000.0,Wigan Athletic,England,3750000.0,0
+2006,Premier League,Fulham FC,summer,in,Gabriel Zakuani,41990,20,DR Congo,Centre-Back,CB,,Leyton Orient,England,1500000.0,0
+2006,Premier League,Fulham FC,summer,in,Björn Runström,3454,22,Sweden,Centre-Forward,CF,2250000.0,Hammarby IF,Sweden,1050000.0,0
+2006,Premier League,Fulham FC,summer,in,Jan Lastuvka,28186,24,Czech Republic,Goalkeeper,GK,2500000.0,Shakhtar Donetsk,Ukraine,0.0,1
+2006,Premier League,Fulham FC,summer,in,Wayne Routledge,14066,21,England,Left Winger,LW,2800000.0,Tottenham Hotspur,England,0.0,1
+2006,Premier League,Fulham FC,winter,in,Clint Dempsey,27577,23,United States,Second Striker,SS,1000000.0,New England Revolution,United States,3000000.0,0
+2006,Premier League,Fulham FC,winter,in,Simon Davies,4056,27,Wales,Right Midfield,RM,3700000.0,Everton FC,England,0.0,0
+2006,Premier League,Fulham FC,winter,in,Aleksey Smertin,5379,31,Russia,Defensive Midfield,DM,6500000.0,Dinamo Moscow,Russia,0.0,0
+2006,Premier League,Fulham FC,winter,in,Vincenzo Montella,5960,32,Italy,Centre-Forward,CF,7000000.0,AS Roma,Italy,0.0,1
+2006,Premier League,Fulham FC,summer,out,Steed Malbranque,3569,26,France,Central Midfield,CM,8199999.999999999,Tottenham Hotspur,England,3000000.0,0
+2006,Premier League,Fulham FC,summer,out,Dean Leacock,4039,22,England,Centre-Back,CB,300000.0,Derby County,England,565000.0,0
+2006,Premier League,Fulham FC,summer,out,Darren Pratley,28957,21,England,Central Midfield,CM,200000.0,Swansea City,England,150000.0,0
+2006,Premier League,Fulham FC,summer,out,Neale McDermott,28956,21,England,Central Midfield,CM,50000.0,Carlisle United,England,0.0,0
+2006,Premier League,Fulham FC,summer,out,Adam Green,4766,22,England,Left-Back,LB,350000.0,Grays Athletic,England,0.0,0
+2006,Premier League,Fulham FC,summer,out,Alain Goma,4011,33,France,Centre-Back,CB,2000000.0,Al-Wakrah SC,Qatar,0.0,0
+2006,Premier League,Fulham FC,summer,out,Facundo Sava,3709,32,Argentina,Centre-Forward,CF,2250000.0,Lorca Deportiva CF,Spain,0.0,0
+2006,Premier League,Fulham FC,summer,out,Zesh Rehman,12122,22,Pakistan,Centre-Back,CB,600000.0,Queens Park Rangers,England,0.0,0
+2006,Premier League,Fulham FC,summer,out,Sylvain Legwinski,3815,33,France,Central Midfield,CM,3000000.0,Ipswich Town,England,0.0,0
+2006,Premier League,Fulham FC,summer,out,Tony Warner,10259,32,Trinidad and Tobago,Goalkeeper,GK,500000.0,Leeds United,England,0.0,1
+2006,Premier League,Fulham FC,summer,out,King Gyan,46813,17,Ghana,Defensive Midfield,DM,,Germinal Beerschot Antwerpen,Belgium,0.0,1
+2006,Premier League,Fulham FC,summer,out,Ricardo Batista,24846,19,Angola,Goalkeeper,GK,1000000.0,Wycombe Wanderers,England,0.0,1
+2006,Premier League,Fulham FC,summer,out,Jaroslav Drobný,12864,26,Czech Republic,Goalkeeper,GK,1000000.0,Without Club,,,0
+2006,Premier League,Fulham FC,summer,out,Vincenzo Montella,5960,32,Italy,Centre-Forward,CF,7000000.0,AS Roma,Italy,0.0,1
+2006,Premier League,Fulham FC,winter,out,Luís Boa Morte,3422,29,Portugal,Left Midfield,LM,3500000.0,West Ham United,England,6800000.0,0
+2006,Premier League,Fulham FC,winter,out,Niclas Jensen,3809,32,Denmark,Left-Back,LB,1400000.0,FC Copenhagen,Denmark,0.0,0
+2006,Premier League,Fulham FC,winter,out,Mark Crossley,4041,37,Wales,Goalkeeper,GK,500000.0,Sheffield Wednesday,England,0.0,1
+2006,Premier League,Fulham FC,winter,out,Michael Timlin,28951,21,Ireland,Central Midfield,CM,125000.0,Swindon Town,England,0.0,1
+2006,Premier League,Fulham FC,winter,out,Björn Runström,3454,22,Sweden,Centre-Forward,CF,2250000.0,Luton Town,England,0.0,1
+2006,Premier League,Fulham FC,winter,out,Gabriel Zakuani,41990,20,DR Congo,Centre-Back,CB,1250000.0,Stoke City,England,0.0,1
+2006,Premier League,Fulham FC,winter,out,Tony Warner,10259,32,Trinidad and Tobago,Goalkeeper,GK,1500000.0,Norwich City,England,0.0,1
+2006,Premier League,Fulham FC,winter,out,Ricardo Batista,24846,20,Angola,Goalkeeper,GK,1000000.0,Wycombe Wanderers,England,0.0,1
+2006,Premier League,Fulham FC,winter,out,Adam Watts,61593,18,England,Centre-Back,CB,,Milton Keynes Dons,England,0.0,1
+2006,Premier League,Liverpool FC,summer,in,Dirk Kuyt,4010,26,Netherlands,Right Winger,RW,18500000.0,Feyenoord Rotterdam,Netherlands,18000000.0,0
+2006,Premier League,Liverpool FC,summer,in,Jermaine Pennant,3195,23,England,Right Winger,RW,5500000.0,Birmingham City,England,9100000.0,0
+2006,Premier League,Liverpool FC,summer,in,Craig Bellamy,3297,26,Wales,Left Winger,LW,9000000.0,Blackburn Rovers,England,9000000.0,0
+2006,Premier League,Liverpool FC,summer,in,Gabriel Paletta,30767,20,Italy,Centre-Back,CB,3000000.0,CA Banfield,Argentina,2700000.0,0
+2006,Premier League,Liverpool FC,summer,in,Nabil El Zhar,37917,19,Morocco,Right Winger,RW,,AS Saint-Étienne B,France,0.0,0
+2006,Premier League,Liverpool FC,summer,in,Fábio Aurélio,7570,26,Brazil,Left-Back,LB,7000000.0,Valencia CF,Spain,0.0,0
+2006,Premier League,Liverpool FC,winter,in,Álvaro Arbeloa,28260,24,Spain,Right-Back,RB,1300000.0,Deportivo de La Coruña,Spain,3900000.0,0
+2006,Premier League,Liverpool FC,winter,in,Javier Mascherano,19981,22,Argentina,Defensive Midfield,DM,11800000.0,West Ham United,England,2000000.0,1
+2006,Premier League,Liverpool FC,winter,in,Astrit Ajdarevic,37795,16,Albania,Central Midfield,CM,45000.0,Falkenbergs FF,Sweden,1200000.0,0
+2006,Premier League,Liverpool FC,winter,in,Emiliano Insúa,45599,18,Argentina,Left-Back,LB,,CA Boca Juniors,Argentina,100000.0,1
+2006,Premier League,Liverpool FC,winter,in,Daniele Padelli,27807,21,Italy,Goalkeeper,GK,50000.0,UC Sampdoria,Italy,0.0,1
+2006,Premier League,Liverpool FC,summer,out,Fernando Morientes,7531,30,Spain,Centre-Forward,CF,10000000.0,Valencia CF,Spain,5000000.0,0
+2006,Premier League,Liverpool FC,summer,out,Chris Kirkland,3219,25,England,Goalkeeper,GK,3000000.0,Wigan Athletic,England,3730000.0,0
+2006,Premier League,Liverpool FC,summer,out,Jan Kromkamp,4549,25,Netherlands,Right-Back,RB,5000000.0,PSV Eindhoven,Netherlands,3000000.0,0
+2006,Premier League,Liverpool FC,summer,out,Djimi Traoré,3598,26,Mali,Centre-Back,CB,2500000.0,Charlton Athletic,England,2800000.0,0
+2006,Premier League,Liverpool FC,summer,out,Antonio Barragán,32522,19,Spain,Right-Back,RB,250000.0,Deportivo de La Coruña,Spain,2500000.0,0
+2006,Premier League,Liverpool FC,summer,out,Neil Mellor,3605,23,England,Centre-Forward,CF,1500000.0,Preston North End,England,2300000.0,0
+2006,Premier League,Liverpool FC,summer,out,Djibril Cissé,3966,24,France,Centre-Forward,CF,13500000.0,Olympique Marseille,France,1500000.0,1
+2006,Premier League,Liverpool FC,summer,out,Bruno Cheyrou,3602,28,France,Central Midfield,CM,3900000.0,Stade Rennais FC,France,1000000.0,0
+2006,Premier League,Liverpool FC,summer,out,Darren Potter,22231,21,Ireland,Central Midfield,CM,100000.0,Wolverhampton Wanderers,England,375000.0,0
+2006,Premier League,Liverpool FC,summer,out,Danny O'Donnell,38093,20,England,Centre-Back,CB,,Crewe Alexandra,England,150000.0,0
+2006,Premier League,Liverpool FC,summer,out,Florent Sinama-Pongolle,4216,21,France,Second Striker,SS,2000000.0,Recreativo Huelva,Spain,125000.0,1
+2006,Premier League,Liverpool FC,summer,out,Dietmar Hamann,919,32,Germany,Defensive Midfield,DM,4000000.0,Bolton Wanderers,England,0.0,0
+2006,Premier League,Liverpool FC,summer,out,Robbie Foy,28945,20,Scotland,Left Winger,LW,50000.0,Scunthorpe United,England,0.0,0
+2006,Premier League,Liverpool FC,summer,out,Ramon Calliste,16680,20,Wales,Centre-Forward,CF,50000.0,Scunthorpe United,England,0.0,0
+2006,Premier League,Liverpool FC,summer,out,Carl Medjani,8060,21,Algeria,Centre-Back,CB,1000000.0,FC Lorient,France,0.0,0
+2006,Premier League,Liverpool FC,summer,out,Anthony Le Tallec,4217,21,France,Centre-Forward,CF,1600000.0,FC Sochaux-Montbéliard,France,0.0,1
+2006,Premier League,Liverpool FC,summer,out,Scott Carson,14555,20,England,Goalkeeper,GK,1750000.0,Charlton Athletic,England,0.0,1
+2006,Premier League,Liverpool FC,summer,out,Chris Kirkland,3219,25,England,Goalkeeper,GK,3000000.0,Wigan Athletic,England,0.0,1
+2006,Premier League,Liverpool FC,summer,out,Salif Diao,3600,29,Senegal,Defensive Midfield,DM,2200000.0,Stoke City,England,0.0,1
+2006,Premier League,Liverpool FC,summer,out,Zak Whitbread,22230,22,United States,Centre-Back,CB,700000.0,Millwall FC,England,,0
+2006,Premier League,Liverpool FC,winter,out,Stephen Warnock,3308,25,England,Left-Back,LB,1800000.0,Blackburn Rovers,England,2250000.0,0
+2006,Premier League,Liverpool FC,winter,out,James Smith,38096,21,England,Right-Back,RB,,Ross County FC,Scotland,0.0,1
+2006,Premier League,Liverpool FC,winter,out,David Martin,15930,21,England,Goalkeeper,GK,50000.0,Accrington Stanley,England,0.0,1
+2006,Premier League,Liverpool FC,winter,out,Danny Guthrie,16716,19,England,Central Midfield,CM,50000.0,Southampton FC,England,0.0,1
+2006,Premier League,Liverpool FC,winter,out,Godwin Antwi,33821,18,Ghana,Centre-Back,CB,300000.0,Accrington Stanley,England,0.0,1
+2006,Premier League,Liverpool FC,winter,out,Besian Idrizaj,20275,19,Austria,Centre-Forward,CF,,Luton Town,England,0.0,1
+2006,Premier League,Liverpool FC,winter,out,Miki Roqué,33823,18,Spain,Centre-Back,CB,100000.0,Oldham Athletic,England,0.0,1
+2006,Premier League,Manchester City,summer,in,Andreas Isaksson,6590,24,Sweden,Goalkeeper,GK,6000000.0,Stade Rennais FC,France,3000000.0,0
+2006,Premier League,Manchester City,summer,in,Bernardo Corradi,5851,30,Italy,Centre-Forward,CF,4000000.0,Valencia CF,Spain,2000000.0,0
+2006,Premier League,Manchester City,summer,in,Joe Hart,40204,19,England,Goalkeeper,GK,250000.0,Shrewsbury Town,England,900000.0,0
+2006,Premier League,Manchester City,summer,in,Dietmar Hamann,919,32,Germany,Defensive Midfield,DM,4000000.0,Bolton Wanderers,England,600000.0,0
+2006,Premier League,Manchester City,summer,in,Hatem Trabelsi,4318,29,Tunisia,Right-Back,RB,5000000.0,Ajax Amsterdam,Netherlands,0.0,0
+2006,Premier League,Manchester City,summer,in,Ousmane Dabo,3904,29,France,Defensive Midfield,DM,4200000.0,SS Lazio,Italy,0.0,0
+2006,Premier League,Manchester City,summer,in,Paul Dickov,9221,33,Scotland,Centre-Forward,CF,1500000.0,Blackburn Rovers,England,0.0,0
+2006,Premier League,Manchester City,summer,in,DaMarcus Beasley,20584,24,United States,Left-Back,LB,3500000.0,PSV Eindhoven,Netherlands,0.0,1
+2006,Premier League,Manchester City,winter,in,Michael Ball,9423,27,England,Left-Back,LB,1500000.0,PSV Eindhoven,Netherlands,0.0,0
+2006,Premier League,Manchester City,winter,in,Emile Mpenza,272,28,Belgium,Centre-Forward,CF,2500000.0,Al-Rayyan SC,Qatar,0.0,0
+2006,Premier League,Manchester City,winter,in,Djamel Abdoun,34226,20,Algeria,Right Winger,RW,100000.0,AC Ajaccio,France,0.0,1
+2006,Premier League,Manchester City,summer,out,David James,3646,36,England,Goalkeeper,GK,3500000.0,Portsmouth FC,England,1700000.0,0
+2006,Premier League,Manchester City,summer,out,Lee Croft,27510,21,England,Right Midfield,RM,500000.0,Norwich City,England,900000.0,0
+2006,Premier League,Manchester City,summer,out,Andy Cole,3238,34,England,Centre-Forward,CF,4000000.0,Portsmouth FC,England,750000.0,0
+2006,Premier League,Manchester City,summer,out,Bradley Wright-Phillips,28813,21,England,Centre-Forward,CF,1100000.0,Southampton FC,England,100000.0,0
+2006,Premier League,Manchester City,summer,out,Karl Bermingham,29555,20,Ireland,Centre-Forward,CF,175000.0,Newry City AFC,Northern Ireland,0.0,0
+2006,Premier League,Manchester City,summer,out,Antoine Sibierski,5489,32,France,Attacking Midfield,AM,2200000.0,Newcastle United,England,0.0,0
+2006,Premier League,Manchester City,summer,out,Willo Flood,28809,21,Ireland,Central Midfield,CM,125000.0,Cardiff City,England,0.0,0
+2006,Premier League,Manchester City,summer,out,David Sommeil,3803,31,Guadeloupe,Centre-Back,CB,2500000.0,Sheffield United,England,0.0,0
+2006,Premier League,Manchester City,summer,out,Geert De Vlieger,3959,34,Belgium,Goalkeeper,GK,1000000.0,Zulte Waregem,Belgium,0.0,0
+2006,Premier League,Manchester City,summer,out,Tuomas Haapala,17335,27,Finland,Defensive Midfield,DM,400000.0,Sandefjord Fotball,Norway,0.0,0
+2006,Premier League,Manchester City,summer,out,Mikkel Bischoff,3302,24,Denmark,Centre-Back,CB,1100000.0,Coventry City,England,0.0,0
+2006,Premier League,Manchester City,summer,out,Marc Laird,32644,20,Scotland,Central Midfield,CM,,Northampton Town,England,0.0,1
+2006,Premier League,Manchester City,summer,out,Danny Mills,3743,29,England,Right-Back,RB,5700000.0,Hull City,England,0.0,1
+2006,Premier League,Manchester City,summer,out,Hatem Trabelsi,4318,30,Tunisia,Right-Back,RB,4099999.9999999995,Without Club,,,0
+2006,Premier League,Manchester City,summer,out,Albert Riera,7373,24,Spain,Left Midfield,LM,5000000.0,RCD Espanyol Barcelona,Spain,0.0,1
+2006,Premier League,Manchester City,summer,out,Djamel Abdoun,34226,21,Algeria,Right Winger,RW,100000.0,AC Ajaccio,France,0.0,1
+2006,Premier League,Manchester City,winter,out,Ben Thatcher,3304,31,Wales,Left-Back,LB,3500000.0,Charlton Athletic,England,750000.0,0
+2006,Premier League,Manchester City,winter,out,Claudio Reyna,3475,33,United States,Central Midfield,CM,3600000.0,New York Red Bulls,United States,0.0,0
+2006,Premier League,Manchester City,winter,out,Matt Mills,25384,20,England,Centre-Back,CB,400000.0,Colchester United,England,0.0,1
+2006,Premier League,Manchester City,winter,out,Joe Hart,40204,19,England,Goalkeeper,GK,250000.0,Blackpool FC,England,0.0,1
+2006,Premier League,Manchester City,winter,out,Joe Hart,40204,19,England,Goalkeeper,GK,250000.0,Tranmere Rovers,England,0.0,1
+2006,Premier League,Manchester City,winter,out,Nathan D'Laryea,44946,21,England,Right-Back,RB,,Macclesfield Town FC,England,0.0,1
+2006,Premier League,Manchester United,summer,in,Michael Carrick,3878,25,England,Defensive Midfield,DM,26500000.0,Tottenham Hotspur,England,27200000.0,0
+2006,Premier League,Manchester United,summer,in,Tomasz Kuszczak,1320,24,Poland,Goalkeeper,GK,3500000.0,West Bromwich Albion,England,0.0,1
+2006,Premier League,Manchester United,winter,in,Henrik Larsson,3514,35,Sweden,Centre-Forward,CF,2000000.0,Helsingborgs IF,Sweden,0.0,1
+2006,Premier League,Manchester United,summer,out,Ruud van Nistelrooy,3407,30,Netherlands,Centre-Forward,CF,32000000.0,Real Madrid,Spain,15000000.0,0
+2006,Premier League,Manchester United,summer,out,Jonathan Spector,24637,20,United States,Centre-Back,CB,1250000.0,West Ham United,England,750000.0,0
+2006,Premier League,Manchester United,summer,out,David Bellion,3115,23,France,Centre-Forward,CF,2250000.0,OGC Nice,France,500000.0,0
+2006,Premier League,Manchester United,summer,out,Luke Steele,3539,21,England,Goalkeeper,GK,1300000.0,West Bromwich Albion,England,250000.0,0
+2006,Premier League,Manchester United,summer,out,Quinton Fortune,3541,29,South Africa,Left-Back,LB,2250000.0,Bolton Wanderers,England,0.0,0
+2006,Premier League,Manchester United,summer,out,Phil Picken,34132,20,England,Right-Back,RB,150000.0,Chesterfield FC,England,0.0,0
+2006,Premier League,Manchester United,summer,out,Eddie Johnson,15997,21,England,Centre-Forward,CF,250000.0,Bradford City,England,0.0,0
+2006,Premier League,Manchester United,summer,out,Liam Miller,9505,25,Ireland,Central Midfield,CM,1250000.0,Sunderland AFC,England,0.0,0
+2006,Premier League,Manchester United,summer,out,Lee Martin,15449,19,England,Attacking Midfield,AM,1250000.0,Rangers FC,Scotland,0.0,1
+2006,Premier League,Manchester United,summer,out,Jonny Evans,42412,18,Northern Ireland,Centre-Back,CB,,Royal Antwerp FC,Belgium,0.0,1
+2006,Premier League,Manchester United,summer,out,Ritchie Jones,37140,19,England,Central Midfield,CM,50000.0,Colchester United,England,0.0,1
+2006,Premier League,Manchester United,summer,out,Chris Eagles,24635,20,England,Right Winger,RW,700000.0,NEC Nijmegen,Netherlands,0.0,1
+2006,Premier League,Manchester United,summer,out,Phil Bardsley,15773,21,Scotland,Right-Back,RB,75000.0,Rangers FC,Scotland,0.0,1
+2006,Premier League,Manchester United,summer,out,Luke Steele,3539,21,England,Goalkeeper,GK,1300000.0,Coventry City,England,0.0,1
+2006,Premier League,Manchester United,summer,out,Fraizer Campbell,42411,18,England,Centre-Forward,CF,,Royal Antwerp FC,Belgium,0.0,1
+2006,Premier League,Manchester United,summer,out,Giuseppe Rossi,19104,19,Italy,Centre-Forward,CF,1850000.0,Newcastle United,England,0.0,1
+2006,Premier League,Manchester United,summer,out,Gerard Piqué,18944,19,Spain,Centre-Back,CB,1750000.0,Real Zaragoza,Spain,0.0,1
+2006,Premier League,Manchester United,summer,out,Tim Howard,4267,27,United States,Goalkeeper,GK,2400000.0,Everton FC,England,0.0,1
+2006,Premier League,Manchester United,winter,out,David Jones,24634,21,England,Central Midfield,CM,750000.0,Derby County,England,1500000.0,0
+2006,Premier League,Manchester United,winter,out,David Gray,37678,18,Scotland,Right-Back,RB,,Royal Antwerp FC,Belgium,0.0,1
+2006,Premier League,Manchester United,winter,out,Phil Bardsley,15773,21,Scotland,Right-Back,RB,500000.0,Aston Villa,England,0.0,1
+2006,Premier League,Manchester United,winter,out,Jonny Evans,42412,19,Northern Ireland,Centre-Back,CB,,Sunderland AFC,England,0.0,1
+2006,Premier League,Manchester United,winter,out,Lee Martin,15449,19,England,Attacking Midfield,AM,1250000.0,Stoke City,England,0.0,1
+2006,Premier League,Manchester United,winter,out,Ritchie Jones,37140,20,England,Central Midfield,CM,50000.0,Barnsley FC,England,0.0,1
+2006,Premier League,Manchester United,winter,out,Giuseppe Rossi,19104,19,Italy,Centre-Forward,CF,1850000.0,Parma FC,Italy,0.0,1
+2006,Premier League,Manchester United,winter,out,Henrik Larsson,3514,35,Sweden,Centre-Forward,CF,2000000.0,Helsingborgs IF,Sweden,0.0,1
+2006,Premier League,Middlesbrough FC,summer,in,Robert Huth,2998,22,Germany,Centre-Back,CB,7500000.0,Chelsea FC,England,8900000.0,0
+2006,Premier League,Middlesbrough FC,summer,in,Julio Arca,3280,25,Argentina,Central Midfield,CM,3200000.0,Sunderland AFC,England,2400000.0,0
+2006,Premier League,Middlesbrough FC,summer,in,Jason Euell,3092,29,Jamaica,Left Winger,LW,8000000.0,Charlton Athletic,England,0.0,0
+2006,Premier League,Middlesbrough FC,summer,in,Jonathan Woodgate,3224,26,England,Centre-Back,CB,12000000.0,Real Madrid,Spain,0.0,1
+2006,Premier League,Middlesbrough FC,winter,in,Dong-gook Lee,688,27,"Korea, South",Centre-Forward,CF,1000000.0,Pohang Steelers,"Korea, South",0.0,0
+2006,Premier League,Middlesbrough FC,winter,in,Abel Xavier,3211,33,Portugal,Right-Back,RB,850000.0,Disqualification,,,0
+2006,Premier League,Middlesbrough FC,summer,out,Franck Queudrue,3711,27,France,Left-Back,LB,4500000.0,Fulham FC,England,4500000.0,0
+2006,Premier League,Middlesbrough FC,summer,out,Jimmy Floyd Hasselbaink,3175,34,Netherlands,Centre-Forward,CF,4800000.0,Charlton Athletic,England,0.0,0
+2006,Premier League,Middlesbrough FC,summer,out,Joseph-Désiré Job,3650,28,Cameroon,Centre-Forward,CF,2750000.0,CS Sedan-Ardennes,France,0.0,0
+2006,Premier League,Middlesbrough FC,summer,out,Szilárd Németh,3863,28,Slovakia,Second Striker,SS,3500000.0,Alemannia Aachen,Germany,0.0,0
+2006,Premier League,Middlesbrough FC,summer,out,Doriva,3814,34,Brazil,Defensive Midfield,DM,1750000.0,Blackpool FC,England,0.0,0
+2006,Premier League,Middlesbrough FC,summer,out,David Knight,29422,19,England,Goalkeeper,GK,50000.0,Oldham Athletic,England,0.0,1
+2006,Premier League,Middlesbrough FC,summer,out,Danny Graham,29152,20,England,Centre-Forward,CF,300000.0,Blackpool FC,England,0.0,1
+2006,Premier League,Middlesbrough FC,summer,out,Brad Jones,4042,24,Australia,Goalkeeper,GK,350000.0,Sheffield Wednesday,England,0.0,1
+2006,Premier League,Middlesbrough FC,summer,out,Adam Johnson,31579,19,England,Right Winger,RW,600000.0,Leeds United,England,0.0,1
+2006,Premier League,Middlesbrough FC,summer,out,David Wheater,29199,19,England,Centre-Back,CB,50000.0,Wolverhampton Wanderers,England,0.0,1
+2006,Premier League,Middlesbrough FC,summer,out,Tom Craddock,39926,19,England,Centre-Forward,CF,,Wrexham AFC,England,0.0,1
+2006,Premier League,Middlesbrough FC,summer,out,Kevin Burgess,45785,18,England,Centre-Back,CB,,Darlington FC (- 2012),England,,0
+2006,Premier League,Middlesbrough FC,summer,out,Gareth Southgate,3744,35,England,Centre-Back,CB,,Retired,,,0
+2006,Premier League,Middlesbrough FC,summer,out,Colin Cooper,3867,39,England,Left-Back,LB,75000.0,Retired,,,0
+2006,Premier League,Middlesbrough FC,winter,out,David Wheater,29199,19,England,Centre-Back,CB,50000.0,Darlington FC (- 2012),England,175000.0,1
+2006,Premier League,Middlesbrough FC,winter,out,Ugo Ehiogu,3247,34,England,Centre-Back,CB,3000000.0,Rangers FC,Scotland,0.0,0
+2006,Premier League,Middlesbrough FC,winter,out,Ray Parlour,3208,33,England,Central Midfield,CM,3500000.0,Hull City,England,0.0,0
+2006,Premier League,Middlesbrough FC,winter,out,Massimo Maccarone,3713,27,Italy,Centre-Forward,CF,3500000.0,AC Siena,Italy,0.0,0
+2006,Premier League,Middlesbrough FC,winter,out,Matthew Bates,29149,19,England,Centre-Back,CB,900000.0,Ipswich Town,England,0.0,1
+2006,Premier League,Middlesbrough FC,winter,out,Ugo Ehiogu,3247,34,England,Centre-Back,CB,3000000.0,Leeds United,England,0.0,1
+2006,Premier League,Middlesbrough FC,winter,out,Jason Kennedy,29423,20,England,Central Midfield,CM,100000.0,Bury FC,England,0.0,1
+2006,Premier League,Middlesbrough FC,winter,out,Jason Kennedy,29423,20,England,Central Midfield,CM,100000.0,Boston United,England,0.0,1
+2006,Premier League,Middlesbrough FC,winter,out,Danny Graham,29152,21,England,Centre-Forward,CF,300000.0,Carlisle United,England,0.0,1
+2006,Premier League,Newcastle United,summer,in,Obafemi Martins,5794,21,Nigeria,Centre-Forward,CF,12000000.0,Inter Milan,Italy,16000000.0,0
+2006,Premier League,Newcastle United,summer,in,Damien Duff,3259,27,Ireland,Right Winger,RW,15000000.0,Chelsea FC,England,15500000.0,0
+2006,Premier League,Newcastle United,summer,in,Olivier Bernard,3301,26,France,Left-Back,LB,3000000.0,Rangers FC,Scotland,0.0,0
+2006,Premier League,Newcastle United,summer,in,Antoine Sibierski,5489,32,France,Attacking Midfield,AM,2200000.0,Manchester City,England,0.0,0
+2006,Premier League,Newcastle United,summer,in,Giuseppe Rossi,19104,19,Italy,Centre-Forward,CF,1850000.0,Manchester United,England,0.0,1
+2006,Premier League,Newcastle United,summer,in,Pavel Srnicek,5963,38,Czech Republic,Goalkeeper,GK,1000000.0,Without Club,,,0
+2006,Premier League,Newcastle United,winter,in,Oguchi Onyewu,12517,24,United States,Centre-Back,CB,5000000.0,Standard Liège,Belgium,375000.0,1
+2006,Premier League,Newcastle United,summer,out,Jean-Alain Boumsong,5418,26,France,Centre-Back,CB,7500000.0,Juventus FC,Italy,4000000.0,0
+2006,Premier League,Newcastle United,summer,out,Amdy Faye,5428,29,Senegal,Defensive Midfield,DM,2500000.0,Charlton Athletic,England,3000000.0,0
+2006,Premier League,Newcastle United,summer,out,Hugo Viana,3480,23,Portugal,Central Midfield,CM,7500000.0,Valencia CF,Spain,2300000.0,0
+2006,Premier League,Newcastle United,summer,out,Lee Bowyer,3877,29,England,Central Midfield,CM,3880000.0,West Ham United,England,1130000.0,0
+2006,Premier League,Newcastle United,summer,out,Michael Chopra,3463,22,England,Centre-Forward,CF,1500000.0,Cardiff City,England,750000.0,0
+2006,Premier League,Newcastle United,summer,out,Martin Brittain,22221,21,England,Right Midfield,RM,50000.0,Ipswich Town,England,0.0,0
+2006,Premier League,Newcastle United,summer,out,Tony Caig,3563,32,England,Goalkeeper,GK,500000.0,Vancouver Whitecaps FC,United States,0.0,0
+2006,Premier League,Newcastle United,summer,out,Robbie Elliott,3577,32,England,Left-Back,LB,1500000.0,Sunderland AFC,England,0.0,0
+2006,Premier League,Newcastle United,summer,out,Daryl Smylie,40885,20,Northern Ireland,Attacking Midfield,AM,,Livingston FC,Scotland,0.0,0
+2006,Premier League,Newcastle United,summer,out,Alan Shearer,3110,35,England,Centre-Forward,CF,3000000.0,Retired,,,0
+2006,Premier League,Newcastle United,summer,out,Pavel Srnicek,5963,39,Czech Republic,Goalkeeper,GK,600000.0,Retired,,,0
+2006,Premier League,Newcastle United,winter,out,Liam Atkin,48621,20,England,Centre-Back,CB,,Carlisle United,England,0.0,0
+2006,Premier League,Newcastle United,winter,out,Giuseppe Rossi,19104,19,Italy,Centre-Forward,CF,1850000.0,Manchester United,England,0.0,1
+2006,Premier League,Portsmouth FC,summer,in,Niko Kranjcar,16746,22,Croatia,Attacking Midfield,AM,5000000.0,HNK Hajduk Split,Croatia,4500000.0,0
+2006,Premier League,Portsmouth FC,summer,in,David James,3646,36,England,Goalkeeper,GK,3500000.0,Manchester City,England,1700000.0,0
+2006,Premier League,Portsmouth FC,summer,in,Andy Cole,3238,34,England,Centre-Forward,CF,4000000.0,Manchester City,England,750000.0,0
+2006,Premier League,Portsmouth FC,summer,in,David Thompson,4127,28,England,Central Midfield,CM,2750000.0,Wigan Athletic,England,0.0,0
+2006,Premier League,Portsmouth FC,summer,in,Nwankwo Kanu,3133,29,Nigeria,Centre-Forward,CF,3000000.0,West Bromwich Albion,England,0.0,0
+2006,Premier League,Portsmouth FC,summer,in,Sol Campbell,3198,31,England,Centre-Back,CB,7500000.0,Arsenal FC,England,0.0,0
+2006,Premier League,Portsmouth FC,summer,in,Manuel Fernandes,16791,20,Portugal,Attacking Midfield,AM,6000000.0,SL Benfica,Portugal,0.0,1
+2006,Premier League,Portsmouth FC,summer,in,Glen Johnson,3881,21,England,Right-Back,RB,4000000.0,Chelsea FC,England,0.0,1
+2006,Premier League,Portsmouth FC,summer,in,Roudolphe Douala,14103,27,Cameroon,Left Winger,LW,4000000.0,Sporting CP,Portugal,0.0,1
+2006,Premier League,Portsmouth FC,winter,in,Djimi Traoré,3598,26,Mali,Centre-Back,CB,3000000.0,Charlton Athletic,England,1400000.0,0
+2006,Premier League,Portsmouth FC,winter,in,Laurén,3189,29,Cameroon,Right-Back,RB,6500000.0,Arsenal FC,England,550000.0,0
+2006,Premier League,Portsmouth FC,winter,in,Arnold Mvuemba,20622,21,DR Congo,Defensive Midfield,DM,750000.0,Stade Rennais FC,France,200000.0,1
+2006,Premier League,Portsmouth FC,summer,out,Brian Priske,13351,29,Denmark,Right-Back,RB,2000000.0,Club Brugge KV,Belgium,1000000.0,0
+2006,Premier League,Portsmouth FC,summer,out,Jhon Viáfara,32137,27,Colombia,Defensive Midfield,DM,2500000.0,Southampton FC,England,250000.0,0
+2006,Premier League,Portsmouth FC,summer,out,Sander Westerveld,3427,31,Netherlands,Goalkeeper,GK,1900000.0,UD Almería,Spain,0.0,0
+2006,Premier League,Portsmouth FC,summer,out,Aliou Cissé,3796,30,Senegal,Defensive Midfield,DM,1800000.0,CS Sedan-Ardennes,France,0.0,0
+2006,Premier League,Portsmouth FC,summer,out,Gary Silk,21220,21,England,Right-Back,RB,50000.0,Notts County,England,0.0,0
+2006,Premier League,Portsmouth FC,summer,out,Liam Horsted,29970,20,England,Left Winger,LW,400000.0,Unknown,,0.0,0
+2006,Premier League,Portsmouth FC,summer,out,Vincent Péricard,3970,23,France,Centre-Forward,CF,1000000.0,Stoke City,England,0.0,0
+2006,Premier League,Portsmouth FC,summer,out,Grégory Vignal,4755,24,France,Left-Back,LB,2000000.0,RC Lens,France,0.0,0
+2006,Premier League,Portsmouth FC,summer,out,Emmanuel Olisadebe,4149,27,Poland,Centre-Forward,CF,3300000.0,Skoda Xanthi,Greece,0.0,0
+2006,Premier League,Portsmouth FC,summer,out,Jamie Ashdown,13397,25,England,Goalkeeper,GK,700000.0,Norwich City,England,0.0,1
+2006,Premier League,Portsmouth FC,summer,out,Andy Griffin,3579,27,England,Right-Back,RB,2200000.0,Stoke City,England,0.0,1
+2006,Premier League,Portsmouth FC,summer,out,Franck Songo'o,34839,19,Cameroon,Right Winger,RW,400000.0,AFC Bournemouth,England,0.0,1
+2006,Premier League,Portsmouth FC,summer,out,Richard Duffy,16082,21,Wales,Centre-Back,CB,500000.0,Coventry City,England,0.0,1
+2006,Premier League,Portsmouth FC,summer,out,Svetoslav Todorov,3978,28,Bulgaria,Centre-Forward,CF,1900000.0,Wigan Athletic,England,0.0,1
+2006,Premier League,Portsmouth FC,summer,out,Ivica Mornar,9615,32,Croatia,Centre-Forward,CF,600000.0,Retired,,,0
+2006,Premier League,Portsmouth FC,summer,out,Glen Johnson,3881,22,England,Right-Back,RB,4000000.0,Chelsea FC,England,0.0,1
+2006,Premier League,Portsmouth FC,summer,out,Andrés D'Alessandro,3445,25,Argentina,Attacking Midfield,AM,5750000.0,VfL Wolfsburg,Germany,0.0,1
+2006,Premier League,Portsmouth FC,summer,out,Arnold Mvuemba,20622,22,DR Congo,Defensive Midfield,DM,750000.0,Stade Rennais FC,France,0.0,1
+2006,Premier League,Portsmouth FC,summer,out,Azar Karadas,12373,24,Norway,Centre-Forward,CF,2200000.0,SL Benfica,Portugal,0.0,1
+2006,Premier League,Portsmouth FC,winter,out,David Thompson,4127,29,England,Central Midfield,CM,2750000.0,Bolton Wanderers,England,0.0,0
+2006,Premier League,Portsmouth FC,winter,out,Dean Kiely,3748,36,Ireland,Goalkeeper,GK,1200000.0,West Bromwich Albion,England,0.0,0
+2006,Premier League,Portsmouth FC,winter,out,Andrea Guatelli,28808,22,Italy,Goalkeeper,GK,75000.0,FC Zürich,Switzerland,0.0,0
+2006,Premier League,Portsmouth FC,winter,out,Dean Kiely,3748,36,Ireland,Goalkeeper,GK,1200000.0,Luton Town,England,0.0,1
+2006,Premier League,Portsmouth FC,winter,out,Jason Pearce,45823,19,England,Centre-Back,CB,,Woking FC,England,0.0,1
+2006,Premier League,Portsmouth FC,winter,out,Marc Wilson,30456,19,Ireland,Centre-Back,CB,,AFC Bournemouth,England,0.0,1
+2006,Premier League,Portsmouth FC,winter,out,Richard Duffy,16082,21,Wales,Centre-Back,CB,500000.0,Swansea City,England,0.0,1
+2006,Premier League,Portsmouth FC,winter,out,Franck Songo'o,34839,19,Cameroon,Right Winger,RW,400000.0,Preston North End,England,0.0,1
+2006,Premier League,Portsmouth FC,winter,out,Andy Cole,3238,35,England,Centre-Forward,CF,4000000.0,Birmingham City,England,0.0,1
+2006,Premier League,Portsmouth FC,winter,out,Asmir Begovic,33873,19,Bosnia-Herzegovina,Goalkeeper,GK,100000.0,Macclesfield Town FC,England,0.0,1
+2006,Premier League,Portsmouth FC,winter,out,James Keene,38089,21,England,Centre-Forward,CF,950000.0,IF Elfsborg,Sweden,,0
+2006,Premier League,Portsmouth FC,winter,out,Manuel Fernandes,16791,20,Portugal,Attacking Midfield,AM,14500000.0,SL Benfica,Portugal,0.0,1
+2006,Premier League,Reading FC,summer,in,Ki-hyeon Seol,9606,27,"Korea, South",Right Winger,RW,2250000.0,Wolverhampton Wanderers,England,1500000.0,0
+2006,Premier League,Reading FC,summer,in,Péter Máté,35008,21,Hungary,Centre-Back,CB,,Debreceni VSC,Hungary,575000.0,1
+2006,Premier League,Reading FC,summer,in,Sam Sodje,41897,27,Nigeria,Centre-Back,CB,,Brentford FC,England,350000.0,0
+2006,Premier League,Reading FC,summer,in,Ulises de la Cruz,3842,32,Ecuador,Right-Back,RB,1500000.0,Aston Villa,England,0.0,0
+2006,Premier League,Reading FC,summer,in,Ross Kitteridge,159834,16,England,Goalkeeper,GK,,Arsenal FC U18,England,0.0,0
+2006,Premier League,Reading FC,summer,in,Graham Stack,3559,24,Ireland,Goalkeeper,GK,350000.0,Arsenal FC,England,0.0,0
+2006,Premier League,Reading FC,summer,in,André Bikey,14270,21,Cameroon,Centre-Back,CB,1500000.0,Lokomotiv Moskau,Russia,0.0,1
+2006,Premier League,Reading FC,winter,in,Greg Halford,42062,22,England,Centre-Back,CB,400000.0,Colchester United,England,4500000.0,0
+2006,Premier League,Reading FC,winter,in,Michael Duberry,3633,31,England,Centre-Back,CB,2250000.0,Stoke City,England,1500000.0,0
+2006,Premier League,Reading FC,winter,in,Alan Bennett,34616,25,Ireland,Centre-Back,CB,,Cork City FC,Ireland,300000.0,0
+2006,Premier League,Reading FC,winter,in,Mikkel Andersen,42694,18,Denmark,Goalkeeper,GK,,Akademisk Boldklub,Denmark,100000.0,0
+2006,Premier League,Reading FC,winter,in,Daniel Bocandé,20642,23,Senegal,Midfielder,Midfielder,200000.0,FC Metz,France,0.0,0
+2006,Premier League,Reading FC,winter,in,Oliver Bozanic,43117,18,Australia,Central Midfield,CM,,Heidelberg United FC,Australia,0.0,0
+2006,Premier League,Reading FC,summer,out,Johnny Mullins,64654,20,England,Centre-Back,CB,,Mansfield Town,England,0.0,0
+2006,Premier League,Reading FC,summer,out,Darren Campbell,13402,20,Scotland,Midfielder,Midfielder,50000.0,Fleet Town FC,England,0.0,0
+2006,Premier League,Reading FC,summer,out,Chris Makin,13248,33,England,Left-Back,LB,250000.0,Southampton FC,England,0.0,0
+2006,Premier League,Reading FC,summer,out,Jamie Young,13435,20,England,Goalkeeper,GK,50000.0,Wycombe Wanderers,England,0.0,0
+2006,Premier League,Reading FC,summer,out,Adam Federici,4233,21,Australia,Goalkeeper,GK,100000.0,Bristol City,England,0.0,1
+2006,Premier League,Reading FC,summer,out,Simon Cox,37150,19,Ireland,Centre-Forward,CF,100000.0,Brentford FC,England,0.0,1
+2006,Premier League,Reading FC,summer,out,Scott Golbourne,37457,18,England,Left-Back,LB,125000.0,Wycombe Wanderers,England,0.0,1
+2006,Premier League,Reading FC,summer,out,Graham Stack,3559,25,Ireland,Goalkeeper,GK,350000.0,Leeds United,England,0.0,1
+2006,Premier League,Reading FC,summer,out,Ben Hamer,67283,18,England,Goalkeeper,GK,,Crawley Town,England,0.0,1
+2006,Premier League,Reading FC,summer,out,Conor Sinnott,137420,20,Ireland,Central Midfield,CM,,Limerick FC (- 2019),Ireland,0.0,1
+2006,Premier League,Reading FC,summer,out,André Bikey,14270,22,Cameroon,Centre-Back,CB,1250000.0,Lokomotiv Moskau,Russia,0.0,1
+2006,Premier League,Reading FC,winter,out,Conor Sinnott,137420,20,Ireland,Central Midfield,CM,,Wexford Youths,Ireland,0.0,0
+2006,Premier League,Reading FC,winter,out,Alex Pearce,47768,18,Ireland,Centre-Back,CB,,Northampton Town,England,0.0,1
+2006,Premier League,Reading FC,winter,out,Simon Cox,37150,19,Ireland,Centre-Forward,CF,100000.0,Northampton Town,England,0.0,1
+2006,Premier League,Reading FC,winter,out,Jonny Hayes,52380,19,Ireland,Right Midfield,RM,,Milton Keynes Dons,England,0.0,1
+2006,Premier League,Reading FC,winter,out,James Henry,59268,17,England,Right Midfield,RM,,Nottingham Forest,England,0.0,1
+2006,Premier League,Reading FC,winter,out,Sam Sodje,41897,27,Nigeria,Centre-Back,CB,600000.0,West Bromwich Albion,England,0.0,1
+2006,Premier League,Sheffield United,summer,in,Claude Davis,14006,27,Jamaica,Centre-Back,CB,300000.0,Preston North End,England,3500000.0,0
+2006,Premier League,Sheffield United,summer,in,Rob Hulse,9980,26,England,Centre-Forward,CF,1750000.0,Leeds United,England,3450000.0,0
+2006,Premier League,Sheffield United,summer,in,Colin Kazım-Richards,36802,20,Türkiye,Centre-Forward,CF,350000.0,Brighton & Hove Albion,England,1500000.0,0
+2006,Premier League,Sheffield United,summer,in,Mikele Leigertwood,14041,23,Antigua and Barbuda,Defensive Midfield,DM,300000.0,Crystal Palace,England,750000.0,0
+2006,Premier League,Sheffield United,summer,in,Maxime Chanot,89030,16,Luxembourg,Centre-Back,CB,,Stade Reims,France,350000.0,0
+2006,Premier League,Sheffield United,summer,in,Ian Bennett,3299,34,England,Goalkeeper,GK,1000000.0,Leeds United,England,150000.0,0
+2006,Premier League,Sheffield United,summer,in,Dean Oliver,61455,18,England,Centre-Forward,CF,,Derby County U18,England,0.0,0
+2006,Premier League,Sheffield United,summer,in,Christian Nadé,33926,21,France,Centre-Forward,CF,600000.0,ESTAC Troyes,France,0.0,0
+2006,Premier League,Sheffield United,summer,in,David Sommeil,3803,31,Guadeloupe,Centre-Back,CB,2500000.0,Manchester City,England,0.0,0
+2006,Premier League,Sheffield United,summer,in,Tie Li,3590,29,China,Defensive Midfield,DM,1000000.0,Everton FC,England,0.0,0
+2006,Premier League,Sheffield United,summer,in,Moussa Bamba,94284,21,Cote d'Ivoire,Defensive Midfield,DM,,Jeunesse Club d'Abidjan,Cote d'Ivoire,,0
+2006,Premier League,Sheffield United,summer,in,Paul Gerrard,3584,33,England,Goalkeeper,GK,1750000.0,Without Club,,,0
+2006,Premier League,Sheffield United,winter,in,Matthew Kilgallon,4095,22,England,Centre-Back,CB,100000.0,Leeds United,England,3800000.0,0
+2006,Premier League,Sheffield United,winter,in,Luton Shelton,38768,21,Jamaica,Left Winger,LW,1300000.0,Helsingborgs IF,Sweden,2700000.0,0
+2006,Premier League,Sheffield United,winter,in,Jon Stead,16107,23,England,Centre-Forward,CF,2300000.0,Sunderland AFC,England,1130000.0,0
+2006,Premier League,Sheffield United,winter,in,Ahmed Fathi,38168,22,Egypt,Right-Back,RB,,Ismaily SC,Egypt,1050000.0,0
+2006,Premier League,Sheffield United,winter,in,Mamadou Seck,5724,27,Senegal,Centre-Back,CB,1500000.0,Le Havre AC,France,0.0,0
+2006,Premier League,Sheffield United,winter,in,Aislan,74795,18,Brazil,Centre-Back,CB,,São Paulo FC U20,Brazil,0.0,1
+2006,Premier League,Sheffield United,summer,out,Simon Francis,13573,21,England,Right-Back,RB,50000.0,Southend United,England,100000.0,0
+2006,Premier League,Sheffield United,summer,out,Adrian Harper,123430,21,Ireland,Midfielder,Midfielder,,Glenavon FC,Northern Ireland,0.0,0
+2006,Premier League,Sheffield United,summer,out,Richie Partridge,3606,25,Ireland,Right Midfield,RM,300000.0,Rotherham United,England,0.0,0
+2006,Premier League,Sheffield United,summer,out,Luke Beckett,27507,29,England,Centre-Forward,CF,150000.0,Huddersfield Town,England,0.0,0
+2006,Premier League,Sheffield United,summer,out,Phil Barnes,29375,27,England,Goalkeeper,GK,200000.0,Grimsby Town,England,0.0,0
+2006,Premier League,Sheffield United,summer,out,Bruce Dyer,14009,31,England,Centre-Forward,CF,500000.0,Doncaster Rovers,England,0.0,0
+2006,Premier League,Sheffield United,summer,out,Kyle Nix,32527,20,England,Left Midfield,LM,200000.0,Buxton FC,England,0.0,0
+2006,Premier League,Sheffield United,summer,out,Gary Mulligan,26413,21,Ireland,Centre-Back,CB,75000.0,Gillingham FC,England,0.0,0
+2006,Premier League,Sheffield United,summer,out,Geoff Horsfield,3792,32,England,Centre-Forward,CF,1250000.0,Leeds United,England,0.0,1
+2006,Premier League,Sheffield United,summer,out,Ian Ross,13540,20,England,Central Midfield,CM,50000.0,Notts County,England,0.0,1
+2006,Premier League,Sheffield United,summer,out,Evan Horwood,59842,20,England,Left-Back,LB,,Darlington FC (- 2012),England,0.0,1
+2006,Premier League,Sheffield United,summer,out,Jordan Robertson,30938,18,England,Centre-Forward,CF,,Torquay United,England,0.0,1
+2006,Premier League,Sheffield United,summer,out,Kevan Hurst,13518,20,England,Right Midfield,RM,50000.0,Chesterfield FC,England,0.0,1
+2006,Premier League,Sheffield United,summer,out,Jonathan Forte,39505,20,Barbados,Centre-Forward,CF,75000.0,Doncaster Rovers,England,0.0,1
+2006,Premier League,Sheffield United,summer,out,Alan Wright,3331,35,England,Left-Back,LB,1000000.0,Leeds United,England,0.0,1
+2006,Premier League,Sheffield United,summer,out,Brian Deane,8058,38,England,Centre-Forward,CF,,Retired,,,0
+2006,Premier League,Sheffield United,summer,out,Garry Flitcroft,3706,33,England,Central Midfield,CM,,Retired,,,0
+2006,Premier League,Sheffield United,winter,out,Paul Ifill,13586,27,Barbados,Right Winger,RW,1500000.0,Crystal Palace,England,1130000.0,0
+2006,Premier League,Sheffield United,winter,out,Ade Akinbiyi,4037,32,Nigeria,Centre-Forward,CF,2750000.0,Burnley FC,England,1100000.0,0
+2006,Premier League,Sheffield United,winter,out,Steve Kabba,13522,25,England,Centre-Forward,CF,100000.0,Watford FC,England,750000.0,0
+2006,Premier League,Sheffield United,winter,out,Kevan Hurst,13518,21,England,Right Midfield,RM,50000.0,Scunthorpe United,England,250000.0,0
+2006,Premier League,Sheffield United,winter,out,Chris Robertson,36808,20,Scotland,Centre-Back,CB,,Torquay United,England,0.0,0
+2006,Premier League,Sheffield United,winter,out,Neil Shipperley,13801,32,England,Centre-Forward,CF,1100000.0,Brentford FC,England,0.0,0
+2006,Premier League,Sheffield United,winter,out,David Unsworth,3272,33,England,Left-Back,LB,2500000.0,Wigan Athletic,England,0.0,0
+2006,Premier League,Sheffield United,winter,out,Alan Wright,3331,35,England,Left-Back,LB,1000000.0,Nottingham Forest,England,0.0,0
+2006,Premier League,Sheffield United,winter,out,Haidong Hao,29325,36,China,Centre-Forward,CF,300000.0,Chengdu Blades,China,0.0,0
+2006,Premier League,Sheffield United,winter,out,Ryan Cresswell,62310,19,England,Centre-Back,CB,,Halifax Town (- 2008),England,0.0,1
+2006,Premier League,Sheffield United,winter,out,Ian Ross,13540,20,England,Central Midfield,CM,50000.0,Notts County,England,0.0,1
+2006,Premier League,Sheffield United,winter,out,Dean Oliver,61455,19,England,Centre-Forward,CF,,Torquay United,England,0.0,1
+2006,Premier League,Sheffield United,winter,out,Dean Oliver,61455,19,England,Centre-Forward,CF,,Hednesford Town,England,0.0,1
+2006,Premier League,Sheffield United,winter,out,Evan Horwood,59842,20,England,Left-Back,LB,,Darlington FC (- 2012),England,0.0,1
+2006,Premier League,Sheffield United,winter,out,Lloyd Kerry,48108,18,England,Right Midfield,RM,,Torquay United,England,0.0,1
+2006,Premier League,Sheffield United,winter,out,Nicky Law,43265,18,England,Attacking Midfield,AM,50000.0,Yeovil Town,England,0.0,1
+2006,Premier League,Sheffield United,winter,out,Alan Wright,3331,35,England,Left-Back,LB,1000000.0,Doncaster Rovers,England,0.0,1
+2006,Premier League,Sheffield United,winter,out,Geoff Horsfield,3792,33,England,Centre-Forward,CF,1250000.0,Leicester City,England,0.0,1
+2006,Premier League,Sheffield United,winter,out,Alan Wright,3331,35,England,Left-Back,LB,1000000.0,Cardiff City,England,0.0,1
+2006,Premier League,Sheffield United,winter,out,Jordan Robertson,30938,18,England,Centre-Forward,CF,,Northampton Town,England,0.0,1
+2006,Premier League,Sheffield United,winter,out,Moussa Bamba,94284,21,Cote d'Ivoire,Defensive Midfield,DM,,Chengdu Rongcheng,China,0.0,1
+2006,Premier League,Sheffield United,winter,out,Colin Marrison,32525,21,England,Centre-Forward,CF,100000.0,Hinckley United (- 2013),England,0.0,1
+2006,Premier League,Tottenham Hotspur,summer,in,Dimitar Berbatov,65,25,Bulgaria,Centre-Forward,CF,17000000.0,Bayer 04 Leverkusen,Germany,15700000.0,0
+2006,Premier League,Tottenham Hotspur,summer,in,Didier Zokora,13389,25,Cote d'Ivoire,Defensive Midfield,DM,12500000.0,AS Saint-Étienne,France,12350000.0,0
+2006,Premier League,Tottenham Hotspur,summer,in,Pascal Chimbonda,18875,27,Guadeloupe,Right-Back,RB,4000000.0,Wigan Athletic,England,10000000.0,0
+2006,Premier League,Tottenham Hotspur,summer,in,Mido,4329,23,Egypt,Centre-Forward,CF,10500000.0,AS Roma,Italy,6750000.0,0
+2006,Premier League,Tottenham Hotspur,summer,in,Benoît Assou-Ekotto,18310,22,Cameroon,Left-Back,LB,2800000.0,RC Lens,France,5000000.0,0
+2006,Premier League,Tottenham Hotspur,summer,in,Steed Malbranque,3569,26,France,Central Midfield,CM,8199999.999999999,Fulham FC,England,3000000.0,0
+2006,Premier League,Tottenham Hotspur,summer,in,Dorian Dervite,32029,17,France,Centre-Back,CB,350000.0,LOSC Lille U19,France,1500000.0,0
+2006,Premier League,Tottenham Hotspur,summer,in,Radek Cerny,21010,32,Czech Republic,Goalkeeper,GK,600000.0,SK Slavia Prague,Czech Republic,200000.0,0
+2006,Premier League,Tottenham Hotspur,summer,in,Mark Hughes,38121,19,England,Centre-Back,CB,100000.0,Everton FC Reserves,England,0.0,0
+2006,Premier League,Tottenham Hotspur,winter,in,Ricardo Rocha,13211,28,Portugal,Centre-Back,CB,3600000.0,SL Benfica,Portugal,5000000.0,0
+2006,Premier League,Tottenham Hotspur,winter,in,Ben Alnwick,27036,20,England,Goalkeeper,GK,500000.0,Sunderland AFC,England,1500000.0,0
+2006,Premier League,Tottenham Hotspur,winter,in,Adel Taarabt,45287,17,Morocco,Central Midfield,CM,50000.0,RC Lens,France,0.0,1
+2006,Premier League,Tottenham Hotspur,summer,out,Michael Carrick,3878,25,England,Defensive Midfield,DM,26500000.0,Manchester United,England,27200000.0,0
+2006,Premier League,Tottenham Hotspur,summer,out,Andy Reid,10008,23,Ireland,Left Midfield,LM,5700000.0,Charlton Athletic,England,4200000.0,0
+2006,Premier League,Tottenham Hotspur,summer,out,Stephen Kelly,12125,22,Ireland,Right-Back,RB,800000.0,Birmingham City,England,1600000.0,0
+2006,Premier League,Tottenham Hotspur,summer,out,Rodrigo Defendi,18981,20,Brazil,Centre-Back,CB,700000.0,AS Roma,Italy,375000.0,1
+2006,Premier League,Tottenham Hotspur,summer,out,Dean Marney,4055,22,England,Central Midfield,CM,600000.0,Hull City,England,325000.0,0
+2006,Premier League,Tottenham Hotspur,summer,out,Johnnie Jackson,29430,23,England,Central Midfield,CM,75000.0,Colchester United,England,0.0,0
+2006,Premier League,Tottenham Hotspur,summer,out,Mounir El Hamdaoui,21490,21,Morocco,Centre-Forward,CF,800000.0,Willem II Tilburg,Netherlands,0.0,0
+2006,Premier League,Tottenham Hotspur,summer,out,Goran Bunjevcevic,3802,33,Serbia,Centre-Back,CB,1000000.0,ADO Den Haag,Netherlands,0.0,0
+2006,Premier League,Tottenham Hotspur,summer,out,Mark Yeates,15167,21,Ireland,Left Winger,LW,75000.0,Hull City,England,0.0,1
+2006,Premier League,Tottenham Hotspur,summer,out,Wayne Routledge,14066,21,England,Left Winger,LW,2800000.0,Fulham FC,England,0.0,1
+2006,Premier League,Tottenham Hotspur,summer,out,Noureddine Naybet,7493,36,Morocco,Centre-Back,CB,1000000.0,Retired,,,0
+2006,Premier League,Tottenham Hotspur,summer,out,Adel Taarabt,45287,17,Morocco,Central Midfield,CM,50000.0,RC Lens,France,0.0,1
+2006,Premier League,Tottenham Hotspur,summer,out,Mido,4329,23,Egypt,Centre-Forward,CF,10500000.0,AS Roma,Italy,0.0,1
+2006,Premier League,Tottenham Hotspur,summer,out,Radek Cerny,21010,32,Czech Republic,Goalkeeper,GK,600000.0,SK Slavia Prague,Czech Republic,0.0,1
+2006,Premier League,Tottenham Hotspur,winter,out,Calum Davenport,4221,24,England,Centre-Back,CB,1500000.0,West Ham United,England,4200000.0,0
+2006,Premier League,Tottenham Hotspur,winter,out,Márton Fülöp,17879,23,Hungary,Goalkeeper,GK,400000.0,Sunderland AFC,England,750000.0,0
+2006,Premier League,Tottenham Hotspur,winter,out,Edgar Davids,5758,33,Netherlands,Central Midfield,CM,7500000.0,Ajax Amsterdam,Netherlands,0.0,0
+2006,Premier League,Tottenham Hotspur,winter,out,Mark Hughes,38121,20,England,Centre-Back,CB,150000.0,Northampton Town,England,0.0,0
+2006,Premier League,Tottenham Hotspur,winter,out,Mark Yeates,15167,22,Ireland,Left Winger,LW,75000.0,Leicester City,England,0.0,1
+2006,Premier League,Tottenham Hotspur,winter,out,Rob Burch,27814,23,England,Goalkeeper,GK,50000.0,Barnet FC,England,0.0,1
+2006,Premier League,Tottenham Hotspur,winter,out,Márton Fülöp,17879,23,Hungary,Goalkeeper,GK,400000.0,Sunderland AFC,England,0.0,1
+2006,Premier League,Tottenham Hotspur,winter,out,Reto Ziegler,9915,21,Switzerland,Centre-Back,CB,1450000.0,UC Sampdoria,Italy,0.0,1
+2006,Premier League,Watford FC,summer,in,Danny Shittu,13736,25,Nigeria,Centre-Back,CB,2400000.0,Queens Park Rangers,England,2400000.0,0
+2006,Premier League,Watford FC,summer,in,Damien Francis,11671,27,Jamaica,Central Midfield,CM,2250000.0,Wigan Athletic,England,2250000.0,0
+2006,Premier League,Watford FC,summer,in,Tamás Priskin,43716,19,Hungary,Centre-Forward,CF,,ETO FC,Hungary,1500000.0,0
+2006,Premier League,Watford FC,summer,in,Tommy Smith,12401,26,England,Centre-Forward,CF,700000.0,Derby County,England,725000.0,0
+2006,Premier League,Watford FC,summer,in,Stephane Seanla,40325,18,Cote d'Ivoire,Left Winger,LW,100000.0,Tottenham Hotspur U18,England,0.0,0
+2006,Premier League,Watford FC,summer,in,Chris Powell,4100,36,England,Left-Back,LB,400000.0,Charlton Athletic,England,0.0,0
+2006,Premier League,Watford FC,summer,in,Albert Jarrett,14030,21,Sierra Leone,Left Midfield,LM,50000.0,Brighton & Hove Albion,England,0.0,0
+2006,Premier League,Watford FC,summer,in,Sheku Kamara,282470,18,England,Right-Back,RB,,Charlton Athletic U18,England,,0
+2006,Premier League,Watford FC,winter,in,Gareth Williams,9997,25,Scotland,Central Midfield,CM,1000000.0,Leicester City,England,1250000.0,0
+2006,Premier League,Watford FC,winter,in,Will Hoskins,15928,20,England,Centre-Forward,CF,50000.0,Rotherham United,England,1000000.0,0
+2006,Premier League,Watford FC,winter,in,Steve Kabba,13522,25,England,Centre-Forward,CF,100000.0,Sheffield United,England,750000.0,0
+2006,Premier League,Watford FC,winter,in,Lee Williamson,46902,24,Jamaica,Central Midfield,CM,,Rotherham United,England,500000.0,0
+2006,Premier League,Watford FC,winter,in,Moses Ashikodi,3997,19,Antigua and Barbuda,Centre-Forward,CF,100000.0,Rangers FC,Scotland,100000.0,0
+2006,Premier League,Watford FC,winter,in,Cédric Avinel,44421,20,Guadeloupe,Centre-Back,CB,,US Créteil-Lusitanos,France,0.0,0
+2006,Premier League,Watford FC,winter,in,Johan Cavalli,44687,25,France,Attacking Midfield,AM,,FC Istres Ouest Provence ,France,0.0,0
+2006,Premier League,Watford FC,winter,in,Douglas Rinaldi,48644,27,Brazil,Central Midfield,CM,,Veranópolis EC,Brazil,0.0,1
+2006,Premier League,Watford FC,summer,out,Francino Francis,37420,19,Jamaica,Centre-Back,CB,50000.0,Redditch United,England,0.0,0
+2006,Premier League,Watford FC,summer,out,Adam Martin,217748,17,England,Central Midfield,CM,,Hemel Hempstead Town,England,0.0,0
+2006,Premier League,Watford FC,summer,out,Joel Grant,37012,19,Jamaica,Right Winger,RW,75000.0,Aldershot Town,England,0.0,1
+2006,Premier League,Watford FC,summer,out,James Chambers,3676,25,England,Right-Back,RB,700000.0,Cardiff City,England,0.0,1
+2006,Premier League,Watford FC,summer,out,Ben Gill,66962,18,England,Centre-Back,CB,,Cambridge United,England,0.0,1
+2006,Premier League,Watford FC,summer,out,Les Ferdinand,3645,39,England,Centre-Forward,CF,400000.0,Retired,,,0
+2006,Premier League,Watford FC,summer,out,Ben Foster,13572,24,England,Goalkeeper,GK,3000000.0,Manchester United,England,0.0,1
+2006,Premier League,Watford FC,winter,out,Ashley Young,14086,21,England,Right-Back,RB,6500000.0,Aston Villa,England,13200000.0,0
+2006,Premier League,Watford FC,winter,out,Matthew Spring,18873,27,England,Central Midfield,CM,300000.0,Luton Town,England,300000.0,0
+2006,Premier League,Watford FC,winter,out,Stephane Seanla,40325,18,Cote d'Ivoire,Left Winger,LW,100000.0,Kettering Town,England,0.0,0
+2006,Premier League,Watford FC,winter,out,Dominic Blizzard,15914,23,England,Central Midfield,CM,50000.0,Milton Keynes Dons,England,0.0,0
+2006,Premier League,Watford FC,winter,out,Sheku Kamara,282470,19,England,Right-Back,RB,,Grays Athletic,England,0.0,1
+2006,Premier League,Watford FC,winter,out,John-Joe O'Toole,57053,18,Ireland,Centre-Back,CB,,Wealdstone FC,England,0.0,1
+2006,Premier League,Watford FC,winter,out,Theo Robinson,39514,18,Jamaica,Centre-Forward,CF,50000.0,Wealdstone FC,England,0.0,1
+2006,Premier League,Watford FC,winter,out,Toumani Diagouraga,37010,19,France,Defensive Midfield,DM,75000.0,Rotherham United,England,0.0,1
+2006,Premier League,Watford FC,winter,out,Albert Jarrett,14030,22,Sierra Leone,Left Midfield,LM,100000.0,Milton Keynes Dons,England,0.0,1
+2006,Premier League,Watford FC,winter,out,Anthony McNamee,14049,22,England,Right Midfield,RM,560000.0,Crewe Alexandra,England,0.0,1
+2006,Premier League,Watford FC,winter,out,Moses Ashikodi,3997,19,Antigua and Barbuda,Centre-Forward,CF,150000.0,Bradford City,England,0.0,1
+2006,Premier League,Watford FC,winter,out,Clarke Carlisle,13717,27,England,Centre-Back,CB,500000.0,Luton Town,England,0.0,1
+2006,Premier League,Watford FC,winter,out,Albert Jarrett,14030,22,Sierra Leone,Left Midfield,LM,100000.0,Boston United,England,0.0,1
+2006,Premier League,Watford FC,winter,out,Dominic Blizzard,15914,23,England,Central Midfield,CM,50000.0,Stockport County,England,0.0,1
+2006,Premier League,West Ham United,summer,in,Carlos Tevez,4276,22,Argentina,Centre-Forward,CF,15000000.0,Sport Club Corinthians Paulista,Brazil,14600000.0,0
+2006,Premier League,West Ham United,summer,in,Javier Mascherano,19981,22,Argentina,Defensive Midfield,DM,11800000.0,Sport Club Corinthians Paulista,Brazil,14600000.0,0
+2006,Premier League,West Ham United,summer,in,Rob Green,11680,26,England,Goalkeeper,GK,5250000.0,Norwich City,England,3000000.0,0
+2006,Premier League,West Ham United,summer,in,Carlton Cole,3179,22,England,Centre-Forward,CF,3000000.0,Chelsea FC,England,3000000.0,0
+2006,Premier League,West Ham United,summer,in,George McCartney,3775,25,Northern Ireland,Left-Back,LB,1700000.0,Sunderland AFC,England,1630000.0,0
+2006,Premier League,West Ham United,summer,in,Tyrone Mears,14050,23,England,Right-Back,RB,400000.0,Preston North End,England,1500000.0,0
+2006,Premier League,West Ham United,summer,in,John Paintsil,35235,25,Ghana,Right-Back,RB,750000.0,Hapoel Tel Aviv,Israel,1500000.0,0
+2006,Premier League,West Ham United,summer,in,Lee Bowyer,3877,29,England,Central Midfield,CM,3880000.0,Newcastle United,England,1130000.0,0
+2006,Premier League,West Ham United,summer,in,Jonathan Spector,24637,20,United States,Centre-Back,CB,1250000.0,Manchester United,England,750000.0,0
+2006,Premier League,West Ham United,winter,in,Matthew Upson,3273,27,England,Centre-Back,CB,9000000.0,Birmingham City,England,12600000.0,0
+2006,Premier League,West Ham United,winter,in,Luís Boa Morte,3422,29,Portugal,Left Midfield,LM,3500000.0,Fulham FC,England,6800000.0,0
+2006,Premier League,West Ham United,winter,in,Calum Davenport,4221,24,England,Centre-Back,CB,1500000.0,Tottenham Hotspur,England,4200000.0,0
+2006,Premier League,West Ham United,winter,in,Lucas Neill,3826,28,Australia,Centre-Back,CB,3000000.0,Blackburn Rovers,England,2300000.0,0
+2006,Premier League,West Ham United,winter,in,Nigel Quashie,4139,28,Scotland,Central Midfield,CM,2000000.0,West Bromwich Albion,England,2250000.0,0
+2006,Premier League,West Ham United,winter,in,Gábor Király,342,30,Hungary,Goalkeeper,GK,2500000.0,Crystal Palace,England,0.0,1
+2006,Premier League,West Ham United,winter,in,Kepa Blanco,34494,22,Spain,Centre-Forward,CF,1500000.0,Sevilla FC,Spain,0.0,1
+2006,Premier League,West Ham United,winter,in,Shaun Newton,9171,31,England,Right Midfield,RM,500000.0,Disqualification,,,0
+2006,Premier League,West Ham United,summer,out,Elliott Ward,15838,21,England,Centre-Back,CB,1250000.0,Coventry City,England,1250000.0,0
+2006,Premier League,West Ham United,summer,out,Stephen Bywater,3873,25,England,Goalkeeper,GK,1200000.0,Derby County,England,750000.0,0
+2006,Premier League,West Ham United,summer,out,Clive Clarke,13558,26,Ireland,Left-Back,LB,650000.0,Sunderland AFC,England,650000.0,0
+2006,Premier League,West Ham United,summer,out,Carl Fletcher,23370,26,Wales,Defensive Midfield,DM,750000.0,Crystal Palace,England,600000.0,0
+2006,Premier League,West Ham United,summer,out,Darren Blewitt,281760,20,England,Centre-Back,CB,,Billericay Town,England,0.0,0
+2006,Premier League,West Ham United,summer,out,Ishmael Welsh,49636,18,England,Left Winger,LW,,Yeovil Town,England,0.0,0
+2006,Premier League,West Ham United,summer,out,Sekou Baradji,23890,22,France,Defensive Midfield,DM,100000.0,Tours FC,France,0.0,0
+2006,Premier League,West Ham United,summer,out,Matthew Reed,39035,19,England,Goalkeeper,GK,50000.0,Bristol City,England,0.0,0
+2006,Premier League,West Ham United,summer,out,Trent McClenahan,31887,21,Australia,Centre-Back,CB,75000.0,Hereford United (- 2014),England,0.0,0
+2006,Premier League,West Ham United,summer,out,Shaka Hislop,4175,37,Trinidad and Tobago,Goalkeeper,GK,950000.0,FC Dallas,United States,0.0,0
+2006,Premier League,West Ham United,summer,out,Chris Cohen,15835,19,England,Central Midfield,CM,50000.0,Yeovil Town,England,0.0,0
+2006,Premier League,West Ham United,summer,out,Mark Noble,31835,19,England,Central Midfield,CM,800000.0,Ipswich Town,England,0.0,1
+2006,Premier League,West Ham United,summer,out,Tony Stokes,39034,19,England,Centre-Forward,CF,50000.0,Brighton & Hove Albion,England,0.0,1
+2006,Premier League,West Ham United,summer,out,Stephen Bywater,3873,25,England,Goalkeeper,GK,1200000.0,Derby County,England,0.0,1
+2006,Premier League,West Ham United,summer,out,Petr Mikolanda,38084,21,Czech Republic,Centre-Forward,CF,2500000.0,FK Mlada Boleslav,Czech Republic,,0
+2006,Premier League,West Ham United,summer,out,Shaun Newton,9171,30,England,Right Midfield,RM,500000.0,Disqualification,,,0
+2006,Premier League,West Ham United,summer,out,Yaniv Katan,24475,25,Israel,Attacking Midfield,AM,500000.0,Maccabi Haifa,Israel,0.0,1
+2006,Premier League,West Ham United,summer,out,Lionel Scaloni,7499,28,Argentina,Right-Back,RB,4000000.0,Deportivo de La Coruña,Spain,0.0,1
+2006,Premier League,West Ham United,winter,out,Javier Mascherano,19981,22,Argentina,Defensive Midfield,DM,11800000.0,Liverpool FC,England,2000000.0,1
+2006,Premier League,West Ham United,winter,out,Tyrone Mears,14050,23,England,Right-Back,RB,1500000.0,Derby County,England,1500000.0,0
+2006,Premier League,West Ham United,winter,out,Kyel Reid,39709,18,England,Left Winger,LW,50000.0,Barnsley FC,England,0.0,1
+2006,Premier League,West Ham United,winter,out,Shaun Newton,9171,31,England,Right Midfield,RM,500000.0,Leicester City,England,0.0,1
+2006,Premier League,West Ham United,winter,out,Gábor Király,342,30,Hungary,Goalkeeper,GK,2500000.0,Crystal Palace,England,0.0,1
+2006,Premier League,Wigan Athletic,summer,in,Emile Heskey,3142,28,England,Centre-Forward,CF,5500000.0,Birmingham City,England,7500000.0,0
+2006,Premier League,Wigan Athletic,summer,in,Fitz Hall,6580,25,England,Centre-Back,CB,4500000.0,Crystal Palace,England,4500000.0,0
+2006,Premier League,Wigan Athletic,summer,in,Denny Landzaat,4570,30,Netherlands,Central Midfield,CM,7000000.0,AZ Alkmaar,Netherlands,4400000.0,0
+2006,Premier League,Wigan Athletic,summer,in,Chris Kirkland,3219,25,England,Goalkeeper,GK,3000000.0,Liverpool FC,England,3730000.0,0
+2006,Premier League,Wigan Athletic,summer,in,David Cotterill,40207,18,Wales,Right Winger,RW,400000.0,Bristol City,England,3200000.0,0
+2006,Premier League,Wigan Athletic,summer,in,Kevin Kilbane,4135,29,Ireland,Left Midfield,LM,4500000.0,Everton FC,England,2500000.0,0
+2006,Premier League,Wigan Athletic,summer,in,Emmerson Boyce,19641,26,Barbados,Right-Back,RB,1600000.0,Crystal Palace,England,1500000.0,0
+2006,Premier League,Wigan Athletic,summer,in,Antonio Valencia,33544,20,Ecuador,Right-Back,RB,2250000.0,Villarreal CF,Spain,400000.0,1
+2006,Premier League,Wigan Athletic,summer,in,Andy Webster,12610,24,Scotland,Centre-Back,CB,1250000.0,Heart of Midlothian FC,Scotland,0.0,0
+2006,Premier League,Wigan Athletic,summer,in,Tomasz Kupisz,45185,16,Poland,Right Winger,RW,,MKS Piaseczno,Poland,0.0,0
+2006,Premier League,Wigan Athletic,summer,in,Tomasz Cywka,38558,18,Poland,Defensive Midfield,DM,75000.0,Gwarek Zabrze,Poland,0.0,0
+2006,Premier League,Wigan Athletic,summer,in,Chris Kirkland,3219,25,England,Goalkeeper,GK,3000000.0,Liverpool FC,England,0.0,1
+2006,Premier League,Wigan Athletic,summer,in,Svetoslav Todorov,3978,28,Bulgaria,Centre-Forward,CF,1900000.0,Portsmouth FC,England,0.0,1
+2006,Premier League,Wigan Athletic,winter,in,Caleb Folan,46816,24,Ireland,Centre-Forward,CF,,Chesterfield FC,England,750000.0,0
+2006,Premier League,Wigan Athletic,winter,in,Carlo Nash,3804,33,England,Goalkeeper,GK,500000.0,Preston North End,England,450000.0,0
+2006,Premier League,Wigan Athletic,winter,in,Kristofer Hæstad,35592,23,Norway,Central Midfield,CM,500000.0,IK Start,Norway,250000.0,1
+2006,Premier League,Wigan Athletic,winter,in,Andreas Granqvist,29213,21,Sweden,Centre-Back,CB,900000.0,Helsingborgs IF,Sweden,200000.0,1
+2006,Premier League,Wigan Athletic,winter,in,David Unsworth,3272,33,England,Left-Back,LB,2500000.0,Sheffield United,England,0.0,0
+2006,Premier League,Wigan Athletic,winter,in,Julius Aghahowa,14925,24,Nigeria,Centre-Forward,CF,2000000.0,Shakhtar Donetsk,Ukraine,0.0,0
+2006,Premier League,Wigan Athletic,summer,out,Pascal Chimbonda,18875,27,Guadeloupe,Right-Back,RB,4000000.0,Tottenham Hotspur,England,10000000.0,0
+2006,Premier League,Wigan Athletic,summer,out,Jason Roberts,3666,28,Grenada,Centre-Forward,CF,3850000.0,Blackburn Rovers,England,4080000.0,0
+2006,Premier League,Wigan Athletic,summer,out,Jimmy Bullard,13510,27,England,Central Midfield,CM,4500000.0,Fulham FC,England,3750000.0,0
+2006,Premier League,Wigan Athletic,summer,out,David Connolly,9051,29,Ireland,Centre-Forward,CF,2000000.0,Sunderland AFC,England,2300000.0,0
+2006,Premier League,Wigan Athletic,summer,out,Damien Francis,11671,27,Jamaica,Central Midfield,CM,2250000.0,Watford FC,England,2250000.0,0
+2006,Premier League,Wigan Athletic,summer,out,Graham Kavanagh,12712,32,Ireland,Central Midfield,CM,1750000.0,Sunderland AFC,England,750000.0,0
+2006,Premier League,Wigan Athletic,summer,out,Ryan Yeomans,13550,20,England,Goalkeeper,GK,50000.0,Blackpool Mechanics,England,0.0,0
+2006,Premier League,Wigan Athletic,summer,out,Magno Vieira,13546,21,Brazil,Centre-Forward,CF,50000.0,Barnet FC,England,0.0,0
+2006,Premier League,Wigan Athletic,summer,out,Kevin Lee,33787,20,England,Right-Back,RB,50000.0,Southport FC,England,0.0,0
+2006,Premier League,Wigan Athletic,summer,out,David Thompson,4127,28,England,Central Midfield,CM,2750000.0,Portsmouth FC,England,0.0,0
+2006,Premier League,Wigan Athletic,summer,out,Luke Joyce,33786,18,England,Defensive Midfield,DM,50000.0,Carlisle United,England,0.0,0
+2006,Premier League,Wigan Athletic,summer,out,Tomasz Cywka,38558,18,Poland,Defensive Midfield,DM,75000.0,Oldham Athletic,England,0.0,1
+2006,Premier League,Wigan Athletic,summer,out,John Filan,13516,36,Australia,Goalkeeper,GK,700000.0,Doncaster Rovers,England,0.0,1
+2006,Premier League,Wigan Athletic,summer,out,Gary Walsh,13547,38,England,Goalkeeper,GK,,Retired,,,0
+2006,Premier League,Wigan Athletic,summer,out,Stéphane Henchoz,3210,31,Switzerland,Centre-Back,CB,3400000.0,Without Club,,,0
+2006,Premier League,Wigan Athletic,summer,out,Chris Kirkland,3219,25,England,Goalkeeper,GK,3000000.0,Liverpool FC,England,0.0,1
+2006,Premier League,Wigan Athletic,summer,out,Reto Ziegler,9915,20,Switzerland,Centre-Back,CB,1450000.0,Tottenham Hotspur,England,0.0,1
+2006,Premier League,Wigan Athletic,winter,out,Gary Teale,13543,28,Scotland,Right Winger,RW,500000.0,Derby County,England,900000.0,0
+2006,Premier League,Wigan Athletic,winter,out,David Wright,14165,26,England,Defensive Midfield,DM,600000.0,Ipswich Town,England,300000.0,0
+2006,Premier League,Wigan Athletic,winter,out,Mike Pollitt,32217,34,England,Goalkeeper,GK,600000.0,Ipswich Town,England,0.0,1
+2006,Premier League,Wigan Athletic,winter,out,Andy Webster,12610,24,Scotland,Centre-Back,CB,1250000.0,Rangers FC,Scotland,0.0,1
+2006,Premier League,Wigan Athletic,winter,out,Mike Pollitt,32217,34,England,Goalkeeper,GK,600000.0,Burnley FC,England,0.0,1
+2006,Premier League,Wigan Athletic,winter,out,Steve McMillan,13530,31,Scotland,Left-Back,LB,650000.0,Retired,,,0
+2006,Premier League,Wigan Athletic,winter,out,Kristofer Hæstad,35592,23,Norway,Central Midfield,CM,500000.0,IK Start,Norway,0.0,1
+2006,Premier League,Wigan Athletic,winter,out,Svetoslav Todorov,3978,28,Bulgaria,Centre-Forward,CF,1900000.0,Portsmouth FC,England,0.0,1

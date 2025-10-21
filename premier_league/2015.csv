@@ -1,0 +1,689 @@
+season,league,club,window,movement,player_name,player_id,age,nationality,position,pos,market_value,dealing_club,dealing_country,fee,is_loan
+2015,Premier League,AFC Bournemouth,summer,in,Tyrone Mings,253677,22,England,Centre-Back,CB,6000000.0,Ipswich Town,England,11300000.0,0
+2015,Premier League,AFC Bournemouth,summer,in,Max Gradel,28140,27,Cote d'Ivoire,Left Winger,LW,6500000.0,AS Saint-Étienne,France,10000000.0,0
+2015,Premier League,AFC Bournemouth,summer,in,Glenn Murray,45693,31,England,Centre-Forward,CF,2500000.0,Crystal Palace,England,5400000.0,0
+2015,Premier League,AFC Bournemouth,summer,in,Lee Tomlin,104586,26,England,Second Striker,SS,1750000.0,Middlesbrough FC,England,4300000.0,0
+2015,Premier League,AFC Bournemouth,summer,in,Sylvain Distin,3356,37,France,Centre-Back,CB,750000.0,Everton FC,England,0.0,0
+2015,Premier League,AFC Bournemouth,summer,in,Joshua King,91059,23,Norway,Centre-Forward,CF,1000000.0,Blackburn Rovers,England,0.0,0
+2015,Premier League,AFC Bournemouth,summer,in,Adam Federici,4233,30,Australia,Goalkeeper,GK,1000000.0,Reading FC,England,0.0,0
+2015,Premier League,AFC Bournemouth,summer,in,Artur Boruc,15220,35,Poland,Goalkeeper,GK,1000000.0,Southampton FC,England,0.0,0
+2015,Premier League,AFC Bournemouth,summer,in,Jordan Green,416622,20,England,Right Winger,RW,,Banbury United,England,0.0,0
+2015,Premier League,AFC Bournemouth,summer,in,Tomás Andrade,389152,18,Argentina,Attacking Midfield,AM,,CA River Plate II,Argentina,0.0,1
+2015,Premier League,AFC Bournemouth,summer,in,Joe Bennett,90964,25,England,Left-Back,LB,1500000.0,Aston Villa,England,0.0,1
+2015,Premier League,AFC Bournemouth,summer,in,Christian Atsu,186997,23,Ghana,Left Winger,LW,5000000.0,Chelsea FC,England,0.0,1
+2015,Premier League,AFC Bournemouth,winter,in,Benik Afobe,110858,22,DR Congo,Centre-Forward,CF,7000000.0,Wolverhampton Wanderers,England,13300000.0,0
+2015,Premier League,AFC Bournemouth,winter,in,Lewis Grabban,35413,27,Jamaica,Centre-Forward,CF,3000000.0,Norwich City,England,9350000.0,0
+2015,Premier League,AFC Bournemouth,winter,in,Juan Iturbe,81455,22,Paraguay,Right Winger,RW,15000000.0,AS Roma,Italy,1200000.0,1
+2015,Premier League,AFC Bournemouth,winter,in,Rhoys Wiggins,42298,28,Wales,Left-Back,LB,750000.0,Sheffield Wednesday,England,260000.0,0
+2015,Premier League,AFC Bournemouth,winter,in,Marius Adamonis,300137,18,Lithuania,Goalkeeper,GK,50000.0,FK Atlantas Klaipeda (-2020),Lithuania,0.0,1
+2015,Premier League,AFC Bournemouth,summer,out,Joe Partington,67003,25,Wales,Right-Back,RB,100000.0,Eastleigh FC,England,0.0,0
+2015,Premier League,AFC Bournemouth,summer,out,Lee Camp,13443,31,Northern Ireland,Goalkeeper,GK,250000.0,Rotherham United,England,0.0,0
+2015,Premier League,AFC Bournemouth,summer,out,Josh McQuoid,66996,25,Northern Ireland,Centre-Forward,CF,250000.0,Luton Town,England,0.0,0
+2015,Premier League,AFC Bournemouth,summer,out,Mohamed Coulibaly,74607,26,Senegal,Centre-Forward,CF,,Racing Santander,Spain,0.0,0
+2015,Premier League,AFC Bournemouth,summer,out,Elliott Ward,15838,30,England,Centre-Back,CB,500000.0,Huddersfield Town,England,0.0,1
+2015,Premier League,AFC Bournemouth,summer,out,Ryan Allsop,111073,23,England,Goalkeeper,GK,250000.0,Portsmouth FC,England,0.0,1
+2015,Premier League,AFC Bournemouth,summer,out,Ryan Fraser,146795,21,Scotland,Left Winger,LW,500000.0,Ipswich Town,England,0.0,1
+2015,Premier League,AFC Bournemouth,summer,out,Josh Carmichael,201329,20,Scotland,Central Midfield,CM,,Torquay United,England,0.0,1
+2015,Premier League,AFC Bournemouth,summer,out,Harry Cornick,255703,20,England,Centre-Forward,CF,,Yeovil Town,England,0.0,1
+2015,Premier League,AFC Bournemouth,summer,out,Stéphane Zubar,56829,28,Guadeloupe,Centre-Back,CB,250000.0,York City,England,0.0,1
+2015,Premier League,AFC Bournemouth,summer,out,Josh Wakefield,225166,21,England,Central Midfield,CM,100000.0,Yeovil Town,England,0.0,1
+2015,Premier League,AFC Bournemouth,summer,out,Josh O'Hanlon,262725,19,Ireland,Centre-Forward,CF,,Chester FC,England,0.0,1
+2015,Premier League,AFC Bournemouth,summer,out,Brett Pitman,48312,27,Jersey,Centre-Forward,CF,1500000.0,Ipswich Town,England,,0
+2015,Premier League,AFC Bournemouth,summer,out,Jayden Stockley,134293,21,England,Centre-Forward,CF,250000.0,Portsmouth FC,England,0.0,1
+2015,Premier League,AFC Bournemouth,summer,out,Miles Addison,39377,26,England,Centre-Back,CB,250000.0,Without Club,,,0
+2015,Premier League,AFC Bournemouth,summer,out,Darryl Flahavan,39699,36,England,Goalkeeper,GK,100000.0,Without Club,,,0
+2015,Premier League,AFC Bournemouth,summer,out,Benjamin Büchel,66708,25,Liechtenstein,Goalkeeper,GK,50000.0,Without Club,,,0
+2015,Premier League,AFC Bournemouth,summer,out,Ian Harte,3634,37,Ireland,Left-Back,LB,150000.0,Retired,,,0
+2015,Premier League,AFC Bournemouth,summer,out,Aristide Bassele,213342,21,England,Right Winger,RW,50000.0,Without Club,,,0
+2015,Premier League,AFC Bournemouth,summer,out,Kenwyne Jones,28245,30,Trinidad and Tobago,Centre-Forward,CF,2500000.0,Cardiff City,England,0.0,1
+2015,Premier League,AFC Bournemouth,winter,out,Yann Kermorgant,57410,34,France,Centre-Forward,CF,750000.0,Reading FC,England,650000.0,0
+2015,Premier League,AFC Bournemouth,winter,out,Elliott Ward,15838,31,England,Centre-Back,CB,500000.0,Blackburn Rovers,England,0.0,0
+2015,Premier League,AFC Bournemouth,winter,out,Matt Butcher,391132,18,England,Defensive Midfield,DM,,Woking FC,England,0.0,1
+2015,Premier League,AFC Bournemouth,winter,out,Josh Wakefield,225166,22,England,Central Midfield,CM,100000.0,Walsall FC,England,0.0,1
+2015,Premier League,AFC Bournemouth,winter,out,Brandon Goodship,423584,21,England,Centre-Forward,CF,,Yeovil Town,England,0.0,1
+2015,Premier League,AFC Bournemouth,winter,out,Baily Cargill,293450,20,England,Centre-Back,CB,250000.0,Coventry City,England,0.0,1
+2015,Premier League,AFC Bournemouth,winter,out,Ryan Allsop,111073,23,England,Goalkeeper,GK,250000.0,Wycombe Wanderers,England,0.0,1
+2015,Premier League,AFC Bournemouth,winter,out,Lee Tomlin,104586,27,England,Second Striker,SS,3500000.0,Bristol City,England,0.0,1
+2015,Premier League,AFC Bournemouth,winter,out,Josh O'Hanlon,262725,20,Ireland,Centre-Forward,CF,,Longford Town FC,Ireland,0.0,1
+2015,Premier League,AFC Bournemouth,winter,out,Jayden Stockley,134293,22,England,Centre-Forward,CF,250000.0,Exeter City,England,0.0,1
+2015,Premier League,AFC Bournemouth,winter,out,Tomás Andrade,389152,19,Argentina,Attacking Midfield,AM,,CA River Plate II,Argentina,0.0,1
+2015,Premier League,AFC Bournemouth,winter,out,Joe Bennett,90964,25,England,Left-Back,LB,1500000.0,Aston Villa,England,0.0,1
+2015,Premier League,AFC Bournemouth,winter,out,Christian Atsu,186997,23,Ghana,Left Winger,LW,5000000.0,Chelsea FC,England,0.0,1
+2015,Premier League,Arsenal FC,summer,in,Petr Cech,5658,33,Czech Republic,Goalkeeper,GK,12000000.0,Chelsea FC,England,14000000.0,0
+2015,Premier League,Arsenal FC,winter,in,Mohamed Elneny,160438,23,Egypt,Defensive Midfield,DM,4000000.0,FC Basel 1893,Switzerland,12500000.0,0
+2015,Premier League,Arsenal FC,summer,out,Lukas Podolski,15185,30,Germany,Centre-Forward,CF,7500000.0,Galatasaray,Türkiye,2500000.0,0
+2015,Premier League,Arsenal FC,summer,out,Ryo Miyaichi,129688,22,Japan,Right Winger,RW,1000000.0,FC St. Pauli,Germany,0.0,0
+2015,Premier League,Arsenal FC,summer,out,Abou Diaby,26763,29,France,Central Midfield,CM,750000.0,Olympique Marseille,France,0.0,0
+2015,Premier League,Arsenal FC,summer,out,Semi Ajayi,251912,21,Nigeria,Centre-Back,CB,,Cardiff City,England,0.0,0
+2015,Premier League,Arsenal FC,summer,out,Yaya Sanogo,127194,22,France,Centre-Forward,CF,2000000.0,Ajax Amsterdam,Netherlands,0.0,1
+2015,Premier League,Arsenal FC,summer,out,Wojciech Szczesny,44058,25,Poland,Goalkeeper,GK,10000000.0,AS Roma,Italy,0.0,1
+2015,Premier League,Arsenal FC,summer,out,Chuba Akpom,197642,19,England,Centre-Forward,CF,1000000.0,Hull City,England,0.0,1
+2015,Premier League,Arsenal FC,summer,out,Serge Gnabry,159471,20,Germany,Left Winger,LW,3500000.0,West Bromwich Albion,England,0.0,1
+2015,Premier League,Arsenal FC,summer,out,Emiliano Martínez,111873,22,Argentina,Goalkeeper,GK,1500000.0,Wolverhampton Wanderers,England,0.0,1
+2015,Premier League,Arsenal FC,summer,out,Wellington Silva,121990,22,Brazil,Right Winger,RW,2000000.0,Bolton Wanderers,England,0.0,1
+2015,Premier League,Arsenal FC,winter,out,Mathieu Debuchy,27306,30,France,Right-Back,RB,13000000.0,FC Girondins Bordeaux,France,0.0,1
+2015,Premier League,Arsenal FC,winter,out,Yaya Sanogo,127194,23,France,Centre-Forward,CF,1500000.0,Charlton Athletic,England,0.0,1
+2015,Premier League,Aston Villa,summer,in,Jordan Ayew,108354,23,Ghana,Centre-Forward,CF,6000000.0,FC Lorient,France,12000000.0,0
+2015,Premier League,Aston Villa,summer,in,Jordan Amavi,241229,21,France,Left-Back,LB,4000000.0,OGC Nice,France,11000000.0,0
+2015,Premier League,Aston Villa,summer,in,Adama Traoré,204103,19,Spain,Right Winger,RW,5000000.0,FC Barcelona B,Spain,10000000.0,0
+2015,Premier League,Aston Villa,summer,in,Jordan Veretout,164771,22,France,Central Midfield,CM,8000000.0,FC Nantes,France,10000000.0,0
+2015,Premier League,Aston Villa,summer,in,Idrissa Gueye,126665,25,Senegal,Defensive Midfield,DM,7500000.0,LOSC Lille,France,9000000.0,0
+2015,Premier League,Aston Villa,summer,in,Rudy Gestede,39908,26,Benin,Centre-Forward,CF,3500000.0,Blackburn Rovers,England,8500000.0,0
+2015,Premier League,Aston Villa,summer,in,Scott Sinclair,31552,26,England,Left Winger,LW,3500000.0,Manchester City,England,3500000.0,0
+2015,Premier League,Aston Villa,summer,in,Joleon Lescott,4241,33,England,Centre-Back,CB,4000000.0,West Bromwich Albion,England,1400000.0,0
+2015,Premier League,Aston Villa,summer,in,José Crespo,37397,28,Spain,Centre-Back,CB,800000.0,Córdoba CF,Spain,800000.0,0
+2015,Premier League,Aston Villa,summer,in,Tiago Ilori,177859,22,Portugal,Centre-Back,CB,4000000.0,Liverpool FC,England,350000.0,1
+2015,Premier League,Aston Villa,summer,in,Mark Bunn,49319,30,England,Goalkeeper,GK,750000.0,Norwich City,England,0.0,0
+2015,Premier League,Aston Villa,summer,in,Micah Richards,32617,27,England,Right-Back,RB,5500000.0,Manchester City,England,0.0,0
+2015,Premier League,Aston Villa,summer,out,Christian Benteke,50201,24,Belgium,Centre-Forward,CF,20000000.0,Liverpool FC,England,46500000.0,0
+2015,Premier League,Aston Villa,summer,out,Fabian Delph,50362,25,England,Central Midfield,CM,10000000.0,Manchester City,England,11500000.0,0
+2015,Premier League,Aston Villa,summer,out,Andreas Weimann,49693,23,Austria,Attacking Midfield,AM,4500000.0,Derby County,England,3800000.0,0
+2015,Premier League,Aston Villa,summer,out,Yacouba Sylla,160080,24,Mali,Defensive Midfield,DM,1000000.0,Stade Rennais FC,France,1500000.0,0
+2015,Premier League,Aston Villa,summer,out,Matthew Lowton,102258,26,England,Right-Back,RB,2000000.0,Burnley FC,England,1400000.0,0
+2015,Premier League,Aston Villa,summer,out,Aleksandar Tonev,87282,25,Bulgaria,Left Winger,LW,1000000.0,Frosinone Calcio,Italy,0.0,0
+2015,Premier League,Aston Villa,summer,out,Darren Bent,13239,31,England,Centre-Forward,CF,2500000.0,Derby County,England,0.0,0
+2015,Premier League,Aston Villa,summer,out,Enda Stevens,85706,24,Ireland,Left-Back,LB,500000.0,Portsmouth FC,England,0.0,0
+2015,Premier League,Aston Villa,summer,out,Graham Burke,177892,21,Ireland,Second Striker,SS,,Notts County,England,0.0,0
+2015,Premier League,Aston Villa,summer,out,Shay Given,3146,39,Ireland,Goalkeeper,GK,500000.0,Stoke City,England,0.0,0
+2015,Premier League,Aston Villa,summer,out,Antonio Luna,126516,24,Spain,Left-Back,LB,750000.0,SD Eibar,Spain,0.0,0
+2015,Premier League,Aston Villa,summer,out,Nicklas Helenius,102132,24,Denmark,Centre-Forward,CF,1250000.0,Aalborg BK,Denmark,0.0,0
+2015,Premier League,Aston Villa,summer,out,Benjamin Siegrist,111426,23,Switzerland,Goalkeeper,GK,250000.0,Solihull Moors,England,0.0,1
+2015,Premier League,Aston Villa,summer,out,Janoi Donacien,197791,21,St. Lucia,Right-Back,RB,250000.0,Newport County,England,0.0,1
+2015,Premier League,Aston Villa,summer,out,Jed Steer,110867,22,England,Goalkeeper,GK,500000.0,Huddersfield Town,England,0.0,1
+2015,Premier League,Aston Villa,summer,out,Joe Cole,3876,33,England,Attacking Midfield,AM,1000000.0,Coventry City,England,0.0,1
+2015,Premier League,Aston Villa,summer,out,Nathan Baker,62638,24,England,Centre-Back,CB,2500000.0,Bristol City,England,0.0,1
+2015,Premier League,Aston Villa,summer,out,Janoi Donacien,197791,21,St. Lucia,Right-Back,RB,250000.0,Wycombe Wanderers,England,0.0,1
+2015,Premier League,Aston Villa,summer,out,Callum Robinson,183299,20,Ireland,Centre-Forward,CF,500000.0,Bristol City,England,0.0,1
+2015,Premier League,Aston Villa,summer,out,Joe Bennett,90964,25,England,Left-Back,LB,1500000.0,AFC Bournemouth,England,0.0,1
+2015,Premier League,Aston Villa,summer,out,Aly Cissokho,57515,27,France,Centre-Back,CB,3000000.0,FC Porto,Portugal,0.0,1
+2015,Premier League,Aston Villa,summer,out,Chris Herd,61572,26,Australia,Defensive Midfield,DM,1000000.0,Without Club,,,0
+2015,Premier League,Aston Villa,summer,out,Ron Vlaar,30697,30,Netherlands,Centre-Back,CB,6000000.0,Without Club,,,0
+2015,Premier League,Aston Villa,summer,out,Scott Sinclair,31552,26,England,Left Winger,LW,3000000.0,Manchester City,England,0.0,1
+2015,Premier League,Aston Villa,winter,out,Joe Cole,3876,34,England,Attacking Midfield,AM,1000000.0,Coventry City,England,0.0,0
+2015,Premier League,Aston Villa,winter,out,Philippe Senderos,4277,30,Switzerland,Centre-Back,CB,1500000.0,Grasshopper Club Zurich,Switzerland,0.0,0
+2015,Premier League,Aston Villa,winter,out,Benjamin Siegrist,111426,24,Switzerland,Goalkeeper,GK,250000.0,Wycombe Wanderers,England,0.0,1
+2015,Premier League,Aston Villa,winter,out,Callum Robinson,183299,20,Ireland,Centre-Forward,CF,500000.0,Preston North End,England,0.0,1
+2015,Premier League,Aston Villa,winter,out,Gary Gardner,110861,23,England,Central Midfield,CM,2000000.0,Nottingham Forest,England,0.0,1
+2015,Premier League,Aston Villa,winter,out,Joe Bennett,90964,25,England,Left-Back,LB,1500000.0,Sheffield Wednesday,England,0.0,1
+2015,Premier League,Aston Villa,winter,out,José Crespo,37397,28,Spain,Centre-Back,CB,750000.0,Rayo Vallecano,Spain,0.0,1
+2015,Premier League,Aston Villa,winter,out,Tiago Ilori,177859,22,Portugal,Centre-Back,CB,4000000.0,Liverpool FC,England,0.0,1
+2015,Premier League,Chelsea FC,summer,in,Pedro,65278,28,Spain,Right Winger,RW,20000000.0,FC Barcelona,Spain,27000000.0,0
+2015,Premier League,Chelsea FC,summer,in,Abdul Rahman Baba,224884,21,Ghana,Left-Back,LB,10000000.0,FC Augsburg,Germany,26000000.0,0
+2015,Premier League,Chelsea FC,summer,in,Asmir Begovic,33873,28,Bosnia-Herzegovina,Goalkeeper,GK,12000000.0,Stoke City,England,11000000.0,0
+2015,Premier League,Chelsea FC,summer,in,Kenedy,281404,19,Brazil,Left Winger,LW,6000000.0,Fluminense Football Club,Brazil,8000000.0,0
+2015,Premier League,Chelsea FC,summer,in,Radamel Falcao,39152,29,Colombia,Centre-Forward,CF,35000000.0,AS Monaco,France,7000000.0,1
+2015,Premier League,Chelsea FC,summer,in,Michael Hector,157490,23,Jamaica,Centre-Back,CB,750000.0,Reading FC,England,5400000.0,0
+2015,Premier League,Chelsea FC,summer,in,Nathan,294798,19,Brazil,Attacking Midfield,AM,3000000.0,Atlético Paranaense,Brazil,4000000.0,0
+2015,Premier League,Chelsea FC,summer,in,Papy Djilobodji,136610,26,Senegal,Centre-Back,CB,6500000.0,FC Nantes,France,3500000.0,0
+2015,Premier League,Chelsea FC,summer,in,Danilo Pantic,222830,18,Serbia,Attacking Midfield,AM,1000000.0,FK Partizan Belgrade,Serbia,0.0,0
+2015,Premier League,Chelsea FC,summer,in,Marco Amelia,16810,33,Italy,Goalkeeper,GK,150000.0,Without Club,,,0
+2015,Premier League,Chelsea FC,winter,in,Matt Miazga,245893,20,United States,Centre-Back,CB,150000.0,New York Red Bulls,United States,4600000.0,0
+2015,Premier League,Chelsea FC,winter,in,Alexandre Pato,37579,26,Brazil,Centre-Forward,CF,11000000.0,Sport Club Corinthians Paulista,Brazil,0.0,1
+2015,Premier League,Chelsea FC,summer,out,Filipe Luís,21725,29,Brazil,Left-Back,LB,15000000.0,Atlético de Madrid,Spain,16000000.0,0
+2015,Premier League,Chelsea FC,summer,out,Petr Cech,5658,33,Czech Republic,Goalkeeper,GK,12000000.0,Arsenal FC,England,14000000.0,0
+2015,Premier League,Chelsea FC,summer,out,Thorgan Hazard,102226,22,Belgium,Attacking Midfield,AM,10000000.0,Borussia Mönchengladbach,Germany,8000000.0,0
+2015,Premier League,Chelsea FC,summer,out,Oriol Romeu,66100,23,Spain,Defensive Midfield,DM,2500000.0,Southampton FC,England,7000000.0,0
+2015,Premier League,Chelsea FC,summer,out,Gaël Kakuta,74297,24,DR Congo,Attacking Midfield,AM,3500000.0,Sevilla FC,Spain,6000000.0,0
+2015,Premier League,Chelsea FC,summer,out,Mohamed Salah,148455,23,Egypt,Right Winger,RW,18000000.0,AS Roma,Italy,5000000.0,1
+2015,Premier League,Chelsea FC,summer,out,Juan Cuadrado,91970,27,Colombia,Right Midfield,RM,30000000.0,Juventus FC,Italy,1800000.0,1
+2015,Premier League,Chelsea FC,summer,out,Josh McEachran,128905,22,England,Central Midfield,CM,2000000.0,Brentford FC,England,1040000.0,0
+2015,Premier League,Chelsea FC,summer,out,Nathaniel Chalobah,128900,20,England,Defensive Midfield,DM,4000000.0,SSC Napoli,Italy,250000.0,1
+2015,Premier League,Chelsea FC,summer,out,Didier Drogba,3924,37,Cote d'Ivoire,Centre-Forward,CF,1000000.0,Montreal Impact,United States,0.0,0
+2015,Premier League,Chelsea FC,summer,out,Marco van Ginkel,147034,22,Netherlands,Central Midfield,CM,7500000.0,Stoke City,England,0.0,1
+2015,Premier League,Chelsea FC,summer,out,Danilo Pantic,222830,18,Serbia,Attacking Midfield,AM,1000000.0,Vitesse Arnhem,Netherlands,0.0,1
+2015,Premier League,Chelsea FC,summer,out,Kenneth Omeruo,131708,21,Nigeria,Centre-Back,CB,1000000.0,Kasimpasa,Türkiye,0.0,1
+2015,Premier League,Chelsea FC,summer,out,Andreas Christensen,196948,19,Denmark,Centre-Back,CB,1500000.0,Borussia Mönchengladbach,Germany,0.0,1
+2015,Premier League,Chelsea FC,summer,out,Michael Hector,157490,23,Jamaica,Centre-Back,CB,750000.0,Reading FC,England,0.0,1
+2015,Premier League,Chelsea FC,summer,out,Lewis Baker,198589,20,England,Central Midfield,CM,500000.0,Vitesse Arnhem,Netherlands,0.0,1
+2015,Premier League,Chelsea FC,summer,out,Marko Marin,35251,26,Germany,Attacking Midfield,AM,2500000.0,Trabzonspor,Türkiye,0.0,1
+2015,Premier League,Chelsea FC,summer,out,Victor Moses,59866,24,Nigeria,Right Winger,RW,7500000.0,West Ham United,England,0.0,1
+2015,Premier League,Chelsea FC,summer,out,Lucas Piazón,176485,21,Brazil,Defensive Midfield,DM,3000000.0,Reading FC,England,0.0,1
+2015,Premier League,Chelsea FC,summer,out,Nathan,294798,19,Brazil,Attacking Midfield,AM,3000000.0,Vitesse Arnhem,Netherlands,0.0,1
+2015,Premier League,Chelsea FC,summer,out,Nathan Aké,177476,20,Netherlands,Centre-Back,CB,2000000.0,Watford FC,England,0.0,1
+2015,Premier League,Chelsea FC,summer,out,Cristian Cuevas,186863,20,Chile,Left Winger,LW,1500000.0,Sint-Truidense VV,Belgium,0.0,1
+2015,Premier League,Chelsea FC,summer,out,Todd Kane,154287,21,England,Right-Back,RB,750000.0,NEC Nijmegen,Netherlands,0.0,1
+2015,Premier League,Chelsea FC,summer,out,Ulises Dávila,108820,24,Mexico,Attacking Midfield,AM,750000.0,Vitória Setúbal FC,Portugal,0.0,1
+2015,Premier League,Chelsea FC,summer,out,Matej Delac,60220,22,Croatia,Goalkeeper,GK,750000.0,FK Sarajevo,Bosnia-Herzegovina,0.0,1
+2015,Premier League,Chelsea FC,summer,out,Wallace Oliveira,181779,21,Brazil,Right-Back,RB,2000000.0,Carpi FC 1909,Italy,0.0,1
+2015,Premier League,Chelsea FC,summer,out,Patrick Bamford,183334,21,England,Centre-Forward,CF,5000000.0,Crystal Palace,England,0.0,1
+2015,Premier League,Chelsea FC,summer,out,Mario Pasalić,205938,20,Croatia,Central Midfield,CM,4000000.0,AS Monaco,France,0.0,1
+2015,Premier League,Chelsea FC,summer,out,Christian Atsu,186997,23,Ghana,Left Winger,LW,5000000.0,AFC Bournemouth,England,0.0,1
+2015,Premier League,Chelsea FC,winter,out,Ramires,54170,28,Brazil,Central Midfield,CM,25000000.0,Jiangsu Suning,China,28000000.0,0
+2015,Premier League,Chelsea FC,winter,out,Papy Djilobodji,136610,27,Senegal,Centre-Back,CB,5000000.0,SV Werder Bremen,Germany,400000.0,1
+2015,Premier League,Chelsea FC,winter,out,Ulises Dávila,108820,24,Mexico,Attacking Midfield,AM,750000.0,Santos Laguna,Mexico,0.0,0
+2015,Premier League,Chelsea FC,winter,out,Jamal Blackman,128898,22,England,Goalkeeper,GK,250000.0,Östersunds FK,Sweden,0.0,1
+2015,Premier League,Chelsea FC,winter,out,Wallace Oliveira,181779,21,Brazil,Right-Back,RB,1500000.0,Grêmio Foot-Ball Porto Alegrense,Brazil,0.0,1
+2015,Premier League,Chelsea FC,winter,out,Christian Atsu,186997,24,Ghana,Left Winger,LW,5000000.0,Málaga CF,Spain,0.0,1
+2015,Premier League,Chelsea FC,winter,out,Patrick Bamford,183334,22,England,Centre-Forward,CF,5000000.0,Norwich City,England,0.0,1
+2015,Premier League,Chelsea FC,winter,out,Marco van Ginkel,147034,23,Netherlands,Central Midfield,CM,7500000.0,PSV Eindhoven,Netherlands,0.0,1
+2015,Premier League,Crystal Palace,summer,in,Yohan Cabaye,29434,29,France,Central Midfield,CM,16000000.0,Paris Saint-Germain,France,13900000.0,0
+2015,Premier League,Crystal Palace,summer,in,Connor Wickham,95435,22,England,Centre-Forward,CF,5000000.0,Sunderland AFC,England,10000000.0,0
+2015,Premier League,Crystal Palace,summer,in,Alex McCarthy,95976,25,England,Goalkeeper,GK,2500000.0,Queens Park Rangers,England,4900000.0,0
+2015,Premier League,Crystal Palace,summer,in,Bakary Sako,46791,27,Mali,Left Winger,LW,4000000.0,Wolverhampton Wanderers,England,0.0,0
+2015,Premier League,Crystal Palace,summer,in,Kleton Perntreou,295073,20,Albania,Goalkeeper,GK,,Hibernian FC,Scotland,,0
+2015,Premier League,Crystal Palace,summer,in,Patrick Bamford,183334,21,England,Centre-Forward,CF,5000000.0,Chelsea FC,England,0.0,1
+2015,Premier League,Crystal Palace,winter,in,Freddie Ladapo,233998,23,England,Centre-Forward,CF,50000.0,Margate FC,England,,0
+2015,Premier League,Crystal Palace,winter,in,Emmanuel Adebayor,8883,31,Togo,Centre-Forward,CF,5000000.0,Without Club,,,0
+2015,Premier League,Crystal Palace,summer,out,Glenn Murray,45693,31,England,Centre-Forward,CF,2500000.0,AFC Bournemouth,England,5400000.0,0
+2015,Premier League,Crystal Palace,summer,out,Owen Garvan,33249,27,Ireland,Central Midfield,CM,1000000.0,Colchester United,England,0.0,0
+2015,Premier League,Crystal Palace,summer,out,Peter Ramage,28801,31,England,Centre-Back,CB,750000.0,Kerala Blasters FC,India,0.0,0
+2015,Premier League,Crystal Palace,summer,out,Lewis Price,13350,30,Wales,Goalkeeper,GK,250000.0,Sheffield Wednesday,England,0.0,0
+2015,Premier League,Crystal Palace,summer,out,Stephen Dobbie,12693,32,Scotland,Centre-Forward,CF,500000.0,Bolton Wanderers,England,0.0,0
+2015,Premier League,Crystal Palace,summer,out,Michael Chambers,244222,21,England,Centre-Back,CB,,Welling United,England,0.0,0
+2015,Premier League,Crystal Palace,summer,out,Barry Bannan,61561,25,Scotland,Central Midfield,CM,2500000.0,Sheffield Wednesday,England,0.0,0
+2015,Premier League,Crystal Palace,summer,out,Chris Kettings,177953,22,Scotland,Goalkeeper,GK,250000.0,Bromley FC,England,0.0,1
+2015,Premier League,Crystal Palace,summer,out,Patrick McCarthy,29974,32,Ireland,Centre-Back,CB,500000.0,Preston North End,England,0.0,1
+2015,Premier League,Crystal Palace,summer,out,Keshi Anderson,353674,20,England,Left Winger,LW,,Doncaster Rovers,England,0.0,1
+2015,Premier League,Crystal Palace,summer,out,Jonny Williams,170322,21,Wales,Attacking Midfield,AM,1000000.0,Nottingham Forest,England,0.0,1
+2015,Premier League,Crystal Palace,summer,out,Chris Kettings,177953,22,Scotland,Goalkeeper,GK,250000.0,Stevenage FC,England,0.0,1
+2015,Premier League,Crystal Palace,summer,out,Hiram Boateng,244125,19,England,Central Midfield,CM,,Plymouth Argyle,England,0.0,1
+2015,Premier League,Crystal Palace,summer,out,Jack Hunt,135038,24,England,Right-Back,RB,2500000.0,Sheffield Wednesday,England,0.0,1
+2015,Premier League,Crystal Palace,summer,out,Adlène Guédioura,74768,29,Algeria,Defensive Midfield,DM,1000000.0,Watford FC,England,,0
+2015,Premier League,Crystal Palace,summer,out,Ryan Inniss,183284,20,England,Centre-Back,CB,,Port Vale FC,England,0.0,1
+2015,Premier League,Crystal Palace,summer,out,Jerome Thomas,3560,32,England,Left Winger,LW,1000000.0,Without Club,,,0
+2015,Premier League,Crystal Palace,summer,out,Shola Ameobi,3276,33,Nigeria,Centre-Forward,CF,1000000.0,Without Club,,,0
+2015,Premier League,Crystal Palace,winter,out,Connor Dymond,261367,21,England,Defensive Midfield,DM,,Newport County,England,0.0,1
+2015,Premier League,Crystal Palace,winter,out,Jonny Williams,170322,22,Wales,Attacking Midfield,AM,1000000.0,Milton Keynes Dons,England,0.0,1
+2015,Premier League,Crystal Palace,winter,out,Hiram Boateng,244125,20,England,Central Midfield,CM,,Plymouth Argyle,England,0.0,1
+2015,Premier League,Crystal Palace,winter,out,Jack Hunt,135038,25,England,Right-Back,RB,2500000.0,Sheffield Wednesday,England,,0
+2015,Premier League,Crystal Palace,winter,out,Patrick Bamford,183334,22,England,Centre-Forward,CF,5000000.0,Chelsea FC,England,0.0,1
+2015,Premier League,Everton FC,summer,in,Ramiro Funes Mori,11111,24,Argentina,Centre-Back,CB,6000000.0,CA River Plate,Argentina,12200000.0,0
+2015,Premier League,Everton FC,summer,in,Gerard Deulofeu,129476,21,Spain,Centre-Forward,CF,6000000.0,FC Barcelona,Spain,6000000.0,0
+2015,Premier League,Everton FC,summer,in,Aaron Lennon,14221,28,England,Right Winger,RW,8500000.0,Tottenham Hotspur,England,6000000.0,0
+2015,Premier League,Everton FC,summer,in,Mason Holgate,348623,18,Jamaica,Centre-Back,CB,75000.0,Barnsley FC,England,1400000.0,0
+2015,Premier League,Everton FC,summer,in,Leandro Rodríguez,238988,22,Uruguay,Centre-Forward,CF,800000.0,CA River Plate Montevideo,Uruguay,700000.0,0
+2015,Premier League,Everton FC,summer,in,Tom Cleverley,73484,25,England,Central Midfield,CM,9000000.0,Manchester United,England,0.0,0
+2015,Premier League,Everton FC,summer,in,Felipe Mattioni,52432,27,Brazil,Right-Back,RB,500000.0,Without Club,,,0
+2015,Premier League,Everton FC,winter,in,Oumar Niasse,209781,25,Senegal,Centre-Forward,CF,10000000.0,Lokomotiv Moskau,Russia,17900000.0,0
+2015,Premier League,Everton FC,winter,in,Shani Tarashaj,184381,20,Switzerland,Second Striker,SS,2500000.0,Grasshopper Club Zurich,Switzerland,4000000.0,0
+2015,Premier League,Everton FC,summer,out,Sylvain Distin,3356,37,France,Centre-Back,CB,750000.0,AFC Bournemouth,England,0.0,0
+2015,Premier League,Everton FC,summer,out,John Lundstram,156941,21,England,Defensive Midfield,DM,500000.0,Oxford United,England,0.0,0
+2015,Premier League,Everton FC,summer,out,Antolín Alcaraz,14259,33,Paraguay,Centre-Back,CB,1000000.0,UD Las Palmas,Spain,0.0,0
+2015,Premier League,Everton FC,summer,out,Ben McLaughlin,203828,20,Ireland,Right-Back,RB,,Derry City,Ireland,0.0,0
+2015,Premier League,Everton FC,summer,out,Felipe Mattioni,52432,27,Brazil,Right-Back,RB,500000.0,Doncaster Rovers,England,0.0,1
+2015,Premier League,Everton FC,summer,out,Conor McAleny,121260,23,England,Centre-Forward,CF,250000.0,Charlton Athletic,England,0.0,1
+2015,Premier League,Everton FC,summer,out,Francisco Júnior,215840,23,Guinea-Bissau,Central Midfield,CM,250000.0,Wigan Athletic,England,0.0,1
+2015,Premier League,Everton FC,summer,out,Luke Garbutt,110860,22,England,Left-Back,LB,2000000.0,Fulham FC,England,0.0,1
+2015,Premier League,Everton FC,summer,out,Curtis Langton,242413,19,England,Centre-Back,CB,,Without Club,,,0
+2015,Premier League,Everton FC,summer,out,Christian Atsu,186997,23,Ghana,Left Winger,LW,5000000.0,Chelsea FC,England,0.0,1
+2015,Premier League,Everton FC,winter,out,Steven Naismith,12763,29,Scotland,Second Striker,SS,5000000.0,Norwich City,England,11000000.0,0
+2015,Premier League,Everton FC,winter,out,Shani Tarashaj,184381,20,Switzerland,Second Striker,SS,2500000.0,Grasshopper Club Zurich,Switzerland,0.0,1
+2015,Premier League,Everton FC,winter,out,Leandro Rodríguez,238988,23,Uruguay,Centre-Forward,CF,1500000.0,Brentford FC,England,0.0,1
+2015,Premier League,Everton FC,winter,out,Matthew Pennington,220755,21,England,Centre-Back,CB,,Walsall FC,England,0.0,1
+2015,Premier League,Everton FC,winter,out,Francisco Júnior,215840,24,Guinea-Bissau,Central Midfield,CM,250000.0,Strømsgodset IF,Norway,,0
+2015,Premier League,Everton FC,winter,out,Aiden McGeady,21333,29,Ireland,Left Winger,LW,4500000.0,Sheffield Wednesday,England,0.0,1
+2015,Premier League,Everton FC,winter,out,Conor McAleny,121260,23,England,Centre-Forward,CF,250000.0,Wigan Athletic,England,0.0,1
+2015,Premier League,Leicester City,summer,in,Shinji Okazaki,79642,29,Japan,Centre-Forward,CF,8000000.0,1.FSV Mainz 05,Germany,11000000.0,0
+2015,Premier League,Leicester City,summer,in,N'Golo Kanté,225083,24,France,Defensive Midfield,DM,4500000.0,SM Caen,France,9000000.0,0
+2015,Premier League,Leicester City,summer,in,Gökhan Inler,19041,31,Switzerland,Defensive Midfield,DM,7500000.0,SSC Napoli,Italy,7000000.0,0
+2015,Premier League,Leicester City,summer,in,Yohan Benalouane,50477,28,Tunisia,Centre-Back,CB,1300000.0,Atalanta BC,Italy,7000000.0,0
+2015,Premier League,Leicester City,summer,in,Robert Huth,2998,30,Germany,Centre-Back,CB,5000000.0,Stoke City,England,4200000.0,0
+2015,Premier League,Leicester City,summer,in,Christian Fuchs,6636,29,Austria,Left-Back,LB,3000000.0,FC Schalke 04,Germany,0.0,0
+2015,Premier League,Leicester City,summer,in,Nathan Dyer,37011,27,England,Right Winger,RW,4500000.0,Swansea City,England,0.0,1
+2015,Premier League,Leicester City,winter,in,Daniel Amartey,214056,21,Ghana,Centre-Back,CB,3000000.0,FC Copenhagen,Denmark,6600000.0,0
+2015,Premier League,Leicester City,winter,in,Demarai Gray,292417,19,Jamaica,Left Winger,LW,4000000.0,Birmingham City,England,5100000.0,0
+2015,Premier League,Leicester City,summer,out,David Nugent,33963,30,England,Centre-Forward,CF,2000000.0,Middlesbrough FC,England,5600000.0,0
+2015,Premier League,Leicester City,summer,out,Chris Wood,108725,23,New Zealand,Centre-Forward,CF,1000000.0,Leeds United,England,3600000.0,0
+2015,Premier League,Leicester City,summer,out,Adam Smith,163532,22,England,Goalkeeper,GK,250000.0,Northampton Town,England,0.0,0
+2015,Premier League,Leicester City,summer,out,Esteban Cambiasso,7520,34,Argentina,Defensive Midfield,DM,2000000.0,Olympiacos Piraeus,Greece,0.0,0
+2015,Premier League,Leicester City,summer,out,Matthew Upson,3273,36,England,Centre-Back,CB,500000.0,Milton Keynes Dons,England,0.0,0
+2015,Premier League,Leicester City,summer,out,Paul Gallagher,10501,30,Scotland,Central Midfield,CM,400000.0,Preston North End,England,0.0,0
+2015,Premier League,Leicester City,summer,out,Adam Dawson,134258,22,England,Right Winger,RW,,Kidderminster Harriers,England,0.0,0
+2015,Premier League,Leicester City,summer,out,Anthony Knockaert,149237,23,France,Right Winger,RW,2000000.0,Standard Liège,Belgium,0.0,0
+2015,Premier League,Leicester City,summer,out,Jacob Blyth,251914,23,England,Centre-Forward,CF,,Cambridge United,England,0.0,1
+2015,Premier League,Leicester City,summer,out,Tom Lawrence,229970,21,Wales,Attacking Midfield,AM,1000000.0,Blackburn Rovers,England,0.0,1
+2015,Premier League,Leicester City,summer,out,Ryan Watson,121269,22,England,Defensive Midfield,DM,,Northampton Town,England,0.0,1
+2015,Premier League,Leicester City,summer,out,Simonas Stankevicius,190514,19,Lithuania,Centre-Forward,CF,,Oldham Athletic,England,0.0,1
+2015,Premier League,Leicester City,summer,out,Ben Hamer,67283,27,England,Goalkeeper,GK,500000.0,Bristol City,England,0.0,1
+2015,Premier League,Leicester City,summer,out,Ben Hamer,67283,27,England,Goalkeeper,GK,500000.0,Nottingham Forest,England,0.0,1
+2015,Premier League,Leicester City,summer,out,Joe Davis,169096,21,England,Centre-Back,CB,250000.0,Fleetwood Town,England,0.0,1
+2015,Premier League,Leicester City,summer,out,Alie Sesay,272036,21,Sierra Leone,Centre-Back,CB,,Cambridge United,England,0.0,1
+2015,Premier League,Leicester City,summer,out,Dean Hammond,33065,32,England,Central Midfield,CM,500000.0,Sheffield United,England,0.0,1
+2015,Premier League,Leicester City,summer,out,Liam Moore,128906,22,Jamaica,Centre-Back,CB,2500000.0,Bristol City,England,0.0,1
+2015,Premier League,Leicester City,summer,out,Paul Konchesky,3296,34,England,Left-Back,LB,500000.0,Queens Park Rangers,England,0.0,1
+2015,Premier League,Leicester City,summer,out,Gary Taylor-Fletcher,49101,34,England,Right Winger,RW,500000.0,Without Club,,,0
+2015,Premier League,Leicester City,summer,out,Conrad Logan,27053,29,Ireland,Goalkeeper,GK,250000.0,Without Club,,,0
+2015,Premier League,Leicester City,summer,out,Zoumana Bakayogo,48411,28,Cote d'Ivoire,Left-Back,LB,250000.0,Without Club,,,0
+2015,Premier League,Leicester City,summer,out,Nathan Dyer,37011,28,England,Right Winger,RW,4000000.0,Swansea City,England,0.0,1
+2015,Premier League,Leicester City,winter,out,Yohan Benalouane,50477,28,Tunisia,Centre-Back,CB,3500000.0,ACF Fiorentina,Italy,250000.0,1
+2015,Premier League,Leicester City,winter,out,Alie Sesay,272036,21,Sierra Leone,Centre-Back,CB,,Barnet FC,England,0.0,0
+2015,Premier League,Leicester City,winter,out,Ben Chilwell,316125,18,England,Left-Back,LB,,Huddersfield Town,England,0.0,1
+2015,Premier League,Leicester City,winter,out,Andrej Kramaric,46580,24,Croatia,Attacking Midfield,AM,8000000.0,TSG 1899 Hoffenheim,Germany,0.0,1
+2015,Premier League,Leicester City,winter,out,Jacob Blyth,251914,23,England,Centre-Forward,CF,100000.0,Blackpool FC,England,0.0,1
+2015,Premier League,Leicester City,winter,out,Joe Davis,169096,22,England,Centre-Back,CB,250000.0,Fleetwood Town,England,,0
+2015,Premier League,Leicester City,winter,out,Simonas Stankevicius,190514,20,Lithuania,Centre-Forward,CF,,FK Žalgiris Vilnius,Lithuania,,0
+2015,Premier League,Leicester City,winter,out,Tom Lawrence,229970,22,Wales,Attacking Midfield,AM,1000000.0,Cardiff City,England,0.0,1
+2015,Premier League,Leicester City,winter,out,Ritchie De Laet,55687,27,Belgium,Right-Back,RB,2500000.0,Middlesbrough FC,England,0.0,1
+2015,Premier League,Liverpool FC,summer,in,Christian Benteke,50201,24,Belgium,Centre-Forward,CF,20000000.0,Aston Villa,England,46500000.0,0
+2015,Premier League,Liverpool FC,summer,in,Roberto Firmino,131789,23,Brazil,Centre-Forward,CF,25000000.0,TSG 1899 Hoffenheim,Germany,41000000.0,0
+2015,Premier League,Liverpool FC,summer,in,Nathaniel Clyne,85177,24,England,Right-Back,RB,17000000.0,Southampton FC,England,17700000.0,0
+2015,Premier League,Liverpool FC,summer,in,Danny Ings,134294,22,England,Centre-Forward,CF,12000000.0,Burnley FC,England,8300000.000000001,0
+2015,Premier League,Liverpool FC,summer,in,Joe Gomez,256178,18,England,Centre-Back,CB,2500000.0,Charlton Athletic,England,4900000.0,0
+2015,Premier League,Liverpool FC,summer,in,Taiwo Awoniyi,295313,18,Nigeria,Centre-Forward,CF,,Imperial Academy,Nigeria,1100000.0,0
+2015,Premier League,Liverpool FC,summer,in,Ádám Bogdán,55247,27,Hungary,Goalkeeper,GK,2000000.0,Bolton Wanderers,England,0.0,0
+2015,Premier League,Liverpool FC,summer,in,James Milner,3333,29,England,Central Midfield,CM,14000000.0,Manchester City,England,0.0,0
+2015,Premier League,Liverpool FC,winter,in,Marko Grujić,222813,19,Serbia,Defensive Midfield,DM,3000000.0,Red Star Belgrade,Serbia,7000000.0,0
+2015,Premier League,Liverpool FC,winter,in,Steven Caulker,121280,24,Sierra Leone,Centre-Back,CB,7500000.0,Queens Park Rangers,England,0.0,1
+2015,Premier League,Liverpool FC,summer,out,Raheem Sterling,134425,20,England,Right Winger,RW,40000000.0,Manchester City,England,63700000.0,0
+2015,Premier League,Liverpool FC,summer,out,Fabio Borini,96754,24,Italy,Centre-Forward,CF,7000000.0,Sunderland AFC,England,10700000.0,0
+2015,Premier League,Liverpool FC,summer,out,Iago Aspas,72047,27,Spain,Centre-Forward,CF,4000000.0,Sevilla FC,Spain,6000000.0,0
+2015,Premier League,Liverpool FC,summer,out,Rickie Lambert,49655,33,England,Centre-Forward,CF,3000000.0,West Bromwich Albion,England,4200000.0,0
+2015,Premier League,Liverpool FC,summer,out,Sebastián Coates,102427,24,Uruguay,Centre-Back,CB,2500000.0,Sunderland AFC,England,2800000.0,0
+2015,Premier League,Liverpool FC,summer,out,Andre Wisdom,128912,22,England,Right-Back,RB,5000000.0,Norwich City,England,1800000.0,1
+2015,Premier League,Liverpool FC,summer,out,Tiago Ilori,177859,22,Portugal,Centre-Back,CB,4000000.0,Aston Villa,England,350000.0,1
+2015,Premier League,Liverpool FC,summer,out,Rafa Páez,268258,20,Spain,Centre-Back,CB,500000.0,AD Alcorcón,Spain,0.0,0
+2015,Premier League,Liverpool FC,summer,out,Brad Jones,4042,33,Australia,Goalkeeper,GK,1000000.0,Bradford City,England,0.0,0
+2015,Premier League,Liverpool FC,summer,out,Glen Johnson,3881,30,England,Right-Back,RB,7000000.0,Stoke City,England,0.0,0
+2015,Premier League,Liverpool FC,summer,out,Steven Gerrard,3109,35,England,Central Midfield,CM,4000000.0,Los Angeles Galaxy,United States,0.0,0
+2015,Premier League,Liverpool FC,summer,out,Taiwo Awoniyi,295313,18,Nigeria,Centre-Forward,CF,,FSV Frankfurt,Germany,0.0,1
+2015,Premier League,Liverpool FC,summer,out,Samed Yesil,95295,21,Germany,Centre-Forward,CF,1300000.0,FC Luzern,Switzerland,0.0,1
+2015,Premier League,Liverpool FC,summer,out,Luis Alberto,128220,22,Spain,Attacking Midfield,AM,2500000.0,Deportivo de La Coruña,Spain,0.0,1
+2015,Premier League,Liverpool FC,summer,out,Kevin Stewart,200782,21,Jamaica,Defensive Midfield,DM,50000.0,Swindon Town,England,0.0,1
+2015,Premier League,Liverpool FC,summer,out,Sheyi Ojo,236510,18,England,Right Winger,RW,500000.0,Wolverhampton Wanderers,England,0.0,1
+2015,Premier League,Liverpool FC,summer,out,Mario Balotelli,45146,25,Italy,Centre-Forward,CF,11000000.0,AC Milan,Italy,0.0,1
+2015,Premier League,Liverpool FC,summer,out,Lazar Markovic,144303,21,Serbia,Right Winger,RW,15000000.0,Fenerbahce,Türkiye,0.0,1
+2015,Premier League,Liverpool FC,summer,out,Lawrence Vigouroux,243591,21,Chile,Goalkeeper,GK,,Swindon Town,England,0.0,1
+2015,Premier League,Liverpool FC,summer,out,Danny Ward,203026,22,Wales,Goalkeeper,GK,250000.0,Aberdeen FC,Scotland,0.0,1
+2015,Premier League,Liverpool FC,summer,out,José Enrique,35571,30,Spain,Left-Back,LB,1500000.0,Without Club,,,0
+2015,Premier League,Liverpool FC,summer,out,Javier Manquillo,162029,21,Spain,Right-Back,RB,6000000.0,Atlético de Madrid,Spain,0.0,1
+2015,Premier League,Liverpool FC,summer,out,Steven Caulker,121280,24,Sierra Leone,Centre-Back,CB,7500000.0,Queens Park Rangers,England,0.0,1
+2015,Premier League,Liverpool FC,winter,out,Marko Grujić,222813,19,Serbia,Defensive Midfield,DM,3000000.0,Red Star Belgrade,Serbia,1000000.0,1
+2015,Premier League,Manchester City,summer,in,Kevin De Bruyne,88755,24,Belgium,Attacking Midfield,AM,45000000.0,VfL Wolfsburg,Germany,76000000.0,0
+2015,Premier League,Manchester City,summer,in,Raheem Sterling,134425,20,England,Right Winger,RW,40000000.0,Liverpool FC,England,63700000.0,0
+2015,Premier League,Manchester City,summer,in,Nicolás Otamendi,54781,27,Argentina,Centre-Back,CB,25000000.0,Valencia CF,Spain,44500000.0,0
+2015,Premier League,Manchester City,summer,in,Fabian Delph,50362,25,England,Central Midfield,CM,10000000.0,Aston Villa,England,11500000.0,0
+2015,Premier League,Manchester City,summer,in,Patrick Roberts,225452,18,England,Right Winger,RW,2500000.0,Fulham FC,England,7200000.0,0
+2015,Premier League,Manchester City,summer,in,Enes Ünal,251106,18,Türkiye,Centre-Forward,CF,3200000.0,Bursaspor,Türkiye,4400000.0,0
+2015,Premier League,Manchester City,summer,in,Rubén Sobrino,85383,23,Spain,Centre-Forward,CF,500000.0,SD Ponferradina,Spain,550000.0,0
+2015,Premier League,Manchester City,summer,in,Florian Lejeune,127108,24,France,Centre-Back,CB,800000.0,Girona FC,Spain,300000.0,0
+2015,Premier League,Manchester City,summer,in,Luke Brattan,114365,25,Australia,Defensive Midfield,DM,500000.0,Brisbane Roar,Australia,0.0,0
+2015,Premier League,Manchester City,winter,in,Anthony Cáceres,226739,23,Australia,Attacking Midfield,AM,350000.0,Central Coast Mariners,Australia,320000.0,0
+2015,Premier League,Manchester City,summer,out,Álvaro Negredo,18644,29,Spain,Centre-Forward,CF,18000000.0,Valencia CF,Spain,28000000.0,0
+2015,Premier League,Manchester City,summer,out,Rony Lopes,174694,19,Portugal,Right Winger,RW,4500000.0,AS Monaco,France,12000000.0,0
+2015,Premier League,Manchester City,summer,out,Matija Nastasić,143559,22,Serbia,Centre-Back,CB,14000000.0,FC Schalke 04,Germany,9500000.0,0
+2015,Premier League,Manchester City,summer,out,Karim Rekik,182579,20,Netherlands,Centre-Back,CB,4000000.0,Olympique Marseille,France,5000000.0,0
+2015,Premier League,Manchester City,summer,out,Edin Džeko,28396,29,Bosnia-Herzegovina,Centre-Forward,CF,20000000.0,AS Roma,Italy,4000000.0,1
+2015,Premier League,Manchester City,summer,out,Scott Sinclair,31552,26,England,Left Winger,LW,3500000.0,Aston Villa,England,3500000.0,0
+2015,Premier League,Manchester City,summer,out,Stevan Jovetić,46104,25,Montenegro,Second Striker,SS,15000000.0,Inter Milan,Italy,2500000.0,1
+2015,Premier League,Manchester City,summer,out,Dedryck Boyata,88262,24,Belgium,Centre-Back,CB,1000000.0,Celtic FC,Scotland,2000000.0,0
+2015,Premier League,Manchester City,summer,out,José Pozo,195605,19,Spain,Attacking Midfield,AM,500000.0,UD Almería,Spain,500000.0,0
+2015,Premier League,Manchester City,summer,out,Jason Denayer,277114,20,Belgium,Centre-Back,CB,3000000.0,Galatasaray,Türkiye,436000.0,1
+2015,Premier League,Manchester City,summer,out,Micah Richards,32617,27,England,Right-Back,RB,5500000.0,Aston Villa,England,0.0,0
+2015,Premier League,Manchester City,summer,out,John Guidetti,98596,23,Sweden,Centre-Forward,CF,3500000.0,Celta de Vigo,Spain,0.0,0
+2015,Premier League,Manchester City,summer,out,James Milner,3333,29,England,Central Midfield,CM,14000000.0,Liverpool FC,England,0.0,0
+2015,Premier League,Manchester City,summer,out,Adam Drury,186292,21,England,Right-Back,RB,50000.0,Bristol Rovers,England,0.0,0
+2015,Premier League,Manchester City,summer,out,Luke Brattan,114365,25,Australia,Defensive Midfield,DM,500000.0,Bolton Wanderers,England,0.0,1
+2015,Premier League,Manchester City,summer,out,Bruno Zuculini,115507,22,Argentina,Defensive Midfield,DM,1500000.0,Middlesbrough FC,England,0.0,1
+2015,Premier League,Manchester City,summer,out,Rubén Sobrino,85383,23,Spain,Centre-Forward,CF,500000.0,Girona FC,Spain,0.0,1
+2015,Premier League,Manchester City,summer,out,Florian Lejeune,127108,24,France,Centre-Back,CB,800000.0,Girona FC,Spain,0.0,1
+2015,Premier League,Manchester City,summer,out,Thomas Agyepong,384807,18,Ghana,Left Winger,LW,,Twente Enschede FC,Netherlands,0.0,1
+2015,Premier League,Manchester City,summer,out,Enes Ünal,251106,18,Türkiye,Centre-Forward,CF,3200000.0,KRC Genk,Belgium,0.0,1
+2015,Premier League,Manchester City,summer,out,Frank Lampard,3163,37,England,Central Midfield,CM,1000000.0,New York City FC,United States,0.0,1
+2015,Premier League,Manchester City,winter,out,Bruno Zuculini,115507,22,Argentina,Defensive Midfield,DM,1500000.0,AEK Athens,Greece,0.0,1
+2015,Premier League,Manchester City,winter,out,Anthony Cáceres,226739,23,Australia,Attacking Midfield,AM,350000.0,Melbourne City FC,Australia,0.0,1
+2015,Premier League,Manchester City,winter,out,Enes Ünal,251106,18,Türkiye,Centre-Forward,CF,3200000.0,NAC Breda,Netherlands,0.0,1
+2015,Premier League,Manchester City,winter,out,Patrick Roberts,225452,18,England,Right Winger,RW,5000000.0,Celtic FC,Scotland,0.0,1
+2015,Premier League,Manchester United,summer,in,Anthony Martial,182877,19,France,Centre-Forward,CF,8000000.0,AS Monaco,France,60000000.0,0
+2015,Premier League,Manchester United,summer,in,Morgan Schneiderlin,56818,25,France,Defensive Midfield,DM,28000000.0,Southampton FC,England,35000000.0,0
+2015,Premier League,Manchester United,summer,in,Memphis Depay,167850,21,Netherlands,Centre-Forward,CF,28000000.0,PSV Eindhoven,Netherlands,34000000.0,0
+2015,Premier League,Manchester United,summer,in,Matteo Darmian,54906,25,Italy,Right-Back,RB,12000000.0,Torino FC,Italy,18000000.0,0
+2015,Premier League,Manchester United,summer,in,Bastian Schweinsteiger,2514,30,Germany,Central Midfield,CM,22000000.0,Bayern Munich,Germany,9000000.0,0
+2015,Premier League,Manchester United,summer,in,Sergio Romero,30690,28,Argentina,Goalkeeper,GK,5000000.0,UC Sampdoria,Italy,0.0,0
+2015,Premier League,Manchester United,summer,out,Ángel Di María,45320,27,Argentina,Right Winger,RW,50000000.0,Paris Saint-Germain,France,63000000.0,0
+2015,Premier League,Manchester United,summer,out,Chicharito,50935,27,Mexico,Centre-Forward,CF,10000000.0,Bayer 04 Leverkusen,Germany,12000000.0,0
+2015,Premier League,Manchester United,summer,out,Jonny Evans,42412,27,Northern Ireland,Centre-Back,CB,6000000.0,West Bromwich Albion,England,8300000.000000001,0
+2015,Premier League,Manchester United,summer,out,Robin van Persie,4380,31,Netherlands,Centre-Forward,CF,15000000.0,Fenerbahce,Türkiye,6500000.0,0
+2015,Premier League,Manchester United,summer,out,Nani,33706,28,Portugal,Left Winger,LW,15000000.0,Fenerbahce,Türkiye,6000000.0,0
+2015,Premier League,Manchester United,summer,out,Rafael,61892,25,Brazil,Right-Back,RB,10000000.0,Olympique Lyon,France,3200000.0,0
+2015,Premier League,Manchester United,summer,out,Ángelo Henríquez,189740,21,Chile,Centre-Forward,CF,3500000.0,GNK Dinamo Zagreb,Croatia,1670000.0,0
+2015,Premier League,Manchester United,summer,out,Tom Thorpe,128911,22,England,Centre-Back,CB,200000.0,Rotherham United,England,0.0,0
+2015,Premier League,Manchester United,summer,out,Anders Lindegaard,22491,31,Denmark,Goalkeeper,GK,1500000.0,West Bromwich Albion,England,0.0,0
+2015,Premier League,Manchester United,summer,out,Tom Cleverley,73484,25,England,Central Midfield,CM,9000000.0,Everton FC,England,0.0,0
+2015,Premier League,Manchester United,summer,out,Ben Amos,73472,25,England,Goalkeeper,GK,750000.0,Bolton Wanderers,England,0.0,0
+2015,Premier League,Manchester United,summer,out,Adnan Januzaj,177847,20,Belgium,Right Winger,RW,8000000.0,Borussia Dortmund,Germany,0.0,1
+2015,Premier League,Manchester United,summer,out,Tyler Blackett,134414,21,England,Centre-Back,CB,1000000.0,Celtic FC,Scotland,0.0,1
+2015,Premier League,Manchester United,summer,out,Will Keane,118535,22,Ireland,Centre-Forward,CF,300000.0,Preston North End,England,0.0,1
+2015,Premier League,Manchester United,summer,out,Radamel Falcao,39152,29,Colombia,Centre-Forward,CF,45000000.0,AS Monaco,France,0.0,1
+2015,Premier League,Manchester United,winter,out,Vanja Milinković-Savić,257474,18,Serbia,Goalkeeper,GK,750000.0,Lechia Gdansk,Poland,0.0,0
+2015,Premier League,Manchester United,winter,out,Sam Johnstone,110864,22,England,Goalkeeper,GK,250000.0,Preston North End,England,0.0,1
+2015,Premier League,Manchester United,winter,out,James Wilson,214104,19,England,Centre-Forward,CF,2000000.0,Brighton & Hove Albion,England,0.0,1
+2015,Premier League,Manchester United,winter,out,Víctor Valdés,7589,34,Spain,Goalkeeper,GK,5000000.0,Standard Liège,Belgium,0.0,1
+2015,Premier League,Manchester United,winter,out,Nick Powell,134424,21,England,Attacking Midfield,AM,2000000.0,Hull City,England,0.0,1
+2015,Premier League,Newcastle United,summer,in,Georginio Wijnaldum,49499,24,Netherlands,Central Midfield,CM,15000000.0,PSV Eindhoven,Netherlands,20000000.0,0
+2015,Premier League,Newcastle United,summer,in,Aleksandar Mitrović,51152,20,Serbia,Centre-Forward,CF,11000000.0,RSC Anderlecht,Belgium,18500000.0,0
+2015,Premier League,Newcastle United,summer,in,Florian Thauvin,184892,22,France,Second Striker,SS,12000000.0,Olympique Marseille,France,18350000.0,0
+2015,Premier League,Newcastle United,summer,in,Chancel Mbemba,203348,20,DR Congo,Centre-Back,CB,8000000.0,RSC Anderlecht,Belgium,12000000.0,0
+2015,Premier League,Newcastle United,summer,in,Ivan Toney,251664,19,England,Centre-Forward,CF,150000.0,Northampton Town,England,360000.0,0
+2015,Premier League,Newcastle United,winter,in,Jonjo Shelvey,71292,23,England,Central Midfield,CM,12000000.0,Swansea City,England,16000000.0,0
+2015,Premier League,Newcastle United,winter,in,Andros Townsend,61842,24,England,Right Winger,RW,8000000.0,Tottenham Hotspur,England,15700000.0,0
+2015,Premier League,Newcastle United,winter,in,Henri Saivet,51540,25,Senegal,Attacking Midfield,AM,2500000.0,FC Girondins Bordeaux,France,6000000.0,0
+2015,Premier League,Newcastle United,winter,in,Seydou Doumbia,75287,28,Cote d'Ivoire,Centre-Forward,CF,15000000.0,AS Roma,Italy,1000000.0,1
+2015,Premier League,Newcastle United,summer,out,Davide Santon,84344,24,Italy,Left-Back,LB,7000000.0,Inter Milan,Italy,3700000.0,0
+2015,Premier League,Newcastle United,summer,out,Mehdi Abeid,111036,23,Algeria,Central Midfield,CM,2000000.0,Panathinaikos FC,Greece,600000.0,0
+2015,Premier League,Newcastle United,summer,out,Rémy Cabella,113707,25,France,Attacking Midfield,AM,9000000.0,Olympique Marseille,France,600000.0,1
+2015,Premier League,Newcastle United,summer,out,Adam Campbell,204354,20,England,Left Winger,LW,250000.0,Notts County,England,0.0,0
+2015,Premier League,Newcastle United,summer,out,Jak Alnwick,128895,22,England,Goalkeeper,GK,250000.0,Port Vale FC,England,0.0,0
+2015,Premier League,Newcastle United,summer,out,Ryan Taylor,33785,30,England,Right-Back,RB,1000000.0,Hull City,England,0.0,0
+2015,Premier League,Newcastle United,summer,out,Jonás Gutiérrez,26443,32,Argentina,Left Midfield,LM,1500000.0,Deportivo de La Coruña,Spain,0.0,0
+2015,Premier League,Newcastle United,summer,out,Mike Williamson,10642,31,England,Centre-Back,CB,2500000.0,Wolverhampton Wanderers,England,0.0,1
+2015,Premier League,Newcastle United,summer,out,Freddie Woodman,226049,18,England,Goalkeeper,GK,250000.0,Crawley Town,England,0.0,1
+2015,Premier League,Newcastle United,summer,out,Shane Ferguson,62052,24,Northern Ireland,Left Midfield,LM,1000000.0,Millwall FC,England,0.0,1
+2015,Premier League,Newcastle United,summer,out,Haris Vuckic,76560,23,Slovenia,Second Striker,SS,1000000.0,Wigan Athletic,England,0.0,1
+2015,Premier League,Newcastle United,summer,out,Adam Armstrong,250426,18,England,Centre-Forward,CF,750000.0,Coventry City,England,0.0,1
+2015,Premier League,Newcastle United,summer,out,Sammy Ameobi,92381,23,England,Left Winger,LW,5000000.0,Cardiff City,England,0.0,1
+2015,Premier League,Newcastle United,summer,out,Sylvain Marveaux,39909,30,France,Attacking Midfield,AM,1500000.0,Without Club,,,0
+2015,Premier League,Newcastle United,summer,out,Gabriel Obertan,43261,27,France,Right Winger,RW,1000000.0,Without Club,,,0
+2015,Premier League,Newcastle United,summer,out,Facundo Ferreyra,93795,24,Argentina,Centre-Forward,CF,4000000.0,Shakhtar Donetsk,Ukraine,0.0,1
+2015,Premier League,Newcastle United,winter,out,Mike Williamson,10642,32,England,Centre-Back,CB,2500000.0,Wolverhampton Wanderers,England,330000.0,0
+2015,Premier League,Newcastle United,winter,out,Shane Ferguson,62052,24,Northern Ireland,Left Midfield,LM,1000000.0,Millwall FC,England,200000.0,0
+2015,Premier League,Newcastle United,winter,out,Ivan Toney,251664,19,England,Centre-Forward,CF,500000.0,Barnsley FC,England,0.0,1
+2015,Premier League,Newcastle United,winter,out,Gaël Bigirimana,158697,22,Burundi,Defensive Midfield,DM,1000000.0,Coventry City,England,0.0,1
+2015,Premier League,Newcastle United,winter,out,Lubomir Satka,168408,20,Slovakia,Centre-Back,CB,,York City,England,0.0,1
+2015,Premier League,Newcastle United,winter,out,Florian Thauvin,184892,23,France,Second Striker,SS,14000000.0,Olympique Marseille,France,0.0,1
+2015,Premier League,Newcastle United,winter,out,Ivan Toney,251664,20,England,Centre-Forward,CF,500000.0,Barnsley FC,England,0.0,1
+2015,Premier League,Norwich City,summer,in,Robbie Brady,128229,23,Ireland,Left Midfield,LM,2000000.0,Hull City,England,9900000.0,0
+2015,Premier League,Norwich City,summer,in,Graham Dorrans,36608,28,Scotland,Central Midfield,CM,2000000.0,West Bromwich Albion,England,4099999.9999999995,0
+2015,Premier League,Norwich City,summer,in,Andre Wisdom,128912,22,England,Right-Back,RB,5000000.0,Liverpool FC,England,1800000.0,1
+2015,Premier League,Norwich City,summer,in,Jake Kean,121388,24,England,Goalkeeper,GK,750000.0,Blackburn Rovers,England,0.0,0
+2015,Premier League,Norwich City,summer,in,Youssouf Mulumbu,45272,28,DR Congo,Defensive Midfield,DM,3500000.0,West Bromwich Albion,England,0.0,0
+2015,Premier League,Norwich City,summer,in,Matt Jarvis,15921,29,England,Left Winger,LW,3000000.0,West Ham United,England,0.0,1
+2015,Premier League,Norwich City,summer,in,Dieumerci Mbokani,44624,29,DR Congo,Centre-Forward,CF,8500000.0,Dynamo Kyiv,Ukraine,0.0,1
+2015,Premier League,Norwich City,winter,in,Steven Naismith,12763,29,Scotland,Second Striker,SS,5000000.0,Everton FC,England,11000000.0,0
+2015,Premier League,Norwich City,winter,in,Timm Klose,65255,27,Switzerland,Centre-Back,CB,3000000.0,VfL Wolfsburg,Germany,11000000.0,0
+2015,Premier League,Norwich City,winter,in,Ivo Pinto,82281,26,Portugal,Right-Back,RB,4000000.0,GNK Dinamo Zagreb,Croatia,3700000.0,0
+2015,Premier League,Norwich City,winter,in,Matt Jarvis,15921,29,England,Left Winger,LW,3000000.0,West Ham United,England,3400000.0,0
+2015,Premier League,Norwich City,winter,in,Ben Godfrey,343475,18,England,Centre-Back,CB,,York City,England,2950000.0,0
+2015,Premier League,Norwich City,winter,in,James Maddison,294057,19,England,Attacking Midfield,AM,500000.0,Coventry City,England,2650000.0,0
+2015,Premier League,Norwich City,winter,in,Ebou Adams,323652,20,The Gambia,Central Midfield,CM,,Dartford FC,England,,0
+2015,Premier League,Norwich City,winter,in,Patrick Bamford,183334,22,England,Centre-Forward,CF,5000000.0,Chelsea FC,England,0.0,1
+2015,Premier League,Norwich City,summer,out,Bradley Johnson,49327,28,England,Central Midfield,CM,4000000.0,Derby County,England,8100000.0,0
+2015,Premier League,Norwich City,summer,out,Cameron McGeehan,167265,20,Northern Ireland,Central Midfield,CM,,Luton Town,England,140000.0,0
+2015,Premier League,Norwich City,summer,out,Carlos Cuéllar,16576,33,Spain,Centre-Back,CB,1000000.0,UD Almería,Spain,0.0,0
+2015,Premier League,Norwich City,summer,out,Ignasi Miquel,70245,22,Spain,Centre-Back,CB,1000000.0,SD Ponferradina,Spain,0.0,0
+2015,Premier League,Norwich City,summer,out,Mark Bunn,49319,30,England,Goalkeeper,GK,750000.0,Aston Villa,England,0.0,0
+2015,Premier League,Norwich City,summer,out,Javier Garrido,23218,30,Spain,Left-Back,LB,1500000.0,UD Las Palmas,Spain,0.0,0
+2015,Premier League,Norwich City,summer,out,Gary Hooper,42513,27,England,Centre-Forward,CF,4000000.0,Sheffield Wednesday,England,0.0,1
+2015,Premier League,Norwich City,summer,out,Remi Matthews,196722,21,England,Goalkeeper,GK,,Burton Albion,England,0.0,1
+2015,Premier League,Norwich City,summer,out,Jacob Murphy,199527,20,England,Right Winger,RW,200000.0,Coventry City,England,0.0,1
+2015,Premier League,Norwich City,summer,out,Elliott Bennett,43193,26,Jamaica,Right Midfield,RM,1000000.0,Bristol City,England,0.0,1
+2015,Premier League,Norwich City,summer,out,Jamar Loza,203464,21,Jamaica,Centre-Forward,CF,250000.0,Stevenage FC,England,0.0,1
+2015,Premier League,Norwich City,summer,out,Vadis Odjidja-Ofoe,38388,26,Belgium,Central Midfield,CM,4500000.0,Rotherham United,England,0.0,1
+2015,Premier League,Norwich City,summer,out,Tony Andreu,87789,27,France,Central Midfield,CM,500000.0,Rotherham United,England,0.0,1
+2015,Premier League,Norwich City,summer,out,Louis Thompson,207771,20,Wales,Central Midfield,CM,500000.0,Swindon Town,England,0.0,1
+2015,Premier League,Norwich City,summer,out,Michael Turner,12127,31,England,Centre-Back,CB,2000000.0,Sheffield Wednesday,England,0.0,1
+2015,Premier League,Norwich City,summer,out,Josh Murphy,199528,20,England,Left Winger,LW,1000000.0,Milton Keynes Dons,England,0.0,1
+2015,Premier League,Norwich City,summer,out,Ricky van Wolfswinkel,41355,26,Netherlands,Centre-Forward,CF,5000000.0,Real Betis Balompié,Spain,0.0,1
+2015,Premier League,Norwich City,summer,out,Andre Wisdom,128912,23,England,Right-Back,RB,4000000.0,Liverpool FC,England,0.0,1
+2015,Premier League,Norwich City,summer,out,Patrick Bamford,183334,22,England,Centre-Forward,CF,5000000.0,Chelsea FC,England,0.0,1
+2015,Premier League,Norwich City,winter,out,Lewis Grabban,35413,27,Jamaica,Centre-Forward,CF,3000000.0,AFC Bournemouth,England,9350000.0,0
+2015,Premier League,Norwich City,winter,out,Gary Hooper,42513,27,England,Centre-Forward,CF,4000000.0,Sheffield Wednesday,England,3900000.0,0
+2015,Premier League,Norwich City,winter,out,Jake Kean,121388,24,England,Goalkeeper,GK,750000.0,Colchester United,England,0.0,1
+2015,Premier League,Norwich City,winter,out,Jamar Loza,203464,21,Jamaica,Centre-Forward,CF,250000.0,Southend United,England,0.0,1
+2015,Premier League,Norwich City,winter,out,James Maddison,294057,19,England,Attacking Midfield,AM,500000.0,Coventry City,England,0.0,1
+2015,Premier League,Norwich City,winter,out,Remi Matthews,196722,22,England,Goalkeeper,GK,100000.0,Doncaster Rovers,England,0.0,1
+2015,Premier League,Norwich City,winter,out,Kyle Lafferty,36884,28,Northern Ireland,Centre-Forward,CF,2000000.0,Birmingham City,England,0.0,1
+2015,Premier League,Norwich City,winter,out,Jake Kean,121388,25,England,Goalkeeper,GK,750000.0,Swindon Town,England,0.0,1
+2015,Premier League,Norwich City,winter,out,Elliott Bennett,43193,27,Jamaica,Right Midfield,RM,1000000.0,Blackburn Rovers,England,,0
+2015,Premier League,Norwich City,winter,out,Conor McGrandles,203127,20,Scotland,Central Midfield,CM,250000.0,Falkirk FC,Scotland,0.0,1
+2015,Premier League,Norwich City,winter,out,Matt Jarvis,15921,29,England,Left Winger,LW,3000000.0,West Ham United,England,0.0,1
+2015,Premier League,Southampton FC,summer,in,Virgil van Dijk,139208,24,Netherlands,Centre-Back,CB,5000000.0,Celtic FC,Scotland,15700000.0,0
+2015,Premier League,Southampton FC,summer,in,Jordy Clasie,104223,24,Netherlands,Defensive Midfield,DM,10000000.0,Feyenoord Rotterdam,Netherlands,15000000.0,0
+2015,Premier League,Southampton FC,summer,in,Juanmi,126737,22,Spain,Left Winger,LW,7000000.0,Málaga CF,Spain,7000000.0,0
+2015,Premier League,Southampton FC,summer,in,Cédric Soares,112988,23,Portugal,Right-Back,RB,9500000.0,Sporting CP,Portugal,7000000.0,0
+2015,Premier League,Southampton FC,summer,in,Oriol Romeu,66100,23,Spain,Defensive Midfield,DM,2500000.0,Chelsea FC,England,7000000.0,0
+2015,Premier League,Southampton FC,summer,in,Steven Caulker,121280,23,Sierra Leone,Centre-Back,CB,7500000.0,Queens Park Rangers,England,1700000.0,1
+2015,Premier League,Southampton FC,summer,in,Cuco Martina,91251,25,Curacao,Centre-Back,CB,1250000.0,Twente Enschede FC,Netherlands,1500000.0,0
+2015,Premier League,Southampton FC,summer,in,Maarten Stekelenburg,4311,32,Netherlands,Goalkeeper,GK,1000000.0,Fulham FC,England,0.0,1
+2015,Premier League,Southampton FC,winter,in,Charlie Austin,129627,26,England,Centre-Forward,CF,13000000.0,Queens Park Rangers,England,5200000.0,0
+2015,Premier League,Southampton FC,summer,out,Morgan Schneiderlin,56818,25,France,Defensive Midfield,DM,28000000.0,Manchester United,England,35000000.0,0
+2015,Premier League,Southampton FC,summer,out,Nathaniel Clyne,85177,24,England,Right-Back,RB,17000000.0,Liverpool FC,England,17700000.0,0
+2015,Premier League,Southampton FC,summer,out,Emmanuel Mayuka,55709,24,Zambia,Centre-Forward,CF,1500000.0,FC Metz,France,0.0,0
+2015,Premier League,Southampton FC,summer,out,Jos Hooiveld,4624,32,Netherlands,Centre-Back,CB,1500000.0,AIK,Sweden,0.0,0
+2015,Premier League,Southampton FC,summer,out,Artur Boruc,15220,35,Poland,Goalkeeper,GK,1000000.0,AFC Bournemouth,England,0.0,0
+2015,Premier League,Southampton FC,summer,out,Daniel Osvaldo,37389,29,Italy,Centre-Forward,CF,8000000.0,FC Porto,Portugal,0.0,0
+2015,Premier League,Southampton FC,summer,out,Lloyd Isgrove,226965,22,Wales,Right Winger,RW,250000.0,Barnsley FC,England,0.0,1
+2015,Premier League,Southampton FC,summer,out,Sam Gallagher,227183,19,England,Centre-Forward,CF,500000.0,Milton Keynes Dons,England,0.0,1
+2015,Premier League,Southampton FC,summer,out,Jack Stephens,163744,21,England,Centre-Back,CB,250000.0,Middlesbrough FC,England,0.0,1
+2015,Premier League,Southampton FC,summer,out,Maarten Stekelenburg,4311,33,Netherlands,Goalkeeper,GK,1000000.0,Fulham FC,England,0.0,1
+2015,Premier League,Southampton FC,summer,out,Filip Djuricic,94307,23,Serbia,Attacking Midfield,AM,5000000.0,SL Benfica,Portugal,0.0,1
+2015,Premier League,Southampton FC,summer,out,Eljero Elia,27805,28,Netherlands,Left Winger,LW,3500000.0,SV Werder Bremen,Germany,0.0,1
+2015,Premier League,Southampton FC,summer,out,Toby Alderweireld,42710,26,Belgium,Centre-Back,CB,11000000.0,Atlético de Madrid,Spain,0.0,1
+2015,Premier League,Southampton FC,winter,out,Ryan Seager,247647,19,England,Centre-Forward,CF,,Crewe Alexandra,England,0.0,1
+2015,Premier League,Southampton FC,winter,out,Gastón Ramírez,123742,25,Uruguay,Central Midfield,CM,5000000.0,Middlesbrough FC,England,0.0,1
+2015,Premier League,Southampton FC,winter,out,Jack Stephens,163744,22,England,Centre-Back,CB,250000.0,Coventry City,England,0.0,1
+2015,Premier League,Southampton FC,winter,out,Steven Caulker,121280,24,Sierra Leone,Centre-Back,CB,7500000.0,Queens Park Rangers,England,0.0,1
+2015,Premier League,Stoke City,summer,in,Xherdan Shaqiri,86792,23,Switzerland,Attacking Midfield,AM,17000000.0,Inter Milan,Italy,17000000.0,0
+2015,Premier League,Stoke City,summer,in,Joselu,81999,25,Spain,Centre-Forward,CF,6000000.0,Hannover 96,Germany,8000000.0,0
+2015,Premier League,Stoke City,summer,in,Philipp Wollscheid,53173,26,Germany,Centre-Back,CB,5000000.0,Bayer 04 Leverkusen,Germany,3800000.0,0
+2015,Premier League,Stoke City,summer,in,Jakob Haugaard,138335,23,Denmark,Goalkeeper,GK,750000.0,FC Midtjylland,Denmark,600000.0,0
+2015,Premier League,Stoke City,summer,in,Ibrahim Afellay,15760,29,Netherlands,Attacking Midfield,AM,4000000.0,FC Barcelona,Spain,0.0,0
+2015,Premier League,Stoke City,summer,in,Shay Given,3146,39,Ireland,Goalkeeper,GK,500000.0,Aston Villa,England,0.0,0
+2015,Premier League,Stoke City,summer,in,Glen Johnson,3881,30,England,Right-Back,RB,7000000.0,Liverpool FC,England,0.0,0
+2015,Premier League,Stoke City,summer,in,Marco van Ginkel,147034,22,Netherlands,Central Midfield,CM,7500000.0,Chelsea FC,England,0.0,1
+2015,Premier League,Stoke City,summer,in,Dom Telford,333782,18,England,Centre-Forward,CF,,Blackpool FC,England,,0
+2015,Premier League,Stoke City,winter,in,Giannelli Imbula,130756,23,DR Congo,Defensive Midfield,DM,16000000.0,FC Porto,Portugal,24250000.0,0
+2015,Premier League,Stoke City,summer,out,Asmir Begovic,33873,28,Bosnia-Herzegovina,Goalkeeper,GK,12000000.0,Chelsea FC,England,11000000.0,0
+2015,Premier League,Stoke City,summer,out,Steven Nzonzi,73734,26,France,Defensive Midfield,DM,7500000.0,Sevilla FC,Spain,8000000.0,0
+2015,Premier League,Stoke City,summer,out,Robert Huth,2998,30,Germany,Centre-Back,CB,5000000.0,Leicester City,England,4200000.0,0
+2015,Premier League,Stoke City,summer,out,Jamie Ness,61012,24,Scotland,Central Midfield,CM,500000.0,Scunthorpe United,England,0.0,0
+2015,Premier League,Stoke City,summer,out,Alex Grant,225068,21,Australia,Centre-Back,CB,,Perth Glory,Australia,0.0,0
+2015,Premier League,Stoke City,summer,out,Dionatan Teixeira,107617,23,Slovakia,Centre-Back,CB,500000.0,Fleetwood Town,England,0.0,1
+2015,Premier League,Stoke City,summer,out,Thomas Sörensen,3473,39,Denmark,Goalkeeper,GK,500000.0,Without Club,,,0
+2015,Premier League,Stoke City,summer,out,Wilson Palacios,58361,30,Honduras,Defensive Midfield,DM,1500000.0,Without Club,,,0
+2015,Premier League,Stoke City,summer,out,Philipp Wollscheid,53173,26,Germany,Centre-Back,CB,4000000.0,Bayer 04 Leverkusen,Germany,0.0,1
+2015,Premier League,Stoke City,winter,out,Steve Sidwell,13427,33,England,Central Midfield,CM,1500000.0,Brighton & Hove Albion,England,0.0,1
+2015,Premier League,Stoke City,winter,out,George Waring,242417,21,England,Centre-Forward,CF,,Oxford United,England,0.0,1
+2015,Premier League,Stoke City,winter,out,Peter Odemwingie,12516,34,Nigeria,Centre-Forward,CF,1500000.0,Bristol City,England,0.0,1
+2015,Premier League,Stoke City,winter,out,Andy Wilkinson,13616,31,England,Right-Back,RB,1000000.0,Without Club,,,0
+2015,Premier League,Stoke City,winter,out,Marco van Ginkel,147034,23,Netherlands,Central Midfield,CM,7500000.0,Chelsea FC,England,0.0,1
+2015,Premier League,Sunderland AFC,summer,in,Jeremain Lens,38497,27,Netherlands,Right Winger,RW,12000000.0,Dynamo Kyiv,Ukraine,11400000.0,0
+2015,Premier League,Sunderland AFC,summer,in,Fabio Borini,96754,24,Italy,Centre-Forward,CF,7000000.0,Liverpool FC,England,10700000.0,0
+2015,Premier League,Sunderland AFC,summer,in,Ricardo Álvarez,76077,27,Argentina,Central Midfield,CM,10000000.0,Inter Milan,Italy,10500000.0,0
+2015,Premier League,Sunderland AFC,summer,in,Younès Kaboul,27114,29,France,Centre-Back,CB,4500000.0,Tottenham Hotspur,England,4300000.0,0
+2015,Premier League,Sunderland AFC,summer,in,Santiago Vergini,94783,26,Argentina,Centre-Back,CB,2000000.0,Club Estudiantes de La Plata,Argentina,2850000.0,0
+2015,Premier League,Sunderland AFC,summer,in,Sebastián Coates,102427,24,Uruguay,Centre-Back,CB,2500000.0,Liverpool FC,England,2800000.0,0
+2015,Premier League,Sunderland AFC,summer,in,Adam Matthews,108878,23,Wales,Right-Back,RB,2500000.0,Celtic FC,Scotland,2800000.0,0
+2015,Premier League,Sunderland AFC,summer,in,DeAndre Yedlin,255916,22,United States,Right-Back,RB,1500000.0,Tottenham Hotspur,England,0.0,1
+2015,Premier League,Sunderland AFC,summer,in,Ola Toivonen,36500,29,Sweden,Centre-Forward,CF,4000000.0,Stade Rennais FC,France,0.0,1
+2015,Premier League,Sunderland AFC,summer,in,Yann M'Vila,60573,25,France,Defensive Midfield,DM,7000000.0,Rubin Kazan,Russia,0.0,1
+2015,Premier League,Sunderland AFC,winter,in,Wahbi Khazri,103565,24,Tunisia,Left Winger,LW,7500000.0,FC Girondins Bordeaux,France,11800000.0,0
+2015,Premier League,Sunderland AFC,winter,in,Lamine Koné,57420,26,Cote d'Ivoire,Centre-Back,CB,2500000.0,FC Lorient,France,6500000.0,0
+2015,Premier League,Sunderland AFC,winter,in,Dame N'Doye,44855,30,Senegal,Centre-Forward,CF,5500000.0,Trabzonspor,Türkiye,1400000.0,1
+2015,Premier League,Sunderland AFC,winter,in,Jan Kirchhoff,49734,25,Germany,Defensive Midfield,DM,2000000.0,Bayern Munich,Germany,1000000.0,0
+2015,Premier League,Sunderland AFC,winter,in,Steve Harper,3562,40,England,Goalkeeper,GK,,Without Club,,,0
+2015,Premier League,Sunderland AFC,winter,in,Emmanuel Eboué,13058,32,Cote d'Ivoire,Right-Back,RB,1500000.0,Without Club,,,0
+2015,Premier League,Sunderland AFC,summer,out,Connor Wickham,95435,22,England,Centre-Forward,CF,5000000.0,Crystal Palace,England,10000000.0,0
+2015,Premier League,Sunderland AFC,summer,out,El-Hadji Ba,169090,22,Mauritania,Central Midfield,CM,400000.0,Charlton Athletic,England,500000.0,0
+2015,Premier League,Sunderland AFC,summer,out,Emanuele Giaccherini,84835,30,Italy,Left Midfield,LM,4500000.0,Bologna FC 1909,Italy,250000.0,1
+2015,Premier League,Sunderland AFC,summer,out,Joel Dixon,222014,21,England,Goalkeeper,GK,,Barrow AFC,England,0.0,0
+2015,Premier League,Sunderland AFC,summer,out,George Honeyman,218140,21,England,Attacking Midfield,AM,,Gateshead FC,England,0.0,1
+2015,Premier League,Sunderland AFC,summer,out,Santiago Vergini,94783,26,Argentina,Centre-Back,CB,2500000.0,Getafe CF,Spain,0.0,1
+2015,Premier League,Sunderland AFC,summer,out,Jordan Pickford,130164,21,England,Goalkeeper,GK,250000.0,Preston North End,England,0.0,1
+2015,Premier League,Sunderland AFC,summer,out,Will Buckley,77329,25,England,Right Winger,RW,2500000.0,Leeds United,England,0.0,1
+2015,Premier League,Sunderland AFC,summer,out,Anthony Réveillère,5668,35,France,Right-Back,RB,500000.0,Without Club,,,0
+2015,Premier League,Sunderland AFC,summer,out,DeAndre Yedlin,255916,22,United States,Right-Back,RB,1500000.0,Tottenham Hotspur,England,0.0,1
+2015,Premier League,Sunderland AFC,summer,out,Santiago Vergini,94783,26,Argentina,Centre-Back,CB,2000000.0,Club Estudiantes de La Plata,Argentina,0.0,1
+2015,Premier League,Sunderland AFC,summer,out,Ricardo Álvarez,76077,27,Argentina,Central Midfield,CM,11000000.0,Inter Milan,Italy,0.0,1
+2015,Premier League,Sunderland AFC,winter,out,Sebastián Coates,102427,25,Uruguay,Centre-Back,CB,2500000.0,Sporting CP,Portugal,250000.0,1
+2015,Premier League,Sunderland AFC,winter,out,Ricardo Álvarez,76077,27,Argentina,Central Midfield,CM,7500000.0,UC Sampdoria,Italy,0.0,0
+2015,Premier League,Sunderland AFC,winter,out,Liam Bridcutt,40612,26,Scotland,Defensive Midfield,DM,2500000.0,Leeds United,England,0.0,1
+2015,Premier League,Sunderland AFC,winter,out,Steven Fletcher,35099,28,Scotland,Centre-Forward,CF,4500000.0,Olympique Marseille,France,0.0,1
+2015,Premier League,Sunderland AFC,winter,out,Danny Graham,29152,30,England,Centre-Forward,CF,1500000.0,Blackburn Rovers,England,0.0,1
+2015,Premier League,Sunderland AFC,winter,out,Mikael Mandron,218144,21,France,Centre-Forward,CF,,Hartlepool United,England,0.0,1
+2015,Premier League,Sunderland AFC,winter,out,Costel Pantilimon,47659,28,Romania,Goalkeeper,GK,6000000.0,Watford FC,England,,0
+2015,Premier League,Sunderland AFC,winter,out,Charalampos Mavrias,136647,21,Greece,Right-Back,RB,1500000.0,Fortuna Düsseldorf,Germany,0.0,1
+2015,Premier League,Sunderland AFC,winter,out,Will Buckley,77329,26,England,Right Winger,RW,2500000.0,Birmingham City,England,0.0,1
+2015,Premier League,Sunderland AFC,winter,out,Jordi Gómez,39010,30,Spain,Central Midfield,CM,3000000.0,Blackburn Rovers,England,0.0,1
+2015,Premier League,Sunderland AFC,winter,out,Adam Matthews,108878,24,Wales,Right-Back,RB,2500000.0,Bristol City,England,0.0,1
+2015,Premier League,Sunderland AFC,winter,out,Adam Johnson,31579,28,England,Right Winger,RW,7500000.0,Retired,,,0
+2015,Premier League,Sunderland AFC,winter,out,Emmanuel Eboué,13058,32,Cote d'Ivoire,Right-Back,RB,1500000.0,Retired,,,0
+2015,Premier League,Swansea City,summer,in,Éder,84481,27,Portugal,Centre-Forward,CF,6000000.0,SC Braga,Portugal,6700000.0,0
+2015,Premier League,Swansea City,summer,in,Franck Tabanou,66413,26,France,Left-Back,LB,6000000.0,AS Saint-Étienne,France,4900000.0,0
+2015,Premier League,Swansea City,summer,in,Kristoffer Nordfeldt,75890,26,Sweden,Goalkeeper,GK,3000000.0,SC Heerenveen,Netherlands,850000.0,0
+2015,Premier League,Swansea City,summer,in,Oli McBurnie,298477,19,Scotland,Centre-Forward,CF,50000.0,Bradford City,England,350000.0,0
+2015,Premier League,Swansea City,summer,in,Botti Biabi,270296,19,Scotland,Centre-Forward,CF,25000.0,Falkirk FC,Scotland,210000.0,0
+2015,Premier League,Swansea City,summer,in,André Ayew,45403,25,Ghana,Centre-Forward,CF,13000000.0,Olympique Marseille,France,0.0,0
+2015,Premier League,Swansea City,winter,in,Alberto Paloschi,68306,26,Italy,Centre-Forward,CF,6000000.0,Chievo Verona,Italy,8800000.0,0
+2015,Premier League,Swansea City,winter,in,Leroy Fer,63342,26,Netherlands,Defensive Midfield,DM,8500000.0,Queens Park Rangers,England,0.0,1
+2015,Premier League,Swansea City,summer,out,Jazz Richards,120241,24,Wales,Right-Back,RB,500000.0,Fulham FC,England,705000.0,0
+2015,Premier League,Swansea City,summer,out,David Cornell,89648,24,Wales,Goalkeeper,GK,250000.0,Oldham Athletic,England,0.0,0
+2015,Premier League,Swansea City,summer,out,Curtis Obeng,125467,26,England,Right-Back,RB,250000.0,Without Club,,0.0,0
+2015,Premier League,Swansea City,summer,out,Rory Donnelly,164389,23,Northern Ireland,Centre-Forward,CF,,Gillingham FC,England,0.0,0
+2015,Premier League,Swansea City,summer,out,Jay Fulton,171260,21,Scotland,Central Midfield,CM,200000.0,Oldham Athletic,England,0.0,1
+2015,Premier League,Swansea City,summer,out,Kenji Gorré,374889,20,Curacao,Left Winger,LW,,ADO Den Haag,Netherlands,0.0,1
+2015,Premier League,Swansea City,summer,out,Adam King,169566,19,Scotland,Central Midfield,CM,50000.0,Crewe Alexandra,England,0.0,1
+2015,Premier League,Swansea City,summer,out,Modou Barrow,189070,22,The Gambia,Left Winger,LW,1500000.0,Blackburn Rovers,England,0.0,1
+2015,Premier League,Swansea City,summer,out,Stephen Kingsley,184398,21,Scotland,Left-Back,LB,500000.0,Crewe Alexandra,England,0.0,1
+2015,Premier League,Swansea City,summer,out,Nathan Dyer,37011,27,England,Right Winger,RW,4500000.0,Leicester City,England,0.0,1
+2015,Premier League,Swansea City,summer,out,Alan Tate,7337,32,England,Centre-Back,CB,500000.0,Without Club,,,0
+2015,Premier League,Swansea City,summer,out,Dwight Tiendalli,29356,29,Netherlands,Right-Back,RB,,Without Club,,,0
+2015,Premier League,Swansea City,summer,out,Nélson Oliveira,72768,23,Portugal,Centre-Forward,CF,4000000.0,SL Benfica,Portugal,0.0,1
+2015,Premier League,Swansea City,summer,out,Leroy Fer,63342,26,Netherlands,Defensive Midfield,DM,8500000.0,Queens Park Rangers,England,0.0,1
+2015,Premier League,Swansea City,winter,out,Jonjo Shelvey,71292,23,England,Central Midfield,CM,12000000.0,Newcastle United,England,16000000.0,0
+2015,Premier League,Swansea City,winter,out,Gerhard Tremmel,488,37,Germany,Goalkeeper,GK,750000.0,SV Werder Bremen,Germany,100000.0,1
+2015,Premier League,Swansea City,winter,out,Michu,70789,29,Spain,Second Striker,SS,5000000.0,UP Langreo,Spain,0.0,0
+2015,Premier League,Swansea City,winter,out,Oli McBurnie,298477,19,Scotland,Centre-Forward,CF,250000.0,Newport County,England,0.0,1
+2015,Premier League,Swansea City,winter,out,Franck Tabanou,66413,26,France,Left-Back,LB,6000000.0,AS Saint-Étienne,France,0.0,1
+2015,Premier League,Swansea City,winter,out,Éder,84481,28,Portugal,Centre-Forward,CF,6000000.0,LOSC Lille,France,0.0,1
+2015,Premier League,Swansea City,winter,out,Daniel Alfei,130216,23,Wales,Right-Back,RB,,Mansfield Town,England,0.0,1
+2015,Premier League,Swansea City,winter,out,Oli McBurnie,298477,19,Scotland,Centre-Forward,CF,250000.0,Bristol Rovers,England,0.0,1
+2015,Premier League,Swansea City,winter,out,Liam Shephard,197910,21,Wales,Right-Back,RB,,Yeovil Town,England,0.0,1
+2015,Premier League,Swansea City,winter,out,Matt Grimes,265471,20,England,Defensive Midfield,DM,2000000.0,Blackburn Rovers,England,0.0,1
+2015,Premier League,Tottenham Hotspur,summer,in,Heung-min Son,91845,23,"Korea, South",Left Winger,LW,16000000.0,Bayer 04 Leverkusen,Germany,30000000.0,0
+2015,Premier League,Tottenham Hotspur,summer,in,Toby Alderweireld,42710,26,Belgium,Centre-Back,CB,15000000.0,Atlético de Madrid,Spain,16000000.0,0
+2015,Premier League,Tottenham Hotspur,summer,in,Clinton N'Jie,241119,22,Cameroon,Right Winger,RW,5000000.0,Olympique Lyon,France,14100000.0,0
+2015,Premier League,Tottenham Hotspur,summer,in,Kevin Wimmer,122675,22,Austria,Centre-Back,CB,7500000.0,1.FC Köln,Germany,6000000.0,0
+2015,Premier League,Tottenham Hotspur,summer,in,Kieran Trippier,95810,24,England,Right-Back,RB,6000000.0,Burnley FC,England,4900000.0,0
+2015,Premier League,Tottenham Hotspur,summer,out,Roberto Soldado,34870,30,Spain,Centre-Forward,CF,10000000.0,Villarreal CF,Spain,16000000.0,0
+2015,Premier League,Tottenham Hotspur,summer,out,Paulinho,57229,26,Brazil,Central Midfield,CM,9000000.0,Guangzhou Evergrande Taobao,China,14000000.0,0
+2015,Premier League,Tottenham Hotspur,summer,out,Étienne Capoue,63494,26,France,Defensive Midfield,DM,7500000.0,Watford FC,England,8900000.0,0
+2015,Premier League,Tottenham Hotspur,summer,out,Benjamin Stambouli,127160,24,France,Defensive Midfield,DM,5000000.0,Paris Saint-Germain,France,8600000.0,0
+2015,Premier League,Tottenham Hotspur,summer,out,Vlad Chiricheș,123261,25,Romania,Defensive Midfield,DM,6000000.0,SSC Napoli,Italy,7000000.0,0
+2015,Premier League,Tottenham Hotspur,summer,out,Lewis Holtby,55508,24,Germany,Central Midfield,CM,4000000.0,Hamburger SV,Germany,6500000.0,0
+2015,Premier League,Tottenham Hotspur,summer,out,Aaron Lennon,14221,28,England,Right Winger,RW,8500000.0,Everton FC,England,6000000.0,0
+2015,Premier League,Tottenham Hotspur,summer,out,Younès Kaboul,27114,29,France,Centre-Back,CB,4500000.0,Sunderland AFC,England,4300000.0,0
+2015,Premier League,Tottenham Hotspur,summer,out,Ryan Fredericks,140191,22,England,Right-Back,RB,250000.0,Bristol City,England,250000.0,0
+2015,Premier League,Tottenham Hotspur,summer,out,Tomislav Gomelt,210983,20,Croatia,Central Midfield,CM,100000.0,FC Bari 1908,Italy,0.0,0
+2015,Premier League,Tottenham Hotspur,summer,out,Jonathan Miles,243587,22,England,Goalkeeper,GK,,Ebbsfleet United,England,0.0,0
+2015,Premier League,Tottenham Hotspur,summer,out,Jordan Archer,177952,22,Scotland,Goalkeeper,GK,,Millwall FC,England,0.0,0
+2015,Premier League,Tottenham Hotspur,summer,out,Cristian Ceballos,166640,22,Spain,Attacking Midfield,AM,300000.0,Charlton Athletic,England,0.0,0
+2015,Premier League,Tottenham Hotspur,summer,out,Bongani Khumalo,82215,28,South Africa,Centre-Back,CB,750000.0,SuperSport United,South Africa,0.0,0
+2015,Premier League,Tottenham Hotspur,summer,out,Grant Hall,124845,23,England,Centre-Back,CB,100000.0,Queens Park Rangers,England,,0
+2015,Premier League,Tottenham Hotspur,summer,out,DeAndre Yedlin,255916,22,United States,Right-Back,RB,1500000.0,Sunderland AFC,England,0.0,1
+2015,Premier League,Tottenham Hotspur,summer,out,Emmanuel Adebayor,8883,31,Togo,Centre-Forward,CF,5000000.0,Without Club,,,0
+2015,Premier League,Tottenham Hotspur,summer,out,Brad Friedel,3476,44,United States,Goalkeeper,GK,,Retired,,,0
+2015,Premier League,Tottenham Hotspur,winter,out,Andros Townsend,61842,24,England,Right Winger,RW,8000000.0,Newcastle United,England,15700000.0,0
+2015,Premier League,Tottenham Hotspur,winter,out,Alex Pritchard,200777,22,England,Attacking Midfield,AM,3000000.0,West Bromwich Albion,England,0.0,1
+2015,Premier League,Tottenham Hotspur,winter,out,Federico Fazio,45314,28,Argentina,Centre-Back,CB,8000000.0,Sevilla FC,Spain,0.0,1
+2015,Premier League,Watford FC,summer,in,Étienne Capoue,63494,26,France,Defensive Midfield,DM,7500000.0,Tottenham Hotspur,England,8900000.0,0
+2015,Premier League,Watford FC,summer,in,José Manuel Jurado,28261,29,Spain,Attacking Midfield,AM,7000000.0,Spartak Moscow,Russia,8600000.0,0
+2015,Premier League,Watford FC,summer,in,Matej Vydra,101500,23,Czech Republic,Centre-Forward,CF,5500000.0,Udinese Calcio,Italy,8400000.0,0
+2015,Premier League,Watford FC,summer,in,Obbi Oulare,314959,19,Belgium,Centre-Forward,CF,5000000.0,Club Brugge KV,Belgium,7500000.0,0
+2015,Premier League,Watford FC,summer,in,Steven Berghuis,129554,23,Netherlands,Right Winger,RW,3500000.0,AZ Alkmaar,Netherlands,6500000.0,0
+2015,Premier League,Watford FC,summer,in,Valon Behrami,21905,30,Switzerland,Central Midfield,CM,3500000.0,Hamburger SV,Germany,3500000.0,0
+2015,Premier League,Watford FC,summer,in,Jose Cholevas,41112,31,Greece,Left-Back,LB,2000000.0,AS Roma,Italy,2500000.0,0
+2015,Premier League,Watford FC,summer,in,Víctor Ibarbo,92141,25,Colombia,Second Striker,SS,8000000.0,AS Roma,Italy,2000000.0,1
+2015,Premier League,Watford FC,summer,in,Miguel Britos,76799,30,Uruguay,Centre-Back,CB,3500000.0,SSC Napoli,Italy,0.0,0
+2015,Premier League,Watford FC,summer,in,Allan Nyom,111508,27,Cameroon,Right-Back,RB,4000000.0,Udinese Calcio,Italy,0.0,0
+2015,Premier League,Watford FC,summer,in,Giedrius Arlauskis,69001,27,Lithuania,Goalkeeper,GK,2500000.0,Steaua Bucharest,Romania,0.0,0
+2015,Premier League,Watford FC,summer,in,Sebastian Prödl,37981,28,Austria,Centre-Back,CB,3000000.0,SV Werder Bremen,Germany,0.0,0
+2015,Premier League,Watford FC,summer,in,Rafael Romo,101031,25,Venezuela,Goalkeeper,GK,200000.0,Udinese Calcio,Italy,0.0,1
+2015,Premier League,Watford FC,summer,in,Adlène Guédioura,74768,29,Algeria,Defensive Midfield,DM,1000000.0,Crystal Palace,England,,0
+2015,Premier League,Watford FC,summer,in,Nathan Aké,177476,20,Netherlands,Centre-Back,CB,2000000.0,Chelsea FC,England,0.0,1
+2015,Premier League,Watford FC,summer,in,Alessandro Diamanti,23197,32,Italy,Attacking Midfield,AM,2000000.0,Guangzhou Evergrande Taobao,China,0.0,1
+2015,Premier League,Watford FC,winter,in,Abdoulaye Doucouré,127187,23,Mali,Attacking Midfield,AM,6000000.0,Stade Rennais FC,France,10600000.0,0
+2015,Premier League,Watford FC,winter,in,Adalberto Peñaranda,308801,18,Venezuela,Left Winger,LW,500000.0,Udinese Calcio,Italy,10600000.0,0
+2015,Premier League,Watford FC,winter,in,Nordin Amrabat,55619,28,Morocco,Right Winger,RW,6000000.0,Málaga CF,Spain,8400000.0,0
+2015,Premier League,Watford FC,winter,in,Mario Suárez,37337,28,Spain,Defensive Midfield,DM,8000000.0,ACF Fiorentina,Italy,5300000.0,0
+2015,Premier League,Watford FC,winter,in,Costel Pantilimon,47659,28,Romania,Goalkeeper,GK,6000000.0,Sunderland AFC,England,,0
+2015,Premier League,Watford FC,winter,in,Luke Simpson,223790,21,England,Goalkeeper,GK,,Without Club,,,0
+2015,Premier League,Watford FC,summer,out,Fernando Forestieri,44948,25,Italy,Second Striker,SS,2000000.0,Sheffield Wednesday,England,4120000.0,0
+2015,Premier League,Watford FC,summer,out,Matej Vydra,101500,23,Czech Republic,Centre-Forward,CF,5500000.0,Reading FC,England,2700000.0,1
+2015,Premier League,Watford FC,summer,out,Miguel Layún,58576,27,Mexico,Right-Back,RB,3000000.0,FC Porto,Portugal,500000.0,1
+2015,Premier League,Watford FC,summer,out,Lewis McGugan,49399,26,England,Central Midfield,CM,1500000.0,Sheffield Wednesday,England,430000.0,0
+2015,Premier League,Watford FC,summer,out,Cristian Battocchio,129868,23,Italy,Central Midfield,CM,750000.0,Stade Brestois 29,France,0.0,0
+2015,Premier League,Watford FC,summer,out,Vujadin Savic,68283,25,Serbia,Centre-Back,CB,500000.0,FC Sheriff Tiraspol,Moldova,0.0,0
+2015,Premier League,Watford FC,summer,out,Uche Ikpeazu,245765,20,Uganda,Centre-Forward,CF,250000.0,Port Vale FC,England,0.0,1
+2015,Premier League,Watford FC,summer,out,Diego Fabbrini,56903,24,Italy,Left Winger,LW,1000000.0,Middlesbrough FC,England,0.0,1
+2015,Premier League,Watford FC,summer,out,Connor Smith,177771,22,Ireland,Central Midfield,CM,250000.0,Stevenage FC,England,0.0,1
+2015,Premier League,Watford FC,summer,out,Jonathan Bond,130768,22,England,Goalkeeper,GK,500000.0,Reading FC,England,,0
+2015,Premier League,Watford FC,summer,out,Sean Murray,148907,21,Ireland,Central Midfield,CM,750000.0,Wigan Athletic,England,0.0,1
+2015,Premier League,Watford FC,summer,out,Gabriele Angella,86793,26,Italy,Centre-Back,CB,2000000.0,Queens Park Rangers,England,0.0,1
+2015,Premier League,Watford FC,summer,out,Daniel Pudil,35583,29,Czech Republic,Left-Back,LB,1500000.0,Sheffield Wednesday,England,0.0,1
+2015,Premier League,Watford FC,summer,out,Lloyd Doyley,14008,32,Jamaica,Centre-Back,CB,250000.0,Without Club,,,0
+2015,Premier League,Watford FC,summer,out,Marco Motta,30333,29,Italy,Right-Back,RB,750000.0,Without Club,,,0
+2015,Premier League,Watford FC,summer,out,Rafael Romo,101031,25,Venezuela,Goalkeeper,GK,200000.0,Udinese Calcio,Italy,0.0,1
+2015,Premier League,Watford FC,summer,out,Nathan Aké,177476,21,Netherlands,Centre-Back,CB,4500000.0,Chelsea FC,England,0.0,1
+2015,Premier League,Watford FC,summer,out,Gianni Munari,22598,32,Italy,Central Midfield,CM,300000.0,Parma Calcio 1913,Italy,0.0,1
+2015,Premier League,Watford FC,summer,out,Dániel Tőzsér,15888,30,Hungary,Central Midfield,CM,1500000.0,Parma Calcio 1913,Italy,0.0,1
+2015,Premier League,Watford FC,summer,out,Matej Vydra,101500,23,Czech Republic,Centre-Forward,CF,4000000.0,Udinese Calcio,Italy,0.0,1
+2015,Premier League,Watford FC,winter,out,Diego Fabbrini,56903,25,Italy,Left Winger,LW,1000000.0,Birmingham City,England,2000000.0,0
+2015,Premier League,Watford FC,winter,out,Connor Smith,177771,22,Ireland,Central Midfield,CM,250000.0,AFC Wimbledon,England,0.0,0
+2015,Premier League,Watford FC,winter,out,Uche Ikpeazu,245765,20,Uganda,Centre-Forward,CF,250000.0,Blackpool FC,England,0.0,1
+2015,Premier League,Watford FC,winter,out,Abdoulaye Doucouré,127187,23,Mali,Attacking Midfield,AM,6000000.0,Granada CF,Spain,0.0,1
+2015,Premier League,Watford FC,winter,out,Giedrius Arlauskis,69001,28,Lithuania,Goalkeeper,GK,2500000.0,RCD Espanyol Barcelona,Spain,0.0,1
+2015,Premier League,Watford FC,winter,out,Adalberto Peñaranda,308801,18,Venezuela,Left Winger,LW,500000.0,Granada CF,Spain,0.0,1
+2015,Premier League,Watford FC,winter,out,Mathias Ranégie,46477,31,Sweden,Centre-Forward,CF,500000.0,Djurgårdens IF,Sweden,0.0,1
+2015,Premier League,Watford FC,winter,out,Víctor Ibarbo,92141,25,Colombia,Second Striker,SS,8000000.0,Atlético Nacional,Colombia,0.0,1
+2015,Premier League,Watford FC,winter,out,Lloyd Dyer,3668,33,England,Left Midfield,LM,750000.0,Without Club,,,0
+2015,Premier League,Watford FC,winter,out,Alessandro Diamanti,23197,32,Italy,Attacking Midfield,AM,2000000.0,Guangzhou Evergrande Taobao,China,0.0,1
+2015,Premier League,West Bromwich Albion,summer,in,Salomón Rondón,80197,25,Venezuela,Centre-Forward,CF,15000000.0,Zenit St. Petersburg,Russia,17000000.0,0
+2015,Premier League,West Bromwich Albion,summer,in,James Chester,73482,26,Wales,Centre-Back,CB,2000000.0,Hull City,England,11300000.0,0
+2015,Premier League,West Bromwich Albion,summer,in,Jonny Evans,42412,27,Northern Ireland,Centre-Back,CB,6000000.0,Manchester United,England,8300000.000000001,0
+2015,Premier League,West Bromwich Albion,summer,in,Rickie Lambert,49655,33,England,Centre-Forward,CF,3000000.0,Liverpool FC,England,4200000.0,0
+2015,Premier League,West Bromwich Albion,summer,in,James McClean,85935,26,Ireland,Left Midfield,LM,3000000.0,Wigan Athletic,England,2100000.0,0
+2015,Premier League,West Bromwich Albion,summer,in,Anders Lindegaard,22491,31,Denmark,Goalkeeper,GK,1500000.0,Manchester United,England,0.0,0
+2015,Premier League,West Bromwich Albion,summer,in,Serge Gnabry,159471,20,Germany,Left Winger,LW,3500000.0,Arsenal FC,England,0.0,1
+2015,Premier League,West Bromwich Albion,winter,in,Alex Pritchard,200777,22,England,Attacking Midfield,AM,3000000.0,Tottenham Hotspur,England,0.0,1
+2015,Premier League,West Bromwich Albion,winter,in,Sandro,74590,26,Brazil,Central Midfield,CM,8000000.0,Queens Park Rangers,England,0.0,1
+2015,Premier League,West Bromwich Albion,summer,out,Brown Ideye,64308,26,Nigeria,Centre-Forward,CF,6000000.0,Olympiacos Piraeus,Greece,5420000.0,0
+2015,Premier League,West Bromwich Albion,summer,out,Graham Dorrans,36608,28,Scotland,Central Midfield,CM,2000000.0,Norwich City,England,4099999.9999999995,0
+2015,Premier League,West Bromwich Albion,summer,out,Sebastián Blanco,54576,27,Argentina,Attacking Midfield,AM,5000000.0,CA San Lorenzo de Almagro,Argentina,2000000.0,0
+2015,Premier League,West Bromwich Albion,summer,out,Joleon Lescott,4241,33,England,Centre-Back,CB,4000000.0,Aston Villa,England,1400000.0,0
+2015,Premier League,West Bromwich Albion,summer,out,Chris Baird,4115,33,Northern Ireland,Defensive Midfield,DM,500000.0,Derby County,England,0.0,0
+2015,Premier League,West Bromwich Albion,summer,out,Jason Davidson,137669,24,Australia,Left-Back,LB,500000.0,Huddersfield Town,England,0.0,0
+2015,Premier League,West Bromwich Albion,summer,out,Youssouf Mulumbu,45272,28,DR Congo,Defensive Midfield,DM,3500000.0,Norwich City,England,0.0,0
+2015,Premier League,West Bromwich Albion,summer,out,Liam O'Neil,141349,22,England,Defensive Midfield,DM,100000.0,Chesterfield FC,England,,0
+2015,Premier League,West Bromwich Albion,summer,out,Georgios Samaras,6855,30,Greece,Left Winger,LW,2000000.0,Without Club,,,0
+2015,Premier League,West Bromwich Albion,summer,out,Sandro,74590,27,Brazil,Central Midfield,CM,6000000.0,Queens Park Rangers,England,0.0,1
+2015,Premier League,West Bromwich Albion,summer,out,Alex Pritchard,200777,23,England,Attacking Midfield,AM,3000000.0,Tottenham Hotspur,England,0.0,1
+2015,Premier League,West Bromwich Albion,winter,out,Anders Lindegaard,22491,31,Denmark,Goalkeeper,GK,1500000.0,Preston North End,England,0.0,1
+2015,Premier League,West Bromwich Albion,winter,out,Serge Gnabry,159471,20,Germany,Left Winger,LW,3500000.0,Arsenal FC,England,0.0,1
+2015,Premier League,West Ham United,summer,in,Dimitri Payet,37647,28,France,Attacking Midfield,AM,13000000.0,Olympique Marseille,France,15000000.0,0
+2015,Premier League,West Ham United,summer,in,Angelo Ogbonna,48002,27,Italy,Centre-Back,CB,9000000.0,Juventus FC,Italy,11000000.0,0
+2015,Premier League,West Ham United,summer,in,Michail Antonio,104124,25,Jamaica,Centre-Forward,CF,2500000.0,Nottingham Forest,England,9500000.0,0
+2015,Premier League,West Ham United,summer,in,Pedro Obiang,101213,23,Equatorial Guinea,Central Midfield,CM,8000000.0,UC Sampdoria,Italy,6000000.0,0
+2015,Premier League,West Ham United,summer,in,Nikica Jelavic,25742,30,Croatia,Centre-Forward,CF,6500000.0,Hull City,England,4099999.9999999995,0
+2015,Premier League,West Ham United,summer,in,Stephen Hendrie,186269,20,Scotland,Left-Back,LB,1000000.0,Hamilton Academical FC,Scotland,1300000.0,0
+2015,Premier League,West Ham United,summer,in,Darren Randolph,51321,28,Ireland,Goalkeeper,GK,1000000.0,Birmingham City,England,0.0,0
+2015,Premier League,West Ham United,summer,in,Manuel Lanzini,135853,22,Argentina,Attacking Midfield,AM,6000000.0,Al-Jazira Club,United Arab Emirates,0.0,1
+2015,Premier League,West Ham United,summer,in,Alex Song,27394,27,Cameroon,Defensive Midfield,DM,12000000.0,FC Barcelona,Spain,0.0,1
+2015,Premier League,West Ham United,summer,in,Victor Moses,59866,24,Nigeria,Right Winger,RW,7500000.0,Chelsea FC,England,0.0,1
+2015,Premier League,West Ham United,winter,in,Sam Byram,236953,22,England,Left-Back,LB,3500000.0,Leeds United,England,4800000.0,0
+2015,Premier League,West Ham United,winter,in,Emmanuel Emenike,120630,28,Nigeria,Centre-Forward,CF,10000000.0,Fenerbahce,Türkiye,1000000.0,1
+2015,Premier League,West Ham United,summer,out,Stewart Downing,4063,30,England,Left Midfield,LM,6000000.0,Middlesbrough FC,England,7900000.0,0
+2015,Premier League,West Ham United,summer,out,Modibo Maïga,46831,27,Mali,Centre-Forward,CF,2000000.0,Al-Nassr FC,Saudi Arabia,4000000.0,0
+2015,Premier League,West Ham United,summer,out,Paul McCallum,214776,21,England,Centre-Forward,CF,50000.0,Leyton Orient,England,0.0,0
+2015,Premier League,West Ham United,summer,out,Nenê,29091,34,Brazil,Attacking Midfield,AM,1000000.0,Clube de Regatas Vasco da Gama,Brazil,0.0,0
+2015,Premier League,West Ham United,summer,out,Sean Maguire,191320,21,Ireland,Centre-Forward,CF,,Dundalk FC,Ireland,0.0,0
+2015,Premier League,West Ham United,summer,out,Dan Potts,207037,21,England,Centre-Back,CB,250000.0,Luton Town,England,0.0,0
+2015,Premier League,West Ham United,summer,out,Jussi Jääskeläinen,3692,40,Finland,Goalkeeper,GK,250000.0,Wigan Athletic,England,0.0,0
+2015,Premier League,West Ham United,summer,out,Reece Burke,264220,18,England,Centre-Back,CB,750000.0,Bradford City,England,0.0,1
+2015,Premier League,West Ham United,summer,out,Sam Westley,258311,21,England,Right-Back,RB,,VVV-Venlo,Netherlands,0.0,1
+2015,Premier League,West Ham United,summer,out,Matt Jarvis,15921,29,England,Left Winger,LW,3000000.0,Norwich City,England,0.0,1
+2015,Premier League,West Ham United,summer,out,Diego Poyet,183286,20,Uruguay,Central Midfield,CM,750000.0,Milton Keynes Dons,England,0.0,1
+2015,Premier League,West Ham United,summer,out,Kevin Nolan,3950,33,England,Attacking Midfield,AM,2000000.0,Without Club,,,0
+2015,Premier League,West Ham United,summer,out,Guy Demel,1368,34,Cote d'Ivoire,Right-Back,RB,500000.0,Without Club,,,0
+2015,Premier League,West Ham United,summer,out,Carlton Cole,3179,31,England,Centre-Forward,CF,1500000.0,Without Club,,,0
+2015,Premier League,West Ham United,summer,out,Morgan Amalfitano,39883,30,France,Right Midfield,RM,5000000.0,Without Club,,,0
+2015,Premier League,West Ham United,summer,out,Victor Moses,59866,25,Nigeria,Right Winger,RW,7500000.0,Chelsea FC,England,0.0,1
+2015,Premier League,West Ham United,summer,out,Alex Song,27394,27,Cameroon,Defensive Midfield,DM,15000000.0,FC Barcelona,Spain,0.0,1
+2015,Premier League,West Ham United,winter,out,Matt Jarvis,15921,29,England,Left Winger,LW,3000000.0,Norwich City,England,3400000.0,0
+2015,Premier League,West Ham United,winter,out,Mauro Zárate,26456,28,Argentina,Centre-Forward,CF,3000000.0,ACF Fiorentina,Italy,2100000.0,0
+2015,Premier League,West Ham United,winter,out,Nikica Jelavic,25742,30,Croatia,Centre-Forward,CF,4000000.0,Beijing Renhe,China,1120000.0,0
+2015,Premier League,West Ham United,winter,out,Doneil Henry,157907,22,Canada,Centre-Back,CB,500000.0,Blackburn Rovers,England,0.0,1
+2015,Premier League,West Ham United,winter,out,Stephen Hendrie,186269,21,Scotland,Left-Back,LB,1000000.0,Southend United,England,0.0,1
+2015,Premier League,West Ham United,winter,out,Josh Cullen,242606,19,Ireland,Central Midfield,CM,,Bradford City,England,0.0,1
+2015,Premier League,West Ham United,winter,out,Jaanai Gordon,207009,20,England,Centre-Forward,CF,,Sligo Rovers,Ireland,0.0,1
+2015,Premier League,West Ham United,winter,out,Diego Poyet,183286,20,Uruguay,Central Midfield,CM,750000.0,Charlton Athletic,England,0.0,1
+2015,Premier League,West Ham United,winter,out,Carl Jenkinson,126321,23,England,Right-Back,RB,8000000.0,Arsenal FC,England,0.0,1

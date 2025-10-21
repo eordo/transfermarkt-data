@@ -1,0 +1,672 @@
+season,league,club,window,movement,player_name,player_id,age,nationality,position,pos,market_value,dealing_club,dealing_country,fee,is_loan
+2012,Premier League,Arsenal FC,summer,in,Santi Cazorla,15799,27,Spain,Central Midfield,CM,20000000.0,Málaga CF,Spain,19000000.0,0
+2012,Premier League,Arsenal FC,summer,in,Lukas Podolski,15185,27,Germany,Centre-Forward,CF,20000000.0,1.FC Köln,Germany,15000000.0,0
+2012,Premier League,Arsenal FC,summer,in,Olivier Giroud,82442,25,France,Centre-Forward,CF,13000000.0,Montpellier HSC,France,12000000.0,0
+2012,Premier League,Arsenal FC,winter,in,Nacho Monreal,43003,26,Spain,Left-Back,LB,6000000.0,Málaga CF,Spain,10000000.0,0
+2012,Premier League,Arsenal FC,summer,out,Robin van Persie,4380,29,Netherlands,Centre-Forward,CF,47500000.0,Manchester United,England,30700000.0,0
+2012,Premier League,Arsenal FC,summer,out,Alex Song,27394,24,Cameroon,Defensive Midfield,DM,25000000.0,FC Barcelona,Spain,19000000.0,0
+2012,Premier League,Arsenal FC,summer,out,Carlos Vela,35773,23,Mexico,Right Winger,RW,8000000.0,Real Sociedad,Spain,14000000.0,0
+2012,Premier League,Arsenal FC,summer,out,Henri Lansbury,44794,21,England,Central Midfield,CM,1500000.0,Nottingham Forest,England,1250000.0,0
+2012,Premier League,Arsenal FC,summer,out,Chu-young Park,30982,27,"Korea, South",Centre-Forward,CF,4000000.0,Celta de Vigo,Spain,500000.0,1
+2012,Premier League,Arsenal FC,summer,out,Manuel Almunia,16621,35,Spain,Goalkeeper,GK,500000.0,Watford FC,England,0.0,0
+2012,Premier League,Arsenal FC,summer,out,Gavin Hoyte,44793,22,Trinidad and Tobago,Right-Back,RB,350000.0,Dagenham & Redbridge FC,England,0.0,0
+2012,Premier League,Arsenal FC,summer,out,Pedro Botelho,26239,22,Brazil,Left-Back,LB,1500000.0,Atlético Paranaense,Brazil,0.0,0
+2012,Premier League,Arsenal FC,summer,out,Joel Campbell,131248,20,Costa Rica,Right Winger,RW,1500000.0,Real Betis Balompié,Spain,0.0,1
+2012,Premier League,Arsenal FC,summer,out,Ryo Miyaichi,129688,19,Japan,Right Winger,RW,3000000.0,Wigan Athletic,England,0.0,1
+2012,Premier League,Arsenal FC,summer,out,Nicklas Bendtner,34557,24,Denmark,Centre-Forward,CF,8500000.0,Juventus FC,Italy,0.0,1
+2012,Premier League,Arsenal FC,summer,out,Craig Eastmond,67426,21,England,Central Midfield,CM,500000.0,Colchester United,England,0.0,1
+2012,Premier League,Arsenal FC,summer,out,Wellington Silva,121990,19,Brazil,Right Winger,RW,500000.0,SD Ponferradina,Spain,0.0,1
+2012,Premier League,Arsenal FC,winter,out,Johan Djourou,34561,25,Switzerland,Centre-Back,CB,6000000.0,Hannover 96,Germany,400000.0,1
+2012,Premier League,Arsenal FC,winter,out,Emmanuel Frimpong,93056,20,Ghana,Defensive Midfield,DM,1500000.0,Charlton Athletic,England,0.0,1
+2012,Premier League,Arsenal FC,winter,out,Marouane Chamakh,19085,28,Morocco,Centre-Forward,CF,5500000.0,West Ham United,England,0.0,1
+2012,Premier League,Arsenal FC,winter,out,André Santos,54275,29,Brazil,Left-Back,LB,4500000.0,Grêmio Foot-Ball Porto Alegrense,Brazil,0.0,1
+2012,Premier League,Arsenal FC,winter,out,Emmanuel Frimpong,93056,21,Ghana,Defensive Midfield,DM,1500000.0,Fulham FC,England,0.0,1
+2012,Premier League,Aston Villa,summer,in,Christian Benteke,50201,21,Belgium,Centre-Forward,CF,3000000.0,KRC Genk,Belgium,8800000.0,0
+2012,Premier League,Aston Villa,summer,in,Ron Vlaar,30697,27,Netherlands,Centre-Back,CB,6000000.0,Feyenoord Rotterdam,Netherlands,3800000.0,0
+2012,Premier League,Aston Villa,summer,in,Matthew Lowton,102258,23,England,Right-Back,RB,3500000.0,Sheffield United,England,3750000.0,0
+2012,Premier League,Aston Villa,summer,in,Joe Bennett,90964,22,England,Left-Back,LB,1250000.0,Middlesbrough FC,England,3150000.0,0
+2012,Premier League,Aston Villa,summer,in,Karim El Ahmadi,25523,27,Morocco,Defensive Midfield,DM,3750000.0,Feyenoord Rotterdam,Netherlands,2800000.0,0
+2012,Premier League,Aston Villa,summer,in,Ashley Westwood,91317,22,England,Defensive Midfield,DM,,Crewe Alexandra,England,2500000.0,0
+2012,Premier League,Aston Villa,summer,in,Jordan Bowery,94655,21,St. Kitts & Nevis,Centre-Back,CB,75000.0,Chesterfield FC,England,630000.0,0
+2012,Premier League,Aston Villa,summer,in,Brett Holman,21496,28,Australia,Attacking Midfield,AM,3000000.0,AZ Alkmaar,Netherlands,0.0,0
+2012,Premier League,Aston Villa,winter,in,Yacouba Sylla,160080,22,Mali,Defensive Midfield,DM,800000.0,Clermont Foot Auvergne 63,France,2400000.0,0
+2012,Premier League,Aston Villa,winter,in,Simon Dawkins,57488,25,Jamaica,Left Winger,LW,200000.0,Tottenham Hotspur,England,0.0,1
+2012,Premier League,Aston Villa,summer,out,James Collins,12691,28,Wales,Centre-Back,CB,5000000.0,West Ham United,England,3200000.0,0
+2012,Premier League,Aston Villa,summer,out,Carlos Cuéllar,16576,30,Spain,Centre-Back,CB,4500000.0,Sunderland AFC,England,0.0,0
+2012,Premier League,Aston Villa,summer,out,Jean Makoun,5648,29,Cameroon,Defensive Midfield,DM,5000000.0,Stade Rennais FC,France,0.0,1
+2012,Premier League,Aston Villa,summer,out,Nathan Delfouneso,62642,21,England,Centre-Forward,CF,2500000.0,Blackpool FC,England,0.0,1
+2012,Premier League,Aston Villa,summer,out,Stephen Warnock,3308,30,England,Left-Back,LB,4500000.0,Bolton Wanderers,England,0.0,1
+2012,Premier League,Aston Villa,summer,out,Daniel Johnson,169092,20,Jamaica,Central Midfield,CM,,Yeovil Town,England,0.0,1
+2012,Premier League,Aston Villa,summer,out,Emile Heskey,3142,34,England,Centre-Forward,CF,1000000.0,Without Club,,,0
+2012,Premier League,Aston Villa,winter,out,Stephen Warnock,3308,31,England,Left-Back,LB,2500000.0,Leeds United,England,0.0,0
+2012,Premier League,Aston Villa,winter,out,Mason Watkins-Clark,226045,18,Ireland,Centre-Back,CB,,Stoke City U21,England,0.0,0
+2012,Premier League,Aston Villa,winter,out,Alan Hutton,9619,27,Scotland,Right-Back,RB,6000000.0,Nottingham Forest,England,0.0,1
+2012,Premier League,Aston Villa,winter,out,Courtney Cameron,197787,19,England,Left Midfield,LM,,Rotherham United,England,0.0,1
+2012,Premier League,Aston Villa,winter,out,Alan Hutton,9619,28,Scotland,Right-Back,RB,4000000.0,RCD Mallorca,Spain,0.0,1
+2012,Premier League,Chelsea FC,summer,in,Eden Hazard,50202,21,Belgium,Left Winger,LW,33000000.0,LOSC Lille,France,35000000.0,0
+2012,Premier League,Chelsea FC,summer,in,Oscar,85314,20,Brazil,Attacking Midfield,AM,20000000.0,Sport Club Internacional,Brazil,32000000.0,0
+2012,Premier League,Chelsea FC,summer,in,Victor Moses,59866,21,Nigeria,Right Winger,RW,6500000.0,Wigan Athletic,England,11500000.0,0
+2012,Premier League,Chelsea FC,summer,in,César Azpilicueta,57500,22,Spain,Centre-Back,CB,7500000.0,Olympique Marseille,France,8800000.0,0
+2012,Premier League,Chelsea FC,summer,in,Marko Marin,35251,23,Germany,Attacking Midfield,AM,13000000.0,SV Werder Bremen,Germany,8000000.0,0
+2012,Premier League,Chelsea FC,summer,in,Thorgan Hazard,102226,19,Belgium,Attacking Midfield,AM,500000.0,RC Lens,France,500000.0,0
+2012,Premier League,Chelsea FC,summer,in,Lamisha Musonda,142277,20,Belgium,Central Midfield,CM,100000.0,RSC Anderlecht,Belgium,,0
+2012,Premier League,Chelsea FC,winter,in,Demba Ba,40205,27,Senegal,Centre-Forward,CF,15000000.0,Newcastle United,England,8500000.0,0
+2012,Premier League,Chelsea FC,winter,in,Wallace Oliveira,181779,18,Brazil,Right-Back,RB,2000000.0,Fluminense Football Club,Brazil,5400000.0,0
+2012,Premier League,Chelsea FC,summer,out,Raúl Meireles,13168,29,Portugal,Central Midfield,CM,15000000.0,Fenerbahce,Türkiye,10000000.0,0
+2012,Premier League,Chelsea FC,summer,out,Kevin De Bruyne,88755,21,Belgium,Attacking Midfield,AM,9000000.0,SV Werder Bremen,Germany,450000.0,1
+2012,Premier League,Chelsea FC,summer,out,Didier Drogba,3924,34,Cote d'Ivoire,Centre-Forward,CF,5500000.0,Shanghai Shenhua Liansheng,China,0.0,0
+2012,Premier League,Chelsea FC,summer,out,Bosingwa,9813,29,Portugal,Right-Back,RB,5000000.0,Queens Park Rangers,England,0.0,0
+2012,Premier League,Chelsea FC,summer,out,Salomon Kalou,7971,26,Cote d'Ivoire,Left Winger,LW,6000000.0,LOSC Lille,France,0.0,0
+2012,Premier League,Chelsea FC,summer,out,Sam Hutchinson,40617,23,England,Defensive Midfield,DM,,Nottingham Forest,England,0.0,1
+2012,Premier League,Chelsea FC,summer,out,Conor Clifford,114091,20,Ireland,Central Midfield,CM,,Portsmouth FC,England,0.0,1
+2012,Premier League,Chelsea FC,summer,out,Josh McEachran,128905,19,England,Central Midfield,CM,4500000.0,Middlesbrough FC,England,0.0,1
+2012,Premier League,Chelsea FC,summer,out,Matej Delac,60220,19,Croatia,Goalkeeper,GK,750000.0,Vitória Guimarães SC,Portugal,0.0,1
+2012,Premier League,Chelsea FC,summer,out,Ulises Dávila,108820,21,Mexico,Attacking Midfield,AM,1000000.0,CE Sabadell FC,Spain,0.0,1
+2012,Premier League,Chelsea FC,summer,out,Thorgan Hazard,102226,19,Belgium,Attacking Midfield,AM,500000.0,Zulte Waregem,Belgium,0.0,1
+2012,Premier League,Chelsea FC,summer,out,Nathaniel Chalobah,128900,17,England,Defensive Midfield,DM,,Watford FC,England,0.0,1
+2012,Premier League,Chelsea FC,summer,out,Gaël Kakuta,74297,21,DR Congo,Attacking Midfield,AM,4000000.0,Vitesse Arnhem,Netherlands,0.0,1
+2012,Premier League,Chelsea FC,summer,out,Yossi Benayoun,7858,32,Israel,Right Winger,RW,4500000.0,West Ham United,England,0.0,1
+2012,Premier League,Chelsea FC,summer,out,Romelu Lukaku,96341,19,Belgium,Centre-Forward,CF,14000000.0,West Bromwich Albion,England,0.0,1
+2012,Premier League,Chelsea FC,summer,out,Amin Affane,154274,18,Sweden,Attacking Midfield,AM,100000.0,Roda JC Kerkrade,Netherlands,0.0,1
+2012,Premier League,Chelsea FC,summer,out,Michael Essien,5588,29,Ghana,Defensive Midfield,DM,24000000.0,Real Madrid,Spain,0.0,1
+2012,Premier League,Chelsea FC,winter,out,Daniel Sturridge,47082,23,England,Centre-Forward,CF,16000000.0,Liverpool FC,England,15000000.0,0
+2012,Premier League,Chelsea FC,winter,out,Patrick Bamford,183334,19,England,Centre-Forward,CF,,Milton Keynes Dons,England,0.0,1
+2012,Premier League,Chelsea FC,winter,out,Conor Clifford,114091,21,Ireland,Central Midfield,CM,,Crawley Town,England,0.0,1
+2012,Premier League,Chelsea FC,winter,out,Todd Kane,154287,19,England,Right-Back,RB,,Preston North End,England,0.0,1
+2012,Premier League,Chelsea FC,winter,out,Anjur Idrisson,178088,18,Sweden,Central Midfield,CM,,Lärje-Angereds IF (- 2018),Sweden,0.0,1
+2012,Premier League,Chelsea FC,winter,out,Wallace Oliveira,181779,18,Brazil,Right-Back,RB,2000000.0,Fluminense Football Club,Brazil,0.0,1
+2012,Premier League,Chelsea FC,winter,out,Todd Kane,154287,19,England,Right-Back,RB,,Blackburn Rovers,England,0.0,1
+2012,Premier League,Chelsea FC,winter,out,Matej Delac,60220,20,Croatia,Goalkeeper,GK,750000.0,NK Inter Zapresic,Croatia,0.0,1
+2012,Premier League,Chelsea FC,winter,out,Todd Kane,154287,19,England,Right-Back,RB,,Blackburn Rovers,England,0.0,1
+2012,Premier League,Chelsea FC,winter,out,Lucas Piazón,176485,18,Brazil,Defensive Midfield,DM,7000000.0,Málaga CF,Spain,0.0,1
+2012,Premier League,Chelsea FC,winter,out,Conor Clifford,114091,21,Ireland,Central Midfield,CM,,Without Club,,,0
+2012,Premier League,Everton FC,summer,in,Kevin Mirallas,33639,24,Belgium,Right Winger,RW,8000000.0,Olympiacos Piraeus,Greece,7650000.0,0
+2012,Premier League,Everton FC,summer,in,Steven Pienaar,4321,30,South Africa,Left Midfield,LM,7000000.0,Tottenham Hotspur,England,5750000.0,0
+2012,Premier League,Everton FC,summer,in,Bryan Oviedo,124983,22,Costa Rica,Left-Back,LB,800000.0,FC Copenhagen,Denmark,4500000.0,0
+2012,Premier League,Everton FC,summer,in,Matty Kennedy,132207,17,Northern Ireland,Left Winger,LW,150000.0,Kilmarnock FC,Scotland,250000.0,0
+2012,Premier League,Everton FC,summer,in,Steven Naismith,12763,25,Scotland,Second Striker,SS,4000000.0,Rangers FC,Scotland,0.0,0
+2012,Premier League,Everton FC,summer,in,Ben McLaughlin,203828,17,Ireland,Right-Back,RB,,Dundalk FC,Ireland,,0
+2012,Premier League,Everton FC,summer,in,Thomas Hitzlsperger,1573,30,Germany,Central Midfield,CM,1250000.0,Without Club,,,0
+2012,Premier League,Everton FC,winter,in,John Stones,186590,18,England,Centre-Back,CB,100000.0,Barnsley FC,England,3500000.0,0
+2012,Premier League,Everton FC,summer,out,Jack Rodwell,57079,21,England,Centre-Back,CB,15000000.0,Manchester City,England,15000000.0,0
+2012,Premier League,Everton FC,summer,out,Joseph Yobo,3270,31,Nigeria,Centre-Back,CB,8500000.0,Fenerbahce,Türkiye,2500000.0,0
+2012,Premier League,Everton FC,summer,out,Tim Cahill,13556,32,Australia,Attacking Midfield,AM,5000000.0,New York Red Bulls,United States,1250000.0,0
+2012,Premier League,Everton FC,summer,out,Gerard Kinsella,121258,20,England,Central Midfield,CM,,Fleetwood Town,England,0.0,0
+2012,Premier League,Everton FC,summer,out,Ross Barkley,131978,18,England,Central Midfield,CM,4500000.0,Sheffield Wednesday,England,0.0,1
+2012,Premier League,Everton FC,summer,out,Marcus Hahnemann,4140,40,United States,Goalkeeper,GK,500000.0,Without Club,,,0
+2012,Premier League,Everton FC,summer,out,Jose Baxter,82734,20,England,Attacking Midfield,AM,,Without Club,,,0
+2012,Premier League,Everton FC,summer,out,James McFadden,9956,29,Scotland,Second Striker,SS,1500000.0,Without Club,,,0
+2012,Premier League,Everton FC,summer,out,Denis Stracqualursi,92544,24,Argentina,Centre-Forward,CF,2000000.0,Club Atlético Tigre,Argentina,0.0,1
+2012,Premier League,Everton FC,summer,out,Royston Drenthe,35631,25,Netherlands,Left Midfield,LM,4000000.0,Real Madrid,Spain,0.0,1
+2012,Premier League,Everton FC,winter,out,Ross Barkley,131978,19,England,Central Midfield,CM,4500000.0,Leeds United,England,0.0,1
+2012,Premier League,Everton FC,winter,out,John Lundstram,156941,19,England,Defensive Midfield,DM,,Doncaster Rovers,England,0.0,1
+2012,Premier League,Everton FC,winter,out,Magaye Gueye,91956,22,Senegal,Centre-Forward,CF,2500000.0,Stade Brestois 29,France,0.0,1
+2012,Premier League,Fulham FC,summer,in,Dimitar Berbatov,65,31,Bulgaria,Centre-Forward,CF,11500000.0,Manchester United,England,5000000.0,0
+2012,Premier League,Fulham FC,summer,in,Ashkan Dejagah,13979,26,Iran,Right Winger,RW,5000000.0,VfL Wolfsburg,Germany,2500000.0,0
+2012,Premier League,Fulham FC,summer,in,Kieran Richardson,3548,27,England,Left-Back,LB,5000000.0,Sunderland AFC,England,2500000.0,0
+2012,Premier League,Fulham FC,summer,in,Georgios Karagounis,6106,35,Greece,Central Midfield,CM,1000000.0,Panathinaikos FC,Greece,0.0,0
+2012,Premier League,Fulham FC,summer,in,Mladen Petric,2874,31,Croatia,Centre-Forward,CF,5000000.0,Hamburger SV,Germany,0.0,0
+2012,Premier League,Fulham FC,summer,in,Hugo Rodallega,37934,26,Colombia,Centre-Forward,CF,4500000.0,Wigan Athletic,England,0.0,0
+2012,Premier League,Fulham FC,summer,in,Sascha Riether,1662,29,Germany,Right-Back,RB,2500000.0,1.FC Köln,Germany,0.0,1
+2012,Premier League,Fulham FC,summer,in,Mickaël Tavares,45139,29,Senegal,Defensive Midfield,DM,300000.0,Without Club,,,0
+2012,Premier League,Fulham FC,winter,in,Eyong Enoh,47344,26,Cameroon,Defensive Midfield,DM,2000000.0,Ajax Amsterdam,Netherlands,0.0,1
+2012,Premier League,Fulham FC,winter,in,Emmanuel Frimpong,93056,21,Ghana,Defensive Midfield,DM,1500000.0,Arsenal FC,England,0.0,1
+2012,Premier League,Fulham FC,winter,in,Urby Emanuelson,20586,26,Netherlands,Central Midfield,CM,8800000.0,AC Milan,Italy,0.0,1
+2012,Premier League,Fulham FC,winter,in,Stanislav Manolev,36233,27,Bulgaria,Right-Back,RB,3000000.0,PSV Eindhoven,Netherlands,0.0,1
+2012,Premier League,Fulham FC,summer,out,Mousa Dembélé,19368,25,Belgium,Central Midfield,CM,13000000.0,Tottenham Hotspur,England,19000000.0,0
+2012,Premier League,Fulham FC,summer,out,Clint Dempsey,27577,29,United States,Second Striker,SS,15000000.0,Tottenham Hotspur,England,7500000.0,0
+2012,Premier League,Fulham FC,summer,out,Dickson Etuhu,14011,30,Nigeria,Defensive Midfield,DM,2000000.0,Blackburn Rovers,England,1900000.0,0
+2012,Premier League,Fulham FC,summer,out,Marcel Gecov,34534,24,Czech Republic,Central Midfield,CM,500000.0,KAA Gent,Belgium,780000.0,0
+2012,Premier League,Fulham FC,summer,out,Danny Hoesen,81163,21,Netherlands,Centre-Forward,CF,,Ajax Amsterdam U21,Netherlands,500000.0,0
+2012,Premier League,Fulham FC,summer,out,Andy Johnson,14031,31,England,Centre-Forward,CF,2500000.0,Queens Park Rangers,England,0.0,0
+2012,Premier League,Fulham FC,summer,out,Rafik Halliche,67815,25,Algeria,Centre-Back,CB,750000.0,Académica Coimbra,Portugal,0.0,0
+2012,Premier League,Fulham FC,summer,out,Bjørn Helge Riise,13485,29,Norway,Central Midfield,CM,500000.0,Lillestrøm SK,Norway,0.0,0
+2012,Premier League,Fulham FC,summer,out,Orlando Sá,64535,24,Portugal,Centre-Forward,CF,1000000.0,AEL Limassol,Cyprus,0.0,0
+2012,Premier League,Fulham FC,summer,out,Pavel Pogrebnyak,15074,28,Russia,Centre-Forward,CF,4500000.0,Reading FC,England,0.0,0
+2012,Premier League,Fulham FC,summer,out,Danny Murphy,3221,35,England,Central Midfield,CM,1000000.0,Blackburn Rovers,England,0.0,0
+2012,Premier League,Fulham FC,summer,out,Marcus Bettinelli,116648,20,England,Goalkeeper,GK,,Dartford FC,England,0.0,1
+2012,Premier League,Fulham FC,summer,out,Dan Burn,134270,20,England,Centre-Back,CB,,Yeovil Town,England,0.0,1
+2012,Premier League,Fulham FC,summer,out,Kerim Frei,146844,18,Türkiye,Left Winger,LW,3000000.0,Cardiff City,England,0.0,1
+2012,Premier League,Fulham FC,summer,out,Matthew Briggs,51318,21,Guyana,Centre-Back,CB,1500000.0,Bristol City,England,0.0,1
+2012,Premier League,Fulham FC,summer,out,Neil Etheridge,61694,22,Philippines,Goalkeeper,GK,500000.0,Bristol Rovers,England,0.0,1
+2012,Premier League,Fulham FC,summer,out,Emmanuel Frimpong,93056,21,Ghana,Defensive Midfield,DM,1500000.0,Arsenal FC,England,0.0,1
+2012,Premier League,Fulham FC,winter,out,Stephen Kelly,12125,29,Ireland,Right-Back,RB,2000000.0,Reading FC,England,1500000.0,0
+2012,Premier League,Fulham FC,winter,out,David Stockdale,67339,27,England,Goalkeeper,GK,3500000.0,Hull City,England,240000.0,1
+2012,Premier League,Fulham FC,winter,out,David Stockdale,67339,27,England,Goalkeeper,GK,3500000.0,Hull City,England,0.0,1
+2012,Premier League,Fulham FC,winter,out,Marcello Trotta,129505,20,Italy,Centre-Forward,CF,250000.0,Brentford FC,England,0.0,1
+2012,Premier League,Fulham FC,winter,out,Ryan Williams,192239,19,Australia,Right Midfield,RM,,Gillingham FC,England,0.0,1
+2012,Premier League,Fulham FC,winter,out,Pajtim Kasami,130108,20,Switzerland,Central Midfield,CM,2000000.0,FC Luzern,Switzerland,0.0,1
+2012,Premier League,Fulham FC,winter,out,Alexander Kacaniklic,51040,21,Sweden,Right Winger,RW,2000000.0,Burnley FC,England,0.0,1
+2012,Premier League,Fulham FC,winter,out,Csaba Somogyi,108471,27,Hungary,Goalkeeper,GK,250000.0,Dartford FC,England,0.0,1
+2012,Premier League,Fulham FC,winter,out,Matthew Briggs,51318,21,Guyana,Centre-Back,CB,1500000.0,Watford FC,England,0.0,1
+2012,Premier League,Fulham FC,winter,out,Zdenek Grygera,6833,32,Czech Republic,Right-Back,RB,750000.0,Retired,,,0
+2012,Premier League,Fulham FC,winter,out,Mickaël Tavares,45139,30,Senegal,Defensive Midfield,DM,300000.0,Without Club,,,0
+2012,Premier League,Liverpool FC,summer,in,Joe Allen,51452,22,Wales,Central Midfield,CM,4000000.0,Swansea City,England,19000000.0,0
+2012,Premier League,Liverpool FC,summer,in,Fabio Borini,96754,21,Italy,Centre-Forward,CF,9000000.0,AS Roma,Italy,13300000.0,0
+2012,Premier League,Liverpool FC,summer,in,Nuri Şahin,31095,23,Türkiye,Defensive Midfield,DM,12000000.0,Real Madrid,Spain,5000000.0,1
+2012,Premier League,Liverpool FC,summer,in,Oussama Assaidi,57275,24,Morocco,Left Winger,LW,7000000.0,SC Heerenveen,Netherlands,4000000.0,0
+2012,Premier League,Liverpool FC,summer,in,Samed Yesil,95295,18,Germany,Centre-Forward,CF,600000.0,Bayer 04 Leverkusen,Germany,1300000.0,0
+2012,Premier League,Liverpool FC,winter,in,Daniel Sturridge,47082,23,England,Centre-Forward,CF,16000000.0,Chelsea FC,England,15000000.0,0
+2012,Premier League,Liverpool FC,winter,in,Philippe Coutinho,80444,20,Brazil,Attacking Midfield,AM,9000000.0,Inter Milan,Italy,13000000.0,0
+2012,Premier League,Liverpool FC,summer,out,Charlie Adam,28990,26,Scotland,Central Midfield,CM,8000000.0,Stoke City,England,6200000.0,0
+2012,Premier League,Liverpool FC,summer,out,Alberto Aquilani,5957,28,Italy,Central Midfield,CM,9000000.0,ACF Fiorentina,Italy,2000000.0,0
+2012,Premier League,Liverpool FC,summer,out,Andy Carroll,48066,23,England,Centre-Forward,CF,15500000.0,West Ham United,England,1250000.0,1
+2012,Premier League,Liverpool FC,summer,out,Dirk Kuyt,4010,31,Netherlands,Right Winger,RW,4500000.0,Fenerbahce,Türkiye,1000000.0,0
+2012,Premier League,Liverpool FC,summer,out,Lewis Hatch,175731,18,England,Central Midfield,CM,,Accrington Stanley,England,0.0,0
+2012,Premier League,Liverpool FC,summer,out,Stephen Darby,29933,23,England,Right-Back,RB,200000.0,Bradford City,England,0.0,0
+2012,Premier League,Liverpool FC,summer,out,Maxi Rodríguez,7895,31,Argentina,Left Winger,LW,3500000.0,CA Newell's Old Boys,Argentina,0.0,0
+2012,Premier League,Liverpool FC,summer,out,Craig Bellamy,3297,33,Wales,Left Winger,LW,3000000.0,Cardiff City,England,0.0,0
+2012,Premier League,Liverpool FC,summer,out,Nathan Eccleston,88983,21,England,Centre-Forward,CF,,Blackpool FC,England,0.0,0
+2012,Premier League,Liverpool FC,summer,out,Jay Spearing,52111,23,England,Defensive Midfield,DM,3000000.0,Bolton Wanderers,England,0.0,1
+2012,Premier League,Liverpool FC,winter,out,Joe Cole,3876,31,England,Attacking Midfield,AM,7500000.0,West Ham United,England,0.0,0
+2012,Premier League,Liverpool FC,winter,out,Doni,20392,33,Brazil,Goalkeeper,GK,500000.0,Botafogo FC,Brazil,0.0,0
+2012,Premier League,Liverpool FC,winter,out,Danny Wilson,103819,20,Scotland,Centre-Back,CB,1500000.0,Bristol City,England,0.0,1
+2012,Premier League,Liverpool FC,winter,out,Jack Robinson,128909,19,England,Centre-Back,CB,,Wolverhampton Wanderers,England,0.0,1
+2012,Premier League,Liverpool FC,winter,out,Jamie Stephens,175747,19,England,Goalkeeper,GK,,Airbus UK Broughton,Wales,0.0,1
+2012,Premier League,Liverpool FC,winter,out,Danny Wilson,103819,21,Scotland,Centre-Back,CB,1500000.0,Heart of Midlothian FC,Scotland,0.0,1
+2012,Premier League,Liverpool FC,winter,out,Dani Pacheco,28285,22,Spain,Central Midfield,CM,600000.0,SD Huesca,Spain,0.0,1
+2012,Premier League,Liverpool FC,winter,out,Nuri Şahin,31095,24,Türkiye,Defensive Midfield,DM,15000000.0,Real Madrid,Spain,0.0,1
+2012,Premier League,Manchester City,summer,in,Javi García,36350,25,Spain,Defensive Midfield,DM,15000000.0,SL Benfica,Portugal,20200000.0,0
+2012,Premier League,Manchester City,summer,in,Matija Nastasić,143559,19,Serbia,Centre-Back,CB,5500000.0,ACF Fiorentina,Italy,15200000.0,0
+2012,Premier League,Manchester City,summer,in,Jack Rodwell,57079,21,England,Centre-Back,CB,15000000.0,Everton FC,England,15000000.0,0
+2012,Premier League,Manchester City,summer,in,Scott Sinclair,31552,23,England,Left Winger,LW,8000000.0,Swansea City,England,7800000.0,0
+2012,Premier League,Manchester City,summer,in,Maicon,18301,31,Brazil,Right-Back,RB,14500000.0,Inter Milan,Italy,3750000.0,0
+2012,Premier League,Manchester City,summer,in,Richard Wright,3120,34,England,Goalkeeper,GK,250000.0,Preston North End,England,0.0,0
+2012,Premier League,Manchester City,summer,out,Adam Johnson,31579,25,England,Right Winger,RW,10500000.0,Sunderland AFC,England,12600000.0,0
+2012,Premier League,Manchester City,summer,out,Emmanuel Adebayor,8883,28,Togo,Centre-Forward,CF,25000000.0,Tottenham Hotspur,England,6400000.0,0
+2012,Premier League,Manchester City,summer,out,Nigel de Jong,4672,27,Netherlands,Defensive Midfield,DM,13000000.0,AC Milan,Italy,3500000.0,0
+2012,Premier League,Manchester City,summer,out,Vladimír Weiss,92701,22,Slovakia,Left Winger,LW,3500000.0,Delfino Pescara 1936,Italy,1800000.0,0
+2012,Premier League,Manchester City,summer,out,Stuart Taylor,3190,31,England,Goalkeeper,GK,750000.0,Reading FC,England,0.0,0
+2012,Premier League,Manchester City,summer,out,Ahmad Benali,121402,20,Libya,Central Midfield,CM,75000.0,Brescia Calcio,Italy,0.0,0
+2012,Premier League,Manchester City,summer,out,Stefan Savic,107010,21,Montenegro,Centre-Back,CB,8000000.0,ACF Fiorentina,Italy,0.0,0
+2012,Premier League,Manchester City,summer,out,Abdul Razak,177321,19,Cote d'Ivoire,Central Midfield,CM,,Charlton Athletic,England,0.0,1
+2012,Premier League,Manchester City,summer,out,Reece Wabara,121416,20,England,Right-Back,RB,,Oldham Athletic,England,0.0,1
+2012,Premier League,Manchester City,summer,out,Ryan McGivern,61632,22,Northern Ireland,Centre-Back,CB,500000.0,Hibernian FC,Scotland,0.0,1
+2012,Premier League,Manchester City,summer,out,Roque Santa Cruz,215,31,Paraguay,Centre-Forward,CF,3000000.0,Málaga CF,Spain,0.0,1
+2012,Premier League,Manchester City,summer,out,Abdisalam Ibrahim,121406,21,Norway,Central Midfield,CM,400000.0,Strømsgodset IF,Norway,0.0,1
+2012,Premier League,Manchester City,summer,out,Wayne Bridge,3682,31,England,Left-Back,LB,2000000.0,Brighton & Hove Albion,England,0.0,1
+2012,Premier League,Manchester City,summer,out,Dedryck Boyata,88262,21,Belgium,Centre-Back,CB,2000000.0,Twente Enschede FC,Netherlands,0.0,1
+2012,Premier League,Manchester City,summer,out,Mohammed Abu,164478,20,Ghana,Defensive Midfield,DM,1200000.0,Rayo Vallecano,Spain,0.0,1
+2012,Premier League,Manchester City,summer,out,Owen Hargreaves,201,31,England,Defensive Midfield,DM,1000000.0,Retired,,,0
+2012,Premier League,Manchester City,summer,out,David Pizarro,5896,32,Chile,Central Midfield,CM,3000000.0,AS Roma,Italy,0.0,1
+2012,Premier League,Manchester City,winter,out,Mario Balotelli,45146,22,Italy,Centre-Forward,CF,24000000.0,AC Milan,Italy,20000000.0,0
+2012,Premier League,Manchester City,winter,out,Adam Drury,186292,19,England,Right-Back,RB,,Burton Albion,England,0.0,1
+2012,Premier League,Manchester City,winter,out,Abdisalam Ibrahim,121406,21,Norway,Central Midfield,CM,500000.0,Strømsgodset IF,Norway,0.0,1
+2012,Premier League,Manchester City,winter,out,Reece Wabara,121416,21,England,Right-Back,RB,,Blackpool FC,England,0.0,1
+2012,Premier League,Manchester City,winter,out,Karim Rekik,182579,18,Netherlands,Centre-Back,CB,,Blackburn Rovers,England,0.0,1
+2012,Premier League,Manchester City,winter,out,Eirik Holmen,121387,20,Norway,Goalkeeper,GK,,Scunthorpe United,England,0.0,1
+2012,Premier League,Manchester City,winter,out,Mohammed Abu,164478,21,Ghana,Defensive Midfield,DM,600000.0,FC Lorient,France,0.0,1
+2012,Premier League,Manchester City,winter,out,Gunnar Nielsen,23086,26,Faroe Islands,Goalkeeper,GK,,Without Club,,,0
+2012,Premier League,Manchester City,winter,out,Michael Johnson,45274,24,England,Defensive Midfield,DM,1500000.0,Retired,,,0
+2012,Premier League,Manchester United,summer,in,Robin van Persie,4380,29,Netherlands,Centre-Forward,CF,47500000.0,Arsenal FC,England,30700000.0,0
+2012,Premier League,Manchester United,summer,in,Shinji Kagawa,81785,23,Japan,Attacking Midfield,AM,22000000.0,Borussia Dortmund,Germany,16000000.0,0
+2012,Premier League,Manchester United,summer,in,Nick Powell,134424,18,England,Attacking Midfield,AM,250000.0,Crewe Alexandra,England,7500000.0,0
+2012,Premier League,Manchester United,summer,in,Ángelo Henríquez,189740,18,Chile,Centre-Forward,CF,150000.0,Club Universidad de Chile,Chile,5500000.0,0
+2012,Premier League,Manchester United,summer,in,Alexander Büttner,38003,23,Netherlands,Left-Back,LB,3000000.0,Vitesse Arnhem,Netherlands,5000000.0,0
+2012,Premier League,Manchester United,winter,in,Wilfried Zaha,145988,20,Cote d'Ivoire,Left Winger,LW,3500000.0,Crystal Palace,England,11750000.0,0
+2012,Premier League,Manchester United,summer,out,Dimitar Berbatov,65,31,Bulgaria,Centre-Forward,CF,11500000.0,Fulham FC,England,5000000.0,0
+2012,Premier League,Manchester United,summer,out,Ji-sung Park,4592,31,"Korea, South",Attacking Midfield,AM,6500000.0,Queens Park Rangers,England,3100000.0,0
+2012,Premier League,Manchester United,summer,out,Ritchie De Laet,55687,23,Belgium,Right-Back,RB,1250000.0,Leicester City,England,1250000.0,0
+2012,Premier League,Manchester United,summer,out,Tomasz Kuszczak,1320,30,Poland,Goalkeeper,GK,1250000.0,Brighton & Hove Albion,England,0.0,0
+2012,Premier League,Manchester United,summer,out,Reece Brown,127996,20,England,Centre-Back,CB,,Coventry City,England,0.0,1
+2012,Premier League,Manchester United,summer,out,Ben Amos,73472,22,England,Goalkeeper,GK,750000.0,Hull City,England,0.0,1
+2012,Premier League,Manchester United,summer,out,Fábio,61891,21,Brazil,Right-Back,RB,7500000.0,Queens Park Rangers,England,0.0,1
+2012,Premier League,Manchester United,summer,out,Michael Owen,1397,32,England,Centre-Forward,CF,1500000.0,Without Club,,,0
+2012,Premier League,Manchester United,winter,out,Federico Macheda,61887,21,Italy,Centre-Forward,CF,2500000.0,VfB Stuttgart,Germany,300000.0,1
+2012,Premier League,Manchester United,winter,out,Davide Petrucci,96798,21,Italy,Central Midfield,CM,,Peterborough United,England,0.0,1
+2012,Premier League,Manchester United,winter,out,Wilfried Zaha,145988,20,Cote d'Ivoire,Left Winger,LW,3500000.0,Crystal Palace,England,0.0,1
+2012,Premier League,Manchester United,winter,out,Reece Brown,127996,21,England,Centre-Back,CB,,Ipswich Town,England,0.0,1
+2012,Premier League,Manchester United,winter,out,Sam Johnstone,110864,19,England,Goalkeeper,GK,,Walsall FC,England,0.0,1
+2012,Premier League,Manchester United,winter,out,Bebé,153427,22,Cape Verde,Left Winger,LW,1000000.0,Rio Ave FC,Portugal,0.0,1
+2012,Premier League,Manchester United,winter,out,Ángelo Henríquez,189740,18,Chile,Centre-Forward,CF,5000000.0,Wigan Athletic,England,0.0,1
+2012,Premier League,Newcastle United,summer,in,Vurnon Anita,30670,23,Curacao,Defensive Midfield,DM,6000000.0,Ajax Amsterdam,Netherlands,8500000.0,0
+2012,Premier League,Newcastle United,summer,in,Gaël Bigirimana,158697,18,Burundi,Defensive Midfield,DM,750000.0,Coventry City,England,1250000.0,0
+2012,Premier League,Newcastle United,summer,in,Curtis Good,179471,19,Australia,Centre-Back,CB,200000.0,Melbourne Heart FC,Australia,515000.0,0
+2012,Premier League,Newcastle United,summer,in,Romain Amalfitano,137841,22,France,Central Midfield,CM,1500000.0,Stade Reims,France,0.0,0
+2012,Premier League,Newcastle United,winter,in,Mapou Yanga-Mbiwa,57480,23,France,Centre-Back,CB,9000000.0,Montpellier HSC,France,8000000.0,0
+2012,Premier League,Newcastle United,winter,in,Mathieu Debuchy,27306,27,France,Right-Back,RB,15000000.0,LOSC Lille,France,6200000.0,0
+2012,Premier League,Newcastle United,winter,in,Massadio Haïdara,170929,20,Mali,Left-Back,LB,2000000.0,AS Nancy-Lorraine,France,2500000.0,0
+2012,Premier League,Newcastle United,winter,in,Yoan Gouffran,23825,26,France,Left Winger,LW,7500000.0,FC Girondins Bordeaux,France,2000000.0,0
+2012,Premier League,Newcastle United,winter,in,Moussa Sissoko,46001,23,France,Central Midfield,CM,10000000.0,FC Toulouse,France,2000000.0,0
+2012,Premier League,Newcastle United,winter,in,Kevin Mbabu,183321,17,Switzerland,Right-Back,RB,50000.0,Servette FC,Switzerland,1000000.0,0
+2012,Premier League,Newcastle United,summer,out,Leon Best,28244,25,Ireland,Centre-Forward,CF,3000000.0,Blackburn Rovers,England,3800000.0,0
+2012,Premier League,Newcastle United,summer,out,Fraser Forster,52570,24,England,Goalkeeper,GK,2000000.0,Celtic FC,Scotland,2500000.0,0
+2012,Premier League,Newcastle United,summer,out,Peter Løvenkrands,9620,32,Denmark,Centre-Forward,CF,1000000.0,Birmingham City,England,0.0,0
+2012,Premier League,Newcastle United,summer,out,Tamás Kádár,64313,22,Hungary,Centre-Back,CB,500000.0,Roda JC Kerkrade,Netherlands,0.0,0
+2012,Premier League,Newcastle United,summer,out,Alan Smith,3768,31,England,Central Midfield,CM,500000.0,Milton Keynes Dons,England,0.0,0
+2012,Premier League,Newcastle United,summer,out,Danny Guthrie,16716,25,England,Central Midfield,CM,4000000.0,Reading FC,England,0.0,0
+2012,Premier League,Newcastle United,summer,out,Ryan McGorrigan,208753,19,England,Left Winger,LW,,Gateshead FC,England,0.0,0
+2012,Premier League,Newcastle United,summer,out,Ryan Donaldson,61569,21,England,Right Winger,RW,,Gateshead FC,England,0.0,0
+2012,Premier League,Newcastle United,summer,out,Phil Airey,62037,21,England,Centre-Forward,CF,,Blyth Spartans,England,0.0,0
+2012,Premier League,Newcastle United,summer,out,Paul Dummett,170321,20,Wales,Left-Back,LB,,St. Mirren FC,Scotland,0.0,1
+2012,Premier League,Newcastle United,winter,out,Demba Ba,40205,27,Senegal,Centre-Forward,CF,15000000.0,Chelsea FC,England,8500000.0,0
+2012,Premier League,Newcastle United,winter,out,Xisco,34564,26,Spain,Centre-Forward,CF,1000000.0,Córdoba CF,Spain,0.0,0
+2012,Premier League,Newcastle United,winter,out,Curtis Good,179471,19,Australia,Centre-Back,CB,500000.0,Bradford City,England,0.0,1
+2012,Premier League,Newcastle United,winter,out,Mehdi Abeid,111036,20,Algeria,Central Midfield,CM,,St. Johnstone FC,Scotland,0.0,1
+2012,Premier League,Newcastle United,winter,out,Sammy Ameobi,92381,20,England,Left Winger,LW,3000000.0,Middlesbrough FC,England,0.0,1
+2012,Premier League,Newcastle United,winter,out,Shane Ferguson,62052,21,Northern Ireland,Left Midfield,LM,1500000.0,Birmingham City,England,0.0,1
+2012,Premier League,Newcastle United,winter,out,Conor Newton,222148,21,England,Central Midfield,CM,,St. Mirren FC,Scotland,0.0,1
+2012,Premier League,Newcastle United,winter,out,Paul Dummett,170321,21,Wales,Left-Back,LB,,St. Mirren FC,Scotland,0.0,1
+2012,Premier League,Newcastle United,winter,out,Nile Ranger,88750,21,England,Centre-Forward,CF,1000000.0,Without Club,,,0
+2012,Premier League,Norwich City,summer,in,Robert Snodgrass,22614,24,Scotland,Right Winger,RW,3000000.0,Leeds United,England,3200000.0,0
+2012,Premier League,Norwich City,summer,in,Sébastien Bassong,33951,26,Cameroon,Centre-Back,CB,4500000.0,Tottenham Hotspur,England,3000000.0,0
+2012,Premier League,Norwich City,summer,in,Michael Turner,12127,28,England,Centre-Back,CB,4500000.0,Sunderland AFC,England,1900000.0,0
+2012,Premier League,Norwich City,summer,in,Alexander Tettey,12384,26,Norway,Defensive Midfield,DM,2250000.0,Stade Rennais FC,France,1500000.0,0
+2012,Premier League,Norwich City,summer,in,Mark Bunn,49319,27,England,Goalkeeper,GK,750000.0,Blackburn Rovers,England,1250000.0,0
+2012,Premier League,Norwich City,summer,in,Steven Whittaker,12704,28,Scotland,Right-Back,RB,2500000.0,Rangers FC,Scotland,0.0,0
+2012,Premier League,Norwich City,summer,in,Javier Garrido,23218,27,Spain,Left-Back,LB,900000.0,SS Lazio,Italy,0.0,1
+2012,Premier League,Norwich City,summer,in,Jacob Butterfield,39827,22,England,Central Midfield,CM,1000000.0,Barnsley FC,England,,0
+2012,Premier League,Norwich City,summer,in,Adel Gafaiti,193080,17,Algeria,Centre-Back,CB,,Rangers FC U20,Scotland,,0
+2012,Premier League,Norwich City,summer,in,Harry Kane,132098,19,England,Centre-Forward,CF,,Tottenham Hotspur,England,0.0,1
+2012,Premier League,Norwich City,winter,in,Luciano Becchio,71020,29,Argentina,Centre-Forward,CF,1250000.0,Leeds United,England,230000.0,0
+2012,Premier League,Norwich City,winter,in,Lee Camp,13443,28,Northern Ireland,Goalkeeper,GK,1250000.0,Nottingham Forest,England,0.0,0
+2012,Premier League,Norwich City,winter,in,Kei Kamara,39049,28,Sierra Leone,Centre-Forward,CF,500000.0,Sporting Kansas City,United States,0.0,1
+2012,Premier League,Norwich City,summer,out,Andrew Crofts,14003,28,Wales,Central Midfield,CM,2000000.0,Brighton & Hove Albion,England,380000.0,0
+2012,Premier League,Norwich City,summer,out,Zak Whitbread,22230,28,United States,Centre-Back,CB,1500000.0,Leicester City,England,0.0,0
+2012,Premier League,Norwich City,summer,out,Matt Ball,167385,19,Northern Ireland,Centre-Forward,CF,,Stevenage FC,England,0.0,0
+2012,Premier League,Norwich City,summer,out,Aaron Wilbraham,67202,32,England,Centre-Forward,CF,500000.0,Crystal Palace,England,0.0,0
+2012,Premier League,Norwich City,summer,out,Adam Drury,11663,33,England,Left-Back,LB,500000.0,Leeds United,England,0.0,0
+2012,Premier League,Norwich City,summer,out,Daniel Ayala,78966,21,Spain,Centre-Back,CB,500000.0,Nottingham Forest,England,0.0,1
+2012,Premier League,Norwich City,summer,out,James Vaughan,30471,24,England,Centre-Forward,CF,1500000.0,Huddersfield Town,England,0.0,1
+2012,Premier League,Norwich City,summer,out,Tom Adeyemi,106251,20,England,Central Midfield,CM,,Brentford FC,England,0.0,1
+2012,Premier League,Norwich City,summer,out,Korey Smith,80435,21,England,Central Midfield,CM,1000000.0,Yeovil Town,England,0.0,1
+2012,Premier League,Norwich City,summer,out,Elliott Ward,15838,27,England,Centre-Back,CB,2000000.0,Nottingham Forest,England,0.0,1
+2012,Premier League,Norwich City,summer,out,Kei Kamara,39049,28,Sierra Leone,Centre-Forward,CF,500000.0,Sporting Kansas City,United States,0.0,1
+2012,Premier League,Norwich City,winter,out,Simon Lappin,14792,30,Scotland,Central Midfield,CM,750000.0,Cardiff City,England,0.0,0
+2012,Premier League,Norwich City,winter,out,Steve Morison,104725,29,Wales,Centre-Forward,CF,2000000.0,Leeds United,England,0.0,0
+2012,Premier League,Norwich City,winter,out,Chris Martin,46154,24,Scotland,Centre-Forward,CF,500000.0,Swindon Town,England,0.0,1
+2012,Premier League,Norwich City,winter,out,Simon Lappin,14792,29,Scotland,Central Midfield,CM,750000.0,Cardiff City,England,0.0,1
+2012,Premier League,Norwich City,winter,out,Jacob Butterfield,39827,22,England,Central Midfield,CM,1000000.0,Bolton Wanderers,England,0.0,1
+2012,Premier League,Norwich City,winter,out,Elliott Ward,15838,27,England,Centre-Back,CB,2000000.0,Nottingham Forest,England,0.0,1
+2012,Premier League,Norwich City,winter,out,Jacob Butterfield,39827,22,England,Central Midfield,CM,1000000.0,Crystal Palace,England,0.0,1
+2012,Premier League,Norwich City,winter,out,Declan Rudd,74088,22,England,Goalkeeper,GK,500000.0,Preston North End,England,0.0,1
+2012,Premier League,Norwich City,winter,out,Chris Martin,46154,24,Scotland,Centre-Forward,CF,500000.0,Derby County,England,0.0,1
+2012,Premier League,Norwich City,winter,out,Leon Barnett,33484,27,England,Centre-Back,CB,2000000.0,Cardiff City,England,0.0,1
+2012,Premier League,Norwich City,winter,out,Korey Smith,80435,22,England,Central Midfield,CM,1000000.0,Oldham Athletic,England,0.0,1
+2012,Premier League,Norwich City,winter,out,Jed Steer,110867,20,England,Goalkeeper,GK,250000.0,Cambridge United,England,0.0,1
+2012,Premier League,Norwich City,winter,out,Harry Kane,132098,19,England,Centre-Forward,CF,500000.0,Tottenham Hotspur,England,0.0,1
+2012,Premier League,Queens Park Rangers,summer,in,Esteban Granero,44065,25,Spain,Central Midfield,CM,7000000.0,Real Madrid,Spain,8000000.0,0
+2012,Premier League,Queens Park Rangers,summer,in,Stéphane Mbia,27470,26,Cameroon,Defensive Midfield,DM,9000000.0,Olympique Marseille,France,6000000.0,0
+2012,Premier League,Queens Park Rangers,summer,in,Samba Diakité,136589,23,Mali,Defensive Midfield,DM,4500000.0,AS Nancy-Lorraine,France,4000000.0,0
+2012,Premier League,Queens Park Rangers,summer,in,Junior Hoilett,58993,22,Canada,Left Winger,LW,9000000.0,Blackburn Rovers,England,3750000.0,0
+2012,Premier League,Queens Park Rangers,summer,in,Ji-sung Park,4592,31,"Korea, South",Attacking Midfield,AM,6500000.0,Manchester United,England,3100000.0,0
+2012,Premier League,Queens Park Rangers,summer,in,Rob Green,11680,32,England,Goalkeeper,GK,3000000.0,West Ham United,England,0.0,0
+2012,Premier League,Queens Park Rangers,summer,in,Júlio César,22412,32,Brazil,Goalkeeper,GK,15000000.0,Inter Milan,Italy,0.0,0
+2012,Premier League,Queens Park Rangers,summer,in,Andy Johnson,14031,31,England,Centre-Forward,CF,2500000.0,Fulham FC,England,0.0,0
+2012,Premier League,Queens Park Rangers,summer,in,Ryan Nelsen,28878,34,New Zealand,Centre-Back,CB,750000.0,Tottenham Hotspur,England,0.0,0
+2012,Premier League,Queens Park Rangers,summer,in,Bosingwa,9813,29,Portugal,Right-Back,RB,5000000.0,Chelsea FC,England,0.0,0
+2012,Premier League,Queens Park Rangers,summer,in,Fábio,61891,21,Brazil,Right-Back,RB,7500000.0,Manchester United,England,0.0,1
+2012,Premier League,Queens Park Rangers,winter,in,Christopher Samba,29016,28,Congo,Centre-Back,CB,15000000.0,Anzhi Makhachkala,Russia,15000000.0,0
+2012,Premier League,Queens Park Rangers,winter,in,Loïc Rémy,45121,26,France,Centre-Forward,CF,15000000.0,Olympique Marseille,France,10500000.0,0
+2012,Premier League,Queens Park Rangers,winter,in,Jermaine Jenas,3461,29,England,Central Midfield,CM,3500000.0,Tottenham Hotspur,England,0.0,0
+2012,Premier League,Queens Park Rangers,winter,in,Andros Townsend,61842,21,England,Right Winger,RW,500000.0,Tottenham Hotspur,England,0.0,1
+2012,Premier League,Queens Park Rangers,winter,in,Seok-yeong Yun,126643,22,"Korea, South",Left-Back,LB,750000.0,Chunnam Dragons,"Korea, South",,0
+2012,Premier League,Queens Park Rangers,winter,in,Tal Ben Haim,20714,30,Israel,Centre-Back,CB,1000000.0,Without Club,,,0
+2012,Premier League,Queens Park Rangers,summer,out,Matthew Connolly,34559,24,England,Centre-Back,CB,1500000.0,Cardiff City,England,635000.0,0
+2012,Premier League,Queens Park Rangers,summer,out,Paddy Kenny,13524,34,Ireland,Goalkeeper,GK,1000000.0,Leeds United,England,500000.0,0
+2012,Premier League,Queens Park Rangers,summer,out,Tommy Smith,12401,32,England,Centre-Forward,CF,750000.0,Cardiff City,England,375000.0,0
+2012,Premier League,Queens Park Rangers,summer,out,Patrick Agyemang,13982,31,Ghana,Centre-Forward,CF,500000.0,Stevenage FC,England,0.0,0
+2012,Premier League,Queens Park Rangers,summer,out,Heidar Helguson,9886,34,Iceland,Centre-Forward,CF,500000.0,Cardiff City,England,0.0,0
+2012,Premier League,Queens Park Rangers,summer,out,Elvijs Putnins,120713,21,Latvia,Goalkeeper,GK,50000.0,Harrow Borough FC,England,0.0,0
+2012,Premier League,Queens Park Rangers,summer,out,Peter Ramage,28801,28,England,Centre-Back,CB,750000.0,Crystal Palace,England,0.0,0
+2012,Premier League,Queens Park Rangers,summer,out,Rowan Vine,7930,29,England,Centre-Forward,CF,500000.0,St. Johnstone FC,Scotland,0.0,0
+2012,Premier League,Queens Park Rangers,summer,out,Lee Cook,13783,30,England,Left Winger,LW,500000.0,Leyton Orient,England,0.0,0
+2012,Premier League,Queens Park Rangers,summer,out,Danny Shittu,13736,31,Nigeria,Centre-Back,CB,750000.0,Millwall FC,England,0.0,0
+2012,Premier League,Queens Park Rangers,summer,out,Fitz Hall,6580,31,England,Centre-Back,CB,750000.0,Watford FC,England,0.0,0
+2012,Premier League,Queens Park Rangers,summer,out,Ángelo Balanta,43696,22,Colombia,Attacking Midfield,AM,,Milton Keynes Dons,England,0.0,1
+2012,Premier League,Queens Park Rangers,summer,out,Joey Barton,3292,29,England,Central Midfield,CM,5000000.0,Olympique Marseille,France,0.0,1
+2012,Premier League,Queens Park Rangers,summer,out,Jay Bothroyd,8188,30,England,Centre-Forward,CF,1500000.0,Sheffield Wednesday,England,0.0,1
+2012,Premier League,Queens Park Rangers,summer,out,Rob Hulse,9980,32,England,Centre-Forward,CF,500000.0,Charlton Athletic,England,0.0,1
+2012,Premier League,Queens Park Rangers,summer,out,DJ Campbell,37896,30,England,Centre-Forward,CF,1500000.0,Ipswich Town,England,0.0,1
+2012,Premier League,Queens Park Rangers,summer,out,Bruno Andrade,169633,19,Portugal,Left Midfield,LM,,Wycombe Wanderers,England,0.0,1
+2012,Premier League,Queens Park Rangers,summer,out,Troy Hewitt,197884,22,England,Centre-Forward,CF,,Bury FC,England,0.0,1
+2012,Premier League,Queens Park Rangers,summer,out,Tal Ben Haim,20714,31,Israel,Centre-Back,CB,1000000.0,Toronto FC,United States,0.0,1
+2012,Premier League,Queens Park Rangers,summer,out,Ákos Buzsáky,13878,30,Hungary,Central Midfield,CM,1000000.0,Without Club,,,0
+2012,Premier League,Queens Park Rangers,summer,out,Danny Gabbidon,12709,32,Wales,Centre-Back,CB,500000.0,Without Club,,,0
+2012,Premier League,Queens Park Rangers,summer,out,Bruno Perone,67996,24,Brazil,Centre-Back,CB,250000.0,Tombense Futebol Clube (MG),Brazil,0.0,1
+2012,Premier League,Queens Park Rangers,summer,out,Fábio,61891,22,Brazil,Right-Back,RB,7000000.0,Manchester United,England,0.0,1
+2012,Premier League,Queens Park Rangers,summer,out,Andros Townsend,61842,21,England,Right Winger,RW,500000.0,Tottenham Hotspur,England,0.0,1
+2012,Premier League,Queens Park Rangers,summer,out,Samba Diakité,136589,23,Mali,Defensive Midfield,DM,4500000.0,AS Nancy-Lorraine,France,0.0,1
+2012,Premier League,Queens Park Rangers,winter,out,Djibril Cissé,3966,31,France,Centre-Forward,CF,6000000.0,Al-Gharafa SC,Qatar,2000000.0,1
+2012,Premier League,Queens Park Rangers,winter,out,Alejandro Faurlín,88067,26,Argentina,Central Midfield,CM,4000000.0,US Palermo,Italy,1000000.0,1
+2012,Premier League,Queens Park Rangers,winter,out,Gary Borrowdale,13993,27,England,Left-Back,LB,500000.0,Carrick Rangers FC,Northern Ireland,0.0,0
+2012,Premier League,Queens Park Rangers,winter,out,Kieron Dyer,3118,34,England,Right Midfield,RM,500000.0,Middlesbrough FC,England,0.0,0
+2012,Premier League,Queens Park Rangers,winter,out,DJ Campbell,37896,31,England,Centre-Forward,CF,1500000.0,Blackburn Rovers,England,0.0,1
+2012,Premier League,Queens Park Rangers,winter,out,Tom Hitchcock,121386,20,England,Centre-Forward,CF,,Bristol Rovers,England,0.0,1
+2012,Premier League,Queens Park Rangers,winter,out,Bradley Simmonds,265550,19,England,Central Midfield,CM,,Woking FC,England,0.0,1
+2012,Premier League,Queens Park Rangers,winter,out,Bradley Simmonds,265550,18,England,Central Midfield,CM,,Staines Town FC,England,0.0,1
+2012,Premier League,Queens Park Rangers,winter,out,Ángelo Balanta,43696,22,Colombia,Attacking Midfield,AM,,Yeovil Town,England,0.0,1
+2012,Premier League,Queens Park Rangers,winter,out,Mo Shariff,264509,20,England,Centre-Forward,CF,,Dagenham & Redbridge FC,England,0.0,1
+2012,Premier League,Queens Park Rangers,winter,out,Max Ehmer,158718,21,Germany,Centre-Back,CB,,Stevenage FC,England,0.0,1
+2012,Premier League,Queens Park Rangers,winter,out,Adam Francis,262096,19,England,Centre-Forward,CF,,Staines Town FC,England,0.0,1
+2012,Premier League,Queens Park Rangers,winter,out,Adam Francis,262096,19,England,Centre-Forward,CF,,Woking FC,England,0.0,1
+2012,Premier League,Queens Park Rangers,winter,out,Troy Hewitt,197884,23,England,Centre-Forward,CF,,Colchester United,England,0.0,1
+2012,Premier League,Queens Park Rangers,winter,out,Hogan Ephraim,31883,24,England,Left Midfield,LM,500000.0,Toronto FC,United States,0.0,1
+2012,Premier League,Queens Park Rangers,winter,out,Frankie Sutherland,148911,19,Ireland,Right Midfield,RM,,Portsmouth FC,England,0.0,1
+2012,Premier League,Queens Park Rangers,winter,out,Michael Harriman,155233,20,Ireland,Centre-Back,CB,,Wycombe Wanderers,England,0.0,1
+2012,Premier League,Queens Park Rangers,winter,out,Rob Hulse,9980,33,England,Centre-Forward,CF,500000.0,Millwall FC,England,0.0,1
+2012,Premier League,Queens Park Rangers,winter,out,Michael Doughty,173832,20,Wales,Central Midfield,CM,,St. Johnstone FC,Scotland,0.0,1
+2012,Premier League,Queens Park Rangers,winter,out,Anton Ferdinand,3698,27,England,Centre-Back,CB,2500000.0,Bursaspor,Türkiye,0.0,1
+2012,Premier League,Queens Park Rangers,winter,out,Ryan Nelsen,28878,35,New Zealand,Centre-Back,CB,,Retired,,,0
+2012,Premier League,Reading FC,summer,in,Adrian Mariappa,38145,25,Jamaica,Centre-Back,CB,2000000.0,Watford FC,England,3800000.0,0
+2012,Premier League,Reading FC,summer,in,Chris Gunter,43853,22,Wales,Right-Back,RB,1750000.0,Nottingham Forest,England,3000000.0,0
+2012,Premier League,Reading FC,summer,in,Stuart Taylor,3190,31,England,Goalkeeper,GK,750000.0,Manchester City,England,0.0,0
+2012,Premier League,Reading FC,summer,in,Pavel Pogrebnyak,15074,28,Russia,Centre-Forward,CF,4500000.0,Fulham FC,England,0.0,0
+2012,Premier League,Reading FC,summer,in,Danny Guthrie,16716,25,England,Central Midfield,CM,4000000.0,Newcastle United,England,0.0,0
+2012,Premier League,Reading FC,summer,in,Nicky Shorey,13426,31,England,Left-Back,LB,2000000.0,West Bromwich Albion,England,0.0,0
+2012,Premier League,Reading FC,summer,in,Garath McCleary,69653,25,Jamaica,Right Winger,RW,1000000.0,Nottingham Forest,England,0.0,0
+2012,Premier League,Reading FC,summer,in,Pierce Sweeney,183172,17,Ireland,Centre-Back,CB,,Bray Wanderers,Ireland,,0
+2012,Premier League,Reading FC,winter,in,Stephen Kelly,12125,29,Ireland,Right-Back,RB,2000000.0,Fulham FC,England,1500000.0,0
+2012,Premier League,Reading FC,winter,in,Nick Blackman,67369,23,Barbados,Centre-Forward,CF,500000.0,Sheffield United,England,1400000.0,0
+2012,Premier League,Reading FC,winter,in,Daniel Carriço,37712,24,Portugal,Centre-Back,CB,7000000.0,Sporting CP,Portugal,750000.0,0
+2012,Premier League,Reading FC,winter,in,Hope Akpan,61559,21,Nigeria,Central Midfield,CM,75000.0,Crawley Town,England,370000.0,0
+2012,Premier League,Reading FC,summer,out,Michail Antonio,104124,22,Jamaica,Centre-Forward,CF,250000.0,Sheffield Wednesday,England,900000.0,0
+2012,Premier League,Reading FC,summer,out,Mathieu Manset,78962,22,France,Centre-Forward,CF,250000.0,FC Sion,Switzerland,0.0,0
+2012,Premier League,Reading FC,summer,out,Jack Mills,157496,20,England,Right-Back,RB,,Oxford City,England,0.0,0
+2012,Premier League,Reading FC,summer,out,Tomasz Cywka,38558,24,Poland,Defensive Midfield,DM,500000.0,Barnsley FC,England,0.0,0
+2012,Premier League,Reading FC,summer,out,Brian Howard,10399,29,England,Central Midfield,CM,500000.0,Portsmouth FC,England,0.0,0
+2012,Premier League,Reading FC,summer,out,Brett Williams,175434,24,England,Centre-Forward,CF,,Woking FC,England,0.0,1
+2012,Premier League,Reading FC,summer,out,Mikkel Andersen,42694,23,Denmark,Goalkeeper,GK,250000.0,Portsmouth FC,England,0.0,1
+2012,Premier League,Reading FC,summer,out,Jordan Obita,158816,18,Uganda,Left-Back,LB,,Portsmouth FC,England,0.0,1
+2012,Premier League,Reading FC,summer,out,Lawson D'Ath,158809,19,England,Central Midfield,CM,,Cheltenham Town,England,0.0,1
+2012,Premier League,Reading FC,summer,out,Karl Sheppard,61587,21,Ireland,Right Winger,RW,,Accrington Stanley,England,0.0,1
+2012,Premier League,Reading FC,summer,out,Michael Hector,157490,20,Jamaica,Centre-Back,CB,,Shrewsbury Town,England,0.0,1
+2012,Premier League,Reading FC,summer,out,Joseph Mills,81876,22,England,Left-Back,LB,500000.0,Burnley FC,England,0.0,1
+2012,Premier League,Reading FC,summer,out,Simon Locke,136336,20,England,Goalkeeper,GK,,Retired,,,0
+2012,Premier League,Reading FC,summer,out,Cédric Baseya,54706,24,DR Congo,Centre-Forward,CF,250000.0,Without Club,,,0
+2012,Premier League,Reading FC,summer,out,Andy Griffin,3579,33,England,Right-Back,RB,250000.0,Without Club,,,0
+2012,Premier League,Reading FC,winter,out,Brynjar Gunnarsson,9885,37,Iceland,Defensive Midfield,DM,250000.0,KR Reykjavík,Iceland,0.0,0
+2012,Premier League,Reading FC,winter,out,Simon Church,66959,23,Wales,Centre-Forward,CF,750000.0,Huddersfield Town,England,0.0,1
+2012,Premier League,Reading FC,winter,out,Michael Hector,157490,20,Jamaica,Centre-Back,CB,,Aldershot Town,England,0.0,1
+2012,Premier League,Reading FC,winter,out,Jake Taylor,130230,20,Wales,Central Midfield,CM,50000.0,Cheltenham Town,England,0.0,1
+2012,Premier League,Reading FC,winter,out,Dominic Samuel,203784,18,England,Centre-Forward,CF,,Colchester United,England,0.0,1
+2012,Premier League,Reading FC,winter,out,Michael Hector,157490,20,Jamaica,Centre-Back,CB,,Cheltenham Town,England,0.0,1
+2012,Premier League,Reading FC,winter,out,Jordan Obita,158816,19,Uganda,Left-Back,LB,,Oldham Athletic,England,0.0,1
+2012,Premier League,Reading FC,winter,out,Karl Sheppard,61587,21,Ireland,Right Winger,RW,,Shamrock Rovers,Ireland,0.0,1
+2012,Premier League,Reading FC,winter,out,Kaspars Gorkss,30379,31,Latvia,Centre-Back,CB,1000000.0,Wolverhampton Wanderers,England,0.0,1
+2012,Premier League,Reading FC,winter,out,Jake Taylor,130230,21,Wales,Central Midfield,CM,50000.0,Crawley Town,England,0.0,1
+2012,Premier League,Reading FC,winter,out,Jay Tabb,42284,29,Ireland,Left Midfield,LM,1000000.0,Ipswich Town,England,0.0,1
+2012,Premier League,Reading FC,winter,out,Lawson D'Ath,158809,20,England,Central Midfield,CM,,Exeter City,England,0.0,1
+2012,Premier League,Southampton FC,summer,in,Gastón Ramírez,123742,21,Uruguay,Central Midfield,CM,13500000.0,Bologna FC 1909,Italy,15200000.0,0
+2012,Premier League,Southampton FC,summer,in,Jay Rodríguez,53360,22,England,Centre-Forward,CF,5000000.0,Burnley FC,England,8650000.0,0
+2012,Premier League,Southampton FC,summer,in,Emmanuel Mayuka,55709,21,Zambia,Centre-Forward,CF,6000000.0,BSC Young Boys,Switzerland,4000000.0,0
+2012,Premier League,Southampton FC,summer,in,Nathaniel Clyne,85177,21,England,Right-Back,RB,2000000.0,Crystal Palace,England,3200000.0,0
+2012,Premier League,Southampton FC,summer,in,Paulo Gazzaniga,195488,20,Argentina,Goalkeeper,GK,,Gillingham FC,England,3150000.0,0
+2012,Premier League,Southampton FC,summer,in,Maya Yoshida,81789,24,Japan,Centre-Back,CB,1250000.0,VVV-Venlo,Netherlands,2800000.0,0
+2012,Premier League,Southampton FC,summer,in,Steven Davis,28973,27,Northern Ireland,Central Midfield,CM,5000000.0,Rangers FC,Scotland,1000000.0,0
+2012,Premier League,Southampton FC,summer,in,Artur Boruc,15220,32,Poland,Goalkeeper,GK,2000000.0,Without Club,,,0
+2012,Premier League,Southampton FC,winter,in,Vegard Forren,62054,24,Norway,Centre-Back,CB,2500000.0,Molde FK,Norway,3500000.0,0
+2012,Premier League,Southampton FC,summer,out,Lee Holmes,13463,25,England,Left Winger,LW,250000.0,Preston North End,England,0.0,0
+2012,Premier League,Southampton FC,summer,out,Dan Harding,31555,28,England,Left-Back,LB,500000.0,Nottingham Forest,England,0.0,0
+2012,Premier League,Southampton FC,summer,out,Bartosz Bialkowski,24496,24,Poland,Goalkeeper,GK,250000.0,Notts County,England,0.0,0
+2012,Premier League,Southampton FC,summer,out,Ryan Doble,158775,21,Wales,Centre-Forward,CF,50000.0,Shrewsbury Town,England,0.0,0
+2012,Premier League,Southampton FC,summer,out,Harlee Dean,120504,20,England,Centre-Back,CB,50000.0,Brentford FC,England,0.0,0
+2012,Premier League,Southampton FC,summer,out,Aaron Martin,136581,22,England,Centre-Back,CB,150000.0,Crystal Palace,England,0.0,1
+2012,Premier League,Southampton FC,summer,out,Tommy Forecast,61823,25,England,Goalkeeper,GK,50000.0,Gillingham FC,England,0.0,1
+2012,Premier League,Southampton FC,summer,out,Jonathan Forte,39505,26,Barbados,Centre-Forward,CF,500000.0,Crawley Town,England,0.0,1
+2012,Premier League,Southampton FC,summer,out,Lee Barnard,4058,28,England,Centre-Forward,CF,250000.0,AFC Bournemouth,England,0.0,1
+2012,Premier League,Southampton FC,summer,out,Billy Sharp,49542,26,England,Centre-Forward,CF,4500000.0,Nottingham Forest,England,0.0,1
+2012,Premier League,Southampton FC,summer,out,Dean Hammond,33065,29,England,Central Midfield,CM,750000.0,Brighton & Hove Albion,England,0.0,1
+2012,Premier League,Southampton FC,summer,out,David Connolly,9051,35,Ireland,Centre-Forward,CF,250000.0,Without Club,,,0
+2012,Premier League,Southampton FC,summer,out,Radhi Jaïdi,19310,36,Tunisia,Centre-Back,CB,250000.0,Retired,,,0
+2012,Premier League,Southampton FC,winter,out,Danny Seaborne,77569,25,England,Centre-Back,CB,250000.0,Charlton Athletic,England,0.0,1
+2012,Premier League,Southampton FC,winter,out,Sam Hoskins,198861,19,England,Right Winger,RW,,Stevenage FC,England,0.0,1
+2012,Premier League,Southampton FC,winter,out,Ryan Dickson,20981,26,England,Left-Back,LB,,Bradford City,England,0.0,1
+2012,Premier League,Southampton FC,winter,out,Danny Seaborne,77569,25,England,Centre-Back,CB,250000.0,AFC Bournemouth,England,0.0,1
+2012,Premier League,Southampton FC,winter,out,Jonathan Forte,39505,26,Barbados,Centre-Forward,CF,,Sheffield United,England,0.0,1
+2012,Premier League,Southampton FC,winter,out,Ben Reeves,171234,21,Northern Ireland,Attacking Midfield,AM,,Southend United,England,0.0,1
+2012,Premier League,Southampton FC,winter,out,Steve De Ridder,41818,25,Belgium,Central Midfield,CM,500000.0,Bolton Wanderers,England,0.0,1
+2012,Premier League,Southampton FC,winter,out,Lee Barnard,4058,28,England,Centre-Forward,CF,250000.0,Oldham Athletic,England,0.0,1
+2012,Premier League,Southampton FC,winter,out,Aaron Martin,136581,23,England,Centre-Back,CB,,Coventry City,England,0.0,1
+2012,Premier League,Southampton FC,winter,out,Richard Chaplow,9975,28,England,Central Midfield,CM,500000.0,Millwall FC,England,0.0,1
+2012,Premier League,Southampton FC,winter,out,Danny Butterfield,13997,33,England,Right-Back,RB,250000.0,Bolton Wanderers,England,0.0,1
+2012,Premier League,Southampton FC,winter,out,Tadanari Lee,81793,27,Japan,Centre-Forward,CF,1000000.0,FC Tokyo,Japan,0.0,1
+2012,Premier League,Stoke City,summer,in,Charlie Adam,28990,26,Scotland,Central Midfield,CM,8000000.0,Liverpool FC,England,6200000.0,0
+2012,Premier League,Stoke City,summer,in,Steven Nzonzi,73734,23,France,Defensive Midfield,DM,4500000.0,Blackburn Rovers,England,4400000.0,0
+2012,Premier League,Stoke City,summer,in,Michael Kightly,25366,26,England,Left Winger,LW,2000000.0,Wolverhampton Wanderers,England,3500000.0,0
+2012,Premier League,Stoke City,summer,in,Geoff Cameron,31642,27,United States,Centre-Back,CB,1500000.0,Houston Dynamo,United States,2150000.0,0
+2012,Premier League,Stoke City,summer,in,Maurice Edu,50987,26,United States,Defensive Midfield,DM,2500000.0,Rangers FC,Scotland,630000.0,0
+2012,Premier League,Stoke City,summer,in,Jamie Ness,61012,21,Scotland,Central Midfield,CM,600000.0,Rangers FC,Scotland,0.0,0
+2012,Premier League,Stoke City,summer,in,Ben Glasgow,173601,18,Ireland,Right-Back,RB,,Arsenal FC U18,England,0.0,0
+2012,Premier League,Stoke City,summer,in,James Campbell,160327,18,Scotland,Left-Back,LB,,Arsenal FC U18,England,0.0,0
+2012,Premier League,Stoke City,summer,in,Michael Owen,1397,32,England,Centre-Forward,CF,1500000.0,Without Club,,,0
+2012,Premier League,Stoke City,winter,in,Jack Butland,128899,19,England,Goalkeeper,GK,1000000.0,Birmingham City,England,3800000.0,0
+2012,Premier League,Stoke City,winter,in,Brek Shea,71107,22,United States,Left Midfield,LM,2500000.0,FC Dallas,United States,3000000.0,0
+2012,Premier League,Stoke City,summer,out,Danny Collins,26183,31,Wales,Centre-Back,CB,1000000.0,Nottingham Forest,England,640000.0,0
+2012,Premier League,Stoke City,summer,out,Andrew Davies,3869,27,England,Centre-Back,CB,750000.0,Bradford City,England,0.0,0
+2012,Premier League,Stoke City,summer,out,Louis Moult,125561,20,England,Centre-Forward,CF,,Northampton Town,England,0.0,0
+2012,Premier League,Stoke City,summer,out,Jonathan Woodgate,3224,32,England,Centre-Back,CB,1500000.0,Middlesbrough FC,England,0.0,0
+2012,Premier League,Stoke City,summer,out,Ricardo Fuller,14014,32,Jamaica,Centre-Forward,CF,1000000.0,Charlton Athletic,England,0.0,0
+2012,Premier League,Stoke City,summer,out,Ryan Brunt,207930,19,England,Centre-Forward,CF,,Leyton Orient,England,0.0,1
+2012,Premier League,Stoke City,summer,out,Matty Lund,118564,21,Northern Ireland,Central Midfield,CM,50000.0,Bristol Rovers,England,0.0,1
+2012,Premier League,Stoke City,summer,out,Michael Tonge,13544,29,England,Central Midfield,CM,500000.0,Leeds United,England,0.0,1
+2012,Premier League,Stoke City,summer,out,Danny Higginbotham,3686,33,Gibraltar,Centre-Back,CB,500000.0,Ipswich Town,England,0.0,1
+2012,Premier League,Stoke City,summer,out,Jermaine Pennant,3195,29,England,Right Winger,RW,3500000.0,Wolverhampton Wanderers,England,0.0,1
+2012,Premier League,Stoke City,summer,out,Tom Soares,15910,25,England,Central Midfield,CM,400000.0,Without Club,,,0
+2012,Premier League,Stoke City,summer,out,Salif Diao,3600,35,Senegal,Defensive Midfield,DM,500000.0,Retired,,,0
+2012,Premier League,Stoke City,winter,out,Danny Higginbotham,3686,34,Gibraltar,Centre-Back,CB,500000.0,Sheffield United,England,0.0,0
+2012,Premier League,Stoke City,winter,out,Mamady Sidibé,14069,32,Mali,Centre-Forward,CF,500000.0,Sheffield Wednesday,England,0.0,1
+2012,Premier League,Stoke City,winter,out,Rory Delap,4112,36,Ireland,Central Midfield,CM,500000.0,Barnsley FC,England,0.0,1
+2012,Premier League,Stoke City,winter,out,Jack Butland,128899,19,England,Goalkeeper,GK,1000000.0,Birmingham City,England,0.0,1
+2012,Premier League,Stoke City,winter,out,Matthew Upson,3273,33,England,Centre-Back,CB,1000000.0,Brighton & Hove Albion,England,0.0,1
+2012,Premier League,Stoke City,winter,out,Matty Lund,118564,22,Northern Ireland,Central Midfield,CM,,Southend United,England,0.0,1
+2012,Premier League,Stoke City,winter,out,Mamady Sidibé,14069,33,Mali,Centre-Forward,CF,500000.0,Tranmere Rovers,England,0.0,1
+2012,Premier League,Stoke City,winter,out,Ben Glasgow,173601,19,Ireland,Right-Back,RB,,Bishop's Stortford FC,England,0.0,1
+2012,Premier League,Stoke City,winter,out,Michael Tonge,13544,29,England,Central Midfield,CM,500000.0,Leeds United,England,,0
+2012,Premier League,Stoke City,winter,out,Ryan Brunt,207930,19,England,Centre-Forward,CF,,Bristol Rovers,England,,0
+2012,Premier League,Stoke City,winter,out,Maurice Edu,50987,26,United States,Defensive Midfield,DM,1500000.0,Bursaspor,Türkiye,0.0,1
+2012,Premier League,Stoke City,winter,out,Diego Arismendi,72645,24,Uruguay,Defensive Midfield,DM,500000.0,Without Club,,,0
+2012,Premier League,Sunderland AFC,summer,in,Steven Fletcher,35099,25,Scotland,Centre-Forward,CF,6000000.0,Wolverhampton Wanderers,England,15200000.0,0
+2012,Premier League,Sunderland AFC,summer,in,Adam Johnson,31579,25,England,Right Winger,RW,10500000.0,Manchester City,England,12600000.0,0
+2012,Premier League,Sunderland AFC,summer,in,Louis Saha,4015,34,France,Centre-Forward,CF,1250000.0,Tottenham Hotspur,England,0.0,0
+2012,Premier League,Sunderland AFC,summer,in,Carlos Cuéllar,16576,30,Spain,Centre-Back,CB,4500000.0,Aston Villa,England,0.0,0
+2012,Premier League,Sunderland AFC,summer,in,Danny Rose,50174,22,England,Left-Back,LB,3000000.0,Tottenham Hotspur,England,0.0,1
+2012,Premier League,Sunderland AFC,summer,in,James McFadden,9956,29,Scotland,Second Striker,SS,1500000.0,Without Club,,,0
+2012,Premier League,Sunderland AFC,summer,in,Scott Harrison,204114,19,England,Centre-Back,CB,,Without Club,,,0
+2012,Premier League,Sunderland AFC,winter,in,Danny Graham,29152,27,England,Centre-Forward,CF,4000000.0,Swansea City,England,5800000.0,0
+2012,Premier League,Sunderland AFC,winter,in,Alfred N'Diaye,77737,22,Senegal,Defensive Midfield,DM,3800000.0,Bursaspor,Türkiye,4700000.0,0
+2012,Premier League,Sunderland AFC,winter,in,Kader Mangane,4796,29,Senegal,Centre-Back,CB,3000000.0,Al-Hilal SFC,Saudi Arabia,0.0,1
+2012,Premier League,Sunderland AFC,summer,out,Asamoah Gyan,26802,26,Ghana,Centre-Forward,CF,12000000.0,Al-Ain FC,United Arab Emirates,7500000.0,0
+2012,Premier League,Sunderland AFC,summer,out,Kieran Richardson,3548,27,England,Left-Back,LB,5000000.0,Fulham FC,England,2500000.0,0
+2012,Premier League,Sunderland AFC,summer,out,Michael Turner,12127,28,England,Centre-Back,CB,4500000.0,Norwich City,England,1900000.0,0
+2012,Premier League,Sunderland AFC,summer,out,Cristian Riveros,37713,29,Paraguay,Defensive Midfield,DM,3500000.0,Kayserispor,Türkiye,300000.0,0
+2012,Premier League,Sunderland AFC,summer,out,Jordan Cook,61646,22,England,Centre-Forward,CF,250000.0,Charlton Athletic,England,0.0,0
+2012,Premier League,Sunderland AFC,summer,out,Lewis King,202901,19,England,Goalkeeper,GK,,Stockport County,England,0.0,0
+2012,Premier League,Sunderland AFC,summer,out,Marcos Angeleri,27448,29,Argentina,Right-Back,RB,500000.0,Club Estudiantes de La Plata,Argentina,0.0,0
+2012,Premier League,Sunderland AFC,summer,out,Michael Liddle,61659,22,Ireland,Left-Back,LB,,Accrington Stanley,England,0.0,0
+2012,Premier League,Sunderland AFC,summer,out,Trevor Carson,41131,24,Northern Ireland,Goalkeeper,GK,250000.0,Bury FC,England,0.0,0
+2012,Premier League,Sunderland AFC,summer,out,George McCartney,3775,31,Northern Ireland,Left-Back,LB,1500000.0,West Ham United,England,0.0,0
+2012,Premier League,Sunderland AFC,summer,out,Oumare Tounkara,128973,22,France,Centre-Forward,CF,,Red Star FC,France,0.0,0
+2012,Premier League,Sunderland AFC,summer,out,Ahmed El Mohamady,66333,24,Egypt,Right-Back,RB,3000000.0,Hull City,England,0.0,1
+2012,Premier League,Sunderland AFC,summer,out,Craig Lynch,121334,20,England,Left Winger,LW,,Hartlepool United,England,0.0,1
+2012,Premier League,Sunderland AFC,summer,out,Ryan Noble,121340,21,England,Centre-Forward,CF,,Hartlepool United,England,0.0,1
+2012,Premier League,Sunderland AFC,summer,out,Billy Knott,133392,19,England,Central Midfield,CM,,Woking FC,England,0.0,1
+2012,Premier League,Sunderland AFC,summer,out,Craig Gordon,12589,29,Scotland,Goalkeeper,GK,3000000.0,Career break,,,0
+2012,Premier League,Sunderland AFC,summer,out,Sotiris Kyrgiakos,9706,32,Greece,Centre-Back,CB,500000.0,VfL Wolfsburg,Germany,0.0,1
+2012,Premier League,Sunderland AFC,summer,out,Danny Rose,50174,22,England,Left-Back,LB,5000000.0,Tottenham Hotspur,England,0.0,1
+2012,Premier League,Sunderland AFC,winter,out,David Meyler,68183,23,Ireland,Central Midfield,CM,750000.0,Hull City,England,1800000.0,0
+2012,Premier League,Sunderland AFC,winter,out,Fraizer Campbell,42411,25,England,Centre-Forward,CF,3500000.0,Cardiff City,England,775000.0,0
+2012,Premier League,Sunderland AFC,winter,out,Dong-won Ji,164265,21,"Korea, South",Centre-Forward,CF,2500000.0,FC Augsburg,Germany,50000.0,1
+2012,Premier League,Sunderland AFC,winter,out,Louis Saha,4015,34,France,Centre-Forward,CF,500000.0,SS Lazio,Italy,0.0,0
+2012,Premier League,Sunderland AFC,winter,out,James McFadden,9956,29,Scotland,Second Striker,SS,1500000.0,Motherwell FC,Scotland,0.0,0
+2012,Premier League,Sunderland AFC,winter,out,David Meyler,68183,23,Ireland,Central Midfield,CM,750000.0,Hull City,England,0.0,1
+2012,Premier League,Sunderland AFC,winter,out,Ahmed El Mohamady,66333,25,Egypt,Right-Back,RB,2500000.0,Hull City,England,0.0,1
+2012,Premier League,Sunderland AFC,winter,out,Connor Wickham,95435,19,England,Centre-Forward,CF,5000000.0,Sheffield Wednesday,England,0.0,1
+2012,Premier League,Sunderland AFC,winter,out,John Egan,121324,20,Ireland,Centre-Back,CB,,Bradford City,England,0.0,1
+2012,Premier League,Sunderland AFC,winter,out,Callum Hope,289445,18,England,Central Midfield,CM,,Workington AFC,England,0.0,1
+2012,Premier League,Sunderland AFC,winter,out,Adam Reed,61667,21,Philippines,Defensive Midfield,DM,,Portsmouth FC,England,0.0,1
+2012,Premier League,Sunderland AFC,winter,out,Adam Reed,61667,21,Philippines,Defensive Midfield,DM,,York City,England,0.0,1
+2012,Premier League,Swansea City,summer,in,Pablo Hernández,46220,27,Spain,Right Winger,RW,9000000.0,Valencia CF,Spain,7000000.0,0
+2012,Premier League,Swansea City,summer,in,Sung-yueng Ki,81796,23,"Korea, South",Defensive Midfield,DM,3500000.0,Celtic FC,Scotland,7000000.0,0
+2012,Premier League,Swansea City,summer,in,Michu,70789,26,Spain,Second Striker,SS,6000000.0,Rayo Vallecano,Spain,2570000.0,0
+2012,Premier League,Swansea City,summer,in,Chico Flores,51681,25,Spain,Centre-Back,CB,3500000.0,Genoa CFC,Italy,2500000.0,0
+2012,Premier League,Swansea City,summer,in,Kyle Bartley,67421,21,England,Centre-Back,CB,500000.0,Arsenal FC U21,England,1300000.0,0
+2012,Premier League,Swansea City,summer,in,Itay Shechter,44760,25,Israel,Centre-Forward,CF,2000000.0,1.FC Kaiserslautern,Germany,100000.0,1
+2012,Premier League,Swansea City,summer,in,Jonathan de Guzmán,31067,24,Netherlands,Central Midfield,CM,6000000.0,Villarreal CF,Spain,0.0,1
+2012,Premier League,Swansea City,summer,in,Jamie Proctor,128420,20,England,Centre-Forward,CF,100000.0,Preston North End,England,,0
+2012,Premier League,Swansea City,summer,in,Dwight Tiendalli,29356,26,Netherlands,Right-Back,RB,1250000.0,Without Club,,,0
+2012,Premier League,Swansea City,winter,in,Roland Lamah,35035,25,Belgium,Left Winger,LW,2500000.0,CA Osasuna,Spain,0.0,1
+2012,Premier League,Swansea City,summer,out,Joe Allen,51452,22,Wales,Central Midfield,CM,4000000.0,Liverpool FC,England,19000000.0,0
+2012,Premier League,Swansea City,summer,out,Scott Sinclair,31552,23,England,Left Winger,LW,8000000.0,Manchester City,England,7800000.0,0
+2012,Premier League,Swansea City,summer,out,Casey Thomas,66632,21,Wales,Right Winger,RW,,Carmarthen Town,Wales,0.0,0
+2012,Premier League,Swansea City,summer,out,Andrea Orlandi,29117,28,Spain,Central Midfield,CM,500000.0,Brighton & Hove Albion,England,0.0,0
+2012,Premier League,Swansea City,summer,out,Fede Bessone,57973,28,Argentina,Left-Back,LB,500000.0,Swindon Town,England,0.0,0
+2012,Premier League,Swansea City,summer,out,Leroy Lita,20975,27,England,Centre-Forward,CF,1500000.0,Birmingham City,England,0.0,1
+2012,Premier League,Swansea City,summer,out,Curtis Obeng,125467,23,England,Right-Back,RB,250000.0,Fleetwood Town,England,0.0,1
+2012,Premier League,Swansea City,summer,out,Jamie Proctor,128420,20,England,Centre-Forward,CF,100000.0,Shrewsbury Town,England,0.0,1
+2012,Premier League,Swansea City,summer,out,Daniel Alfei,130216,20,Wales,Right-Back,RB,,Wrexham AFC,England,0.0,1
+2012,Premier League,Swansea City,summer,out,Stephen Dobbie,12693,29,Scotland,Centre-Forward,CF,1250000.0,Brighton & Hove Albion,England,,0
+2012,Premier League,Swansea City,summer,out,Scott Donnelly,37365,24,England,Right Midfield,RM,250000.0,Without Club,,,0
+2012,Premier League,Swansea City,summer,out,Ferrie Bodde,6756,30,Netherlands,Central Midfield,CM,1000000.0,Retired,,,0
+2012,Premier League,Swansea City,summer,out,José Moreira,13216,30,Portugal,Goalkeeper,GK,1000000.0,Without Club,,,0
+2012,Premier League,Swansea City,summer,out,Steven Caulker,121280,20,Sierra Leone,Centre-Back,CB,4000000.0,Tottenham Hotspur,England,0.0,1
+2012,Premier League,Swansea City,summer,out,Gylfi Sigurdsson,90466,22,Iceland,Attacking Midfield,AM,8500000.0,TSG 1899 Hoffenheim,Germany,0.0,1
+2012,Premier League,Swansea City,winter,out,Danny Graham,29152,27,England,Centre-Forward,CF,4000000.0,Sunderland AFC,England,5800000.0,0
+2012,Premier League,Swansea City,winter,out,Alan Tate,7337,30,England,Centre-Back,CB,500000.0,Leeds United,England,0.0,1
+2012,Premier League,Swansea City,winter,out,Leroy Lita,20975,28,England,Centre-Forward,CF,1500000.0,Sheffield Wednesday,England,0.0,1
+2012,Premier League,Swansea City,winter,out,Jazz Richards,120241,21,Wales,Right-Back,RB,1000000.0,Crystal Palace,England,0.0,1
+2012,Premier League,Swansea City,winter,out,Curtis Obeng,125467,23,England,Right-Back,RB,250000.0,York City,England,0.0,1
+2012,Premier League,Swansea City,winter,out,Mark Gower,39700,34,England,Central Midfield,CM,500000.0,Charlton Athletic,England,0.0,1
+2012,Premier League,Swansea City,winter,out,Jamie Proctor,128420,20,England,Centre-Forward,CF,100000.0,Crawley Town,England,,0
+2012,Premier League,Tottenham Hotspur,summer,in,Mousa Dembélé,19368,25,Belgium,Central Midfield,CM,13000000.0,Fulham FC,England,19000000.0,0
+2012,Premier League,Tottenham Hotspur,summer,in,Hugo Lloris,17965,25,France,Goalkeeper,GK,19000000.0,Olympique Lyon,France,12600000.0,0
+2012,Premier League,Tottenham Hotspur,summer,in,Jan Vertonghen,43250,25,Belgium,Centre-Back,CB,15000000.0,Ajax Amsterdam,Netherlands,12500000.0,0
+2012,Premier League,Tottenham Hotspur,summer,in,Gylfi Sigurdsson,90466,22,Iceland,Attacking Midfield,AM,8500000.0,TSG 1899 Hoffenheim,Germany,10000000.0,0
+2012,Premier League,Tottenham Hotspur,summer,in,Clint Dempsey,27577,29,United States,Second Striker,SS,15000000.0,Fulham FC,England,7500000.0,0
+2012,Premier League,Tottenham Hotspur,summer,in,Emmanuel Adebayor,8883,28,Togo,Centre-Forward,CF,25000000.0,Manchester City,England,6400000.0,0
+2012,Premier League,Tottenham Hotspur,summer,in,Grant Hall,124845,20,England,Centre-Back,CB,50000.0,Brighton & Hove Albion,England,,0
+2012,Premier League,Tottenham Hotspur,winter,in,Zeki Fryers,141655,20,England,Left-Back,LB,500000.0,Standard Liège,Belgium,3500000.0,0
+2012,Premier League,Tottenham Hotspur,winter,in,Lewis Holtby,55508,22,Germany,Central Midfield,CM,11000000.0,FC Schalke 04,Germany,1750000.0,0
+2012,Premier League,Tottenham Hotspur,summer,out,Luka Modrić,27992,26,Croatia,Central Midfield,CM,40000000.0,Real Madrid,Spain,35000000.0,0
+2012,Premier League,Tottenham Hotspur,summer,out,Rafael van der Vaart,4192,29,Netherlands,Attacking Midfield,AM,24500000.0,Hamburger SV,Germany,13000000.0,0
+2012,Premier League,Tottenham Hotspur,summer,out,Niko Kranjcar,16746,27,Croatia,Attacking Midfield,AM,7500000.0,Dynamo Kyiv,Ukraine,7000000.0,0
+2012,Premier League,Tottenham Hotspur,summer,out,Vedran Corluka,34393,26,Croatia,Centre-Back,CB,7500000.0,Lokomotiv Moskau,Russia,7000000.0,0
+2012,Premier League,Tottenham Hotspur,summer,out,Steven Pienaar,4321,30,South Africa,Left Midfield,LM,7000000.0,Everton FC,England,5750000.0,0
+2012,Premier League,Tottenham Hotspur,summer,out,Sébastien Bassong,33951,26,Cameroon,Centre-Back,CB,4500000.0,Norwich City,England,3000000.0,0
+2012,Premier League,Tottenham Hotspur,summer,out,Giovani dos Santos,44674,23,Mexico,Second Striker,SS,4000000.0,RCD Mallorca,Spain,1000000.0,0
+2012,Premier League,Tottenham Hotspur,summer,out,David Button,61814,23,England,Goalkeeper,GK,,Charlton Athletic,England,630000.0,0
+2012,Premier League,Tottenham Hotspur,summer,out,Ben Alnwick,27036,25,England,Goalkeeper,GK,250000.0,Barnsley FC,England,0.0,0
+2012,Premier League,Tottenham Hotspur,summer,out,Oscar Jansson,45628,21,Sweden,Goalkeeper,GK,25000.0,Shamrock Rovers,Ireland,0.0,0
+2012,Premier League,Tottenham Hotspur,summer,out,Ryan Nelsen,28878,34,New Zealand,Centre-Back,CB,750000.0,Queens Park Rangers,England,0.0,0
+2012,Premier League,Tottenham Hotspur,summer,out,Louis Saha,4015,34,France,Centre-Forward,CF,1250000.0,Sunderland AFC,England,0.0,0
+2012,Premier League,Tottenham Hotspur,summer,out,Ryan Fredericks,140191,19,England,Right-Back,RB,,Brentford FC,England,0.0,1
+2012,Premier League,Tottenham Hotspur,summer,out,John Bostock,58097,20,Trinidad and Tobago,Central Midfield,CM,,Swindon Town,England,0.0,1
+2012,Premier League,Tottenham Hotspur,summer,out,Bongani Khumalo,82215,25,South Africa,Centre-Back,CB,1000000.0,PAOK Thessaloniki,Greece,0.0,1
+2012,Premier League,Tottenham Hotspur,summer,out,David Bentley,3205,28,England,Right Midfield,RM,4500000.0,FC Rostov,Russia,0.0,1
+2012,Premier League,Tottenham Hotspur,summer,out,Jermaine Jenas,3461,29,England,Central Midfield,CM,6500000.0,Nottingham Forest,England,0.0,1
+2012,Premier League,Tottenham Hotspur,summer,out,Danny Rose,50174,22,England,Left-Back,LB,3000000.0,Sunderland AFC,England,0.0,1
+2012,Premier League,Tottenham Hotspur,summer,out,Harry Kane,132098,19,England,Centre-Forward,CF,,Norwich City,England,0.0,1
+2012,Premier League,Tottenham Hotspur,summer,out,Ledley King,3360,31,England,Centre-Back,CB,2000000.0,Retired,,,0
+2012,Premier League,Tottenham Hotspur,winter,out,Heurelho Gomes,19059,31,Brazil,Goalkeeper,GK,1000000.0,TSG 1899 Hoffenheim,Germany,400000.0,1
+2012,Premier League,Tottenham Hotspur,winter,out,Carlo Cudicini,3151,39,Italy,Goalkeeper,GK,500000.0,Los Angeles Galaxy,United States,0.0,0
+2012,Premier League,Tottenham Hotspur,winter,out,Jermaine Jenas,3461,29,England,Central Midfield,CM,3500000.0,Queens Park Rangers,England,0.0,0
+2012,Premier League,Tottenham Hotspur,winter,out,Adam Smith,61841,21,England,Right-Back,RB,,Millwall FC,England,0.0,1
+2012,Premier League,Tottenham Hotspur,winter,out,Iago Falque,59340,23,Spain,Right Winger,RW,2000000.0,UD Almería,Spain,0.0,1
+2012,Premier League,Tottenham Hotspur,winter,out,Ryan Mason,61834,21,England,Central Midfield,CM,,FC Lorient,France,0.0,1
+2012,Premier League,Tottenham Hotspur,winter,out,Simon Dawkins,57488,25,Jamaica,Left Winger,LW,200000.0,Aston Villa,England,0.0,1
+2012,Premier League,Tottenham Hotspur,winter,out,Andros Townsend,61842,21,England,Right Winger,RW,500000.0,Queens Park Rangers,England,0.0,1
+2012,Premier League,Tottenham Hotspur,winter,out,Alex Pritchard,200777,19,England,Attacking Midfield,AM,,Peterborough United,England,0.0,1
+2012,Premier League,Tottenham Hotspur,winter,out,David Bentley,3205,28,England,Right Midfield,RM,3000000.0,Blackburn Rovers,England,0.0,1
+2012,Premier League,Tottenham Hotspur,winter,out,Jonathan Obika,61838,22,England,Centre-Forward,CF,,Charlton Athletic,England,0.0,1
+2012,Premier League,Tottenham Hotspur,winter,out,Jonathan Miles,243587,19,England,Goalkeeper,GK,,Dagenham & Redbridge FC,England,0.0,1
+2012,Premier League,Tottenham Hotspur,winter,out,Harry Kane,132098,19,England,Centre-Forward,CF,500000.0,Leicester City,England,0.0,1
+2012,Premier League,Tottenham Hotspur,winter,out,John Bostock,58097,21,Trinidad and Tobago,Central Midfield,CM,,Toronto FC,United States,0.0,1
+2012,Premier League,West Bromwich Albion,summer,in,Ben Foster,13572,29,England,Goalkeeper,GK,5000000.0,Birmingham City,England,5000000.0,0
+2012,Premier League,West Bromwich Albion,summer,in,Claudio Yacob,45330,25,Argentina,Defensive Midfield,DM,3000000.0,Racing Club,Argentina,0.0,0
+2012,Premier League,West Bromwich Albion,summer,in,Markus Rosenberg,27505,29,Sweden,Centre-Forward,CF,3000000.0,SV Werder Bremen,Germany,0.0,0
+2012,Premier League,West Bromwich Albion,summer,in,Yassine El Ghanassy,90368,21,Belgium,Left Winger,LW,3000000.0,KAA Gent,Belgium,0.0,1
+2012,Premier League,West Bromwich Albion,summer,in,Romelu Lukaku,96341,19,Belgium,Centre-Forward,CF,14000000.0,Chelsea FC,England,0.0,1
+2012,Premier League,West Bromwich Albion,summer,in,Goran Popov,19721,27,North Macedonia,Left-Back,LB,4000000.0,Dynamo Kyiv,Ukraine,0.0,1
+2012,Premier League,West Bromwich Albion,summer,out,Simon Cox,37150,25,Ireland,Centre-Forward,CF,2000000.0,Nottingham Forest,England,2500000.0,0
+2012,Premier League,West Bromwich Albion,summer,out,Paul Scharner,2953,32,Austria,Defensive Midfield,DM,2000000.0,Hamburger SV,Germany,0.0,0
+2012,Premier League,West Bromwich Albion,summer,out,Márton Fülöp,17879,29,Hungary,Goalkeeper,GK,1000000.0,Asteras Tripolis,Greece,0.0,0
+2012,Premier League,West Bromwich Albion,summer,out,Keith Andrews,8035,31,Ireland,Central Midfield,CM,1000000.0,Bolton Wanderers,England,0.0,0
+2012,Premier League,West Bromwich Albion,summer,out,Joe Mattock,49611,22,England,Left-Back,LB,500000.0,Sheffield Wednesday,England,0.0,0
+2012,Premier League,West Bromwich Albion,summer,out,Nicky Shorey,13426,31,England,Left-Back,LB,2000000.0,Reading FC,England,0.0,0
+2012,Premier League,West Bromwich Albion,summer,out,Chris Wood,108725,20,New Zealand,Centre-Forward,CF,1000000.0,Millwall FC,England,0.0,1
+2012,Premier League,West Bromwich Albion,summer,out,Scott Allan,60904,20,Scotland,Attacking Midfield,AM,500000.0,Milton Keynes Dons,England,0.0,1
+2012,Premier League,West Bromwich Albion,summer,out,Scott Allan,60904,20,Scotland,Attacking Midfield,AM,500000.0,Portsmouth FC,England,0.0,1
+2012,Premier League,West Bromwich Albion,summer,out,Somen Tchoyi,37058,29,Cameroon,Attacking Midfield,AM,2500000.0,Without Club,,,0
+2012,Premier League,West Bromwich Albion,summer,out,Romelu Lukaku,96341,20,Belgium,Centre-Forward,CF,19000000.0,Chelsea FC,England,0.0,1
+2012,Premier League,West Bromwich Albion,winter,out,Chris Wood,108725,21,New Zealand,Centre-Forward,CF,1000000.0,Leicester City,England,1230000.0,0
+2012,Premier League,West Bromwich Albion,winter,out,George Thorne,128910,19,England,Central Midfield,CM,,Peterborough United,England,0.0,1
+2012,Premier League,West Bromwich Albion,winter,out,Cameron Gayle,141341,20,England,Right-Back,RB,,Shrewsbury Town,England,0.0,1
+2012,Premier League,West Bromwich Albion,winter,out,Jerome Thomas,3560,29,England,Left Winger,LW,3000000.0,Leeds United,England,0.0,1
+2012,Premier League,West Bromwich Albion,winter,out,Gonzalo Jara,40429,27,Chile,Centre-Back,CB,1750000.0,Nottingham Forest,England,0.0,1
+2012,Premier League,West Bromwich Albion,winter,out,Craig Dawson,121477,22,England,Centre-Back,CB,1500000.0,Bolton Wanderers,England,0.0,1
+2012,Premier League,West Bromwich Albion,winter,out,Yassine El Ghanassy,90368,22,Belgium,Left Winger,LW,2000000.0,KAA Gent,Belgium,0.0,1
+2012,Premier League,West Ham United,summer,in,Matt Jarvis,15921,26,England,Left Winger,LW,8000000.0,Wolverhampton Wanderers,England,9500000.0,0
+2012,Premier League,West Ham United,summer,in,Modibo Maïga,46831,24,Mali,Centre-Forward,CF,5000000.0,FC Sochaux-Montbéliard,France,6000000.0,0
+2012,Premier League,West Ham United,summer,in,James Collins,12691,28,Wales,Centre-Back,CB,5000000.0,Aston Villa,England,3200000.0,0
+2012,Premier League,West Ham United,summer,in,Alou Diarra,1327,31,France,Defensive Midfield,DM,5000000.0,Olympique Marseille,France,2500000.0,0
+2012,Premier League,West Ham United,summer,in,Andy Carroll,48066,23,England,Centre-Forward,CF,15500000.0,Liverpool FC,England,1250000.0,1
+2012,Premier League,West Ham United,summer,in,Stephen Henderson,52191,24,Ireland,Goalkeeper,GK,750000.0,Portsmouth FC,England,745000.0,0
+2012,Premier League,West Ham United,summer,in,Raphael Spiegel,111428,19,Switzerland,Goalkeeper,GK,200000.0,Grasshopper Club Zurich,Switzerland,400000.0,0
+2012,Premier League,West Ham United,summer,in,George McCartney,3775,31,Northern Ireland,Left-Back,LB,1500000.0,Sunderland AFC,England,0.0,0
+2012,Premier League,West Ham United,summer,in,Jussi Jääskeläinen,3692,37,Finland,Goalkeeper,GK,1000000.0,Bolton Wanderers,England,0.0,0
+2012,Premier League,West Ham United,summer,in,Mohamed Diamé,70950,25,Senegal,Central Midfield,CM,5000000.0,Wigan Athletic,England,0.0,0
+2012,Premier League,West Ham United,summer,in,Yossi Benayoun,7858,32,Israel,Right Winger,RW,4500000.0,Chelsea FC,England,0.0,1
+2012,Premier League,West Ham United,winter,in,Emanuel Pogatetz,1094,30,Austria,Centre-Back,CB,2500000.0,VfL Wolfsburg,Germany,300000.0,1
+2012,Premier League,West Ham United,winter,in,Joe Cole,3876,31,England,Attacking Midfield,AM,7500000.0,Liverpool FC,England,0.0,0
+2012,Premier League,West Ham United,winter,in,Marouane Chamakh,19085,28,Morocco,Centre-Forward,CF,5500000.0,Arsenal FC,England,0.0,1
+2012,Premier League,West Ham United,winter,in,Sean Maguire,191320,18,Ireland,Centre-Forward,CF,,Waterford United,Ireland,,0
+2012,Premier League,West Ham United,winter,in,Wellington Paulista,51716,29,Brazil,Centre-Forward,CF,1000000.0,Cruzeiro Esporte Clube,Brazil,0.0,1
+2012,Premier League,West Ham United,summer,out,Nicky Maynard,39705,25,England,Centre-Forward,CF,3500000.0,Cardiff City,England,3150000.0,0
+2012,Premier League,West Ham United,summer,out,Sam Baldock,67211,23,England,Centre-Forward,CF,1500000.0,Bristol City,England,1900000.0,0
+2012,Premier League,West Ham United,summer,out,Marek Stech,61589,22,Czech Republic,Goalkeeper,GK,250000.0,Yeovil Town,England,0.0,0
+2012,Premier League,West Ham United,summer,out,Freddie Sears,70714,22,England,Second Striker,SS,750000.0,Colchester United,England,0.0,0
+2012,Premier League,West Ham United,summer,out,Frank Nouble,119123,20,England,Centre-Forward,CF,500000.0,Wolverhampton Wanderers,England,0.0,0
+2012,Premier League,West Ham United,summer,out,Rob Green,11680,32,England,Goalkeeper,GK,3000000.0,Queens Park Rangers,England,0.0,0
+2012,Premier League,West Ham United,summer,out,Abdoulaye Faye,6107,34,Senegal,Centre-Back,CB,500000.0,Hull City,England,0.0,0
+2012,Premier League,West Ham United,summer,out,Julien Faubert,18093,28,Martinique,Right-Back,RB,2000000.0,Elazigspor,Türkiye,0.0,0
+2012,Premier League,West Ham United,summer,out,Péter Kurucz,74157,24,Hungary,Goalkeeper,GK,50000.0,BFC Siófok,Hungary,0.0,0
+2012,Premier League,West Ham United,summer,out,Ruud Boffin,31336,24,Belgium,Goalkeeper,GK,250000.0,Eskisehirspor,Türkiye,0.0,0
+2012,Premier League,West Ham United,summer,out,Stephen Henderson,52191,24,Ireland,Goalkeeper,GK,750000.0,Ipswich Town,England,0.0,1
+2012,Premier League,West Ham United,summer,out,Ravel Morrison,128907,19,Jamaica,Attacking Midfield,AM,750000.0,Birmingham City,England,0.0,1
+2012,Premier League,West Ham United,summer,out,Pablo Barrera,51079,25,Mexico,Right Winger,RW,2500000.0,CD Cruz Azul,Mexico,,0
+2012,Premier League,West Ham United,summer,out,Papa Bouba Diop,5485,34,Senegal,Central Midfield,CM,500000.0,Without Club,,,0
+2012,Premier League,West Ham United,summer,out,John Carew,3570,32,Norway,Centre-Forward,CF,1500000.0,Retired,,,0
+2012,Premier League,West Ham United,summer,out,Andy Carroll,48066,24,England,Centre-Forward,CF,11000000.0,Liverpool FC,England,0.0,1
+2012,Premier League,West Ham United,summer,out,Brian Montenegro,198143,19,Paraguay,Centre-Forward,CF,250000.0,Club Deportivo Maldonado,Uruguay,0.0,1
+2012,Premier League,West Ham United,summer,out,Marouane Chamakh,19085,29,Morocco,Centre-Forward,CF,3500000.0,Arsenal FC,England,0.0,1
+2012,Premier League,West Ham United,summer,out,Wellington Paulista,51716,30,Brazil,Centre-Forward,CF,1000000.0,Cruzeiro Esporte Clube,Brazil,0.0,1
+2012,Premier League,West Ham United,winter,out,Frédéric Piquionne,5683,34,Martinique,Centre-Forward,CF,300000.0,Portland Timbers,United States,0.0,0
+2012,Premier League,West Ham United,winter,out,Rob Hall,121236,19,England,Right Winger,RW,250000.0,Birmingham City,England,0.0,1
+2012,Premier League,West Ham United,winter,out,Dan Potts,207037,18,England,Centre-Back,CB,250000.0,Colchester United,England,0.0,1
+2012,Premier League,West Ham United,winter,out,Paul McCallum,214776,19,England,Centre-Forward,CF,,AFC Wimbledon,England,0.0,1
+2012,Premier League,West Ham United,winter,out,Alou Diarra,1327,31,France,Defensive Midfield,DM,1500000.0,Stade Rennais FC,France,0.0,1
+2012,Premier League,West Ham United,winter,out,Stephen Henderson,52191,24,Ireland,Goalkeeper,GK,1500000.0,Ipswich Town,England,0.0,1
+2012,Premier League,West Ham United,winter,out,Paul McCallum,214776,19,England,Centre-Forward,CF,,Aldershot Town,England,0.0,1
+2012,Premier League,West Ham United,winter,out,Rob Hall,121236,19,England,Right Winger,RW,750000.0,Bolton Wanderers,England,0.0,1
+2012,Premier League,West Ham United,winter,out,Yossi Benayoun,7858,32,Israel,Right Winger,RW,3000000.0,Chelsea FC,England,0.0,1
+2012,Premier League,Wigan Athletic,summer,in,Iván Ramis,26066,27,Spain,Centre-Back,CB,6000000.0,RCD Mallorca,Spain,6000000.0,0
+2012,Premier League,Wigan Athletic,summer,in,Arouna Koné,8552,28,Cote d'Ivoire,Centre-Forward,CF,7000000.0,Levante UD,Spain,3800000.0,0
+2012,Premier League,Wigan Athletic,summer,in,Fraser Fyvie,107350,19,Scotland,Central Midfield,CM,1000000.0,Aberdeen FC,Scotland,635000.0,0
+2012,Premier League,Wigan Athletic,summer,in,Ryo Miyaichi,129688,19,Japan,Right Winger,RW,3000000.0,Arsenal FC,England,0.0,1
+2012,Premier League,Wigan Athletic,winter,in,Paul Scharner,2953,32,Austria,Defensive Midfield,DM,1500000.0,Hamburger SV,Germany,100000.0,1
+2012,Premier League,Wigan Athletic,winter,in,Róger Espinoza,71096,26,Honduras,Central Midfield,CM,600000.0,Sporting Kansas City,United States,0.0,0
+2012,Premier League,Wigan Athletic,winter,in,Joel Robles,101118,22,Spain,Goalkeeper,GK,2000000.0,Atlético de Madrid,Spain,0.0,1
+2012,Premier League,Wigan Athletic,winter,in,Ángelo Henríquez,189740,18,Chile,Centre-Forward,CF,5000000.0,Manchester United,England,0.0,1
+2012,Premier League,Wigan Athletic,summer,out,Victor Moses,59866,21,Nigeria,Right Winger,RW,6500000.0,Chelsea FC,England,11500000.0,0
+2012,Premier League,Wigan Athletic,summer,out,Conor Sammon,68331,25,Ireland,Centre-Forward,CF,750000.0,Derby County,England,1500000.0,0
+2012,Premier League,Wigan Athletic,summer,out,Hendry Thomas,62275,27,Honduras,Defensive Midfield,DM,1500000.0,Colorado Rapids,United States,0.0,0
+2012,Premier League,Wigan Athletic,summer,out,Steve Gohouri,19857,31,Cote d'Ivoire,Centre-Back,CB,1000000.0,Maccabi Tel Aviv,Israel,0.0,0
+2012,Premier League,Wigan Athletic,summer,out,Mohamed Diamé,70950,25,Senegal,Central Midfield,CM,5000000.0,West Ham United,England,0.0,0
+2012,Premier League,Wigan Athletic,summer,out,Hugo Rodallega,37934,26,Colombia,Centre-Forward,CF,4500000.0,Fulham FC,England,0.0,0
+2012,Premier League,Wigan Athletic,summer,out,Chris Kirkland,3219,31,England,Goalkeeper,GK,750000.0,Sheffield Wednesday,England,0.0,0
+2012,Premier League,Wigan Athletic,summer,out,Adam Dawson,134258,19,England,Right Winger,RW,,Accrington Stanley,England,0.0,1
+2012,Premier League,Wigan Athletic,summer,out,Lee Nicholls,126258,19,England,Goalkeeper,GK,250000.0,Northampton Town,England,0.0,1
+2012,Premier League,Wigan Athletic,summer,out,Nouha Dicko,173750,20,Mali,Centre-Forward,CF,,Blackpool FC,England,0.0,1
+2012,Premier League,Wigan Athletic,summer,out,Román Golobart,90273,20,Spain,Centre-Back,CB,250000.0,Tranmere Rovers,England,0.0,1
+2012,Premier League,Wigan Athletic,summer,out,Rob Kiernan,99463,21,Ireland,Centre-Back,CB,,Burton Albion,England,0.0,1
+2012,Premier League,Wigan Athletic,summer,out,Jordan Mustoe,61715,21,England,Left-Back,LB,,Morecambe FC,England,0.0,1
+2012,Premier League,Wigan Athletic,summer,out,Jordan Rugg,129799,20,England,Centre-Forward,CF,,Without Club,,,0
+2012,Premier League,Wigan Athletic,summer,out,Ryo Miyaichi,129688,20,Japan,Right Winger,RW,2500000.0,Arsenal FC,England,0.0,1
+2012,Premier League,Wigan Athletic,summer,out,Ángelo Henríquez,189740,19,Chile,Centre-Forward,CF,4000000.0,Manchester United,England,0.0,1
+2012,Premier League,Wigan Athletic,winter,out,Mauro Boselli,40822,27,Argentina,Centre-Forward,CF,3500000.0,US Palermo,Italy,250000.0,1
+2012,Premier League,Wigan Athletic,winter,out,Rob Kiernan,99463,21,Ireland,Centre-Back,CB,,Brentford FC,England,0.0,1
+2012,Premier League,Wigan Athletic,winter,out,Rob Kiernan,99463,21,Ireland,Centre-Back,CB,,Brentford FC,England,0.0,1
+2012,Premier League,Wigan Athletic,winter,out,Jordan Mustoe,61715,22,England,Left-Back,LB,,Carlisle United,England,0.0,1
+2012,Premier League,Wigan Athletic,winter,out,David Jones,24634,28,England,Central Midfield,CM,1500000.0,Blackburn Rovers,England,0.0,1
+2012,Premier League,Wigan Athletic,winter,out,Nouha Dicko,173750,20,Mali,Centre-Forward,CF,,Wolverhampton Wanderers,England,0.0,1
+2012,Premier League,Wigan Athletic,winter,out,Adam Dawson,134258,20,England,Right Winger,RW,,FC United of Manchester,England,,0

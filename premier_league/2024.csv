@@ -1,0 +1,560 @@
+season,league,club,window,movement,player_name,player_id,age,nationality,position,pos,market_value,dealing_club,dealing_country,fee,is_loan
+2024,Premier League,AFC Bournemouth,summer,in,Evanilson,711337,24,Brazil,Centre-Forward,CF,35000000.0,FC Porto,Portugal,37000000.0,0
+2024,Premier League,AFC Bournemouth,summer,in,Luis Sinisterra,512385,25,Colombia,Left Winger,LW,17000000.0,Leeds United,England,23400000.0,0
+2024,Premier League,AFC Bournemouth,summer,in,Dean Huijsen,890290,19,Spain,Centre-Back,CB,10000000.0,Juventus FC,Italy,19630000.0,0
+2024,Premier League,AFC Bournemouth,summer,in,Enes Ünal,251106,27,Türkiye,Centre-Forward,CF,18000000.0,Getafe CF,Spain,16500000.0,0
+2024,Premier League,AFC Bournemouth,summer,in,Julián Araujo,513970,23,Mexico,Right-Back,RB,8000000.0,FC Barcelona,Spain,10000000.0,0
+2024,Premier League,AFC Bournemouth,summer,in,Kepa Arrizabalaga,192279,29,Spain,Goalkeeper,GK,12000000.0,Chelsea FC,England,3600000.0,1
+2024,Premier League,AFC Bournemouth,summer,in,Alex Paulsen,617009,21,New Zealand,Goalkeeper,GK,450000.0,Wellington Phoenix,Australia,2270000.0,0
+2024,Premier League,AFC Bournemouth,summer,in,Daniel Jebbison,746740,20,Canada,Centre-Forward,CF,1000000.0,Sheffield United,England,0.0,0
+2024,Premier League,AFC Bournemouth,winter,in,Eli Kroupi,955357,18,France,Centre-Forward,CF,10000000.0,FC Lorient,France,13000000.0,0
+2024,Premier League,AFC Bournemouth,winter,in,Julio Soler,1009658,19,Argentina,Left-Back,LB,8000000.0,CA Lanús,Argentina,8000000.0,0
+2024,Premier League,AFC Bournemouth,winter,in,Matai Akinmboni,994604,18,United States,Centre-Back,CB,1000000.0,D.C. United,United States,1500000.0,0
+2024,Premier League,AFC Bournemouth,summer,out,Dominic Solanke,258889,26,England,Centre-Forward,CF,40000000.0,Tottenham Hotspur,England,64300000.0,0
+2024,Premier League,AFC Bournemouth,summer,out,Kieffer Moore,275590,31,Wales,Centre-Forward,CF,2000000.0,Sheffield United,England,1790000.0,0
+2024,Premier League,AFC Bournemouth,summer,out,Lloyd Kelly,480116,25,England,Centre-Back,CB,18000000.0,Newcastle United,England,0.0,0
+2024,Premier League,AFC Bournemouth,summer,out,Jamal Lowe,239949,29,Jamaica,Centre-Forward,CF,1500000.0,Sheffield Wednesday,England,0.0,0
+2024,Premier League,AFC Bournemouth,summer,out,Gavin Kilkenny,469064,24,Ireland,Central Midfield,CM,300000.0,Swindon Town,England,,0
+2024,Premier League,AFC Bournemouth,summer,out,Hamed Traoré,391065,24,Cote d'Ivoire,Left Winger,LW,17000000.0,AJ Auxerre,France,0.0,1
+2024,Premier League,AFC Bournemouth,summer,out,Chris Mepham,480987,26,Wales,Centre-Back,CB,6000000.0,Sunderland AFC,England,0.0,1
+2024,Premier League,AFC Bournemouth,summer,out,Jaidon Anthony,684210,24,England,Left Winger,LW,6000000.0,Burnley FC,England,0.0,1
+2024,Premier League,AFC Bournemouth,summer,out,Daniel Jebbison,746740,21,Canada,Centre-Forward,CF,1000000.0,Watford FC,England,0.0,1
+2024,Premier League,AFC Bournemouth,summer,out,Neto,111819,35,Brazil,Goalkeeper,GK,2500000.0,Arsenal FC,England,0.0,1
+2024,Premier League,AFC Bournemouth,summer,out,Romain Faivre,555076,26,France,Attacking Midfield,AM,15000000.0,Stade Brestois 29,France,0.0,1
+2024,Premier League,AFC Bournemouth,summer,out,Alex Paulsen,617009,22,New Zealand,Goalkeeper,GK,450000.0,Auckland FC,Australia,0.0,1
+2024,Premier League,AFC Bournemouth,summer,out,Joe Rothwell,183293,29,England,Central Midfield,CM,2500000.0,Leeds United,England,0.0,1
+2024,Premier League,AFC Bournemouth,summer,out,Ryan Fredericks,140191,31,England,Right-Back,RB,1000000.0,Retired,,,0
+2024,Premier League,AFC Bournemouth,summer,out,Darren Randolph,51321,37,Ireland,Goalkeeper,GK,300000.0,Retired,,,0
+2024,Premier League,AFC Bournemouth,summer,out,Emiliano Marcondes,232964,29,Denmark,Attacking Midfield,AM,1500000.0,Without Club,,,0
+2024,Premier League,AFC Bournemouth,summer,out,Enes Ünal,251106,27,Türkiye,Centre-Forward,CF,18000000.0,Getafe CF,Spain,0.0,1
+2024,Premier League,AFC Bournemouth,summer,out,Luis Sinisterra,512385,25,Colombia,Left Winger,LW,17000000.0,Leeds United,England,0.0,1
+2024,Premier League,AFC Bournemouth,summer,out,Ionuț Radu,303657,27,Romania,Goalkeeper,GK,3000000.0,Inter Milan,Italy,0.0,1
+2024,Premier League,AFC Bournemouth,winter,out,Philip Billing,320411,28,Denmark,Central Midfield,CM,14000000.0,SSC Napoli,Italy,0.0,1
+2024,Premier League,AFC Bournemouth,winter,out,Max Aarons,471690,25,England,Right-Back,RB,16000000.0,Valencia CF,Spain,0.0,1
+2024,Premier League,AFC Bournemouth,winter,out,Eli Kroupi,955357,18,France,Centre-Forward,CF,10000000.0,FC Lorient,France,0.0,1
+2024,Premier League,AFC Bournemouth,winter,out,Mark Travers,357658,25,Ireland,Goalkeeper,GK,4000000.0,Middlesbrough FC,England,0.0,1
+2024,Premier League,Arsenal FC,summer,in,Riccardo Calafiori,502821,22,Italy,Left-Back,LB,45000000.0,Bologna FC 1909,Italy,45000000.0,0
+2024,Premier League,Arsenal FC,summer,in,Mikel Merino,338424,28,Spain,Central Midfield,CM,50000000.0,Real Sociedad,Spain,32000000.0,0
+2024,Premier League,Arsenal FC,summer,in,David Raya,262749,28,Spain,Goalkeeper,GK,35000000.0,Brentford FC,England,31900000.0,0
+2024,Premier League,Arsenal FC,summer,in,Neto,111819,35,Brazil,Goalkeeper,GK,2500000.0,AFC Bournemouth,England,0.0,1
+2024,Premier League,Arsenal FC,summer,in,Raheem Sterling,134425,29,England,Right Winger,RW,35000000.0,Chelsea FC,England,0.0,1
+2024,Premier League,Arsenal FC,summer,out,Emile Smith Rowe,392765,24,England,Attacking Midfield,AM,22000000.0,Fulham FC,England,31800000.0,0
+2024,Premier League,Arsenal FC,summer,out,Eddie Nketiah,340324,25,England,Centre-Forward,CF,30000000.0,Crystal Palace,England,29700000.0,0
+2024,Premier League,Arsenal FC,summer,out,Aaron Ramsdale,427568,26,England,Goalkeeper,GK,25000000.0,Southampton FC,England,21400000.0,0
+2024,Premier League,Arsenal FC,summer,out,Fábio Vieira,537598,24,Portugal,Attacking Midfield,AM,22000000.0,FC Porto,Portugal,890000.0,1
+2024,Premier League,Arsenal FC,summer,out,Mohamed Elneny,160438,32,Egypt,Defensive Midfield,DM,3500000.0,Al-Jazira Club,United Arab Emirates,0.0,0
+2024,Premier League,Arsenal FC,summer,out,Arthur Okonkwo,503769,22,England,Goalkeeper,GK,1800000.0,Wrexham AFC,England,0.0,0
+2024,Premier League,Arsenal FC,summer,out,Nuno Tavares,535955,24,Portugal,Left-Back,LB,15000000.0,SS Lazio,Italy,0.0,1
+2024,Premier League,Arsenal FC,summer,out,Karl Hein,493513,22,Estonia,Goalkeeper,GK,2000000.0,Real Valladolid CF,Spain,0.0,1
+2024,Premier League,Arsenal FC,summer,out,Albert Sambi Lokonga,381967,24,Belgium,Central Midfield,CM,15000000.0,Sevilla FC,Spain,0.0,1
+2024,Premier League,Arsenal FC,summer,out,Reiss Nelson,340325,24,England,Left Winger,LW,15000000.0,Fulham FC,England,0.0,1
+2024,Premier League,Arsenal FC,summer,out,Cédric Soares,112988,32,Portugal,Right-Back,RB,2000000.0,Without Club,,,0
+2024,Premier League,Arsenal FC,summer,out,David Raya,262749,28,Spain,Goalkeeper,GK,35000000.0,Brentford FC,England,0.0,1
+2024,Premier League,Arsenal FC,winter,out,Marquinhos,668268,21,Brazil,Right Winger,RW,6000000.0,Cruzeiro Esporte Clube,Brazil,0.0,1
+2024,Premier League,Aston Villa,summer,in,Amadou Onana,485706,22,Belgium,Defensive Midfield,DM,50000000.0,Everton FC,England,59350000.0,0
+2024,Premier League,Aston Villa,summer,in,Ian Maatsen,485585,22,Netherlands,Left-Back,LB,40000000.0,Chelsea FC,England,44500000.0,0
+2024,Premier League,Aston Villa,summer,in,Cameron Archer,533662,22,England,Centre-Forward,CF,13000000.0,Sheffield United,England,16649999.999999998,0
+2024,Premier League,Aston Villa,summer,in,Jaden Philogene,665390,22,England,Left Winger,LW,15000000.0,Hull City,England,16000000.0,0
+2024,Premier League,Aston Villa,summer,in,Samuel Iling-Junior,581672,20,England,Left-Back,LB,13000000.0,Juventus FC,Italy,14000000.0,0
+2024,Premier League,Aston Villa,summer,in,Lewis Dobbin,627248,21,England,Left Winger,LW,2500000.0,Everton FC,England,11800000.0,0
+2024,Premier League,Aston Villa,summer,in,Enzo Barrenechea,671915,23,Argentina,Defensive Midfield,DM,7500000.0,Juventus FC,Italy,8000000.0,0
+2024,Premier League,Aston Villa,summer,in,Ross Barkley,131978,30,England,Central Midfield,CM,8000000.0,Luton Town,England,5900000.0,0
+2024,Premier League,Aston Villa,winter,in,Donyell Malen,326029,25,Netherlands,Right Winger,RW,28000000.0,Borussia Dortmund,Germany,25000000.0,0
+2024,Premier League,Aston Villa,winter,in,Andrés García,1063329,21,Spain,Right-Back,RB,1200000.0,Levante UD,Spain,7000000.0,0
+2024,Premier League,Aston Villa,winter,in,Axel Disasi,386047,26,France,Centre-Back,CB,30000000.0,Chelsea FC,England,6000000.0,1
+2024,Premier League,Aston Villa,winter,in,Marcus Rashford,258923,27,England,Left Winger,LW,55000000.0,Manchester United,England,0.0,1
+2024,Premier League,Aston Villa,winter,in,Marco Asensio,296622,29,Spain,Attacking Midfield,AM,20000000.0,Paris Saint-Germain,France,0.0,1
+2024,Premier League,Aston Villa,summer,out,Moussa Diaby,395516,25,France,Right Winger,RW,55000000.0,Al-Ittihad Club,Saudi Arabia,60000000.0,0
+2024,Premier League,Aston Villa,summer,out,Douglas Luiz,447661,26,Brazil,Central Midfield,CM,70000000.0,Juventus FC,Italy,51500000.0,0
+2024,Premier League,Aston Villa,summer,out,Cameron Archer,533662,22,England,Centre-Forward,CF,13000000.0,Southampton FC,England,17600000.0,0
+2024,Premier League,Aston Villa,summer,out,Tim Iroegbunam,696589,21,England,Central Midfield,CM,4000000.0,Everton FC,England,10700000.0,0
+2024,Premier League,Aston Villa,summer,out,Morgan Sanson,174094,29,France,Central Midfield,CM,8000000.0,OGC Nice,France,4000000.0,0
+2024,Premier League,Aston Villa,summer,out,Viljami Sinisalo,484838,22,Finland,Goalkeeper,GK,600000.0,Celtic FC,Scotland,1200000.0,0
+2024,Premier League,Aston Villa,summer,out,Calum Chambers,215118,29,England,Centre-Back,CB,4000000.0,Cardiff City,England,0.0,0
+2024,Premier League,Aston Villa,summer,out,Samuel Iling-Junior,581672,20,England,Left-Back,LB,13000000.0,Bologna FC 1909,Italy,0.0,1
+2024,Premier League,Aston Villa,summer,out,Álex Moreno,193098,31,Spain,Left-Back,LB,13000000.0,Nottingham Forest,England,0.0,1
+2024,Premier League,Aston Villa,summer,out,Leander Dendoncker,168157,29,Belgium,Defensive Midfield,DM,7000000.0,RSC Anderlecht,Belgium,0.0,1
+2024,Premier League,Aston Villa,summer,out,Enzo Barrenechea,671915,23,Argentina,Defensive Midfield,DM,7500000.0,Valencia CF,Spain,0.0,1
+2024,Premier League,Aston Villa,summer,out,Kaine Kesler-Hayden,626888,21,England,Right-Back,RB,2200000.0,Preston North End,England,0.0,1
+2024,Premier League,Aston Villa,summer,out,Lewis Dobbin,627248,21,England,Left Winger,LW,2500000.0,West Bromwich Albion,England,0.0,1
+2024,Premier League,Aston Villa,summer,out,Filip Marschall,610863,21,England,Goalkeeper,GK,800000.0,Crewe Alexandra,England,0.0,1
+2024,Premier League,Aston Villa,summer,out,Philippe Coutinho,80444,32,Brazil,Attacking Midfield,AM,7500000.0,Clube de Regatas Vasco da Gama,Brazil,0.0,1
+2024,Premier League,Aston Villa,summer,out,Clément Lenglet,182904,29,France,Centre-Back,CB,10000000.0,FC Barcelona,Spain,0.0,1
+2024,Premier League,Aston Villa,summer,out,Nicolò Zaniolo,392085,24,Italy,Attacking Midfield,AM,20000000.0,Galatasaray,Türkiye,0.0,1
+2024,Premier League,Aston Villa,winter,out,Jhon Durán,649317,21,Colombia,Centre-Forward,CF,40000000.0,Al-Nassr FC,Saudi Arabia,77000000.0,0
+2024,Premier League,Aston Villa,winter,out,Jaden Philogene,665390,22,England,Left Winger,LW,15000000.0,Ipswich Town,England,23700000.0,0
+2024,Premier League,Aston Villa,winter,out,Diego Carlos,329145,31,Brazil,Centre-Back,CB,11000000.0,Fenerbahce,Türkiye,11470000.0,0
+2024,Premier League,Aston Villa,winter,out,Lewis Dobbin,627248,22,England,Left Winger,LW,2500000.0,Norwich City,England,0.0,1
+2024,Premier League,Aston Villa,winter,out,Emiliano Buendía,321247,28,Argentina,Attacking Midfield,AM,18000000.0,Bayer 04 Leverkusen,Germany,0.0,1
+2024,Premier League,Aston Villa,winter,out,Joe Gauci,591844,24,Australia,Goalkeeper,GK,1500000.0,Barnsley FC,England,0.0,1
+2024,Premier League,Aston Villa,winter,out,Kosta Nedeljkovic,848682,19,Serbia,Right-Back,RB,8500000.0,RB Leipzig,Germany,0.0,1
+2024,Premier League,Aston Villa,winter,out,Samuel Iling-Junior,581672,21,England,Left-Back,LB,11000000.0,Middlesbrough FC,England,0.0,1
+2024,Premier League,Brentford FC,summer,in,Igor Thiago,739443,23,Brazil,Centre-Forward,CF,25000000.0,Club Brugge KV,Belgium,33000000.0,0
+2024,Premier League,Brentford FC,summer,in,Sepp van den Berg,541231,22,Netherlands,Centre-Back,CB,12000000.0,Liverpool FC,England,23600000.0,0
+2024,Premier League,Brentford FC,summer,in,Fábio Carvalho,559263,21,Portugal,Attacking Midfield,AM,14000000.0,Liverpool FC,England,23400000.0,0
+2024,Premier League,Brentford FC,summer,in,Gustavo Nunes,1086375,18,Brazil,Left Winger,LW,10000000.0,Grêmio Foot-Ball Porto Alegrense,Brazil,12000000.0,0
+2024,Premier League,Brentford FC,summer,in,Jayden Meghoma,954104,18,England,Left-Back,LB,,Southampton FC U21,England,5900000.0,0
+2024,Premier League,Brentford FC,winter,in,Michael Kayode,823486,20,Italy,Right-Back,RB,18000000.0,ACF Fiorentina,Italy,500000.0,1
+2024,Premier League,Brentford FC,summer,out,Ivan Toney,251664,28,England,Centre-Forward,CF,50000000.0,Al-Ahli SFC,Saudi Arabia,42000000.0,0
+2024,Premier League,Brentford FC,summer,out,David Raya,262749,28,Spain,Goalkeeper,GK,35000000.0,Arsenal FC,England,31900000.0,0
+2024,Premier League,Brentford FC,summer,out,Fin Stevens,587019,21,Wales,Right-Back,RB,450000.0,FC St. Pauli,Germany,600000.0,0
+2024,Premier League,Brentford FC,summer,out,Thomas Strakosha,222209,29,Albania,Goalkeeper,GK,3000000.0,AEK Athens,Greece,0.0,0
+2024,Premier League,Brentford FC,summer,out,Charlie Goode,376856,29,England,Centre-Back,CB,500000.0,Stevenage FC,England,0.0,0
+2024,Premier League,Brentford FC,summer,out,Zanka,52059,34,Denmark,Centre-Back,CB,1000000.0,RSC Anderlecht,Belgium,0.0,0
+2024,Premier League,Brentford FC,summer,out,Shandon Baptiste,533916,26,Grenada,Central Midfield,CM,2500000.0,Luton Town,England,0.0,0
+2024,Premier League,Brentford FC,summer,out,Saman Ghoddos,204294,31,Iran,Attacking Midfield,AM,2000000.0,Kalba FC,United Arab Emirates,0.0,0
+2024,Premier League,Brentford FC,summer,out,Ben Winterbottom,505046,23,England,Goalkeeper,GK,,AFC Fylde,England,0.0,1
+2024,Premier League,Brentford FC,summer,out,Myles Peart-Harris,587002,21,Jamaica,Attacking Midfield,AM,700000.0,Swansea City,England,0.0,1
+2024,Premier League,Brentford FC,summer,out,Frank Onyeka,421637,26,Nigeria,Central Midfield,CM,9000000.0,FC Augsburg,Germany,0.0,1
+2024,Premier League,Brentford FC,summer,out,Ellery Balcombe,456292,24,England,Goalkeeper,GK,300000.0,St. Mirren FC,Scotland,0.0,1
+2024,Premier League,Brentford FC,summer,out,Neal Maupay,217115,27,France,Centre-Forward,CF,12000000.0,Everton FC,England,0.0,1
+2024,Premier League,Brentford FC,winter,out,Jayden Meghoma,954104,18,England,Left-Back,LB,,Preston North End,England,0.0,1
+2024,Premier League,Brentford FC,winter,out,Mads Roerslev,391005,25,Denmark,Right-Back,RB,12000000.0,VfL Wolfsburg,Germany,0.0,1
+2024,Premier League,Brentford FC,winter,out,Ellery Balcombe,456292,25,England,Goalkeeper,GK,400000.0,Motherwell FC,Scotland,0.0,1
+2024,Premier League,Brentford FC,winter,out,Matthew Cox,741236,21,England,Goalkeeper,GK,800000.0,Crawley Town,England,0.0,1
+2024,Premier League,Brentford FC,winter,out,Ryan Trevitt,874538,21,England,Central Midfield,CM,275000.0,Exeter City,England,0.0,1
+2024,Premier League,Brighton & Hove Albion,summer,in,Georginio Rutter,538977,22,France,Centre-Forward,CF,18000000.0,Leeds United,England,46700000.0,0
+2024,Premier League,Brighton & Hove Albion,summer,in,Yankuba Minteh,1012534,19,The Gambia,Right Winger,RW,16000000.0,Newcastle United,England,35000000.0,0
+2024,Premier League,Brighton & Hove Albion,summer,in,Mats Wieffer,415381,24,Netherlands,Defensive Midfield,DM,30000000.0,Feyenoord Rotterdam,Netherlands,32000000.0,0
+2024,Premier League,Brighton & Hove Albion,summer,in,Brajan Gruda,700106,20,Germany,Right Winger,RW,20000000.0,1.FSV Mainz 05,Germany,31500000.0,0
+2024,Premier League,Brighton & Hove Albion,summer,in,Ferdi Kadıoğlu,369316,24,Türkiye,Left-Back,LB,30000000.0,Fenerbahce,Türkiye,30000000.0,0
+2024,Premier League,Brighton & Hove Albion,summer,in,Matt O'Riley,406634,23,Denmark,Central Midfield,CM,20000000.0,Celtic FC,Scotland,29500000.0,0
+2024,Premier League,Brighton & Hove Albion,summer,in,Ibrahim Osman,1110406,19,Ghana,Left Winger,LW,12000000.0,FC Nordsjaelland,Denmark,19500000.0,0
+2024,Premier League,Brighton & Hove Albion,summer,in,Malick Yalcouyé,1178758,18,Cote d'Ivoire,Central Midfield,CM,5000000.0,IFK Göteborg,Sweden,7000000.0,0
+2024,Premier League,Brighton & Hove Albion,summer,in,Amario Cozier-Duberry,878150,19,England,Right Winger,RW,2000000.0,Arsenal FC U21,England,0.0,0
+2024,Premier League,Brighton & Hove Albion,winter,in,Stefanos Tzimas,950091,19,Greece,Centre-Forward,CF,10000000.0,1.FC Nuremberg,Germany,26500000.0,0
+2024,Premier League,Brighton & Hove Albion,winter,in,Diego Gómez,996897,21,Paraguay,Central Midfield,CM,12000000.0,Inter Miami CF,United States,13000000.0,0
+2024,Premier League,Brighton & Hove Albion,winter,in,Eiran Cashin,581330,23,Ireland,Centre-Back,CB,1800000.0,Derby County,England,10750000.0,0
+2024,Premier League,Brighton & Hove Albion,summer,out,Deniz Undav,339314,28,Germany,Centre-Forward,CF,25000000.0,VfB Stuttgart,Germany,26700000.0,0
+2024,Premier League,Brighton & Hove Albion,summer,out,Billy Gilmour,423744,23,Scotland,Defensive Midfield,DM,18000000.0,SSC Napoli,Italy,14000000.0,0
+2024,Premier League,Brighton & Hove Albion,summer,out,Pascal Groß,82873,33,Germany,Central Midfield,CM,8000000.0,Borussia Dortmund,Germany,7000000.0,0
+2024,Premier League,Brighton & Hove Albion,summer,out,Marc Leonard,463751,22,Scotland,Central Midfield,CM,450000.0,Birmingham City,England,590000.0,0
+2024,Premier League,Brighton & Hove Albion,summer,out,Kacper Kozlowski,554284,20,Poland,Attacking Midfield,AM,5000000.0,Gaziantep FK,Türkiye,200000.0,0
+2024,Premier League,Brighton & Hove Albion,summer,out,Mahmoud Dahoud,191422,28,Syria,Central Midfield,CM,6000000.0,Eintracht Frankfurt,Germany,0.0,0
+2024,Premier League,Brighton & Hove Albion,summer,out,Adam Lallana,43530,36,England,Attacking Midfield,AM,1000000.0,Southampton FC,England,0.0,0
+2024,Premier League,Brighton & Hove Albion,summer,out,Ibrahim Osman,1110406,19,Ghana,Left Winger,LW,12000000.0,Feyenoord Rotterdam,Netherlands,0.0,1
+2024,Premier League,Brighton & Hove Albion,summer,out,Jensen Weir,520651,22,England,Central Midfield,CM,300000.0,Wigan Athletic,England,,0
+2024,Premier League,Brighton & Hove Albion,summer,out,Valentín Barco,849410,20,Argentina,Central Midfield,CM,13000000.0,Sevilla FC,Spain,0.0,1
+2024,Premier League,Brighton & Hove Albion,summer,out,Odeluga Offiah,567597,21,England,Right-Back,RB,300000.0,Blackpool FC,England,0.0,1
+2024,Premier League,Brighton & Hove Albion,summer,out,Jeremy Sarmiento,568005,22,Ecuador,Left Winger,LW,7000000.0,Burnley FC,England,0.0,1
+2024,Premier League,Brighton & Hove Albion,summer,out,Amario Cozier-Duberry,878150,19,England,Right Winger,RW,2000000.0,Blackburn Rovers,England,0.0,1
+2024,Premier League,Brighton & Hove Albion,summer,out,Carl Rushworth,646353,23,England,Goalkeeper,GK,3000000.0,Hull City,England,0.0,1
+2024,Premier League,Brighton & Hove Albion,summer,out,Malick Yalcouyé,1178758,18,Cote d'Ivoire,Central Midfield,CM,5000000.0,SK Sturm Graz,Austria,0.0,1
+2024,Premier League,Brighton & Hove Albion,summer,out,Abdallah Sima,776798,23,Senegal,Left Winger,LW,7500000.0,Stade Brestois 29,France,0.0,1
+2024,Premier League,Brighton & Hove Albion,summer,out,Facundo Buonanotte,983989,19,Argentina,Attacking Midfield,AM,18000000.0,Leicester City,England,0.0,1
+2024,Premier League,Brighton & Hove Albion,summer,out,Steven Alzate,476237,25,Colombia,Central Midfield,CM,4000000.0,Without Club,,,0
+2024,Premier League,Brighton & Hove Albion,summer,out,Tom McGill,406556,24,Canada,Goalkeeper,GK,600000.0,Milton Keynes Dons,England,0.0,1
+2024,Premier League,Brighton & Hove Albion,summer,out,Ansu Fati,466810,21,Spain,Left Winger,LW,25000000.0,FC Barcelona,Spain,0.0,1
+2024,Premier League,Brighton & Hove Albion,winter,out,Jakub Moder,384461,25,Poland,Central Midfield,CM,10000000.0,Feyenoord Rotterdam,Netherlands,1500000.0,0
+2024,Premier League,Brighton & Hove Albion,winter,out,Julio Enciso,660867,21,Paraguay,Attacking Midfield,AM,22000000.0,Ipswich Town,England,0.0,1
+2024,Premier League,Brighton & Hove Albion,winter,out,Valentín Barco,849410,20,Argentina,Central Midfield,CM,6000000.0,RC Strasbourg Alsace,France,0.0,1
+2024,Premier League,Brighton & Hove Albion,winter,out,Evan Ferguson,648046,20,Ireland,Centre-Forward,CF,40000000.0,West Ham United,England,0.0,1
+2024,Premier League,Brighton & Hove Albion,winter,out,Stefanos Tzimas,950091,19,Greece,Centre-Forward,CF,10000000.0,1.FC Nuremberg,Germany,0.0,1
+2024,Premier League,Chelsea FC,summer,in,Pedro Neto,487465,24,Portugal,Right Winger,RW,55000000.0,Wolverhampton Wanderers,England,60000000.0,0
+2024,Premier League,Chelsea FC,summer,in,João Félix,462250,24,Portugal,Second Striker,SS,30000000.0,Atlético de Madrid,Spain,52000000.0,0
+2024,Premier League,Chelsea FC,summer,in,Kiernan Dewsbury-Hall,475188,25,England,Central Midfield,CM,30000000.0,Leicester City,England,35400000.0,0
+2024,Premier League,Chelsea FC,summer,in,Filip Jørgensen,585323,22,Denmark,Goalkeeper,GK,20000000.0,Villarreal CF,Spain,24500000.0,0
+2024,Premier League,Chelsea FC,summer,in,Omari Kellyman,926135,18,England,Attacking Midfield,AM,1000000.0,Aston Villa U21,England,22500000.0,0
+2024,Premier League,Chelsea FC,summer,in,Mike Penders,834397,19,Belgium,Goalkeeper,GK,1000000.0,KRC Genk,Belgium,20000000.0,0
+2024,Premier League,Chelsea FC,summer,in,Aarón Anselmino,1145504,19,Argentina,Centre-Back,CB,3000000.0,CA Boca Juniors,Argentina,16500000.0,0
+2024,Premier League,Chelsea FC,summer,in,Renato Veiga,805714,20,Portugal,Centre-Back,CB,3000000.0,FC Basel 1893,Switzerland,14000000.0,0
+2024,Premier League,Chelsea FC,summer,in,Caleb Wiley,746833,19,United States,Left-Back,LB,5000000.0,Atlanta United FC,United States,10100000.0,0
+2024,Premier League,Chelsea FC,summer,in,Marc Guiu,938158,18,Spain,Centre-Forward,CF,7500000.0,FC Barcelona,Spain,6000000.0,0
+2024,Premier League,Chelsea FC,summer,in,Jadon Sancho,401173,24,England,Left Winger,LW,30000000.0,Manchester United,England,5900000.0,1
+2024,Premier League,Chelsea FC,summer,in,Tosin Adarabioyo,258878,26,England,Centre-Back,CB,20000000.0,Fulham FC,England,0.0,0
+2024,Premier League,Chelsea FC,winter,in,Mathis Amougou,1010854,19,France,Central Midfield,CM,5000000.0,AS Saint-Étienne,France,15000000.0,0
+2024,Premier League,Chelsea FC,summer,out,Ian Maatsen,485585,22,Netherlands,Left-Back,LB,40000000.0,Aston Villa,England,44500000.0,0
+2024,Premier League,Chelsea FC,summer,out,Conor Gallagher,488362,24,England,Central Midfield,CM,50000000.0,Atlético de Madrid,Spain,42000000.0,0
+2024,Premier League,Chelsea FC,summer,out,Lewis Hall,670858,19,England,Left-Back,LB,18000000.0,Newcastle United,England,33000000.0,0
+2024,Premier League,Chelsea FC,summer,out,Romelu Lukaku,96341,31,Belgium,Centre-Forward,CF,30000000.0,SSC Napoli,Italy,30000000.0,0
+2024,Premier League,Chelsea FC,summer,out,Omari Hutchinson,741238,20,England,Attacking Midfield,AM,7000000.0,Ipswich Town,England,23500000.0,0
+2024,Premier League,Chelsea FC,summer,out,Ângelo,743598,19,Brazil,Right Winger,RW,15000000.0,Al-Nassr FC,Saudi Arabia,23000000.0,0
+2024,Premier League,Chelsea FC,summer,out,Diego Moreira,655006,20,Belgium,Left Midfield,LM,3000000.0,RC Strasbourg Alsace,France,8500000.0,0
+2024,Premier League,Chelsea FC,summer,out,Kepa Arrizabalaga,192279,29,Spain,Goalkeeper,GK,12000000.0,AFC Bournemouth,England,3600000.0,1
+2024,Premier League,Chelsea FC,summer,out,Malang Sarr,344596,25,France,Centre-Back,CB,4000000.0,RC Lens,France,0.0,0
+2024,Premier League,Chelsea FC,summer,out,Hakim Ziyech,217111,31,Morocco,Right Winger,RW,9000000.0,Galatasaray,Türkiye,0.0,0
+2024,Premier League,Chelsea FC,summer,out,Tino Anjorin,433181,22,England,Attacking Midfield,AM,700000.0,FC Empoli,Italy,0.0,0
+2024,Premier League,Chelsea FC,summer,out,Thiago Silva,29241,39,Brazil,Centre-Back,CB,1000000.0,Fluminense Football Club,Brazil,0.0,0
+2024,Premier League,Chelsea FC,summer,out,Trevoh Chalobah,346314,25,England,Centre-Back,CB,13000000.0,Crystal Palace,England,0.0,1
+2024,Premier League,Chelsea FC,summer,out,Mike Penders,834397,19,Belgium,Goalkeeper,GK,1000000.0,KRC Genk,Belgium,0.0,1
+2024,Premier League,Chelsea FC,summer,out,David Datro Fofana,787232,21,Cote d'Ivoire,Centre-Forward,CF,12000000.0,Göztepe,Türkiye,0.0,1
+2024,Premier League,Chelsea FC,summer,out,Armando Broja,571743,22,Albania,Centre-Forward,CF,22000000.0,Everton FC,England,0.0,1
+2024,Premier League,Chelsea FC,summer,out,Raheem Sterling,134425,29,England,Right Winger,RW,35000000.0,Arsenal FC,England,0.0,1
+2024,Premier League,Chelsea FC,summer,out,Djordje Petrovic,465555,24,Serbia,Goalkeeper,GK,20000000.0,RC Strasbourg Alsace,France,0.0,1
+2024,Premier League,Chelsea FC,summer,out,Bashir Humphreys,612517,21,England,Centre-Back,CB,4800000.0,Burnley FC,England,0.0,1
+2024,Premier League,Chelsea FC,summer,out,Lesley Ugochukwu,711999,20,France,Defensive Midfield,DM,25000000.0,Southampton FC,England,0.0,1
+2024,Premier League,Chelsea FC,summer,out,Caleb Wiley,746833,19,United States,Left-Back,LB,5000000.0,RC Strasbourg Alsace,France,0.0,1
+2024,Premier League,Chelsea FC,summer,out,Gabriel Slonina,656316,20,United States,Goalkeeper,GK,4000000.0,Barnsley FC,England,0.0,1
+2024,Premier League,Chelsea FC,summer,out,Alfie Gilchrist,790992,20,England,Right-Back,RB,5000000.0,Sheffield United,England,0.0,1
+2024,Premier League,Chelsea FC,summer,out,Aarón Anselmino,1145504,19,Argentina,Centre-Back,CB,3000000.0,CA Boca Juniors,Argentina,0.0,1
+2024,Premier League,Chelsea FC,winter,out,Cesare Casadei,622380,22,Italy,Central Midfield,CM,10000000.0,Torino FC,Italy,13000000.0,0
+2024,Premier League,Chelsea FC,winter,out,Axel Disasi,386047,26,France,Centre-Back,CB,30000000.0,Aston Villa,England,6000000.0,1
+2024,Premier League,Chelsea FC,winter,out,João Félix,462250,25,Portugal,Second Striker,SS,30000000.0,AC Milan,Italy,5500000.0,1
+2024,Premier League,Chelsea FC,winter,out,Renato Veiga,805714,21,Portugal,Centre-Back,CB,10000000.0,Juventus FC,Italy,4000000.0,1
+2024,Premier League,Chelsea FC,winter,out,Carney Chukwuemeka,659459,21,England,Central Midfield,CM,15000000.0,Borussia Dortmund,Germany,2400000.0,1
+2024,Premier League,Chelsea FC,winter,out,Caleb Wiley,746833,20,United States,Left-Back,LB,8000000.0,Watford FC,England,0.0,1
+2024,Premier League,Chelsea FC,winter,out,Ben Chilwell,316125,28,England,Left-Back,LB,20000000.0,Crystal Palace,England,0.0,1
+2024,Premier League,Chelsea FC,winter,out,Deivid Washington,1082850,19,Brazil,Centre-Forward,CF,9000000.0,Santos FC,Brazil,0.0,1
+2024,Premier League,Crystal Palace,summer,in,Eddie Nketiah,340324,25,England,Centre-Forward,CF,30000000.0,Arsenal FC,England,29700000.0,0
+2024,Premier League,Crystal Palace,summer,in,Maxence Lacroix,434224,24,France,Centre-Back,CB,20000000.0,VfL Wolfsburg,Germany,18000000.0,0
+2024,Premier League,Crystal Palace,summer,in,Chadi Riad,689637,21,Morocco,Centre-Back,CB,15000000.0,Real Betis Balompié,Spain,15000000.0,0
+2024,Premier League,Crystal Palace,summer,in,Ismaïla Sarr,410225,26,Senegal,Right Winger,RW,18000000.0,Olympique Marseille,France,15000000.0,0
+2024,Premier League,Crystal Palace,summer,in,Daichi Kamada,356141,27,Japan,Attacking Midfield,AM,18000000.0,SS Lazio,Italy,0.0,0
+2024,Premier League,Crystal Palace,summer,in,Trevoh Chalobah,346314,25,England,Centre-Back,CB,13000000.0,Chelsea FC,England,0.0,1
+2024,Premier League,Crystal Palace,summer,in,Matt Turner,425306,30,United States,Goalkeeper,GK,7000000.0,Nottingham Forest,England,0.0,1
+2024,Premier League,Crystal Palace,winter,in,Romain Esse,967319,19,England,Right Winger,RW,5000000.0,Millwall FC,England,14200000.0,0
+2024,Premier League,Crystal Palace,winter,in,Ben Chilwell,316125,28,England,Left-Back,LB,20000000.0,Chelsea FC,England,0.0,1
+2024,Premier League,Crystal Palace,summer,out,Michael Olise,566723,22,France,Right Winger,RW,55000000.0,Bayern Munich,Germany,53000000.0,0
+2024,Premier League,Crystal Palace,summer,out,Joachim Andersen,260827,28,Denmark,Centre-Back,CB,35000000.0,Fulham FC,England,29500000.0,0
+2024,Premier League,Crystal Palace,summer,out,Sam Johnstone,110864,31,England,Goalkeeper,GK,10000000.0,Wolverhampton Wanderers,England,11900000.0,0
+2024,Premier League,Crystal Palace,summer,out,Jordan Ayew,108354,32,Ghana,Centre-Forward,CF,4000000.0,Leicester City,England,5900000.0,0
+2024,Premier League,Crystal Palace,summer,out,Scott Banks,596821,22,Scotland,Right Winger,RW,300000.0,FC St. Pauli,Germany,400000.0,0
+2024,Premier League,Crystal Palace,summer,out,Jaïro Riedewald,241481,27,Netherlands,Defensive Midfield,DM,3000000.0,Royal Antwerp FC,Belgium,0.0,0
+2024,Premier League,Crystal Palace,summer,out,Jesurun Rak-Sakyi,586834,21,England,Right Winger,RW,2000000.0,Sheffield United,England,0.0,1
+2024,Premier League,Crystal Palace,summer,out,Malcolm Ebiowei,512354,20,England,Right Winger,RW,1500000.0,Oxford United,England,0.0,1
+2024,Premier League,Crystal Palace,summer,out,David Ozoh,865993,19,England,Defensive Midfield,DM,700000.0,Derby County,England,0.0,1
+2024,Premier League,Crystal Palace,summer,out,Joe Whitworth,670840,20,England,Goalkeeper,GK,1000000.0,Exeter City,England,0.0,1
+2024,Premier League,Crystal Palace,summer,out,Naouirou Ahamada,538971,22,France,Central Midfield,CM,8000000.0,Stade Rennais FC,France,0.0,1
+2024,Premier League,Crystal Palace,summer,out,Nathan Ferguson,507254,23,England,Centre-Back,CB,1000000.0,Without Club,,,0
+2024,Premier League,Crystal Palace,summer,out,James Tomkins,61592,35,England,Centre-Back,CB,700000.0,Without Club,,,0
+2024,Premier League,Crystal Palace,summer,out,Odsonne Édouard,344152,26,France,Centre-Forward,CF,18000000.0,Leicester City,England,0.0,1
+2024,Premier League,Crystal Palace,winter,out,Luke Plange,586986,22,England,Centre-Forward,CF,500000.0,Motherwell FC,Scotland,0.0,1
+2024,Premier League,Crystal Palace,winter,out,Rob Holding,253341,29,England,Centre-Back,CB,4000000.0,Sheffield United,England,0.0,1
+2024,Premier League,Crystal Palace,winter,out,Jeffrey Schlupp,157506,32,Ghana,Left Midfield,LM,6000000.0,Celtic FC,Scotland,0.0,1
+2024,Premier League,Crystal Palace,winter,out,Trevoh Chalobah,346314,25,England,Centre-Back,CB,13000000.0,Chelsea FC,England,0.0,1
+2024,Premier League,Everton FC,summer,in,Jake O'Brien,711544,23,Ireland,Right-Back,RB,12000000.0,Olympique Lyon,France,19500000.0,0
+2024,Premier League,Everton FC,summer,in,Iliman Ndiaye,623570,24,Senegal,Right Winger,RW,15000000.0,Olympique Marseille,France,18000000.0,0
+2024,Premier League,Everton FC,summer,in,Tim Iroegbunam,696589,21,England,Central Midfield,CM,4000000.0,Aston Villa,England,10700000.0,0
+2024,Premier League,Everton FC,summer,in,Jesper Lindstrøm,513245,24,Denmark,Right Winger,RW,22000000.0,SSC Napoli,Italy,2000000.0,1
+2024,Premier League,Everton FC,summer,in,Asmir Begovic,33873,37,Bosnia-Herzegovina,Goalkeeper,GK,300000.0,Queens Park Rangers,England,0.0,0
+2024,Premier League,Everton FC,summer,in,Armando Broja,571743,22,Albania,Centre-Forward,CF,22000000.0,Chelsea FC,England,0.0,1
+2024,Premier League,Everton FC,summer,in,Orel Mangala,289592,26,Belgium,Defensive Midfield,DM,20000000.0,Olympique Lyon,France,0.0,1
+2024,Premier League,Everton FC,winter,in,Carlos Alcaraz,748319,22,Argentina,Central Midfield,CM,14000000.0,CR Flamengo,Brazil,0.0,1
+2024,Premier League,Everton FC,summer,out,Amadou Onana,485706,22,Belgium,Defensive Midfield,DM,50000000.0,Aston Villa,England,59350000.0,0
+2024,Premier League,Everton FC,summer,out,Ben Godfrey,343475,26,England,Centre-Back,CB,10000000.0,Atalanta BC,Italy,12500000.0,0
+2024,Premier League,Everton FC,summer,out,Lewis Dobbin,627248,21,England,Left Winger,LW,2500000.0,Aston Villa,England,11800000.0,0
+2024,Premier League,Everton FC,summer,out,Neal Maupay,217115,28,France,Centre-Forward,CF,12000000.0,Olympique Marseille,France,500000.0,1
+2024,Premier League,Everton FC,summer,out,Andy Lonergan,14044,40,England,Goalkeeper,GK,100000.0,Wigan Athletic,England,0.0,0
+2024,Premier League,Everton FC,summer,out,Mason Holgate,348623,27,Jamaica,Centre-Back,CB,5000000.0,West Bromwich Albion,England,0.0,1
+2024,Premier League,Everton FC,summer,out,Harry Tyrer,574448,22,England,Goalkeeper,GK,,Blackpool FC,England,0.0,1
+2024,Premier League,Everton FC,summer,out,Dele Alli,207929,28,England,Attacking Midfield,AM,5000000.0,Without Club,,,0
+2024,Premier League,Everton FC,summer,out,André Gomes,221025,30,Portugal,Central Midfield,CM,10000000.0,Without Club,,,0
+2024,Premier League,Everton FC,summer,out,Billy Crellin,536794,24,England,Goalkeeper,GK,,Accrington Stanley,England,0.0,1
+2024,Premier League,Everton FC,summer,out,Arnaut Danjuma,355861,27,Netherlands,Left Winger,LW,13000000.0,Villarreal CF,Spain,0.0,1
+2024,Premier League,Everton FC,winter,out,Harrison Armstrong,1107733,18,England,Central Midfield,CM,500000.0,Derby County,England,0.0,1
+2024,Premier League,Fulham FC,summer,in,Emile Smith Rowe,392765,24,England,Attacking Midfield,AM,22000000.0,Arsenal FC,England,31800000.0,0
+2024,Premier League,Fulham FC,summer,in,Joachim Andersen,260827,28,Denmark,Centre-Back,CB,35000000.0,Crystal Palace,England,29500000.0,0
+2024,Premier League,Fulham FC,summer,in,Sander Berge,333014,26,Norway,Defensive Midfield,DM,20000000.0,Burnley FC,England,23550000.0,0
+2024,Premier League,Fulham FC,summer,in,Jorge Cuenca,494880,24,Spain,Centre-Back,CB,6000000.0,Villarreal CF,Spain,6700000.0,0
+2024,Premier League,Fulham FC,summer,in,Ryan Sessegnon,392775,24,England,Left-Back,LB,10000000.0,Tottenham Hotspur,England,0.0,0
+2024,Premier League,Fulham FC,summer,in,Reiss Nelson,340325,24,England,Left Winger,LW,15000000.0,Arsenal FC,England,0.0,1
+2024,Premier League,Fulham FC,winter,in,Willian,52769,36,Brazil,Left Winger,LW,1000000.0,Without Club,,,0
+2024,Premier League,Fulham FC,summer,out,João Palhinha,257455,29,Portugal,Defensive Midfield,DM,55000000.0,Bayern Munich,Germany,51000000.0,0
+2024,Premier League,Fulham FC,summer,out,Jay Stansfield,696346,21,England,Centre-Forward,CF,3500000.0,Birmingham City,England,17800000.0,0
+2024,Premier League,Fulham FC,summer,out,Terence Kongolo,152651,30,Netherlands,Centre-Back,CB,600000.0,NAC Breda,Netherlands,0.0,0
+2024,Premier League,Fulham FC,summer,out,Kevin Mbabu,183321,29,Switzerland,Right-Back,RB,4000000.0,FC Midtjylland,Denmark,0.0,0
+2024,Premier League,Fulham FC,summer,out,Willian,52769,36,Brazil,Left Winger,LW,3000000.0,Olympiacos Piraeus,Greece,0.0,0
+2024,Premier League,Fulham FC,summer,out,Tim Ream,145466,36,United States,Centre-Back,CB,800000.0,Charlotte FC,United States,0.0,0
+2024,Premier League,Fulham FC,summer,out,Tyrese Francois,528888,24,Australia,Central Midfield,CM,600000.0,Wigan Athletic,England,0.0,0
+2024,Premier League,Fulham FC,summer,out,Bobby De Cordova-Reid,186186,31,Jamaica,Right Winger,RW,5000000.0,Leicester City,England,0.0,0
+2024,Premier League,Fulham FC,summer,out,Marek Rodák,186901,27,Slovakia,Goalkeeper,GK,3000000.0,Al-Ettifaq FC,Saudi Arabia,0.0,0
+2024,Premier League,Fulham FC,summer,out,Tosin Adarabioyo,258878,26,England,Centre-Back,CB,20000000.0,Chelsea FC,England,0.0,0
+2024,Premier League,Fulham FC,summer,out,Luke Harris,817612,19,Wales,Attacking Midfield,AM,1000000.0,Birmingham City,England,0.0,1
+2024,Premier League,Fulham FC,summer,out,Armando Broja,571743,22,Albania,Centre-Forward,CF,22000000.0,Chelsea FC,England,0.0,1
+2024,Premier League,Fulham FC,summer,out,Fodé Ballo-Touré,296422,27,Senegal,Left-Back,LB,3000000.0,AC Milan,Italy,0.0,1
+2024,Premier League,Ipswich Town,summer,in,Omari Hutchinson,741238,20,England,Attacking Midfield,AM,7000000.0,Chelsea FC,England,23500000.0,0
+2024,Premier League,Ipswich Town,summer,in,Jacob Greaves,693095,23,England,Centre-Back,CB,15000000.0,Hull City,England,21500000.0,0
+2024,Premier League,Ipswich Town,summer,in,Liam Delap,610849,21,England,Centre-Forward,CF,8000000.0,Manchester City U21,England,17850000.0,0
+2024,Premier League,Ipswich Town,summer,in,Jack Clarke,559794,23,England,Left Winger,LW,15000000.0,Sunderland AFC,England,17700000.0,0
+2024,Premier League,Ipswich Town,summer,in,Dara O'Shea,401320,25,Ireland,Centre-Back,CB,7000000.0,Burnley FC,England,14200000.0,0
+2024,Premier League,Ipswich Town,summer,in,Sammie Szmodics,292139,28,Ireland,Attacking Midfield,AM,7000000.0,Blackburn Rovers,England,10600000.0,0
+2024,Premier League,Ipswich Town,summer,in,Arijanet Murić,371021,25,Kosovo,Goalkeeper,GK,7000000.0,Burnley FC,England,9550000.0,0
+2024,Premier League,Ipswich Town,summer,in,Chiedozie Ogbene,392591,27,Ireland,Right Winger,RW,8000000.0,Luton Town,England,9500000.0,0
+2024,Premier League,Ipswich Town,summer,in,Jens Cajuste,468066,25,Sweden,Defensive Midfield,DM,10000000.0,SSC Napoli,Italy,1500000.0,1
+2024,Premier League,Ipswich Town,summer,in,Conor Townsend,146509,31,England,Left-Back,LB,1500000.0,West Bromwich Albion,England,590000.0,0
+2024,Premier League,Ipswich Town,summer,in,Ben Johnson,468002,24,England,Right-Back,RB,8000000.0,West Ham United,England,0.0,0
+2024,Premier League,Ipswich Town,summer,in,Kalvin Phillips,351749,28,England,Defensive Midfield,DM,25000000.0,Manchester City,England,0.0,1
+2024,Premier League,Ipswich Town,winter,in,Jaden Philogene,665390,22,England,Left Winger,LW,15000000.0,Aston Villa,England,23700000.0,0
+2024,Premier League,Ipswich Town,winter,in,Alex Palmer,245625,28,England,Goalkeeper,GK,1200000.0,West Bromwich Albion,England,2400000.0,0
+2024,Premier League,Ipswich Town,winter,in,Ben Godfrey,343475,26,England,Centre-Back,CB,8000000.0,Atalanta BC,Italy,0.0,1
+2024,Premier League,Ipswich Town,winter,in,Julio Enciso,660867,21,Paraguay,Attacking Midfield,AM,22000000.0,Brighton & Hove Albion,England,0.0,1
+2024,Premier League,Ipswich Town,summer,out,Gassan Ahadme,633168,23,Morocco,Centre-Forward,CF,325000.0,Charlton Athletic,England,1180000.0,0
+2024,Premier League,Ipswich Town,summer,out,Idris El Mizouni,633399,23,Tunisia,Central Midfield,CM,400000.0,Oxford United,England,470000.0,0
+2024,Premier League,Ipswich Town,summer,out,Kayden Jackson,378872,30,England,Centre-Forward,CF,300000.0,Derby County,England,0.0,0
+2024,Premier League,Ipswich Town,summer,out,Panutche Camara,512916,27,Guinea-Bissau,Central Midfield,CM,300000.0,Crawley Town,England,0.0,0
+2024,Premier League,Ipswich Town,summer,out,Václav Hladký,95795,33,Czech Republic,Goalkeeper,GK,400000.0,Burnley FC,England,0.0,0
+2024,Premier League,Ipswich Town,summer,out,Nick Hayes,391110,25,England,Goalkeeper,GK,,Barnet FC,England,0.0,0
+2024,Premier League,Ipswich Town,summer,out,Corrie Ndaba,433329,24,Ireland,Left-Back,LB,350000.0,Kilmarnock FC,Scotland,,0
+2024,Premier League,Ipswich Town,summer,out,Elkan Baggott,758030,21,Indonesia,Centre-Back,CB,250000.0,Blackpool FC,England,0.0,1
+2024,Premier League,Ipswich Town,summer,out,Marcus Harness,288323,28,Ireland,Attacking Midfield,AM,800000.0,Derby County,England,0.0,1
+2024,Premier League,Ipswich Town,summer,out,George Edmundson,385848,27,England,Centre-Back,CB,350000.0,Middlesbrough FC,England,0.0,1
+2024,Premier League,Ipswich Town,summer,out,Cameron Humphreys,871335,20,England,Central Midfield,CM,400000.0,Wycombe Wanderers,England,0.0,1
+2024,Premier League,Ipswich Town,summer,out,Freddie Ladapo,233998,31,England,Centre-Forward,CF,500000.0,Without Club,,,0
+2024,Premier League,Ipswich Town,summer,out,Janoi Donacien,197791,30,St. Lucia,Right-Back,RB,300000.0,Without Club,,,0
+2024,Premier League,Ipswich Town,summer,out,Sone Aluko,42198,35,Nigeria,Right Winger,RW,150000.0,Retired,,,0
+2024,Premier League,Ipswich Town,summer,out,Dominic Ball,167254,28,England,Defensive Midfield,DM,400000.0,Without Club,,,0
+2024,Premier League,Ipswich Town,winter,out,George Edmundson,385848,27,England,Centre-Back,CB,350000.0,Middlesbrough FC,England,710000.0,0
+2024,Premier League,Ipswich Town,winter,out,Ali Al-Hamadi,610581,22,Iraq,Centre-Forward,CF,2500000.0,Stoke City,England,0.0,1
+2024,Premier League,Ipswich Town,winter,out,Harry Clarke,528892,23,England,Right-Back,RB,5000000.0,Sheffield United,England,0.0,1
+2024,Premier League,Leicester City,summer,in,Oliver Skipp,406638,23,England,Defensive Midfield,DM,15000000.0,Tottenham Hotspur,England,23500000.0,0
+2024,Premier League,Leicester City,summer,in,Bilal El Khannouss,654982,20,Morocco,Attacking Midfield,AM,30000000.0,KRC Genk,Belgium,22500000.0,0
+2024,Premier League,Leicester City,summer,in,Issahaku Fatawu,864121,20,Ghana,Right Winger,RW,10000000.0,Sporting CP,Portugal,16250000.0,0
+2024,Premier League,Leicester City,summer,in,Caleb Okoli,461833,22,Italy,Centre-Back,CB,8000000.0,Atalanta BC,Italy,14000000.0,0
+2024,Premier League,Leicester City,summer,in,Michael Golding,936842,18,England,Central Midfield,CM,300000.0,Chelsea FC U21,England,5900000.0,0
+2024,Premier League,Leicester City,summer,in,Jordan Ayew,108354,32,Ghana,Centre-Forward,CF,4000000.0,Crystal Palace,England,5900000.0,0
+2024,Premier League,Leicester City,summer,in,Bobby De Cordova-Reid,186186,31,Jamaica,Right Winger,RW,5000000.0,Fulham FC,England,0.0,0
+2024,Premier League,Leicester City,summer,in,Facundo Buonanotte,983989,19,Argentina,Attacking Midfield,AM,18000000.0,Brighton & Hove Albion,England,0.0,1
+2024,Premier League,Leicester City,summer,in,Odsonne Édouard,344152,26,France,Centre-Forward,CF,18000000.0,Crystal Palace,England,0.0,1
+2024,Premier League,Leicester City,winter,in,Woyo Coulibaly,592975,25,Mali,Right-Back,RB,2000000.0,Parma Calcio 1913,Italy,3000000.0,0
+2024,Premier League,Leicester City,summer,out,Kiernan Dewsbury-Hall,475188,25,England,Central Midfield,CM,30000000.0,Chelsea FC,England,35400000.0,0
+2024,Premier League,Leicester City,summer,out,Dennis Praet,129588,30,Belgium,Central Midfield,CM,4000000.0,Royal Antwerp FC,Belgium,0.0,0
+2024,Premier League,Leicester City,summer,out,Kelechi Iheanacho,295330,27,Nigeria,Centre-Forward,CF,12000000.0,Sevilla FC,Spain,0.0,0
+2024,Premier League,Leicester City,summer,out,Harry Souttar,298091,25,Australia,Centre-Back,CB,8000000.0,Sheffield United,England,0.0,1
+2024,Premier League,Leicester City,summer,out,Ben Nelson,714458,20,England,Centre-Back,CB,400000.0,Oxford United,England,0.0,1
+2024,Premier League,Leicester City,summer,out,Tom Cannon,669366,21,Ireland,Centre-Forward,CF,4000000.0,Stoke City,England,0.0,1
+2024,Premier League,Leicester City,summer,out,Wanya Marçal,670988,21,Portugal,Right Winger,RW,300000.0,De Graafschap Doetinchem,Netherlands,0.0,1
+2024,Premier League,Leicester City,summer,out,Marc Albrighton,61560,34,England,Right Midfield,RM,400000.0,Retired,,,0
+2024,Premier League,Leicester City,summer,out,Callum Doyle,817688,20,England,Centre-Back,CB,15000000.0,Manchester City U21,England,0.0,1
+2024,Premier League,Leicester City,summer,out,Issahaku Fatawu,864121,20,Ghana,Right Winger,RW,10000000.0,Sporting CP,Portugal,0.0,1
+2024,Premier League,Leicester City,summer,out,Yunus Akgün,396908,23,Türkiye,Right Winger,RW,5000000.0,Galatasaray,Türkiye,0.0,1
+2024,Premier League,Leicester City,winter,out,Tom Cannon,669366,22,Ireland,Centre-Forward,CF,6000000.0,Sheffield United,England,11850000.0,0
+2024,Premier League,Leicester City,winter,out,Hamza Choudhury,341501,27,Bangladesh,Defensive Midfield,DM,4500000.0,Sheffield United,England,0.0,1
+2024,Premier League,Liverpool FC,summer,in,Giorgi Mamardashvili,502676,23,Georgia,Goalkeeper,GK,45000000.0,Valencia CF,Spain,30000000.0,0
+2024,Premier League,Liverpool FC,summer,in,Federico Chiesa,341092,26,Italy,Right Winger,RW,35000000.0,Juventus FC,Italy,12000000.0,0
+2024,Premier League,Liverpool FC,summer,out,Sepp van den Berg,541231,22,Netherlands,Centre-Back,CB,12000000.0,Brentford FC,England,23600000.0,0
+2024,Premier League,Liverpool FC,summer,out,Fábio Carvalho,559263,21,Portugal,Attacking Midfield,AM,14000000.0,Brentford FC,England,23400000.0,0
+2024,Premier League,Liverpool FC,summer,out,Adrián,71271,37,Spain,Goalkeeper,GK,600000.0,Real Betis Balompié,Spain,0.0,0
+2024,Premier League,Liverpool FC,summer,out,Giorgi Mamardashvili,502676,23,Georgia,Goalkeeper,GK,45000000.0,Valencia CF,Spain,0.0,1
+2024,Premier League,Liverpool FC,summer,out,Rhys Williams,503679,23,England,Centre-Back,CB,1800000.0,Morecambe FC,England,0.0,1
+2024,Premier League,Liverpool FC,summer,out,Stefan Bajcetic,864799,19,Spain,Defensive Midfield,DM,11000000.0,Red Bull Salzburg,Austria,0.0,1
+2024,Premier League,Liverpool FC,summer,out,Marcelo Pitaluga,662334,21,Brazil,Goalkeeper,GK,300000.0,Livingston FC,Scotland,0.0,1
+2024,Premier League,Liverpool FC,summer,out,Nat Phillips,371814,27,England,Centre-Back,CB,3500000.0,Derby County,England,0.0,1
+2024,Premier League,Liverpool FC,summer,out,Ben Gannon-Doak,719673,18,Scotland,Right Winger,RW,10000000.0,Middlesbrough FC,England,0.0,1
+2024,Premier League,Liverpool FC,summer,out,Joël Matip,82105,32,Cameroon,Centre-Back,CB,8000000.0,Retired,,,0
+2024,Premier League,Liverpool FC,summer,out,Thiago Alcántara,60444,33,Spain,Central Midfield,CM,10000000.0,Retired,,,0
+2024,Premier League,Liverpool FC,winter,out,Marcelo Pitaluga,662334,22,Brazil,Goalkeeper,GK,200000.0,Fluminense Football Club,Brazil,0.0,0
+2024,Premier League,Liverpool FC,winter,out,Stefan Bajcetic,864799,20,Spain,Defensive Midfield,DM,9000000.0,UD Las Palmas,Spain,0.0,1
+2024,Premier League,Manchester City,summer,in,Savinho,743591,20,Brazil,Left Winger,LW,50000000.0,ESTAC Troyes,France,25000000.0,0
+2024,Premier League,Manchester City,summer,in,İlkay Gündoğan,53622,33,Germany,Central Midfield,CM,15000000.0,FC Barcelona,Spain,0.0,0
+2024,Premier League,Manchester City,winter,in,Omar Marmoush,445939,25,Egypt,Centre-Forward,CF,60000000.0,Eintracht Frankfurt,Germany,75000000.0,0
+2024,Premier League,Manchester City,winter,in,Nico González,466805,23,Spain,Defensive Midfield,DM,18000000.0,FC Porto,Portugal,60000000.0,0
+2024,Premier League,Manchester City,winter,in,Abdukodir Khusanov,763079,20,Uzbekistan,Centre-Back,CB,12000000.0,RC Lens,France,40000000.0,0
+2024,Premier League,Manchester City,winter,in,Vitor Reis,1005575,19,Brazil,Centre-Back,CB,14000000.0,Sociedade Esportiva Palmeiras,Brazil,37000000.0,0
+2024,Premier League,Manchester City,winter,in,Juma Bah,1121298,18,Sierra Leone,Centre-Back,CB,1000000.0,Real Valladolid CF,Spain,6000000.0,0
+2024,Premier League,Manchester City,summer,out,Julián Alvarez,576024,24,Argentina,Centre-Forward,CF,90000000.0,Atlético de Madrid,Spain,75000000.0,0
+2024,Premier League,Manchester City,summer,out,João Cancelo,182712,30,Portugal,Right-Back,RB,25000000.0,Al-Hilal SFC,Saudi Arabia,25000000.0,0
+2024,Premier League,Manchester City,summer,out,Taylor Harwood-Bellis,503977,22,England,Centre-Back,CB,22000000.0,Southampton FC,England,23000000.0,0
+2024,Premier League,Manchester City,summer,out,Sergio Gómez,366930,23,Spain,Left-Back,LB,10000000.0,Real Sociedad,Spain,8700000.0,0
+2024,Premier League,Manchester City,summer,out,Tommy Doyle,433183,22,England,Central Midfield,CM,10000000.0,Wolverhampton Wanderers,England,5000000.0,0
+2024,Premier League,Manchester City,summer,out,Yan Couto,627228,22,Brazil,Right-Back,RB,25000000.0,Borussia Dortmund,Germany,5000000.0,1
+2024,Premier League,Manchester City,summer,out,Kalvin Phillips,351749,28,England,Defensive Midfield,DM,25000000.0,Ipswich Town,England,0.0,1
+2024,Premier League,Manchester City,summer,out,Máximo Perrone,668547,21,Argentina,Defensive Midfield,DM,9000000.0,Como 1907,Italy,0.0,1
+2024,Premier League,Manchester City,summer,out,Issa Kaboré,649452,23,Burkina Faso,Right-Back,RB,10000000.0,SL Benfica,Portugal,0.0,1
+2024,Premier League,Manchester City,winter,out,Issa Kaboré,649452,23,Burkina Faso,Right-Back,RB,6000000.0,SV Werder Bremen,Germany,0.0,1
+2024,Premier League,Manchester City,winter,out,Josh Wilson-Esbrand,576121,22,England,Left-Back,LB,4000000.0,Stoke City,England,0.0,1
+2024,Premier League,Manchester City,winter,out,Kyle Walker,95424,34,England,Right-Back,RB,10000000.0,AC Milan,Italy,0.0,1
+2024,Premier League,Manchester City,winter,out,Juma Bah,1121298,18,Sierra Leone,Centre-Back,CB,1000000.0,RC Lens,France,0.0,1
+2024,Premier League,Manchester United,summer,in,Leny Yoro,923831,18,France,Centre-Back,CB,50000000.0,LOSC Lille,France,62000000.0,0
+2024,Premier League,Manchester United,summer,in,Manuel Ugarte,476701,23,Uruguay,Defensive Midfield,DM,45000000.0,Paris Saint-Germain,France,50000000.0,0
+2024,Premier League,Manchester United,summer,in,Matthijs de Ligt,326031,25,Netherlands,Centre-Back,CB,65000000.0,Bayern Munich,Germany,45000000.0,0
+2024,Premier League,Manchester United,summer,in,Joshua Zirkzee,435648,23,Netherlands,Centre-Forward,CF,50000000.0,Bologna FC 1909,Italy,42500000.0,0
+2024,Premier League,Manchester United,summer,in,Noussair Mazraoui,340456,26,Morocco,Right-Back,RB,30000000.0,Bayern Munich,Germany,15000000.0,0
+2024,Premier League,Manchester United,winter,in,Patrick Dorgu,926952,20,Denmark,Left-Back,LB,20000000.0,US Lecce,Italy,30000000.0,0
+2024,Premier League,Manchester United,winter,in,Ayden Heaven,1078163,18,England,Centre-Back,CB,300000.0,Arsenal FC U21,England,1800000.0,0
+2024,Premier League,Manchester United,summer,out,Scott McTominay,315969,27,Scotland,Central Midfield,CM,32000000.0,SSC Napoli,Italy,30500000.0,0
+2024,Premier League,Manchester United,summer,out,Mason Greenwood,532826,22,England,Right Winger,RW,25000000.0,Olympique Marseille,France,26000000.0,0
+2024,Premier League,Manchester United,summer,out,Aaron Wan-Bissaka,477758,26,DR Congo,Right-Back,RB,20000000.0,West Ham United,England,17600000.0,0
+2024,Premier League,Manchester United,summer,out,Álvaro Carreras,811778,21,Spain,Left-Back,LB,7000000.0,SL Benfica,Portugal,14300000.0,0
+2024,Premier League,Manchester United,summer,out,Willy Kambwala,780630,19,France,Centre-Back,CB,5000000.0,Villarreal CF,Spain,10000000.0,0
+2024,Premier League,Manchester United,summer,out,Hannibal,607224,21,Tunisia,Attacking Midfield,AM,9000000.0,Burnley FC,England,6400000.0,0
+2024,Premier League,Manchester United,summer,out,Facundo Pellistri,676318,22,Uruguay,Right Winger,RW,10000000.0,Panathinaikos FC,Greece,6000000.0,0
+2024,Premier League,Manchester United,summer,out,Jadon Sancho,401173,24,England,Left Winger,LW,30000000.0,Chelsea FC,England,5900000.0,1
+2024,Premier League,Manchester United,summer,out,Donny van de Beek,288255,27,Netherlands,Central Midfield,CM,5000000.0,Girona FC,Spain,500000.0,0
+2024,Premier League,Manchester United,summer,out,Raphaël Varane,164770,31,France,Centre-Back,CB,20000000.0,Como 1907,Italy,0.0,0
+2024,Premier League,Manchester United,summer,out,Omari Forson,670845,19,England,Right Winger,RW,2000000.0,AC Monza,Italy,0.0,0
+2024,Premier League,Manchester United,summer,out,Brandon Williams,507700,23,England,Left-Back,LB,2500000.0,Without Club,,,0
+2024,Premier League,Manchester United,summer,out,Anthony Martial,182877,28,France,Centre-Forward,CF,10000000.0,Without Club,,,0
+2024,Premier League,Manchester United,summer,out,Sofyan Amrabat,287579,27,Morocco,Defensive Midfield,DM,22000000.0,ACF Fiorentina,Italy,0.0,1
+2024,Premier League,Manchester United,winter,out,Antony,602105,24,Brazil,Right Winger,RW,20000000.0,Real Betis Balompié,Spain,0.0,1
+2024,Premier League,Manchester United,winter,out,Marcus Rashford,258923,27,England,Left Winger,LW,55000000.0,Aston Villa,England,0.0,1
+2024,Premier League,Manchester United,winter,out,Tyrell Malacia,339340,25,Netherlands,Left-Back,LB,15000000.0,PSV Eindhoven,Netherlands,0.0,1
+2024,Premier League,Newcastle United,summer,in,Lewis Hall,670858,19,England,Left-Back,LB,18000000.0,Chelsea FC,England,33000000.0,0
+2024,Premier League,Newcastle United,summer,in,Odysseas Vlachodimos,124419,30,Greece,Goalkeeper,GK,7000000.0,Nottingham Forest,England,23600000.0,0
+2024,Premier League,Newcastle United,summer,in,William Osula,609556,21,Denmark,Centre-Forward,CF,3000000.0,Sheffield United,England,11600000.0,0
+2024,Premier League,Newcastle United,summer,in,Lloyd Kelly,480116,25,England,Centre-Back,CB,18000000.0,AFC Bournemouth,England,0.0,0
+2024,Premier League,Newcastle United,summer,in,John Ruddy,29712,37,England,Goalkeeper,GK,200000.0,Birmingham City,England,0.0,0
+2024,Premier League,Newcastle United,summer,out,Elliot Anderson,567576,21,England,Central Midfield,CM,15000000.0,Nottingham Forest,England,41200000.0,0
+2024,Premier League,Newcastle United,summer,out,Yankuba Minteh,1012534,19,The Gambia,Right Winger,RW,16000000.0,Brighton & Hove Albion,England,35000000.0,0
+2024,Premier League,Newcastle United,summer,out,Kell Watts,484389,24,England,Centre-Back,CB,250000.0,Cambridge United,England,0.0,0
+2024,Premier League,Newcastle United,summer,out,Matt Ritchie,92469,34,Scotland,Right Midfield,RM,1000000.0,Portsmouth FC,England,0.0,0
+2024,Premier League,Newcastle United,summer,out,Ryan Fraser,146795,30,Scotland,Left Winger,LW,3000000.0,Southampton FC,England,0.0,0
+2024,Premier League,Newcastle United,summer,out,Joe White,614811,21,England,Attacking Midfield,AM,300000.0,Milton Keynes Dons,England,0.0,1
+2024,Premier League,Newcastle United,summer,out,Loris Karius,85864,31,Germany,Goalkeeper,GK,1000000.0,Without Club,,,0
+2024,Premier League,Newcastle United,summer,out,Jeff Hendrick,148262,32,Ireland,Central Midfield,CM,500000.0,Without Club,,,0
+2024,Premier League,Newcastle United,summer,out,Paul Dummett,170321,32,Wales,Left-Back,LB,900000.0,Without Club,,,0
+2024,Premier League,Newcastle United,summer,out,Jamal Lewis,346018,26,Northern Ireland,Left-Back,LB,3500000.0,São Paulo Futebol Clube,Brazil,0.0,1
+2024,Premier League,Newcastle United,summer,out,Lewis Hall,670858,19,England,Left-Back,LB,18000000.0,Chelsea FC,England,0.0,1
+2024,Premier League,Newcastle United,winter,out,Miguel Almirón,272999,30,Paraguay,Right Winger,RW,16000000.0,Atlanta United FC,United States,9550000.0,0
+2024,Premier League,Newcastle United,winter,out,Lloyd Kelly,480116,26,England,Centre-Back,CB,18000000.0,Juventus FC,Italy,3800000.0,1
+2024,Premier League,Newcastle United,winter,out,Isaac Hayden,206225,29,Jamaica,Defensive Midfield,DM,1500000.0,Portsmouth FC,England,0.0,1
+2024,Premier League,Nottingham Forest,summer,in,Elliot Anderson,567576,21,England,Central Midfield,CM,15000000.0,Newcastle United,England,41200000.0,0
+2024,Premier League,Nottingham Forest,summer,in,Nikola Milenković,413507,26,Serbia,Centre-Back,CB,15000000.0,ACF Fiorentina,Italy,12300000.0,0
+2024,Premier League,Nottingham Forest,summer,in,Ramón Sosa,745191,24,Paraguay,Left Winger,LW,13000000.0,CA Talleres,Argentina,12000000.0,0
+2024,Premier League,Nottingham Forest,summer,in,Morato,673492,23,Brazil,Centre-Back,CB,15000000.0,SL Benfica,Portugal,11000000.0,0
+2024,Premier League,Nottingham Forest,summer,in,David Carmo,498237,25,Angola,Centre-Back,CB,12000000.0,FC Porto,Portugal,11000000.0,0
+2024,Premier League,Nottingham Forest,summer,in,Jota Silva,663244,25,Portugal,Right Winger,RW,12000000.0,Vitória Guimarães SC,Portugal,7000000.0,0
+2024,Premier League,Nottingham Forest,summer,in,Marko Stamenic,617018,22,New Zealand,Central Midfield,CM,5000000.0,Red Star Belgrade,Serbia,5500000.0,0
+2024,Premier League,Nottingham Forest,summer,in,Carlos Miguel,641458,25,Brazil,Goalkeeper,GK,4000000.0,Sport Club Corinthians Paulista,Brazil,4000000.0,0
+2024,Premier League,Nottingham Forest,summer,in,Eric da Silva Moreira,897481,18,Germany,Right-Back,RB,1000000.0,FC St. Pauli,Germany,1500000.0,0
+2024,Premier League,Nottingham Forest,summer,in,Álex Moreno,193098,31,Spain,Left-Back,LB,13000000.0,Aston Villa,England,0.0,1
+2024,Premier League,Nottingham Forest,summer,in,James Ward-Prowse,181579,29,England,Central Midfield,CM,30000000.0,West Ham United,England,0.0,1
+2024,Premier League,Nottingham Forest,winter,in,Tyler Bindon,1007720,20,New Zealand,Centre-Back,CB,1000000.0,Reading FC,England,,0
+2024,Premier League,Nottingham Forest,winter,in,Wayne Hennessey,45494,37,Wales,Goalkeeper,GK,175000.0,Without Club,,,0
+2024,Premier League,Nottingham Forest,summer,out,Moussa Niakhaté,291200,28,Senegal,Centre-Back,CB,16000000.0,Olympique Lyon,France,31900000.0,0
+2024,Premier League,Nottingham Forest,summer,out,Odysseas Vlachodimos,124419,30,Greece,Goalkeeper,GK,7000000.0,Newcastle United,England,23600000.0,0
+2024,Premier League,Nottingham Forest,summer,out,Orel Mangala,289592,26,Belgium,Defensive Midfield,DM,20000000.0,Olympique Lyon,France,23400000.0,0
+2024,Premier League,Nottingham Forest,summer,out,Joe Worrall,415970,27,England,Centre-Back,CB,7500000.0,Burnley FC,England,5900000.0,0
+2024,Premier League,Nottingham Forest,summer,out,Remo Freuler,148252,32,Switzerland,Central Midfield,CM,6500000.0,Bologna FC 1909,Italy,1900000.0,0
+2024,Premier League,Nottingham Forest,summer,out,Scott McKenna,255906,27,Scotland,Centre-Back,CB,9000000.0,UD Las Palmas,Spain,0.0,0
+2024,Premier League,Nottingham Forest,summer,out,Harry Arter,55742,34,Ireland,Central Midfield,CM,400000.0,Precision FC,United Arab Emirates,0.0,0
+2024,Premier League,Nottingham Forest,summer,out,Loïc Mbe Soh,463610,23,France,Centre-Back,CB,1500000.0,Beerschot VA,Belgium,0.0,0
+2024,Premier League,Nottingham Forest,summer,out,David Carmo,498237,25,Angola,Centre-Back,CB,12000000.0,Olympiacos Piraeus,Greece,0.0,1
+2024,Premier League,Nottingham Forest,summer,out,Lewis O'Brien,560694,25,England,Central Midfield,CM,5000000.0,Los Angeles FC,United States,0.0,1
+2024,Premier League,Nottingham Forest,summer,out,Ui-jo Hwang,260166,32,"Korea, South",Centre-Forward,CF,1800000.0,Alanyaspor,Türkiye,,0
+2024,Premier League,Nottingham Forest,summer,out,Alex Mighten,503988,22,England,Left Winger,LW,600000.0,San Diego FC,United States,,0
+2024,Premier League,Nottingham Forest,summer,out,Brandon Aguilera,631996,21,Costa Rica,Central Midfield,CM,300000.0,Rio Ave FC,Portugal,,0
+2024,Premier League,Nottingham Forest,summer,out,Jonathan Panzo,392777,23,England,Centre-Back,CB,1200000.0,Rio Ave FC,Portugal,0.0,1
+2024,Premier League,Nottingham Forest,summer,out,Marko Stamenic,617018,22,New Zealand,Central Midfield,CM,5000000.0,Olympiacos Piraeus,Greece,0.0,1
+2024,Premier League,Nottingham Forest,summer,out,Omar Richards,424881,26,England,Left-Back,LB,2500000.0,Rio Ave FC,Portugal,0.0,1
+2024,Premier League,Nottingham Forest,summer,out,Josh Bowler,506470,25,England,Right Winger,RW,1500000.0,Preston North End,England,0.0,1
+2024,Premier League,Nottingham Forest,summer,out,Matt Turner,425306,30,United States,Goalkeeper,GK,7000000.0,Crystal Palace,England,0.0,1
+2024,Premier League,Nottingham Forest,summer,out,Wayne Hennessey,45494,37,Wales,Goalkeeper,GK,250000.0,Without Club,,,0
+2024,Premier League,Nottingham Forest,summer,out,Cheikhou Kouyaté,66934,34,Senegal,Defensive Midfield,DM,,Career break,,,0
+2024,Premier League,Nottingham Forest,summer,out,Felipe,156501,35,Brazil,Centre-Back,CB,1500000.0,Retired,,,0
+2024,Premier League,Nottingham Forest,summer,out,Rodrigo Ribeiro,726701,19,Portugal,Centre-Forward,CF,3000000.0,Sporting CP,Portugal,0.0,1
+2024,Premier League,Nottingham Forest,summer,out,Giovanni Reyna,504215,21,United States,Attacking Midfield,AM,18000000.0,Borussia Dortmund,Germany,0.0,1
+2024,Premier League,Nottingham Forest,summer,out,Divock Origi,148368,29,Belgium,Centre-Forward,CF,5000000.0,AC Milan,Italy,0.0,1
+2024,Premier League,Nottingham Forest,summer,out,Nuno Tavares,535955,24,Portugal,Left-Back,LB,15000000.0,Arsenal FC,England,0.0,1
+2024,Premier League,Nottingham Forest,summer,out,Gonzalo Montiel,402733,27,Argentina,Right-Back,RB,10000000.0,Sevilla FC,Spain,0.0,1
+2024,Premier League,Nottingham Forest,winter,out,Tyler Bindon,1007720,20,New Zealand,Centre-Back,CB,1000000.0,Reading FC,England,0.0,1
+2024,Premier League,Nottingham Forest,winter,out,Andrew Omobamidele,621993,22,Ireland,Centre-Back,CB,11000000.0,RC Strasbourg Alsace,France,0.0,1
+2024,Premier League,Nottingham Forest,winter,out,Josh Bowler,506470,25,England,Right Winger,RW,1200000.0,Luton Town,England,0.0,1
+2024,Premier League,Nottingham Forest,winter,out,Lewis O'Brien,560694,26,England,Central Midfield,CM,5000000.0,Swansea City,England,0.0,1
+2024,Premier League,Nottingham Forest,winter,out,Emmanuel Dennis,448854,27,Nigeria,Centre-Forward,CF,4000000.0,Blackburn Rovers,England,0.0,1
+2024,Premier League,Nottingham Forest,winter,out,James Ward-Prowse,181579,30,England,Central Midfield,CM,16000000.0,West Ham United,England,0.0,1
+2024,Premier League,Southampton FC,summer,in,Taylor Harwood-Bellis,503977,22,England,Centre-Back,CB,22000000.0,Manchester City,England,23000000.0,0
+2024,Premier League,Southampton FC,summer,in,Aaron Ramsdale,427568,26,England,Goalkeeper,GK,25000000.0,Arsenal FC,England,21400000.0,0
+2024,Premier League,Southampton FC,summer,in,Flynn Downes,506189,25,England,Defensive Midfield,DM,9000000.0,West Ham United,England,17850000.0,0
+2024,Premier League,Southampton FC,summer,in,Cameron Archer,533662,22,England,Centre-Forward,CF,13000000.0,Aston Villa,England,17600000.0,0
+2024,Premier League,Southampton FC,summer,in,Mateus Fernandes,880245,20,Portugal,Central Midfield,CM,8000000.0,Sporting CP,Portugal,15000000.0,0
+2024,Premier League,Southampton FC,summer,in,Ben Brereton Díaz,426192,25,Chile,Centre-Forward,CF,8000000.0,Villarreal CF,Spain,8300000.000000001,0
+2024,Premier League,Southampton FC,summer,in,Yukinari Sugawara,405385,24,Japan,Right-Back,RB,12000000.0,AZ Alkmaar,Netherlands,7000000.0,0
+2024,Premier League,Southampton FC,summer,in,Nathan Wood,503990,22,England,Centre-Back,CB,3800000.0,Swansea City,England,3500000.0,0
+2024,Premier League,Southampton FC,summer,in,Ronnie Edwards,732165,21,England,Centre-Back,CB,3800000.0,Peterborough United,England,3500000.0,0
+2024,Premier League,Southampton FC,summer,in,Juan,662332,22,Brazil,Centre-Forward,CF,800000.0,São Paulo Futebol Clube,Brazil,900000.0,0
+2024,Premier League,Southampton FC,summer,in,Adam Lallana,43530,36,England,Attacking Midfield,AM,1000000.0,Brighton & Hove Albion,England,0.0,0
+2024,Premier League,Southampton FC,summer,in,Ryan Fraser,146795,30,Scotland,Left Winger,LW,3000000.0,Newcastle United,England,0.0,0
+2024,Premier League,Southampton FC,summer,in,Charlie Taylor,195633,30,England,Left-Back,LB,3000000.0,Burnley FC,England,0.0,0
+2024,Premier League,Southampton FC,summer,in,Kuryu Matsuki,902021,21,Japan,Attacking Midfield,AM,1500000.0,FC Tokyo,Japan,,0
+2024,Premier League,Southampton FC,summer,in,Lesley Ugochukwu,711999,20,France,Defensive Midfield,DM,25000000.0,Chelsea FC,England,0.0,1
+2024,Premier League,Southampton FC,summer,in,Maxwel Cornet,234781,27,Cote d'Ivoire,Left Winger,LW,9000000.0,West Ham United,England,0.0,1
+2024,Premier League,Southampton FC,winter,in,Joachim Kayi Sanda,986298,18,France,Centre-Back,CB,800000.0,Valenciennes FC,France,5000000.0,0
+2024,Premier League,Southampton FC,winter,in,Welington,729264,23,Brazil,Left-Back,LB,3500000.0,São Paulo Futebol Clube,Brazil,0.0,0
+2024,Premier League,Southampton FC,winter,in,Albert Grønbæk,503866,23,Denmark,Attacking Midfield,AM,15000000.0,Stade Rennais FC,France,0.0,1
+2024,Premier League,Southampton FC,summer,out,Carlos Alcaraz,748319,21,Argentina,Central Midfield,CM,15000000.0,CR Flamengo,Brazil,18000000.0,0
+2024,Premier League,Southampton FC,summer,out,Sékou Mara,557612,22,France,Centre-Forward,CF,6000000.0,RC Strasbourg Alsace,France,12000000.0,0
+2024,Premier League,Southampton FC,summer,out,Lyanco,379807,27,Brazil,Centre-Back,CB,3000000.0,Clube Atlético Mineiro,Brazil,4500000.0,0
+2024,Premier League,Southampton FC,summer,out,Duje Caleta-Car,238266,27,Croatia,Centre-Back,CB,7000000.0,Olympique Lyon,France,3590000.0,0
+2024,Premier League,Southampton FC,summer,out,Romain Perraud,318523,26,France,Left-Back,LB,5000000.0,Real Betis Balompié,Spain,3500000.0,0
+2024,Premier League,Southampton FC,summer,out,Stuart Armstrong,130765,32,Scotland,Central Midfield,CM,2000000.0,Vancouver Whitecaps FC,United States,0.0,0
+2024,Premier League,Southampton FC,summer,out,Ché Adams,346779,28,Scotland,Centre-Forward,CF,15000000.0,Torino FC,Italy,0.0,0
+2024,Premier League,Southampton FC,summer,out,Mateusz Lis,345437,27,Poland,Goalkeeper,GK,1600000.0,Göztepe,Türkiye,,0
+2024,Premier League,Southampton FC,summer,out,Juan,662332,22,Brazil,Centre-Forward,CF,800000.0,Göztepe,Türkiye,0.0,1
+2024,Premier League,Southampton FC,summer,out,Shea Charles,747951,20,Northern Ireland,Defensive Midfield,DM,10000000.0,Sheffield Wednesday,England,0.0,1
+2024,Premier League,Southampton FC,summer,out,Samuel Edozie,680806,21,England,Left Winger,LW,8000000.0,RSC Anderlecht,Belgium,0.0,1
+2024,Premier League,Southampton FC,summer,out,Kuryu Matsuki,902021,21,Japan,Attacking Midfield,AM,1500000.0,Göztepe,Türkiye,0.0,1
+2024,Premier League,Southampton FC,summer,out,Joe Rothwell,183293,29,England,Central Midfield,CM,2500000.0,AFC Bournemouth,England,0.0,1
+2024,Premier League,Southampton FC,winter,out,Ronnie Edwards,732165,21,England,Centre-Back,CB,3800000.0,Queens Park Rangers,England,0.0,1
+2024,Premier League,Southampton FC,winter,out,Ben Brereton Díaz,426192,25,Chile,Centre-Forward,CF,8000000.0,Sheffield United,England,0.0,1
+2024,Premier League,Southampton FC,winter,out,Samuel Amo-Ameyaw,933900,18,England,Right Winger,RW,300000.0,RC Strasbourg Alsace,France,0.0,1
+2024,Premier League,Southampton FC,winter,out,Gavin Bazunu,585550,22,Ireland,Goalkeeper,GK,14000000.0,Standard Liège,Belgium,0.0,1
+2024,Premier League,Southampton FC,winter,out,Adam Armstrong,250426,27,England,Centre-Forward,CF,16000000.0,West Bromwich Albion,England,0.0,1
+2024,Premier League,Southampton FC,winter,out,Maxwel Cornet,234781,28,Cote d'Ivoire,Left Winger,LW,8000000.0,West Ham United,England,0.0,1
+2024,Premier League,Tottenham Hotspur,summer,in,Dominic Solanke,258889,26,England,Centre-Forward,CF,40000000.0,AFC Bournemouth,England,64300000.0,0
+2024,Premier League,Tottenham Hotspur,summer,in,Archie Gray,922693,18,England,Right-Back,RB,18000000.0,Leeds United,England,41250000.0,0
+2024,Premier League,Tottenham Hotspur,summer,in,Wilson Odobert,743498,19,France,Left Winger,LW,10000000.0,Burnley FC,England,29300000.0,0
+2024,Premier League,Tottenham Hotspur,summer,in,Lucas Bergvall,866246,18,Sweden,Central Midfield,CM,10000000.0,Djurgårdens IF,Sweden,20000000.0,0
+2024,Premier League,Tottenham Hotspur,winter,in,Antonín Kinský,725912,21,Czech Republic,Goalkeeper,GK,12000000.0,SK Slavia Prague,Czech Republic,16500000.0,0
+2024,Premier League,Tottenham Hotspur,winter,in,Mathys Tel,801734,19,France,Centre-Forward,CF,30000000.0,Bayern Munich,Germany,10000000.0,1
+2024,Premier League,Tottenham Hotspur,winter,in,Min-hyeok Yang,1004327,18,"Korea, South",Right Winger,RW,3500000.0,Gangwon FC,"Korea, South",4000000.0,0
+2024,Premier League,Tottenham Hotspur,winter,in,Kevin Danso,263236,26,Austria,Centre-Back,CB,25000000.0,RC Lens,France,0.0,1
+2024,Premier League,Tottenham Hotspur,summer,out,Oliver Skipp,406638,23,England,Defensive Midfield,DM,15000000.0,Leicester City,England,23500000.0,0
+2024,Premier League,Tottenham Hotspur,summer,out,Emerson Royal,476344,25,Brazil,Right-Back,RB,18000000.0,AC Milan,Italy,15000000.0,0
+2024,Premier League,Tottenham Hotspur,summer,out,Joe Rodon,297212,26,Wales,Centre-Back,CB,8000000.0,Leeds United,England,11800000.0,0
+2024,Premier League,Tottenham Hotspur,summer,out,Giovani Lo Celso,348795,28,Argentina,Attacking Midfield,AM,16000000.0,Real Betis Balompié,Spain,5000000.0,0
+2024,Premier League,Tottenham Hotspur,summer,out,Eric Dier,175722,30,England,Centre-Back,CB,12000000.0,Bayern Munich,Germany,0.0,0
+2024,Premier League,Tottenham Hotspur,summer,out,Tanguy Ndombélé,450936,27,France,Central Midfield,CM,8000000.0,OGC Nice,France,0.0,0
+2024,Premier League,Tottenham Hotspur,summer,out,Japhet Tanganga,346478,25,England,Centre-Back,CB,1800000.0,Millwall FC,England,0.0,0
+2024,Premier League,Tottenham Hotspur,summer,out,Ivan Perišić,42460,35,Croatia,Left Winger,LW,2000000.0,HNK Hajduk Split,Croatia,0.0,0
+2024,Premier League,Tottenham Hotspur,summer,out,Ryan Sessegnon,392775,24,England,Left-Back,LB,10000000.0,Fulham FC,England,0.0,0
+2024,Premier League,Tottenham Hotspur,summer,out,Alfie Devine,728734,20,England,Attacking Midfield,AM,2200000.0,KVC Westerlo,Belgium,0.0,1
+2024,Premier League,Tottenham Hotspur,summer,out,Manor Solomon,396638,25,Israel,Left Winger,LW,13000000.0,Leeds United,England,0.0,1
+2024,Premier League,Tottenham Hotspur,summer,out,Ashley Phillips,859951,19,England,Centre-Back,CB,2200000.0,Stoke City,England,0.0,1
+2024,Premier League,Tottenham Hotspur,summer,out,Dane Scarlett,670883,20,England,Centre-Forward,CF,1800000.0,Oxford United,England,0.0,1
+2024,Premier League,Tottenham Hotspur,summer,out,Alejo Veliz,888493,20,Argentina,Centre-Forward,CF,9000000.0,RCD Espanyol Barcelona,Spain,0.0,1
+2024,Premier League,Tottenham Hotspur,summer,out,Bryan Gil,537382,23,Spain,Left Winger,LW,14000000.0,Girona FC,Spain,0.0,1
+2024,Premier League,Tottenham Hotspur,summer,out,Pierre-Emile Højbjerg,167799,28,Denmark,Defensive Midfield,DM,18000000.0,Olympique Marseille,France,0.0,1
+2024,Premier League,Tottenham Hotspur,winter,out,Min-hyeok Yang,1004327,18,"Korea, South",Right Winger,RW,3500000.0,Queens Park Rangers,England,0.0,1
+2024,Premier League,West Ham United,summer,in,Maximilian Kilman,525247,27,England,Centre-Back,CB,32000000.0,Wolverhampton Wanderers,England,47500000.0,0
+2024,Premier League,West Ham United,summer,in,Crysencio Summerville,474701,22,Netherlands,Left Winger,LW,20000000.0,Leeds United,England,29300000.0,0
+2024,Premier League,West Ham United,summer,in,Niclas Füllkrug,75489,31,Germany,Centre-Forward,CF,15000000.0,Borussia Dortmund,Germany,27000000.0,0
+2024,Premier League,West Ham United,summer,in,Luis Guilherme,991800,18,Brazil,Right Winger,RW,24000000.0,Sociedade Esportiva Palmeiras,Brazil,23000000.0,0
+2024,Premier League,West Ham United,summer,in,Aaron Wan-Bissaka,477758,26,DR Congo,Right-Back,RB,20000000.0,Manchester United,England,17600000.0,0
+2024,Premier League,West Ham United,summer,in,Wes Foderingham,61697,33,England,Goalkeeper,GK,900000.0,Sheffield United,England,0.0,0
+2024,Premier League,West Ham United,summer,in,Guido Rodríguez,342385,30,Argentina,Defensive Midfield,DM,20000000.0,Real Betis Balompié,Spain,0.0,0
+2024,Premier League,West Ham United,summer,in,Mohamadou Kanté,1081995,18,France,Defensive Midfield,DM,,Paris FC,France,,0
+2024,Premier League,West Ham United,summer,in,Jean-Clair Todibo,605184,24,France,Centre-Back,CB,35000000.0,OGC Nice,France,0.0,1
+2024,Premier League,West Ham United,summer,in,Carlos Soler,372246,27,Spain,Central Midfield,CM,20000000.0,Paris Saint-Germain,France,0.0,1
+2024,Premier League,West Ham United,winter,in,Evan Ferguson,648046,20,Ireland,Centre-Forward,CF,40000000.0,Brighton & Hove Albion,England,0.0,1
+2024,Premier League,West Ham United,summer,out,Flynn Downes,506189,25,England,Defensive Midfield,DM,9000000.0,Southampton FC,England,17850000.0,0
+2024,Premier League,West Ham United,summer,out,Saïd Benrahma,290532,28,Algeria,Left Winger,LW,20000000.0,Olympique Lyon,France,14400000.0,0
+2024,Premier League,West Ham United,summer,out,Thilo Kehrer,228948,27,Germany,Centre-Back,CB,10000000.0,AS Monaco,France,11000000.0,0
+2024,Premier League,West Ham United,summer,out,Nathan Trott,431422,25,England,Goalkeeper,GK,1000000.0,FC Copenhagen,Denmark,1500000.0,0
+2024,Premier League,West Ham United,summer,out,Divin Mubama,670848,19,England,Centre-Forward,CF,1000000.0,Manchester City U21,England,1400000.0,0
+2024,Premier League,West Ham United,summer,out,Ben Johnson,468002,24,England,Right-Back,RB,8000000.0,Ipswich Town,England,0.0,0
+2024,Premier League,West Ham United,summer,out,Joseph Anang,576099,24,Ghana,Goalkeeper,GK,300000.0,St. Patrick's Athletic,Ireland,0.0,0
+2024,Premier League,West Ham United,summer,out,Angelo Ogbonna,48002,36,Italy,Centre-Back,CB,700000.0,Watford FC,England,0.0,0
+2024,Premier League,West Ham United,summer,out,Mohamadou Kanté,1081995,18,France,Defensive Midfield,DM,,Paris FC,France,0.0,1
+2024,Premier League,West Ham United,summer,out,Nayef Aguerd,361914,28,Morocco,Centre-Back,CB,35000000.0,Real Sociedad,Spain,0.0,1
+2024,Premier League,West Ham United,summer,out,Maxwel Cornet,234781,27,Cote d'Ivoire,Left Winger,LW,9000000.0,Southampton FC,England,0.0,1
+2024,Premier League,West Ham United,summer,out,Kurt Zouma,157509,29,France,Centre-Back,CB,25000000.0,Al-Orobah FC,Saudi Arabia,0.0,1
+2024,Premier League,West Ham United,summer,out,Kalvin Phillips,351749,28,England,Defensive Midfield,DM,25000000.0,Manchester City,England,0.0,1
+2024,Premier League,West Ham United,summer,out,James Ward-Prowse,181579,29,England,Central Midfield,CM,30000000.0,Nottingham Forest,England,0.0,1
+2024,Premier League,West Ham United,winter,out,Maxwel Cornet,234781,28,Cote d'Ivoire,Left Winger,LW,8000000.0,Genoa CFC,Italy,0.0,1
+2024,Premier League,Wolverhampton Wanderers,summer,in,André,800176,23,Brazil,Defensive Midfield,DM,25000000.0,Fluminense Football Club,Brazil,22000000.0,0
+2024,Premier League,Wolverhampton Wanderers,summer,in,Rodrigo Gomes,667121,20,Portugal,Left Midfield,LM,12000000.0,SC Braga,Portugal,15000000.0,0
+2024,Premier League,Wolverhampton Wanderers,summer,in,Sam Johnstone,110864,31,England,Goalkeeper,GK,10000000.0,Crystal Palace,England,11900000.0,0
+2024,Premier League,Wolverhampton Wanderers,summer,in,Pedro Lima,1193867,18,Brazil,Right-Back,RB,2500000.0,Sport Club do Recife,Brazil,10000000.0,0
+2024,Premier League,Wolverhampton Wanderers,summer,in,Tommy Doyle,433183,22,England,Central Midfield,CM,10000000.0,Manchester City,England,5000000.0,0
+2024,Premier League,Wolverhampton Wanderers,summer,in,Bastien Meupiyou,955253,18,France,Centre-Back,CB,800000.0,FC Nantes,France,5000000.0,0
+2024,Premier League,Wolverhampton Wanderers,summer,in,Jørgen Strand Larsen,429983,24,Norway,Centre-Forward,CF,25000000.0,Celta de Vigo,Spain,3000000.0,1
+2024,Premier League,Wolverhampton Wanderers,summer,in,Carlos Forbs,742451,20,Portugal,Left Winger,LW,8000000.0,Ajax Amsterdam,Netherlands,2500000.0,1
+2024,Premier League,Wolverhampton Wanderers,winter,in,Emmanuel Agbadou,683895,27,Cote d'Ivoire,Centre-Back,CB,10000000.0,Stade Reims,France,20000000.0,0
+2024,Premier League,Wolverhampton Wanderers,winter,in,Marshall Munetsi,414908,28,Zimbabwe,Central Midfield,CM,10000000.0,Stade Reims,France,18000000.0,0
+2024,Premier League,Wolverhampton Wanderers,winter,in,Nasser Djiga,862297,22,Burkina Faso,Centre-Back,CB,7000000.0,Red Star Belgrade,Serbia,12000000.0,0
+2024,Premier League,Wolverhampton Wanderers,summer,out,Pedro Neto,487465,24,Portugal,Right Winger,RW,55000000.0,Chelsea FC,England,60000000.0,0
+2024,Premier League,Wolverhampton Wanderers,summer,out,Maximilian Kilman,525247,27,England,Centre-Back,CB,32000000.0,West Ham United,England,47500000.0,0
+2024,Premier League,Wolverhampton Wanderers,summer,out,Daniel Podence,256977,28,Portugal,Left Winger,LW,13000000.0,Al-Shabab FC,Saudi Arabia,5000000.0,0
+2024,Premier League,Wolverhampton Wanderers,summer,out,Bendegúz Bolla,439351,24,Hungary,Right-Back,RB,2000000.0,Rapid Vienna,Austria,0.0,0
+2024,Premier League,Wolverhampton Wanderers,summer,out,Nathan Fraser,863741,19,Ireland,Centre-Forward,CF,1000000.0,Zulte Waregem,Belgium,0.0,1
+2024,Premier League,Wolverhampton Wanderers,summer,out,Ki-Jana Hoever,485583,22,Netherlands,Right-Back,RB,4500000.0,AJ Auxerre,France,0.0,1
+2024,Premier League,Wolverhampton Wanderers,summer,out,Tawanda Chirewa,724783,20,Zimbabwe,Attacking Midfield,AM,500000.0,Derby County,England,0.0,1
+2024,Premier League,Wolverhampton Wanderers,summer,out,Joe Hodge,503975,21,Ireland,Defensive Midfield,DM,1500000.0,Huddersfield Town,England,0.0,1
+2024,Premier League,Wolverhampton Wanderers,summer,out,Hugo Bueno,698678,21,Spain,Left-Back,LB,6000000.0,Feyenoord Rotterdam,Netherlands,0.0,1
+2024,Premier League,Wolverhampton Wanderers,summer,out,Fábio Silva,505653,22,Portugal,Centre-Forward,CF,11000000.0,UD Las Palmas,Spain,0.0,1
+2024,Premier League,Wolverhampton Wanderers,summer,out,Chiquinho,695454,24,Portugal,Left Winger,LW,3000000.0,RCD Mallorca,Spain,0.0,1
+2024,Premier League,Wolverhampton Wanderers,summer,out,Chem Campbell,614603,21,Wales,Attacking Midfield,AM,900000.0,Reading FC,England,0.0,1
+2024,Premier League,Wolverhampton Wanderers,summer,out,Noha Lemina,816124,19,Gabon,Attacking Midfield,AM,500000.0,Paris Saint-Germain,France,0.0,1
+2024,Premier League,Wolverhampton Wanderers,winter,out,Mario Lemina,170934,31,Gabon,Defensive Midfield,DM,9000000.0,Galatasaray,Türkiye,2500000.0,0
+2024,Premier League,Wolverhampton Wanderers,winter,out,Luke Cundle,532541,22,England,Central Midfield,CM,5000000.0,Millwall FC,England,1200000.0,0
+2024,Premier League,Wolverhampton Wanderers,winter,out,Tawanda Chirewa,724783,21,Zimbabwe,Attacking Midfield,AM,500000.0,Huddersfield Town,England,0.0,1

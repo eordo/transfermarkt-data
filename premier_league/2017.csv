@@ -1,0 +1,578 @@
+season,league,club,window,movement,player_name,player_id,age,nationality,position,pos,market_value,dealing_club,dealing_country,fee,is_loan
+2017,Premier League,AFC Bournemouth,summer,in,Nathan Aké,177476,22,Netherlands,Centre-Back,CB,8000000.0,Chelsea FC,England,22800000.0,0
+2017,Premier League,AFC Bournemouth,summer,in,Asmir Begovic,33873,30,Bosnia-Herzegovina,Goalkeeper,GK,8000000.0,Chelsea FC,England,11500000.0,0
+2017,Premier League,AFC Bournemouth,summer,in,Jermain Defoe,3875,34,England,Centre-Forward,CF,5000000.0,Sunderland AFC,England,0.0,0
+2017,Premier League,AFC Bournemouth,summer,in,Connor Mahoney,287528,20,England,Right Winger,RW,100000.0,Blackburn Rovers,England,0.0,0
+2017,Premier League,AFC Bournemouth,summer,out,Jordan Green,416622,22,England,Right Winger,RW,,Yeovil Town,England,0.0,0
+2017,Premier League,AFC Bournemouth,summer,out,Marc Wilson,30456,30,Ireland,Centre-Back,CB,2500000.0,Sunderland AFC,England,0.0,0
+2017,Premier League,AFC Bournemouth,summer,out,Ryan Allsop,111073,25,England,Goalkeeper,GK,250000.0,Blackpool FC,England,0.0,1
+2017,Premier League,AFC Bournemouth,summer,out,Baily Cargill,293450,22,England,Centre-Back,CB,250000.0,Fleetwood Town,England,0.0,1
+2017,Premier League,AFC Bournemouth,summer,out,Harry Cornick,255703,22,England,Centre-Forward,CF,100000.0,Luton Town,England,,0
+2017,Premier League,AFC Bournemouth,summer,out,Lewis Grabban,35413,29,Jamaica,Centre-Forward,CF,3000000.0,Sunderland AFC,England,0.0,1
+2017,Premier League,AFC Bournemouth,summer,out,Max Gradel,28140,29,Cote d'Ivoire,Left Winger,LW,7000000.0,FC Toulouse,France,0.0,1
+2017,Premier League,AFC Bournemouth,summer,out,Adam Federici,4233,32,Australia,Goalkeeper,GK,1000000.0,Nottingham Forest,England,0.0,1
+2017,Premier League,AFC Bournemouth,winter,out,Aaron Ramsdale,427568,19,England,Goalkeeper,GK,500000.0,Chesterfield FC,England,0.0,1
+2017,Premier League,AFC Bournemouth,winter,out,Baily Cargill,293450,22,England,Centre-Back,CB,250000.0,Partick Thistle FC,Scotland,0.0,1
+2017,Premier League,AFC Bournemouth,winter,out,Connor Mahoney,287528,20,England,Right Winger,RW,250000.0,Barnsley FC,England,0.0,1
+2017,Premier League,AFC Bournemouth,winter,out,Lewis Grabban,35413,30,Jamaica,Centre-Forward,CF,3000000.0,Aston Villa,England,0.0,1
+2017,Premier League,AFC Bournemouth,winter,out,Benik Afobe,110858,24,DR Congo,Centre-Forward,CF,10000000.0,Wolverhampton Wanderers,England,0.0,1
+2017,Premier League,AFC Bournemouth,winter,out,Ryan Allsop,111073,25,England,Goalkeeper,GK,250000.0,Lincoln City,England,0.0,1
+2017,Premier League,Arsenal FC,summer,in,Alexandre Lacazette,93720,26,France,Centre-Forward,CF,40000000.0,Olympique Lyon,France,53000000.0,0
+2017,Premier League,Arsenal FC,summer,in,Sead Kolasinac,94005,24,Bosnia-Herzegovina,Centre-Back,CB,15000000.0,FC Schalke 04,Germany,0.0,0
+2017,Premier League,Arsenal FC,winter,in,Pierre-Emerick Aubameyang,58864,28,Gabon,Centre-Forward,CF,65000000.0,Borussia Dortmund,Germany,63750000.0,0
+2017,Premier League,Arsenal FC,winter,in,Henrikh Mkhitaryan,55735,29,Armenia,Central Midfield,CM,35000000.0,Manchester United,England,34000000.0,0
+2017,Premier League,Arsenal FC,winter,in,Konstantinos Mavropanos,415912,20,Greece,Centre-Back,CB,450000.0,PAS Giannina,Greece,2100000.0,0
+2017,Premier League,Arsenal FC,summer,out,Alex Oxlade-Chamberlain,143424,24,England,Central Midfield,CM,22000000.0,Liverpool FC,England,38000000.0,0
+2017,Premier League,Arsenal FC,summer,out,Wojciech Szczesny,44058,27,Poland,Goalkeeper,GK,17000000.0,Juventus FC,Italy,18400000.0,0
+2017,Premier League,Arsenal FC,summer,out,Gabriel Paulista,149498,26,Brazil,Centre-Back,CB,13000000.0,Valencia CF,Spain,11000000.0,0
+2017,Premier League,Arsenal FC,summer,out,Kieran Gibbs,44792,27,England,Left-Back,LB,10000000.0,West Bromwich Albion,England,7500000.0,0
+2017,Premier League,Arsenal FC,summer,out,Yaya Sanogo,127194,24,France,Centre-Forward,CF,1000000.0,FC Toulouse,France,0.0,0
+2017,Premier League,Arsenal FC,summer,out,Emiliano Martínez,111873,24,Argentina,Goalkeeper,GK,1000000.0,Getafe CF,Spain,0.0,1
+2017,Premier League,Arsenal FC,summer,out,Carl Jenkinson,126321,25,England,Right-Back,RB,5000000.0,Birmingham City,England,0.0,1
+2017,Premier League,Arsenal FC,summer,out,Lucas Pérez,73185,28,Spain,Centre-Forward,CF,15000000.0,Deportivo de La Coruña,Spain,0.0,1
+2017,Premier League,Arsenal FC,summer,out,Joel Campbell,131248,25,Costa Rica,Right Winger,RW,6000000.0,Real Betis Balompié,Spain,0.0,1
+2017,Premier League,Arsenal FC,winter,out,Alexis Sánchez,40433,29,Chile,Centre-Forward,CF,70000000.0,Manchester United,England,34000000.0,0
+2017,Premier League,Arsenal FC,winter,out,Theo Walcott,33713,28,England,Right Winger,RW,20000000.0,Everton FC,England,22500000.0,0
+2017,Premier League,Arsenal FC,winter,out,Olivier Giroud,82442,31,France,Centre-Forward,CF,20000000.0,Chelsea FC,England,17000000.0,0
+2017,Premier League,Arsenal FC,winter,out,Francis Coquelin,74869,26,France,Defensive Midfield,DM,12000000.0,Valencia CF,Spain,14000000.0,0
+2017,Premier League,Arsenal FC,winter,out,Mathieu Debuchy,27306,32,France,Right-Back,RB,2500000.0,AS Saint-Étienne,France,0.0,0
+2017,Premier League,Arsenal FC,winter,out,Krystian Bielik,287247,20,Poland,Centre-Back,CB,2000000.0,Walsall FC,England,0.0,1
+2017,Premier League,Arsenal FC,winter,out,Chuba Akpom,197642,22,England,Centre-Forward,CF,1000000.0,Sint-Truidense VV,Belgium,0.0,1
+2017,Premier League,Brighton & Hove Albion,summer,in,José Izquierdo,147094,25,Colombia,Left Winger,LW,14000000.0,Club Brugge KV,Belgium,18000000.0,0
+2017,Premier League,Brighton & Hove Albion,summer,in,Davy Pröpper,79027,25,Netherlands,Central Midfield,CM,10000000.0,PSV Eindhoven,Netherlands,13000000.0,0
+2017,Premier League,Brighton & Hove Albion,summer,in,Mathew Ryan,128969,25,Australia,Goalkeeper,GK,3500000.0,Valencia CF,Spain,6000000.0,0
+2017,Premier League,Brighton & Hove Albion,summer,in,Markus Suttner,31514,30,Austria,Left-Back,LB,2000000.0,FC Ingolstadt 04,Germany,4500000.0,0
+2017,Premier League,Brighton & Hove Albion,summer,in,Pascal Groß,82873,26,Germany,Central Midfield,CM,4000000.0,FC Ingolstadt 04,Germany,3000000.0,0
+2017,Premier League,Brighton & Hove Albion,summer,in,Ezequiel Schelotto,119164,28,Italy,Right Midfield,RM,4500000.0,Sporting CP,Portugal,3000000.0,0
+2017,Premier League,Brighton & Hove Albion,summer,in,Ales Mateju,242078,21,Czech Republic,Centre-Back,CB,1250000.0,FC Viktoria Plzen,Czech Republic,2500000.0,0
+2017,Premier League,Brighton & Hove Albion,summer,in,Mathias Normann,257805,21,Norway,Defensive Midfield,DM,400000.0,FK Bodø/Glimt,Norway,1400000.0,0
+2017,Premier League,Brighton & Hove Albion,summer,in,Soufyan Ahannach,262895,21,Netherlands,Left Winger,LW,300000.0,Almere City FC,Netherlands,600000.0,0
+2017,Premier League,Brighton & Hove Albion,summer,in,Tim Krul,33027,29,Netherlands,Goalkeeper,GK,4000000.0,Newcastle United,England,0.0,0
+2017,Premier League,Brighton & Hove Albion,summer,in,Izzy Brown,245805,20,England,Left Winger,LW,5000000.0,Chelsea FC U23,England,0.0,1
+2017,Premier League,Brighton & Hove Albion,summer,in,Tim Krul,33027,29,Netherlands,Goalkeeper,GK,4000000.0,Newcastle United,England,0.0,1
+2017,Premier League,Brighton & Hove Albion,winter,in,Jürgen Locadia,166240,24,Curacao,Centre-Forward,CF,8500000.0,PSV Eindhoven,Netherlands,17000000.0,0
+2017,Premier League,Brighton & Hove Albion,winter,in,Viktor Gyökeres,325443,19,Sweden,Centre-Forward,CF,500000.0,IF Brommapojkarna,Sweden,1000000.0,0
+2017,Premier League,Brighton & Hove Albion,winter,in,Leonardo Ulloa,54890,31,Argentina,Centre-Forward,CF,5000000.0,Leicester City,England,0.0,1
+2017,Premier League,Brighton & Hove Albion,summer,out,Rob Hunt,335591,22,England,Right-Back,RB,100000.0,Oldham Athletic,England,400000.0,0
+2017,Premier League,Brighton & Hove Albion,summer,out,Elvis Manu,198070,23,Netherlands,Centre-Forward,CF,1000000.0,Genclerbirligi Ankara,Türkiye,0.0,0
+2017,Premier League,Brighton & Hove Albion,summer,out,Chris O'Grady,16836,31,England,Centre-Forward,CF,350000.0,Chesterfield FC,England,0.0,0
+2017,Premier League,Brighton & Hove Albion,summer,out,Joe Ward,370559,21,England,Right Midfield,RM,,Woking FC,England,0.0,0
+2017,Premier League,Brighton & Hove Albion,summer,out,David Stockdale,67339,31,England,Goalkeeper,GK,2000000.0,Birmingham City,England,0.0,0
+2017,Premier League,Brighton & Hove Albion,summer,out,Vegard Forren,62054,29,Norway,Centre-Back,CB,1250000.0,Molde FK,Norway,0.0,0
+2017,Premier League,Brighton & Hove Albion,summer,out,Christian Walton,208379,21,England,Goalkeeper,GK,250000.0,Wigan Athletic,England,0.0,1
+2017,Premier League,Brighton & Hove Albion,summer,out,Tyler Hornby-Forbes,346040,21,England,Right-Back,RB,100000.0,Accrington Stanley,England,0.0,1
+2017,Premier League,Brighton & Hove Albion,summer,out,Rohan Ince,141568,24,Montserrat,Defensive Midfield,DM,750000.0,Bury FC,England,0.0,1
+2017,Premier League,Brighton & Hove Albion,summer,out,Oliver Norwood,73547,26,Northern Ireland,Central Midfield,CM,2500000.0,Fulham FC,England,0.0,1
+2017,Premier League,Brighton & Hove Albion,summer,out,Richie Towell,114116,26,Ireland,Central Midfield,CM,200000.0,Rotherham United,England,0.0,1
+2017,Premier League,Brighton & Hove Albion,summer,out,Mathias Normann,257805,21,Norway,Defensive Midfield,DM,400000.0,Molde FK,Norway,0.0,1
+2017,Premier League,Brighton & Hove Albion,summer,out,Kazenga LuaLua,52576,26,DR Congo,Left Winger,LW,1000000.0,Queens Park Rangers,England,0.0,1
+2017,Premier League,Brighton & Hove Albion,summer,out,Casper Ankergren,15046,37,Denmark,Goalkeeper,GK,,Retired,,,0
+2017,Premier League,Brighton & Hove Albion,summer,out,Tim Krul,33027,29,Netherlands,Goalkeeper,GK,4000000.0,Newcastle United,England,0.0,1
+2017,Premier League,Brighton & Hove Albion,summer,out,Sam Adekugbe,287578,22,Canada,Left-Back,LB,200000.0,Vancouver Whitecaps FC,United States,0.0,1
+2017,Premier League,Brighton & Hove Albion,summer,out,Leonardo Ulloa,54890,31,Argentina,Centre-Forward,CF,5000000.0,Leicester City,England,0.0,1
+2017,Premier League,Brighton & Hove Albion,winter,out,Kazenga LuaLua,52576,27,DR Congo,Left Winger,LW,1000000.0,Sunderland AFC,England,0.0,0
+2017,Premier League,Brighton & Hove Albion,winter,out,Christian Walton,208379,22,England,Goalkeeper,GK,250000.0,Wigan Athletic,England,0.0,1
+2017,Premier League,Brighton & Hove Albion,winter,out,Jamie Murphy,51730,28,Scotland,Left Winger,LW,1750000.0,Rangers FC,Scotland,0.0,1
+2017,Premier League,Brighton & Hove Albion,winter,out,Soufyan Ahannach,262895,22,Netherlands,Left Winger,LW,500000.0,Sparta Rotterdam,Netherlands,0.0,1
+2017,Premier League,Brighton & Hove Albion,winter,out,Izzy Brown,245805,21,England,Left Winger,LW,5000000.0,Chelsea FC U23,England,0.0,1
+2017,Premier League,Burnley FC,summer,in,Chris Wood,108725,25,New Zealand,Centre-Forward,CF,6000000.0,Leeds United,England,16399999.999999998,0
+2017,Premier League,Burnley FC,summer,in,Jack Cork,40613,28,England,Defensive Midfield,DM,5000000.0,Swansea City,England,9100000.0,0
+2017,Premier League,Burnley FC,summer,in,Nahki Wells,173483,27,Bermuda,Centre-Forward,CF,5000000.0,Huddersfield Town,England,5400000.0,0
+2017,Premier League,Burnley FC,summer,in,Jonathan Walters,3306,33,Ireland,Right Winger,RW,2500000.0,Stoke City,England,2300000.0,0
+2017,Premier League,Burnley FC,summer,in,Phil Bardsley,15773,32,Scotland,Right-Back,RB,1500000.0,Stoke City,England,840000.0,0
+2017,Premier League,Burnley FC,summer,in,Charlie Taylor,195633,23,England,Left-Back,LB,5000000.0,Leeds United,England,0.0,0
+2017,Premier League,Burnley FC,summer,in,Adam Legzdins,43858,30,England,Goalkeeper,GK,250000.0,Birmingham City,England,,0
+2017,Premier League,Burnley FC,summer,in,Anders Lindegaard,22491,33,Denmark,Goalkeeper,GK,1000000.0,Without Club,,,0
+2017,Premier League,Burnley FC,winter,in,Aaron Lennon,14221,30,England,Right Winger,RW,5000000.0,Everton FC,England,1700000.0,0
+2017,Premier League,Burnley FC,winter,in,Georges-Kevin N'Koudou,215679,22,Cameroon,Left Winger,LW,7000000.0,Tottenham Hotspur,England,0.0,1
+2017,Premier League,Burnley FC,summer,out,Michael Keane,118534,24,England,Centre-Back,CB,18000000.0,Everton FC,England,28500000.0,0
+2017,Premier League,Burnley FC,summer,out,Andre Gray,120565,26,Jamaica,Centre-Forward,CF,10000000.0,Watford FC,England,20400000.0,0
+2017,Premier League,Burnley FC,summer,out,Tendayi Darikwa,158700,25,Zimbabwe,Right-Back,RB,500000.0,Nottingham Forest,England,1100000.0,0
+2017,Premier League,Burnley FC,summer,out,George Boyd,45623,31,Scotland,Left Winger,LW,4000000.0,Sheffield Wednesday,England,0.0,0
+2017,Premier League,Burnley FC,summer,out,George Green,236499,21,England,Central Midfield,CM,150000.0,Viking FK,Norway,0.0,0
+2017,Premier League,Burnley FC,summer,out,Michael Kightly,25366,31,England,Left Winger,LW,1000000.0,Southend United,England,0.0,0
+2017,Premier League,Burnley FC,summer,out,Rouwen Hennings,16311,29,Germany,Centre-Forward,CF,1500000.0,Fortuna Düsseldorf,Germany,0.0,0
+2017,Premier League,Burnley FC,summer,out,Ntumba Massanka,385922,20,England,Centre-Forward,CF,,Wrexham AFC,England,0.0,1
+2017,Premier League,Burnley FC,summer,out,Alex Whitmore,385917,21,England,Centre-Back,CB,50000.0,Bury FC,England,0.0,1
+2017,Premier League,Burnley FC,summer,out,Conor Mitchell,248592,21,Northern Ireland,Goalkeeper,GK,,Chester FC,England,0.0,1
+2017,Premier League,Burnley FC,summer,out,Tom Anderson,128828,23,England,Centre-Back,CB,250000.0,Port Vale FC,England,0.0,1
+2017,Premier League,Burnley FC,summer,out,Aiden O'Neill,385918,19,Australia,Defensive Midfield,DM,100000.0,Fleetwood Town,England,0.0,1
+2017,Premier League,Burnley FC,summer,out,Chris Long,183298,22,England,Centre-Forward,CF,1000000.0,Northampton Town,England,0.0,1
+2017,Premier League,Burnley FC,summer,out,Luke Hendrie,158786,22,England,Right-Back,RB,250000.0,Bradford City,England,0.0,1
+2017,Premier League,Burnley FC,summer,out,Paul Robinson,3630,37,England,Goalkeeper,GK,,Retired,,,0
+2017,Premier League,Burnley FC,summer,out,Joey Barton,3292,34,England,Central Midfield,CM,1000000.0,Retired,,,0
+2017,Premier League,Burnley FC,summer,out,Georges-Kevin N'Koudou,215679,23,Cameroon,Left Winger,LW,7000000.0,Tottenham Hotspur,England,0.0,1
+2017,Premier League,Burnley FC,winter,out,Alex Whitmore,385917,22,England,Centre-Back,CB,50000.0,Chesterfield FC,England,0.0,0
+2017,Premier League,Burnley FC,winter,out,Harry Flowers,562842,21,England,Centre-Back,CB,,Guiseley AFC,England,0.0,0
+2017,Premier League,Burnley FC,winter,out,Fredrik Ulvestad,158022,25,Norway,Central Midfield,CM,750000.0,Djurgårdens IF,Sweden,0.0,0
+2017,Premier League,Burnley FC,winter,out,Tom Anderson,128828,24,England,Centre-Back,CB,250000.0,Doncaster Rovers,England,0.0,1
+2017,Premier League,Burnley FC,winter,out,Luke Hendrie,158786,23,England,Right-Back,RB,250000.0,Shrewsbury Town,England,,0
+2017,Premier League,Chelsea FC,summer,in,Álvaro Morata,128223,24,Spain,Centre-Forward,CF,40000000.0,Real Madrid,Spain,66000000.0,0
+2017,Premier League,Chelsea FC,summer,in,Tiemoué Bakayoko,182618,22,France,Defensive Midfield,DM,16000000.0,AS Monaco,France,40000000.0,0
+2017,Premier League,Chelsea FC,summer,in,Danny Drinkwater,73491,27,England,Central Midfield,CM,9000000.0,Leicester City,England,37900000.0,0
+2017,Premier League,Chelsea FC,summer,in,Antonio Rüdiger,86202,24,Germany,Centre-Back,CB,25000000.0,AS Roma,Italy,35000000.0,0
+2017,Premier League,Chelsea FC,summer,in,Davide Zappacosta,173859,25,Italy,Right Midfield,RM,8500000.0,Torino FC,Italy,25000000.0,0
+2017,Premier League,Chelsea FC,summer,in,Ethan Ampadu,392771,16,Wales,Defensive Midfield,DM,,Exeter City,England,2800000.0,0
+2017,Premier League,Chelsea FC,summer,in,Willy Caballero,19948,35,Argentina,Goalkeeper,GK,1500000.0,Manchester City,England,0.0,0
+2017,Premier League,Chelsea FC,winter,in,Emerson,181778,23,Italy,Left-Back,LB,14000000.0,AS Roma,Italy,20000000.0,0
+2017,Premier League,Chelsea FC,winter,in,Olivier Giroud,82442,31,France,Centre-Forward,CF,20000000.0,Arsenal FC,England,17000000.0,0
+2017,Premier League,Chelsea FC,winter,in,Ross Barkley,131978,24,England,Central Midfield,CM,25000000.0,Everton FC,England,16800000.0,0
+2017,Premier League,Chelsea FC,summer,out,Nemanja Matić,74683,28,Serbia,Defensive Midfield,DM,35000000.0,Manchester United,England,44700000.0,0
+2017,Premier League,Chelsea FC,summer,out,Nathan Aké,177476,22,Netherlands,Centre-Back,CB,8000000.0,AFC Bournemouth,England,22800000.0,0
+2017,Premier League,Chelsea FC,summer,out,Juan Cuadrado,91970,29,Colombia,Right Midfield,RM,25000000.0,Juventus FC,Italy,20000000.0,0
+2017,Premier League,Chelsea FC,summer,out,Asmir Begovic,33873,30,Bosnia-Herzegovina,Goalkeeper,GK,8000000.0,AFC Bournemouth,England,11500000.0,0
+2017,Premier League,Chelsea FC,summer,out,Bertrand Traoré,131996,21,Burkina Faso,Right Winger,RW,8000000.0,Olympique Lyon,France,10000000.0,0
+2017,Premier League,Chelsea FC,summer,out,Kurt Zouma,157509,22,France,Centre-Back,CB,15000000.0,Stoke City,England,7800000.0,1
+2017,Premier League,Chelsea FC,summer,out,Christian Atsu,186997,25,Ghana,Left Winger,LW,5000000.0,Newcastle United,England,7500000.0,0
+2017,Premier League,Chelsea FC,summer,out,Nathaniel Chalobah,128900,22,England,Defensive Midfield,DM,5000000.0,Watford FC,England,6300000.0,0
+2017,Premier League,Chelsea FC,summer,out,Cristian Cuevas,186863,22,Chile,Left Winger,LW,900000.0,Huachipato FC,Chile,0.0,0
+2017,Premier League,Chelsea FC,summer,out,Loïc Rémy,45121,30,France,Centre-Forward,CF,9000000.0,UD Las Palmas,Spain,0.0,0
+2017,Premier League,Chelsea FC,summer,out,John Terry,3160,36,England,Centre-Back,CB,1000000.0,Aston Villa,England,0.0,0
+2017,Premier League,Chelsea FC,summer,out,Jamal Blackman,128898,23,England,Goalkeeper,GK,250000.0,Sheffield United,England,0.0,1
+2017,Premier League,Chelsea FC,summer,out,Danilo Pantic,222830,20,Serbia,Attacking Midfield,AM,400000.0,FK Partizan Belgrade,Serbia,0.0,1
+2017,Premier League,Chelsea FC,summer,out,Todd Kane,154287,23,England,Right-Back,RB,1500000.0,FC Groningen,Netherlands,0.0,1
+2017,Premier League,Chelsea FC,summer,out,Tomas Kalas,148657,24,Czech Republic,Centre-Back,CB,4000000.0,Fulham FC,England,0.0,1
+2017,Premier League,Chelsea FC,summer,out,Michael Hector,157490,25,Jamaica,Centre-Back,CB,3000000.0,Hull City,England,0.0,1
+2017,Premier League,Chelsea FC,summer,out,Tammy Abraham,331726,19,England,Centre-Forward,CF,8000000.0,Swansea City,England,0.0,1
+2017,Premier League,Chelsea FC,summer,out,Mario Pasalić,205938,22,Croatia,Central Midfield,CM,8000000.0,Spartak Moscow,Russia,0.0,1
+2017,Premier League,Chelsea FC,summer,out,Lewis Baker,198589,22,England,Central Midfield,CM,5500000.0,Middlesbrough FC,England,0.0,1
+2017,Premier League,Chelsea FC,summer,out,Kenneth Omeruo,131708,23,Nigeria,Centre-Back,CB,2000000.0,Kasimpasa,Türkiye,0.0,1
+2017,Premier League,Chelsea FC,summer,out,Nathan,294798,21,Brazil,Attacking Midfield,AM,1250000.0,Amiens SC,France,0.0,1
+2017,Premier League,Chelsea FC,summer,out,Fikayo Tomori,303254,19,England,Centre-Back,CB,250000.0,Hull City,England,0.0,1
+2017,Premier League,Chelsea FC,summer,out,Ruben Loftus-Cheek,202886,21,England,Central Midfield,CM,5000000.0,Crystal Palace,England,0.0,1
+2017,Premier League,Chelsea FC,summer,out,Ola Aina,236490,20,Nigeria,Right-Back,RB,1000000.0,Hull City,England,0.0,1
+2017,Premier League,Chelsea FC,winter,out,Diego Costa,44779,29,Spain,Centre-Forward,CF,50000000.0,Atlético de Madrid,Spain,60000000.0,0
+2017,Premier League,Chelsea FC,winter,out,Charly Musonda Jr.,177862,21,Belgium,Left Winger,LW,5000000.0,Celtic FC,Scotland,2500000.0,1
+2017,Premier League,Chelsea FC,winter,out,Michy Batshuayi,179184,24,Belgium,Centre-Forward,CF,25000000.0,Borussia Dortmund,Germany,1500000.0,1
+2017,Premier League,Chelsea FC,winter,out,Nathan,294798,21,Brazil,Attacking Midfield,AM,1250000.0,CF Os Belenenses,Portugal,0.0,1
+2017,Premier League,Chelsea FC,winter,out,Kenedy,281404,21,Brazil,Left Winger,LW,7000000.0,Newcastle United,England,0.0,1
+2017,Premier League,Chelsea FC,winter,out,Abdul Rahman Baba,224884,23,Ghana,Left-Back,LB,8000000.0,FC Schalke 04,Germany,0.0,1
+2017,Premier League,Chelsea FC,winter,out,Todd Kane,154287,24,England,Right-Back,RB,1250000.0,Oxford United,England,0.0,1
+2017,Premier League,Crystal Palace,summer,in,Mamadou Sakho,47713,27,France,Centre-Back,CB,15000000.0,Liverpool FC,England,28200000.0,0
+2017,Premier League,Crystal Palace,summer,in,Jaïro Riedewald,241481,20,Netherlands,Defensive Midfield,DM,5000000.0,Ajax Amsterdam,Netherlands,9000000.0,0
+2017,Premier League,Crystal Palace,summer,in,Dion Henry,345899,19,England,Goalkeeper,GK,50000.0,Peterborough United,England,0.0,0
+2017,Premier League,Crystal Palace,summer,in,Ruben Loftus-Cheek,202886,21,England,Central Midfield,CM,5000000.0,Chelsea FC,England,0.0,1
+2017,Premier League,Crystal Palace,summer,in,Timothy Fosu-Mensah,315131,19,Netherlands,Right-Back,RB,2500000.0,Manchester United,England,0.0,1
+2017,Premier League,Crystal Palace,winter,in,Alexander Sørloth,238407,22,Norway,Centre-Forward,CF,2000000.0,FC Midtjylland,Denmark,16000000.0,0
+2017,Premier League,Crystal Palace,winter,in,Jaroslaw Jach,327755,23,Poland,Centre-Back,CB,2000000.0,Zaglebie Lubin,Poland,2750000.0,0
+2017,Premier League,Crystal Palace,winter,in,Erdal Rakip,230746,21,North Macedonia,Central Midfield,CM,1200000.0,SL Benfica,Portugal,0.0,1
+2017,Premier League,Crystal Palace,winter,in,Diego Cavalieri,53231,35,Brazil,Goalkeeper,GK,1750000.0,Without Club,,,0
+2017,Premier League,Crystal Palace,summer,out,Steve Mandanda,23951,32,France,Goalkeeper,GK,8000000.0,Olympique Marseille,France,3000000.0,0
+2017,Premier League,Crystal Palace,summer,out,Kwesi Appiah,121223,26,Ghana,Centre-Forward,CF,250000.0,AFC Wimbledon,England,0.0,0
+2017,Premier League,Crystal Palace,summer,out,Fraizer Campbell,42411,29,England,Centre-Forward,CF,2000000.0,Hull City,England,0.0,0
+2017,Premier League,Crystal Palace,summer,out,Zeki Fryers,141655,24,England,Left-Back,LB,1500000.0,Barnsley FC,England,0.0,0
+2017,Premier League,Crystal Palace,summer,out,Hiram Boateng,244125,21,England,Central Midfield,CM,500000.0,Exeter City,England,0.0,0
+2017,Premier League,Crystal Palace,summer,out,Keshi Anderson,353674,22,England,Left Winger,LW,100000.0,Swindon Town,England,0.0,1
+2017,Premier League,Crystal Palace,summer,out,Ryan Inniss,183284,22,England,Centre-Back,CB,75000.0,Colchester United,England,0.0,1
+2017,Premier League,Crystal Palace,summer,out,Jonny Williams,170322,23,Wales,Attacking Midfield,AM,1000000.0,Sunderland AFC,England,0.0,1
+2017,Premier League,Crystal Palace,summer,out,Kleton Perntreou,295073,22,Albania,Goalkeeper,GK,,Without Club,,,0
+2017,Premier League,Crystal Palace,summer,out,Joe Ledley,34409,30,Wales,Central Midfield,CM,3500000.0,Without Club,,,0
+2017,Premier League,Crystal Palace,summer,out,Jonathan Benteke,273773,22,Belgium,Centre-Forward,CF,400000.0,Without Club,,,0
+2017,Premier League,Crystal Palace,summer,out,Mathieu Flamini,17396,33,France,Defensive Midfield,DM,2000000.0,Without Club,,,0
+2017,Premier League,Crystal Palace,summer,out,Timothy Fosu-Mensah,315131,20,Netherlands,Right-Back,RB,7000000.0,Manchester United,England,0.0,1
+2017,Premier League,Crystal Palace,summer,out,Ruben Loftus-Cheek,202886,22,England,Central Midfield,CM,15000000.0,Chelsea FC,England,0.0,1
+2017,Premier League,Crystal Palace,winter,out,Keshi Anderson,353674,22,England,Left Winger,LW,100000.0,Swindon Town,England,,0
+2017,Premier League,Crystal Palace,winter,out,Freddie Ladapo,233998,24,England,Centre-Forward,CF,250000.0,Southend United,England,,0
+2017,Premier League,Crystal Palace,winter,out,Sullay Kaikai,244130,22,Sierra Leone,Left Winger,LW,500000.0,Charlton Athletic,England,0.0,1
+2017,Premier League,Crystal Palace,winter,out,Jordon Mutch,57207,26,England,Central Midfield,CM,2500000.0,Vancouver Whitecaps FC,United States,0.0,1
+2017,Premier League,Everton FC,summer,in,Gylfi Sigurdsson,90466,27,Iceland,Attacking Midfield,AM,25000000.0,Swansea City,England,49400000.0,0
+2017,Premier League,Everton FC,summer,in,Jordan Pickford,130164,23,England,Goalkeeper,GK,15000000.0,Sunderland AFC,England,28500000.0,0
+2017,Premier League,Everton FC,summer,in,Michael Keane,118534,24,England,Centre-Back,CB,18000000.0,Burnley FC,England,28500000.0,0
+2017,Premier League,Everton FC,summer,in,Davy Klaassen,182932,24,Netherlands,Central Midfield,CM,18000000.0,Ajax Amsterdam,Netherlands,27000000.0,0
+2017,Premier League,Everton FC,summer,in,Nikola Vlašić,293200,19,Croatia,Attacking Midfield,AM,4000000.0,HNK Hajduk Split,Croatia,10800000.0,0
+2017,Premier League,Everton FC,summer,in,Henry Onyekuru,380415,20,Nigeria,Left Winger,LW,7000000.0,KAS Eupen,Belgium,8000000.0,0
+2017,Premier League,Everton FC,summer,in,Sandro Ramírez,199369,21,Spain,Centre-Forward,CF,10000000.0,Málaga CF,Spain,6000000.0,0
+2017,Premier League,Everton FC,summer,in,Wayne Rooney,3332,31,England,Centre-Forward,CF,15000000.0,Manchester United,England,0.0,0
+2017,Premier League,Everton FC,summer,in,Cuco Martina,91251,27,Curacao,Centre-Back,CB,2000000.0,Southampton FC,England,0.0,0
+2017,Premier League,Everton FC,winter,in,Cenk Tosun,45671,26,Türkiye,Centre-Forward,CF,10500000.0,Besiktas JK,Türkiye,22500000.0,0
+2017,Premier League,Everton FC,winter,in,Theo Walcott,33713,28,England,Right Winger,RW,20000000.0,Arsenal FC,England,22500000.0,0
+2017,Premier League,Everton FC,winter,in,Eliaquim Mangala,90681,26,France,Centre-Back,CB,15000000.0,Manchester City,England,0.0,1
+2017,Premier League,Everton FC,summer,out,Romelu Lukaku,96341,24,Belgium,Centre-Forward,CF,50000000.0,Manchester United,England,84700000.0,0
+2017,Premier League,Everton FC,summer,out,Gerard Deulofeu,129476,23,Spain,Centre-Forward,CF,12000000.0,FC Barcelona,Spain,12000000.0,0
+2017,Premier League,Everton FC,summer,out,Tom Cleverley,73484,27,England,Central Midfield,CM,8000000.0,Watford FC,England,9300000.0,0
+2017,Premier League,Everton FC,summer,out,Gareth Barry,3291,36,England,Defensive Midfield,DM,1500000.0,West Bromwich Albion,England,1100000.0,0
+2017,Premier League,Everton FC,summer,out,Aiden McGeady,21333,31,Ireland,Left Winger,LW,3500000.0,Sunderland AFC,England,280000.0,0
+2017,Premier League,Everton FC,summer,out,Leandro Rodríguez,238988,24,Uruguay,Centre-Forward,CF,1000000.0,Danubio FC,Uruguay,0.0,0
+2017,Premier League,Everton FC,summer,out,Conor McAleny,121260,24,England,Centre-Forward,CF,500000.0,Fleetwood Town,England,0.0,0
+2017,Premier League,Everton FC,summer,out,Arouna Koné,8552,33,Cote d'Ivoire,Centre-Forward,CF,1500000.0,Sivasspor,Türkiye,0.0,0
+2017,Premier League,Everton FC,summer,out,Kieran Dowell,258916,19,England,Attacking Midfield,AM,250000.0,Nottingham Forest,England,0.0,1
+2017,Premier League,Everton FC,summer,out,Brendan Galloway,208244,21,Zimbabwe,Centre-Back,CB,3000000.0,Sunderland AFC,England,0.0,1
+2017,Premier League,Everton FC,summer,out,Matthew Pennington,220755,22,England,Centre-Back,CB,500000.0,Leeds United,England,0.0,1
+2017,Premier League,Everton FC,summer,out,Tyias Browning,156934,23,China,Centre-Back,CB,1000000.0,Sunderland AFC,England,0.0,1
+2017,Premier League,Everton FC,summer,out,Henry Onyekuru,380415,20,Nigeria,Left Winger,LW,7000000.0,RSC Anderlecht,Belgium,0.0,1
+2017,Premier League,Everton FC,summer,out,Eliaquim Mangala,90681,27,France,Centre-Back,CB,15000000.0,Manchester City,England,0.0,1
+2017,Premier League,Everton FC,winter,out,Ross Barkley,131978,24,England,Central Midfield,CM,25000000.0,Chelsea FC,England,16800000.0,0
+2017,Premier League,Everton FC,winter,out,Aaron Lennon,14221,30,England,Right Winger,RW,5000000.0,Burnley FC,England,1700000.0,0
+2017,Premier League,Everton FC,winter,out,Ademola Lookman,406040,20,Nigeria,Second Striker,SS,7000000.0,RB Leipzig,Germany,500000.0,1
+2017,Premier League,Everton FC,winter,out,Muhamed Besic,93905,25,Bosnia-Herzegovina,Defensive Midfield,DM,5000000.0,Middlesbrough FC,England,0.0,1
+2017,Premier League,Everton FC,winter,out,Kevin Mirallas,33639,30,Belgium,Right Winger,RW,10000000.0,Olympiacos Piraeus,Greece,0.0,1
+2017,Premier League,Everton FC,winter,out,Sandro Ramírez,199369,22,Spain,Centre-Forward,CF,10000000.0,Sevilla FC,Spain,0.0,1
+2017,Premier League,Huddersfield Town,summer,in,Steve Mounié,238639,22,Benin,Centre-Forward,CF,5500000.0,Montpellier HSC,France,13000000.0,0
+2017,Premier League,Huddersfield Town,summer,in,Aaron Mooy,123951,26,Australia,Central Midfield,CM,5000000.0,Manchester City,England,9100000.0,0
+2017,Premier League,Huddersfield Town,summer,in,Tom Ince,157368,25,England,Right Winger,RW,7000000.0,Derby County,England,9100000.0,0
+2017,Premier League,Huddersfield Town,summer,in,Scott Malone,101682,26,England,Left-Back,LB,750000.0,Fulham FC,England,3900000.0,0
+2017,Premier League,Huddersfield Town,summer,in,Laurent Depoitre,90583,28,Belgium,Centre-Forward,CF,3000000.0,FC Porto,Portugal,3800000.0,0
+2017,Premier League,Huddersfield Town,summer,in,Zanka,52059,27,Denmark,Centre-Back,CB,2500000.0,FC Copenhagen,Denmark,2700000.0,0
+2017,Premier League,Huddersfield Town,summer,in,Abdelhamid Sabiri,340394,20,Morocco,Attacking Midfield,AM,400000.0,1.FC Nuremberg,Germany,1500000.0,0
+2017,Premier League,Huddersfield Town,summer,in,Elias Kachunga,49501,25,DR Congo,Centre-Forward,CF,3500000.0,FC Ingolstadt 04,Germany,1300000.0,0
+2017,Premier League,Huddersfield Town,summer,in,Danny Williams,38383,28,United States,Defensive Midfield,DM,2000000.0,Reading FC,England,0.0,0
+2017,Premier League,Huddersfield Town,summer,in,Rob Green,11680,37,England,Goalkeeper,GK,500000.0,Leeds United,England,0.0,0
+2017,Premier League,Huddersfield Town,summer,in,Kasey Palmer,258216,20,Jamaica,Attacking Midfield,AM,750000.0,Chelsea FC U23,England,0.0,1
+2017,Premier League,Huddersfield Town,summer,in,Jonas Lössl,48870,28,Denmark,Goalkeeper,GK,1500000.0,1.FSV Mainz 05,Germany,0.0,1
+2017,Premier League,Huddersfield Town,summer,in,Florent Hadergjonaj,238809,23,Kosovo,Right-Back,RB,2500000.0,FC Ingolstadt 04,Germany,0.0,1
+2017,Premier League,Huddersfield Town,winter,in,Alex Pritchard,200777,24,England,Attacking Midfield,AM,5000000.0,Norwich City,England,12350000.0,0
+2017,Premier League,Huddersfield Town,winter,in,Terence Kongolo,152651,23,Netherlands,Centre-Back,CB,10000000.0,AS Monaco,France,0.0,1
+2017,Premier League,Huddersfield Town,summer,out,Nahki Wells,173483,27,Bermuda,Centre-Forward,CF,5000000.0,Burnley FC,England,5400000.0,0
+2017,Premier League,Huddersfield Town,summer,out,Kyle Dempsey,308388,21,England,Central Midfield,CM,350000.0,Fleetwood Town,England,455000.0,0
+2017,Premier League,Huddersfield Town,summer,out,Joe Murphy,3655,35,Ireland,Goalkeeper,GK,150000.0,Bury FC,England,0.0,0
+2017,Premier League,Huddersfield Town,summer,out,Florent Bojaj,216718,21,Albania,Second Striker,SS,100000.0,Welling United,England,0.0,0
+2017,Premier League,Huddersfield Town,summer,out,Harry Bunn,186290,24,England,Left Winger,LW,500000.0,Bury FC,England,,0
+2017,Premier League,Huddersfield Town,summer,out,Jason Davidson,137669,26,Australia,Left-Back,LB,500000.0,HNK Rijeka,Croatia,,0
+2017,Premier League,Huddersfield Town,summer,out,Jordy Hiwula,201576,22,England,Centre-Forward,CF,250000.0,Fleetwood Town,England,0.0,1
+2017,Premier League,Huddersfield Town,summer,out,Tareiq Holmes-Dennis,261739,21,England,Left-Back,LB,250000.0,Portsmouth FC,England,0.0,1
+2017,Premier League,Huddersfield Town,summer,out,Jack Payne,278092,22,England,Attacking Midfield,AM,250000.0,Oxford United,England,0.0,1
+2017,Premier League,Huddersfield Town,summer,out,Sean Scannell,61549,26,Ireland,Right Winger,RW,500000.0,Burton Albion,England,0.0,1
+2017,Premier League,Huddersfield Town,summer,out,Mark Hudson,3640,35,England,Centre-Back,CB,,Retired,,,0
+2017,Premier League,Huddersfield Town,summer,out,Elias Kachunga,49501,25,DR Congo,Centre-Forward,CF,3500000.0,FC Ingolstadt 04,Germany,0.0,1
+2017,Premier League,Huddersfield Town,winter,out,Joe Lolley,287167,25,England,Right Winger,RW,500000.0,Nottingham Forest,England,600000.0,0
+2017,Premier League,Huddersfield Town,winter,out,Martin Cranie,27659,31,England,Centre-Back,CB,500000.0,Middlesbrough FC,England,,0
+2017,Premier League,Huddersfield Town,winter,out,Jack Payne,278092,23,England,Attacking Midfield,AM,350000.0,Blackburn Rovers,England,0.0,1
+2017,Premier League,Huddersfield Town,winter,out,Kasey Palmer,258216,21,Jamaica,Attacking Midfield,AM,1500000.0,Chelsea FC U23,England,0.0,1
+2017,Premier League,Leicester City,summer,in,Kelechi Iheanacho,295330,20,Nigeria,Centre-Forward,CF,15000000.0,Manchester City,England,27700000.0,0
+2017,Premier League,Leicester City,summer,in,Adrien Silva,56810,28,Portugal,Central Midfield,CM,25000000.0,Sporting CP,Portugal,20500000.0,0
+2017,Premier League,Leicester City,summer,in,Vicente Iborra,65467,29,Spain,Defensive Midfield,DM,9000000.0,Sevilla FC,Spain,15000000.0,0
+2017,Premier League,Leicester City,summer,in,Harry Maguire,177907,24,England,Centre-Back,CB,8000000.0,Hull City,England,13700000.0,0
+2017,Premier League,Leicester City,summer,in,Aleksandar Dragovic,59032,26,Austria,Centre-Back,CB,12000000.0,Bayer 04 Leverkusen,Germany,2500000.0,1
+2017,Premier League,Leicester City,summer,in,Eldin Jakupović,2857,32,Switzerland,Goalkeeper,GK,1000000.0,Hull City,England,2300000.0,0
+2017,Premier League,Leicester City,summer,in,Sam Hughes,395797,20,England,Centre-Back,CB,,Chester FC,England,145000.0,0
+2017,Premier League,Leicester City,summer,in,George Thomas,298240,20,Wales,Attacking Midfield,AM,250000.0,Coventry City,England,0.0,0
+2017,Premier League,Leicester City,winter,in,Fousseni Diabaté,364861,22,Mali,Right Winger,RW,,GFC Ajaccio,France,2000000.0,0
+2017,Premier League,Leicester City,summer,out,Danny Drinkwater,73491,27,England,Central Midfield,CM,9000000.0,Chelsea FC,England,37900000.0,0
+2017,Premier League,Leicester City,summer,out,Tom Lawrence,229970,23,Wales,Attacking Midfield,AM,2500000.0,Derby County,England,5500000.0,0
+2017,Premier League,Leicester City,summer,out,Ron-Robert Zieler,21327,28,Germany,Goalkeeper,GK,7000000.0,VfB Stuttgart,Germany,4000000.0,0
+2017,Premier League,Leicester City,summer,out,Bartosz Kapustka,246579,20,Poland,Attacking Midfield,AM,6000000.0,SC Freiburg,Germany,500000.0,1
+2017,Premier League,Leicester City,summer,out,Nampalys Mendy,111051,25,Senegal,Defensive Midfield,DM,10000000.0,OGC Nice,France,0.0,1
+2017,Premier League,Leicester City,summer,out,Callum Elder,271997,22,Australia,Left-Back,LB,250000.0,Wigan Athletic,England,0.0,1
+2017,Premier League,Leicester City,summer,out,Michael Cain,284763,23,England,Central Midfield,CM,100000.0,Without Club,,,0
+2017,Premier League,Leicester City,summer,out,Marcin Wasilewski,16947,37,Poland,Centre-Back,CB,50000.0,Without Club,,,0
+2017,Premier League,Leicester City,summer,out,Molla Wagué,129893,26,Mali,Centre-Back,CB,1500000.0,Granada CF,Spain,0.0,1
+2017,Premier League,Leicester City,winter,out,Islam Slimani,174915,29,Algeria,Centre-Forward,CF,22000000.0,Newcastle United,England,2200000.0,1
+2017,Premier League,Leicester City,winter,out,Leonardo Ulloa,54890,31,Argentina,Centre-Forward,CF,5000000.0,Brighton & Hove Albion,England,0.0,1
+2017,Premier League,Leicester City,winter,out,Ahmed Musa,168337,25,Nigeria,Left Winger,LW,15000000.0,CSKA Moscow,Russia,0.0,1
+2017,Premier League,Leicester City,winter,out,Andy King,56872,29,Wales,Central Midfield,CM,3000000.0,Swansea City,England,0.0,1
+2017,Premier League,Liverpool FC,summer,in,Mohamed Salah,148455,25,Egypt,Right Winger,RW,35000000.0,AS Roma,Italy,42000000.0,0
+2017,Premier League,Liverpool FC,summer,in,Alex Oxlade-Chamberlain,143424,24,England,Central Midfield,CM,22000000.0,Arsenal FC,England,38000000.0,0
+2017,Premier League,Liverpool FC,summer,in,Andrew Robertson,234803,23,Scotland,Left-Back,LB,7000000.0,Hull City,England,9000000.0,0
+2017,Premier League,Liverpool FC,summer,in,Dominic Solanke,258889,19,England,Centre-Forward,CF,2000000.0,Chelsea FC U23,England,0.0,0
+2017,Premier League,Liverpool FC,winter,in,Virgil van Dijk,139208,26,Netherlands,Centre-Back,CB,30000000.0,Southampton FC,England,84650000.0,0
+2017,Premier League,Liverpool FC,summer,out,Mamadou Sakho,47713,27,France,Centre-Back,CB,15000000.0,Crystal Palace,England,28200000.0,0
+2017,Premier League,Liverpool FC,summer,out,Divock Origi,148368,22,Belgium,Centre-Forward,CF,12000000.0,VfL Wolfsburg,Germany,6500000.0,1
+2017,Premier League,Liverpool FC,summer,out,Lucas Leiva,41414,30,Brazil,Defensive Midfield,DM,7000000.0,SS Lazio,Italy,5700000.0,0
+2017,Premier League,Liverpool FC,summer,out,Kevin Stewart,200782,23,Jamaica,Defensive Midfield,DM,1000000.0,Hull City,England,4500000.0,0
+2017,Premier League,Liverpool FC,summer,out,Andre Wisdom,128912,24,England,Right-Back,RB,2750000.0,Derby County,England,2300000.0,0
+2017,Premier League,Liverpool FC,summer,out,Connor Randall,262545,21,England,Right-Back,RB,500000.0,Heart of Midlothian FC,Scotland,0.0,1
+2017,Premier League,Liverpool FC,summer,out,Taiwo Awoniyi,295313,19,Nigeria,Centre-Forward,CF,400000.0,Royal Excel Mouscron (-2022),Belgium,0.0,1
+2017,Premier League,Liverpool FC,summer,out,Sheyi Ojo,236510,20,England,Right Winger,RW,2000000.0,Fulham FC,England,0.0,1
+2017,Premier League,Liverpool FC,summer,out,Alexander Manninger,5278,40,Austria,Goalkeeper,GK,200000.0,Retired,,,0
+2017,Premier League,Liverpool FC,winter,out,Philippe Coutinho,80444,25,Brazil,Attacking Midfield,AM,90000000.0,FC Barcelona,Spain,135000000.0,0
+2017,Premier League,Liverpool FC,winter,out,Daniel Sturridge,47082,28,England,Centre-Forward,CF,20000000.0,West Bromwich Albion,England,2300000.0,1
+2017,Premier League,Liverpool FC,winter,out,Lazar Markovic,144303,23,Serbia,Right Winger,RW,10000000.0,RSC Anderlecht,Belgium,0.0,1
+2017,Premier League,Liverpool FC,winter,out,Marko Grujić,222813,21,Serbia,Defensive Midfield,DM,5000000.0,Cardiff City,England,0.0,1
+2017,Premier League,Liverpool FC,winter,out,Ovie Ejaria,337284,20,England,Left Winger,LW,500000.0,Sunderland AFC,England,0.0,1
+2017,Premier League,Liverpool FC,winter,out,Jon Flanagan,145922,25,England,Right-Back,RB,3000000.0,Bolton Wanderers,England,0.0,1
+2017,Premier League,Manchester City,summer,in,Benjamin Mendy,157495,23,France,Left-Back,LB,13000000.0,AS Monaco,France,57500000.0,0
+2017,Premier League,Manchester City,summer,in,Kyle Walker,95424,27,England,Right-Back,RB,30000000.0,Tottenham Hotspur,England,52700000.0,0
+2017,Premier League,Manchester City,summer,in,Bernardo Silva,241641,22,Portugal,Attacking Midfield,AM,40000000.0,AS Monaco,France,50000000.0,0
+2017,Premier League,Manchester City,summer,in,Ederson,238223,23,Brazil,Goalkeeper,GK,22000000.0,SL Benfica,Portugal,40000000.0,0
+2017,Premier League,Manchester City,summer,in,Danilo,145707,26,Brazil,Centre-Back,CB,16000000.0,Real Madrid,Spain,30000000.0,0
+2017,Premier League,Manchester City,summer,in,Douglas Luiz,447661,19,Brazil,Central Midfield,CM,,Clube de Regatas Vasco da Gama,Brazil,12000000.0,0
+2017,Premier League,Manchester City,summer,in,Olarenwaju Kayode,131694,24,Nigeria,Centre-Forward,CF,4000000.0,Austria Vienna,Austria,3800000.0,0
+2017,Premier League,Manchester City,summer,in,Luka Ilic,429790,18,Serbia,Attacking Midfield,AM,,Red Star Belgrade,Serbia,2500000.0,0
+2017,Premier League,Manchester City,winter,in,Aymeric Laporte,176553,23,Spain,Centre-Back,CB,25000000.0,Athletic Bilbao,Spain,65000000.0,0
+2017,Premier League,Manchester City,winter,in,Jack Harrison,417346,21,England,Left Winger,LW,1750000.0,New York City FC,United States,4000000.0,0
+2017,Premier League,Manchester City,summer,out,Kelechi Iheanacho,295330,20,Nigeria,Centre-Forward,CF,15000000.0,Leicester City,England,27700000.0,0
+2017,Premier League,Manchester City,summer,out,Enes Ünal,251106,20,Türkiye,Centre-Forward,CF,10000000.0,Villarreal CF,Spain,14000000.0,0
+2017,Premier League,Manchester City,summer,out,Wilfried Bony,81808,28,Cote d'Ivoire,Centre-Forward,CF,18000000.0,Swansea City,England,13000000.0,0
+2017,Premier League,Manchester City,summer,out,Aaron Mooy,123951,26,Australia,Central Midfield,CM,5000000.0,Huddersfield Town,England,9100000.0,0
+2017,Premier League,Manchester City,summer,out,Nolito,70934,30,Spain,Left Winger,LW,12000000.0,Sevilla FC,Spain,7000000.0,0
+2017,Premier League,Manchester City,summer,out,Fernando,51174,30,Brazil,Defensive Midfield,DM,10000000.0,Galatasaray,Türkiye,6000000.0,0
+2017,Premier League,Manchester City,summer,out,Aleksandar Kolarov,46156,31,Serbia,Left-Back,LB,10000000.0,AS Roma,Italy,5000000.0,0
+2017,Premier League,Manchester City,summer,out,Samir Nasri,18935,30,France,Attacking Midfield,AM,16000000.0,Antalyaspor,Türkiye,3500000.0,0
+2017,Premier League,Manchester City,summer,out,Joe Hart,40204,30,England,Goalkeeper,GK,13000000.0,West Ham United,England,2300000.0,1
+2017,Premier League,Manchester City,summer,out,Rubén Sobrino,85383,25,Spain,Centre-Forward,CF,500000.0,Deportivo Alavés,Spain,2000000.0,0
+2017,Premier League,Manchester City,summer,out,Bruno Zuculini,115507,24,Argentina,Defensive Midfield,DM,1200000.0,Hellas Verona,Italy,1250000.0,0
+2017,Premier League,Manchester City,summer,out,Jason Denayer,277114,22,Belgium,Centre-Back,CB,4000000.0,Galatasaray,Türkiye,500000.0,1
+2017,Premier League,Manchester City,summer,out,Pablo Zabaleta,20007,32,Argentina,Right-Back,RB,7000000.0,West Ham United,England,0.0,0
+2017,Premier League,Manchester City,summer,out,Jesús Navas,15956,31,Spain,Right-Back,RB,12000000.0,Sevilla FC,Spain,0.0,0
+2017,Premier League,Manchester City,summer,out,Gaël Clichy,7449,31,France,Left-Back,LB,7000000.0,Basaksehir FK,Türkiye,0.0,0
+2017,Premier League,Manchester City,summer,out,Willy Caballero,19948,35,Argentina,Goalkeeper,GK,1500000.0,Chelsea FC,England,0.0,0
+2017,Premier League,Manchester City,summer,out,Luka Ilic,429790,18,Serbia,Attacking Midfield,AM,,Red Star Belgrade,Serbia,0.0,1
+2017,Premier League,Manchester City,summer,out,Douglas Luiz,447661,19,Brazil,Central Midfield,CM,,Girona FC,Spain,0.0,1
+2017,Premier League,Manchester City,summer,out,Angus Gunn,201574,21,Scotland,Goalkeeper,GK,250000.0,Norwich City,England,0.0,1
+2017,Premier League,Manchester City,summer,out,Aleix García,261504,20,Spain,Central Midfield,CM,1000000.0,Girona FC,Spain,0.0,1
+2017,Premier League,Manchester City,summer,out,Olarenwaju Kayode,131694,24,Nigeria,Centre-Forward,CF,4000000.0,Girona FC,Spain,0.0,1
+2017,Premier League,Manchester City,summer,out,Pablo Maffeo,251876,20,Argentina,Right-Back,RB,500000.0,Girona FC,Spain,0.0,1
+2017,Premier League,Manchester City,summer,out,Patrick Roberts,225452,20,England,Right Winger,RW,7500000.0,Celtic FC,Scotland,0.0,1
+2017,Premier League,Manchester City,summer,out,Marlos Moreno,345654,20,Colombia,Left Winger,LW,1000000.0,Girona FC,Spain,0.0,1
+2017,Premier League,Manchester City,summer,out,Anthony Cáceres,226739,24,Australia,Attacking Midfield,AM,600000.0,Al-Wasl FC,United Arab Emirates,0.0,1
+2017,Premier League,Manchester City,summer,out,Pablo Marí,210178,23,Spain,Centre-Back,CB,400000.0,NAC Breda,Netherlands,0.0,1
+2017,Premier League,Manchester City,summer,out,Bersant Celina,229695,20,Kosovo,Attacking Midfield,AM,2500000.0,Ipswich Town,England,0.0,1
+2017,Premier League,Manchester City,summer,out,Bacary Sagna,26764,34,France,Right-Back,RB,4000000.0,Without Club,,,0
+2017,Premier League,Manchester City,winter,out,Marlos Moreno,345654,21,Colombia,Left Winger,LW,500000.0,CR Flamengo,Brazil,0.0,1
+2017,Premier League,Manchester City,winter,out,Jack Harrison,417346,21,England,Left Winger,LW,1750000.0,Middlesbrough FC,England,0.0,1
+2017,Premier League,Manchester City,winter,out,Eliaquim Mangala,90681,26,France,Centre-Back,CB,15000000.0,Everton FC,England,0.0,1
+2017,Premier League,Manchester City,winter,out,Olarenwaju Kayode,131694,24,Nigeria,Centre-Forward,CF,3000000.0,Shakhtar Donetsk,Ukraine,0.0,1
+2017,Premier League,Manchester United,summer,in,Romelu Lukaku,96341,24,Belgium,Centre-Forward,CF,50000000.0,Everton FC,England,84700000.0,0
+2017,Premier League,Manchester United,summer,in,Nemanja Matić,74683,28,Serbia,Defensive Midfield,DM,35000000.0,Chelsea FC,England,44700000.0,0
+2017,Premier League,Manchester United,summer,in,Victor Lindelöf,184573,22,Sweden,Centre-Back,CB,22000000.0,SL Benfica,Portugal,35000000.0,0
+2017,Premier League,Manchester United,winter,in,Alexis Sánchez,40433,29,Chile,Centre-Forward,CF,70000000.0,Arsenal FC,England,34000000.0,0
+2017,Premier League,Manchester United,summer,out,Adnan Januzaj,177847,22,Belgium,Right Winger,RW,7000000.0,Real Sociedad,Spain,8500000.0,0
+2017,Premier League,Manchester United,summer,out,Andreas Pereira,203394,21,Brazil,Attacking Midfield,AM,5000000.0,Valencia CF,Spain,3000000.0,1
+2017,Premier League,Manchester United,summer,out,Wayne Rooney,3332,31,England,Centre-Forward,CF,15000000.0,Everton FC,England,0.0,0
+2017,Premier League,Manchester United,summer,out,Guillermo Varela,188862,24,Uruguay,Right-Back,RB,750000.0,CA Peñarol,Uruguay,,0
+2017,Premier League,Manchester United,summer,out,Sam Johnstone,110864,24,England,Goalkeeper,GK,1000000.0,Aston Villa,England,0.0,1
+2017,Premier League,Manchester United,summer,out,Timothy Fosu-Mensah,315131,19,Netherlands,Right-Back,RB,2500000.0,Crystal Palace,England,0.0,1
+2017,Premier League,Manchester United,winter,out,Henrikh Mkhitaryan,55735,29,Armenia,Central Midfield,CM,35000000.0,Arsenal FC,England,34000000.0,0
+2017,Premier League,Manchester United,winter,out,Zlatan Ibrahimović,3455,36,Sweden,Centre-Forward,CF,5000000.0,Los Angeles Galaxy,United States,0.0,0
+2017,Premier League,Manchester United,winter,out,James Wilson,214104,22,England,Centre-Forward,CF,2000000.0,Sheffield United,England,0.0,1
+2017,Premier League,Manchester United,winter,out,Axel Tuanzebe,342046,20,DR Congo,Centre-Back,CB,1000000.0,Aston Villa,England,0.0,1
+2017,Premier League,Newcastle United,summer,in,Jacob Murphy,199527,22,England,Right Winger,RW,1000000.0,Norwich City,England,11300000.0,0
+2017,Premier League,Newcastle United,summer,in,Florian Lejeune,127108,26,France,Centre-Back,CB,5000000.0,SD Eibar,Spain,10000000.0,0
+2017,Premier League,Newcastle United,summer,in,Christian Atsu,186997,25,Ghana,Left Winger,LW,5000000.0,Chelsea FC,England,7500000.0,0
+2017,Premier League,Newcastle United,summer,in,Joselu,81999,27,Spain,Centre-Forward,CF,3500000.0,Stoke City,England,5500000.0,0
+2017,Premier League,Newcastle United,summer,in,Javier Manquillo,162029,23,Spain,Right-Back,RB,4000000.0,Atlético de Madrid,Spain,5000000.0,0
+2017,Premier League,Newcastle United,summer,in,Mikel Merino,338424,21,Spain,Central Midfield,CM,2500000.0,Borussia Dortmund,Germany,3000000.0,1
+2017,Premier League,Newcastle United,winter,in,Islam Slimani,174915,29,Algeria,Centre-Forward,CF,22000000.0,Leicester City,England,2200000.0,1
+2017,Premier League,Newcastle United,winter,in,Martin Dúbravka,74960,29,Slovakia,Goalkeeper,GK,900000.0,AC Sparta Prague,Czech Republic,2000000.0,1
+2017,Premier League,Newcastle United,winter,in,Kenedy,281404,21,Brazil,Left Winger,LW,7000000.0,Chelsea FC,England,0.0,1
+2017,Premier League,Newcastle United,summer,out,Florian Thauvin,184892,24,France,Second Striker,SS,18000000.0,Olympique Marseille,France,11000000.0,0
+2017,Premier League,Newcastle United,summer,out,Grant Hanley,121385,25,Scotland,Centre-Back,CB,4500000.0,Norwich City,England,3800000.0,0
+2017,Premier League,Newcastle United,summer,out,Daryl Murphy,31312,34,Ireland,Centre-Forward,CF,1500000.0,Nottingham Forest,England,2300000.0,0
+2017,Premier League,Newcastle United,summer,out,Siem de Jong,45509,28,Netherlands,Attacking Midfield,AM,5500000.0,Ajax Amsterdam,Netherlands,2300000.0,0
+2017,Premier League,Newcastle United,summer,out,Emmanuel Rivière,61637,27,Martinique,Centre-Forward,CF,1500000.0,FC Metz,France,1100000.0,0
+2017,Premier League,Newcastle United,summer,out,Kevin Mbabu,183321,22,Switzerland,Right-Back,RB,750000.0,BSC Young Boys,Switzerland,120000.0,0
+2017,Premier League,Newcastle United,summer,out,Lubomir Satka,168408,21,Slovakia,Centre-Back,CB,250000.0,DAC Dunajska Streda,Slovakia,0.0,0
+2017,Premier League,Newcastle United,summer,out,Tim Krul,33027,29,Netherlands,Goalkeeper,GK,4000000.0,Brighton & Hove Albion,England,0.0,0
+2017,Premier League,Newcastle United,summer,out,Yoan Gouffran,23825,31,France,Left Winger,LW,3500000.0,Göztepe,Türkiye,0.0,0
+2017,Premier League,Newcastle United,summer,out,Sammy Ameobi,92381,25,England,Left Winger,LW,2500000.0,Bolton Wanderers,England,0.0,0
+2017,Premier League,Newcastle United,summer,out,Haris Vuckic,76560,24,Slovenia,Second Striker,SS,500000.0,Twente Enschede FC,Netherlands,0.0,0
+2017,Premier League,Newcastle United,summer,out,Vurnon Anita,30670,28,Curacao,Defensive Midfield,DM,4000000.0,Leeds United,England,0.0,0
+2017,Premier League,Newcastle United,summer,out,Ivan Toney,251664,21,England,Centre-Forward,CF,500000.0,Wigan Athletic,England,0.0,1
+2017,Premier League,Newcastle United,summer,out,Tim Krul,33027,29,Netherlands,Goalkeeper,GK,4000000.0,Brighton & Hove Albion,England,0.0,1
+2017,Premier League,Newcastle United,summer,out,Achraf Lazaar,139173,25,Morocco,Left Midfield,LM,2500000.0,Benevento Calcio,Italy,0.0,1
+2017,Premier League,Newcastle United,summer,out,Stuart Findlay,165334,21,Scotland,Centre-Back,CB,100000.0,Kilmarnock FC,Scotland,0.0,1
+2017,Premier League,Newcastle United,summer,out,Adam Armstrong,250426,20,England,Centre-Forward,CF,1500000.0,Bolton Wanderers,England,0.0,1
+2017,Premier League,Newcastle United,summer,out,Matz Sels,127202,25,Belgium,Goalkeeper,GK,5000000.0,RSC Anderlecht,Belgium,0.0,1
+2017,Premier League,Newcastle United,summer,out,Christian Atsu,186997,25,Ghana,Left Winger,LW,5000000.0,Chelsea FC,England,0.0,1
+2017,Premier League,Newcastle United,summer,out,Islam Slimani,174915,29,Algeria,Centre-Forward,CF,18000000.0,Leicester City,England,0.0,1
+2017,Premier League,Newcastle United,winter,out,Aleksandar Mitrović,51152,23,Serbia,Centre-Forward,CF,8000000.0,Fulham FC,England,600000.0,1
+2017,Premier League,Newcastle United,winter,out,Ivan Toney,251664,21,England,Centre-Forward,CF,500000.0,Scunthorpe United,England,0.0,1
+2017,Premier League,Newcastle United,winter,out,Dan Barlaser,256773,21,England,Defensive Midfield,DM,,Crewe Alexandra,England,0.0,1
+2017,Premier League,Newcastle United,winter,out,Jamie Sterry,250431,22,England,Right-Back,RB,75000.0,Crewe Alexandra,England,0.0,1
+2017,Premier League,Newcastle United,winter,out,Jack Colback,61644,28,England,Defensive Midfield,DM,3500000.0,Nottingham Forest,England,0.0,1
+2017,Premier League,Newcastle United,winter,out,Adam Armstrong,250426,20,England,Centre-Forward,CF,1500000.0,Blackburn Rovers,England,0.0,1
+2017,Premier League,Newcastle United,winter,out,Henri Saivet,51540,27,Senegal,Attacking Midfield,AM,5000000.0,Sivasspor,Türkiye,0.0,1
+2017,Premier League,Newcastle United,winter,out,Rolando Aarons,258188,22,Jamaica,Left Winger,LW,750000.0,Hellas Verona,Italy,0.0,1
+2017,Premier League,Newcastle United,winter,out,Freddie Woodman,226049,20,England,Goalkeeper,GK,500000.0,Aberdeen FC,Scotland,0.0,1
+2017,Premier League,Southampton FC,summer,in,Mario Lemina,170934,23,Gabon,Defensive Midfield,DM,7500000.0,Juventus FC,Italy,17250000.0,0
+2017,Premier League,Southampton FC,summer,in,Wesley Hoedt,253765,23,Netherlands,Centre-Back,CB,7500000.0,SS Lazio,Italy,16000000.0,0
+2017,Premier League,Southampton FC,summer,in,Jan Bednarek,243028,21,Poland,Centre-Back,CB,500000.0,Lech Poznan,Poland,6000000.0,0
+2017,Premier League,Southampton FC,summer,in,Jack Rose,186923,22,England,Goalkeeper,GK,100000.0,West Bromwich Albion U23,England,0.0,0
+2017,Premier League,Southampton FC,winter,in,Guido Carrillo,184672,26,Argentina,Centre-Forward,CF,6000000.0,AS Monaco,France,22000000.0,0
+2017,Premier League,Southampton FC,summer,out,Jay Rodríguez,53360,27,England,Centre-Forward,CF,10000000.0,West Bromwich Albion,England,13700000.0,0
+2017,Premier League,Southampton FC,summer,out,Martín Cáceres,54935,30,Uruguay,Centre-Back,CB,4000000.0,Hellas Verona,Italy,0.0,0
+2017,Premier League,Southampton FC,summer,out,Cuco Martina,91251,27,Curacao,Centre-Back,CB,2000000.0,Everton FC,England,0.0,0
+2017,Premier League,Southampton FC,summer,out,Lloyd Isgrove,226965,24,Wales,Right Winger,RW,250000.0,Barnsley FC,England,0.0,0
+2017,Premier League,Southampton FC,summer,out,Paulo Gazzaniga,195488,25,Argentina,Goalkeeper,GK,1000000.0,Tottenham Hotspur,England,,0
+2017,Premier League,Southampton FC,summer,out,Harrison Reed,226973,22,England,Central Midfield,CM,1000000.0,Norwich City,England,0.0,1
+2017,Premier League,Southampton FC,summer,out,Ryan Seager,247647,21,England,Centre-Forward,CF,,Milton Keynes Dons,England,0.0,1
+2017,Premier League,Southampton FC,summer,out,Sam Gallagher,227183,21,England,Centre-Forward,CF,2500000.0,Birmingham City,England,0.0,1
+2017,Premier League,Southampton FC,summer,out,Jordy Clasie,104223,26,Netherlands,Defensive Midfield,DM,10000000.0,Club Brugge KV,Belgium,0.0,1
+2017,Premier League,Southampton FC,summer,out,Mouez Hassen,215677,22,Tunisia,Goalkeeper,GK,1000000.0,OGC Nice,France,0.0,1
+2017,Premier League,Southampton FC,winter,out,Virgil van Dijk,139208,26,Netherlands,Centre-Back,CB,30000000.0,Liverpool FC,England,84650000.0,0
+2017,Premier League,Southampton FC,winter,out,Ryan Seager,247647,21,England,Centre-Forward,CF,100000.0,Yeovil Town,England,0.0,1
+2017,Premier League,Southampton FC,winter,out,Florin Gardoș,57423,29,Romania,Centre-Back,CB,2000000.0,CS Universitatea Craiova,Romania,0.0,1
+2017,Premier League,Southampton FC,winter,out,Matt Targett,250478,22,England,Left-Back,LB,3000000.0,Fulham FC,England,0.0,1
+2017,Premier League,Stoke City,summer,in,Kevin Wimmer,122675,24,Austria,Centre-Back,CB,7000000.0,Tottenham Hotspur,England,19400000.0,0
+2017,Premier League,Stoke City,summer,in,Kurt Zouma,157509,22,France,Centre-Back,CB,15000000.0,Chelsea FC,England,7800000.0,1
+2017,Premier League,Stoke City,summer,in,Bruno Martins Indi,112052,25,Netherlands,Centre-Back,CB,11000000.0,FC Porto,Portugal,7700000.0,0
+2017,Premier League,Stoke City,summer,in,Darren Fletcher,3547,33,Scotland,Central Midfield,CM,2000000.0,West Bromwich Albion,England,0.0,0
+2017,Premier League,Stoke City,summer,in,Eric-Maxim Choupo-Moting,45660,28,Cameroon,Centre-Forward,CF,6000000.0,FC Schalke 04,Germany,0.0,0
+2017,Premier League,Stoke City,summer,in,Josh Tymon,419929,18,England,Left-Back,LB,1000000.0,Hull City,England,0.0,0
+2017,Premier League,Stoke City,summer,in,Jesé,134936,24,Spain,Left Winger,LW,7500000.0,Paris Saint-Germain,France,0.0,1
+2017,Premier League,Stoke City,winter,in,Badou Ndiaye,211325,27,Senegal,Defensive Midfield,DM,7000000.0,Galatasaray,Türkiye,16000000.0,0
+2017,Premier League,Stoke City,winter,in,Moritz Bauer,159692,25,Austria,Right-Back,RB,3000000.0,Rubin Kazan,Russia,6200000.0,0
+2017,Premier League,Stoke City,winter,in,Konstantinos Stafylidis,148967,24,Greece,Left-Back,LB,3500000.0,FC Augsburg,Germany,600000.0,1
+2017,Premier League,Stoke City,summer,out,Marko Arnautovic,41384,28,Austria,Centre-Forward,CF,15000000.0,West Ham United,England,22300000.0,0
+2017,Premier League,Stoke City,summer,out,Joselu,81999,27,Spain,Centre-Forward,CF,3500000.0,Newcastle United,England,5500000.0,0
+2017,Premier League,Stoke City,summer,out,Philipp Wollscheid,53173,28,Germany,Centre-Back,CB,2500000.0,FC Metz,France,2500000.0,0
+2017,Premier League,Stoke City,summer,out,Jonathan Walters,3306,33,Ireland,Right Winger,RW,2500000.0,Burnley FC,England,2300000.0,0
+2017,Premier League,Stoke City,summer,out,Glenn Whelan,12124,33,Ireland,Defensive Midfield,DM,2500000.0,Aston Villa,England,1700000.0,0
+2017,Premier League,Stoke City,summer,out,Phil Bardsley,15773,32,Scotland,Right-Back,RB,1500000.0,Burnley FC,England,840000.0,0
+2017,Premier League,Stoke City,summer,out,George Waring,242417,22,England,Centre-Forward,CF,250000.0,Tranmere Rovers,England,0.0,0
+2017,Premier League,Stoke City,summer,out,Bojan Krkic,44675,27,Spain,Second Striker,SS,5000000.0,Deportivo Alavés,Spain,0.0,1
+2017,Premier League,Stoke City,summer,out,Giannelli Imbula,130756,24,DR Congo,Defensive Midfield,DM,12000000.0,FC Toulouse,France,0.0,1
+2017,Premier League,Stoke City,summer,out,Marc Muniesa,74228,25,Spain,Centre-Back,CB,3000000.0,Girona FC,Spain,0.0,1
+2017,Premier League,Stoke City,summer,out,Dom Telford,333782,20,England,Centre-Forward,CF,,Bristol Rovers,England,0.0,1
+2017,Premier League,Stoke City,summer,out,Ryan Sweeney,347666,20,Ireland,Centre-Back,CB,250000.0,Bristol Rovers,England,0.0,1
+2017,Premier League,Stoke City,summer,out,Shay Given,3146,41,Ireland,Goalkeeper,GK,250000.0,Retired,,,0
+2017,Premier League,Stoke City,summer,out,Kurt Zouma,157509,23,France,Centre-Back,CB,15000000.0,Chelsea FC,England,0.0,1
+2017,Premier League,Stoke City,summer,out,Bruno Martins Indi,112052,25,Netherlands,Centre-Back,CB,11000000.0,FC Porto,Portugal,0.0,1
+2017,Premier League,Stoke City,winter,out,Harry Souttar,298091,19,Australia,Centre-Back,CB,,Ross County FC,Scotland,0.0,1
+2017,Premier League,Stoke City,winter,out,Josh Tymon,419929,18,England,Left-Back,LB,2000000.0,Milton Keynes Dons,England,0.0,1
+2017,Premier League,Swansea City,summer,in,Sam Clucas,122223,26,England,Central Midfield,CM,2500000.0,Hull City,England,16300000.0,0
+2017,Premier League,Swansea City,summer,in,Wilfried Bony,81808,28,Cote d'Ivoire,Centre-Forward,CF,18000000.0,Manchester City,England,13000000.0,0
+2017,Premier League,Swansea City,summer,in,Roque Mesa,202984,28,Spain,Central Midfield,CM,12000000.0,UD Las Palmas,Spain,12500000.0,0
+2017,Premier League,Swansea City,summer,in,Renato Sanches,258027,20,Portugal,Central Midfield,CM,22000000.0,Bayern Munich,Germany,8500000.0,1
+2017,Premier League,Swansea City,summer,in,Cian Harries,319300,20,Wales,Centre-Back,CB,75000.0,Coventry City,England,285000.0,0
+2017,Premier League,Swansea City,summer,in,Erwin Mulder,56631,28,Netherlands,Goalkeeper,GK,2500000.0,SC Heerenveen,Netherlands,0.0,0
+2017,Premier League,Swansea City,summer,in,Courtney Baker-Richardson,298231,21,England,Centre-Forward,CF,,Leamington FC,England,,0
+2017,Premier League,Swansea City,summer,in,Tammy Abraham,331726,19,England,Centre-Forward,CF,8000000.0,Chelsea FC,England,0.0,1
+2017,Premier League,Swansea City,winter,in,André Ayew,45403,28,Ghana,Centre-Forward,CF,18000000.0,West Ham United,England,22800000.0,0
+2017,Premier League,Swansea City,winter,in,Jack Withers,602757,18,England,Centre-Back,CB,,Boston United,England,,0
+2017,Premier League,Swansea City,winter,in,Andy King,56872,29,Wales,Central Midfield,CM,3000000.0,Leicester City,England,0.0,1
+2017,Premier League,Swansea City,summer,out,Gylfi Sigurdsson,90466,27,Iceland,Attacking Midfield,AM,25000000.0,Everton FC,England,49400000.0,0
+2017,Premier League,Swansea City,summer,out,Fernando Llorente,35564,32,Spain,Centre-Forward,CF,6000000.0,Tottenham Hotspur,England,15100000.0,0
+2017,Premier League,Swansea City,summer,out,Jack Cork,40613,28,England,Defensive Midfield,DM,5000000.0,Burnley FC,England,9100000.0,0
+2017,Premier League,Swansea City,summer,out,Stephen Kingsley,184398,23,Scotland,Left-Back,LB,750000.0,Hull City,England,3300000.0,0
+2017,Premier League,Swansea City,summer,out,Bafétimbi Gomis,22388,31,France,Centre-Forward,CF,5000000.0,Galatasaray,Türkiye,2500000.0,0
+2017,Premier League,Swansea City,summer,out,Modou Barrow,189070,24,The Gambia,Left Winger,LW,3000000.0,Reading FC,England,1700000.0,0
+2017,Premier League,Swansea City,summer,out,Marvin Emnes,37787,29,Netherlands,Centre-Forward,CF,1000000.0,Akhisarspor,Türkiye,0.0,0
+2017,Premier League,Swansea City,summer,out,Mark Birighitti,80702,26,Australia,Goalkeeper,GK,1000000.0,NAC Breda,Netherlands,0.0,0
+2017,Premier League,Swansea City,summer,out,Franck Tabanou,66413,28,France,Left-Back,LB,2000000.0,EA Guingamp,France,0.0,0
+2017,Premier League,Swansea City,summer,out,Liam Shephard,197910,22,Wales,Right-Back,RB,75000.0,Peterborough United,England,0.0,0
+2017,Premier League,Swansea City,summer,out,Connor Roberts,214666,21,Wales,Right-Back,RB,250000.0,Middlesbrough FC,England,0.0,1
+2017,Premier League,Swansea City,summer,out,Jordi Amat,85289,25,Indonesia,Centre-Back,CB,2500000.0,Real Betis Balompié,Spain,0.0,1
+2017,Premier League,Swansea City,summer,out,Borja Bastón,85324,24,Spain,Centre-Forward,CF,10000000.0,Málaga CF,Spain,0.0,1
+2017,Premier League,Swansea City,summer,out,Matt Grimes,265471,22,England,Defensive Midfield,DM,1500000.0,Northampton Town,England,0.0,1
+2017,Premier League,Swansea City,summer,out,Botti Biabi,270296,21,Scotland,Centre-Forward,CF,100000.0,Hamilton Academical FC,Scotland,0.0,1
+2017,Premier League,Swansea City,summer,out,Jefferson Montero,77932,28,Ecuador,Left Winger,LW,4500000.0,Getafe CF,Spain,0.0,1
+2017,Premier League,Swansea City,summer,out,Gerhard Tremmel,488,38,Germany,Goalkeeper,GK,,Retired,,,0
+2017,Premier League,Swansea City,summer,out,Tammy Abraham,331726,20,England,Centre-Forward,CF,10000000.0,Chelsea FC,England,0.0,1
+2017,Premier League,Swansea City,summer,out,Andy King,56872,29,Wales,Central Midfield,CM,3000000.0,Leicester City,England,0.0,1
+2017,Premier League,Swansea City,winter,out,Adam King,169566,22,Scotland,Central Midfield,CM,150000.0,Mansfield Town,England,0.0,1
+2017,Premier League,Swansea City,winter,out,Jack Withers,602757,18,England,Centre-Back,CB,,Boston United,England,0.0,1
+2017,Premier League,Swansea City,winter,out,Jay Fulton,171260,23,Scotland,Central Midfield,CM,500000.0,Wigan Athletic,England,0.0,1
+2017,Premier League,Swansea City,winter,out,Roque Mesa,202984,28,Spain,Central Midfield,CM,10000000.0,Sevilla FC,Spain,0.0,1
+2017,Premier League,Swansea City,winter,out,Oli McBurnie,298477,21,Scotland,Centre-Forward,CF,1000000.0,Barnsley FC,England,0.0,1
+2017,Premier League,Tottenham Hotspur,summer,in,Davinson Sánchez,341429,21,Colombia,Centre-Back,CB,25000000.0,Ajax Amsterdam,Netherlands,42000000.0,0
+2017,Premier League,Tottenham Hotspur,summer,in,Serge Aurier,127032,24,Cote d'Ivoire,Right-Back,RB,15000000.0,Paris Saint-Germain,France,25000000.0,0
+2017,Premier League,Tottenham Hotspur,summer,in,Fernando Llorente,35564,32,Spain,Centre-Forward,CF,6000000.0,Swansea City,England,15100000.0,0
+2017,Premier League,Tottenham Hotspur,summer,in,Juan Foyth,480763,19,Argentina,Centre-Back,CB,5000000.0,Club Estudiantes de La Plata,Argentina,10500000.0,0
+2017,Premier League,Tottenham Hotspur,summer,in,Paulo Gazzaniga,195488,25,Argentina,Goalkeeper,GK,1000000.0,Southampton FC,England,,0
+2017,Premier League,Tottenham Hotspur,winter,in,Lucas Moura,77100,25,Brazil,Right Winger,RW,28000000.0,Paris Saint-Germain,France,28400000.0,0
+2017,Premier League,Tottenham Hotspur,summer,out,Kyle Walker,95424,27,England,Right-Back,RB,30000000.0,Manchester City,England,52700000.0,0
+2017,Premier League,Tottenham Hotspur,summer,out,Kevin Wimmer,122675,24,Austria,Centre-Back,CB,7000000.0,Stoke City,England,19400000.0,0
+2017,Premier League,Tottenham Hotspur,summer,out,Nabil Bentaleb,245537,22,Algeria,Defensive Midfield,DM,18000000.0,FC Schalke 04,Germany,19000000.0,0
+2017,Premier League,Tottenham Hotspur,summer,out,Clinton N'Jie,241119,23,Cameroon,Right Winger,RW,7000000.0,Olympique Marseille,France,7000000.0,0
+2017,Premier League,Tottenham Hotspur,summer,out,Federico Fazio,45314,30,Argentina,Centre-Back,CB,9000000.0,AS Roma,Italy,3200000.0,0
+2017,Premier League,Tottenham Hotspur,summer,out,Vincent Janssen,207015,23,Netherlands,Centre-Forward,CF,13000000.0,Fenerbahce,Türkiye,2500000.0,1
+2017,Premier League,Tottenham Hotspur,summer,out,Cameron Carter-Vickers,341049,19,United States,Centre-Back,CB,500000.0,Sheffield United,England,0.0,1
+2017,Premier League,Tottenham Hotspur,summer,out,Josh Onomah,243589,20,England,Central Midfield,CM,2500000.0,Aston Villa,England,0.0,1
+2017,Premier League,Tottenham Hotspur,summer,out,Pau López,286415,22,Spain,Goalkeeper,GK,1500000.0,RCD Espanyol Barcelona,Spain,0.0,1
+2017,Premier League,Tottenham Hotspur,winter,out,Cameron Carter-Vickers,341049,20,United States,Centre-Back,CB,500000.0,Ipswich Town,England,0.0,1
+2017,Premier League,Tottenham Hotspur,winter,out,Georges-Kevin N'Koudou,215679,22,Cameroon,Left Winger,LW,7000000.0,Burnley FC,England,0.0,1
+2017,Premier League,Tottenham Hotspur,winter,out,David Button,61814,18,England,Goalkeeper,GK,,Grays Athletic,England,0.0,1
+2017,Premier League,Watford FC,summer,in,Andre Gray,120565,26,Jamaica,Centre-Forward,CF,10000000.0,Burnley FC,England,20400000.0,0
+2017,Premier League,Watford FC,summer,in,Richarlison,378710,20,Brazil,Centre-Forward,CF,2000000.0,Fluminense Football Club,Brazil,12400000.0,0
+2017,Premier League,Watford FC,summer,in,Tom Cleverley,73484,27,England,Central Midfield,CM,8000000.0,Everton FC,England,9300000.0,0
+2017,Premier League,Watford FC,summer,in,Will Hughes,207014,22,England,Central Midfield,CM,8000000.0,Derby County,England,9100000.0,0
+2017,Premier League,Watford FC,summer,in,Nathaniel Chalobah,128900,22,England,Defensive Midfield,DM,5000000.0,Chelsea FC,England,6300000.0,0
+2017,Premier League,Watford FC,summer,in,Marvin Zeegelaar,92899,27,Netherlands,Left-Back,LB,3500000.0,Sporting CP,Portugal,3000000.0,0
+2017,Premier League,Watford FC,summer,in,Dimitri Foulquier,170472,24,Guadeloupe,Right-Back,RB,2000000.0,Granada CF,Spain,2000000.0,0
+2017,Premier League,Watford FC,summer,in,André Carrillo,135057,26,Peru,Central Midfield,CM,6000000.0,SL Benfica,Portugal,1000000.0,1
+2017,Premier League,Watford FC,summer,in,Jorge Segura,453575,20,Colombia,Centre-Back,CB,200000.0,Envigado FC,Colombia,0.0,0
+2017,Premier League,Watford FC,summer,in,Daniel Bachmann,120186,22,Austria,Goalkeeper,GK,250000.0,Stoke City U23,England,0.0,0
+2017,Premier League,Watford FC,summer,in,Kiko Femenía,76467,26,Spain,Right-Back,RB,4000000.0,Deportivo Alavés,Spain,0.0,0
+2017,Premier League,Watford FC,summer,in,Molla Wagué,129893,26,Mali,Centre-Back,CB,1500000.0,Udinese Calcio,Italy,0.0,1
+2017,Premier League,Watford FC,summer,in,Luis Suárez,424784,19,Colombia,Centre-Forward,CF,150000.0,Leones FC,Colombia,,0
+2017,Premier League,Watford FC,summer,in,Pervis Estupiñán,349599,19,Ecuador,Left-Back,LB,400000.0,Udinese Calcio,Italy,,0
+2017,Premier League,Watford FC,summer,in,Orestis Karnezis,16408,32,Greece,Goalkeeper,GK,4000000.0,Udinese Calcio,Italy,0.0,1
+2017,Premier League,Watford FC,winter,in,Dodi Lukébakio,303259,20,Belgium,Right Winger,RW,3000000.0,Royal Charleroi SC,Belgium,5000000.0,0
+2017,Premier League,Watford FC,winter,in,Pontus Dahlberg,365544,19,Sweden,Goalkeeper,GK,800000.0,IFK Göteborg,Sweden,3900000.0,0
+2017,Premier League,Watford FC,winter,in,Gerard Deulofeu,129476,23,Spain,Centre-Forward,CF,14000000.0,FC Barcelona,Spain,1000000.0,1
+2017,Premier League,Watford FC,winter,in,Didier Ndong,210081,23,Gabon,Defensive Midfield,DM,10000000.0,Sunderland AFC,England,0.0,1
+2017,Premier League,Watford FC,summer,out,Sven Kums,42735,29,Belgium,Central Midfield,CM,5000000.0,RSC Anderlecht,Belgium,6500000.0,0
+2017,Premier League,Watford FC,summer,out,Steven Berghuis,129554,25,Netherlands,Right Winger,RW,5500000.0,Feyenoord Rotterdam,Netherlands,6500000.0,0
+2017,Premier League,Watford FC,summer,out,Uche Agbo,262689,21,Nigeria,Defensive Midfield,DM,3000000.0,Standard Liège,Belgium,2500000.0,0
+2017,Premier League,Watford FC,summer,out,Valon Behrami,21905,32,Switzerland,Central Midfield,CM,2500000.0,Udinese Calcio,Italy,2000000.0,0
+2017,Premier League,Watford FC,summer,out,Juanfran Moreno,64411,28,Spain,Right-Back,RB,5000000.0,Deportivo de La Coruña,Spain,1000000.0,0
+2017,Premier League,Watford FC,summer,out,Giedrius Arlauskis,69001,29,Lithuania,Goalkeeper,GK,1000000.0,CFR Cluj,Romania,0.0,0
+2017,Premier League,Watford FC,summer,out,Mathias Ranégie,46477,33,Sweden,Centre-Forward,CF,400000.0,BK Häcken,Sweden,0.0,0
+2017,Premier League,Watford FC,summer,out,Rene Gilmartin,66518,30,Ireland,Goalkeeper,GK,250000.0,Colchester United,England,0.0,0
+2017,Premier League,Watford FC,summer,out,Juan Carlos Paredes,100507,30,Ecuador,Defensive Midfield,DM,1750000.0,CS Emelec,Ecuador,0.0,0
+2017,Premier League,Watford FC,summer,out,Mauro Zárate,26456,30,Argentina,Centre-Forward,CF,2000000.0,Al-Nasr SC (UAE),United Arab Emirates,0.0,1
+2017,Premier League,Watford FC,summer,out,Luis Suárez,424784,19,Colombia,Centre-Forward,CF,150000.0,Real Valladolid B,Spain,0.0,1
+2017,Premier League,Watford FC,summer,out,Mario Suárez,37337,30,Spain,Defensive Midfield,DM,6000000.0,Guizhou Hengfeng,China,,0
+2017,Premier League,Watford FC,summer,out,Obbi Oulare,314959,21,Belgium,Centre-Forward,CF,2000000.0,Royal Antwerp FC,Belgium,0.0,1
+2017,Premier League,Watford FC,summer,out,Pervis Estupiñán,349599,19,Ecuador,Left-Back,LB,400000.0,UD Almería,Spain,0.0,1
+2017,Premier League,Watford FC,summer,out,Dimitri Foulquier,170472,24,Guadeloupe,Right-Back,RB,2000000.0,RC Strasbourg Alsace,France,0.0,1
+2017,Premier League,Watford FC,summer,out,Jorge Segura,453575,20,Colombia,Centre-Back,CB,200000.0,Real Valladolid B,Spain,0.0,1
+2017,Premier League,Watford FC,summer,out,Costel Pantilimon,47659,30,Romania,Goalkeeper,GK,3000000.0,Deportivo de La Coruña,Spain,0.0,1
+2017,Premier League,Watford FC,summer,out,Nordin Amrabat,55619,30,Morocco,Right Winger,RW,4500000.0,CD Leganés,Spain,0.0,1
+2017,Premier League,Watford FC,summer,out,Cucho Hernández,459463,18,Colombia,Centre-Forward,CF,450000.0,SD Huesca,Spain,0.0,1
+2017,Premier League,Watford FC,summer,out,M'Baye Niang,157501,22,Senegal,Centre-Forward,CF,15000000.0,AC Milan,Italy,0.0,1
+2017,Premier League,Watford FC,summer,out,Tom Cleverley,73484,27,England,Central Midfield,CM,8000000.0,Everton FC,England,0.0,1
+2017,Premier League,Watford FC,summer,out,Camilo Zúñiga,37941,31,Colombia,Left Midfield,LM,1500000.0,SSC Napoli,Italy,0.0,1
+2017,Premier League,Watford FC,summer,out,Didier Ndong,210081,23,Gabon,Defensive Midfield,DM,8000000.0,Sunderland AFC,England,0.0,1
+2017,Premier League,Watford FC,winter,out,Mauro Zárate,26456,30,Argentina,Centre-Forward,CF,1800000.0,CA Vélez Sarsfield,Argentina,240000.0,1
+2017,Premier League,Watford FC,winter,out,Ben Watson,14081,32,England,Central Midfield,CM,1000000.0,Nottingham Forest,England,0.0,0
+2017,Premier League,Watford FC,winter,out,Pontus Dahlberg,365544,19,Sweden,Goalkeeper,GK,800000.0,IFK Göteborg,Sweden,0.0,1
+2017,Premier League,Watford FC,winter,out,Brice Dja Djedje,93690,27,Cote d'Ivoire,Defensive Midfield,DM,2000000.0,RC Lens,France,0.0,1
+2017,Premier League,Watford FC,winter,out,Isaac Success,295331,22,Nigeria,Centre-Forward,CF,4000000.0,Málaga CF,Spain,0.0,1
+2017,Premier League,Watford FC,winter,out,Costel Pantilimon,47659,30,Romania,Goalkeeper,GK,1500000.0,Nottingham Forest,England,0.0,1
+2017,Premier League,Watford FC,winter,out,Jorge Segura,453575,21,Colombia,Centre-Back,CB,200000.0,Independiente Medellín,Colombia,0.0,1
+2017,Premier League,West Bromwich Albion,summer,in,Oliver Burke,341317,20,Scotland,Centre-Forward,CF,7000000.0,RB Leipzig,Germany,15200000.0,0
+2017,Premier League,West Bromwich Albion,summer,in,Jay Rodríguez,53360,27,England,Centre-Forward,CF,10000000.0,Southampton FC,England,13700000.0,0
+2017,Premier League,West Bromwich Albion,summer,in,Kieran Gibbs,44792,27,England,Left-Back,LB,10000000.0,Arsenal FC,England,7500000.0,0
+2017,Premier League,West Bromwich Albion,summer,in,Yuning Zhang,264429,20,China,Centre-Forward,CF,700000.0,Vitesse Arnhem,Netherlands,7200000.0,0
+2017,Premier League,West Bromwich Albion,summer,in,Gareth Barry,3291,36,England,Defensive Midfield,DM,1500000.0,Everton FC,England,1100000.0,0
+2017,Premier League,West Bromwich Albion,summer,in,Ahmed Hegazy,111524,26,Egypt,Centre-Back,CB,1000000.0,Al Ahly FC,Egypt,1000000.0,1
+2017,Premier League,West Bromwich Albion,summer,in,Grzegorz Krychowiak,45184,27,Poland,Defensive Midfield,DM,25000000.0,Paris Saint-Germain,France,0.0,1
+2017,Premier League,West Bromwich Albion,winter,in,Ahmed Hegazy,111524,26,Egypt,Centre-Back,CB,3000000.0,Al Ahly FC,Egypt,5000000.0,0
+2017,Premier League,West Bromwich Albion,winter,in,Daniel Sturridge,47082,28,England,Centre-Forward,CF,20000000.0,Liverpool FC,England,2300000.0,1
+2017,Premier League,West Bromwich Albion,winter,in,Ali Gabr,122980,29,Egypt,Centre-Back,CB,1200000.0,Zamalek SC,Egypt,500000.0,1
+2017,Premier League,West Bromwich Albion,summer,out,Craig Gardner,37171,30,England,Central Midfield,CM,3500000.0,Birmingham City,England,1750000.0,0
+2017,Premier League,West Bromwich Albion,summer,out,Yuning Zhang,264429,20,China,Centre-Forward,CF,700000.0,SV Werder Bremen,Germany,300000.0,1
+2017,Premier League,West Bromwich Albion,summer,out,Darren Fletcher,3547,33,Scotland,Central Midfield,CM,2000000.0,Stoke City,England,0.0,0
+2017,Premier League,West Bromwich Albion,summer,out,Sébastien Pocognoli,17804,29,Belgium,Left-Back,LB,750000.0,Standard Liège,Belgium,0.0,0
+2017,Premier League,West Bromwich Albion,summer,out,Callum McManaman,61711,26,England,Right Winger,RW,3500000.0,Sunderland AFC,England,0.0,0
+2017,Premier League,West Bromwich Albion,summer,out,Kyle Howkins,261297,21,England,Centre-Back,CB,,Cambridge United,England,0.0,1
+2017,Premier League,West Bromwich Albion,summer,out,Kyle Edwards,314366,19,England,Left Winger,LW,,Exeter City,England,0.0,1
+2017,Premier League,West Bromwich Albion,summer,out,Jonathan Leko,314266,18,England,Right Winger,RW,1500000.0,Bristol City,England,0.0,1
+2017,Premier League,West Bromwich Albion,summer,out,Daniel Sturridge,47082,28,England,Centre-Forward,CF,15000000.0,Liverpool FC,England,0.0,1
+2017,Premier League,West Bromwich Albion,winter,out,Kyle Howkins,261297,21,England,Centre-Back,CB,,Port Vale FC,England,0.0,1
+2017,Premier League,West Bromwich Albion,winter,out,Ahmed Hegazy,111524,26,Egypt,Centre-Back,CB,3000000.0,Al Ahly FC,Egypt,0.0,1
+2017,Premier League,West Ham United,summer,in,Marko Arnautovic,41384,28,Austria,Centre-Forward,CF,15000000.0,Stoke City,England,22300000.0,0
+2017,Premier League,West Ham United,summer,in,Chicharito,50935,29,Mexico,Centre-Forward,CF,18000000.0,Bayer 04 Leverkusen,Germany,17800000.0,0
+2017,Premier League,West Ham United,summer,in,Sead Haksabanovic,349300,18,Montenegro,Left Winger,LW,400000.0,Halmstads BK,Sweden,3000000.0,0
+2017,Premier League,West Ham United,summer,in,Joe Hart,40204,30,England,Goalkeeper,GK,13000000.0,Manchester City,England,2300000.0,1
+2017,Premier League,West Ham United,summer,in,Pablo Zabaleta,20007,32,Argentina,Right-Back,RB,7000000.0,Manchester City,England,0.0,0
+2017,Premier League,West Ham United,winter,in,Jordan Hugill,291544,25,England,Centre-Forward,CF,3000000.0,Preston North End,England,10200000.0,0
+2017,Premier League,West Ham United,winter,in,João Mário,149729,25,Portugal,Left Winger,LW,26000000.0,Inter Milan,Italy,1200000.0,1
+2017,Premier League,West Ham United,winter,in,Patrice Evra,5285,36,France,Left-Back,LB,1000000.0,Without Club,,,0
+2017,Premier League,West Ham United,summer,out,Håvard Nordtveit,42234,27,Norway,Defensive Midfield,DM,5000000.0,TSG 1899 Hoffenheim,Germany,8000000.0,0
+2017,Premier League,West Ham United,summer,out,Ashley Fletcher,289846,21,England,Centre-Forward,CF,1000000.0,Middlesbrough FC,England,7300000.0,0
+2017,Premier League,West Ham United,summer,out,Darren Randolph,51321,30,Ireland,Goalkeeper,GK,2500000.0,Middlesbrough FC,England,5600000.0,0
+2017,Premier League,West Ham United,summer,out,Enner Valencia,139503,27,Ecuador,Centre-Forward,CF,10000000.0,Tigres UANL,Mexico,5500000.0,0
+2017,Premier League,West Ham United,summer,out,Sofiane Feghouli,57162,27,Algeria,Attacking Midfield,AM,12000000.0,Galatasaray,Türkiye,4250000.0,0
+2017,Premier League,West Ham United,summer,out,Raphael Spiegel,111428,24,Switzerland,Goalkeeper,GK,500000.0,Boavista FC,Portugal,0.0,0
+2017,Premier League,West Ham United,summer,out,Stephen Hendrie,186269,22,Scotland,Left-Back,LB,750000.0,Southend United,England,0.0,0
+2017,Premier League,West Ham United,summer,out,Josh Cullen,242606,21,Ireland,Central Midfield,CM,500000.0,Bolton Wanderers,England,0.0,1
+2017,Premier League,West Ham United,summer,out,Reece Burke,264220,20,England,Centre-Back,CB,1000000.0,Bolton Wanderers,England,0.0,1
+2017,Premier League,West Ham United,summer,out,Reece Oxford,314295,18,England,Centre-Back,CB,5000000.0,Borussia Mönchengladbach,Germany,0.0,1
+2017,Premier League,West Ham United,summer,out,Robert Snodgrass,22614,29,Scotland,Right Winger,RW,8000000.0,Aston Villa,England,0.0,1
+2017,Premier League,West Ham United,summer,out,Jaanai Gordon,207009,21,England,Centre-Forward,CF,,Without Club,,,0
+2017,Premier League,West Ham United,summer,out,Djair Parfitt,345961,20,Bermuda,Left Winger,LW,,Without Club,,,0
+2017,Premier League,West Ham United,summer,out,Sam Westley,258311,23,England,Right-Back,RB,,Retired,,,0
+2017,Premier League,West Ham United,summer,out,Álvaro Arbeloa,28260,34,Spain,Right-Back,RB,1500000.0,Retired,,,0
+2017,Premier League,West Ham United,summer,out,Joe Hart,40204,31,England,Goalkeeper,GK,10000000.0,Manchester City,England,0.0,1
+2017,Premier League,West Ham United,summer,out,Jonathan Calleri,284727,23,Argentina,Centre-Forward,CF,8000000.0,Club Deportivo Maldonado,Uruguay,0.0,1
+2017,Premier League,West Ham United,summer,out,Gökhan Töre,82130,25,Türkiye,Right Winger,RW,12000000.0,Besiktas JK,Türkiye,0.0,1
+2017,Premier League,West Ham United,winter,out,André Ayew,45403,28,Ghana,Centre-Forward,CF,18000000.0,Swansea City,England,22800000.0,0
+2017,Premier League,West Ham United,winter,out,José Fonte,33829,34,Portugal,Centre-Back,CB,5000000.0,Dalian Yifang,China,5570000.0,0
+2017,Premier League,West Ham United,winter,out,Diafra Sakho,120610,28,Senegal,Centre-Forward,CF,8000000.0,Stade Rennais FC,France,5000000.0,0
+2017,Premier League,West Ham United,winter,out,Reece Oxford,314295,19,England,Centre-Back,CB,5000000.0,Borussia Mönchengladbach,Germany,0.0,1
+2017,Premier League,West Ham United,winter,out,Moses Makasi,242644,22,England,Central Midfield,CM,,Plymouth Argyle,England,0.0,1
+2017,Premier League,West Ham United,winter,out,Reece Burke,264220,21,England,Centre-Back,CB,1000000.0,Bolton Wanderers,England,0.0,1
+2017,Premier League,West Ham United,winter,out,Doneil Henry,157907,24,Canada,Centre-Back,CB,400000.0,Without Club,,,0

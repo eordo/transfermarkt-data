@@ -1,0 +1,653 @@
+season,league,club,window,movement,player_name,player_id,age,nationality,position,pos,market_value,dealing_club,dealing_country,fee,is_loan
+2009,Premier League,Arsenal FC,summer,in,Thomas Vermaelen,15904,23,Belgium,Centre-Back,CB,6000000.0,Ajax Amsterdam,Netherlands,12000000.0,0
+2009,Premier League,Arsenal FC,winter,in,Sol Campbell,3198,35,England,Centre-Back,CB,1500000.0,Without Club,,,0
+2009,Premier League,Arsenal FC,summer,out,Emmanuel Adebayor,8883,25,Togo,Centre-Forward,CF,25000000.0,Manchester City,England,29000000.0,0
+2009,Premier League,Arsenal FC,summer,out,Kolo Touré,3202,28,Cote d'Ivoire,Centre-Back,CB,21000000.0,Manchester City,England,18700000.0,0
+2009,Premier League,Arsenal FC,summer,out,Amaury Bischoff,32950,22,Portugal,Central Midfield,CM,400000.0,Académica Coimbra,Portugal,0.0,0
+2009,Premier League,Arsenal FC,summer,out,Pedro Botelho,26239,19,Brazil,Left-Back,LB,500000.0,Celta de Vigo,Spain,0.0,1
+2009,Premier League,Arsenal FC,summer,out,Jay Emmanuel-Thomas,27969,18,England,Attacking Midfield,AM,,Blackpool FC,England,0.0,1
+2009,Premier League,Arsenal FC,summer,out,Henri Lansbury,44794,18,England,Central Midfield,CM,100000.0,Watford FC,England,0.0,1
+2009,Premier League,Arsenal FC,summer,out,Gavin Hoyte,44793,19,Trinidad and Tobago,Right-Back,RB,50000.0,Brighton & Hove Albion,England,0.0,1
+2009,Premier League,Arsenal FC,winter,out,Wojciech Szczesny,44058,19,Poland,Goalkeeper,GK,50000.0,Brentford FC,England,0.0,1
+2009,Premier League,Arsenal FC,winter,out,Kerrea Gilbert,34562,22,England,Right-Back,RB,300000.0,Peterborough United,England,0.0,1
+2009,Premier League,Arsenal FC,winter,out,Philippe Senderos,4277,24,Switzerland,Centre-Back,CB,3000000.0,Everton FC,England,0.0,1
+2009,Premier League,Arsenal FC,winter,out,Jack Wilshere,74223,18,England,Central Midfield,CM,3000000.0,Bolton Wanderers,England,0.0,1
+2009,Premier League,Arsenal FC,winter,out,Jay Emmanuel-Thomas,27969,19,England,Attacking Midfield,AM,300000.0,Doncaster Rovers,England,0.0,1
+2009,Premier League,Arsenal FC,winter,out,Mark Randall,44799,20,England,Central Midfield,CM,250000.0,Milton Keynes Dons,England,0.0,1
+2009,Premier League,Aston Villa,summer,in,Stewart Downing,4063,24,England,Left Midfield,LM,11000000.0,Middlesbrough FC,England,13000000.0,0
+2009,Premier League,Aston Villa,summer,in,Fabian Delph,50362,19,England,Central Midfield,CM,100000.0,Leeds United,England,9500000.0,0
+2009,Premier League,Aston Villa,summer,in,Stephen Warnock,3308,27,England,Left-Back,LB,5100000.0,Blackburn Rovers,England,9000000.0,0
+2009,Premier League,Aston Villa,summer,in,Richard Dunne,3807,29,Ireland,Centre-Back,CB,9500000.0,Manchester City,England,6800000.0,0
+2009,Premier League,Aston Villa,summer,in,James Collins,12691,26,Wales,Centre-Back,CB,2000000.0,West Ham United,England,5700000.0,0
+2009,Premier League,Aston Villa,summer,in,Habib Beye,3923,31,Senegal,Right-Back,RB,4600000.0,Newcastle United,England,2900000.0,0
+2009,Premier League,Aston Villa,summer,in,Andy Marshall,13249,34,England,Goalkeeper,GK,500000.0,Coventry City,England,0.0,0
+2009,Premier League,Aston Villa,summer,out,Gareth Barry,3291,28,England,Defensive Midfield,DM,18500000.0,Manchester City,England,13900000.0,0
+2009,Premier League,Aston Villa,summer,out,Zat Knight,4012,29,England,Centre-Back,CB,5000000.0,Bolton Wanderers,England,4700000.0,0
+2009,Premier League,Aston Villa,summer,out,Stuart Taylor,3190,28,England,Goalkeeper,GK,700000.0,Manchester City,England,0.0,0
+2009,Premier League,Aston Villa,summer,out,Sam Williams,45554,22,England,Centre-Forward,CF,,Yeovil Town,England,0.0,0
+2009,Premier League,Aston Villa,summer,out,Shane Lowry,61576,20,Australia,Centre-Back,CB,,Plymouth Argyle,England,0.0,1
+2009,Premier League,Aston Villa,summer,out,Marlon Harewood,10011,30,England,Centre-Forward,CF,2200000.0,Newcastle United,England,0.0,1
+2009,Premier League,Aston Villa,summer,out,Eric Lichaj,61575,20,United States,Right-Back,RB,,Lincoln City,England,0.0,1
+2009,Premier League,Aston Villa,summer,out,David Bevan,61563,20,Ireland,Goalkeeper,GK,,Ilkeston Town (- 2010),England,0.0,1
+2009,Premier League,Aston Villa,summer,out,Martin Laursen,3503,31,Denmark,Centre-Back,CB,,Retired,,,0
+2009,Premier League,Aston Villa,winter,out,Craig Gardner,37171,23,England,Central Midfield,CM,2000000.0,Birmingham City,England,3500000.0,0
+2009,Premier League,Aston Villa,winter,out,Isaiah Osbourne,45276,22,England,Central Midfield,CM,500000.0,Middlesbrough FC,England,0.0,1
+2009,Premier League,Aston Villa,winter,out,Jonathan Hogg,61573,20,England,Defensive Midfield,DM,,Darlington FC (- 2012),England,0.0,1
+2009,Premier League,Aston Villa,winter,out,Nicky Shorey,13426,28,England,Left-Back,LB,5500000.0,Nottingham Forest,England,0.0,1
+2009,Premier League,Aston Villa,winter,out,Nicky Shorey,13426,28,England,Left-Back,LB,4000000.0,Fulham FC,England,0.0,1
+2009,Premier League,Aston Villa,winter,out,Shane Lowry,61576,20,Australia,Centre-Back,CB,,Leeds United,England,0.0,1
+2009,Premier League,Aston Villa,winter,out,Eric Lichaj,61575,21,United States,Right-Back,RB,,Leyton Orient,England,0.0,1
+2009,Premier League,Birmingham City,summer,in,Roger Johnson,42751,26,England,Centre-Back,CB,2000000.0,Cardiff City,England,5900000.0,0
+2009,Premier League,Birmingham City,summer,in,Scott Dann,62688,22,England,Centre-Back,CB,750000.0,Coventry City,England,4000000.0,0
+2009,Premier League,Birmingham City,summer,in,Barry Ferguson,10251,31,Scotland,Defensive Midfield,DM,7000000.0,Rangers FC,Scotland,1200000.0,0
+2009,Premier League,Birmingham City,summer,in,Joe Hart,40204,22,England,Goalkeeper,GK,6500000.0,Manchester City,England,1150000.0,1
+2009,Premier League,Birmingham City,summer,in,Christian Benítez,30916,23,Ecuador,Centre-Forward,CF,6250000.0,Santos Laguna,Mexico,900000.0,1
+2009,Premier League,Birmingham City,summer,in,Jay O'Shea,68327,20,Ireland,Central Midfield,CM,,Galway United FC,Ireland,100000.0,0
+2009,Premier League,Birmingham City,summer,in,Grégory Vignal,4755,28,France,Left-Back,LB,600000.0,RC Lens,France,0.0,0
+2009,Premier League,Birmingham City,summer,in,Lee Bowyer,3877,32,England,Central Midfield,CM,2000000.0,West Ham United,England,0.0,0
+2009,Premier League,Birmingham City,summer,in,Teemu Tainio,4741,29,Finland,Defensive Midfield,DM,2800000.0,Sunderland AFC,England,0.0,1
+2009,Premier League,Birmingham City,summer,in,Giovanny Espinoza,28079,32,Ecuador,Centre-Back,CB,1000000.0,Deportivo del Valle,Ecuador,0.0,1
+2009,Premier League,Birmingham City,winter,in,Craig Gardner,37171,23,England,Central Midfield,CM,2000000.0,Aston Villa,England,3500000.0,0
+2009,Premier League,Birmingham City,winter,in,Míchel Madera,57818,24,Spain,Central Midfield,CM,3000000.0,Sporting Gijón,Spain,3300000.0,0
+2009,Premier League,Birmingham City,summer,out,Mehdi Nafti,7862,30,Tunisia,Defensive Midfield,DM,1250000.0,Aris Thessaloniki,Greece,0.0,0
+2009,Premier League,Birmingham City,summer,out,Stephen Kelly,12125,25,Ireland,Right-Back,RB,900000.0,Fulham FC,England,0.0,0
+2009,Premier League,Birmingham City,summer,out,Radhi Jaïdi,19310,33,Tunisia,Centre-Back,CB,1500000.0,Southampton FC,England,0.0,0
+2009,Premier League,Birmingham City,summer,out,James O'Brien,123680,19,Ireland,Central Midfield,CM,,Bradford City,England,0.0,0
+2009,Premier League,Birmingham City,summer,out,Michael McKerr,103851,19,Northern Ireland,Right-Back,RB,,Oldham Athletic,England,0.0,0
+2009,Premier League,Birmingham City,summer,out,Semih Aydilek,49644,20,Germany,Centre-Forward,CF,200000.0,Kayserispor,Türkiye,0.0,0
+2009,Premier League,Birmingham City,summer,out,Artur Krysiak,44054,19,Poland,Goalkeeper,GK,100000.0,Burton Albion,England,0.0,1
+2009,Premier League,Birmingham City,summer,out,Krystian Pearce,62331,19,Barbados,Centre-Back,CB,100000.0,Peterborough United,England,0.0,1
+2009,Premier League,Birmingham City,summer,out,Robin Shroot,94696,21,Northern Ireland,Attacking Midfield,AM,50000.0,Burton Albion,England,0.0,1
+2009,Premier League,Birmingham City,summer,out,Marcus Bent,9958,31,England,Centre-Forward,CF,2250000.0,Middlesbrough FC,England,0.0,1
+2009,Premier League,Birmingham City,summer,out,Djimi Traoré,3598,29,Mali,Centre-Back,CB,2000000.0,Portsmouth FC,England,0.0,1
+2009,Premier League,Birmingham City,summer,out,Carlo Costly,46845,26,Honduras,Centre-Forward,CF,800000.0,GKS Belchatow,Poland,0.0,1
+2009,Premier League,Birmingham City,summer,out,Teemu Tainio,4741,30,Finland,Defensive Midfield,DM,2500000.0,Sunderland AFC,England,0.0,1
+2009,Premier League,Birmingham City,summer,out,Joe Hart,40204,23,England,Goalkeeper,GK,7000000.0,Manchester City,England,0.0,1
+2009,Premier League,Birmingham City,summer,out,Kemy Agustien,24862,22,Curacao,Central Midfield,CM,1000000.0,AZ Alkmaar,Netherlands,0.0,1
+2009,Premier League,Birmingham City,winter,out,Krystian Pearce,62331,20,Barbados,Centre-Back,CB,150000.0,Huddersfield Town,England,400000.0,0
+2009,Premier League,Birmingham City,winter,out,Martin Taylor,3822,30,England,Centre-Back,CB,1000000.0,Watford FC,England,0.0,0
+2009,Premier League,Birmingham City,winter,out,Damien Johnson,3940,31,Northern Ireland,Central Midfield,CM,1000000.0,Plymouth Argyle,England,0.0,0
+2009,Premier League,Birmingham City,winter,out,Jordon Mutch,57207,17,England,Central Midfield,CM,300000.0,Hereford United (- 2014),England,0.0,1
+2009,Premier League,Birmingham City,winter,out,Jordon Mutch,57207,18,England,Central Midfield,CM,300000.0,Doncaster Rovers,England,0.0,1
+2009,Premier League,Birmingham City,winter,out,Gary McSheffrey,25383,27,England,Left Winger,LW,1750000.0,Leeds United,England,0.0,1
+2009,Premier League,Birmingham City,winter,out,Marcus Bent,9958,31,England,Centre-Forward,CF,1500000.0,Queens Park Rangers,England,0.0,1
+2009,Premier League,Birmingham City,winter,out,Jake Jervis,129074,18,England,Centre-Forward,CF,,Hereford United (- 2014),England,0.0,1
+2009,Premier League,Birmingham City,winter,out,Franck Queudrue,3711,31,France,Left-Back,LB,1500000.0,Colchester United,England,0.0,1
+2009,Premier League,Birmingham City,winter,out,Jay O'Shea,68327,21,Ireland,Central Midfield,CM,700000.0,Middlesbrough FC,England,0.0,1
+2009,Premier League,Birmingham City,winter,out,Dan Preston,128411,18,England,Centre-Back,CB,100000.0,Hereford United (- 2014),England,0.0,1
+2009,Premier League,Birmingham City,winter,out,Giovanny Espinoza,28079,32,Ecuador,Centre-Back,CB,1000000.0,Deportivo del Valle,Ecuador,0.0,1
+2009,Premier League,Blackburn Rovers,summer,in,Nikola Kalinić,36371,21,Croatia,Centre-Forward,CF,6000000.0,HNK Hajduk Split,Croatia,7000000.0,0
+2009,Premier League,Blackburn Rovers,summer,in,Gaël Givet,5286,27,France,Centre-Back,CB,2700000.0,Olympique Marseille,France,4000000.0,0
+2009,Premier League,Blackburn Rovers,summer,in,Pascal Chimbonda,18875,30,Guadeloupe,Right-Back,RB,5000000.0,Tottenham Hotspur,England,1700000.0,0
+2009,Premier League,Blackburn Rovers,summer,in,Steven Nzonzi,73734,20,France,Defensive Midfield,DM,700000.0,Amiens SC,France,580000.0,0
+2009,Premier League,Blackburn Rovers,summer,in,Elrio van Heerden,14920,25,South Africa,Attacking Midfield,AM,1750000.0,Club Brugge KV,Belgium,0.0,0
+2009,Premier League,Blackburn Rovers,summer,in,Lars Jacobsen,1423,29,Denmark,Right-Back,RB,1500000.0,Everton FC,England,0.0,0
+2009,Premier League,Blackburn Rovers,summer,in,Míchel Salgado,7515,33,Spain,Right-Back,RB,1800000.0,Real Madrid,Spain,0.0,0
+2009,Premier League,Blackburn Rovers,summer,in,Franco Di Santo,59783,20,Argentina,Centre-Forward,CF,2300000.0,Chelsea FC,England,0.0,1
+2009,Premier League,Blackburn Rovers,winter,in,Yıldıray Baştürk,618,31,Türkiye,Attacking Midfield,AM,2000000.0,VfB Stuttgart,Germany,0.0,0
+2009,Premier League,Blackburn Rovers,winter,in,Amine Linganzi,88596,20,Congo,Central Midfield,CM,150000.0,AS Saint-Étienne,France,0.0,0
+2009,Premier League,Blackburn Rovers,summer,out,Roque Santa Cruz,215,27,Paraguay,Centre-Forward,CF,10000000.0,Manchester City,England,21200000.0,0
+2009,Premier League,Blackburn Rovers,summer,out,Stephen Warnock,3308,27,England,Left-Back,LB,5100000.0,Aston Villa,England,9000000.0,0
+2009,Premier League,Blackburn Rovers,summer,out,Matt Derbyshire,15175,23,England,Centre-Forward,CF,3500000.0,Olympiacos Piraeus,Greece,3000000.0,0
+2009,Premier League,Blackburn Rovers,summer,out,Paul Gallagher,10501,24,Scotland,Central Midfield,CM,1750000.0,Leicester City,England,850000.0,0
+2009,Premier League,Blackburn Rovers,summer,out,Bryan Hodge,48106,21,Scotland,Central Midfield,CM,50000.0,Partick Thistle FC,Scotland,0.0,0
+2009,Premier League,Blackburn Rovers,summer,out,Andreas Arestidou,120570,19,England,Goalkeeper,GK,,Shrewsbury Town,England,0.0,0
+2009,Premier League,Blackburn Rovers,summer,out,Aaron Mokoena,4756,28,South Africa,Centre-Back,CB,1800000.0,Portsmouth FC,England,0.0,0
+2009,Premier League,Blackburn Rovers,summer,out,André Ooijer,4345,34,Netherlands,Centre-Back,CB,2300000.0,PSV Eindhoven,Netherlands,0.0,0
+2009,Premier League,Blackburn Rovers,summer,out,Jon Bateson,106365,19,England,Right-Back,RB,,Bradford City,England,0.0,0
+2009,Premier League,Blackburn Rovers,summer,out,Keith Treacy,57064,20,Ireland,Left Midfield,LM,700000.0,Sheffield United,England,0.0,1
+2009,Premier League,Blackburn Rovers,summer,out,Frank Fielding,57070,21,England,Goalkeeper,GK,300000.0,Leeds United,England,0.0,1
+2009,Premier League,Blackburn Rovers,summer,out,Zurab Khizanishvili,9621,27,Georgia,Centre-Back,CB,1300000.0,Newcastle United,England,0.0,1
+2009,Premier League,Blackburn Rovers,summer,out,Aaron Doran,96148,18,Ireland,Right Midfield,RM,50000.0,Milton Keynes Dons,England,0.0,1
+2009,Premier League,Blackburn Rovers,summer,out,Johnny Flynn,70206,19,Northern Ireland,Centre-Back,CB,,Chester City (- 2010),England,0.0,1
+2009,Premier League,Blackburn Rovers,summer,out,Nick Blackman,67369,19,Barbados,Centre-Forward,CF,150000.0,Oldham Athletic,England,0.0,1
+2009,Premier League,Blackburn Rovers,summer,out,Alex Marrow,117999,19,England,Central Midfield,CM,,Oldham Athletic,England,0.0,1
+2009,Premier League,Blackburn Rovers,summer,out,Mark Bunn,49319,24,England,Goalkeeper,GK,150000.0,Sheffield United,England,0.0,1
+2009,Premier League,Blackburn Rovers,summer,out,Gavin Gunning,38083,18,Ireland,Centre-Back,CB,,Tranmere Rovers,England,0.0,1
+2009,Premier League,Blackburn Rovers,summer,out,Tugay Kerimoğlu,3703,38,Türkiye,Defensive Midfield,DM,,Retired,,,0
+2009,Premier League,Blackburn Rovers,summer,out,Franco Di Santo,59783,21,Argentina,Centre-Forward,CF,2500000.0,Chelsea FC,England,0.0,1
+2009,Premier League,Blackburn Rovers,summer,out,Carlos Villanueva,53164,23,Chile,Attacking Midfield,AM,1900000.0,Audax Italiano,Chile,0.0,1
+2009,Premier League,Blackburn Rovers,summer,out,Gaël Givet,5286,27,France,Centre-Back,CB,2700000.0,Olympique Marseille,France,0.0,1
+2009,Premier League,Blackburn Rovers,winter,out,Benni McCarthy,3091,32,South Africa,Centre-Forward,CF,5500000.0,West Ham United,England,2600000.0,0
+2009,Premier League,Blackburn Rovers,winter,out,Gearoid Morrissey,114106,18,Ireland,Central Midfield,CM,,Cork City FC,Ireland,0.0,0
+2009,Premier League,Blackburn Rovers,winter,out,Andy Haworth,65416,20,England,Right Midfield,RM,,Gateshead FC,England,0.0,1
+2009,Premier League,Blackburn Rovers,winter,out,Steven Reid,7330,28,Ireland,Right-Back,RB,3500000.0,Queens Park Rangers,England,0.0,1
+2009,Premier League,Blackburn Rovers,winter,out,Johnny Flynn,70206,19,Northern Ireland,Centre-Back,CB,,Accrington Stanley,England,0.0,1
+2009,Premier League,Blackburn Rovers,winter,out,Elrio van Heerden,14920,26,South Africa,Attacking Midfield,AM,1750000.0,Sivasspor,Türkiye,0.0,1
+2009,Premier League,Blackburn Rovers,winter,out,Gavin Gunning,38083,18,Ireland,Centre-Back,CB,50000.0,Rotherham United,England,0.0,1
+2009,Premier League,Blackburn Rovers,winter,out,Zurab Khizanishvili,9621,28,Georgia,Centre-Back,CB,1000000.0,Reading FC,England,0.0,1
+2009,Premier League,Blackburn Rovers,winter,out,Andy Haworth,65416,21,England,Right Midfield,RM,,Rochdale AFC,England,0.0,1
+2009,Premier League,Blackburn Rovers,winter,out,Steven Reid,7330,28,Ireland,Right-Back,RB,3000000.0,West Bromwich Albion,England,0.0,1
+2009,Premier League,Blackburn Rovers,winter,out,Aaron Doran,96148,18,Ireland,Right Midfield,RM,50000.0,Leyton Orient,England,0.0,1
+2009,Premier League,Blackburn Rovers,winter,out,Frank Fielding,57070,21,England,Goalkeeper,GK,250000.0,Rochdale AFC,England,0.0,1
+2009,Premier League,Blackburn Rovers,winter,out,Keith Treacy,57064,21,Ireland,Left Midfield,LM,750000.0,Preston North End,England,,0
+2009,Premier League,Bolton Wanderers,summer,in,Zat Knight,4012,29,England,Centre-Back,CB,5000000.0,Aston Villa,England,4700000.0,0
+2009,Premier League,Bolton Wanderers,summer,in,Chung-yong Lee,81801,21,"Korea, South",Right Winger,RW,2000000.0,FC Seoul,"Korea, South",2500000.0,0
+2009,Premier League,Bolton Wanderers,summer,in,Sam Ricketts,30434,27,Wales,Right-Back,RB,2700000.0,Hull City,England,2400000.0,0
+2009,Premier League,Bolton Wanderers,summer,in,Mark Connolly,128285,17,Ireland,Centre-Back,CB,,Wolverhampton Wanderers U18,England,1200000.0,0
+2009,Premier League,Bolton Wanderers,summer,in,Sean Davis,4036,29,England,Defensive Midfield,DM,5000000.0,Portsmouth FC,England,0.0,0
+2009,Premier League,Bolton Wanderers,summer,in,Paul Robinson,14063,30,England,Left-Back,LB,2300000.0,West Bromwich Albion,England,0.0,1
+2009,Premier League,Bolton Wanderers,summer,in,Ivan Klasnic,690,29,Croatia,Centre-Forward,CF,3200000.0,FC Nantes,France,0.0,1
+2009,Premier League,Bolton Wanderers,winter,in,Paul Robinson,14063,31,England,Left-Back,LB,2500000.0,West Bromwich Albion,England,1200000.0,0
+2009,Premier League,Bolton Wanderers,winter,in,Stuart Holden,30071,24,United States,Central Midfield,CM,175000.0,Houston Dynamo,United States,0.0,0
+2009,Premier League,Bolton Wanderers,winter,in,Vladimír Weiss,92701,20,Slovakia,Left Winger,LW,1500000.0,Manchester City,England,0.0,1
+2009,Premier League,Bolton Wanderers,winter,in,Jack Wilshere,74223,18,England,Central Midfield,CM,3000000.0,Arsenal FC,England,0.0,1
+2009,Premier League,Bolton Wanderers,summer,out,Blerim Dzemaili,9967,23,Switzerland,Central Midfield,CM,2200000.0,Torino FC,Italy,2000000.0,0
+2009,Premier League,Bolton Wanderers,summer,out,Tope Obadeyi,65692,19,England,Centre-Forward,CF,200000.0,Swindon Town,England,0.0,1
+2009,Premier League,Bolton Wanderers,summer,out,Ádám Bogdán,55247,21,Hungary,Goalkeeper,GK,50000.0,Crewe Alexandra,England,0.0,1
+2009,Premier League,Bolton Wanderers,summer,out,Sam Sheridan,65694,19,England,Central Midfield,CM,,Altrincham FC,England,0.0,1
+2009,Premier League,Bolton Wanderers,summer,out,James Sinclair,50350,21,England,Right-Back,RB,200000.0,Without Club,,,0
+2009,Premier League,Bolton Wanderers,summer,out,Ebi Smolarek,4388,28,Poland,Centre-Forward,CF,2400000.0,Racing Santander,Spain,0.0,1
+2009,Premier League,Bolton Wanderers,summer,out,Sébastien Puygrenier,5667,27,France,Centre-Back,CB,4200000.0,Zenit St. Petersburg,Russia,0.0,1
+2009,Premier League,Bolton Wanderers,summer,out,Ariza Makukula,5518,28,Portugal,Centre-Forward,CF,3200000.0,SL Benfica,Portugal,0.0,1
+2009,Premier League,Bolton Wanderers,summer,out,Jack Wilshere,74223,18,England,Central Midfield,CM,3000000.0,Arsenal FC,England,0.0,1
+2009,Premier League,Bolton Wanderers,winter,out,Danny Ward,124172,18,England,Centre-Forward,CF,50000.0,Swindon Town,England,0.0,1
+2009,Premier League,Bolton Wanderers,winter,out,Nicky Hunt,16835,26,England,Right-Back,RB,1200000.0,Derby County,England,0.0,1
+2009,Premier League,Bolton Wanderers,winter,out,Mark Connolly,128285,18,Ireland,Centre-Back,CB,,St. Johnstone FC,Scotland,0.0,1
+2009,Premier League,Bolton Wanderers,winter,out,Chris Stokes,125119,18,England,Centre-Back,CB,,Crewe Alexandra,England,0.0,1
+2009,Premier League,Bolton Wanderers,winter,out,Tope Obadeyi,65692,20,England,Centre-Forward,CF,250000.0,Rochdale AFC,England,0.0,1
+2009,Premier League,Bolton Wanderers,winter,out,Paul Robinson,14063,31,England,Left-Back,LB,2500000.0,West Bromwich Albion,England,0.0,1
+2009,Premier League,Burnley FC,summer,in,Steven Fletcher,35099,22,Scotland,Centre-Forward,CF,4000000.0,Hibernian FC,Scotland,4700000.0,0
+2009,Premier League,Burnley FC,summer,in,André Bikey,14270,24,Cameroon,Centre-Back,CB,1250000.0,Reading FC,England,3250000.0,0
+2009,Premier League,Burnley FC,summer,in,Tyrone Mears,14050,26,England,Right-Back,RB,1700000.0,Derby County,England,590000.0,0
+2009,Premier League,Burnley FC,summer,in,Brian Easton,45331,21,Scotland,Left-Back,LB,650000.0,Hamilton Academical FC,Scotland,400000.0,0
+2009,Premier League,Burnley FC,summer,in,David Edgar,44910,22,Canada,Centre-Back,CB,800000.0,Newcastle United,England,350000.0,0
+2009,Premier League,Burnley FC,summer,in,Jonathan Lund,33109,20,England,Goalkeeper,GK,50000.0,Grimsby Town,England,0.0,0
+2009,Premier League,Burnley FC,summer,in,Martin Fearon,49586,20,England,Goalkeeper,GK,,Accrington Stanley,England,0.0,0
+2009,Premier League,Burnley FC,summer,in,David Nugent,33963,24,England,Centre-Forward,CF,3200000.0,Portsmouth FC,England,0.0,1
+2009,Premier League,Burnley FC,summer,in,Richard Eckersley,73493,20,England,Right-Back,RB,,Manchester United Reserves,England,,0
+2009,Premier League,Burnley FC,summer,in,Fernando Guerrero,62943,20,Ecuador,Left Winger,LW,,Independiente del Valle,Ecuador,0.0,1
+2009,Premier League,Burnley FC,winter,in,Danny Fox,31553,23,Scotland,Left-Back,LB,2000000.0,Celtic FC,Scotland,2100000.0,0
+2009,Premier League,Burnley FC,winter,in,Leon Cort,36874,30,Guyana,Centre-Back,CB,1400000.0,Stoke City,England,1800000.0,0
+2009,Premier League,Burnley FC,winter,in,Kevin Long,111114,19,Ireland,Centre-Back,CB,,Cork City FC,Ireland,350000.0,0
+2009,Premier League,Burnley FC,winter,in,Nicky Weaver,3310,30,England,Goalkeeper,GK,750000.0,Dundee United FC,Scotland,0.0,0
+2009,Premier League,Burnley FC,winter,in,Frédéric Nimani,40064,21,Central African Republic,Centre-Forward,CF,2100000.0,AS Monaco,France,0.0,1
+2009,Premier League,Burnley FC,winter,in,Jack Cork,40613,20,England,Defensive Midfield,DM,750000.0,Chelsea FC Reserves,England,0.0,1
+2009,Premier League,Burnley FC,summer,out,Besart Berisha,17257,24,Kosovo,Centre-Forward,CF,1000000.0,Arminia Bielefeld,Germany,90000.0,0
+2009,Premier League,Burnley FC,summer,out,Gábor Király,342,33,Hungary,Goalkeeper,GK,800000.0,TSV 1860 Munich,Germany,0.0,0
+2009,Premier League,Burnley FC,summer,out,Alan Mahon,3483,31,Ireland,Left Midfield,LM,750000.0,Tranmere Rovers,England,0.0,0
+2009,Premier League,Burnley FC,summer,out,Kevin Okanga-Ajwang,70656,17,Poland,Centre-Back,CB,,Sparta Oborniki,Poland,0.0,0
+2009,Premier League,Burnley FC,summer,out,Alex MacDonald,73033,19,Scotland,Right Midfield,RM,200000.0,Falkirk FC,Scotland,0.0,1
+2009,Premier League,Burnley FC,summer,out,Adam Kay,30908,19,England,Central Midfield,CM,50000.0,Chester City (- 2010),England,0.0,1
+2009,Premier League,Burnley FC,summer,out,Chris Lynch,107644,18,England,Centre-Back,CB,50000.0,Chester City (- 2010),England,0.0,1
+2009,Premier League,Burnley FC,summer,out,Jack Cork,40613,20,England,Defensive Midfield,DM,750000.0,Chelsea FC Reserves,England,0.0,1
+2009,Premier League,Burnley FC,summer,out,David Nugent,33963,25,England,Centre-Forward,CF,2500000.0,Portsmouth FC,England,0.0,1
+2009,Premier League,Burnley FC,winter,out,Wes Fletcher,107641,18,England,Centre-Forward,CF,75000.0,Grimsby Town,England,0.0,1
+2009,Premier League,Burnley FC,winter,out,Remco van der Schaaf,4351,30,Netherlands,Centre-Back,CB,1200000.0,Bröndby IF,Denmark,0.0,1
+2009,Premier League,Burnley FC,winter,out,Brian Easton,45331,21,Scotland,Left-Back,LB,650000.0,Hamilton Academical FC,Scotland,0.0,1
+2009,Premier League,Burnley FC,winter,out,Jonathan Lund,33109,21,England,Goalkeeper,GK,50000.0,Rotherham United,England,0.0,1
+2009,Premier League,Burnley FC,winter,out,Jay Rodríguez,53360,20,England,Centre-Forward,CF,250000.0,Barnsley FC,England,0.0,1
+2009,Premier League,Burnley FC,winter,out,Richard Eckersley,73493,20,England,Right-Back,RB,300000.0,Plymouth Argyle,England,0.0,1
+2009,Premier League,Burnley FC,winter,out,Jonathan Lund,33109,21,England,Goalkeeper,GK,50000.0,Barnsley FC,England,0.0,1
+2009,Premier League,Burnley FC,winter,out,David Edgar,44910,22,Canada,Centre-Back,CB,750000.0,Swansea City,England,0.0,1
+2009,Premier League,Burnley FC,winter,out,Christian Kalvenes,26204,33,Norway,Left-Back,LB,750000.0,Without Club,,,0
+2009,Premier League,Burnley FC,winter,out,Fernando Guerrero,62943,20,Ecuador,Left Winger,LW,1000000.0,Independiente del Valle,Ecuador,0.0,1
+2009,Premier League,Chelsea FC,summer,in,Yuriy Zhirkov,16760,25,Russia,Left Midfield,LM,20000000.0,CSKA Moscow,Russia,21000000.0,0
+2009,Premier League,Chelsea FC,summer,in,Daniel Sturridge,47082,19,England,Centre-Forward,CF,3000000.0,Manchester City,England,7250000.0,0
+2009,Premier League,Chelsea FC,summer,in,Nemanja Matić,74683,21,Serbia,Defensive Midfield,DM,1500000.0,MFK Kosice,Slovakia,1750000.0,0
+2009,Premier League,Chelsea FC,summer,in,Ross Turnbull,29159,24,England,Goalkeeper,GK,1800000.0,Middlesbrough FC,England,0.0,0
+2009,Premier League,Chelsea FC,summer,out,Claudio Pizarro,532,30,Peru,Centre-Forward,CF,12000000.0,SV Werder Bremen,Germany,2000000.0,0
+2009,Premier League,Chelsea FC,summer,out,Ben Sahar,40436,19,Israel,Centre-Forward,CF,750000.0,RCD Espanyol Barcelona,Spain,1000000.0,0
+2009,Premier League,Chelsea FC,summer,out,Miroslav Stoch,45559,19,Slovakia,Left Winger,LW,1000000.0,Twente Enschede FC,Netherlands,800000.0,1
+2009,Premier League,Chelsea FC,summer,out,Mineiro,35198,34,Brazil,Defensive Midfield,DM,800000.0,FC Schalke 04,Germany,0.0,0
+2009,Premier League,Chelsea FC,summer,out,Andriy Shevchenko,3522,32,Ukraine,Centre-Forward,CF,10000000.0,Dynamo Kyiv,Ukraine,0.0,0
+2009,Premier League,Chelsea FC,summer,out,Ryan Bertrand,40611,19,England,Left-Back,LB,750000.0,Reading FC,England,0.0,1
+2009,Premier League,Chelsea FC,summer,out,Franco Di Santo,59783,20,Argentina,Centre-Forward,CF,2300000.0,Blackburn Rovers,England,0.0,1
+2009,Premier League,Chelsea FC,summer,out,Scott Sinclair,31552,20,England,Left Winger,LW,1000000.0,Wigan Athletic,England,0.0,1
+2009,Premier League,Chelsea FC,summer,out,Patrick van Aanholt,52119,18,Netherlands,Left-Back,LB,,Coventry City,England,0.0,1
+2009,Premier League,Chelsea FC,summer,out,Michael Mancienne,38100,21,Seychelles,Centre-Back,CB,1500000.0,Wolverhampton Wanderers,England,0.0,1
+2009,Premier League,Chelsea FC,summer,out,Ricardo Quaresma,4188,25,Portugal,Right Winger,RW,17500000.0,Inter Milan,Italy,0.0,1
+2009,Premier League,Chelsea FC,winter,out,Patrick van Aanholt,52119,19,Netherlands,Left-Back,LB,50000.0,Newcastle United,England,0.0,1
+2009,Premier League,Everton FC,summer,in,Diniyar Bilyaletdinov,16690,24,Russia,Attacking Midfield,AM,6700000.0,Lokomotiv Moskau,Russia,10000000.0,0
+2009,Premier League,Everton FC,summer,in,John Heitinga,4315,25,Netherlands,Centre-Back,CB,8000000.0,Atlético de Madrid,Spain,6800000.0,0
+2009,Premier League,Everton FC,summer,in,Sylvain Distin,3356,31,France,Centre-Back,CB,8300000.000000001,Portsmouth FC,England,6500000.0,0
+2009,Premier League,Everton FC,summer,in,Anton Peterlin,110184,22,United States,Central Midfield,CM,,Ventura County Fusion,United States,0.0,0
+2009,Premier League,Everton FC,summer,in,Lucas Neill,3826,31,Australia,Centre-Back,CB,4800000.0,Without Club,,,0
+2009,Premier League,Everton FC,winter,in,Philippe Senderos,4277,24,Switzerland,Centre-Back,CB,3000000.0,Arsenal FC,England,0.0,1
+2009,Premier League,Everton FC,winter,in,Landon Donovan,68,27,United States,Centre-Forward,CF,3000000.0,Los Angeles Galaxy,United States,0.0,1
+2009,Premier League,Everton FC,summer,out,Joleon Lescott,4241,27,England,Centre-Back,CB,17000000.0,Manchester City,England,27500000.0,0
+2009,Premier League,Everton FC,summer,out,Lars Jacobsen,1423,29,Denmark,Right-Back,RB,1500000.0,Blackburn Rovers,England,0.0,0
+2009,Premier League,Everton FC,summer,out,John Paul Kissock,57076,19,England,Left Midfield,LM,75000.0,Hamilton Academical FC,Scotland,0.0,0
+2009,Premier League,Everton FC,summer,out,John Ruddy,29712,22,England,Goalkeeper,GK,450000.0,Motherwell FC,Scotland,0.0,1
+2009,Premier League,Everton FC,summer,out,Lukas Jutkiewicz,33507,20,England,Centre-Forward,CF,500000.0,Motherwell FC,Scotland,0.0,1
+2009,Premier League,Everton FC,summer,out,James Vaughan,30471,21,England,Centre-Forward,CF,1500000.0,Derby County,England,0.0,1
+2009,Premier League,Everton FC,summer,out,Nuno Valente,9831,34,Portugal,Left-Back,LB,900000.0,Retired,,,0
+2009,Premier League,Everton FC,summer,out,Andy van der Meyde,3772,29,Netherlands,Right Winger,RW,300000.0,Without Club,,,0
+2009,Premier League,Everton FC,summer,out,Segundo Castillo,38763,27,Ecuador,Defensive Midfield,DM,2200000.0,Red Star Belgrade,Serbia,0.0,1
+2009,Premier League,Everton FC,summer,out,Philippe Senderos,4277,25,Switzerland,Centre-Back,CB,3000000.0,Arsenal FC,England,0.0,1
+2009,Premier League,Everton FC,winter,out,Lucas Neill,3826,31,Australia,Centre-Back,CB,4800000.0,Galatasaray,Türkiye,840000.0,0
+2009,Premier League,Everton FC,winter,out,James Vaughan,30471,21,England,Centre-Forward,CF,1500000.0,Leicester City,England,0.0,1
+2009,Premier League,Everton FC,winter,out,Séamus Coleman,68390,21,Ireland,Right-Back,RB,1000000.0,Blackpool FC,England,0.0,1
+2009,Premier League,Everton FC,winter,out,Landon Donovan,68,28,United States,Centre-Forward,CF,3000000.0,Los Angeles Galaxy,United States,0.0,1
+2009,Premier League,Everton FC,winter,out,Jô,34156,22,Brazil,Centre-Forward,CF,12500000.0,Manchester City,England,0.0,1
+2009,Premier League,Fulham FC,summer,in,Damien Duff,3259,30,Ireland,Right Winger,RW,5700000.0,Newcastle United,England,4000000.0,0
+2009,Premier League,Fulham FC,summer,in,Bjørn Helge Riise,13485,26,Norway,Central Midfield,CM,1500000.0,Lillestrøm SK,Norway,2000000.0,0
+2009,Premier League,Fulham FC,summer,in,David Elm,36392,26,Sweden,Centre-Forward,CF,2000000.0,Kalmar FF,Sweden,600000.0,0
+2009,Premier League,Fulham FC,summer,in,Kagisho Dikgacoi,63285,24,South Africa,Central Midfield,CM,350000.0,Lamontville Golden Arrows,South Africa,300000.0,0
+2009,Premier League,Fulham FC,summer,in,Stefan Payne,126587,17,England,Centre-Forward,CF,,Sutton United,England,30000.0,0
+2009,Premier League,Fulham FC,summer,in,Stephen Kelly,12125,25,Ireland,Right-Back,RB,900000.0,Birmingham City,England,0.0,0
+2009,Premier League,Fulham FC,summer,in,Jonathan Greening,3865,30,England,Central Midfield,CM,4099999.9999999995,West Bromwich Albion,England,0.0,1
+2009,Premier League,Fulham FC,summer,in,Matthew Saunders,61723,20,England,Central Midfield,CM,100000.0,Lincoln City,England,,0
+2009,Premier League,Fulham FC,winter,in,Stefano Okaka,35249,20,Italy,Centre-Forward,CF,4000000.0,AS Roma,Italy,175000.0,1
+2009,Premier League,Fulham FC,winter,in,Nicky Shorey,13426,28,England,Left-Back,LB,4000000.0,Aston Villa,England,0.0,1
+2009,Premier League,Fulham FC,summer,out,Collins John,4694,23,Netherlands,Centre-Forward,CF,1000000.0,KSV Roeselare (-2020),Belgium,0.0,0
+2009,Premier League,Fulham FC,summer,out,Hamer Bouazza,36793,24,Algeria,Right Winger,RW,1500000.0,Sivasspor,Türkiye,0.0,0
+2009,Premier League,Fulham FC,summer,out,Elliot Omozusi,47844,20,England,Right-Back,RB,750000.0,Charlton Athletic,England,0.0,1
+2009,Premier League,Fulham FC,summer,out,Adam Watts,61593,21,England,Centre-Back,CB,50000.0,Lincoln City,England,0.0,1
+2009,Premier League,Fulham FC,summer,out,Fredrik Stoor Siekkinen,24057,25,Sweden,Right-Back,RB,1000000.0,Derby County,England,0.0,1
+2009,Premier League,Fulham FC,summer,out,Stefan Payne,126587,18,England,Centre-Forward,CF,,Sutton United,England,0.0,1
+2009,Premier League,Fulham FC,summer,out,Adrian Leijer,43163,23,Australia,Centre-Back,CB,500000.0,Melbourne Victory,Australia,,0
+2009,Premier League,Fulham FC,summer,out,Moritz Volz,4048,26,Germany,Right-Back,RB,1200000.0,Without Club,,,0
+2009,Premier League,Fulham FC,summer,out,Julian Gray,8735,29,England,Centre-Forward,CF,500000.0,Without Club,,,0
+2009,Premier League,Fulham FC,summer,out,Olivier Dacourt,3572,34,France,Defensive Midfield,DM,1500000.0,Inter Milan,Italy,0.0,1
+2009,Premier League,Fulham FC,summer,out,Giles Barnes,37236,20,Jamaica,Centre-Forward,CF,1300000.0,Derby County,England,0.0,1
+2009,Premier League,Fulham FC,summer,out,Nicky Shorey,13426,29,England,Left-Back,LB,4000000.0,Aston Villa,England,0.0,1
+2009,Premier League,Fulham FC,winter,out,Ki-hyeon Seol,9606,30,"Korea, South",Right Winger,RW,800000.0,Pohang Steelers,"Korea, South",0.0,0
+2009,Premier League,Fulham FC,winter,out,Toni Kallio,37181,31,Finland,Centre-Back,CB,500000.0,Sheffield United,England,0.0,1
+2009,Premier League,Fulham FC,winter,out,Matthew Saunders,61723,20,England,Central Midfield,CM,100000.0,Lincoln City,England,0.0,1
+2009,Premier League,Fulham FC,winter,out,Michael Uwezu,61726,19,England,Attacking Midfield,AM,100000.0,Lincoln City,England,0.0,1
+2009,Premier League,Fulham FC,winter,out,Eddie Johnson,38773,25,United States,Centre-Forward,CF,1300000.0,Aris Thessaloniki,Greece,0.0,1
+2009,Premier League,Fulham FC,winter,out,David Stockdale,67339,24,England,Goalkeeper,GK,150000.0,Plymouth Argyle,England,0.0,1
+2009,Premier League,Fulham FC,winter,out,Diomansy Kamara,6053,29,Senegal,Right Winger,RW,3500000.0,Celtic FC,Scotland,0.0,1
+2009,Premier League,Fulham FC,winter,out,Wayne Brown,61566,21,England,Attacking Midfield,AM,1500000.0,Bristol Rovers,England,0.0,1
+2009,Premier League,Fulham FC,winter,out,Toni Kallio,37181,31,Finland,Centre-Back,CB,500000.0,Sheffield United,England,0.0,1
+2009,Premier League,Fulham FC,winter,out,Adam Watts,61593,21,England,Centre-Back,CB,50000.0,Lincoln City,England,,0
+2009,Premier League,Fulham FC,winter,out,Rob Milsom,55851,23,England,Left-Back,LB,250000.0,Turun Palloseura,Finland,0.0,1
+2009,Premier League,Fulham FC,winter,out,Matthew Saunders,61723,20,England,Central Midfield,CM,100000.0,Lincoln City,England,,0
+2009,Premier League,Hull City,summer,in,Stephen Hunt,36799,28,Ireland,Left Midfield,LM,4000000.0,Reading FC,England,4000000.0,0
+2009,Premier League,Hull City,summer,in,Seyi Olofinjana,18719,29,Nigeria,Central Midfield,CM,2200000.0,Stoke City,England,3500000.0,0
+2009,Premier League,Hull City,summer,in,Paul McShane,24636,23,Ireland,Centre-Back,CB,3000000.0,Sunderland AFC,England,2500000.0,0
+2009,Premier League,Hull City,summer,in,Steven Mouyokolo,58188,22,France,Centre-Back,CB,1200000.0,US Boulogne,France,2150000.0,0
+2009,Premier League,Hull City,summer,in,Kamel Ghilas,40928,25,Algeria,Second Striker,SS,2000000.0,Celta de Vigo,Spain,2000000.0,0
+2009,Premier League,Hull City,summer,in,Jan Vennegoor of Hesselink,4362,30,Netherlands,Centre-Forward,CF,5000000.0,Celtic FC,Scotland,0.0,0
+2009,Premier League,Hull City,summer,in,Ibrahima Sonko,36813,28,Senegal,Centre-Back,CB,1300000.0,Stoke City,England,0.0,1
+2009,Premier League,Hull City,summer,in,Jozy Altidore,39378,19,United States,Centre-Forward,CF,2000000.0,Villarreal CF,Spain,0.0,1
+2009,Premier League,Hull City,winter,in,Amr Zaki,38178,26,Egypt,Centre-Forward,CF,5000000.0,Zamalek SC,Egypt,700000.0,1
+2009,Premier League,Hull City,summer,out,Michael Turner,12127,25,England,Centre-Back,CB,4000000.0,Sunderland AFC,England,4500000.0,0
+2009,Premier League,Hull City,summer,out,Sam Ricketts,30434,27,Wales,Right-Back,RB,2700000.0,Bolton Wanderers,England,2400000.0,0
+2009,Premier League,Hull City,summer,out,Ryan France,36864,28,England,Right Winger,RW,400000.0,Sheffield United,England,0.0,0
+2009,Premier League,Hull City,summer,out,Michael Bridges,3767,30,England,Centre-Forward,CF,300000.0,Milton Keynes Dons,England,0.0,0
+2009,Premier League,Hull City,summer,out,James Bennett,75061,20,England,Central Midfield,CM,50000.0,Darlington FC (- 2012),England,0.0,0
+2009,Premier League,Hull City,summer,out,John Welsh,3313,25,England,Central Midfield,CM,250000.0,Tranmere Rovers,England,0.0,0
+2009,Premier League,Hull City,summer,out,Matty Plummer,44378,20,England,Centre-Back,CB,50000.0,Darlington FC (- 2012),England,0.0,0
+2009,Premier League,Hull City,summer,out,Dean Windass,3328,40,England,Centre-Forward,CF,600000.0,Darlington FC (- 2012),England,0.0,0
+2009,Premier League,Hull City,summer,out,Jamie Devitt,85662,19,Ireland,Attacking Midfield,AM,,Darlington FC (- 2012),England,0.0,1
+2009,Premier League,Hull City,summer,out,Caleb Folan,46816,26,Ireland,Centre-Forward,CF,1300000.0,Middlesbrough FC,England,0.0,1
+2009,Premier League,Hull City,summer,out,Nathan Doyle,13452,22,England,Defensive Midfield,DM,300000.0,Barnsley FC,England,0.0,1
+2009,Premier League,Hull City,summer,out,Jamie Devitt,85662,19,Ireland,Attacking Midfield,AM,,Shrewsbury Town,England,0.0,1
+2009,Premier League,Hull City,summer,out,Bryan Hughes,3939,33,England,Attacking Midfield,AM,800000.0,Derby County,England,0.0,1
+2009,Premier League,Hull City,summer,out,Mark Oxley,67232,19,England,Goalkeeper,GK,50000.0,Walsall FC,England,0.0,1
+2009,Premier League,Hull City,winter,out,Daniel Cousin,6261,32,Gabon,Centre-Forward,CF,3200000.0,AE Larisa,Greece,200000.0,1
+2009,Premier League,Hull City,winter,out,Nathan Doyle,13452,22,England,Defensive Midfield,DM,300000.0,Barnsley FC,England,0.0,0
+2009,Premier League,Hull City,winter,out,Tony Warner,10259,35,Trinidad and Tobago,Goalkeeper,GK,250000.0,Charlton Athletic,England,0.0,0
+2009,Premier League,Hull City,winter,out,Nicky Featherstone,45607,21,England,Central Midfield,CM,150000.0,Grimsby Town,England,0.0,1
+2009,Premier League,Hull City,winter,out,Will Atkinson,61427,21,England,Central Midfield,CM,50000.0,Rochdale AFC,England,0.0,1
+2009,Premier League,Hull City,winter,out,Mark Oxley,67232,19,England,Goalkeeper,GK,50000.0,Grimsby Town,England,0.0,1
+2009,Premier League,Hull City,winter,out,Jamie Devitt,85662,19,Ireland,Attacking Midfield,AM,,Grimsby Town,England,0.0,1
+2009,Premier League,Hull City,winter,out,Ryan Kendall,85671,20,England,Striker,Striker,,Bradford City,England,0.0,1
+2009,Premier League,Hull City,winter,out,Nicky Featherstone,45607,21,England,Central Midfield,CM,150000.0,Grimsby Town,England,0.0,1
+2009,Premier League,Hull City,winter,out,Péter Halmosi,5001,30,Hungary,Left Midfield,LM,1000000.0,Szombathelyi Haladás,Hungary,0.0,1
+2009,Premier League,Hull City,winter,out,Bryan Hughes,3939,33,England,Attacking Midfield,AM,500000.0,Without Club,,,0
+2009,Premier League,Hull City,winter,out,Amr Zaki,38178,27,Egypt,Centre-Forward,CF,5000000.0,Zamalek SC,Egypt,0.0,1
+2009,Premier League,Liverpool FC,summer,in,Glen Johnson,3881,24,England,Right-Back,RB,11000000.0,Portsmouth FC,England,20500000.0,0
+2009,Premier League,Liverpool FC,summer,in,Alberto Aquilani,5957,25,Italy,Central Midfield,CM,15000000.0,AS Roma,Italy,20000000.0,0
+2009,Premier League,Liverpool FC,summer,in,Sotiris Kyrgiakos,9706,30,Greece,Centre-Back,CB,6500000.0,AEK Athens,Greece,3000000.0,0
+2009,Premier League,Liverpool FC,winter,in,Maxi Rodríguez,7895,29,Argentina,Left Winger,LW,18000000.0,Atlético de Madrid,Spain,0.0,0
+2009,Premier League,Liverpool FC,summer,out,Xabi Alonso,7476,27,Spain,Defensive Midfield,DM,27000000.0,Real Madrid,Spain,34500000.0,0
+2009,Premier League,Liverpool FC,summer,out,Sebastián Leto,39256,22,Argentina,Left Winger,LW,3000000.0,Panathinaikos FC,Greece,4000000.0,0
+2009,Premier League,Liverpool FC,summer,out,Álvaro Arbeloa,28260,26,Spain,Right-Back,RB,11000000.0,Real Madrid,Spain,4000000.0,0
+2009,Premier League,Liverpool FC,summer,out,Charles Itandje,5470,26,Cameroon,Goalkeeper,GK,1500000.0,AO Kavala,Greece,300000.0,1
+2009,Premier League,Liverpool FC,summer,out,Astrit Ajdarevic,37795,19,Albania,Central Midfield,CM,45000.0,Leicester City,England,0.0,0
+2009,Premier League,Liverpool FC,summer,out,Sami Hyypiä,3470,35,Finland,Centre-Back,CB,2700000.0,Bayer 04 Leverkusen,Germany,0.0,0
+2009,Premier League,Liverpool FC,summer,out,Jack Hobbs,33895,20,England,Centre-Back,CB,500000.0,Leicester City,England,0.0,0
+2009,Premier League,Liverpool FC,summer,out,Jermaine Pennant,3195,26,England,Right Winger,RW,5700000.0,Real Zaragoza,Spain,0.0,0
+2009,Premier League,Liverpool FC,summer,out,Miki Roqué,33823,20,Spain,Centre-Back,CB,200000.0,Real Betis B,Spain,0.0,0
+2009,Premier League,Liverpool FC,summer,out,Robbie Threlfall,45606,20,England,Left-Back,LB,100000.0,Northampton Town,England,0.0,1
+2009,Premier League,Liverpool FC,summer,out,András Simon,50962,19,Hungary,Centre-Forward,CF,,Córdoba CF,Spain,0.0,1
+2009,Premier League,Liverpool FC,summer,out,Robbie Threlfall,45606,20,England,Left-Back,LB,100000.0,Darlington FC (- 2012),England,0.0,1
+2009,Premier League,Liverpool FC,summer,out,David Martin,15930,23,England,Goalkeeper,GK,200000.0,Tranmere Rovers,England,0.0,1
+2009,Premier League,Liverpool FC,summer,out,Krisztián Németh,48262,20,Hungary,Centre-Forward,CF,500000.0,AEK Athens,Greece,0.0,1
+2009,Premier League,Liverpool FC,summer,out,Ryan Crowther,32686,20,England,Right Winger,RW,50000.0,Without Club,,,0
+2009,Premier League,Liverpool FC,summer,out,Godwin Antwi,33821,21,Ghana,Centre-Back,CB,100000.0,Without Club,,,0
+2009,Premier League,Liverpool FC,winter,out,Andrea Dossena,21863,28,Italy,Left Midfield,LM,6000000.0,SSC Napoli,Italy,3750000.0,0
+2009,Premier League,Liverpool FC,winter,out,Andriy Voronin,1075,30,Ukraine,Second Striker,SS,6000000.0,Dinamo Moscow,Russia,2000000.0,0
+2009,Premier League,Liverpool FC,winter,out,David Martin,15930,23,England,Goalkeeper,GK,200000.0,Leeds United,England,0.0,1
+2009,Premier League,Liverpool FC,winter,out,Nathan Eccleston,88983,19,England,Centre-Forward,CF,50000.0,Huddersfield Town,England,0.0,1
+2009,Premier League,Liverpool FC,winter,out,Stephen Darby,29933,21,England,Right-Back,RB,250000.0,Swindon Town,England,0.0,1
+2009,Premier League,Liverpool FC,winter,out,David Martin,15930,24,England,Goalkeeper,GK,200000.0,Derby County,England,0.0,1
+2009,Premier League,Liverpool FC,winter,out,Robbie Threlfall,45606,21,England,Left-Back,LB,100000.0,Bradford City,England,0.0,1
+2009,Premier League,Liverpool FC,winter,out,Jay Spearing,52111,21,England,Defensive Midfield,DM,250000.0,Leicester City,England,0.0,1
+2009,Premier League,Liverpool FC,winter,out,Péter Gulácsi,57071,19,Hungary,Goalkeeper,GK,,Tranmere Rovers,England,0.0,1
+2009,Premier League,Manchester City,summer,in,Carlos Tevez,4276,25,Argentina,Centre-Forward,CF,25000000.0,West Ham United,England,29000000.0,0
+2009,Premier League,Manchester City,summer,in,Emmanuel Adebayor,8883,25,Togo,Centre-Forward,CF,25000000.0,Arsenal FC,England,29000000.0,0
+2009,Premier League,Manchester City,summer,in,Joleon Lescott,4241,27,England,Centre-Back,CB,17000000.0,Everton FC,England,27500000.0,0
+2009,Premier League,Manchester City,summer,in,Roque Santa Cruz,215,27,Paraguay,Centre-Forward,CF,10000000.0,Blackburn Rovers,England,21200000.0,0
+2009,Premier League,Manchester City,summer,in,Kolo Touré,3202,28,Cote d'Ivoire,Centre-Back,CB,21000000.0,Arsenal FC,England,18700000.0,0
+2009,Premier League,Manchester City,summer,in,Gareth Barry,3291,28,England,Defensive Midfield,DM,18500000.0,Aston Villa,England,13900000.0,0
+2009,Premier League,Manchester City,summer,in,Sylvinho,3359,35,Brazil,Left-Back,LB,1200000.0,FC Barcelona,Spain,0.0,0
+2009,Premier League,Manchester City,summer,in,Stuart Taylor,3190,28,England,Goalkeeper,GK,700000.0,Aston Villa,England,0.0,0
+2009,Premier League,Manchester City,winter,in,Adam Johnson,31579,22,England,Right Winger,RW,4500000.0,Middlesbrough FC,England,8000000.0,0
+2009,Premier League,Manchester City,winter,in,Patrick Vieira,3183,33,France,Defensive Midfield,DM,7500000.0,Inter Milan,Italy,0.0,0
+2009,Premier League,Manchester City,winter,in,Márton Fülöp,17879,26,Hungary,Goalkeeper,GK,3000000.0,Sunderland AFC,England,0.0,1
+2009,Premier League,Manchester City,winter,in,David González,52267,27,Colombia,Goalkeeper,GK,500000.0,Without Club,,,0
+2009,Premier League,Manchester City,summer,out,Daniel Sturridge,47082,19,England,Centre-Forward,CF,3000000.0,Chelsea FC,England,7250000.0,0
+2009,Premier League,Manchester City,summer,out,Elano,20053,28,Brazil,Attacking Midfield,AM,12500000.0,Galatasaray,Türkiye,7000000.0,0
+2009,Premier League,Manchester City,summer,out,Richard Dunne,3807,29,Ireland,Centre-Back,CB,9500000.0,Aston Villa,England,6800000.0,0
+2009,Premier League,Manchester City,summer,out,Gelson Fernandes,20081,22,Switzerland,Defensive Midfield,DM,5500000.0,AS Saint-Étienne,France,3500000.0,0
+2009,Premier League,Manchester City,summer,out,Ched Evans,61622,20,Wales,Centre-Forward,CF,1200000.0,Sheffield United,England,3500000.0,0
+2009,Premier League,Manchester City,summer,out,Joe Hart,40204,22,England,Goalkeeper,GK,6500000.0,Birmingham City,England,1150000.0,1
+2009,Premier League,Manchester City,summer,out,Tal Ben Haim,20714,27,Israel,Centre-Back,CB,3500000.0,Portsmouth FC,England,0.0,0
+2009,Premier League,Manchester City,summer,out,Kasper Schmeichel,16911,22,Denmark,Goalkeeper,GK,1000000.0,Notts County,England,0.0,0
+2009,Premier League,Manchester City,summer,out,Richard Martin,81632,21,England,Goalkeeper,GK,75000.0,Yeovil Town,England,0.0,0
+2009,Premier League,Manchester City,summer,out,Darius Vassell,3236,29,England,Centre-Forward,CF,2500000.0,MKE Ankaragücü,Türkiye,0.0,0
+2009,Premier League,Manchester City,summer,out,Shay Logan,58579,21,England,Right-Back,RB,300000.0,Tranmere Rovers,England,0.0,1
+2009,Premier League,Manchester City,summer,out,Kelvin Etuhu,45792,21,Nigeria,Defensive Midfield,DM,750000.0,Cardiff City,England,0.0,1
+2009,Premier League,Manchester City,summer,out,Donal McDermott,99453,19,Ireland,Attacking Midfield,AM,,Chesterfield FC,England,0.0,1
+2009,Premier League,Manchester City,summer,out,Ryan McGivern,61632,19,Northern Ireland,Centre-Back,CB,100000.0,Leicester City,England,0.0,1
+2009,Premier League,Manchester City,summer,out,Valeri Bozhinov,4176,23,Bulgaria,Centre-Forward,CF,6000000.0,Parma FC,Italy,0.0,1
+2009,Premier League,Manchester City,summer,out,Gláuber,37537,25,Brazil,Centre-Back,CB,800000.0,Without Club,,,0
+2009,Premier League,Manchester City,summer,out,Michael Ball,9423,29,England,Left-Back,LB,2200000.0,Without Club,,,0
+2009,Premier League,Manchester City,summer,out,Danny Mills,3743,32,England,Right-Back,RB,500000.0,Retired,,,0
+2009,Premier League,Manchester City,summer,out,Dietmar Hamann,919,35,Germany,Defensive Midfield,DM,1200000.0,Without Club,,,0
+2009,Premier League,Manchester City,summer,out,Felipe Caicedo,37834,20,Ecuador,Centre-Forward,CF,4200000.0,Sporting CP,Portugal,0.0,1
+2009,Premier League,Manchester City,winter,out,Jô,34156,22,Brazil,Centre-Forward,CF,9500000.0,Galatasaray,Türkiye,0.0,1
+2009,Premier League,Manchester City,winter,out,Vladimír Weiss,92701,20,Slovakia,Left Winger,LW,1500000.0,Bolton Wanderers,England,0.0,1
+2009,Premier League,Manchester City,winter,out,Donal McDermott,99453,20,Ireland,Attacking Midfield,AM,,Scunthorpe United,England,0.0,1
+2009,Premier League,Manchester City,winter,out,Robinho,15511,26,Brazil,Left Winger,LW,28000000.0,Santos FC,Brazil,0.0,1
+2009,Premier League,Manchester City,winter,out,Javan Vidal,99452,20,England,Right-Back,RB,100000.0,Derby County,England,0.0,1
+2009,Premier League,Manchester City,winter,out,Benjani,12063,31,Zimbabwe,Centre-Forward,CF,7000000.0,Sunderland AFC,England,0.0,1
+2009,Premier League,Manchester City,winter,out,John Guidetti,98596,17,Sweden,Centre-Forward,CF,50000.0,IF Brommapojkarna,Sweden,0.0,1
+2009,Premier League,Manchester City,winter,out,Kelvin Etuhu,45792,21,Nigeria,Defensive Midfield,DM,750000.0,Cardiff City,England,0.0,1
+2009,Premier League,Manchester City,winter,out,Felipe Caicedo,37834,21,Ecuador,Centre-Forward,CF,4200000.0,Málaga CF,Spain,0.0,1
+2009,Premier League,Manchester United,summer,in,Antonio Valencia,33544,23,Ecuador,Right-Back,RB,11000000.0,Wigan Athletic,England,18800000.0,0
+2009,Premier League,Manchester United,summer,in,Mame Diouf,62049,21,Senegal,Centre-Forward,CF,2000000.0,Molde FK,Norway,4500000.0,0
+2009,Premier League,Manchester United,summer,in,Gabriel Obertan,43261,20,France,Right Winger,RW,3000000.0,FC Girondins Bordeaux,France,4000000.0,0
+2009,Premier League,Manchester United,summer,in,Michael Owen,1397,29,England,Centre-Forward,CF,12200000.0,Newcastle United,England,0.0,0
+2009,Premier League,Manchester United,summer,out,Cristiano Ronaldo,8198,24,Portugal,Centre-Forward,CF,60000000.0,Real Madrid,Spain,94000000.0,0
+2009,Premier League,Manchester United,summer,out,Fraizer Campbell,42411,21,England,Centre-Forward,CF,2800000.0,Sunderland AFC,England,4099999.9999999995,0
+2009,Premier League,Manchester United,summer,out,Manucho,64484,26,Angola,Centre-Forward,CF,2300000.0,Real Valladolid CF,Spain,2750000.0,0
+2009,Premier League,Manchester United,summer,out,Lee Martin,15449,22,England,Attacking Midfield,AM,400000.0,Ipswich Town,England,2250000.0,0
+2009,Premier League,Manchester United,summer,out,Rodrigo Possebon,73552,20,Italy,Central Midfield,CM,800000.0,SC Braga,Portugal,0.0,1
+2009,Premier League,Manchester United,summer,out,Mame Diouf,62049,21,Senegal,Centre-Forward,CF,2500000.0,Molde FK,Norway,0.0,1
+2009,Premier League,Manchester United,summer,out,Danny Simpson,37442,22,England,Right-Back,RB,1100000.0,Newcastle United,England,0.0,1
+2009,Premier League,Manchester United,summer,out,Tom Heaton,34130,23,England,Goalkeeper,GK,1500000.0,Queens Park Rangers,England,0.0,1
+2009,Premier League,Manchester United,summer,out,Tom Cleverley,73484,20,England,Central Midfield,CM,50000.0,Watford FC,England,0.0,1
+2009,Premier League,Manchester United,summer,out,Scott Moffatt,73538,18,England,Right-Back,RB,,Altrincham FC,England,0.0,1
+2009,Premier League,Manchester United,summer,out,David Gray,37678,21,Scotland,Right-Back,RB,100000.0,Plymouth Argyle,England,0.0,1
+2009,Premier League,Manchester United,winter,out,Danny Simpson,37442,23,England,Right-Back,RB,1100000.0,Newcastle United,England,865000.0,0
+2009,Premier League,Manchester United,winter,out,Zoran Tosic,46180,22,Serbia,Right Winger,RW,4500000.0,1.FC Köln,Germany,500000.0,1
+2009,Premier League,Manchester United,winter,out,Tom Heaton,34130,23,England,Goalkeeper,GK,1500000.0,Rochdale AFC,England,0.0,1
+2009,Premier League,Manchester United,winter,out,Danny Welbeck,67063,19,England,Centre-Forward,CF,2500000.0,Preston North End,England,0.0,1
+2009,Premier League,Manchester United,winter,out,Tom Heaton,34130,23,England,Goalkeeper,GK,1500000.0,Wycombe Wanderers,England,0.0,1
+2009,Premier League,Manchester United,winter,out,Sam Hewson,73514,21,England,Central Midfield,CM,,Bury FC,England,0.0,1
+2009,Premier League,Portsmouth FC,summer,in,Kevin-Prince Boateng,16922,22,Ghana,Attacking Midfield,AM,3000000.0,Tottenham Hotspur,England,4500000.0,0
+2009,Premier League,Portsmouth FC,summer,in,Mike Williamson,10642,25,England,Centre-Back,CB,50000.0,Watford FC,England,2300000.0,0
+2009,Premier League,Portsmouth FC,summer,in,Tommy Smith,12401,29,England,Centre-Forward,CF,2000000.0,Watford FC,England,2000000.0,0
+2009,Premier League,Portsmouth FC,summer,in,Aruna Dindane,9597,28,Cote d'Ivoire,Second Striker,SS,3000000.0,RC Lens,France,500000.0,1
+2009,Premier League,Portsmouth FC,summer,in,Frédéric Piquionne,5683,30,Martinique,Centre-Forward,CF,5000000.0,Olympique Lyon,France,500000.0,1
+2009,Premier League,Portsmouth FC,summer,in,Hassan Yebda,12351,25,Algeria,Central Midfield,CM,5300000.0,SL Benfica,Portugal,480000.0,1
+2009,Premier League,Portsmouth FC,summer,in,Aaron Mokoena,4756,28,South Africa,Centre-Back,CB,1800000.0,Blackburn Rovers,England,0.0,0
+2009,Premier League,Portsmouth FC,summer,in,Tal Ben Haim,20714,27,Israel,Centre-Back,CB,3500000.0,Manchester City,England,0.0,0
+2009,Premier League,Portsmouth FC,summer,in,Michael Brown,13509,32,England,Central Midfield,CM,2200000.0,Wigan Athletic,England,0.0,0
+2009,Premier League,Portsmouth FC,summer,in,Steve Finnan,4038,33,Ireland,Right-Back,RB,3800000.0,RCD Espanyol Barcelona,Spain,0.0,0
+2009,Premier League,Portsmouth FC,summer,in,Jamie O'Hara,38090,22,England,Central Midfield,CM,3700000.0,Tottenham Hotspur,England,0.0,1
+2009,Premier League,Portsmouth FC,summer,in,Anthony Vanden Borre,15844,21,Belgium,Right-Back,RB,2500000.0,Genoa CFC,Italy,0.0,1
+2009,Premier League,Portsmouth FC,summer,in,Antti Niemi,3101,37,Finland,Goalkeeper,GK,700000.0,Career break,,,0
+2009,Premier League,Portsmouth FC,summer,in,Danny Webber,3551,27,England,Centre-Forward,CF,1500000.0,Without Club,,,0
+2009,Premier League,Portsmouth FC,winter,in,Quincy Owusu-Abeyie,14551,23,Ghana,Left Winger,LW,1000000.0,Spartak Moscow,Russia,280000.0,1
+2009,Premier League,Portsmouth FC,winter,in,Ricardo Rocha,13211,31,Portugal,Centre-Back,CB,1000000.0,Standard Liège,Belgium,0.0,0
+2009,Premier League,Portsmouth FC,winter,in,Dusko Tosic,17184,25,Serbia,Centre-Back,CB,750000.0,SV Werder Bremen,Germany,0.0,0
+2009,Premier League,Portsmouth FC,summer,out,Glen Johnson,3881,24,England,Right-Back,RB,11000000.0,Liverpool FC,England,20500000.0,0
+2009,Premier League,Portsmouth FC,summer,out,Peter Crouch,4072,28,England,Centre-Forward,CF,10000000.0,Tottenham Hotspur,England,10500000.0,0
+2009,Premier League,Portsmouth FC,summer,out,Sylvain Distin,3356,31,France,Centre-Back,CB,8300000.000000001,Everton FC,England,6500000.0,0
+2009,Premier League,Portsmouth FC,summer,out,Niko Kranjcar,16746,25,Croatia,Attacking Midfield,AM,9250000.0,Tottenham Hotspur,England,2800000.0,0
+2009,Premier League,Portsmouth FC,summer,out,Martin Cranie,27659,22,England,Centre-Back,CB,800000.0,Coventry City,England,1000000.0,0
+2009,Premier League,Portsmouth FC,summer,out,Arnold Mvuemba,20622,24,DR Congo,Defensive Midfield,DM,900000.0,FC Lorient,France,0.0,0
+2009,Premier League,Portsmouth FC,summer,out,Sol Campbell,3198,34,England,Centre-Back,CB,4400000.0,Notts County,England,0.0,0
+2009,Premier League,Portsmouth FC,summer,out,Jerome Thomas,3560,26,England,Left Winger,LW,600000.0,West Bromwich Albion,England,0.0,0
+2009,Premier League,Portsmouth FC,summer,out,Noé Pamarot,5531,30,France,Centre-Back,CB,3000000.0,Hércules CF,Spain,0.0,0
+2009,Premier League,Portsmouth FC,summer,out,Glen Little,9879,33,England,Right Winger,RW,800000.0,Sheffield United,England,0.0,0
+2009,Premier League,Portsmouth FC,summer,out,Sean Davis,4036,29,England,Defensive Midfield,DM,5000000.0,Bolton Wanderers,England,0.0,0
+2009,Premier League,Portsmouth FC,summer,out,Djimi Traoré,3598,29,Mali,Centre-Back,CB,2000000.0,AS Monaco,France,0.0,0
+2009,Premier League,Portsmouth FC,summer,out,David Nugent,33963,24,England,Centre-Forward,CF,3200000.0,Burnley FC,England,0.0,1
+2009,Premier League,Portsmouth FC,summer,out,Torric Jebrin,181665,18,Ghana,Attacking Midfield,AM,,Zulte Waregem,Belgium,0.0,1
+2009,Premier League,Portsmouth FC,summer,out,Tom Kilbey,126714,18,England,Defensive Midfield,DM,,Dagenham & Redbridge FC,England,0.0,1
+2009,Premier League,Portsmouth FC,summer,out,Asmir Begovic,33873,22,Bosnia-Herzegovina,Goalkeeper,GK,400000.0,Ipswich Town,England,0.0,1
+2009,Premier League,Portsmouth FC,summer,out,Marlon Pack,118779,18,England,Central Midfield,CM,,Wycombe Wanderers,England,0.0,1
+2009,Premier League,Portsmouth FC,summer,out,Matt Ritchie,92469,19,Scotland,Right Midfield,RM,50000.0,Notts County,England,0.0,1
+2009,Premier League,Portsmouth FC,summer,out,Callum Reynolds,55520,19,England,Centre-Back,CB,,Luton Town,England,0.0,1
+2009,Premier League,Portsmouth FC,summer,out,Laurén,3189,32,Cameroon,Right-Back,RB,1000000.0,Without Club,,,0
+2009,Premier League,Portsmouth FC,summer,out,Pelé,48930,21,Portugal,Central Midfield,CM,4000000.0,FC Porto,Portugal,0.0,1
+2009,Premier League,Portsmouth FC,summer,out,Theofanis Gekas,16402,29,Greece,Centre-Forward,CF,3300000.0,Bayer 04 Leverkusen,Germany,0.0,1
+2009,Premier League,Portsmouth FC,summer,out,Scott Harris,29969,23,England,Central Midfield,CM,,Redhill FC,England,,0
+2009,Premier League,Portsmouth FC,winter,out,Younès Kaboul,27114,23,France,Centre-Back,CB,5700000.0,Tottenham Hotspur,England,5900000.0,0
+2009,Premier League,Portsmouth FC,winter,out,Asmir Begovic,33873,22,Bosnia-Herzegovina,Goalkeeper,GK,1500000.0,Stoke City,England,3750000.0,0
+2009,Premier League,Portsmouth FC,winter,out,Mike Williamson,10642,26,England,Centre-Back,CB,1500000.0,Newcastle United,England,1100000.0,0
+2009,Premier League,Portsmouth FC,winter,out,Paris Cowan-Hall,55504,19,England,Right Winger,RW,,Grimsby Town,England,0.0,1
+2009,Premier League,Portsmouth FC,winter,out,Luke Wilkinson,129013,19,England,Centre-Back,CB,,Northampton Town,England,0.0,1
+2009,Premier League,Portsmouth FC,winter,out,Marlon Pack,118779,18,England,Central Midfield,CM,,Dagenham & Redbridge FC,England,0.0,1
+2009,Premier League,Portsmouth FC,winter,out,Matt Ritchie,92469,20,Scotland,Right Midfield,RM,50000.0,Swindon Town,England,0.0,1
+2009,Premier League,Portsmouth FC,winter,out,Dusko Tosic,17184,25,Serbia,Centre-Back,CB,750000.0,Queens Park Rangers,England,0.0,1
+2009,Premier League,Portsmouth FC,winter,out,Luke Wilkinson,129013,19,England,Centre-Back,CB,,Eastleigh FC,England,0.0,1
+2009,Premier League,Portsmouth FC,winter,out,Linvoy Primus,4266,36,England,Centre-Back,CB,300000.0,Retired,,,0
+2009,Premier League,Portsmouth FC,winter,out,Antti Niemi,3101,37,Finland,Goalkeeper,GK,500000.0,Retired,,,0
+2009,Premier League,Portsmouth FC,winter,out,Quincy Owusu-Abeyie,14551,23,Ghana,Left Winger,LW,1000000.0,Spartak Moscow,Russia,0.0,1
+2009,Premier League,Stoke City,summer,in,Robert Huth,2998,25,Germany,Centre-Back,CB,4000000.0,Middlesbrough FC,England,7000000.0,0
+2009,Premier League,Stoke City,summer,in,Tuncay Şanlı,6934,27,Türkiye,Left Winger,LW,9800000.0,Middlesbrough FC,England,5700000.0,0
+2009,Premier League,Stoke City,summer,in,Dean Whitehead,13683,27,England,Central Midfield,CM,3000000.0,Sunderland AFC,England,3500000.0,0
+2009,Premier League,Stoke City,summer,in,Danny Collins,26183,29,Wales,Centre-Back,CB,3700000.0,Sunderland AFC,England,3100000.0,0
+2009,Premier League,Stoke City,summer,in,Diego Arismendi,72645,21,Uruguay,Defensive Midfield,DM,300000.0,Club Nacional,Uruguay,3000000.0,0
+2009,Premier League,Stoke City,summer,in,Ben Marshall,118567,18,England,Right Midfield,RM,,Crewe Alexandra U18,England,0.0,0
+2009,Premier League,Stoke City,summer,in,Matty Lund,118564,18,Northern Ireland,Central Midfield,CM,,Crewe Alexandra U18,England,0.0,0
+2009,Premier League,Stoke City,winter,in,Asmir Begovic,33873,22,Bosnia-Herzegovina,Goalkeeper,GK,1500000.0,Portsmouth FC,England,3750000.0,0
+2009,Premier League,Stoke City,summer,out,Seyi Olofinjana,18719,29,Nigeria,Central Midfield,CM,2200000.0,Hull City,England,3500000.0,0
+2009,Premier League,Stoke City,summer,out,Richard Cresswell,14002,32,England,Centre-Forward,CF,1700000.0,Sheffield United,England,0.0,1
+2009,Premier League,Stoke City,summer,out,Carl Dickinson,34337,22,England,Left-Back,LB,800000.0,Barnsley FC,England,0.0,1
+2009,Premier League,Stoke City,summer,out,Ryan Shotton,92109,20,England,Centre-Back,CB,50000.0,Barnsley FC,England,0.0,1
+2009,Premier League,Stoke City,summer,out,Andrew Davies,3869,24,England,Centre-Back,CB,1000000.0,Sheffield United,England,0.0,1
+2009,Premier League,Stoke City,summer,out,Ibrahima Sonko,36813,28,Senegal,Centre-Back,CB,1300000.0,Hull City,England,0.0,1
+2009,Premier League,Stoke City,summer,out,Ben Marshall,118567,18,England,Right Midfield,RM,,Northampton Town,England,0.0,1
+2009,Premier League,Stoke City,summer,out,Danzelle St Louis-Hamilton,85682,19,England,Goalkeeper,GK,50000.0,Vauxhall Motors FC,England,0.0,1
+2009,Premier League,Stoke City,summer,out,Dominic Matteo,3765,35,Scotland,Left-Back,LB,300000.0,Retired,,,0
+2009,Premier League,Stoke City,summer,out,Vincent Péricard,3970,26,France,Centre-Forward,CF,400000.0,Without Club,,,0
+2009,Premier League,Stoke City,summer,out,Marc Grocott,85669,19,England,Defensive Midfield,DM,50000.0,Without Club,,,0
+2009,Premier League,Stoke City,winter,out,Leon Cort,36874,30,Guyana,Centre-Back,CB,1400000.0,Burnley FC,England,1800000.0,0
+2009,Premier League,Stoke City,winter,out,Richard Cresswell,14002,32,England,Centre-Forward,CF,1700000.0,Sheffield United,England,1200000.0,0
+2009,Premier League,Stoke City,winter,out,Ben Marshall,118567,18,England,Right Midfield,RM,,Cheltenham Town,England,0.0,1
+2009,Premier League,Stoke City,winter,out,Dave Kitson,15698,29,England,Centre-Forward,CF,3500000.0,Middlesbrough FC,England,0.0,1
+2009,Premier League,Stoke City,winter,out,Michael Tonge,13544,26,England,Central Midfield,CM,1200000.0,Preston North End,England,0.0,1
+2009,Premier League,Stoke City,winter,out,Tom Soares,15910,23,England,Central Midfield,CM,1200000.0,Sheffield Wednesday,England,0.0,1
+2009,Premier League,Stoke City,winter,out,Andy Griffin,3579,30,England,Right-Back,RB,1200000.0,Reading FC,England,0.0,1
+2009,Premier League,Stoke City,winter,out,Michael Tonge,13544,26,England,Central Midfield,CM,750000.0,Derby County,England,0.0,1
+2009,Premier League,Stoke City,winter,out,Ben Marshall,118567,18,England,Right Midfield,RM,,Carlisle United,England,0.0,1
+2009,Premier League,Stoke City,winter,out,Diego Arismendi,72645,22,Uruguay,Defensive Midfield,DM,1500000.0,Brighton & Hove Albion,England,0.0,1
+2009,Premier League,Stoke City,winter,out,Steve Simonsen,3583,30,England,Goalkeeper,GK,750000.0,Sheffield United,England,0.0,1
+2009,Premier League,Stoke City,winter,out,Danzelle St Louis-Hamilton,85682,19,England,Goalkeeper,GK,50000.0,Without Club,,,0
+2009,Premier League,Sunderland AFC,summer,in,Darren Bent,13239,25,England,Centre-Forward,CF,12000000.0,Tottenham Hotspur,England,11800000.0,0
+2009,Premier League,Sunderland AFC,summer,in,Lee Cattermole,37363,21,England,Defensive Midfield,DM,3700000.0,Wigan Athletic,England,7000000.0,0
+2009,Premier League,Sunderland AFC,summer,in,Lorik Cana,12149,25,Albania,Defensive Midfield,DM,14000000.0,Olympique Marseille,France,5800000.0,0
+2009,Premier League,Sunderland AFC,summer,in,Michael Turner,12127,25,England,Centre-Back,CB,4000000.0,Hull City,England,4500000.0,0
+2009,Premier League,Sunderland AFC,summer,in,Fraizer Campbell,42411,21,England,Centre-Forward,CF,2800000.0,Manchester United,England,4099999.9999999995,0
+2009,Premier League,Sunderland AFC,summer,in,John Mensah,5917,26,Ghana,Centre-Back,CB,6000000.0,Olympique Lyon,France,1500000.0,1
+2009,Premier League,Sunderland AFC,summer,in,Oumare Tounkara,128973,19,France,Centre-Forward,CF,,CS Sedan-Ardennes B,France,0.0,0
+2009,Premier League,Sunderland AFC,summer,in,Paulo da Silva,38800,29,Paraguay,Centre-Back,CB,4000000.0,Deportivo Toluca,Mexico,0.0,0
+2009,Premier League,Sunderland AFC,summer,in,Boudewijn Zenden,3173,33,Netherlands,Left Winger,LW,1500000.0,Without Club,,,0
+2009,Premier League,Sunderland AFC,winter,in,Matthew Kilgallon,4095,26,England,Centre-Back,CB,1500000.0,Sheffield United,England,2300000.0,0
+2009,Premier League,Sunderland AFC,winter,in,Alan Hutton,9619,25,Scotland,Right-Back,RB,5500000.0,Tottenham Hotspur,England,0.0,1
+2009,Premier League,Sunderland AFC,winter,in,Benjani,12063,31,Zimbabwe,Centre-Forward,CF,7000000.0,Manchester City,England,0.0,1
+2009,Premier League,Sunderland AFC,summer,out,Michael Chopra,3463,25,England,Centre-Forward,CF,4500000.0,Cardiff City,England,4700000.0,0
+2009,Premier League,Sunderland AFC,summer,out,Dean Whitehead,13683,27,England,Central Midfield,CM,3000000.0,Stoke City,England,3500000.0,0
+2009,Premier League,Sunderland AFC,summer,out,Danny Collins,26183,29,Wales,Centre-Back,CB,3700000.0,Stoke City,England,3100000.0,0
+2009,Premier League,Sunderland AFC,summer,out,Grant Leadbitter,13796,23,England,Central Midfield,CM,2000000.0,Ipswich Town,England,3000000.0,0
+2009,Premier League,Sunderland AFC,summer,out,Paul McShane,24636,23,Ireland,Centre-Back,CB,3000000.0,Hull City,England,2500000.0,0
+2009,Premier League,Sunderland AFC,summer,out,Greg Halford,42062,24,England,Centre-Back,CB,1500000.0,Wolverhampton Wanderers,England,2400000.0,0
+2009,Premier League,Sunderland AFC,summer,out,Carlos Edwards,33489,30,Trinidad and Tobago,Right-Back,RB,1300000.0,Ipswich Town,England,1500000.0,0
+2009,Premier League,Sunderland AFC,summer,out,Anthony Stokes,35587,21,Ireland,Centre-Forward,CF,900000.0,Hibernian FC,Scotland,575000.0,0
+2009,Premier League,Sunderland AFC,summer,out,Arnau Riera,7919,28,Spain,Left Winger,LW,500000.0,CD Atlético Baleares,Spain,0.0,0
+2009,Premier League,Sunderland AFC,summer,out,Nick Colgan,12690,35,Ireland,Goalkeeper,GK,200000.0,Grimsby Town,England,0.0,0
+2009,Premier League,Sunderland AFC,summer,out,Jean-Yves M'voto,55381,20,France,Centre-Back,CB,300000.0,Southend United,England,0.0,1
+2009,Premier League,Sunderland AFC,summer,out,Martyn Waghorn,61674,19,England,Centre-Forward,CF,150000.0,Leicester City,England,0.0,1
+2009,Premier League,Sunderland AFC,summer,out,Jack Colback,61644,19,England,Defensive Midfield,DM,50000.0,Ipswich Town,England,0.0,1
+2009,Premier League,Sunderland AFC,summer,out,Jordan Cook,61646,19,England,Centre-Forward,CF,50000.0,Darlington FC (- 2012),England,0.0,1
+2009,Premier League,Sunderland AFC,summer,out,Teemu Tainio,4741,29,Finland,Defensive Midfield,DM,2800000.0,Birmingham City,England,0.0,1
+2009,Premier League,Sunderland AFC,summer,out,Roy O'Donovan,34629,24,Ireland,Centre-Forward,CF,800000.0,Southend United,England,0.0,1
+2009,Premier League,Sunderland AFC,summer,out,David Connolly,9051,32,Ireland,Centre-Forward,CF,300000.0,Without Club,,,0
+2009,Premier League,Sunderland AFC,summer,out,Dwight Yorke,3223,37,Trinidad and Tobago,Centre-Forward,CF,500000.0,Retired,,,0
+2009,Premier League,Sunderland AFC,summer,out,Darren Ward,9993,35,Wales,Goalkeeper,GK,400000.0,Retired,,,0
+2009,Premier League,Sunderland AFC,summer,out,Alan Hutton,9619,25,Scotland,Right-Back,RB,5500000.0,Tottenham Hotspur,England,0.0,1
+2009,Premier League,Sunderland AFC,summer,out,Benjani,12063,31,Zimbabwe,Centre-Forward,CF,5000000.0,Manchester City,England,0.0,1
+2009,Premier League,Sunderland AFC,summer,out,Djibril Cissé,3966,27,France,Centre-Forward,CF,10500000.0,Olympique Marseille,France,0.0,1
+2009,Premier League,Sunderland AFC,winter,out,Russell Anderson,12765,31,Scotland,Centre-Back,CB,800000.0,Derby County,England,0.0,0
+2009,Premier League,Sunderland AFC,winter,out,Daryl Murphy,31312,26,Ireland,Centre-Forward,CF,1500000.0,Ipswich Town,England,0.0,1
+2009,Premier League,Sunderland AFC,winter,out,Nyron Nosworthy,14054,29,Jamaica,Centre-Back,CB,2500000.0,Sheffield United,England,0.0,1
+2009,Premier League,Sunderland AFC,winter,out,David Healy,14021,30,Northern Ireland,Centre-Forward,CF,1500000.0,Ipswich Town,England,0.0,1
+2009,Premier League,Sunderland AFC,winter,out,Roy O'Donovan,34629,24,Ireland,Centre-Forward,CF,750000.0,Hartlepool United,England,0.0,1
+2009,Premier League,Sunderland AFC,winter,out,Ryan Noble,121340,18,England,Centre-Forward,CF,,Watford FC,England,0.0,1
+2009,Premier League,Sunderland AFC,winter,out,Márton Fülöp,17879,26,Hungary,Goalkeeper,GK,3000000.0,Manchester City,England,0.0,1
+2009,Premier League,Tottenham Hotspur,summer,in,Peter Crouch,4072,28,England,Centre-Forward,CF,10000000.0,Portsmouth FC,England,10500000.0,0
+2009,Premier League,Tottenham Hotspur,summer,in,Sébastien Bassong,33951,23,Cameroon,Centre-Back,CB,5200000.0,Newcastle United,England,9300000.0,0
+2009,Premier League,Tottenham Hotspur,summer,in,Kyle Naughton,66219,20,England,Right-Back,RB,400000.0,Sheffield United,England,5900000.0,0
+2009,Premier League,Tottenham Hotspur,summer,in,Kyle Walker,95424,19,England,Right-Back,RB,50000.0,Sheffield United,England,5900000.0,0
+2009,Premier League,Tottenham Hotspur,summer,in,Niko Kranjcar,16746,25,Croatia,Attacking Midfield,AM,9250000.0,Portsmouth FC,England,2800000.0,0
+2009,Premier League,Tottenham Hotspur,summer,in,Jimmy Walker,46746,36,England,Goalkeeper,GK,150000.0,West Ham United,England,0.0,0
+2009,Premier League,Tottenham Hotspur,winter,in,Younès Kaboul,27114,23,France,Centre-Back,CB,5700000.0,Portsmouth FC,England,5900000.0,0
+2009,Premier League,Tottenham Hotspur,winter,in,Eidur Gudjohnsen,3176,31,Iceland,Centre-Forward,CF,4500000.0,AS Monaco,France,0.0,1
+2009,Premier League,Tottenham Hotspur,summer,out,Darren Bent,13239,25,England,Centre-Forward,CF,12000000.0,Sunderland AFC,England,11800000.0,0
+2009,Premier League,Tottenham Hotspur,summer,out,Didier Zokora,13389,28,Cote d'Ivoire,Defensive Midfield,DM,8500000.0,Sevilla FC,Spain,9000000.0,0
+2009,Premier League,Tottenham Hotspur,summer,out,Kevin-Prince Boateng,16922,22,Ghana,Attacking Midfield,AM,3000000.0,Portsmouth FC,England,4500000.0,0
+2009,Premier League,Tottenham Hotspur,summer,out,Chris Gunter,43853,19,Wales,Right-Back,RB,3000000.0,Nottingham Forest,England,2000000.0,0
+2009,Premier League,Tottenham Hotspur,summer,out,Pascal Chimbonda,18875,30,Guadeloupe,Right-Back,RB,5000000.0,Blackburn Rovers,England,1700000.0,0
+2009,Premier League,Tottenham Hotspur,summer,out,Cian Hughton,61827,20,Ireland,Right-Back,RB,,Lincoln City,England,0.0,0
+2009,Premier League,Tottenham Hotspur,summer,out,David Hutton,61829,19,Ireland,Midfielder,Midfielder,,Cheltenham Town,England,0.0,0
+2009,Premier League,Tottenham Hotspur,summer,out,Gilberto,18734,33,Brazil,Left-Back,LB,2500000.0,Cruzeiro Esporte Clube,Brazil,0.0,0
+2009,Premier League,Tottenham Hotspur,summer,out,Ricardo Rocha,13211,30,Portugal,Centre-Back,CB,1000000.0,Standard Liège,Belgium,0.0,0
+2009,Premier League,Tottenham Hotspur,summer,out,Ben Alnwick,27036,22,England,Goalkeeper,GK,800000.0,Norwich City,England,0.0,1
+2009,Premier League,Tottenham Hotspur,summer,out,Adel Taarabt,45287,20,Morocco,Central Midfield,CM,1700000.0,Queens Park Rangers,England,0.0,1
+2009,Premier League,Tottenham Hotspur,summer,out,Kyle Walker,95424,19,England,Right-Back,RB,50000.0,Sheffield United,England,0.0,1
+2009,Premier League,Tottenham Hotspur,summer,out,David Button,61814,20,England,Goalkeeper,GK,,Crewe Alexandra,England,0.0,1
+2009,Premier League,Tottenham Hotspur,summer,out,Ryan Mason,61834,18,England,Central Midfield,CM,,Yeovil Town,England,0.0,1
+2009,Premier League,Tottenham Hotspur,summer,out,Steven Caulker,121280,17,Sierra Leone,Centre-Back,CB,,Yeovil Town,England,0.0,1
+2009,Premier League,Tottenham Hotspur,summer,out,Jamie O'Hara,38090,22,England,Central Midfield,CM,3700000.0,Portsmouth FC,England,0.0,1
+2009,Premier League,Tottenham Hotspur,summer,out,Oscar Jansson,45628,18,Sweden,Goalkeeper,GK,,Exeter City,England,0.0,1
+2009,Premier League,Tottenham Hotspur,summer,out,Adam Smith,61841,18,England,Right-Back,RB,,Wycombe Wanderers,England,0.0,1
+2009,Premier League,Tottenham Hotspur,summer,out,Danny Rose,50174,19,England,Left-Back,LB,500000.0,Peterborough United,England,0.0,1
+2009,Premier League,Tottenham Hotspur,summer,out,Jonathan Obika,61838,18,England,Centre-Forward,CF,100000.0,Yeovil Town,England,0.0,1
+2009,Premier League,Tottenham Hotspur,summer,out,Simon Dawkins,57488,21,Jamaica,Left Winger,LW,50000.0,Without Club,,,0
+2009,Premier League,Tottenham Hotspur,summer,out,Fraizer Campbell,42411,21,England,Centre-Forward,CF,2800000.0,Manchester United,England,0.0,1
+2009,Premier League,Tottenham Hotspur,winter,out,Robbie Keane,3144,29,Ireland,Centre-Forward,CF,19000000.0,Celtic FC,Scotland,1200000.0,1
+2009,Premier League,Tottenham Hotspur,winter,out,Tomas Pekhart,38746,20,Czech Republic,Centre-Forward,CF,600000.0,FK Baumit Jablonec,Czech Republic,800000.0,0
+2009,Premier League,Tottenham Hotspur,winter,out,Giovani dos Santos,44674,20,Mexico,Second Striker,SS,4000000.0,Galatasaray,Türkiye,700000.0,1
+2009,Premier League,Tottenham Hotspur,winter,out,David Button,61814,20,England,Goalkeeper,GK,50000.0,Shrewsbury Town,England,0.0,1
+2009,Premier League,Tottenham Hotspur,winter,out,Adam Smith,61841,18,England,Right-Back,RB,,Torquay United,England,0.0,1
+2009,Premier League,Tottenham Hotspur,winter,out,John Bostock,58097,17,Trinidad and Tobago,Central Midfield,CM,300000.0,Brentford FC,England,0.0,1
+2009,Premier League,Tottenham Hotspur,winter,out,Kyle Naughton,66219,21,England,Right-Back,RB,3000000.0,Middlesbrough FC,England,0.0,1
+2009,Premier League,Tottenham Hotspur,winter,out,Alan Hutton,9619,25,Scotland,Right-Back,RB,5500000.0,Sunderland AFC,England,0.0,1
+2009,Premier League,Tottenham Hotspur,winter,out,Jonathan Obika,61838,19,England,Centre-Forward,CF,100000.0,Millwall FC,England,0.0,1
+2009,Premier League,West Ham United,summer,in,Alessandro Diamanti,23197,26,Italy,Attacking Midfield,AM,3500000.0,AS Livorno,Italy,6800000.0,0
+2009,Premier League,West Ham United,summer,in,Radoslav Kovac,9702,29,Czech Republic,Centre-Back,CB,4500000.0,Spartak Moscow,Russia,3800000.0,0
+2009,Premier League,West Ham United,summer,in,Hérita Ilunga,17432,27,DR Congo,Left-Back,LB,5500000.0,FC Toulouse,France,3500000.0,0
+2009,Premier League,West Ham United,summer,in,Manuel da Costa,37398,23,Morocco,Centre-Back,CB,1500000.0,ACF Fiorentina,Italy,2700000.0,0
+2009,Premier League,West Ham United,summer,in,Fabio Daprelà,66109,18,Switzerland,Centre-Back,CB,500000.0,Grasshopper Club Zurich,Switzerland,1200000.0,0
+2009,Premier League,West Ham United,summer,in,Luis Jiménez,21821,25,Chile,Attacking Midfield,AM,5000000.0,Inter Milan,Italy,600000.0,1
+2009,Premier League,West Ham United,summer,in,Péter Kurucz,74157,21,Hungary,Goalkeeper,GK,50000.0,Újpest FC,Hungary,450000.0,0
+2009,Premier League,West Ham United,summer,in,Danny Uchechi,127779,19,Nigeria,Attacking Midfield,AM,,Charlton Athletic,England,0.0,0
+2009,Premier League,West Ham United,summer,in,Guillermo Franco,37558,32,Mexico,Centre-Forward,CF,4000000.0,Villarreal CF,Spain,0.0,0
+2009,Premier League,West Ham United,summer,in,Frank Nouble,119123,17,England,Centre-Forward,CF,,Chelsea FC U18,England,,0
+2009,Premier League,West Ham United,winter,in,Benni McCarthy,3091,32,South Africa,Centre-Forward,CF,5500000.0,Blackburn Rovers,England,2600000.0,0
+2009,Premier League,West Ham United,winter,in,Ilan,17244,29,Brazil,Centre-Forward,CF,3300000.0,AS Saint-Étienne,France,0.0,0
+2009,Premier League,West Ham United,winter,in,Mido,4329,26,Egypt,Centre-Forward,CF,3000000.0,Middlesbrough FC,England,0.0,1
+2009,Premier League,West Ham United,summer,out,Carlos Tevez,4276,25,Argentina,Centre-Forward,CF,25000000.0,Manchester City,England,29000000.0,0
+2009,Premier League,West Ham United,summer,out,Savio Nsereko,43100,20,Germany,Right Winger,RW,4000000.0,ACF Fiorentina,Italy,6200000.0,0
+2009,Premier League,West Ham United,summer,out,James Collins,12691,26,Wales,Centre-Back,CB,2000000.0,Aston Villa,England,5700000.0,0
+2009,Premier League,West Ham United,summer,out,Kyel Reid,39709,21,England,Left Winger,LW,500000.0,Sheffield United,England,400000.0,0
+2009,Premier League,West Ham United,summer,out,Lee Bowyer,3877,32,England,Central Midfield,CM,2000000.0,Birmingham City,England,0.0,0
+2009,Premier League,West Ham United,summer,out,Jimmy Walker,46746,36,England,Goalkeeper,GK,150000.0,Tottenham Hotspur,England,0.0,0
+2009,Premier League,West Ham United,summer,out,Diego Tristán,7504,33,Spain,Centre-Forward,CF,1400000.0,Cádiz CF,Spain,0.0,0
+2009,Premier League,West Ham United,summer,out,Wálter López,58581,23,Uruguay,Left-Back,LB,500000.0,CA Cerro,Uruguay,0.0,0
+2009,Premier League,West Ham United,summer,out,Jordan Spence,61588,19,England,Right-Back,RB,50000.0,Scunthorpe United,England,0.0,1
+2009,Premier League,West Ham United,summer,out,Freddie Sears,70714,19,England,Second Striker,SS,1300000.0,Crystal Palace,England,0.0,1
+2009,Premier League,West Ham United,summer,out,Lucas Neill,3826,31,Australia,Centre-Back,CB,4800000.0,Without Club,,,0
+2009,Premier League,West Ham United,summer,out,Jan Lastuvka,28186,26,Czech Republic,Goalkeeper,GK,900000.0,Shakhtar Donetsk,Ukraine,0.0,1
+2009,Premier League,West Ham United,summer,out,David Di Michele,6076,33,Italy,Centre-Forward,CF,2500000.0,Torino FC,Italy,0.0,1
+2009,Premier League,West Ham United,summer,out,Péter Kurucz,74157,21,Hungary,Goalkeeper,GK,50000.0,Újpest FC,Hungary,0.0,1
+2009,Premier League,West Ham United,summer,out,Mido,4329,27,Egypt,Centre-Forward,CF,3000000.0,Middlesbrough FC,England,0.0,1
+2009,Premier League,West Ham United,summer,out,Radoslav Kovac,9702,29,Czech Republic,Centre-Back,CB,4500000.0,Spartak Moscow,Russia,0.0,1
+2009,Premier League,West Ham United,summer,out,Hérita Ilunga,17432,27,DR Congo,Left-Back,LB,5500000.0,FC Toulouse,France,0.0,1
+2009,Premier League,West Ham United,winter,out,Nigel Quashie,4139,31,Scotland,Central Midfield,CM,1000000.0,Queens Park Rangers,England,0.0,0
+2009,Premier League,West Ham United,winter,out,Nigel Quashie,4139,31,Scotland,Central Midfield,CM,1000000.0,Milton Keynes Dons,England,0.0,1
+2009,Premier League,West Ham United,winter,out,Marek Stech,61589,19,Czech Republic,Goalkeeper,GK,100000.0,AFC Bournemouth,England,0.0,1
+2009,Premier League,West Ham United,winter,out,Frank Nouble,119123,18,England,Centre-Forward,CF,750000.0,West Bromwich Albion,England,0.0,1
+2009,Premier League,West Ham United,winter,out,Freddie Sears,70714,20,England,Second Striker,SS,1000000.0,Coventry City,England,0.0,1
+2009,Premier League,West Ham United,winter,out,Frank Nouble,119123,18,England,Centre-Forward,CF,750000.0,Swindon Town,England,0.0,1
+2009,Premier League,West Ham United,winter,out,Dean Ashton,14168,26,England,Centre-Forward,CF,8500000.0,Retired,,,0
+2009,Premier League,West Ham United,winter,out,Calum Davenport,4221,27,England,Centre-Back,CB,750000.0,Without Club,,,0
+2009,Premier League,West Ham United,winter,out,Luis Jiménez,21821,25,Chile,Attacking Midfield,AM,4000000.0,Inter Milan,Italy,0.0,1
+2009,Premier League,Wigan Athletic,summer,in,James McCarthy,45333,18,Ireland,Central Midfield,CM,1250000.0,Hamilton Academical FC,Scotland,5100000.0,0
+2009,Premier League,Wigan Athletic,summer,in,Mohamed Diamé,70950,22,Senegal,Central Midfield,CM,2000000.0,Rayo Vallecano,Spain,3000000.0,0
+2009,Premier League,Wigan Athletic,summer,in,Jordi Gómez,39010,24,Spain,Central Midfield,CM,1500000.0,RCD Espanyol Barcelona,Spain,2450000.0,0
+2009,Premier League,Wigan Athletic,summer,in,Jason Scotland,12807,30,Trinidad and Tobago,Centre-Forward,CF,1500000.0,Swansea City,England,2300000.0,0
+2009,Premier League,Wigan Athletic,summer,in,Antonio Amaya,71904,26,Spain,Centre-Back,CB,600000.0,Rayo Vallecano,Spain,800000.0,0
+2009,Premier League,Wigan Athletic,summer,in,Scott Sinclair,31552,20,England,Left Winger,LW,1000000.0,Chelsea FC,England,0.0,1
+2009,Premier League,Wigan Athletic,summer,in,Hendry Thomas,62275,24,Honduras,Defensive Midfield,DM,,CD Olimpia,Honduras,,0
+2009,Premier League,Wigan Athletic,winter,in,Victor Moses,59866,19,Nigeria,Right Winger,RW,1250000.0,Crystal Palace,England,3000000.0,0
+2009,Premier League,Wigan Athletic,winter,in,Gary Caldwell,3791,27,Scotland,Centre-Back,CB,5250000.0,Celtic FC,Scotland,1100000.0,0
+2009,Premier League,Wigan Athletic,winter,in,Marcelo Moreno Martins,54162,22,Bolivia,Centre-Forward,CF,3500000.0,Shakhtar Donetsk,Ukraine,685000.0,1
+2009,Premier League,Wigan Athletic,winter,in,Steve Gohouri,19857,28,Cote d'Ivoire,Centre-Back,CB,750000.0,Borussia Mönchengladbach,Germany,0.0,0
+2009,Premier League,Wigan Athletic,winter,in,Vladimir Stojkovic,34400,26,Serbia,Goalkeeper,GK,900000.0,Sporting CP,Portugal,0.0,1
+2009,Premier League,Wigan Athletic,summer,out,Antonio Valencia,33544,23,Ecuador,Right-Back,RB,11000000.0,Manchester United,England,18800000.0,0
+2009,Premier League,Wigan Athletic,summer,out,Lee Cattermole,37363,21,England,Defensive Midfield,DM,3700000.0,Sunderland AFC,England,7000000.0,0
+2009,Premier League,Wigan Athletic,summer,out,Lewis Montrose,57493,20,England,Central Midfield,CM,100000.0,Wycombe Wanderers,England,0.0,0
+2009,Premier League,Wigan Athletic,summer,out,Michael Brown,13509,32,England,Central Midfield,CM,2200000.0,Portsmouth FC,England,0.0,0
+2009,Premier League,Wigan Athletic,summer,out,Ben Watson,14081,24,England,Central Midfield,CM,2200000.0,Queens Park Rangers,England,0.0,1
+2009,Premier League,Wigan Athletic,summer,out,Henri Camara,3900,32,Senegal,Centre-Forward,CF,3000000.0,Without Club,,,0
+2009,Premier League,Wigan Athletic,summer,out,Antoine Sibierski,5489,34,France,Attacking Midfield,AM,800000.0,Retired,,,0
+2009,Premier League,Wigan Athletic,summer,out,Marlon King,14037,29,Jamaica,Centre-Forward,CF,3500000.0,Without Club,,,0
+2009,Premier League,Wigan Athletic,summer,out,Craig Mahon,61708,20,Ireland,Left Midfield,LM,,Without Club,,,0
+2009,Premier League,Wigan Athletic,summer,out,Amr Zaki,38178,26,Egypt,Centre-Forward,CF,6500000.0,Zamalek SC,Egypt,0.0,1
+2009,Premier League,Wigan Athletic,summer,out,Scott Sinclair,31552,21,England,Left Winger,LW,1500000.0,Chelsea FC,England,0.0,1
+2009,Premier League,Wigan Athletic,winter,out,Daniël de Ridder,15894,25,Netherlands,Left Winger,LW,1800000.0,Hapoel Tel Aviv,Israel,180000.0,1
+2009,Premier League,Wigan Athletic,winter,out,Erik Edman,4394,31,Sweden,Left-Back,LB,1500000.0,Helsingborgs IF,Sweden,0.0,0
+2009,Premier League,Wigan Athletic,winter,out,Olivier Kapo,5438,29,France,Attacking Midfield,AM,2900000.0,US Boulogne,France,0.0,1
+2009,Premier League,Wigan Athletic,winter,out,Ben Watson,14081,24,England,Central Midfield,CM,2000000.0,West Bromwich Albion,England,0.0,1
+2009,Premier League,Wigan Athletic,winter,out,Tomasz Cywka,38558,21,Poland,Defensive Midfield,DM,250000.0,Derby County,England,0.0,1
+2009,Premier League,Wigan Athletic,winter,out,Rachid Bouaouzan,21567,26,Morocco,Left Midfield,LM,500000.0,Helsingborgs IF,Sweden,0.0,1
+2009,Premier League,Wigan Athletic,winter,out,Won-hee Cho,35185,26,"Korea, South",Defensive Midfield,DM,1500000.0,Suwon Samsung Bluewings,"Korea, South",0.0,1
+2009,Premier League,Wolverhampton Wanderers,summer,in,Kevin Doyle,35193,25,Ireland,Centre-Forward,CF,4000000.0,Reading FC,England,7600000.0,0
+2009,Premier League,Wolverhampton Wanderers,summer,in,Ronald Zubar,22645,23,Guadeloupe,Centre-Back,CB,2400000.0,Olympique Marseille,France,3000000.0,0
+2009,Premier League,Wolverhampton Wanderers,summer,in,Nenad Milijas,36123,26,Serbia,Central Midfield,CM,4500000.0,Red Star Belgrade,Serbia,2800000.0,0
+2009,Premier League,Wolverhampton Wanderers,summer,in,Greg Halford,42062,24,England,Centre-Back,CB,1500000.0,Sunderland AFC,England,2400000.0,0
+2009,Premier League,Wolverhampton Wanderers,summer,in,Stefan Maierhofer,32660,27,Austria,Centre-Forward,CF,1600000.0,Rapid Vienna,Austria,2000000.0,0
+2009,Premier League,Wolverhampton Wanderers,summer,in,Andrew Surman,29975,22,England,Central Midfield,CM,1250000.0,Southampton FC,England,1400000.0,0
+2009,Premier League,Wolverhampton Wanderers,summer,in,Segundo Castillo,38763,27,Ecuador,Defensive Midfield,DM,2200000.0,Red Star Belgrade,Serbia,250000.0,1
+2009,Premier League,Wolverhampton Wanderers,summer,in,Marcus Hahnemann,4140,37,United States,Goalkeeper,GK,1750000.0,Reading FC,England,0.0,0
+2009,Premier League,Wolverhampton Wanderers,summer,in,Michael Mancienne,38100,21,Seychelles,Centre-Back,CB,1500000.0,Chelsea FC,England,0.0,1
+2009,Premier League,Wolverhampton Wanderers,winter,in,Aaron McCarey,138473,17,Ireland,Goalkeeper,GK,,Monaghan United FC,Ireland,0.0,0
+2009,Premier League,Wolverhampton Wanderers,winter,in,Geoffrey Mujangi Bia,45455,20,Belgium,Right Winger,RW,1500000.0,Royal Charleroi SC,Belgium,0.0,1
+2009,Premier League,Wolverhampton Wanderers,winter,in,Adlène Guédioura,74768,24,Algeria,Defensive Midfield,DM,500000.0,Royal Charleroi SC,Belgium,0.0,1
+2009,Premier League,Wolverhampton Wanderers,summer,out,Darren Potter,22231,24,Ireland,Central Midfield,CM,1000000.0,Sheffield Wednesday,England,400000.0,0
+2009,Premier League,Wolverhampton Wanderers,summer,out,Neill Collins,22162,25,Scotland,Centre-Back,CB,1500000.0,Preston North End,England,240000.0,1
+2009,Premier League,Wolverhampton Wanderers,summer,out,Elliott Bennett,43193,20,Jamaica,Right Midfield,RM,50000.0,Brighton & Hove Albion,England,230000.0,0
+2009,Premier League,Wolverhampton Wanderers,summer,out,Alex Melbourne,298479,19,England,Right-Back,RB,,AFC Wulfrunians,England,0.0,0
+2009,Premier League,Wolverhampton Wanderers,summer,out,Lewis Gobern,27658,24,England,Right Winger,RW,750000.0,Milton Keynes Dons,England,0.0,0
+2009,Premier League,Wolverhampton Wanderers,summer,out,George Friend,77544,21,England,Left-Back,LB,50000.0,Millwall FC,England,0.0,1
+2009,Premier League,Wolverhampton Wanderers,summer,out,Jason Shackell,11756,25,England,Centre-Back,CB,1250000.0,Doncaster Rovers,England,0.0,1
+2009,Premier League,Wolverhampton Wanderers,summer,out,Darren Ward,13614,30,England,Centre-Back,CB,1200000.0,Millwall FC,England,0.0,1
+2009,Premier League,Wolverhampton Wanderers,summer,out,Mark Little,41099,20,England,Centre-Back,CB,500000.0,Chesterfield FC,England,0.0,1
+2009,Premier League,Wolverhampton Wanderers,summer,out,Dan Jones,38076,22,England,Left-Back,LB,200000.0,Notts County,England,0.0,1
+2009,Premier League,Wolverhampton Wanderers,summer,out,George Friend,77544,21,England,Left-Back,LB,50000.0,Scunthorpe United,England,0.0,1
+2009,Premier League,Wolverhampton Wanderers,summer,out,Sam Vokes,48078,19,Wales,Centre-Forward,CF,750000.0,Leeds United,England,0.0,1
+2009,Premier League,Wolverhampton Wanderers,summer,out,David Davis,129054,18,England,Central Midfield,CM,,Darlington FC (- 2012),England,0.0,1
+2009,Premier League,Wolverhampton Wanderers,summer,out,Carl Ikeme,26412,23,Nigeria,Goalkeeper,GK,750000.0,Charlton Athletic,England,0.0,1
+2009,Premier League,Wolverhampton Wanderers,summer,out,Liam Hughes,67385,20,England,Centre-Forward,CF,,Retired,,,0
+2009,Premier League,Wolverhampton Wanderers,summer,out,Michael Mancienne,38100,22,Seychelles,Centre-Back,CB,2000000.0,Chelsea FC,England,0.0,1
+2009,Premier League,Wolverhampton Wanderers,winter,out,Darren Ward,13614,31,England,Centre-Back,CB,1200000.0,Millwall FC,England,0.0,0
+2009,Premier League,Wolverhampton Wanderers,winter,out,Mark Little,41099,21,England,Centre-Back,CB,500000.0,Peterborough United,England,0.0,0
+2009,Premier League,Wolverhampton Wanderers,winter,out,Scott Malone,101682,18,England,Left-Back,LB,50000.0,Southend United,England,0.0,1
+2009,Premier League,Wolverhampton Wanderers,winter,out,Carl Ikeme,26412,23,Nigeria,Goalkeeper,GK,750000.0,Sheffield United,England,0.0,1
+2009,Premier League,Wolverhampton Wanderers,winter,out,Carl Ikeme,26412,23,Nigeria,Goalkeeper,GK,750000.0,Queens Park Rangers,England,0.0,1
+2009,Premier League,Wolverhampton Wanderers,winter,out,Matt Hill,20969,28,England,Left-Back,LB,1000000.0,Queens Park Rangers,England,0.0,1
+2009,Premier League,Wolverhampton Wanderers,winter,out,Chris Iwelumo,2999,31,Scotland,Centre-Forward,CF,2000000.0,Bristol City,England,0.0,1
+2009,Premier League,Wolverhampton Wanderers,winter,out,Dan Jones,38076,23,England,Left-Back,LB,200000.0,Bristol Rovers,England,0.0,1
+2009,Premier League,Wolverhampton Wanderers,winter,out,George Friend,77544,22,England,Left-Back,LB,250000.0,Exeter City,England,0.0,1
+2009,Premier League,Wolverhampton Wanderers,winter,out,Stefan Maierhofer,32660,27,Austria,Centre-Forward,CF,1250000.0,Bristol City,England,0.0,1
+2009,Premier League,Wolverhampton Wanderers,winter,out,Neill Collins,22162,26,Scotland,Centre-Back,CB,1500000.0,Preston North End,England,,0
