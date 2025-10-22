@@ -43,7 +43,7 @@ season,league,club,window,movement,player_name,player_id,age,nationality,positio
 2025,Premier League,Arsenal FC,summer,out,Reiss Nelson,340325,25,England,Left Winger,LW,16000000.0,Brentford FC,England,0.0,1
 2025,Premier League,Arsenal FC,summer,out,Fábio Vieira,537598,25,Portugal,Attacking Midfield,AM,22000000.0,Hamburger SV,Germany,0.0,1
 2025,Premier League,Arsenal FC,summer,out,Karl Hein,493513,23,Estonia,Goalkeeper,GK,3000000.0,SV Werder Bremen,Germany,0.0,1
-2025,Premier League,Arsenal FC,summer,out,Takehiro Tomiyasu,331560,26,Japan,Centre-Back,CB,18000000.0,Without Club,,0.0,0
+2025,Premier League,Arsenal FC,summer,out,Takehiro Tomiyasu,331560,26,Japan,Centre-Back,CB,18000000.0,Without Club,,,0
 2025,Premier League,Arsenal FC,summer,out,Raheem Sterling,134425,30,England,Right Winger,RW,10000000.0,Chelsea FC,England,0.0,1
 2025,Premier League,Arsenal FC,summer,out,Neto,111819,35,Brazil,Goalkeeper,GK,1500000.0,AFC Bournemouth,England,0.0,1
 2025,Premier League,Aston Villa,summer,in,Evann Guessand,500689,24,Cote d'Ivoire,Centre-Forward,CF,25000000.0,OGC Nice,France,30000000.0,0
@@ -60,11 +60,11 @@ season,league,club,window,movement,player_name,player_id,age,nationality,positio
 2025,Premier League,Aston Villa,summer,out,Álex Moreno,193098,32,Spain,Left-Back,LB,7000000.0,Girona FC,Spain,0.0,0
 2025,Premier League,Aston Villa,summer,out,Leander Dendoncker,168157,30,Belgium,Defensive Midfield,DM,4500000.0,Real Oviedo,Spain,0.0,0
 2025,Premier League,Aston Villa,summer,out,Lewis Dobbin,627248,22,England,Left Winger,LW,2500000.0,Preston North End,England,0.0,1
-2025,Premier League,Aston Villa,summer,out,Filip Marschall,610863,22,England,Goalkeeper,GK,800000.0,Stevenage FC,England,0.0,0
+2025,Premier League,Aston Villa,summer,out,Filip Marschall,610863,22,England,Goalkeeper,GK,800000.0,Stevenage FC,England,,0
 2025,Premier League,Aston Villa,summer,out,Samuel Iling-Junior,581672,21,England,Left-Back,LB,10000000.0,West Bromwich Albion,England,0.0,1
 2025,Premier League,Aston Villa,summer,out,Joe Gauci,591844,25,Australia,Goalkeeper,GK,1500000.0,Port Vale FC,England,0.0,1
 2025,Premier League,Aston Villa,summer,out,Oliwier Zych,555074,21,Poland,Goalkeeper,GK,800000.0,Raków Częstochowa,Poland,0.0,1
-2025,Premier League,Aston Villa,summer,out,Kortney Hause,233124,29,England,Centre-Back,CB,1000000.0,Without Club,,0.0,0
+2025,Premier League,Aston Villa,summer,out,Kortney Hause,233124,29,England,Centre-Back,CB,1000000.0,Without Club,,,0
 2025,Premier League,Aston Villa,summer,out,Axel Disasi,386047,27,France,Centre-Back,CB,22000000.0,Chelsea FC,England,0.0,1
 2025,Premier League,Aston Villa,summer,out,Marco Asensio,296622,29,Spain,Attacking Midfield,AM,20000000.0,Paris Saint-Germain,France,0.0,1
 2025,Premier League,Aston Villa,summer,out,Marcus Rashford,258923,27,England,Left Winger,LW,50000000.0,Manchester United,England,0.0,1
@@ -81,9 +81,9 @@ season,league,club,window,movement,player_name,player_id,age,nationality,positio
 2025,Premier League,Brentford FC,summer,out,Mark Flekken,125714,32,Netherlands,Goalkeeper,GK,10000000.0,Bayer 04 Leverkusen,Germany,11000000.0,0
 2025,Premier League,Brentford FC,summer,out,Ben Mee,74810,35,England,Centre-Back,CB,700000.0,Sheffield United,England,0.0,0
 2025,Premier League,Brentford FC,summer,out,Ben Winterbottom,505046,23,England,Goalkeeper,GK,,Barrow AFC,England,0.0,0
-2025,Premier League,Brentford FC,summer,out,Mads Roerslev,391005,26,Denmark,Right-Back,RB,6000000.0,Southampton FC,England,0.0,0
+2025,Premier League,Brentford FC,summer,out,Mads Roerslev,391005,26,Denmark,Right-Back,RB,6000000.0,Southampton FC,England,,0
 2025,Premier League,Brentford FC,summer,out,Ji-soo Kim,709767,20,"Korea, South",Centre-Back,CB,600000.0,1.FC Kaiserslautern,Germany,0.0,1
-2025,Premier League,Brentford FC,summer,out,Josh Dasilva,340321,26,England,Central Midfield,CM,5000000.0,Without Club,,0.0,0
+2025,Premier League,Brentford FC,summer,out,Josh Dasilva,340321,26,England,Central Midfield,CM,5000000.0,Without Club,,,0
 2025,Premier League,Brentford FC,summer,out,Ryan Trevitt,874538,22,England,Central Midfield,CM,275000.0,Wigan Athletic,England,0.0,1
 2025,Premier League,Brentford FC,summer,out,Jayden Meghoma,954104,19,England,Left-Back,LB,500000.0,Rangers FC,Scotland,0.0,1
 2025,Premier League,Brentford FC,summer,out,Michael Kayode,823486,20,Italy,Right-Back,RB,18000000.0,ACF Fiorentina,Italy,0.0,1
@@ -127,8 +127,8 @@ season,league,club,window,movement,player_name,player_id,age,nationality,positio
 2025,Premier League,Burnley FC,summer,in,Max Weiß,829299,21,Germany,Goalkeeper,GK,4000000.0,Karlsruher SC,Germany,4000000.0,0
 2025,Premier League,Burnley FC,summer,in,Florentino,357162,26,Portugal,Defensive Midfield,DM,22000000.0,SL Benfica,Portugal,2000000.0,1
 2025,Premier League,Burnley FC,summer,in,Axel Tuanzebe,342046,27,DR Congo,Centre-Back,CB,5000000.0,Ipswich Town,England,0.0,0
-2025,Premier League,Burnley FC,summer,in,Martin Dúbravka,74960,36,Slovakia,Goalkeeper,GK,1000000.0,Newcastle United,England,0.0,0
-2025,Premier League,Burnley FC,summer,in,Kyle Walker,95424,35,England,Right-Back,RB,4000000.0,Manchester City,England,0.0,0
+2025,Premier League,Burnley FC,summer,in,Martin Dúbravka,74960,36,Slovakia,Goalkeeper,GK,1000000.0,Newcastle United,England,,0
+2025,Premier League,Burnley FC,summer,in,Kyle Walker,95424,35,England,Right-Back,RB,4000000.0,Manchester City,England,,0
 2025,Premier League,Burnley FC,summer,out,James Trafford,566799,22,England,Goalkeeper,GK,22000000.0,Manchester City,England,31200000.0,0
 2025,Premier League,Burnley FC,summer,out,Han-Noah Massengo,536508,24,France,Central Midfield,CM,5000000.0,FC Augsburg,Germany,3000000.0,0
 2025,Premier League,Burnley FC,summer,out,Dara Costelloe,614700,22,Ireland,Left Winger,LW,450000.0,Wigan Athletic,England,400000.0,0
@@ -137,14 +137,14 @@ season,league,club,window,movement,player_name,player_id,age,nationality,positio
 2025,Premier League,Burnley FC,summer,out,Josh Brownhill,293569,29,England,Central Midfield,CM,14000000.0,Al-Shabab FC,Saudi Arabia,0.0,0
 2025,Premier League,Burnley FC,summer,out,CJ Egan-Riley,581669,22,England,Centre-Back,CB,16000000.0,Olympique Marseille,France,0.0,0
 2025,Premier League,Burnley FC,summer,out,Jonjo Shelvey,71292,33,England,Central Midfield,CM,800000.0,Arabian Falcons FC,United Arab Emirates,0.0,0
-2025,Premier League,Burnley FC,summer,out,Darko Churlinov,386786,25,North Macedonia,Left Winger,LW,1500000.0,Kocaelispor,Türkiye,0.0,0
+2025,Premier League,Burnley FC,summer,out,Darko Churlinov,386786,25,North Macedonia,Left Winger,LW,1500000.0,Kocaelispor,Türkiye,,0
 2025,Premier League,Burnley FC,summer,out,Shurandy Sambo,412937,23,Curacao,Right-Back,RB,2000000.0,Sparta Rotterdam,Netherlands,0.0,1
 2025,Premier League,Burnley FC,summer,out,Aaron Ramsey,646658,22,England,Attacking Midfield,AM,10000000.0,Leicester City,England,0.0,1
 2025,Premier League,Burnley FC,summer,out,Michael Obafemi,444208,25,Ireland,Centre-Forward,CF,1700000.0,VfL Bochum,Germany,0.0,1
 2025,Premier League,Burnley FC,summer,out,Luca Koleosho,745461,20,Italy,Right Winger,RW,12000000.0,RCD Espanyol Barcelona,Spain,0.0,1
 2025,Premier League,Burnley FC,summer,out,Oluwaseun Adewumi,982081,20,Austria,Attacking Midfield,AM,350000.0,Cercle Brugge ,Belgium,0.0,1
 2025,Premier League,Burnley FC,summer,out,Owen Dodgson,686839,22,England,Left-Back,LB,300000.0,Stockport County,England,0.0,1
-2025,Premier League,Burnley FC,summer,out,Nathan Redmond,129078,31,England,Right Winger,RW,1500000.0,Without Club,,0.0,0
+2025,Premier League,Burnley FC,summer,out,Nathan Redmond,129078,31,England,Right Winger,RW,1500000.0,Without Club,,,0
 2025,Premier League,Burnley FC,summer,out,Benson Manuel,322702,28,Angola,Right Winger,RW,3500000.0,Swansea City,England,0.0,1
 2025,Premier League,Burnley FC,summer,out,Zian Flemming,411537,26,Netherlands,Centre-Forward,CF,6500000.0,Millwall FC,England,0.0,1
 2025,Premier League,Burnley FC,summer,out,Marcus Edwards,314367,26,England,Right Winger,RW,12000000.0,Sporting CP,Portugal,0.0,1
@@ -200,7 +200,7 @@ season,league,club,window,movement,player_name,player_id,age,nationality,positio
 2025,Premier League,Crystal Palace,summer,out,Hindolo Mustapha,1047258,19,Sierra Leone,Attacking Midfield,AM,,1.FC Nuremberg,Germany,0.0,1
 2025,Premier League,Crystal Palace,summer,out,David Ozoh,865993,20,England,Defensive Midfield,DM,700000.0,Derby County,England,0.0,1
 2025,Premier League,Crystal Palace,summer,out,Joe Whitworth,670840,21,England,Goalkeeper,GK,1700000.0,Exeter City,England,0.0,1
-2025,Premier League,Crystal Palace,summer,out,Joel Ward,92572,35,England,Right-Back,RB,500000.0,Without Club,,0.0,0
+2025,Premier League,Crystal Palace,summer,out,Joel Ward,92572,35,England,Right-Back,RB,500000.0,Without Club,,,0
 2025,Premier League,Crystal Palace,summer,out,Ben Chilwell,316125,28,England,Left-Back,LB,15000000.0,Chelsea FC,England,0.0,1
 2025,Premier League,Crystal Palace,summer,out,Matt Turner,425306,31,United States,Goalkeeper,GK,2500000.0,Nottingham Forest,England,0.0,1
 2025,Premier League,Everton FC,summer,in,Tyler Dibling,866655,19,England,Right Winger,RW,25000000.0,Southampton FC,England,40500000.0,0
@@ -210,7 +210,7 @@ season,league,club,window,movement,player_name,player_id,age,nationality,positio
 2025,Premier League,Everton FC,summer,in,Adam Aznou,938146,19,Morocco,Left-Back,LB,4000000.0,Bayern Munich,Germany,9000000.0,0
 2025,Premier League,Everton FC,summer,in,Mark Travers,357658,26,Ireland,Goalkeeper,GK,4000000.0,AFC Bournemouth,England,4600000.0,0
 2025,Premier League,Everton FC,summer,in,Merlin Röhl,608832,23,Germany,Attacking Midfield,AM,12000000.0,SC Freiburg,Germany,2000000.0,1
-2025,Premier League,Everton FC,summer,in,Tom King,215810,30,Wales,Goalkeeper,GK,200000.0,Wolverhampton Wanderers,England,0.0,0
+2025,Premier League,Everton FC,summer,in,Tom King,215810,30,Wales,Goalkeeper,GK,200000.0,Wolverhampton Wanderers,England,,0
 2025,Premier League,Everton FC,summer,in,Jack Grealish,203460,29,England,Left Winger,LW,28000000.0,Manchester City,England,0.0,1
 2025,Premier League,Everton FC,summer,out,Youssef Chermiti,670688,21,Portugal,Centre-Forward,CF,8000000.0,Rangers FC,Scotland,8600000.0,0
 2025,Premier League,Everton FC,summer,out,Neal Maupay,217115,28,France,Centre-Forward,CF,8000000.0,Olympique Marseille,France,4000000.0,0
@@ -222,7 +222,7 @@ season,league,club,window,movement,player_name,player_id,age,nationality,positio
 2025,Premier League,Everton FC,summer,out,Ashley Young,14086,40,England,Right-Back,RB,500000.0,Ipswich Town,England,0.0,0
 2025,Premier League,Everton FC,summer,out,Tyler Onyango,663225,22,England,Central Midfield,CM,300000.0,Stockport County,England,0.0,1
 2025,Premier League,Everton FC,summer,out,Harrison Armstrong,1107733,18,England,Central Midfield,CM,800000.0,Preston North End,England,0.0,1
-2025,Premier League,Everton FC,summer,out,Billy Crellin,536794,25,England,Goalkeeper,GK,125000.0,Without Club,,0.0,0
+2025,Premier League,Everton FC,summer,out,Billy Crellin,536794,25,England,Goalkeeper,GK,125000.0,Without Club,,,0
 2025,Premier League,Everton FC,summer,out,Isaac Heath,847579,20,England,Left Winger,LW,,Accrington Stanley,England,0.0,1
 2025,Premier League,Everton FC,summer,out,Jack Harrison,417346,28,England,Left Winger,LW,14000000.0,Leeds United,England,0.0,1
 2025,Premier League,Everton FC,summer,out,Jack Grealish,203460,30,England,Left Winger,LW,28000000.0,Manchester City,England,0.0,1
@@ -239,7 +239,7 @@ season,league,club,window,movement,player_name,player_id,age,nationality,positio
 2025,Premier League,Fulham FC,summer,out,Carlos Vinícius,525287,30,Brazil,Centre-Forward,CF,3500000.0,Grêmio Foot-Ball Porto Alegrense,Brazil,0.0,0
 2025,Premier League,Fulham FC,summer,out,Steven Benda,381469,26,Germany,Goalkeeper,GK,1000000.0,Millwall FC,England,0.0,1
 2025,Premier League,Fulham FC,summer,out,Luke Harris,817612,20,Wales,Attacking Midfield,AM,1000000.0,Oxford United,England,0.0,1
-2025,Premier League,Fulham FC,summer,out,Willian,52769,36,Brazil,Left Winger,LW,750000.0,Without Club,,0.0,0
+2025,Premier League,Fulham FC,summer,out,Willian,52769,36,Brazil,Left Winger,LW,750000.0,Without Club,,,0
 2025,Premier League,Fulham FC,summer,out,Reiss Nelson,340325,25,England,Left Winger,LW,16000000.0,Arsenal FC,England,0.0,1
 2025,Premier League,Leeds United,summer,in,Anton Stach,344069,26,Germany,Defensive Midfield,DM,14000000.0,TSG 1899 Hoffenheim,Germany,20000000.0,0
 2025,Premier League,Leeds United,summer,in,Noah Okafor,346890,25,Switzerland,Left Winger,LW,13000000.0,AC Milan,Italy,19000000.0,0
@@ -260,8 +260,8 @@ season,league,club,window,movement,player_name,player_id,age,nationality,positio
 2025,Premier League,Leeds United,summer,out,Maximilian Wöber,263361,27,Austria,Centre-Back,CB,8000000.0,SV Werder Bremen,Germany,0.0,1
 2025,Premier League,Leeds United,summer,out,Isaac Schmidt,449597,25,Switzerland,Left-Back,LB,2200000.0,SV Werder Bremen,Germany,0.0,1
 2025,Premier League,Leeds United,summer,out,Largie Ramazani,518644,24,Belgium,Left Winger,LW,7500000.0,Valencia CF,Spain,0.0,1
-2025,Premier League,Leeds United,summer,out,Josuha Guilavogui,93704,34,France,Defensive Midfield,DM,300000.0,Without Club,,0.0,0
-2025,Premier League,Leeds United,summer,out,Patrick Bamford,183334,31,England,Centre-Forward,CF,2000000.0,Without Club,,0.0,0
+2025,Premier League,Leeds United,summer,out,Josuha Guilavogui,93704,34,France,Defensive Midfield,DM,300000.0,Without Club,,,0
+2025,Premier League,Leeds United,summer,out,Patrick Bamford,183334,31,England,Centre-Forward,CF,2000000.0,Without Club,,,0
 2025,Premier League,Leeds United,summer,out,Charlie Crew,883539,19,Wales,Defensive Midfield,DM,150000.0,Doncaster Rovers,England,0.0,1
 2025,Premier League,Leeds United,summer,out,Manor Solomon,396638,25,Israel,Left Winger,LW,14000000.0,Tottenham Hotspur,England,0.0,1
 2025,Premier League,Leeds United,summer,out,Joe Rothwell,183293,30,England,Central Midfield,CM,1800000.0,AFC Bournemouth,England,0.0,1
@@ -292,13 +292,13 @@ season,league,club,window,movement,player_name,player_id,age,nationality,positio
 2025,Premier League,Manchester City,summer,in,Sverre Nypan,911736,18,Norway,Central Midfield,CM,15000000.0,Rosenborg BK,Norway,15000000.0,0
 2025,Premier League,Manchester City,summer,in,Marcus Bettinelli,116648,33,England,Goalkeeper,GK,600000.0,Chelsea FC,England,2400000.0,0
 2025,Premier League,Manchester City,summer,out,James McAtee,583199,22,England,Attacking Midfield,AM,20000000.0,Nottingham Forest,England,25500000.0,0
-2025,Premier League,Manchester City,summer,out,Yan Couto,627228,23,Brazil,Right-Back,RB,20000000.0,Borussia Dortmund,Germany,20000000.0,0
+2025,Premier League,Manchester City,summer,out,Yan Couto,627228,23,Brazil,Right Midfield,RM,20000000.0,Borussia Dortmund,Germany,20000000.0,0
 2025,Premier League,Manchester City,summer,out,Máximo Perrone,668547,22,Argentina,Defensive Midfield,DM,12000000.0,Como 1907,Italy,13000000.0,0
 2025,Premier League,Manchester City,summer,out,Ederson,238223,32,Brazil,Goalkeeper,GK,20000000.0,Fenerbahce,Türkiye,11000000.0,0
 2025,Premier League,Manchester City,summer,out,Manuel Akanji,284730,30,Switzerland,Centre-Back,CB,28000000.0,Inter Milan,Italy,1000000.0,1
 2025,Premier League,Manchester City,summer,out,İlkay Gündoğan,53622,34,Germany,Central Midfield,CM,5000000.0,Galatasaray,Türkiye,0.0,0
 2025,Premier League,Manchester City,summer,out,Kevin De Bruyne,88755,34,Belgium,Attacking Midfield,AM,20000000.0,SSC Napoli,Italy,0.0,0
-2025,Premier League,Manchester City,summer,out,Kyle Walker,95424,35,England,Right-Back,RB,4000000.0,Burnley FC,England,0.0,0
+2025,Premier League,Manchester City,summer,out,Kyle Walker,95424,35,England,Right-Back,RB,4000000.0,Burnley FC,England,,0
 2025,Premier League,Manchester City,summer,out,Issa Kaboré,649452,24,Burkina Faso,Right-Back,RB,4000000.0,Wrexham AFC,England,0.0,1
 2025,Premier League,Manchester City,summer,out,Josh Wilson-Esbrand,576121,22,England,Left-Back,LB,4000000.0,Radomiak Radom,Poland,0.0,1
 2025,Premier League,Manchester City,summer,out,Claudio Echeverri,994536,19,Argentina,Attacking Midfield,AM,18000000.0,Bayer 04 Leverkusen,Germany,0.0,1
@@ -306,8 +306,8 @@ season,league,club,window,movement,player_name,player_id,age,nationality,positio
 2025,Premier League,Manchester City,summer,out,Jack Grealish,203460,29,England,Left Winger,LW,28000000.0,Everton FC,England,0.0,1
 2025,Premier League,Manchester City,summer,out,Vitor Reis,1005575,19,Brazil,Centre-Back,CB,30000000.0,Girona FC,Spain,0.0,1
 2025,Premier League,Manchester City,summer,out,Juma Bah,1121298,19,Sierra Leone,Centre-Back,CB,6000000.0,OGC Nice,France,0.0,1
-2025,Premier League,Manchester City,summer,out,Scott Carson,14555,39,England,Goalkeeper,GK,100000.0,Without Club,,0.0,0
-2025,Premier League,Manchester United,summer,in,Benjamin Sesko,627442,22,Slovenia,Centre-Forward,CF,70000000.0,RB Leipzig,Germany,76500000.0,0
+2025,Premier League,Manchester City,summer,out,Scott Carson,14555,39,England,Goalkeeper,GK,100000.0,Without Club,,,0
+2025,Premier League,Manchester United,summer,in,Benjamin Šeško,627442,22,Slovenia,Centre-Forward,CF,70000000.0,RB Leipzig,Germany,76500000.0,0
 2025,Premier League,Manchester United,summer,in,Bryan Mbeumo,413039,25,Cameroon,Right Winger,RW,55000000.0,Brentford FC,England,75000000.0,0
 2025,Premier League,Manchester United,summer,in,Matheus Cunha,517894,26,Brazil,Second Striker,SS,60000000.0,Wolverhampton Wanderers,England,74200000.0,0
 2025,Premier League,Manchester United,summer,in,Senne Lammens,503883,23,Belgium,Goalkeeper,GK,9000000.0,Royal Antwerp FC,Belgium,21000000.0,0
@@ -321,8 +321,8 @@ season,league,club,window,movement,player_name,player_id,age,nationality,positio
 2025,Premier League,Manchester United,summer,out,Toby Collyer,654253,21,England,Defensive Midfield,DM,5000000.0,West Bromwich Albion,England,0.0,1
 2025,Premier League,Manchester United,summer,out,Harry Amass,1011738,18,England,Left-Back,LB,5000000.0,Sheffield Wednesday,England,0.0,1
 2025,Premier League,Manchester United,summer,out,Jadon Sancho,401173,25,England,Left Winger,LW,28000000.0,Aston Villa,England,0.0,1
-2025,Premier League,Manchester United,summer,out,Jonny Evans,42412,37,Northern Ireland,Centre-Back,CB,1000000.0,Retired,,0.0,0
-2025,Premier League,Manchester United,summer,out,Christian Eriksen,69633,33,Denmark,Attacking Midfield,AM,4000000.0,Without Club,,0.0,0
+2025,Premier League,Manchester United,summer,out,Jonny Evans,42412,37,Northern Ireland,Centre-Back,CB,1000000.0,Retired,,,0
+2025,Premier League,Manchester United,summer,out,Christian Eriksen,69633,33,Denmark,Attacking Midfield,AM,4000000.0,Without Club,,,0
 2025,Premier League,Newcastle United,summer,in,Nick Woltemade,455661,23,Germany,Centre-Forward,CF,30000000.0,VfB Stuttgart,Germany,75000000.0,0
 2025,Premier League,Newcastle United,summer,in,Anthony Elanga,583189,23,Sweden,Right Winger,RW,42000000.0,Nottingham Forest,England,61400000.0,0
 2025,Premier League,Newcastle United,summer,in,Yoane Wissa,388165,28,DR Congo,Centre-Forward,CF,32000000.0,Brentford FC,England,57700000.0,0
@@ -335,11 +335,11 @@ season,league,club,window,movement,player_name,player_id,age,nationality,positio
 2025,Premier League,Newcastle United,summer,out,Sean Longstaff,346707,27,England,Central Midfield,CM,20000000.0,Leeds United,England,13800000.0,0
 2025,Premier League,Newcastle United,summer,out,Isaac Hayden,206225,30,Jamaica,Defensive Midfield,DM,700000.0,Queens Park Rangers,England,0.0,0
 2025,Premier League,Newcastle United,summer,out,Callum Wilson,123682,33,England,Centre-Forward,CF,8000000.0,West Ham United,England,0.0,0
-2025,Premier League,Newcastle United,summer,out,Martin Dúbravka,74960,36,Slovakia,Goalkeeper,GK,1000000.0,Burnley FC,England,0.0,0
+2025,Premier League,Newcastle United,summer,out,Martin Dúbravka,74960,36,Slovakia,Goalkeeper,GK,1000000.0,Burnley FC,England,,0
 2025,Premier League,Newcastle United,summer,out,Odysseas Vlachodimos,124419,31,Greece,Goalkeeper,GK,5000000.0,Sevilla FC,Spain,0.0,1
 2025,Premier League,Newcastle United,summer,out,Antoñito Cordero,1178393,18,Spain,Left Winger,LW,2000000.0,KVC Westerlo,Belgium,0.0,1
 2025,Premier League,Newcastle United,summer,out,Joe White,614811,22,England,Attacking Midfield,AM,275000.0,Leyton Orient,England,0.0,1
-2025,Premier League,Newcastle United,summer,out,Jamal Lewis,346018,27,Northern Ireland,Left-Back,LB,2500000.0,Without Club,,0.0,0
+2025,Premier League,Newcastle United,summer,out,Jamal Lewis,346018,27,Northern Ireland,Left-Back,LB,2500000.0,Without Club,,,0
 2025,Premier League,Newcastle United,summer,out,Matt Targett,250478,29,England,Left-Back,LB,5000000.0,Middlesbrough FC,England,0.0,1
 2025,Premier League,Nottingham Forest,summer,in,Omari Hutchinson,741238,21,England,Attacking Midfield,AM,22000000.0,Ipswich Town,England,43400000.0,0
 2025,Premier League,Nottingham Forest,summer,in,Dan Ndoye,365108,24,Switzerland,Right Winger,RW,35000000.0,Bologna FC 1909,Italy,42000000.0,0
@@ -366,12 +366,12 @@ season,league,club,window,movement,player_name,player_id,age,nationality,positio
 2025,Premier League,Nottingham Forest,summer,out,Josh Bowler,506470,26,England,Right Winger,RW,1000000.0,Blackpool FC,England,0.0,0
 2025,Premier League,Nottingham Forest,summer,out,Jonathan Panzo,392777,24,England,Centre-Back,CB,1200000.0,Rio Ave FC,Portugal,0.0,0
 2025,Premier League,Nottingham Forest,summer,out,Cuiabano,891353,22,Brazil,Left-Back,LB,8000000.0,Botafogo de Futebol e Regatas,Brazil,0.0,1
-2025,Premier League,Nottingham Forest,summer,out,Marko Stamenic,617018,23,New Zealand,Central Midfield,CM,3000000.0,Swansea City,England,0.0,0
+2025,Premier League,Nottingham Forest,summer,out,Marko Stamenic,617018,23,New Zealand,Central Midfield,CM,3000000.0,Swansea City,England,,0
 2025,Premier League,Nottingham Forest,summer,out,David Carmo,498237,26,Angola,Centre-Back,CB,10000000.0,Real Oviedo,Spain,0.0,1
 2025,Premier League,Nottingham Forest,summer,out,Tyler Bindon,1007720,20,New Zealand,Centre-Back,CB,1200000.0,Sheffield United,England,0.0,1
 2025,Premier League,Nottingham Forest,summer,out,Eric da Silva Moreira,897481,19,Germany,Right-Back,RB,1000000.0,Rio Ave FC,Portugal,0.0,1
-2025,Premier League,Nottingham Forest,summer,out,Emmanuel Dennis,448854,27,Nigeria,Centre-Forward,CF,2500000.0,Without Club,,0.0,0
-2025,Premier League,Nottingham Forest,summer,out,Wayne Hennessey,45494,38,Wales,Goalkeeper,GK,150000.0,Retired,,0.0,0
+2025,Premier League,Nottingham Forest,summer,out,Emmanuel Dennis,448854,27,Nigeria,Centre-Forward,CF,2500000.0,Without Club,,,0
+2025,Premier League,Nottingham Forest,summer,out,Wayne Hennessey,45494,38,Wales,Goalkeeper,GK,150000.0,Retired,,,0
 2025,Premier League,Nottingham Forest,summer,out,Omar Richards,424881,27,England,Left-Back,LB,2500000.0,Rio Ave FC,Portugal,0.0,1
 2025,Premier League,Nottingham Forest,summer,out,Álex Moreno,193098,32,Spain,Left-Back,LB,7000000.0,Aston Villa,England,0.0,1
 2025,Premier League,Sunderland AFC,summer,in,Habib Diarra,876631,21,Senegal,Central Midfield,CM,20000000.0,RC Strasbourg Alsace,France,31500000.0,0
@@ -393,7 +393,7 @@ season,league,club,window,movement,player_name,player_id,age,nationality,positio
 2025,Premier League,Sunderland AFC,summer,out,Tom Watson,933018,19,England,Left Winger,LW,8000000.0,Brighton & Hove Albion,England,12000000.0,0
 2025,Premier League,Sunderland AFC,summer,out,Pierre Ekwah,538994,23,France,Defensive Midfield,DM,7000000.0,AS Saint-Étienne,France,6000000.0,0
 2025,Premier League,Sunderland AFC,summer,out,Nectarios Triantis,957224,22,Greece,Central Midfield,CM,1000000.0,Minnesota United FC,United States,2500000.0,0
-2025,Premier League,Sunderland AFC,summer,out,Nathan Bishop,495033,25,England,Goalkeeper,GK,275000.0,AFC Wimbledon,England,0.0,0
+2025,Premier League,Sunderland AFC,summer,out,Nathan Bishop,495033,25,England,Goalkeeper,GK,275000.0,AFC Wimbledon,England,,0
 2025,Premier League,Sunderland AFC,summer,out,Niall Huggins,559801,24,Wales,Right-Back,RB,800000.0,Wycombe Wanderers,England,0.0,1
 2025,Premier League,Sunderland AFC,summer,out,Jenson Seelt,617755,22,Netherlands,Centre-Back,CB,2000000.0,VfL Wolfsburg,Germany,0.0,1
 2025,Premier League,Sunderland AFC,summer,out,Patrick Roberts,225452,28,England,Right Winger,RW,5000000.0,Birmingham City,England,0.0,1
@@ -422,9 +422,9 @@ season,league,club,window,movement,player_name,player_id,age,nationality,positio
 2025,Premier League,Tottenham Hotspur,summer,out,Alfie Devine,728734,21,England,Attacking Midfield,AM,3500000.0,Preston North End,England,0.0,1
 2025,Premier League,Tottenham Hotspur,summer,out,Min-hyeok Yang,1004327,19,"Korea, South",Right Winger,RW,3500000.0,Portsmouth FC,England,0.0,1
 2025,Premier League,Tottenham Hotspur,summer,out,Mikey Moore,1011147,17,England,Left Winger,LW,18000000.0,Rangers FC,Scotland,0.0,1
-2025,Premier League,Tottenham Hotspur,summer,out,Alfie Whiteman,282823,26,England,Goalkeeper,GK,500000.0,Without Club,,0.0,0
-2025,Premier League,Tottenham Hotspur,summer,out,Sergio Reguilón,282429,28,Spain,Left-Back,LB,6000000.0,Without Club,,0.0,0
-2025,Premier League,Tottenham Hotspur,summer,out,Fraser Forster,52570,37,England,Goalkeeper,GK,1000000.0,Without Club,,0.0,0
+2025,Premier League,Tottenham Hotspur,summer,out,Alfie Whiteman,282823,26,England,Goalkeeper,GK,500000.0,Without Club,,,0
+2025,Premier League,Tottenham Hotspur,summer,out,Sergio Reguilón,282429,28,Spain,Left-Back,LB,6000000.0,Without Club,,,0
+2025,Premier League,Tottenham Hotspur,summer,out,Fraser Forster,52570,37,England,Goalkeeper,GK,1000000.0,Without Club,,,0
 2025,Premier League,Tottenham Hotspur,summer,out,Mathys Tel,801734,20,France,Centre-Forward,CF,35000000.0,Bayern Munich,Germany,0.0,1
 2025,Premier League,Tottenham Hotspur,summer,out,Kevin Danso,263236,26,Austria,Centre-Back,CB,25000000.0,RC Lens,France,0.0,1
 2025,Premier League,Tottenham Hotspur,summer,out,Timo Werner,170527,29,Germany,Left Winger,LW,7000000.0,RB Leipzig,Germany,0.0,1
@@ -436,7 +436,7 @@ season,league,club,window,movement,player_name,player_id,age,nationality,positio
 2025,Premier League,West Ham United,summer,in,Callum Wilson,123682,33,England,Centre-Forward,CF,8000000.0,Newcastle United,England,0.0,0
 2025,Premier League,West Ham United,summer,in,Kyle Walker-Peters,341051,28,England,Right-Back,RB,15000000.0,Southampton FC,England,0.0,0
 2025,Premier League,West Ham United,summer,in,Igor Julio,380350,27,Brazil,Centre-Back,CB,20000000.0,Brighton & Hove Albion,England,0.0,1
-2025,Premier League,West Ham United,summer,in,Lukasz Fabianski,29692,40,Poland,Goalkeeper,GK,500000.0,Without Club,,0.0,0
+2025,Premier League,West Ham United,summer,in,Lukasz Fabianski,29692,40,Poland,Goalkeeper,GK,500000.0,Without Club,,,0
 2025,Premier League,West Ham United,summer,out,Mohammed Kudus,543499,24,Ghana,Right Winger,RW,45000000.0,Tottenham Hotspur,England,63800000.0,0
 2025,Premier League,West Ham United,summer,out,Nayef Aguerd,361914,29,Morocco,Centre-Back,CB,18000000.0,Olympique Marseille,France,23000000.0,0
 2025,Premier League,West Ham United,summer,out,Edson Álvarez,401356,27,Mexico,Defensive Midfield,DM,25000000.0,Fenerbahce,Türkiye,2000000.0,1
@@ -448,7 +448,7 @@ season,league,club,window,movement,player_name,player_id,age,nationality,positio
 2025,Premier League,West Ham United,summer,out,Kurt Zouma,157509,30,France,Centre-Back,CB,10000000.0,CFR Cluj,Romania,0.0,0
 2025,Premier League,West Ham United,summer,out,Kaelan Casey,845321,20,England,Centre-Back,CB,1000000.0,Swansea City,England,0.0,1
 2025,Premier League,West Ham United,summer,out,Maxwel Cornet,234781,28,Cote d'Ivoire,Left Winger,LW,8000000.0,Genoa CFC,Italy,0.0,1
-2025,Premier League,West Ham United,summer,out,Lukasz Fabianski,29692,40,Poland,Goalkeeper,GK,500000.0,Without Club,,0.0,0
+2025,Premier League,West Ham United,summer,out,Lukasz Fabianski,29692,40,Poland,Goalkeeper,GK,500000.0,Without Club,,,0
 2025,Premier League,West Ham United,summer,out,Junior Robinson,670841,21,England,Right-Back,RB,,Livingston FC,Scotland,0.0,1
 2025,Premier League,West Ham United,summer,out,Evan Ferguson,648046,20,Ireland,Centre-Forward,CF,25000000.0,Brighton & Hove Albion,England,0.0,1
 2025,Premier League,West Ham United,summer,out,Carlos Soler,372246,28,Spain,Central Midfield,CM,18000000.0,Paris Saint-Germain,France,0.0,1
@@ -467,14 +467,14 @@ season,league,club,window,movement,player_name,player_id,age,nationality,positio
 2025,Premier League,Wolverhampton Wanderers,summer,out,Nélson Semedo,231572,31,Portugal,Right-Back,RB,9000000.0,Fenerbahce,Türkiye,0.0,0
 2025,Premier League,Wolverhampton Wanderers,summer,out,Chiquinho,695454,25,Portugal,Left Winger,LW,2000000.0,FC Alverca,Portugal,0.0,0
 2025,Premier League,Wolverhampton Wanderers,summer,out,Pablo Sarabia,74230,33,Spain,Right Winger,RW,5000000.0,Al-Arabi SC,Qatar,0.0,0
-2025,Premier League,Wolverhampton Wanderers,summer,out,Joe Hodge,503975,22,Ireland,Defensive Midfield,DM,1000000.0,CD Tondela,Portugal,0.0,0
-2025,Premier League,Wolverhampton Wanderers,summer,out,Chem Campbell,614603,22,Wales,Attacking Midfield,AM,900000.0,Stevenage FC,England,0.0,0
-2025,Premier League,Wolverhampton Wanderers,summer,out,Bastien Meupiyou,955253,19,France,Centre-Back,CB,2500000.0,FC Alverca,Portugal,0.0,0
-2025,Premier League,Wolverhampton Wanderers,summer,out,Tom King,215810,30,Wales,Goalkeeper,GK,200000.0,Everton FC,England,0.0,0
+2025,Premier League,Wolverhampton Wanderers,summer,out,Joe Hodge,503975,22,Ireland,Defensive Midfield,DM,1000000.0,CD Tondela,Portugal,,0
+2025,Premier League,Wolverhampton Wanderers,summer,out,Chem Campbell,614603,22,Wales,Attacking Midfield,AM,900000.0,Stevenage FC,England,,0
+2025,Premier League,Wolverhampton Wanderers,summer,out,Bastien Meupiyou,955253,19,France,Centre-Back,CB,2500000.0,FC Alverca,Portugal,,0
+2025,Premier League,Wolverhampton Wanderers,summer,out,Tom King,215810,30,Wales,Goalkeeper,GK,200000.0,Everton FC,England,,0
 2025,Premier League,Wolverhampton Wanderers,summer,out,Sasa Kalajdzic,369567,28,Austria,Centre-Forward,CF,4000000.0,LASK,Austria,0.0,1
 2025,Premier League,Wolverhampton Wanderers,summer,out,Boubacar Traoré,649020,23,Mali,Defensive Midfield,DM,5000000.0,FC Metz,France,0.0,1
 2025,Premier League,Wolverhampton Wanderers,summer,out,Tommy Doyle,433183,23,England,Central Midfield,CM,10000000.0,Birmingham City,England,0.0,1
-2025,Premier League,Wolverhampton Wanderers,summer,out,Craig Dawson,121477,35,England,Centre-Back,CB,1500000.0,Without Club,,0.0,0
+2025,Premier League,Wolverhampton Wanderers,summer,out,Craig Dawson,121477,35,England,Centre-Back,CB,1500000.0,Without Club,,,0
 2025,Premier League,Wolverhampton Wanderers,summer,out,Nasser Djiga,862297,22,Burkina Faso,Centre-Back,CB,10000000.0,Rangers FC,Scotland,0.0,1
 2025,Premier League,Wolverhampton Wanderers,summer,out,Pedro Lima,1193867,19,Brazil,Right-Back,RB,5000000.0,FC Porto,Portugal,0.0,1
 2025,Premier League,Wolverhampton Wanderers,summer,out,Carlos Forbs,742451,21,Portugal,Left Winger,LW,8000000.0,Ajax Amsterdam,Netherlands,0.0,1

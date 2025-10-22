@@ -45,13 +45,14 @@ season,league,club,window,movement,player_name,player_id,age,nationality,positio
 1993,Premier League,Chelsea FC,summer,out,Andy Townsend,102498,29,Ireland,Central Midfield,CM,,Aston Villa,England,2400000.0,0
 1993,Premier League,Chelsea FC,summer,out,Graham Stuart,3334,22,England,Right Winger,RW,,Everton FC,England,1280000.0,0
 1993,Premier League,Chelsea FC,summer,out,Ian Pearce,3879,19,England,Centre-Back,CB,,Blackburn Rovers,England,450000.0,0
-1993,Premier League,Chelsea FC,summer,out,Steve Livingstone,176815,24,England,Centre-Forward,CF,,Grimsby Town,England,150000.0,0
 1993,Premier League,Chelsea FC,summer,out,Paul Elliott,222499,30,England,Centre-Back,CB,,Retired,,,0
 1993,Premier League,Chelsea FC,summer,out,Nick Colgan,12690,20,Ireland,Goalkeeper,GK,,Crewe Alexandra,England,0.0,1
 1993,Premier League,Chelsea FC,summer,out,Anthony Barness,3288,20,England,Left-Back,LB,,Middlesbrough FC,England,0.0,1
 1993,Premier League,Chelsea FC,summer,out,Steve Livingstone,176815,23,England,Centre-Forward,CF,,Port Vale FC,England,0.0,1
+1993,Premier League,Chelsea FC,summer,out,Steve Livingstone,176815,24,England,Centre-Forward,CF,,Grimsby Town,England,0.0,1
 1993,Premier League,Chelsea FC,winter,out,Dave Beasant,10384,34,England,Goalkeeper,GK,,Southampton FC,England,380000.0,0
 1993,Premier League,Chelsea FC,winter,out,Damian Matthew,222518,23,England,Central Midfield,CM,,Crystal Palace,England,187000.0,0
+1993,Premier League,Chelsea FC,winter,out,Steve Livingstone,176815,24,England,Centre-Forward,CF,,Grimsby Town,England,150000.0,0
 1993,Premier League,Chelsea FC,winter,out,Zeke Rowe,1308792,20,England,Centre-Forward,CF,,Barnet FC,England,0.0,1
 1993,Premier League,Coventry City,summer,in,Mick Harford,176806,34,England,Centre-Forward,CF,,Sunderland AFC,England,225000.0,0
 1993,Premier League,Coventry City,summer,in,Paul Williams,229054,23,England,Left-Back,LB,,Stockport County,England,185000.0,0
@@ -304,7 +305,7 @@ season,league,club,window,movement,player_name,player_id,age,nationality,positio
 1993,Premier League,Swindon Town,summer,out,Glenn Hoddle,117193,35,England,Attacking Midfield,AM,,Chelsea FC,England,86000.0,0
 1993,Premier League,Swindon Town,summer,out,Dave Mitchell,110321,31,Australia,Centre-Forward,CF,,Altay SK,Türkiye,29000.0,0
 1993,Premier League,Swindon Town,summer,out,Brian Marwood,176750,33,England,Left Midfield,LM,,Barnet FC,England,0.0,0
-1993,Premier League,Swindon Town,summer,out,Paul Hunt,1014890,22,England,Centre-Forward,CF,,SK Brann,Norway,0.0,0
+1993,Premier League,Swindon Town,summer,out,Paul Hunt,1014890,22,England,Centre-Forward,CF,,Without Club,,0.0,0
 1993,Premier League,Swindon Town,summer,out,Shaun Close,960585,26,England,Centre-Forward,CF,,Barnet FC,England,,0
 1993,Premier League,Swindon Town,summer,out,Paul Heald,13790,25,England,Goalkeeper,GK,,Leyton Orient,England,0.0,1
 1993,Premier League,Swindon Town,summer,out,Frank McAvennie,116148,34,Scotland,Centre-Forward,CF,,Celtic FC,Scotland,0.0,1
