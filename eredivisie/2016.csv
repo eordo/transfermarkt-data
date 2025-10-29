@@ -1,0 +1,446 @@
+season,league,club,window,movement,player_name,player_id,age,nationality,position,pos,market_value,dealing_club,dealing_country,fee,is_loan
+2016,Eredivisie,ADO Den Haag,summer,in,Sheraldo Becker,188888,21,Suriname,Left Winger,LW,800000.0,Ajax Amsterdam U21,Netherlands,200000.0,0
+2016,Eredivisie,ADO Den Haag,summer,in,Aschraf El Mahdioui,295764,20,Morocco,Defensive Midfield,DM,75000.0,Ajax Amsterdam U21,Netherlands,0.0,0
+2016,Eredivisie,ADO Den Haag,summer,in,Tom Trybull,93831,23,Germany,Defensive Midfield,DM,150000.0,SpVgg Greuther Fürth,Germany,0.0,0
+2016,Eredivisie,ADO Den Haag,summer,in,José San Román,45655,27,Argentina,Right-Back,RB,900000.0,CA Huracán,Argentina,0.0,0
+2016,Eredivisie,ADO Den Haag,summer,in,Thomas Meißner,72505,25,Germany,Centre-Back,CB,500000.0,MSV Duisburg,Germany,0.0,0
+2016,Eredivisie,ADO Den Haag,summer,in,Ernestas Setkus,147028,31,Lithuania,Goalkeeper,GK,500000.0,Sivasspor,Türkiye,0.0,0
+2016,Eredivisie,ADO Den Haag,winter,in,Donny Gorter,56534,28,Netherlands,Left-Back,LB,250000.0,Viborg FF,Denmark,0.0,0
+2016,Eredivisie,ADO Den Haag,winter,in,Randy Wolters,68947,26,Netherlands,Left Winger,LW,500000.0,Go Ahead Eagles,Netherlands,0.0,1
+2016,Eredivisie,ADO Den Haag,winter,in,Nasser El Khayati,88968,27,Netherlands,Attacking Midfield,AM,400000.0,Queens Park Rangers,England,0.0,1
+2016,Eredivisie,ADO Den Haag,winter,in,Guyon Fernandez,56370,30,Curacao,Centre-Forward,CF,250000.0,Without Club,,,0
+2016,Eredivisie,ADO Den Haag,winter,in,Abel Tamata,123513,26,DR Congo,Left-Back,LB,500000.0,Without Club,,,0
+2016,Eredivisie,ADO Den Haag,summer,out,Martin Hansen,45601,26,Denmark,Goalkeeper,GK,1500000.0,FC Ingolstadt 04,Germany,950000.0,0
+2016,Eredivisie,ADO Den Haag,summer,out,Gianni Zuiverloon,27304,29,Netherlands,Centre-Back,CB,650000.0,Cultural Leonesa,Spain,0.0,0
+2016,Eredivisie,ADO Den Haag,summer,out,Giovanni Korte,234910,22,Netherlands,Right Winger,RW,400000.0,NAC Breda,Netherlands,0.0,0
+2016,Eredivisie,ADO Den Haag,summer,out,Robin Buwalda,220896,21,Netherlands,Centre-Back,CB,300000.0,NEC Nijmegen,Netherlands,0.0,0
+2016,Eredivisie,ADO Den Haag,summer,out,Thomas Kristensen,23492,33,Denmark,Central Midfield,CM,550000.0,Brisbane Roar,Australia,0.0,0
+2016,Eredivisie,ADO Den Haag,summer,out,Timothy Derijck,31131,29,Belgium,Centre-Back,CB,600000.0,Zulte Waregem,Belgium,0.0,0
+2016,Eredivisie,ADO Den Haag,summer,out,Vito Wormgoor,45543,27,Netherlands,Centre-Back,CB,900000.0,Aalesunds FK,Norway,0.0,0
+2016,Eredivisie,ADO Den Haag,summer,out,Tim Coremans,119061,25,Netherlands,Goalkeeper,GK,75000.0,FC Dordrecht,Netherlands,0.0,1
+2016,Eredivisie,ADO Den Haag,summer,out,Dylan Nieuwenhuijs,326337,21,Netherlands,Centre-Back,CB,50000.0,Without Club,,,0
+2016,Eredivisie,ADO Den Haag,summer,out,Mathias Gehrt,69636,24,Denmark,Attacking Midfield,AM,500000.0,Without Club,,,0
+2016,Eredivisie,ADO Den Haag,summer,out,Kyle Ebecilio,152642,22,Netherlands,Central Midfield,CM,1750000.0,Twente Enschede FC,Netherlands,0.0,1
+2016,Eredivisie,ADO Den Haag,winter,out,José San Román,45655,28,Argentina,Right-Back,RB,900000.0,CA Newell's Old Boys,Argentina,0.0,0
+2016,Eredivisie,ADO Den Haag,winter,out,Hector Hevel,277962,20,Malaysia,Central Midfield,CM,150000.0,AEK Larnaca,Cyprus,0.0,0
+2016,Eredivisie,ADO Den Haag,winter,out,Dennis van der Heijden,350193,19,Netherlands,Centre-Forward,CF,350000.0,FC Volendam,Netherlands,0.0,1
+2016,Eredivisie,ADO Den Haag,winter,out,Ludcinio Marengo,215648,25,Netherlands,Left Winger,LW,450000.0,Go Ahead Eagles,Netherlands,0.0,1
+2016,Eredivisie,AZ Alkmaar,summer,in,Wout Weghorst,228645,23,Netherlands,Centre-Forward,CF,1250000.0,Heracles Almelo,Netherlands,1500000.0,0
+2016,Eredivisie,AZ Alkmaar,summer,in,Fred Friday,282783,21,Nigeria,Centre-Forward,CF,1500000.0,Lillestrøm SK,Norway,1500000.0,0
+2016,Eredivisie,AZ Alkmaar,summer,in,Iliass Bel Hassani,160431,23,Morocco,Attacking Midfield,AM,2750000.0,Heracles Almelo,Netherlands,1350000.0,0
+2016,Eredivisie,AZ Alkmaar,summer,in,Rens van Eijden,61846,28,Netherlands,Centre-Back,CB,1250000.0,NEC Nijmegen,Netherlands,0.0,0
+2016,Eredivisie,AZ Alkmaar,summer,in,Mats Seuntjens,187809,24,Netherlands,Attacking Midfield,AM,600000.0,NAC Breda,Netherlands,0.0,0
+2016,Eredivisie,AZ Alkmaar,winter,in,Jonas Svensson,136184,23,Norway,Right-Back,RB,1600000.0,Rosenborg BK,Norway,1700000.0,0
+2016,Eredivisie,AZ Alkmaar,winter,in,Tim Krul,33027,28,Netherlands,Goalkeeper,GK,6500000.0,Newcastle United,England,0.0,1
+2016,Eredivisie,AZ Alkmaar,summer,out,Vincent Janssen,207015,22,Netherlands,Centre-Forward,CF,6000000.0,Tottenham Hotspur,England,22000000.0,0
+2016,Eredivisie,AZ Alkmaar,summer,out,Stijn Spierings,241501,20,Netherlands,Central Midfield,CM,150000.0,Sparta Rotterdam,Netherlands,0.0,0
+2016,Eredivisie,AZ Alkmaar,summer,out,Thom Haye,178219,21,Indonesia,Defensive Midfield,DM,1250000.0,Willem II Tilburg,Netherlands,0.0,0
+2016,Eredivisie,AZ Alkmaar,summer,out,Celso Ortiz,125250,27,Paraguay,Defensive Midfield,DM,1500000.0,CF Monterrey,Mexico,0.0,0
+2016,Eredivisie,AZ Alkmaar,summer,out,Rajko Brezancic,60289,27,Serbia,Left-Back,LB,600000.0,SD Huesca,Spain,0.0,0
+2016,Eredivisie,AZ Alkmaar,summer,out,Guus Hupperts,116636,24,Netherlands,Right Winger,RW,800000.0,KSC Lokeren (-2020),Belgium,,0
+2016,Eredivisie,AZ Alkmaar,summer,out,Markus Henriksen,122011,24,Norway,Centre-Back,CB,5000000.0,Hull City,England,0.0,1
+2016,Eredivisie,AZ Alkmaar,summer,out,Jan Wuytens,28815,31,Belgium,Centre-Back,CB,500000.0,Without Club,,,0
+2016,Eredivisie,AZ Alkmaar,summer,out,Eli Babalj,137086,24,Australia,Centre-Forward,CF,250000.0,Without Club,,,0
+2016,Eredivisie,AZ Alkmaar,winter,out,Markus Henriksen,122011,24,Norway,Centre-Back,CB,5000000.0,Hull City,England,5300000.0,0
+2016,Eredivisie,AZ Alkmaar,winter,out,Robert Mühren,186763,27,Netherlands,Centre-Forward,CF,900000.0,Zulte Waregem,Belgium,,0
+2016,Eredivisie,Ajax Amsterdam,summer,in,Hakim Ziyech,217111,23,Morocco,Right Winger,RW,11000000.0,Twente Enschede FC,Netherlands,11000000.0,0
+2016,Eredivisie,Ajax Amsterdam,summer,in,Mateo Cassierra,362667,19,Colombia,Centre-Forward,CF,650000.0,Deportivo Cali,Colombia,5500000.0,0
+2016,Eredivisie,Ajax Amsterdam,summer,in,Davinson Sánchez,341429,20,Colombia,Centre-Back,CB,550000.0,Atlético Nacional,Colombia,5500000.0,0
+2016,Eredivisie,Ajax Amsterdam,summer,in,Bertrand Traoré,131996,20,Burkina Faso,Right Winger,RW,4000000.0,Chelsea FC,England,2000000.0,1
+2016,Eredivisie,Ajax Amsterdam,summer,in,Heiko Westermann,1726,32,Germany,Centre-Back,CB,1500000.0,Real Betis Balompié,Spain,0.0,0
+2016,Eredivisie,Ajax Amsterdam,summer,in,Tim Krul,33027,28,Netherlands,Goalkeeper,GK,8000000.0,Newcastle United,England,0.0,1
+2016,Eredivisie,Ajax Amsterdam,winter,in,David Neres,469822,19,Brazil,Right Winger,RW,,São Paulo Futebol Clube,Brazil,17400000.0,0
+2016,Eredivisie,Ajax Amsterdam,summer,out,Arkadiusz Milik,191891,22,Poland,Centre-Forward,CF,12000000.0,SSC Napoli,Italy,32000000.0,0
+2016,Eredivisie,Ajax Amsterdam,summer,out,Jasper Cillessen,146227,27,Netherlands,Goalkeeper,GK,12000000.0,FC Barcelona,Spain,13000000.0,0
+2016,Eredivisie,Ajax Amsterdam,summer,out,Viktor Fischer,95755,22,Denmark,Left Winger,LW,5000000.0,Middlesbrough FC,England,5000000.0,0
+2016,Eredivisie,Ajax Amsterdam,summer,out,Mike van der Hoorn,187105,23,Netherlands,Centre-Back,CB,2000000.0,Swansea City,England,2500000.0,0
+2016,Eredivisie,Ajax Amsterdam,summer,out,Ricardo van Rhijn,124883,25,Netherlands,Right-Back,RB,2500000.0,Club Brugge KV,Belgium,1800000.0,0
+2016,Eredivisie,Ajax Amsterdam,summer,out,Nicolai Boilesen,69642,24,Denmark,Left-Back,LB,1000000.0,FC Copenhagen,Denmark,0.0,0
+2016,Eredivisie,Ajax Amsterdam,summer,out,Lesly de Sa,186858,23,Angola,Right Winger,RW,400000.0,Slovan Bratislava,Slovakia,0.0,0
+2016,Eredivisie,Ajax Amsterdam,summer,out,Ruben Ligeon,111185,24,Netherlands,Right-Back,RB,450000.0,Slovan Bratislava,Slovakia,0.0,0
+2016,Eredivisie,Ajax Amsterdam,summer,out,Lerin Duarte,92842,26,Netherlands,Central Midfield,CM,700000.0,Heracles Almelo,Netherlands,0.0,0
+2016,Eredivisie,Ajax Amsterdam,summer,out,Richairo Zivkovic,252755,19,Curacao,Centre-Forward,CF,2000000.0,FC Utrecht,Netherlands,0.0,1
+2016,Eredivisie,Ajax Amsterdam,winter,out,Riechedly Bazoer,216443,20,Curacao,Centre-Back,CB,15000000.0,VfL Wolfsburg,Germany,12000000.0,0
+2016,Eredivisie,Ajax Amsterdam,winter,out,Anwar El Ghazi,183720,21,Netherlands,Right Winger,RW,6500000.0,LOSC Lille,France,7000000.0,0
+2016,Eredivisie,Ajax Amsterdam,winter,out,Nemanja Gudelj,74294,25,Serbia,Defensive Midfield,DM,6500000.0,Tianjin Teda,China,5500000.0,0
+2016,Eredivisie,Ajax Amsterdam,winter,out,Mitchell Dijks,187245,23,Netherlands,Left-Back,LB,2750000.0,Norwich City,England,0.0,1
+2016,Eredivisie,Ajax Amsterdam,winter,out,Tim Krul,33027,28,Netherlands,Goalkeeper,GK,6500000.0,Newcastle United,England,0.0,1
+2016,Eredivisie,FC Groningen,summer,in,Ruben Yttergård Jenssen,41335,28,Norway,Central Midfield,CM,1000000.0,1.FC Kaiserslautern,Germany,0.0,0
+2016,Eredivisie,FC Groningen,summer,in,Tom van Weert,95673,26,Netherlands,Centre-Forward,CF,1000000.0,SBV Excelsior,Netherlands,0.0,0
+2016,Eredivisie,FC Groningen,summer,in,Samir Memisevic,238595,22,Bosnia-Herzegovina,Centre-Back,CB,500000.0,FK Radnik Bijeljina,Bosnia-Herzegovina,,0
+2016,Eredivisie,FC Groningen,summer,in,Jason Davidson,137669,25,Australia,Left-Back,LB,500000.0,Huddersfield Town,England,0.0,1
+2016,Eredivisie,FC Groningen,summer,out,Rasmus Lindgren,29456,31,Sweden,Centre-Back,CB,650000.0,BK Häcken,Sweden,0.0,0
+2016,Eredivisie,FC Groningen,summer,out,Lorenzo Burnet,124866,25,Netherlands,Left-Back,LB,700000.0,Slovan Bratislava,Slovakia,0.0,0
+2016,Eredivisie,FC Groningen,summer,out,Michael de Leeuw,110906,29,Netherlands,Centre-Forward,CF,2000000.0,Chicago Fire,United States,0.0,0
+2016,Eredivisie,FC Groningen,summer,out,Dino Islamovic,208095,22,Montenegro,Centre-Forward,CF,250000.0,Without Club,,,0
+2016,Eredivisie,FC Groningen,summer,out,Jarchinio Antonia,162672,25,Curacao,Right Winger,RW,900000.0,Without Club,,,0
+2016,Eredivisie,FC Groningen,summer,out,Abel Tamata,123513,25,DR Congo,Left-Back,LB,500000.0,Without Club,,,0
+2016,Eredivisie,FC Groningen,winter,out,Hans Hateboer,275303,23,Netherlands,Right-Back,RB,1000000.0,Atalanta BC,Italy,1040000.0,0
+2016,Eredivisie,FC Groningen,winter,out,Albert Rusnák,43228,22,Slovakia,Attacking Midfield,AM,1750000.0,Real Salt Lake City,United States,435000.0,0
+2016,Eredivisie,FC Groningen,winter,out,Danny Hoesen,81163,26,Netherlands,Centre-Forward,CF,800000.0,San Jose Earthquakes,United States,0.0,1
+2016,Eredivisie,FC Utrecht,summer,in,Robin van der Meer,203939,21,Netherlands,Centre-Back,CB,150000.0,Go Ahead Eagles,Netherlands,300000.0,0
+2016,Eredivisie,FC Utrecht,summer,in,David Jensen,78819,24,Denmark,Goalkeeper,GK,500000.0,FC Nordsjaelland,Denmark,200000.0,0
+2016,Eredivisie,FC Utrecht,summer,in,Edson Braafheid,16731,33,Netherlands,Left-Back,LB,300000.0,SS Lazio,Italy,0.0,0
+2016,Eredivisie,FC Utrecht,summer,in,Menno Koch,182578,22,Netherlands,Centre-Back,CB,350000.0,PSV Eindhoven,Netherlands,0.0,1
+2016,Eredivisie,FC Utrecht,summer,in,Richairo Zivkovic,252755,19,Curacao,Centre-Forward,CF,2000000.0,Ajax Amsterdam,Netherlands,0.0,1
+2016,Eredivisie,FC Utrecht,winter,in,Wout Brama,30003,30,Netherlands,Defensive Midfield,DM,2000000.0,PEC Zwolle,Netherlands,0.0,0
+2016,Eredivisie,FC Utrecht,winter,in,Zakaria Labyad,123349,23,Morocco,Attacking Midfield,AM,2000000.0,Without Club,,,0
+2016,Eredivisie,FC Utrecht,summer,out,Bart Ramselaar,326701,20,Netherlands,Left Winger,LW,5000000.0,PSV Eindhoven,Netherlands,4750000.0,0
+2016,Eredivisie,FC Utrecht,summer,out,Timo Letschert,231378,23,Netherlands,Centre-Back,CB,3000000.0,US Sassuolo,Italy,3500000.0,0
+2016,Eredivisie,FC Utrecht,summer,out,Ruud Boymans,63469,27,Netherlands,Centre-Forward,CF,1500000.0,Al-Shabab Al-Arabi Club (1958 - 2017),United Arab Emirates,975000.0,0
+2016,Eredivisie,FC Utrecht,summer,out,Mark Diemers,187507,22,Netherlands,Central Midfield,CM,400000.0,De Graafschap Doetinchem,Netherlands,0.0,0
+2016,Eredivisie,FC Utrecht,summer,out,Christian Kum,37850,30,Netherlands,Centre-Back,CB,600000.0,Roda JC Kerkrade,Netherlands,0.0,0
+2016,Eredivisie,FC Utrecht,summer,out,Filip Bednarek,155158,23,Poland,Goalkeeper,GK,500000.0,De Graafschap Doetinchem,Netherlands,0.0,0
+2016,Eredivisie,FC Utrecht,summer,out,Issa Kallon,212191,20,Sierra Leone,Right Winger,RW,200000.0,FC Emmen,Netherlands,0.0,1
+2016,Eredivisie,FC Utrecht,summer,out,Yannick Cortie,266781,23,Netherlands,Left-Back,LB,175000.0,Without Club,,,0
+2016,Eredivisie,FC Utrecht,summer,out,Gévero Markiet,85353,25,Netherlands,Centre-Back,CB,300000.0,Without Club,,,0
+2016,Eredivisie,FC Utrecht,summer,out,Louis Nganioni,182909,21,France,Left-Back,LB,300000.0,Olympique Lyon,France,0.0,1
+2016,Eredivisie,FC Utrecht,summer,out,Ruben Ligeon,111185,24,Netherlands,Right-Back,RB,500000.0,Ajax Amsterdam,Netherlands,0.0,1
+2016,Eredivisie,FC Utrecht,winter,out,Rubio Rubín,331282,20,Guatemala,Centre-Forward,CF,600000.0,Silkeborg IF,Denmark,0.0,0
+2016,Eredivisie,FC Utrecht,winter,out,Kristoffer Peterson,186704,22,Sweden,Left Winger,LW,500000.0,Heracles Almelo,Netherlands,,0
+2016,Eredivisie,FC Utrecht,winter,out,Menno Koch,182578,22,Netherlands,Centre-Back,CB,250000.0,PSV Eindhoven,Netherlands,0.0,1
+2016,Eredivisie,Feyenoord Rotterdam,summer,in,Nicolai Jørgensen,100399,25,Denmark,Centre-Forward,CF,2500000.0,FC Copenhagen,Denmark,3500000.0,0
+2016,Eredivisie,Feyenoord Rotterdam,summer,in,Brad Jones,4042,34,Australia,Goalkeeper,GK,750000.0,NEC Nijmegen,Netherlands,0.0,0
+2016,Eredivisie,Feyenoord Rotterdam,summer,in,Steven Berghuis,129554,24,Netherlands,Right Winger,RW,4000000.0,Watford FC,England,0.0,1
+2016,Eredivisie,Feyenoord Rotterdam,summer,out,Lex Immers,56371,30,Netherlands,Attacking Midfield,AM,2000000.0,Cardiff City,England,2300000.0,0
+2016,Eredivisie,Feyenoord Rotterdam,summer,out,Anass Achahbar,182554,22,Netherlands,Attacking Midfield,AM,1000000.0,PEC Zwolle,Netherlands,300000.0,0
+2016,Eredivisie,Feyenoord Rotterdam,summer,out,Stef Gronsveld,247590,20,Netherlands,Right-Back,RB,50000.0,FC Emmen,Netherlands,0.0,0
+2016,Eredivisie,Feyenoord Rotterdam,summer,out,Kamil Miazek,237632,19,Poland,Goalkeeper,GK,150000.0,Chojniczanka Chojnice,Poland,0.0,0
+2016,Eredivisie,Feyenoord Rotterdam,summer,out,Calvin Verdonk,258364,19,Indonesia,Left-Back,LB,150000.0,PEC Zwolle,Netherlands,0.0,1
+2016,Eredivisie,Feyenoord Rotterdam,summer,out,Jari Schuurman,264857,19,Netherlands,Attacking Midfield,AM,500000.0,Willem II Tilburg,Netherlands,0.0,1
+2016,Eredivisie,Feyenoord Rotterdam,winter,out,Warner Hahn,111180,24,Suriname,Goalkeeper,GK,2000000.0,SBV Excelsior,Netherlands,0.0,1
+2016,Eredivisie,Go Ahead Eagles,summer,in,Henrik Ojamaa,61666,25,Estonia,Left Winger,LW,300000.0,FC Wacker Innsbruck,Austria,0.0,0
+2016,Eredivisie,Go Ahead Eagles,summer,in,Sam Hendriks,225716,21,Netherlands,Centre-Forward,CF,200000.0,Ajax Amsterdam U21,Netherlands,0.0,0
+2016,Eredivisie,Go Ahead Eagles,summer,in,Sander Fischer,73504,27,Netherlands,Centre-Back,CB,800000.0,SBV Excelsior,Netherlands,0.0,0
+2016,Eredivisie,Go Ahead Eagles,summer,in,Joey Suk,101657,26,Netherlands,Defensive Midfield,DM,225000.0,NAC Breda,Netherlands,0.0,0
+2016,Eredivisie,Go Ahead Eagles,summer,in,Kevin Brands,81346,28,Netherlands,Attacking Midfield,AM,250000.0,NAC Breda,Netherlands,0.0,0
+2016,Eredivisie,Go Ahead Eagles,summer,in,Rochdi Achenteh,61809,28,Morocco,Left-Back,LB,500000.0,Willem II Tilburg,Netherlands,0.0,0
+2016,Eredivisie,Go Ahead Eagles,summer,in,Sinan Bytyqi,186790,21,Austria,Attacking Midfield,AM,500000.0,Manchester City U23,England,0.0,1
+2016,Eredivisie,Go Ahead Eagles,summer,in,Marcel Ritzmaier,84162,23,Austria,Central Midfield,CM,900000.0,PSV Eindhoven,Netherlands,0.0,1
+2016,Eredivisie,Go Ahead Eagles,summer,in,Sébastien Locigno,168162,20,Belgium,Right-Back,RB,200000.0,KV Oostende (-2024),Belgium,0.0,1
+2016,Eredivisie,Go Ahead Eagles,summer,in,Jarchinio Antonia,162672,25,Curacao,Right Winger,RW,900000.0,Without Club,,,0
+2016,Eredivisie,Go Ahead Eagles,winter,in,Lum Rexhepi,146281,24,Kosovo,Centre-Back,CB,100000.0,HJK Helsinki,Finland,0.0,0
+2016,Eredivisie,Go Ahead Eagles,winter,in,Elvis Manu,198070,23,Netherlands,Centre-Forward,CF,1500000.0,Brighton & Hove Albion,England,0.0,1
+2016,Eredivisie,Go Ahead Eagles,winter,in,Dan Crowley,223225,19,England,Attacking Midfield,AM,250000.0,Arsenal FC U23,England,0.0,1
+2016,Eredivisie,Go Ahead Eagles,winter,in,Pedro Chirivella,242273,19,Spain,Defensive Midfield,DM,100000.0,Liverpool FC U23,England,0.0,1
+2016,Eredivisie,Go Ahead Eagles,winter,in,Ludcinio Marengo,215648,25,Netherlands,Left Winger,LW,450000.0,ADO Den Haag,Netherlands,0.0,1
+2016,Eredivisie,Go Ahead Eagles,summer,out,Robin van der Meer,203939,21,Netherlands,Centre-Back,CB,150000.0,FC Utrecht,Netherlands,300000.0,0
+2016,Eredivisie,Go Ahead Eagles,summer,out,Nick de Bondt,182575,22,Netherlands,Centre-Back,CB,75000.0,De Treffers,Netherlands,0.0,0
+2016,Eredivisie,Go Ahead Eagles,summer,out,Adam Sarota,109305,27,Australia,Right Midfield,RM,250000.0,Unknown,,0.0,0
+2016,Eredivisie,Go Ahead Eagles,summer,out,Bart Vriends,129991,25,Netherlands,Centre-Back,CB,500000.0,Sparta Rotterdam,Netherlands,0.0,0
+2016,Eredivisie,Go Ahead Eagles,summer,out,Puck Postma,328687,19,Netherlands,Right-Back,RB,25000.0,Koninklijke HFC Haarlem,Netherlands,0.0,0
+2016,Eredivisie,Go Ahead Eagles,summer,out,Jeffrey Rijsdijk,111191,28,Netherlands,Attacking Midfield,AM,250000.0,Almere City FC,Netherlands,0.0,0
+2016,Eredivisie,Go Ahead Eagles,summer,out,Sven Nieuwpoort,187291,23,Netherlands,Centre-Back,CB,250000.0,De Graafschap Doetinchem,Netherlands,0.0,0
+2016,Eredivisie,Go Ahead Eagles,summer,out,Maurits Schmitz,230500,23,Netherlands,Goalkeeper,GK,50000.0,SV Spakenburg,Netherlands,0.0,0
+2016,Eredivisie,Go Ahead Eagles,summer,out,Elvio van Overbeek,207049,22,Netherlands,Right Winger,RW,200000.0,De Graafschap Doetinchem,Netherlands,0.0,1
+2016,Eredivisie,Go Ahead Eagles,summer,out,Orhan Džepar,355685,20,Netherlands,Central Midfield,CM,75000.0,SC Telstar,Netherlands,0.0,1
+2016,Eredivisie,Go Ahead Eagles,summer,out,Teije ten Den,224001,23,Netherlands,Centre-Forward,CF,100000.0,Helmond Sport,Netherlands,0.0,1
+2016,Eredivisie,Go Ahead Eagles,summer,out,Elvis Manu,198070,23,Netherlands,Centre-Forward,CF,1000000.0,Brighton & Hove Albion,England,0.0,1
+2016,Eredivisie,Go Ahead Eagles,winter,out,Kevin Brands,81346,28,Netherlands,Attacking Midfield,AM,200000.0,Samsunspor,Türkiye,0.0,0
+2016,Eredivisie,Go Ahead Eagles,winter,out,Jerry van Wolfgang,111197,24,Netherlands,Left Winger,LW,200000.0,Orange County SC,United States,0.0,0
+2016,Eredivisie,Go Ahead Eagles,winter,out,Kenny Teijsse,199380,24,Netherlands,Defensive Midfield,DM,275000.0,San Francisco Deltas,United States,,0
+2016,Eredivisie,Go Ahead Eagles,winter,out,Randy Wolters,68947,26,Netherlands,Left Winger,LW,500000.0,ADO Den Haag,Netherlands,0.0,1
+2016,Eredivisie,Go Ahead Eagles,winter,out,Henrik Ojamaa,61666,25,Estonia,Left Winger,LW,300000.0,Dundee FC,Scotland,0.0,1
+2016,Eredivisie,Go Ahead Eagles,winter,out,Mohamed Hamdaoui,272698,23,Netherlands,Left Winger,LW,50000.0,Without Club,,,0
+2016,Eredivisie,Go Ahead Eagles,winter,out,Sinan Bytyqi,186790,21,Austria,Attacking Midfield,AM,500000.0,Manchester City U23,England,0.0,1
+2016,Eredivisie,Heracles Almelo,summer,in,Vincent Vermeij,273054,21,Netherlands,Centre-Forward,CF,900000.0,De Graafschap Doetinchem,Netherlands,500000.0,0
+2016,Eredivisie,Heracles Almelo,summer,in,Lerin Duarte,92842,26,Netherlands,Central Midfield,CM,700000.0,Ajax Amsterdam,Netherlands,0.0,0
+2016,Eredivisie,Heracles Almelo,summer,in,Reuven Niemeijer,443308,21,Netherlands,Attacking Midfield,AM,,KVV Quick '20,Netherlands,0.0,0
+2016,Eredivisie,Heracles Almelo,summer,in,Sander Thomas,207273,19,Netherlands,Attacking Midfield,AM,50000.0,PEC Zwolle U19,Netherlands,0.0,0
+2016,Eredivisie,Heracles Almelo,summer,in,Gor Agbaljan,255739,19,Armenia,Central Midfield,CM,,SC Heerenveen U19,Netherlands,0.0,0
+2016,Eredivisie,Heracles Almelo,summer,in,Robin Pröpper,202788,22,Netherlands,Centre-Back,CB,350000.0,De Graafschap Doetinchem,Netherlands,0.0,0
+2016,Eredivisie,Heracles Almelo,summer,in,Samuel Armenteros,55751,26,Sweden,Centre-Forward,CF,1000000.0,Qarabağ FK,Azerbaijan,0.0,0
+2016,Eredivisie,Heracles Almelo,summer,in,Daryl van Mieghem,177821,26,Netherlands,Right Winger,RW,500000.0,SBV Excelsior,Netherlands,0.0,0
+2016,Eredivisie,Heracles Almelo,summer,in,Brandley Kuwas,232219,23,Curacao,Right Winger,RW,1000000.0,SBV Excelsior,Netherlands,,0
+2016,Eredivisie,Heracles Almelo,summer,in,Tim van de Berg,447827,18,Netherlands,Centre-Back,CB,,USV Elinkwijk Utrecht,Netherlands,,0
+2016,Eredivisie,Heracles Almelo,winter,in,Kristoffer Peterson,186704,22,Sweden,Left Winger,LW,500000.0,FC Utrecht,Netherlands,,0
+2016,Eredivisie,Heracles Almelo,summer,out,Paul Gladon,180843,24,Netherlands,Centre-Forward,CF,650000.0,Wolverhampton Wanderers,England,2000000.0,0
+2016,Eredivisie,Heracles Almelo,summer,out,Wout Weghorst,228645,23,Netherlands,Centre-Forward,CF,1250000.0,AZ Alkmaar,Netherlands,1500000.0,0
+2016,Eredivisie,Heracles Almelo,summer,out,Iliass Bel Hassani,160431,23,Morocco,Attacking Midfield,AM,2750000.0,AZ Alkmaar,Netherlands,1350000.0,0
+2016,Eredivisie,Heracles Almelo,summer,out,Fahd Aktaou,227075,23,Netherlands,Left-Back,LB,275000.0,Wydad Casablanca,Morocco,0.0,0
+2016,Eredivisie,Heracles Almelo,summer,out,Coen Gortemaker,232499,22,Netherlands,Centre-Back,CB,50000.0,Achilles '29,Netherlands,0.0,0
+2016,Eredivisie,Heracles Almelo,summer,out,Menno Heerkes,271670,22,Netherlands,Defensive Midfield,DM,100000.0,SV Meppen,Germany,0.0,0
+2016,Eredivisie,Heracles Almelo,summer,out,Gino Bosz,272687,23,Netherlands,Defensive Midfield,DM,300000.0,SC Cambuur Leeuwarden,Netherlands,0.0,0
+2016,Eredivisie,Heracles Almelo,summer,out,Rick Hemmink,272699,23,Netherlands,Attacking Midfield,AM,75000.0,Achilles '29,Netherlands,0.0,0
+2016,Eredivisie,Heracles Almelo,summer,out,Bas Sibum,6403,33,Netherlands,Central Midfield,CM,200000.0,MVV Alcides Meppel,Netherlands,0.0,0
+2016,Eredivisie,Heracles Almelo,summer,out,Gonzalo García,33108,32,Spain,Second Striker,SS,350000.0,Anorthosis Famagusta,Cyprus,0.0,1
+2016,Eredivisie,Heracles Almelo,winter,out,Daryl van Mieghem,177821,27,Netherlands,Right Winger,RW,500000.0,De Graafschap Doetinchem,Netherlands,0.0,1
+2016,Eredivisie,Heracles Almelo,winter,out,Ramon Zomer,14124,33,Netherlands,Centre-Back,CB,,Retired,,,0
+2016,Eredivisie,Heracles Almelo,winter,out,Dario Vujicevic,82505,26,Croatia,Defensive Midfield,DM,,Career break,,,0
+2016,Eredivisie,NEC Nijmegen,summer,in,Stefan Mauk,189231,20,Australia,Attacking Midfield,AM,500000.0,Adelaide United,Australia,275000.0,0
+2016,Eredivisie,NEC Nijmegen,summer,in,Kévin Mayi,198473,23,Gabon,Centre-Forward,CF,800000.0,GFC Ajaccio,France,150000.0,0
+2016,Eredivisie,NEC Nijmegen,summer,in,Julian von Haacke,117484,22,Germany,Central Midfield,CM,250000.0,SV Werder Bremen,Germany,100000.0,0
+2016,Eredivisie,NEC Nijmegen,summer,in,Michael Heinloth,93535,24,Germany,Right-Back,RB,450000.0,SC Paderborn 07,Germany,0.0,0
+2016,Eredivisie,NEC Nijmegen,summer,in,André Fomitschow,56510,25,Germany,Left-Back,LB,300000.0,1.FC Kaiserslautern,Germany,0.0,0
+2016,Eredivisie,NEC Nijmegen,summer,in,Joris Delle,56778,26,France,Goalkeeper,GK,800000.0,RC Lens,France,0.0,0
+2016,Eredivisie,NEC Nijmegen,summer,in,Fabian Gmeiner,189098,19,Austria,Right-Back,RB,100000.0,VfB Stuttgart U19,Germany,0.0,0
+2016,Eredivisie,NEC Nijmegen,summer,in,Reagy Ofosu,83253,24,Germany,Left Winger,LW,300000.0,SV Grödig,Austria,0.0,0
+2016,Eredivisie,NEC Nijmegen,summer,in,Arnaut Danjuma,355861,19,Netherlands,Left Winger,LW,25000.0,PSV Eindhoven U19,Netherlands,0.0,0
+2016,Eredivisie,NEC Nijmegen,summer,in,Robin Buwalda,220896,21,Netherlands,Centre-Back,CB,300000.0,ADO Den Haag,Netherlands,0.0,0
+2016,Eredivisie,NEC Nijmegen,summer,in,Dario Dumic,78818,24,Bosnia-Herzegovina,Centre-Back,CB,800000.0,Bröndby IF,Denmark,0.0,0
+2016,Eredivisie,NEC Nijmegen,summer,in,Taiwo Awoniyi,295313,19,Nigeria,Centre-Forward,CF,300000.0,Liverpool FC,England,0.0,1
+2016,Eredivisie,NEC Nijmegen,summer,in,Quincy Owusu-Abeyie,14551,30,Ghana,Left Winger,LW,800000.0,Without Club,,,0
+2016,Eredivisie,NEC Nijmegen,winter,in,Jordan Larsson,308552,19,Sweden,Right Winger,RW,500000.0,Helsingborgs IF,Sweden,450000.0,0
+2016,Eredivisie,NEC Nijmegen,winter,in,Ali Messaoud,79193,25,Morocco,Attacking Midfield,AM,300000.0,FC Vaduz,Switzerland,0.0,1
+2016,Eredivisie,NEC Nijmegen,winter,in,Lorenzo Burnet,124866,25,Netherlands,Left-Back,LB,550000.0,Slovan Bratislava,Slovakia,0.0,1
+2016,Eredivisie,NEC Nijmegen,summer,out,Anthony Limbombe,140803,22,Belgium,Left Winger,LW,2500000.0,Club Brugge KV,Belgium,2300000.0,0
+2016,Eredivisie,NEC Nijmegen,summer,out,Mihai Roman,135566,24,Romania,Centre-Forward,CF,750000.0,Maccabi Petah Tikva,Israel,50000.0,1
+2016,Eredivisie,NEC Nijmegen,summer,out,Cihat Çelik,275385,20,Türkiye,Central Midfield,CM,200000.0,FC Oss,Netherlands,0.0,0
+2016,Eredivisie,NEC Nijmegen,summer,out,Marcel Appiah,51969,28,Germany,Centre-Back,CB,550000.0,VfL Osnabrück,Germany,0.0,0
+2016,Eredivisie,NEC Nijmegen,summer,out,Brad Jones,4042,34,Australia,Goalkeeper,GK,750000.0,Feyenoord Rotterdam,Netherlands,0.0,0
+2016,Eredivisie,NEC Nijmegen,summer,out,Navarone Foor,61612,24,Netherlands,Attacking Midfield,AM,1000000.0,Vitesse Arnhem,Netherlands,0.0,0
+2016,Eredivisie,NEC Nijmegen,summer,out,Rens van Eijden,61846,28,Netherlands,Centre-Back,CB,1250000.0,AZ Alkmaar,Netherlands,0.0,0
+2016,Eredivisie,NEC Nijmegen,summer,out,Christian Santos,50487,28,Venezuela,Centre-Forward,CF,2000000.0,Deportivo Alavés,Spain,0.0,0
+2016,Eredivisie,NEC Nijmegen,summer,out,Hannes Thór Halldórsson,103440,32,Iceland,Goalkeeper,GK,400000.0,Randers FC,Denmark,,0
+2016,Eredivisie,NEC Nijmegen,summer,out,Joey Sleegers,207043,22,Netherlands,Left Winger,LW,600000.0,VVV-Venlo,Netherlands,0.0,1
+2016,Eredivisie,NEC Nijmegen,summer,out,Todd Kane,154287,22,England,Right-Back,RB,1250000.0,Chelsea FC,England,0.0,1
+2016,Eredivisie,NEC Nijmegen,summer,out,Dario Dumic,78818,24,Bosnia-Herzegovina,Centre-Back,CB,800000.0,Bröndby IF,Denmark,0.0,1
+2016,Eredivisie,NEC Nijmegen,summer,out,Lucas Woudenberg,221766,22,Netherlands,Left-Back,LB,1000000.0,Feyenoord Rotterdam,Netherlands,0.0,1
+2016,Eredivisie,NEC Nijmegen,summer,out,Marcel Ritzmaier,84162,23,Austria,Central Midfield,CM,1250000.0,PSV Eindhoven,Netherlands,0.0,1
+2016,Eredivisie,NEC Nijmegen,winter,out,Sam Lundholm,220432,22,Sweden,Right Winger,RW,150000.0,Randers FC,Denmark,0.0,1
+2016,Eredivisie,NEC Nijmegen,winter,out,Quincy Owusu-Abeyie,14551,30,Ghana,Left Winger,LW,,Career break,,,0
+2016,Eredivisie,PEC Zwolle,summer,in,Anass Achahbar,182554,22,Netherlands,Attacking Midfield,AM,1000000.0,Feyenoord Rotterdam,Netherlands,300000.0,0
+2016,Eredivisie,PEC Zwolle,summer,in,Philippe Sandler,340460,19,Netherlands,Centre-Back,CB,,Ajax U18,Netherlands,0.0,0
+2016,Eredivisie,PEC Zwolle,summer,in,Ted van de Pavert,129551,24,Netherlands,Centre-Back,CB,400000.0,De Graafschap Doetinchem,Netherlands,0.0,0
+2016,Eredivisie,PEC Zwolle,summer,in,Hachim Mastour,253267,18,Morocco,Attacking Midfield,AM,500000.0,AC Milan,Italy,0.0,1
+2016,Eredivisie,PEC Zwolle,summer,in,Nicolai Brock-Madsen,154051,23,Denmark,Centre-Forward,CF,500000.0,Birmingham City,England,0.0,1
+2016,Eredivisie,PEC Zwolle,summer,in,Calvin Verdonk,258364,19,Indonesia,Left-Back,LB,150000.0,Feyenoord Rotterdam,Netherlands,0.0,1
+2016,Eredivisie,PEC Zwolle,summer,in,Django Warmerdam,288449,20,Netherlands,Left-Back,LB,150000.0,Ajax Amsterdam U21,Netherlands,0.0,1
+2016,Eredivisie,PEC Zwolle,summer,in,Danny Holla,45486,28,Netherlands,Central Midfield,CM,1000000.0,Without Club,,,0
+2016,Eredivisie,PEC Zwolle,winter,in,Hervin Ongenda,182910,21,France,Attacking Midfield,AM,1000000.0,Paris Saint-Germain,France,300000.0,0
+2016,Eredivisie,PEC Zwolle,winter,in,Erik Israelsson,76085,27,Sweden,Central Midfield,CM,700000.0,Hammarby IF,Sweden,0.0,0
+2016,Eredivisie,PEC Zwolle,winter,in,Ouasim Bouy,126412,23,Morocco,Defensive Midfield,DM,900000.0,Juventus FC,Italy,0.0,1
+2016,Eredivisie,PEC Zwolle,summer,out,Boban Lazic,170856,22,Bosnia-Herzegovina,Left Winger,LW,100000.0,FC Oss,Netherlands,0.0,0
+2016,Eredivisie,PEC Zwolle,summer,out,Boy de Jong,182557,22,Netherlands,Goalkeeper,GK,100000.0,SC Telstar,Netherlands,0.0,0
+2016,Eredivisie,PEC Zwolle,summer,out,Bart van Hintum,57328,29,Netherlands,Left-Back,LB,750000.0,Gaziantepspor,Türkiye,0.0,0
+2016,Eredivisie,PEC Zwolle,summer,out,Thomas Lam,131821,22,Finland,Centre-Back,CB,1000000.0,Nottingham Forest,England,0.0,0
+2016,Eredivisie,PEC Zwolle,summer,out,Abdel Malek El Hasnaoui,226024,22,Netherlands,Central Midfield,CM,200000.0,Without Club,,,0
+2016,Eredivisie,PEC Zwolle,summer,out,Sheraldo Becker,188888,21,Suriname,Left Winger,LW,700000.0,Ajax Amsterdam U21,Netherlands,0.0,1
+2016,Eredivisie,PEC Zwolle,summer,out,Lars Veldwijk,175912,24,South Africa,Centre-Forward,CF,2000000.0,Nottingham Forest,England,0.0,1
+2016,Eredivisie,PEC Zwolle,summer,out,Ouasim Bouy,126412,23,Morocco,Defensive Midfield,DM,750000.0,Juventus FC,Italy,0.0,1
+2016,Eredivisie,PEC Zwolle,winter,out,Wout Brama,30003,30,Netherlands,Defensive Midfield,DM,2000000.0,FC Utrecht,Netherlands,0.0,0
+2016,Eredivisie,PSV Eindhoven,summer,in,Bart Ramselaar,326701,20,Netherlands,Left Winger,LW,5000000.0,FC Utrecht,Netherlands,4750000.0,0
+2016,Eredivisie,PSV Eindhoven,summer,in,Hidde Jurjus,215551,22,Netherlands,Goalkeeper,GK,800000.0,De Graafschap Doetinchem,Netherlands,500000.0,0
+2016,Eredivisie,PSV Eindhoven,summer,in,Daniel Schwaab,38434,27,Germany,Centre-Back,CB,1500000.0,VfB Stuttgart,Germany,0.0,0
+2016,Eredivisie,PSV Eindhoven,summer,in,Siem de Jong,45509,27,Netherlands,Attacking Midfield,AM,7000000.0,Newcastle United,England,0.0,1
+2016,Eredivisie,PSV Eindhoven,summer,in,Oleksandr Zinchenko,203853,19,Ukraine,Left-Back,LB,4000000.0,Manchester City,England,0.0,1
+2016,Eredivisie,PSV Eindhoven,winter,in,Marco van Ginkel,147034,24,Netherlands,Central Midfield,CM,7000000.0,Chelsea FC,England,0.0,1
+2016,Eredivisie,PSV Eindhoven,summer,out,Jeffrey Bruma,88721,24,Netherlands,Centre-Back,CB,7750000.0,VfL Wolfsburg,Germany,11500000.0,0
+2016,Eredivisie,PSV Eindhoven,summer,out,Stijn Schaars,4698,32,Netherlands,Defensive Midfield,DM,1000000.0,SC Heerenveen,Netherlands,0.0,0
+2016,Eredivisie,PSV Eindhoven,summer,out,Menno Koch,182578,22,Netherlands,Centre-Back,CB,350000.0,FC Utrecht,Netherlands,0.0,1
+2016,Eredivisie,PSV Eindhoven,summer,out,Marcel Ritzmaier,84162,23,Austria,Central Midfield,CM,900000.0,Go Ahead Eagles,Netherlands,0.0,1
+2016,Eredivisie,PSV Eindhoven,summer,out,Rai Vloet,205023,21,Netherlands,Attacking Midfield,AM,500000.0,FC Eindhoven,Netherlands,0.0,1
+2016,Eredivisie,PSV Eindhoven,summer,out,Adam Maher,122421,23,Netherlands,Central Midfield,CM,4000000.0,Osmanlispor FK,Türkiye,0.0,1
+2016,Eredivisie,PSV Eindhoven,summer,out,Maxime Lestienne,96454,24,Belgium,Right Winger,RW,7500000.0,Al-Arabi SC,Qatar,0.0,1
+2016,Eredivisie,PSV Eindhoven,summer,out,Marco van Ginkel,147034,23,Netherlands,Central Midfield,CM,7000000.0,Chelsea FC,England,0.0,1
+2016,Eredivisie,PSV Eindhoven,winter,out,Luciano Narsingh,72462,26,Netherlands,Right Winger,RW,5000000.0,Swansea City,England,4600000.0,0
+2016,Eredivisie,PSV Eindhoven,winter,out,Florian Jozefzoon,124873,25,Suriname,Right Winger,RW,1000000.0,Brentford FC,England,450000.0,0
+2016,Eredivisie,PSV Eindhoven,winter,out,Simon Poulsen,23097,32,Denmark,Left-Back,LB,600000.0,SönderjyskE,Denmark,0.0,0
+2016,Eredivisie,PSV Eindhoven,winter,out,Jordy de Wijs,215096,22,Netherlands,Centre-Back,CB,400000.0,SBV Excelsior,Netherlands,0.0,1
+2016,Eredivisie,Roda JC Kerkrade,summer,in,David Boysen,78514,25,Denmark,Attacking Midfield,AM,350000.0,Bröndby IF,Denmark,300000.0,0
+2016,Eredivisie,Roda JC Kerkrade,summer,in,Nestoras Mytidis,164472,25,Cyprus,Centre-Forward,CF,450000.0,AEK Larnaca,Cyprus,70000.0,0
+2016,Eredivisie,Roda JC Kerkrade,summer,in,Adil Auassar,56381,29,Netherlands,Centre-Back,CB,600000.0,SBV Excelsior,Netherlands,0.0,0
+2016,Eredivisie,Roda JC Kerkrade,summer,in,Yves De Winter,42266,29,Belgium,Goalkeeper,GK,300000.0,Sint-Truidense VV,Belgium,0.0,0
+2016,Eredivisie,Roda JC Kerkrade,summer,in,Dani Schahin,58437,26,Germany,Centre-Forward,CF,400000.0,1.FSV Mainz 05,Germany,0.0,0
+2016,Eredivisie,Roda JC Kerkrade,summer,in,Frederic Ananou,240263,18,Togo,Right-Back,RB,,1.FC Köln U19,Germany,0.0,0
+2016,Eredivisie,Roda JC Kerkrade,summer,in,Mikhail Rosheuvel,64507,25,Netherlands,Right Winger,RW,550000.0,SC Cambuur Leeuwarden,Netherlands,0.0,0
+2016,Eredivisie,Roda JC Kerkrade,summer,in,Christian Kum,37850,30,Netherlands,Centre-Back,CB,600000.0,FC Utrecht,Netherlands,0.0,0
+2016,Eredivisie,Roda JC Kerkrade,summer,in,Roel Brouwers,4607,34,Netherlands,Centre-Back,CB,500000.0,Borussia Mönchengladbach,Germany,0.0,0
+2016,Eredivisie,Roda JC Kerkrade,summer,in,Abdul Ajagun,131664,23,Nigeria,Central Midfield,CM,800000.0,Panathinaikos FC,Greece,0.0,1
+2016,Eredivisie,Roda JC Kerkrade,summer,in,Simon Church,66959,27,Wales,Centre-Forward,CF,500000.0,Milton Keynes Dons,England,,0
+2016,Eredivisie,Roda JC Kerkrade,winter,in,Stefan Savic,120192,23,Austria,Attacking Midfield,AM,500000.0,Slaven Belupo Koprivnica,Croatia,350000.0,0
+2016,Eredivisie,Roda JC Kerkrade,winter,in,Mohamed El Makrini,56375,29,Netherlands,Defensive Midfield,DM,600000.0,Odense Boldklub,Denmark,150000.0,0
+2016,Eredivisie,Roda JC Kerkrade,winter,in,Ognjen Gnjatic,190811,25,Bosnia-Herzegovina,Defensive Midfield,DM,600000.0,AO Platanias,Greece,120000.0,0
+2016,Eredivisie,Roda JC Kerkrade,winter,in,Gyliano van Velzen,174248,22,Netherlands,Left Winger,LW,250000.0,FC Volendam,Netherlands,75000.0,0
+2016,Eredivisie,Roda JC Kerkrade,winter,in,Simeon Raykov,86739,27,Bulgaria,Left Winger,LW,450000.0,Lokomotiv Plovdiv,Bulgaria,0.0,0
+2016,Eredivisie,Roda JC Kerkrade,winter,in,Lyes Houri,229007,21,France,Attacking Midfield,AM,400000.0,SC Bastia,France,0.0,1
+2016,Eredivisie,Roda JC Kerkrade,winter,in,Athanasios Papazoglou,42938,28,Greece,Centre-Forward,CF,800000.0,KV Kortrijk,Belgium,0.0,1
+2016,Eredivisie,Roda JC Kerkrade,winter,in,Bryan Verboom,203360,24,Belgium,Left-Back,LB,1500000.0,Zulte Waregem,Belgium,0.0,1
+2016,Eredivisie,Roda JC Kerkrade,winter,in,Béni Badibanga,347625,20,DR Congo,Left Winger,LW,600000.0,Standard Liège,Belgium,0.0,1
+2016,Eredivisie,Roda JC Kerkrade,summer,out,Uğur İnceman,933,35,Türkiye,Central Midfield,CM,350000.0,Eskisehirspor,Türkiye,0.0,0
+2016,Eredivisie,Roda JC Kerkrade,summer,out,Jorrit Smeets,275949,21,Netherlands,Central Midfield,CM,50000.0,Fortuna Sittard,Netherlands,0.0,0
+2016,Eredivisie,Roda JC Kerkrade,summer,out,Brian Jacobs,278958,21,Netherlands,Left Winger,LW,,VV Chevremont Kerkrade,Netherlands,0.0,0
+2016,Eredivisie,Roda JC Kerkrade,summer,out,Arjan Swinkels,34556,31,Netherlands,Centre-Back,CB,,KFCO Beerschot Wilrijk,Belgium,0.0,0
+2016,Eredivisie,Roda JC Kerkrade,summer,out,Rydell Poepon,43247,28,Netherlands,Centre-Forward,CF,600000.0,Boluspor,Türkiye,0.0,0
+2016,Eredivisie,Roda JC Kerkrade,summer,out,Jordy Buijs,31111,27,Netherlands,Centre-Back,CB,800000.0,Pandurii Targu Jiu (- 2022),Romania,0.0,0
+2016,Eredivisie,Roda JC Kerkrade,summer,out,Santiago Palacios,328354,25,Mexico,Second Striker,SS,150000.0,UNAM Pumas,Mexico,0.0,0
+2016,Eredivisie,Roda JC Kerkrade,summer,out,Maecky Ngombo,403839,21,Belgium,Centre-Forward,CF,600000.0,Fortuna Düsseldorf,Germany,0.0,0
+2016,Eredivisie,Roda JC Kerkrade,summer,out,Rigino Cicilia,275939,21,Curacao,Centre-Forward,CF,150000.0,Port Vale FC,England,0.0,0
+2016,Eredivisie,Roda JC Kerkrade,summer,out,Yannick Derix,231447,25,Netherlands,Goalkeeper,GK,50000.0,RKVV EVV Echt,Netherlands,0.0,0
+2016,Eredivisie,Roda JC Kerkrade,summer,out,Tomi Juric,171820,24,Australia,Centre-Forward,CF,750000.0,FC Luzern,Switzerland,0.0,0
+2016,Eredivisie,Roda JC Kerkrade,summer,out,Martijn Monteyne,19917,31,Belgium,Right-Back,RB,250000.0,KSV Roeselare (-2020),Belgium,0.0,0
+2016,Eredivisie,Roda JC Kerkrade,summer,out,Bart Biemans,101785,28,Belgium,Centre-Back,CB,250000.0,FC Den Bosch,Netherlands,0.0,0
+2016,Eredivisie,Roda JC Kerkrade,summer,out,Hicham Faik,228572,24,Netherlands,Defensive Midfield,DM,600000.0,SBV Excelsior,Netherlands,0.0,0
+2016,Eredivisie,Roda JC Kerkrade,summer,out,Henk Dijkhuizen,169334,24,Netherlands,Right-Back,RB,500000.0,Without Club,,,0
+2016,Eredivisie,Roda JC Kerkrade,summer,out,Roel Brouwers,4607,34,Netherlands,Centre-Back,CB,,Retired,,,0
+2016,Eredivisie,Roda JC Kerkrade,summer,out,Bram Verbist,13099,33,Belgium,Goalkeeper,GK,,Retired,,,0
+2016,Eredivisie,Roda JC Kerkrade,summer,out,Nayib Lagouireh,152632,25,Belgium,Right Winger,RW,150000.0,Without Club,,,0
+2016,Eredivisie,Roda JC Kerkrade,summer,out,Kristoffer Peterson,186704,21,Sweden,Left Winger,LW,650000.0,FC Utrecht,Netherlands,0.0,1
+2016,Eredivisie,Roda JC Kerkrade,summer,out,Mike van Duinen,183397,24,Netherlands,Centre-Forward,CF,800000.0,Fortuna Düsseldorf,Germany,0.0,1
+2016,Eredivisie,Roda JC Kerkrade,summer,out,Georgiy Zhukov,235755,21,Kazakhstan,Central Midfield,CM,1000000.0,Standard de Liège U21,Belgium,0.0,1
+2016,Eredivisie,Roda JC Kerkrade,winter,out,David Boysen,78514,25,Denmark,Attacking Midfield,AM,350000.0,Lyngby Boldklub,Denmark,0.0,0
+2016,Eredivisie,Roda JC Kerkrade,winter,out,Farshad Noor,187191,22,Afghanistan,Central Midfield,CM,300000.0,SC Cambuur Leeuwarden,Netherlands,0.0,1
+2016,Eredivisie,Roda JC Kerkrade,winter,out,Nestoras Mytidis,164472,25,Cyprus,Centre-Forward,CF,450000.0,AEK Larnaca,Cyprus,0.0,1
+2016,Eredivisie,Roda JC Kerkrade,winter,out,Daniel De Silva,259721,19,Australia,Attacking Midfield,AM,350000.0,Perth Glory,Australia,0.0,1
+2016,Eredivisie,SBV Excelsior,summer,in,Mike van Duinen,183397,24,Netherlands,Centre-Forward,CF,800000.0,Fortuna Düsseldorf,Germany,0.0,0
+2016,Eredivisie,SBV Excelsior,summer,in,Hicham Faik,228572,24,Netherlands,Defensive Midfield,DM,600000.0,Roda JC Kerkrade,Netherlands,0.0,0
+2016,Eredivisie,SBV Excelsior,summer,in,Milan Massop,237426,22,Netherlands,Left-Back,LB,175000.0,FC Eindhoven,Netherlands,0.0,0
+2016,Eredivisie,SBV Excelsior,summer,in,Fredy,87854,26,Angola,Central Midfield,CM,1500000.0,Recreativo do Libolo,Angola,0.0,0
+2016,Eredivisie,SBV Excelsior,summer,in,Anouar Hadouir,4533,33,Netherlands,Attacking Midfield,AM,500000.0,Moghreb Atlético Tétouan,Morocco,0.0,0
+2016,Eredivisie,SBV Excelsior,summer,in,Terell Ondaan,187598,22,Guyana,Right Winger,RW,750000.0,Willem II Tilburg,Netherlands,0.0,0
+2016,Eredivisie,SBV Excelsior,summer,in,Ryan Koolwijk,65256,30,Suriname,Central Midfield,CM,600000.0,AS Trencin,Slovakia,0.0,0
+2016,Eredivisie,SBV Excelsior,summer,in,Jeffry Fortes,102660,27,Cape Verde,Right-Back,RB,300000.0,FC Dordrecht,Netherlands,0.0,0
+2016,Eredivisie,SBV Excelsior,summer,in,Danilo Pantic,222830,19,Serbia,Attacking Midfield,AM,750000.0,Chelsea FC,England,0.0,1
+2016,Eredivisie,SBV Excelsior,summer,in,Leeroy Owusu,257988,19,Ghana,Right-Back,RB,300000.0,Ajax Amsterdam U21,Netherlands,0.0,1
+2016,Eredivisie,SBV Excelsior,summer,in,Arghus,190168,28,Brazil,Centre-Back,CB,250000.0,SC Braga,Portugal,0.0,1
+2016,Eredivisie,SBV Excelsior,winter,in,Warner Hahn,111180,24,Suriname,Goalkeeper,GK,2000000.0,Feyenoord Rotterdam,Netherlands,0.0,1
+2016,Eredivisie,SBV Excelsior,winter,in,Jordy de Wijs,215096,22,Netherlands,Centre-Back,CB,400000.0,PSV Eindhoven,Netherlands,0.0,1
+2016,Eredivisie,SBV Excelsior,summer,out,Sander Fischer,73504,27,Netherlands,Centre-Back,CB,800000.0,Go Ahead Eagles,Netherlands,0.0,0
+2016,Eredivisie,SBV Excelsior,summer,out,Michiel Hemmen,56317,29,Netherlands,Centre-Forward,CF,250000.0,SC Cambuur Leeuwarden,Netherlands,0.0,0
+2016,Eredivisie,SBV Excelsior,summer,out,Jeff Stans,117671,26,Netherlands,Defensive Midfield,DM,850000.0,NAC Breda,Netherlands,0.0,0
+2016,Eredivisie,SBV Excelsior,summer,out,Adil Auassar,56381,29,Netherlands,Centre-Back,CB,600000.0,Roda JC Kerkrade,Netherlands,0.0,0
+2016,Eredivisie,SBV Excelsior,summer,out,Kevin van Diermen,49640,26,Netherlands,Centre-Back,CB,225000.0,NAC Breda,Netherlands,0.0,0
+2016,Eredivisie,SBV Excelsior,summer,out,Tom van Weert,95673,26,Netherlands,Centre-Forward,CF,1000000.0,FC Groningen,Netherlands,0.0,0
+2016,Eredivisie,SBV Excelsior,summer,out,Tom Overtoom,124889,25,Netherlands,Central Midfield,CM,150000.0,Almere City FC,Netherlands,0.0,0
+2016,Eredivisie,SBV Excelsior,summer,out,Marko Maletic,117149,22,Bosnia-Herzegovina,Centre-Forward,CF,175000.0,Lommel United,Belgium,0.0,0
+2016,Eredivisie,SBV Excelsior,summer,out,Daryl van Mieghem,177821,26,Netherlands,Right Winger,RW,500000.0,Heracles Almelo,Netherlands,0.0,0
+2016,Eredivisie,SBV Excelsior,summer,out,Rick Kruys,17320,31,Netherlands,Central Midfield,CM,,VV De Meern,Netherlands,0.0,0
+2016,Eredivisie,SBV Excelsior,summer,out,Brandley Kuwas,232219,23,Curacao,Right Winger,RW,1000000.0,Heracles Almelo,Netherlands,,0
+2016,Eredivisie,SBV Excelsior,summer,out,Daan Bovenberg,63334,27,Netherlands,Right-Back,RB,,Retired,,,0
+2016,Eredivisie,SBV Excelsior,summer,out,Yoëll van Nieff,187301,23,Netherlands,Defensive Midfield,DM,500000.0,FC Groningen,Netherlands,0.0,1
+2016,Eredivisie,SBV Excelsior,winter,out,Tom Muyters,40412,32,Belgium,Goalkeeper,GK,400000.0,Samsunspor,Türkiye,0.0,0
+2016,Eredivisie,SBV Excelsior,winter,out,Carlo de Reuver,260650,22,Netherlands,Centre-Forward,CF,100000.0,VV Capelle,Netherlands,0.0,1
+2016,Eredivisie,SBV Excelsior,winter,out,Leeroy Owusu,257988,20,Ghana,Right-Back,RB,300000.0,Ajax Amsterdam U21,Netherlands,0.0,1
+2016,Eredivisie,SC Heerenveen,summer,in,Yuki Kobayashi,145996,24,Japan,Central Midfield,CM,650000.0,Júbilo Iwata,Japan,250000.0,0
+2016,Eredivisie,SC Heerenveen,summer,in,Wouter van der Steen,159896,26,Netherlands,Goalkeeper,GK,150000.0,Helmond Sport,Netherlands,0.0,0
+2016,Eredivisie,SC Heerenveen,summer,in,Reza Ghoochannejhad,39522,28,Iran,Centre-Forward,CF,750000.0,Charlton Athletic,England,0.0,0
+2016,Eredivisie,SC Heerenveen,summer,in,Stijn Schaars,4698,32,Netherlands,Defensive Midfield,DM,1000000.0,PSV Eindhoven,Netherlands,0.0,0
+2016,Eredivisie,SC Heerenveen,summer,in,Jordy Bruijn,241378,19,Netherlands,Attacking Midfield,AM,25000.0,Ajax Amsterdam U21,Netherlands,0.0,0
+2016,Eredivisie,SC Heerenveen,summer,in,Shay Facey,183282,21,England,Right-Back,RB,200000.0,Manchester City U23,England,0.0,1
+2016,Eredivisie,SC Heerenveen,winter,in,Martin Ødegaard,316264,18,Norway,Attacking Midfield,AM,2000000.0,Real Madrid,Spain,0.0,1
+2016,Eredivisie,SC Heerenveen,winter,in,Wout Faes,292808,18,Belgium,Centre-Back,CB,350000.0,RSC Anderlecht,Belgium,0.0,1
+2016,Eredivisie,SC Heerenveen,summer,out,Pelé van Anholt,106634,25,Netherlands,Defensive Midfield,DM,1500000.0,Willem II Tilburg,Netherlands,0.0,0
+2016,Eredivisie,SC Heerenveen,summer,out,Pascal Huser,215092,21,Netherlands,Attacking Midfield,AM,75000.0,FC Emmen,Netherlands,0.0,0
+2016,Eredivisie,SC Heerenveen,summer,out,Joey van den Berg,34785,30,Netherlands,Defensive Midfield,DM,2000000.0,Reading FC,England,0.0,0
+2016,Eredivisie,SC Heerenveen,summer,out,Stephen Warmolts,273437,22,Netherlands,Centre-Back,CB,125000.0,Helmond Sport,Netherlands,0.0,0
+2016,Eredivisie,SC Heerenveen,summer,out,Szabolcs Varga,164836,21,Hungary,Left Winger,LW,150000.0,MTK Budapest,Hungary,,0
+2016,Eredivisie,SC Heerenveen,summer,out,Maarten de Fockert,273547,21,Netherlands,Goalkeeper,GK,300000.0,VVV-Venlo,Netherlands,0.0,1
+2016,Eredivisie,SC Heerenveen,summer,out,Robert van Koesveld,215095,21,Netherlands,Centre-Back,CB,100000.0,Helmond Sport,Netherlands,0.0,1
+2016,Eredivisie,SC Heerenveen,summer,out,Kenny Otigba,136515,23,Hungary,Centre-Back,CB,1500000.0,Kasimpasa,Türkiye,0.0,1
+2016,Eredivisie,SC Heerenveen,summer,out,Branco van den Boomen,203938,21,Netherlands,Central Midfield,CM,750000.0,Willem II Tilburg,Netherlands,0.0,1
+2016,Eredivisie,SC Heerenveen,summer,out,Luka Zahovic,169362,20,Slovenia,Centre-Forward,CF,500000.0,NK Maribor,Slovenia,0.0,1
+2016,Eredivisie,SC Heerenveen,summer,out,Wieger Sietsma,271611,21,Netherlands,Goalkeeper,GK,100000.0,FC Emmen,Netherlands,0.0,1
+2016,Eredivisie,SC Heerenveen,winter,out,Luka Zahovic,169362,21,Slovenia,Centre-Forward,CF,1500000.0,NK Maribor,Slovenia,250000.0,0
+2016,Eredivisie,SC Heerenveen,winter,out,Mitchell Te Vrede,79127,25,Suriname,Centre-Forward,CF,1000000.0,Boluspor,Türkiye,0.0,0
+2016,Eredivisie,SC Heerenveen,winter,out,Rewan Amin,241402,21,Iraq,Defensive Midfield,DM,100000.0,Dalkurd FF,Sweden,0.0,0
+2016,Eredivisie,SC Heerenveen,winter,out,Simon Thern,116614,24,Sweden,Central Midfield,CM,1500000.0,AIK,Sweden,0.0,1
+2016,Eredivisie,SC Heerenveen,winter,out,Caner Cavlan,136550,24,Türkiye,Left-Back,LB,1000000.0,Sanliurfaspor,Türkiye,0.0,1
+2016,Eredivisie,Sparta Rotterdam,summer,in,Alessandro Rodrigues,456968,17,Belgium,Left Winger,LW,,KV Oostende U21,Belgium,0.0,0
+2016,Eredivisie,Sparta Rotterdam,summer,in,Bart Vriends,129991,25,Netherlands,Centre-Back,CB,500000.0,Go Ahead Eagles,Netherlands,0.0,0
+2016,Eredivisie,Sparta Rotterdam,summer,in,Lovette Ofori,338811,20,Netherlands,Right Winger,RW,,HVV Te Werve,Netherlands,0.0,0
+2016,Eredivisie,Sparta Rotterdam,summer,in,Abdul Bai Kamara,272684,20,Sierra Leone,Centre-Back,CB,50000.0,NEC Nijmegen U21,Netherlands,0.0,0
+2016,Eredivisie,Sparta Rotterdam,summer,in,Michael Verrips,288259,19,Netherlands,Goalkeeper,GK,50000.0,FC Twente Enschede U21,Netherlands,0.0,0
+2016,Eredivisie,Sparta Rotterdam,summer,in,Iván Calero,212849,21,Spain,Right-Back,RB,,Derby County,England,0.0,0
+2016,Eredivisie,Sparta Rotterdam,summer,in,Craig Goodwin,214798,24,Australia,Left Winger,LW,300000.0,Adelaide United,Australia,0.0,0
+2016,Eredivisie,Sparta Rotterdam,summer,in,Cyril Chevreuil,456530,26,France,Centre-Forward,CF,50000.0,Aubagne Football Club,France,0.0,0
+2016,Eredivisie,Sparta Rotterdam,summer,in,Stijn Spierings,241501,20,Netherlands,Central Midfield,CM,150000.0,AZ Alkmaar,Netherlands,0.0,0
+2016,Eredivisie,Sparta Rotterdam,summer,in,Mathias Pogba,196240,26,Guinea,Centre-Forward,CF,125000.0,Partick Thistle FC,Scotland,0.0,0
+2016,Eredivisie,Sparta Rotterdam,summer,in,Florian Pinteaux,126700,24,France,Left-Back,LB,300000.0,LB Châteauroux,France,,0
+2016,Eredivisie,Sparta Rotterdam,summer,in,Zakaria El Azzouzi,260664,20,Morocco,Centre-Forward,CF,1000000.0,Ajax Amsterdam U21,Netherlands,0.0,1
+2016,Eredivisie,Sparta Rotterdam,summer,in,David Mendes da Silva,16913,33,Netherlands,Defensive Midfield,DM,,Career break,,,0
+2016,Eredivisie,Sparta Rotterdam,summer,in,Koen Muller,273031,20,Netherlands,Centre-Back,CB,50000.0,Without Club,,,0
+2016,Eredivisie,Sparta Rotterdam,winter,in,Janne Saksela,130280,23,Finland,Right-Back,RB,350000.0,Rovaniemen Palloseura,Finland,0.0,0
+2016,Eredivisie,Sparta Rotterdam,winter,in,Martin Pusic,48052,29,Austria,Centre-Forward,CF,700000.0,FC Midtjylland,Denmark,0.0,1
+2016,Eredivisie,Sparta Rotterdam,winter,in,Jerson Cabral,126413,26,Cape Verde,Left Winger,LW,1250000.0,SC Bastia,France,0.0,1
+2016,Eredivisie,Sparta Rotterdam,summer,out,Cody Claver,321098,19,Netherlands,Left-Back,LB,25000.0,SC Cambuur-Leeuwarden U21,Netherlands,0.0,0
+2016,Eredivisie,Sparta Rotterdam,summer,out,Romano van der Stoep,216818,21,Netherlands,Attacking Midfield,AM,50000.0,FC Rijnvogels Katwijk,Netherlands,0.0,0
+2016,Eredivisie,Sparta Rotterdam,summer,out,Yesin Ben Mohamadi,241474,20,Netherlands,Attacking Midfield,AM,25000.0,RKC Waalwijk,Netherlands,0.0,0
+2016,Eredivisie,Sparta Rotterdam,summer,out,Youri Loen,153392,25,Netherlands,Central Midfield,CM,150000.0,FC Emmen,Netherlands,0.0,0
+2016,Eredivisie,Sparta Rotterdam,summer,out,Giovanni Hiwat,195499,22,Netherlands,Right Winger,RW,100000.0,Helmond Sport,Netherlands,0.0,0
+2016,Eredivisie,Sparta Rotterdam,summer,out,Melvin Vissers,222048,20,Netherlands,Attacking Midfield,AM,50000.0,DHC Delft,Netherlands,0.0,0
+2016,Eredivisie,Sparta Rotterdam,summer,out,Johan Voskamp,43766,31,Netherlands,Centre-Forward,CF,175000.0,RKC Waalwijk,Netherlands,0.0,0
+2016,Eredivisie,Sparta Rotterdam,summer,out,Yaël Eisden,280448,22,Curacao,Defensive Midfield,DM,75000.0,Without Club,,,0
+2016,Eredivisie,Sparta Rotterdam,summer,out,Christian Supusepa,45534,27,Netherlands,Left-Back,LB,150000.0,Without Club,,,0
+2016,Eredivisie,Sparta Rotterdam,summer,out,Hüseyin Dogan,216812,22,Netherlands,Centre-Forward,CF,100000.0,Without Club,,,0
+2016,Eredivisie,Sparta Rotterdam,summer,out,Stijn Spierings,241501,20,Netherlands,Central Midfield,CM,150000.0,AZ Alkmaar,Netherlands,0.0,1
+2016,Eredivisie,Sparta Rotterdam,summer,out,Sherjill MacDonald,9604,31,Netherlands,Centre-Forward,CF,250000.0,KVC Westerlo,Belgium,0.0,1
+2016,Eredivisie,Sparta Rotterdam,winter,out,Finn Stokkers,241486,20,Netherlands,Centre-Forward,CF,150000.0,Fortuna Sittard,Netherlands,0.0,0
+2016,Eredivisie,Sparta Rotterdam,winter,out,Robert Klaasen,187288,23,Netherlands,Defensive Midfield,DM,150000.0,De Graafschap Doetinchem,Netherlands,0.0,1
+2016,Eredivisie,Sparta Rotterdam,winter,out,Akram Salhi,416392,19,Netherlands,Attacking Midfield,AM,25000.0,Without Club,,,0
+2016,Eredivisie,Sparta Rotterdam,winter,out,Cyril Chevreuil,456530,27,France,Centre-Forward,CF,75000.0,Without Club,,,0
+2016,Eredivisie,Sparta Rotterdam,winter,out,Zakaria El Azzouzi,260664,20,Morocco,Centre-Forward,CF,800000.0,Ajax Amsterdam U21,Netherlands,0.0,1
+2016,Eredivisie,Twente Enschede FC,summer,in,Mateusz Klich,92738,26,Poland,Central Midfield,CM,500000.0,1.FC Kaiserslautern,Germany,50000.0,0
+2016,Eredivisie,Twente Enschede FC,summer,in,Stefan Thesker,175709,25,Germany,Centre-Back,CB,400000.0,SpVgg Greuther Fürth,Germany,50000.0,0
+2016,Eredivisie,Twente Enschede FC,summer,in,Dylan Seys,323788,19,Belgium,Right Winger,RW,200000.0,Club Brugge KV,Belgium,0.0,1
+2016,Eredivisie,Twente Enschede FC,summer,in,Yaw Yeboah,358985,19,Ghana,Right Winger,RW,300000.0,Manchester City U23,England,0.0,1
+2016,Eredivisie,Twente Enschede FC,summer,in,Enes Ünal,251106,19,Türkiye,Centre-Forward,CF,3000000.0,Manchester City,England,0.0,1
+2016,Eredivisie,Twente Enschede FC,summer,in,Dejan Trajkovski,190048,24,Slovenia,Left-Back,LB,400000.0,NK Domzale,Slovenia,0.0,1
+2016,Eredivisie,Twente Enschede FC,summer,in,Bersant Celina,229695,19,Kosovo,Attacking Midfield,AM,,Manchester City,England,0.0,1
+2016,Eredivisie,Twente Enschede FC,winter,in,Dejan Trajkovski,190048,24,Slovenia,Left-Back,LB,700000.0,NK Domzale,Slovenia,250000.0,0
+2016,Eredivisie,Twente Enschede FC,winter,in,Jos Hooiveld,4624,33,Netherlands,Centre-Back,CB,600000.0,AIK,Sweden,0.0,0
+2016,Eredivisie,Twente Enschede FC,winter,in,Enis Bunjaki,261943,19,Kosovo,Centre-Forward,CF,100000.0,Eintracht Frankfurt,Germany,0.0,0
+2016,Eredivisie,Twente Enschede FC,winter,in,Oussama Assaidi,57275,28,Morocco,Left Winger,LW,3500000.0,Without Club,,,0
+2016,Eredivisie,Twente Enschede FC,summer,out,Hakim Ziyech,217111,23,Morocco,Right Winger,RW,11000000.0,Ajax Amsterdam,Netherlands,11000000.0,0
+2016,Eredivisie,Twente Enschede FC,summer,out,Felipe Gutiérrez,133089,25,Chile,Central Midfield,CM,4000000.0,Real Betis Balompié,Spain,3500000.0,0
+2016,Eredivisie,Twente Enschede FC,summer,out,Chinedu Ede,26486,30,Germany,Right Winger,RW,600000.0,Bangkok United,Thailand,0.0,0
+2016,Eredivisie,Twente Enschede FC,summer,out,Robbert Schilder,30667,30,Netherlands,Centre-Back,CB,1000000.0,SC Cambuur Leeuwarden,Netherlands,0.0,0
+2016,Eredivisie,Twente Enschede FC,summer,out,Jerson Cabral,126413,25,Cape Verde,Left Winger,LW,1000000.0,SC Bastia,France,0.0,0
+2016,Eredivisie,Twente Enschede FC,summer,out,Torgeir Børven,129236,24,Norway,Centre-Forward,CF,800000.0,SK Brann,Norway,0.0,1
+2016,Eredivisie,Twente Enschede FC,summer,out,Oskar Zawada,232015,20,Poland,Centre-Forward,CF,250000.0,VfL Wolfsburg,Germany,0.0,1
+2016,Eredivisie,Twente Enschede FC,summer,out,Stefan Thesker,175709,25,Germany,Centre-Back,CB,300000.0,SpVgg Greuther Fürth,Germany,0.0,1
+2016,Eredivisie,Twente Enschede FC,summer,out,Zakaria El Azzouzi,260664,20,Morocco,Centre-Forward,CF,1000000.0,Ajax Amsterdam U21,Netherlands,0.0,1
+2016,Eredivisie,Twente Enschede FC,summer,out,Thomas Agyepong,384807,19,Ghana,Left Winger,LW,400000.0,Manchester City,England,0.0,1
+2016,Eredivisie,Twente Enschede FC,summer,out,Bruno Uvini,147396,25,Brazil,Centre-Back,CB,1500000.0,SSC Napoli,Italy,0.0,1
+2016,Eredivisie,Twente Enschede FC,winter,out,Georgios Katsikas,96778,26,Greece,Centre-Back,CB,600000.0,Esbjerg fB,Denmark,0.0,0
+2016,Eredivisie,Twente Enschede FC,winter,out,Torgeir Børven,129236,25,Norway,Centre-Forward,CF,500000.0,SK Brann,Norway,0.0,0
+2016,Eredivisie,Twente Enschede FC,winter,out,Shadrach Eghan,261154,22,Ghana,Attacking Midfield,AM,800000.0,Vendsyssel FF,Denmark,0.0,0
+2016,Eredivisie,Twente Enschede FC,winter,out,Jari Oosterwijk,250471,21,Netherlands,Centre-Forward,CF,850000.0,NAC Breda,Netherlands,0.0,1
+2016,Eredivisie,Twente Enschede FC,winter,out,Kyle Ebecilio,152642,23,Netherlands,Central Midfield,CM,1000000.0,Without Club,,,0
+2016,Eredivisie,Twente Enschede FC,winter,out,Dejan Trajkovski,190048,24,Slovenia,Left-Back,LB,700000.0,NK Domzale,Slovenia,0.0,1
+2016,Eredivisie,Vitesse Arnhem,summer,in,Ricky van Wolfswinkel,41355,27,Netherlands,Centre-Forward,CF,2500000.0,Norwich City,England,600000.0,0
+2016,Eredivisie,Vitesse Arnhem,summer,in,Navarone Foor,61612,24,Netherlands,Attacking Midfield,AM,1000000.0,NEC Nijmegen,Netherlands,0.0,0
+2016,Eredivisie,Vitesse Arnhem,summer,in,Michael Tørnes,43075,30,Denmark,Goalkeeper,GK,200000.0,Odense Boldklub,Denmark,0.0,0
+2016,Eredivisie,Vitesse Arnhem,summer,in,Matt Miazga,245893,21,United States,Centre-Back,CB,2500000.0,Chelsea FC,England,0.0,1
+2016,Eredivisie,Vitesse Arnhem,summer,in,Adnane Tighadouini,185570,23,Morocco,Left Winger,LW,1000000.0,Málaga CF,Spain,0.0,1
+2016,Eredivisie,Vitesse Arnhem,winter,in,Alexander Büttner,38003,27,Netherlands,Left-Back,LB,1500000.0,Dinamo Moscow,Russia,0.0,0
+2016,Eredivisie,Vitesse Arnhem,winter,in,Mukhtar Ali,258911,19,Saudi Arabia,Defensive Midfield,DM,200000.0,Chelsea FC U23,England,0.0,1
+2016,Eredivisie,Vitesse Arnhem,winter,in,Kevin Diks,335209,20,Indonesia,Centre-Back,CB,1900000.0,ACF Fiorentina,Italy,0.0,1
+2016,Eredivisie,Vitesse Arnhem,summer,out,Kevin Diks,335209,19,Indonesia,Centre-Back,CB,1500000.0,ACF Fiorentina,Italy,2900000.0,0
+2016,Eredivisie,Vitesse Arnhem,summer,out,Renato Ibarra,191830,25,Ecuador,Right Winger,RW,1750000.0,CF América,Mexico,1800000.0,0
+2016,Eredivisie,Vitesse Arnhem,summer,out,Piet Velthuizen,30585,29,Netherlands,Goalkeeper,GK,1250000.0,Hapoel Haifa,Israel,0.0,0
+2016,Eredivisie,Vitesse Arnhem,summer,out,Elmo Lieftink,272707,22,Netherlands,Defensive Midfield,DM,100000.0,Willem II Tilburg,Netherlands,0.0,0
+2016,Eredivisie,Vitesse Arnhem,summer,out,Denys Oliynyk,57895,29,Ukraine,Left Winger,LW,900000.0,SV Darmstadt 98,Germany,0.0,0
+2016,Eredivisie,Vitesse Arnhem,summer,out,Valeri Qazaishvili,156115,23,Georgia,Left Winger,LW,3500000.0,Legia Warszawa,Poland,0.0,1
+2016,Eredivisie,Vitesse Arnhem,summer,out,Izzy Brown,245805,19,England,Left Winger,LW,1250000.0,Chelsea FC U23,England,0.0,1
+2016,Eredivisie,Vitesse Arnhem,summer,out,Danilo Pantic,222830,19,Serbia,Attacking Midfield,AM,750000.0,Chelsea FC,England,0.0,1
+2016,Eredivisie,Vitesse Arnhem,summer,out,Dominic Solanke,258889,18,England,Centre-Forward,CF,2000000.0,Chelsea FC U23,England,0.0,1
+2016,Eredivisie,Vitesse Arnhem,winter,out,Kosuke Ota,110911,29,Japan,Left-Back,LB,1250000.0,FC Tokyo,Japan,750000.0,0
+2016,Eredivisie,Vitesse Arnhem,winter,out,Sheran Yeini,58342,30,Israel,Defensive Midfield,DM,600000.0,Maccabi Tel Aviv,Israel,400000.0,0
+2016,Eredivisie,Vitesse Arnhem,winter,out,Abiola Dauda,69651,28,Nigeria,Centre-Forward,CF,500000.0,Atromitos Athens,Greece,0.0,0
+2016,Eredivisie,Willem II Tilburg,summer,in,Jordy Croux,129581,22,Belgium,Right Winger,RW,250000.0,MVV Maastricht,Netherlands,150000.0,0
+2016,Eredivisie,Willem II Tilburg,summer,in,Fran Sol,164292,24,Spain,Centre-Forward,CF,,Villarreal CF B,Spain,0.0,0
+2016,Eredivisie,Willem II Tilburg,summer,in,Thom Haye,178219,21,Indonesia,Defensive Midfield,DM,1250000.0,AZ Alkmaar,Netherlands,0.0,0
+2016,Eredivisie,Willem II Tilburg,summer,in,Andreias Calcan,244548,22,Romania,Left Winger,LW,150000.0,FC Universitatea Cluj,Romania,0.0,0
+2016,Eredivisie,Willem II Tilburg,summer,in,Elmo Lieftink,272707,22,Netherlands,Defensive Midfield,DM,100000.0,Vitesse Arnhem,Netherlands,0.0,0
+2016,Eredivisie,Willem II Tilburg,summer,in,Pelé van Anholt,106634,25,Netherlands,Defensive Midfield,DM,1500000.0,SC Heerenveen,Netherlands,0.0,0
+2016,Eredivisie,Willem II Tilburg,summer,in,Darryl Lachman,93393,26,Curacao,Centre-Back,CB,800000.0,Sheffield Wednesday,England,0.0,0
+2016,Eredivisie,Willem II Tilburg,summer,in,Branco van den Boomen,203938,21,Netherlands,Central Midfield,CM,750000.0,SC Heerenveen,Netherlands,0.0,1
+2016,Eredivisie,Willem II Tilburg,summer,in,Jari Schuurman,264857,19,Netherlands,Attacking Midfield,AM,500000.0,Feyenoord Rotterdam,Netherlands,0.0,1
+2016,Eredivisie,Willem II Tilburg,summer,in,Derrick Tshimanga,78507,27,Belgium,Centre-Back,CB,1000000.0,Without Club,,,0
+2016,Eredivisie,Willem II Tilburg,winter,in,Obbi Oulare,314959,21,Belgium,Centre-Forward,CF,3000000.0,Watford FC,England,0.0,1
+2016,Eredivisie,Willem II Tilburg,winter,in,Vajebah Sakor,179838,20,Norway,Defensive Midfield,DM,300000.0,Juventus FC,Italy,0.0,1
+2016,Eredivisie,Willem II Tilburg,summer,out,Robbie Haemhouts,4452,32,Belgium,Central Midfield,CM,500000.0,NAC Breda,Netherlands,0.0,0
+2016,Eredivisie,Willem II Tilburg,summer,out,Rochdi Achenteh,61809,28,Morocco,Left-Back,LB,500000.0,Go Ahead Eagles,Netherlands,0.0,0
+2016,Eredivisie,Willem II Tilburg,summer,out,Frank van der Struijk,19061,31,Netherlands,Right-Back,RB,600000.0,Dundee United FC,Scotland,0.0,0
+2016,Eredivisie,Willem II Tilburg,summer,out,Terell Ondaan,187598,22,Guyana,Right Winger,RW,750000.0,SBV Excelsior,Netherlands,0.0,0
+2016,Eredivisie,Willem II Tilburg,summer,out,Robert Braber,29324,33,Netherlands,Attacking Midfield,AM,350000.0,Helmond Sport,Netherlands,0.0,0
+2016,Eredivisie,Willem II Tilburg,summer,out,Nick van der Velden,24819,34,Netherlands,Left Winger,LW,500000.0,Dundee United FC,Scotland,0.0,0
+2016,Eredivisie,Willem II Tilburg,summer,out,Nicky Kuiper,84260,27,Netherlands,Left-Back,LB,100000.0,FC Eindhoven,Netherlands,0.0,0
+2016,Eredivisie,Willem II Tilburg,summer,out,Jordy Vleugels,272844,20,Belgium,Central Midfield,CM,75000.0,FC Dordrecht,Netherlands,0.0,0
+2016,Eredivisie,Willem II Tilburg,summer,out,David Meul,13074,34,Belgium,Goalkeeper,GK,,Retired,,,0
+2016,Eredivisie,Willem II Tilburg,summer,out,Adam Nemec,55210,30,Slovakia,Centre-Forward,CF,300000.0,Without Club,,,0
+2016,Eredivisie,Willem II Tilburg,summer,out,Guus Hupperts,116636,24,Netherlands,Right Winger,RW,1000000.0,AZ Alkmaar,Netherlands,0.0,1
+2016,Eredivisie,Willem II Tilburg,summer,out,Andy Kawaya,203342,19,Belgium,Left Winger,LW,1000000.0,RSC Anderlecht,Belgium,0.0,1
+2016,Eredivisie,Willem II Tilburg,summer,out,Lucas Andersen,148344,21,Denmark,Attacking Midfield,AM,2000000.0,Ajax Amsterdam,Netherlands,0.0,1
+2016,Eredivisie,Willem II Tilburg,summer,out,Lesly de Sa,186858,23,Angola,Right Winger,RW,500000.0,Ajax Amsterdam,Netherlands,0.0,1
+2016,Eredivisie,Willem II Tilburg,winter,out,Bruno Andrade,80756,27,Brazil,Left Winger,LW,750000.0,Hapoel Kfar Saba,Israel,,0

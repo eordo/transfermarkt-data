@@ -1,0 +1,358 @@
+season,league,club,window,movement,player_name,player_id,age,nationality,position,pos,market_value,dealing_club,dealing_country,fee,is_loan
+1999,Eredivisie,AZ Alkmaar,summer,in,John Bosman,22449,34,Netherlands,Centre-Forward,CF,,Twente Enschede FC,Netherlands,400000.0,0
+1999,Eredivisie,AZ Alkmaar,summer,in,Miel Mans,4550,21,Netherlands,Right Midfield,RM,,FC Volendam,Netherlands,0.0,0
+1999,Eredivisie,AZ Alkmaar,summer,in,Ervin Lee,147879,25,Netherlands,Right-Back,RB,,Fortuna Sittard,Netherlands,0.0,0
+1999,Eredivisie,AZ Alkmaar,summer,in,Andrés Carevic,58525,20,Argentina,Defensive Midfield,DM,,CA Boca Juniors,Argentina,,0
+1999,Eredivisie,AZ Alkmaar,summer,in,Jamal Dibi,6408,19,Netherlands,Attacking Midfield,AM,,SC Telstar,Netherlands,,0
+1999,Eredivisie,AZ Alkmaar,winter,in,Olaf Lindenbergh,4542,25,Netherlands,Defensive Midfield,DM,,De Graafschap Doetinchem,Netherlands,0.0,0
+1999,Eredivisie,AZ Alkmaar,winter,in,Kenneth Pérez,4557,25,Denmark,Centre-Forward,CF,,MVV Maastricht,Netherlands,,0
+1999,Eredivisie,AZ Alkmaar,summer,out,Jamal Dibi,6408,19,Netherlands,Attacking Midfield,AM,,SC Telstar,Netherlands,0.0,1
+1999,Eredivisie,AZ Alkmaar,summer,out,Frank Amankwah,131000,27,Ghana,Right-Back,RB,,Iraklis Thessaloniki,Greece,,0
+1999,Eredivisie,AZ Alkmaar,summer,out,Michel Langerak,147878,30,Netherlands,Attacking Midfield,AM,,Sparta Rotterdam,Netherlands,,0
+1999,Eredivisie,AZ Alkmaar,summer,out,Fahad Al-Ghesheyan,101768,25,Saudi Arabia,Right Winger,RW,,Al-Hilal SFC,Saudi Arabia,0.0,1
+1999,Eredivisie,AZ Alkmaar,winter,out,Brian Jensen,3263,24,Denmark,Goalkeeper,GK,,West Bromwich Albion,England,150000.0,0
+1999,Eredivisie,AZ Alkmaar,winter,out,John Mutsaers,150856,27,Netherlands,Centre-Forward,CF,,MVV Maastricht,Netherlands,,0
+1999,Eredivisie,AZ Alkmaar,winter,out,Robert van der Weert,186375,29,Netherlands,Centre-Forward,CF,,MVV Maastricht,Netherlands,,0
+1999,Eredivisie,Ajax Amsterdam,summer,in,Nikolaos Machlas,3853,26,Greece,Centre-Forward,CF,,Vitesse Arnhem,Netherlands,8500000.0,0
+1999,Eredivisie,Ajax Amsterdam,summer,in,Frank Verlaat,541,31,Netherlands,Centre-Back,CB,,VfB Stuttgart,Germany,4400000.0,0
+1999,Eredivisie,Ajax Amsterdam,summer,in,John Nieuwenburg,27616,20,Netherlands,Defensive Midfield,DM,,Sparta Rotterdam,Netherlands,2700000.0,0
+1999,Eredivisie,Ajax Amsterdam,summer,in,Cristian Chivu,4314,18,Romania,Centre-Back,CB,,Universitatea Craiova,Romania,2500000.0,0
+1999,Eredivisie,Ajax Amsterdam,summer,in,Brian Laudrup,39667,30,Denmark,Right Winger,RW,,FC Copenhagen,Denmark,2000000.0,0
+1999,Eredivisie,Ajax Amsterdam,summer,in,Aron Winter,4324,32,Netherlands,Central Midfield,CM,,Inter Milan,Italy,600000.0,0
+1999,Eredivisie,Ajax Amsterdam,summer,in,Jason Culina,19051,18,Australia,Central Midfield,CM,,Sydney Olympic FC,Australia,0.0,0
+1999,Eredivisie,Ajax Amsterdam,summer,in,Aaron Mokoena,4756,18,South Africa,Centre-Back,CB,,Bayer 04 Leverkusen,Germany,0.0,0
+1999,Eredivisie,Ajax Amsterdam,summer,in,Stanley Menzo,101048,35,Netherlands,Goalkeeper,GK,,Lierse SK (-2018),Belgium,,0
+1999,Eredivisie,Ajax Amsterdam,summer,in,Jan van Halst,4320,30,Netherlands,Defensive Midfield,DM,,Twente Enschede FC,Netherlands,,0
+1999,Eredivisie,Ajax Amsterdam,winter,in,Bogdan Lobonț,4310,21,Romania,Goalkeeper,GK,,Rapid Bucharest ,Romania,3000000.0,0
+1999,Eredivisie,Ajax Amsterdam,summer,out,Sunday Oliseh,127,24,Nigeria,Defensive Midfield,DM,,Juventus FC,Italy,10000000.0,0
+1999,Eredivisie,Ajax Amsterdam,summer,out,Edwin van der Sar,3516,28,Netherlands,Goalkeeper,GK,,Juventus FC,Italy,8800000.0,0
+1999,Eredivisie,Ajax Amsterdam,summer,out,Benni McCarthy,3091,21,South Africa,Centre-Forward,CF,,Celta de Vigo,Spain,6000000.0,0
+1999,Eredivisie,Ajax Amsterdam,summer,out,Jari Litmanen,4675,28,Finland,Attacking Midfield,AM,,FC Barcelona,Spain,4000000.0,0
+1999,Eredivisie,Ajax Amsterdam,summer,out,Gerald Sibon,4559,25,Netherlands,Centre-Forward,CF,,Sheffield Wednesday,England,3000000.0,0
+1999,Eredivisie,Ajax Amsterdam,summer,out,Dean Gorré,107128,29,Netherlands,Right Winger,RW,,Huddersfield Town,England,380000.0,0
+1999,Eredivisie,Ajax Amsterdam,summer,out,Kofi Mensah,4444,21,Ghana,Right-Back,RB,,NAC Breda,Netherlands,0.0,0
+1999,Eredivisie,Ajax Amsterdam,summer,out,Arno Splinter,74787,21,Netherlands,Right-Back,RB,,De Graafschap Doetinchem,Netherlands,0.0,0
+1999,Eredivisie,Ajax Amsterdam,summer,out,Mario Melchiot,3158,22,Netherlands,Right-Back,RB,,Chelsea FC,England,0.0,0
+1999,Eredivisie,Ajax Amsterdam,summer,out,Robert-Jan Ravensbergen,7296,20,Netherlands,Centre-Back,CB,,FC Volendam,Netherlands,,0
+1999,Eredivisie,Ajax Amsterdam,summer,out,Mariano Juan,149510,23,Argentina,Centre-Back,CB,,Getafe CF,Spain,,0
+1999,Eredivisie,Ajax Amsterdam,summer,out,Andy van der Meyde,3772,19,Netherlands,Right Winger,RW,,Twente Enschede FC,Netherlands,0.0,1
+1999,Eredivisie,Ajax Amsterdam,summer,out,Danny Blind,101044,37,Netherlands,Sweeper,SW,,Retired,,,0
+1999,Eredivisie,Ajax Amsterdam,winter,out,Giorgi Kinkladze,3425,26,Georgia,Attacking Midfield,AM,,Derby County,England,5000000.0,0
+1999,Eredivisie,Ajax Amsterdam,winter,out,Martijn Reuser,13356,24,Netherlands,Attacking Midfield,AM,,Ipswich Town,England,1000000.0,0
+1999,Eredivisie,Ajax Amsterdam,winter,out,Andrzej Rudy,9229,34,Poland,Attacking Midfield,AM,,Lierse SK (-2018),Belgium,0.0,0
+1999,Eredivisie,Ajax Amsterdam,winter,out,Giorgi Kinkladze,3425,26,Georgia,Attacking Midfield,AM,,Derby County,England,0.0,1
+1999,Eredivisie,Ajax Amsterdam,winter,out,Peter Hoekstra,13584,26,Netherlands,Left Winger,LW,,SD Compostela,Spain,0.0,1
+1999,Eredivisie,Cambuur-Leeuwarden bvo,summer,in,Mischa Rook,21600,26,Netherlands,Left Midfield,LM,,Dordrecht'90,Netherlands,0.0,0
+1999,Eredivisie,Cambuur-Leeuwarden bvo,summer,in,Robin Nelisse,4556,21,Curacao,Centre-Forward,CF,,Feyenoord Rotterdam,Netherlands,0.0,1
+1999,Eredivisie,Cambuur-Leeuwarden bvo,summer,in,Rob Alflen,149247,31,Netherlands,Defensive Midfield,DM,,Heracles Almelo,Netherlands,,0
+1999,Eredivisie,Cambuur-Leeuwarden bvo,summer,in,Kenneth Goudmijn,150818,28,Netherlands,Right Winger,RW,,HFC Haarlem,Netherlands,,0
+1999,Eredivisie,Cambuur-Leeuwarden bvo,summer,in,Raymond de Waard,186208,26,Netherlands,Left Winger,LW,,Sportclub Excelsior,Netherlands,,0
+1999,Eredivisie,Cambuur-Leeuwarden bvo,summer,in,Rob Hilbers,207790,28,Netherlands,Goalkeeper,GK,,FC Volendam,Netherlands,,0
+1999,Eredivisie,Cambuur-Leeuwarden bvo,summer,in,Dennis Scharrenburg,5269,20,Netherlands,Central Midfield,CM,,FC Utrecht,Netherlands,0.0,1
+1999,Eredivisie,Cambuur-Leeuwarden bvo,summer,in,Reinder Hendriks,186352,26,Netherlands,Centre-Back,CB,,Willem II Tilburg,Netherlands,0.0,1
+1999,Eredivisie,Cambuur-Leeuwarden bvo,winter,in,Erik Tammer,186463,30,Netherlands,Centre-Forward,CF,,Sparta Rotterdam,Netherlands,,0
+1999,Eredivisie,Cambuur-Leeuwarden bvo,summer,out,Marinus Dijkhuizen,4481,27,Netherlands,Centre-Forward,CF,,FC Utrecht,Netherlands,0.0,0
+1999,Eredivisie,Cambuur-Leeuwarden bvo,summer,out,René van Rijswijk,4534,28,Netherlands,Right Winger,RW,,NEC Nijmegen,Netherlands,0.0,0
+1999,Eredivisie,Cambuur-Leeuwarden bvo,summer,out,Fuat Usta,186710,27,Türkiye,Central Midfield,CM,,Sparta Rotterdam,Netherlands,0.0,0
+1999,Eredivisie,Cambuur-Leeuwarden bvo,summer,out,Roy Hendriksen,19314,30,Netherlands,Centre-Back,CB,,BV Veendam,Netherlands,,0
+1999,Eredivisie,Cambuur-Leeuwarden bvo,summer,out,Richard Elzinga,147875,30,Netherlands,Right-Back,RB,,Sparta Rotterdam,Netherlands,,0
+1999,Eredivisie,Cambuur-Leeuwarden bvo,summer,out,René Jansen,292748,27,Netherlands,Goalkeeper,GK,,SBV Eindhoven,Netherlands,,0
+1999,Eredivisie,Cambuur-Leeuwarden bvo,summer,out,Richard Beekink,186694,27,Netherlands,Midfielder,Midfielder,,RKC Waalwijk,Netherlands,0.0,1
+1999,Eredivisie,Cambuur-Leeuwarden bvo,summer,out,Kenan Durmusoglu,3967,26,Türkiye,Defensive Midfield,DM,,AZ Alkmaar,Netherlands,0.0,1
+1999,Eredivisie,Cambuur-Leeuwarden bvo,winter,out,Raymond de Waard,186208,26,Netherlands,Left Winger,LW,,Norwich City,England,225000.0,0
+1999,Eredivisie,Cambuur-Leeuwarden bvo,winter,out,Twan Scheepers,139650,28,Netherlands,Centre-Forward,CF,,KFC Lommel SK (- 2003),Belgium,,0
+1999,Eredivisie,De Graafschap Doetinchem,summer,in,Milan Berck Beelenkamp,12145,21,Netherlands,Right-Back,RB,,Genoa CFC,Italy,0.0,0
+1999,Eredivisie,De Graafschap Doetinchem,summer,in,René Bot,14861,20,Netherlands,Right-Back,RB,,Feyenoord Rotterdam,Netherlands,0.0,0
+1999,Eredivisie,De Graafschap Doetinchem,summer,in,Arno Splinter,74787,21,Netherlands,Right-Back,RB,,Ajax Amsterdam,Netherlands,0.0,0
+1999,Eredivisie,De Graafschap Doetinchem,summer,in,Harald Berendsen,96482,18,Netherlands,Left-Back,LB,,Vitesse Arnhem U19,Netherlands,0.0,0
+1999,Eredivisie,De Graafschap Doetinchem,summer,in,Abdul Rahman Issah,583937,18,Ghana,Centre-Back,CB,,AJ Auxerre B,France,,0
+1999,Eredivisie,De Graafschap Doetinchem,summer,in,Patrik Fredholm,408091,21,Sweden,Central Midfield,CM,,Udinese Calcio,Italy,,0
+1999,Eredivisie,De Graafschap Doetinchem,summer,in,Michal Nehoda,186700,22,Czech Republic,Striker,Striker,,FC Petra Drnovice,Czech Republic,,0
+1999,Eredivisie,De Graafschap Doetinchem,summer,in,Massamasso Tchangai,40016,20,Togo,Centre-Back,CB,,Udinese Calcio,Italy,,0
+1999,Eredivisie,De Graafschap Doetinchem,summer,in,Denis Godeas,21926,24,Italy,Centre-Forward,CF,,US Triestina,Italy,,0
+1999,Eredivisie,De Graafschap Doetinchem,summer,in,Stefan Postma,3714,22,Netherlands,Goalkeeper,GK,,FC Utrecht,Netherlands,,0
+1999,Eredivisie,De Graafschap Doetinchem,summer,in,Marino Promes,7294,22,Netherlands,Striker,Striker,,Willem II Tilburg,Netherlands,,0
+1999,Eredivisie,De Graafschap Doetinchem,summer,in,Ousmane Sanda Sanda,137394,17,Cameroon,Attacking Midfield,AM,,Udinese Calcio,Italy,0.0,1
+1999,Eredivisie,De Graafschap Doetinchem,winter,in,Robert Fuchs,4500,24,Netherlands,Central Midfield,CM,,PSV Eindhoven,Netherlands,0.0,1
+1999,Eredivisie,De Graafschap Doetinchem,summer,out,Tomasz Rzasa,4373,26,Poland,Left-Back,LB,,Feyenoord Rotterdam,Netherlands,1800000.0,0
+1999,Eredivisie,De Graafschap Doetinchem,summer,out,Hans van de Haar,512,24,Netherlands,Centre-Forward,CF,,SSV Ulm 1846,Germany,250000.0,0
+1999,Eredivisie,De Graafschap Doetinchem,summer,out,Dave de Jong,20261,24,Netherlands,Centre-Back,CB,,NAC Breda,Netherlands,0.0,0
+1999,Eredivisie,De Graafschap Doetinchem,summer,out,Dennis Gerritsen,148351,28,Netherlands,Centre-Forward,CF,,Fortuna Sittard,Netherlands,0.0,0
+1999,Eredivisie,De Graafschap Doetinchem,summer,out,Ville Väisänen,32824,22,Finland,Centre-Forward,CF,,FC Lahti,Finland,0.0,1
+1999,Eredivisie,De Graafschap Doetinchem,summer,out,Maikel Haggeman,209177,22,Netherlands,Striker,Striker,,Unknown,,,0
+1999,Eredivisie,De Graafschap Doetinchem,summer,out,Dennis te Braak,197421,26,Netherlands,Midfielder,Midfielder,,Heracles Almelo,Netherlands,,0
+1999,Eredivisie,De Graafschap Doetinchem,summer,out,Jeroen Drenth,209123,20,Netherlands,Defender,Defender,,Heracles Almelo,Netherlands,,0
+1999,Eredivisie,De Graafschap Doetinchem,summer,out,Edwin Godee,148983,34,Netherlands,Midfielder,Midfielder,,Heracles Almelo,Netherlands,,0
+1999,Eredivisie,De Graafschap Doetinchem,summer,out,René Bot,14861,20,Netherlands,Right-Back,RB,,Feyenoord Rotterdam,Netherlands,0.0,1
+1999,Eredivisie,De Graafschap Doetinchem,winter,out,Olaf Lindenbergh,4542,25,Netherlands,Defensive Midfield,DM,,AZ Alkmaar,Netherlands,0.0,0
+1999,Eredivisie,De Graafschap Doetinchem,winter,out,Denis Godeas,21926,24,Italy,Centre-Forward,CF,,Treviso FBC 1993,Italy,,0
+1999,Eredivisie,De Graafschap Doetinchem,winter,out,Michal Nehoda,186700,23,Czech Republic,Striker,Striker,,SK Dynamo Ceske Budejovice B,Czech Republic,,0
+1999,Eredivisie,De Graafschap Doetinchem,winter,out,Richard Roelofsen,21520,30,Netherlands,Centre-Forward,CF,,Heracles Almelo,Netherlands,0.0,1
+1999,Eredivisie,FC Den Bosch,summer,in,Mourad Mghizrat,4162,24,Morocco,Midfielder,Midfielder,,Sparta Rotterdam,Netherlands,0.0,0
+1999,Eredivisie,FC Den Bosch,summer,in,Peter Uneken,21402,27,Netherlands,Centre-Back,CB,,SBV Emmen,Netherlands,0.0,0
+1999,Eredivisie,FC Den Bosch,summer,in,Chaly Jones,31341,22,Curacao,Right Winger,RW,,Sportclub Excelsior,Netherlands,0.0,0
+1999,Eredivisie,FC Den Bosch,summer,in,Cedric van der Gun,4676,20,Netherlands,Centre-Forward,CF,,Ajax Amsterdam U21,Netherlands,0.0,1
+1999,Eredivisie,FC Den Bosch,summer,in,Henk Vos,4670,31,Netherlands,Centre-Forward,CF,,Feyenoord Rotterdam,Netherlands,,0
+1999,Eredivisie,FC Den Bosch,summer,in,Bas Peijs,148382,21,Netherlands,Midfielder,Midfielder,,VV Gemert,Netherlands,,0
+1999,Eredivisie,FC Den Bosch,summer,in,Michel Ribeiro,186722,23,Belgium,Attacking Midfield,AM,,SC Telstar,Netherlands,,0
+1999,Eredivisie,FC Den Bosch,summer,in,Ali Fattouchi,186715,24,Netherlands,Midfielder,Midfielder,,Sportclub Excelsior,Netherlands,,0
+1999,Eredivisie,FC Den Bosch,summer,in,Regie Martina,186720,23,Netherlands,Midfielder,Midfielder,,SVV Scheveningen,Netherlands,,0
+1999,Eredivisie,FC Den Bosch,summer,in,Martijn van Strien,19302,20,Netherlands,Goalkeeper,GK,,Vitesse Arnhem,Netherlands,,0
+1999,Eredivisie,FC Den Bosch,summer,in,Patricio Graff,22570,23,Argentina,Left-Back,LB,,Feyenoord Rotterdam,Netherlands,0.0,1
+1999,Eredivisie,FC Den Bosch,summer,in,Menno Willems,19400,22,Netherlands,Left-Back,LB,,Vitesse Arnhem,Netherlands,0.0,1
+1999,Eredivisie,FC Den Bosch,winter,in,Mark Schenning,4447,29,Netherlands,Centre-Back,CB,,Willem II Tilburg,Netherlands,,0
+1999,Eredivisie,FC Den Bosch,winter,in,Rob Wielaert,4519,20,Netherlands,Centre-Back,CB,,PSV Eindhoven,Netherlands,0.0,1
+1999,Eredivisie,FC Den Bosch,winter,in,Martin Reijnders,85275,27,Netherlands,Centre-Forward,CF,,FC Haka,Finland,0.0,1
+1999,Eredivisie,FC Den Bosch,winter,in,Christopher Wreh,15712,24,Liberia,Centre-Forward,CF,,Arsenal FC,England,0.0,1
+1999,Eredivisie,FC Den Bosch,summer,out,Gerrie Schaap,243044,34,Netherlands,Midfielder,Midfielder,,VVV,Netherlands,,0
+1999,Eredivisie,FC Den Bosch,summer,out,Oswald Snip,247961,27,Netherlands,Striker,Striker,,TOP Oss,Netherlands,,0
+1999,Eredivisie,FC Den Bosch,summer,out,Udo Busby,247927,25,Netherlands,Defender,Defender,,De Treffers,Netherlands,,0
+1999,Eredivisie,FC Den Bosch,summer,out,Marcel van Helmond,186503,32,Netherlands,Right Winger,RW,,RBC Roosendaal,Netherlands,,0
+1999,Eredivisie,FC Den Bosch,summer,out,Paul Janssen,21501,27,Netherlands,Defender,Defender,,FC Groningen,Netherlands,,0
+1999,Eredivisie,FC Den Bosch,summer,out,Anthony Lurling,4158,22,Netherlands,Attacking Midfield,AM,,SC Heerenveen,Netherlands,,0
+1999,Eredivisie,FC Den Bosch,summer,out,Hans Gillhaus,101997,35,Netherlands,Centre-Forward,CF,,Retired,,,0
+1999,Eredivisie,FC Den Bosch,summer,out,Jan van Grinsven,230435,39,Netherlands,Goalkeeper,GK,,Retired,,,0
+1999,Eredivisie,FC Den Bosch,summer,out,Daniel Voigt,29927,21,Netherlands,Centre-Back,CB,,PSV Eindhoven U21,Netherlands,0.0,1
+1999,Eredivisie,FC Den Bosch,winter,out,Richard Stricker,186725,29,Netherlands,Striker,Striker,,SC Telstar,Netherlands,,0
+1999,Eredivisie,FC Den Bosch,winter,out,Ali Fattouchi,186715,24,Netherlands,Midfielder,Midfielder,,BSV Bad Bleiberg,Austria,,0
+1999,Eredivisie,FC Utrecht,summer,in,Harald Wapenaar,4180,29,Netherlands,Goalkeeper,GK,,Udinese Calcio,Italy,650000.0,0
+1999,Eredivisie,FC Utrecht,summer,in,Azubuike Oliseh,4659,20,Nigeria,Centre-Back,CB,,RSC Anderlecht,Belgium,0.0,0
+1999,Eredivisie,FC Utrecht,summer,in,Karim Touzani,4477,18,Netherlands,Defensive Midfield,DM,,Ajax Amsterdam U19,Netherlands,0.0,0
+1999,Eredivisie,FC Utrecht,summer,in,Marinus Dijkhuizen,4481,27,Netherlands,Centre-Forward,CF,,Cambuur-Leeuwarden bvo,Netherlands,0.0,0
+1999,Eredivisie,FC Utrecht,summer,in,Giuseppe Imburgia,140096,19,Italy,Centre-Back,CB,,Inter Milan Primavera,Italy,,0
+1999,Eredivisie,FC Utrecht,summer,in,Stijn Vreven,4008,25,Belgium,Right-Back,RB,,KAA Gent,Belgium,,0
+1999,Eredivisie,FC Utrecht,summer,in,Rodney Cairo,4480,24,Netherlands,Right Winger,RW,,ADO '20 Heemskerk,Netherlands,,0
+1999,Eredivisie,FC Utrecht,summer,in,Sander Keller,4656,19,Netherlands,Centre-Back,CB,,Ajax Amsterdam U21,Netherlands,,0
+1999,Eredivisie,FC Utrecht,summer,in,Theo Lucius,4349,22,Netherlands,Defensive Midfield,DM,,PSV Eindhoven,Netherlands,0.0,1
+1999,Eredivisie,FC Utrecht,winter,in,Viktor Bjarki Arnarsson,107868,16,Iceland,Defensive Midfield,DM,,Víkingur Reykjavík U19,Iceland,,0
+1999,Eredivisie,FC Utrecht,summer,out,Michael Mols,3512,28,Netherlands,Centre-Forward,CF,,Rangers FC,Scotland,6400000.0,0
+1999,Eredivisie,FC Utrecht,summer,out,Frank Kooiman,4739,29,Netherlands,Goalkeeper,GK,,Sparta Rotterdam,Netherlands,0.0,0
+1999,Eredivisie,FC Utrecht,summer,out,Kostas Kosta,170796,30,Cyprus,Right-Back,RB,,Apollon Limassol,Cyprus,0.0,0
+1999,Eredivisie,FC Utrecht,summer,out,Dennis van der Ree,19329,20,Netherlands,Right-Back,RB,,NAC Breda,Netherlands,0.0,1
+1999,Eredivisie,FC Utrecht,summer,out,Bernard Schuiteman,1061,25,Netherlands,Centre-Back,CB,,Feyenoord Rotterdam,Netherlands,0.0,1
+1999,Eredivisie,FC Utrecht,summer,out,Marcel van der Net,210490,34,Netherlands,Sweeper,SW,,Dordrecht'90,Netherlands,,0
+1999,Eredivisie,FC Utrecht,summer,out,Stefan Haaksman,206526,25,Netherlands,Striker,Striker,,Unknown,,,0
+1999,Eredivisie,FC Utrecht,summer,out,Wouter Kos,210485,20,Netherlands,Midfielder,Midfielder,,HFC Haarlem,Netherlands,,0
+1999,Eredivisie,FC Utrecht,summer,out,Emiel van Eijkeren,206551,31,Netherlands,Striker,Striker,,ADO Den Haag,Netherlands,,0
+1999,Eredivisie,FC Utrecht,summer,out,Costas Costa,240919,30,Cyprus,Defensive Midfield,DM,,Apollon Limassol,Cyprus,,0
+1999,Eredivisie,FC Utrecht,summer,out,Stefan Postma,3714,22,Netherlands,Goalkeeper,GK,,De Graafschap Doetinchem,Netherlands,,0
+1999,Eredivisie,FC Utrecht,summer,out,Emmanuel Nwakire,4493,21,Nigeria,Left-Back,LB,,RKC Waalwijk,Netherlands,,0
+1999,Eredivisie,FC Utrecht,summer,out,Hendrik van Beelen,29468,19,Netherlands,Attacking Midfield,AM,,Heracles Almelo,Netherlands,0.0,1
+1999,Eredivisie,FC Utrecht,summer,out,Dennis Scharrenburg,5269,20,Netherlands,Central Midfield,CM,,Cambuur-Leeuwarden bvo,Netherlands,0.0,1
+1999,Eredivisie,FC Utrecht,summer,out,Mourad Mghizrat,4162,24,Morocco,Midfielder,Midfielder,,Sparta Rotterdam,Netherlands,0.0,1
+1999,Eredivisie,FC Utrecht,summer,out,John O'Brien,4313,21,United States,Defensive Midfield,DM,,Ajax Amsterdam U21,Netherlands,0.0,1
+1999,Eredivisie,FC Utrecht,winter,out,Henny van Schoonhoven,186354,29,Netherlands,Centre-Back,CB,,ADO Den Haag,Netherlands,,0
+1999,Eredivisie,FC Utrecht,winter,out,Leon Kantelberg,19317,21,Curacao,Left Winger,LW,,FC Groningen,Netherlands,0.0,1
+1999,Eredivisie,FC Utrecht,winter,out,Jamie Forrester,67378,25,England,Centre-Forward,CF,,Walsall FC,England,0.0,1
+1999,Eredivisie,FC Utrecht,winter,out,Jamie Forrester,67378,25,England,Centre-Forward,CF,,Northampton Town,England,0.0,1
+1999,Eredivisie,Feyenoord Rotterdam,summer,in,Tomasz Rzasa,4373,26,Poland,Left-Back,LB,,De Graafschap Doetinchem,Netherlands,1800000.0,0
+1999,Eredivisie,Feyenoord Rotterdam,summer,in,Jan de Visser,117298,31,Netherlands,Left Midfield,LM,,SC Heerenveen,Netherlands,682000.0,0
+1999,Eredivisie,Feyenoord Rotterdam,summer,in,Radoslav Samardzic,4157,29,Serbia,Centre-Forward,CF,,SC Heerenveen,Netherlands,680000.0,0
+1999,Eredivisie,Feyenoord Rotterdam,summer,in,Patrick Mtiliga,19058,18,Denmark,Left-Back,LB,,Boldklubben af 1893,Denmark,450000.0,0
+1999,Eredivisie,Feyenoord Rotterdam,summer,in,Somália,53289,22,Brazil,Centre-Forward,CF,,NK Publikum Celje,Slovenia,,0
+1999,Eredivisie,Feyenoord Rotterdam,winter,in,Mo Allach,4629,26,Netherlands,Right-Back,RB,,Sportclub Excelsior,Netherlands,250000.0,0
+1999,Eredivisie,Feyenoord Rotterdam,summer,out,Brian Pinas,4381,20,Netherlands,Left Winger,LW,,Sportclub Excelsior,Netherlands,150000.0,1
+1999,Eredivisie,Feyenoord Rotterdam,summer,out,Patrick Mtiliga,19058,18,Denmark,Left-Back,LB,,Sportclub Excelsior,Netherlands,0.0,0
+1999,Eredivisie,Feyenoord Rotterdam,summer,out,René Bot,14861,20,Netherlands,Right-Back,RB,,De Graafschap Doetinchem,Netherlands,0.0,0
+1999,Eredivisie,Feyenoord Rotterdam,summer,out,David Connolly,9051,22,Ireland,Centre-Forward,CF,,Sportclub Excelsior,Netherlands,0.0,1
+1999,Eredivisie,Feyenoord Rotterdam,summer,out,Robin Nelisse,4556,21,Curacao,Centre-Forward,CF,,Cambuur-Leeuwarden bvo,Netherlands,0.0,1
+1999,Eredivisie,Feyenoord Rotterdam,summer,out,Henk Vos,4670,31,Netherlands,Centre-Forward,CF,,FC Den Bosch,Netherlands,,0
+1999,Eredivisie,Feyenoord Rotterdam,summer,out,Fernando Picún,172396,27,Uruguay,Centre-Back,CB,,Urawa Red Diamonds,Japan,,0
+1999,Eredivisie,Feyenoord Rotterdam,summer,out,Patricio Graff,22570,23,Argentina,Left-Back,LB,,FC Den Bosch,Netherlands,0.0,1
+1999,Eredivisie,Feyenoord Rotterdam,summer,out,Henk Fraser,101996,32,Netherlands,Centre-Back,CB,,Retired,,,0
+1999,Eredivisie,Feyenoord Rotterdam,summer,out,Zsolt Petry,20432,32,Hungary,Goalkeeper,GK,,Without Club,,,0
+1999,Eredivisie,Feyenoord Rotterdam,winter,out,Bernard Schuiteman,1061,26,Netherlands,Centre-Back,CB,,Grazer AK,Austria,0.0,0
+1999,Eredivisie,Feyenoord Rotterdam,winter,out,Pablo Sánchez,30932,26,Argentina,Attacking Midfield,AM,,Club de Gimnasia y Esgrima La Plata,Argentina,,0
+1999,Eredivisie,Fortuna Sittard,summer,in,Dennis Gerritsen,148351,28,Netherlands,Centre-Forward,CF,,De Graafschap Doetinchem,Netherlands,0.0,0
+1999,Eredivisie,Fortuna Sittard,summer,in,Joost Volmer,4545,25,Netherlands,Centre-Back,CB,,MVV Maastricht,Netherlands,,0
+1999,Eredivisie,Fortuna Sittard,summer,in,Brenny Evers,1979,20,Netherlands,Right-Back,RB,,PSV Eindhoven U21,Netherlands,,0
+1999,Eredivisie,Fortuna Sittard,summer,in,Dennis Krijgsman,148359,26,Netherlands,Attacking Midfield,AM,,Sparta Rotterdam,Netherlands,,0
+1999,Eredivisie,Fortuna Sittard,summer,in,Samir Amari,186726,19,Netherlands,Midfielder,Midfielder,,VVV,Netherlands,,0
+1999,Eredivisie,Fortuna Sittard,winter,in,Matthew Amoah,4429,19,Ghana,Centre-Forward,CF,,Vitesse Arnhem,Netherlands,0.0,1
+1999,Eredivisie,Fortuna Sittard,winter,in,Remco van der Schaaf,4351,20,Netherlands,Centre-Back,CB,,Vitesse Arnhem,Netherlands,0.0,1
+1999,Eredivisie,Fortuna Sittard,summer,out,Mark van Bommel,3515,22,Netherlands,Central Midfield,CM,,PSV Eindhoven,Netherlands,2700000.0,0
+1999,Eredivisie,Fortuna Sittard,summer,out,Arno van Zwam,14222,29,Netherlands,Goalkeeper,GK,,Júbilo Iwata,Japan,0.0,0
+1999,Eredivisie,Fortuna Sittard,summer,out,Ervin Lee,147879,25,Netherlands,Right-Back,RB,,AZ Alkmaar,Netherlands,0.0,0
+1999,Eredivisie,Fortuna Sittard,summer,out,Michael Jeffrey,207269,27,England,Centre-Forward,CF,,Kilmarnock FC,Scotland,0.0,0
+1999,Eredivisie,Fortuna Sittard,summer,out,Regillio Simons,4581,26,Netherlands,Centre-Forward,CF,,NAC Breda,Netherlands,,0
+1999,Eredivisie,Fortuna Sittard,summer,out,Freek de Winter,207261,22,Netherlands,Midfielder,Midfielder,,Helmond Sport,Netherlands,,0
+1999,Eredivisie,Fortuna Sittard,summer,out,Alin Banceu,207251,25,Romania,Striker,Striker,,FC National Bukarest,Romania,,0
+1999,Eredivisie,Fortuna Sittard,summer,out,Ivo Jongepier,292751,20,Netherlands,Midfielder,Midfielder,,SBV Eindhoven,Netherlands,,0
+1999,Eredivisie,Fortuna Sittard,summer,out,Wilfred Bouma,4338,21,Netherlands,Left-Back,LB,,PSV Eindhoven,Netherlands,0.0,1
+1999,Eredivisie,MVV Maastricht,summer,in,Jordy Geijselaars,186752,,Netherlands,Defender,Defender,,Unknown,,,0
+1999,Eredivisie,MVV Maastricht,summer,in,Danillo Giulietti,248997,19,Belgium,Goalkeeper,GK,,Unknown,,,0
+1999,Eredivisie,MVV Maastricht,summer,in,Roberto Blanquez,186749,19,Belgium,Striker,Striker,,KRC Genk U21,Belgium,,0
+1999,Eredivisie,MVV Maastricht,summer,in,Patrick Rondags,186761,34,Belgium,Goalkeeper,GK,,KVC Westerlo,Belgium,,0
+1999,Eredivisie,MVV Maastricht,summer,in,Bobby Kociski,186758,20,Sweden,Attacking Midfield,AM,,Högaborgs BK,Sweden,,0
+1999,Eredivisie,MVV Maastricht,summer,in,Rob Nuyts,29226,21,Belgium,Midfielder,Midfielder,,KFC Lommel SK (- 2003),Belgium,,0
+1999,Eredivisie,MVV Maastricht,summer,in,Theo Snelders,101755,35,Netherlands,Goalkeeper,GK,,Rangers FC,Scotland,,0
+1999,Eredivisie,MVV Maastricht,summer,in,Thomas Caers,13280,26,Belgium,Left-Back,LB,,KAA Gent,Belgium,,0
+1999,Eredivisie,MVV Maastricht,summer,in,Igor Tomasic,4701,22,Bulgaria,Centre-Back,CB,,Roda JC Kerkrade,Netherlands,,0
+1999,Eredivisie,MVV Maastricht,winter,in,John Mutsaers,150856,27,Netherlands,Centre-Forward,CF,,AZ Alkmaar,Netherlands,,0
+1999,Eredivisie,MVV Maastricht,winter,in,Robert van der Weert,186375,29,Netherlands,Centre-Forward,CF,,AZ Alkmaar,Netherlands,,0
+1999,Eredivisie,MVV Maastricht,winter,in,Stijn Meert,19387,21,Belgium,Left Midfield,LM,,RSC Anderlecht,Belgium,0.0,1
+1999,Eredivisie,MVV Maastricht,winter,in,Joey Gudjónsson,4065,19,Iceland,Central Midfield,CM,,KRC Genk,Belgium,0.0,1
+1999,Eredivisie,MVV Maastricht,summer,out,Quincy Elvira,248995,20,Netherlands,Striker,Striker,,FC Vinkenslag Maastricht,Netherlands,0.0,0
+1999,Eredivisie,MVV Maastricht,summer,out,Denny Landzaat,4570,23,Netherlands,Central Midfield,CM,,Willem II Tilburg,Netherlands,0.0,0
+1999,Eredivisie,MVV Maastricht,summer,out,Arjan Vermeulen,173723,30,Netherlands,Left-Back,LB,,Heracles Almelo,Netherlands,0.0,0
+1999,Eredivisie,MVV Maastricht,summer,out,Rein van Duijnhoven,642,31,Netherlands,Goalkeeper,GK,,VfL Bochum,Germany,0.0,0
+1999,Eredivisie,MVV Maastricht,summer,out,Roel Buikema,19193,23,Netherlands,Left Midfield,LM,,Helmond Sport,Netherlands,,0
+1999,Eredivisie,MVV Maastricht,summer,out,Ramon Lacroix,221510,24,Netherlands,Defender,Defender,,Unknown,,,0
+1999,Eredivisie,MVV Maastricht,summer,out,Joost Volmer,4545,25,Netherlands,Centre-Back,CB,,Fortuna Sittard,Netherlands,,0
+1999,Eredivisie,MVV Maastricht,summer,out,Jeroen Heubach,4587,24,Netherlands,Left-Back,LB,,Twente Enschede FC,Netherlands,0.0,1
+1999,Eredivisie,MVV Maastricht,winter,out,Kenneth Pérez,4557,25,Denmark,Centre-Forward,CF,,AZ Alkmaar,Netherlands,,0
+1999,Eredivisie,NEC Nijmegen,summer,in,Gjorgji Hristov,4532,24,North Macedonia,Centre-Forward,CF,,Barnsley FC,England,0.0,0
+1999,Eredivisie,NEC Nijmegen,summer,in,René van Rijswijk,4534,28,Netherlands,Right Winger,RW,,Cambuur-Leeuwarden bvo,Netherlands,0.0,0
+1999,Eredivisie,NEC Nijmegen,summer,in,Youssef Rossi,12640,26,Morocco,Centre-Back,CB,,Stade Rennais FC,France,,0
+1999,Eredivisie,NEC Nijmegen,summer,in,Richard Goulooze,151042,31,Netherlands,Right-Back,RB,,New England Revolution,United States,,0
+1999,Eredivisie,NEC Nijmegen,summer,in,Adilson dos Santos,159193,25,Netherlands,Centre-Forward,CF,,RKC Waalwijk,Netherlands,,0
+1999,Eredivisie,NEC Nijmegen,summer,in,Maarten Atmodikoro,186692,28,Netherlands,Right-Back,RB,,NAC Breda,Netherlands,,0
+1999,Eredivisie,NEC Nijmegen,summer,in,Cor Prein,186705,18,Netherlands,Striker,Striker,,PSV Eindhoven U19,Netherlands,,0
+1999,Eredivisie,NEC Nijmegen,summer,in,Arno Arts,4472,30,Netherlands,Central Midfield,CM,,Willem II Tilburg,Netherlands,0.0,1
+1999,Eredivisie,NEC Nijmegen,winter,in,Pieter Collen,4366,19,Belgium,Centre-Back,CB,,Vitesse Arnhem,Netherlands,345000.0,0
+1999,Eredivisie,NEC Nijmegen,summer,out,Ayhan Tumani,9944,27,Germany,Centre-Forward,CF,,Hannover 96,Germany,0.0,0
+1999,Eredivisie,NEC Nijmegen,summer,out,Ulrich Crüden,150744,32,Suriname,Right Midfield,RM,,De Treffers,Netherlands,0.0,0
+1999,Eredivisie,NEC Nijmegen,summer,out,Dzevdet Sainoski,16934,26,North Macedonia,Defensive Midfield,DM,,Hannover 96,Germany,,0
+1999,Eredivisie,NEC Nijmegen,summer,out,Juul Ellerman,149984,33,Netherlands,Centre-Forward,CF,,Helmond Sport,Netherlands,,0
+1999,Eredivisie,NEC Nijmegen,summer,out,Lodewijk van der Heijden,210346,22,Netherlands,Midfielder,Midfielder,,Unknown,,,0
+1999,Eredivisie,NEC Nijmegen,summer,out,Krzystof Bociek,150801,25,Poland,Centre-Forward,CF,,FC Den Bosch,Netherlands,0.0,1
+1999,Eredivisie,NEC Nijmegen,winter,out,Benito Kemble,206929,31,Netherlands,Centre-Back,CB,,Motherwell FC,Scotland,,0
+1999,Eredivisie,NEC Nijmegen,winter,out,Arno Arts,4472,30,Netherlands,Central Midfield,CM,,Willem II Tilburg,Netherlands,0.0,1
+1999,Eredivisie,PSV Eindhoven,summer,in,Eric Addo,4336,20,Ghana,Centre-Back,CB,,Club Brugge KV,Belgium,5000000.0,0
+1999,Eredivisie,PSV Eindhoven,summer,in,Mark van Bommel,3515,22,Netherlands,Central Midfield,CM,,Fortuna Sittard,Netherlands,2700000.0,0
+1999,Eredivisie,PSV Eindhoven,summer,in,Jan Heintze,1539,35,Denmark,Left-Back,LB,,Bayer 04 Leverkusen,Germany,0.0,0
+1999,Eredivisie,PSV Eindhoven,summer,in,Johann Vogel,4352,22,Switzerland,Defensive Midfield,DM,,Grasshopper Club Zurich,Switzerland,0.0,0
+1999,Eredivisie,PSV Eindhoven,summer,in,Ivica Kralj,9211,26,Serbia,Goalkeeper,GK,,FC Porto,Portugal,,0
+1999,Eredivisie,PSV Eindhoven,summer,out,Gilles De Bilde,12061,28,Belgium,Centre-Forward,CF,,Sheffield Wednesday,England,5000000.0,0
+1999,Eredivisie,PSV Eindhoven,summer,out,Abel Xavier,3211,26,Portugal,Right-Back,RB,,Everton FC,England,2100000.0,0
+1999,Eredivisie,PSV Eindhoven,summer,out,Jorginho Paulista,3367,19,Brazil,Left-Back,LB,,Udinese Calcio,Italy,900000.0,0
+1999,Eredivisie,PSV Eindhoven,summer,out,Davy Oyen,9983,23,Belgium,Left-Back,LB,,RSC Anderlecht,Belgium,,0
+1999,Eredivisie,PSV Eindhoven,summer,out,Manoel,14330,21,Brazil,Centre-Forward,CF,,Esporte Clube Vitória,Brazil,,0
+1999,Eredivisie,PSV Eindhoven,summer,out,Marciano Vink,107144,28,Netherlands,Defensive Midfield,DM,,ADO Den Haag,Netherlands,,0
+1999,Eredivisie,PSV Eindhoven,summer,out,Theo Lucius,4349,22,Netherlands,Defensive Midfield,DM,,FC Utrecht,Netherlands,0.0,1
+1999,Eredivisie,PSV Eindhoven,summer,out,Giorgi Gakhokidze,4356,23,Georgia,Left Winger,LW,,Maccabi Haifa,Israel,0.0,1
+1999,Eredivisie,PSV Eindhoven,winter,out,Dmitriy Khokhlov,9637,24,Russia,Central Midfield,CM,,Real Sociedad,Spain,1500000.0,0
+1999,Eredivisie,PSV Eindhoven,winter,out,Igor Demo,794,24,Slovakia,Central Midfield,CM,,Borussia Mönchengladbach,Germany,100000.0,0
+1999,Eredivisie,PSV Eindhoven,winter,out,Marcos,53082,24,Brazil,Centre-Back,CB,,Sporting CP,Portugal,,0
+1999,Eredivisie,PSV Eindhoven,winter,out,Rob Wielaert,4519,20,Netherlands,Centre-Back,CB,,FC Den Bosch,Netherlands,0.0,1
+1999,Eredivisie,PSV Eindhoven,winter,out,Robert Fuchs,4500,24,Netherlands,Central Midfield,CM,,De Graafschap Doetinchem,Netherlands,0.0,1
+1999,Eredivisie,RKC Waalwijk,summer,in,Emmanuel Nwakire,4493,21,Nigeria,Left-Back,LB,,FC Utrecht,Netherlands,,0
+1999,Eredivisie,RKC Waalwijk,summer,in,Yuri Cornelisse,4507,24,Netherlands,Right Midfield,RM,,RSC Anderlecht,Belgium,,0
+1999,Eredivisie,RKC Waalwijk,summer,in,Tim Cornelisse,4415,21,Netherlands,Right-Back,RB,,RSC Anderlecht,Belgium,,0
+1999,Eredivisie,RKC Waalwijk,summer,in,Giovanni Franken,75360,19,Curacao,Midfielder,Midfielder,,Dordrecht'90,Netherlands,,0
+1999,Eredivisie,RKC Waalwijk,summer,out,Dennis van der Pennen,19421,23,Netherlands,Midfielder,Midfielder,,Dordrecht'90,Netherlands,0.0,0
+1999,Eredivisie,RKC Waalwijk,summer,out,Adilson dos Santos,159193,25,Netherlands,Centre-Forward,CF,,NEC Nijmegen,Netherlands,,0
+1999,Eredivisie,RKC Waalwijk,summer,out,Lee-Roy Echteld,114366,30,Netherlands,Attacking Midfield,AM,,SC Austria Lustenau,Austria,,0
+1999,Eredivisie,RKC Waalwijk,summer,out,Ruud van der Velden,207282,22,Netherlands,Defender,Defender,,Unknown,,,0
+1999,Eredivisie,RKC Waalwijk,summer,out,Leon van Nieuwkerk,207283,24,Netherlands,Striker,Striker,,Helmond Sport,Netherlands,,0
+1999,Eredivisie,RKC Waalwijk,summer,out,Romeo van Aerde,206499,31,Suriname,Midfielder,Midfielder,,Dordrecht'90,Netherlands,,0
+1999,Eredivisie,RKC Waalwijk,summer,out,Hans van Arum,206355,32,Netherlands,Centre-Forward,CF,,Go Ahead Eagles,Netherlands,,0
+1999,Eredivisie,RKC Waalwijk,summer,out,Jose Maria Cela,207258,30,Spain,Striker,Striker,,Retired,,,0
+1999,Eredivisie,RKC Waalwijk,summer,out,Adrie Bogers,206338,34,Netherlands,Left-Back,LB,,KFC Turnhout,Belgium,,0
+1999,Eredivisie,RKC Waalwijk,summer,out,Santinho Lopes Monteiro,19322,20,Netherlands,Right Winger,RW,,Sportclub Excelsior,Netherlands,0.0,1
+1999,Eredivisie,RKC Waalwijk,summer,out,Tim Cornelisse,4415,21,Netherlands,Right-Back,RB,,RSC Anderlecht,Belgium,0.0,1
+1999,Eredivisie,RKC Waalwijk,winter,out,Rick Hoogendorp,4508,24,Netherlands,Centre-Forward,CF,,Celta de Vigo,Spain,315000.0,1
+1999,Eredivisie,RKC Waalwijk,winter,out,Michel van Zundert,21565,21,Netherlands,Defender,Defender,,SBV Eindhoven,Netherlands,0.0,1
+1999,Eredivisie,Roda JC Kerkrade,summer,in,Kevin Van Dessel,4614,20,Belgium,Left Midfield,LM,,Genoa CFC,Italy,,0
+1999,Eredivisie,Roda JC Kerkrade,summer,in,Jan Vercammen,106106,20,Belgium,Goalkeeper,GK,,KV Mechelen U21,Belgium,,0
+1999,Eredivisie,Roda JC Kerkrade,winter,in,Tom Soetaers,4625,19,Belgium,Left Winger,LW,,RSC Anderlecht,Belgium,,0
+1999,Eredivisie,Roda JC Kerkrade,winter,in,Paolo Ramora,186436,19,Italy,Midfielder,Midfielder,,Salernitana Primavera,Italy,,0
+1999,Eredivisie,Roda JC Kerkrade,summer,out,Stephan Van Der Heyden,101753,29,Belgium,Left Midfield,LM,,Germinal Beerschot Antwerpen,Belgium,0.0,0
+1999,Eredivisie,Roda JC Kerkrade,summer,out,Igor Tomasic,4701,22,Bulgaria,Centre-Back,CB,,MVV Maastricht,Netherlands,,0
+1999,Eredivisie,Roda JC Kerkrade,summer,out,Fatih Sonkaya,4612,18,Türkiye,Right-Back,RB,,VVV,Netherlands,0.0,1
+1999,Eredivisie,Roda JC Kerkrade,winter,out,Gunnar Einarsson,87075,23,Iceland,Centre-Back,CB,,Brentford FC,England,,0
+1999,Eredivisie,SC Heerenveen,summer,in,Allan Jepsen,8078,22,Denmark,Left-Back,LB,,Hamburger SV,Germany,350000.0,0
+1999,Eredivisie,SC Heerenveen,summer,in,Mika Nurmela,4409,27,Finland,Right Midfield,RM,,SBV Emmen,Netherlands,0.0,0
+1999,Eredivisie,SC Heerenveen,summer,in,Jesper Haakansson,4401,17,Denmark,Attacking Midfield,AM,,BK Frem,Denmark,0.0,0
+1999,Eredivisie,SC Heerenveen,summer,in,Harris Huizingh,148759,36,Netherlands,Centre-Forward,CF,,FC Groningen,Netherlands,0.0,0
+1999,Eredivisie,SC Heerenveen,summer,in,Mika Pulkkinen,111190,26,Finland,Centre-Back,CB,,Kotkan Työväen Palloilijat,Finland,,0
+1999,Eredivisie,SC Heerenveen,summer,in,Barry Ditewig,29250,21,Netherlands,Goalkeeper,GK,,VV DOVO Veenendaal,Netherlands,,0
+1999,Eredivisie,SC Heerenveen,summer,in,Anthony Lurling,4158,22,Netherlands,Attacking Midfield,AM,,FC Den Bosch,Netherlands,,0
+1999,Eredivisie,SC Heerenveen,winter,in,Valeriy Popovich,25133,29,Russia,Centre-Forward,CF,,FC Haka,Finland,0.0,1
+1999,Eredivisie,SC Heerenveen,summer,out,Jan de Visser,117298,31,Netherlands,Left Midfield,LM,,Feyenoord Rotterdam,Netherlands,682000.0,0
+1999,Eredivisie,SC Heerenveen,summer,out,Radoslav Samardzic,4157,29,Serbia,Centre-Forward,CF,,Feyenoord Rotterdam,Netherlands,680000.0,0
+1999,Eredivisie,SC Heerenveen,summer,out,Emmanuel Ebiede,186512,23,Nigeria,Left Winger,LW,,Al-Jazira Club,United Arab Emirates,0.0,0
+1999,Eredivisie,SC Heerenveen,summer,out,Radu Gusatu,184235,29,Romania,Attacking Midfield,AM,,Extensiv Craiova,Romania,,0
+1999,Eredivisie,SC Heerenveen,summer,out,Amos Letwory,1433180,18,Netherlands,Striker,Striker,,FC Zwolle,Netherlands,,0
+1999,Eredivisie,SC Heerenveen,summer,out,Dionysius Sebwe,210488,30,Liberia,Defender,Defender,,Kansas City Wizards,United States,,0
+1999,Eredivisie,SC Heerenveen,summer,out,Raphael Bove,207835,22,Australia,Midfielder,Midfielder,,Dundee United FC,Scotland,,0
+1999,Eredivisie,SC Heerenveen,summer,out,Panu Toivonen,133577,26,Finland,Goalkeeper,GK,,FC Haka,Finland,,0
+1999,Eredivisie,SC Heerenveen,summer,out,Brian Tevreden,209659,30,Netherlands,Right-Back,RB,,SC Telstar,Netherlands,,0
+1999,Eredivisie,SC Heerenveen,summer,out,Stephano Wooding,210104,19,Netherlands,Left-Back,LB,,Kuopion Palloseura,Finland,0.0,1
+1999,Eredivisie,SC Heerenveen,summer,out,Valeriy Popovich,25133,29,Russia,Centre-Forward,CF,,FC Haka,Finland,0.0,1
+1999,Eredivisie,SC Heerenveen,winter,out,Henry Onwuzuruike,866,19,Nigeria,Central Midfield,CM,,SpVgg Greuther Fürth,Germany,0.0,0
+1999,Eredivisie,SC Heerenveen,winter,out,Ronnie Pander,21624,22,Netherlands,Midfielder,Midfielder,,BV Veendam,Netherlands,,0
+1999,Eredivisie,SC Heerenveen,winter,out,Florin Constantinovici,188665,31,Romania,Centre-Back,CB,,FC Brasov,Romania,,0
+1999,Eredivisie,Sparta Rotterdam,summer,in,Roy Stroeve,6758,22,Netherlands,Attacking Midfield,AM,,SBV Emmen,Netherlands,0.0,0
+1999,Eredivisie,Sparta Rotterdam,summer,in,Silvan Inia,19233,30,Netherlands,Left Midfield,LM,,FC Volendam,Netherlands,0.0,0
+1999,Eredivisie,Sparta Rotterdam,summer,in,Sieme Zijm,19095,21,Netherlands,Left-Back,LB,,FC Zwolle,Netherlands,0.0,0
+1999,Eredivisie,Sparta Rotterdam,summer,in,Frank Kooiman,4739,29,Netherlands,Goalkeeper,GK,,FC Utrecht,Netherlands,0.0,0
+1999,Eredivisie,Sparta Rotterdam,summer,in,Fuat Usta,186710,27,Türkiye,Central Midfield,CM,,Cambuur-Leeuwarden bvo,Netherlands,0.0,0
+1999,Eredivisie,Sparta Rotterdam,summer,in,Bram Marbus,17321,27,Netherlands,Centre-Forward,CF,,Go Ahead Eagles,Netherlands,,0
+1999,Eredivisie,Sparta Rotterdam,summer,in,Houssin Bezzai,21594,20,Morocco,Defender,Defender,,UVS Leiden,Netherlands,,0
+1999,Eredivisie,Sparta Rotterdam,summer,in,Michel Langerak,147878,30,Netherlands,Attacking Midfield,AM,,AZ Alkmaar,Netherlands,,0
+1999,Eredivisie,Sparta Rotterdam,summer,in,Richard Elzinga,147875,30,Netherlands,Right-Back,RB,,Cambuur-Leeuwarden bvo,Netherlands,,0
+1999,Eredivisie,Sparta Rotterdam,summer,in,Steve Goossen,186452,30,Netherlands,Centre-Back,CB,,Vitesse Arnhem,Netherlands,,0
+1999,Eredivisie,Sparta Rotterdam,summer,out,John Nieuwenburg,27616,20,Netherlands,Defensive Midfield,DM,,Ajax Amsterdam,Netherlands,2700000.0,0
+1999,Eredivisie,Sparta Rotterdam,summer,out,Kew Jaliens,4560,20,Netherlands,Centre-Back,CB,,Willem II Tilburg,Netherlands,1500000.0,0
+1999,Eredivisie,Sparta Rotterdam,summer,out,Arjan van der Laan,12110,29,Netherlands,Attacking Midfield,AM,,Twente Enschede FC,Netherlands,450000.0,0
+1999,Eredivisie,Sparta Rotterdam,summer,out,Johan van der Werff,7290,24,Netherlands,Goalkeeper,GK,,Dordrecht'90,Netherlands,0.0,0
+1999,Eredivisie,Sparta Rotterdam,summer,out,Mourad Mghizrat,4162,24,Morocco,Midfielder,Midfielder,,FC Den Bosch,Netherlands,0.0,0
+1999,Eredivisie,Sparta Rotterdam,summer,out,Dennis Krijgsman,148359,26,Netherlands,Attacking Midfield,AM,,Fortuna Sittard,Netherlands,,0
+1999,Eredivisie,Sparta Rotterdam,summer,out,Nico Jalink,150751,35,Netherlands,Right Midfield,RM,,Dordrecht'90,Netherlands,,0
+1999,Eredivisie,Sparta Rotterdam,summer,out,Arnoud Toet,186709,21,Netherlands,Goalkeeper,GK,,Unknown,,,0
+1999,Eredivisie,Sparta Rotterdam,winter,out,Erik Tammer,186463,30,Netherlands,Centre-Forward,CF,,Cambuur-Leeuwarden bvo,Netherlands,,0
+1999,Eredivisie,Sparta Rotterdam,winter,out,Romeo Wouden,186711,28,Netherlands,Left Winger,LW,,Dordrecht'90,Netherlands,0.0,1
+1999,Eredivisie,Twente Enschede FC,summer,in,Scott Booth,3558,27,Scotland,Centre-Forward,CF,,Borussia Dortmund,Germany,550000.0,0
+1999,Eredivisie,Twente Enschede FC,summer,in,Arjan van der Laan,12110,29,Netherlands,Attacking Midfield,AM,,Sparta Rotterdam,Netherlands,450000.0,0
+1999,Eredivisie,Twente Enschede FC,summer,in,Frédéric Peiremans,106918,25,Belgium,Defensive Midfield,DM,,RSC Anderlecht,Belgium,,0
+1999,Eredivisie,Twente Enschede FC,summer,in,Edwin Hilgerink,186330,27,Netherlands,Defender,Defender,,Heracles Almelo,Netherlands,,0
+1999,Eredivisie,Twente Enschede FC,summer,in,Jan Verlinden,4590,22,Belgium,Right-Back,RB,,KV Mechelen,Belgium,,0
+1999,Eredivisie,Twente Enschede FC,summer,in,Andy van der Meyde,3772,19,Netherlands,Right Winger,RW,,Ajax Amsterdam,Netherlands,0.0,1
+1999,Eredivisie,Twente Enschede FC,summer,out,Niels Oude Kamphuis,275,21,Netherlands,Defensive Midfield,DM,,FC Schalke 04,Germany,3400000.0,0
+1999,Eredivisie,Twente Enschede FC,summer,out,John Bosman,22449,34,Netherlands,Centre-Forward,CF,,AZ Alkmaar,Netherlands,400000.0,0
+1999,Eredivisie,Twente Enschede FC,summer,out,Rik Platvoet,5020,23,Netherlands,Centre-Forward,CF,,Heracles Almelo,Netherlands,0.0,0
+1999,Eredivisie,Twente Enschede FC,summer,out,Antti Sumiala,1037,25,Finland,Centre-Forward,CF,,FC Jokerit,Finland,,0
+1999,Eredivisie,Twente Enschede FC,summer,out,Jan van Halst,4320,30,Netherlands,Defensive Midfield,DM,,Ajax Amsterdam,Netherlands,,0
+1999,Eredivisie,Twente Enschede FC,summer,out,Theo ten Caat,186350,34,Netherlands,Attacking Midfield,AM,,BV Veendam,Netherlands,,0
+1999,Eredivisie,Vitesse Arnhem,summer,in,Mahamadou Diarra,5352,18,Mali,Defensive Midfield,DM,,OFI Crete FC,Greece,1150000.0,0
+1999,Eredivisie,Vitesse Arnhem,summer,in,Pieter Collen,4366,19,Belgium,Centre-Back,CB,,KAA Gent,Belgium,675000.0,0
+1999,Eredivisie,Vitesse Arnhem,summer,in,Ştefan Nanu,4420,30,Romania,Left-Back,LB,,Rapid Bucharest ,Romania,300000.0,0
+1999,Eredivisie,Vitesse Arnhem,summer,in,Nenad Grozdic,16066,25,Serbia,Central Midfield,CM,,FK Obilic (- 2015),Serbia,0.0,0
+1999,Eredivisie,Vitesse Arnhem,summer,in,Dragoslav Jevric,4414,24,Serbia,Goalkeeper,GK,,Red Star Belgrade,Serbia,0.0,0
+1999,Eredivisie,Vitesse Arnhem,summer,in,Dejan Stefanovic,4308,24,Serbia,Centre-Back,CB,,OFK Beograd,Serbia,0.0,0
+1999,Eredivisie,Vitesse Arnhem,summer,in,Victor Sikora,4333,21,Netherlands,Right Winger,RW,,Go Ahead Eagles,Netherlands,,0
+1999,Eredivisie,Vitesse Arnhem,summer,out,Nikolaos Machlas,3853,26,Greece,Centre-Forward,CF,,Ajax Amsterdam,Netherlands,8500000.0,0
+1999,Eredivisie,Vitesse Arnhem,summer,out,Sander Westerveld,3427,24,Netherlands,Goalkeeper,GK,,Liverpool FC,England,6000000.0,0
+1999,Eredivisie,Vitesse Arnhem,summer,out,Dmitriy Shukov,4580,23,Russia,Left Midfield,LM,,Willem II Tilburg,Netherlands,2000000.0,0
+1999,Eredivisie,Vitesse Arnhem,summer,out,Willem Korsten,104898,24,Netherlands,Left Winger,LW,,Tottenham Hotspur,England,1700000.0,0
+1999,Eredivisie,Vitesse Arnhem,summer,out,Martijn van Strien,19302,20,Netherlands,Goalkeeper,GK,,FC Den Bosch,Netherlands,,0
+1999,Eredivisie,Vitesse Arnhem,summer,out,Steve Goossen,186452,30,Netherlands,Centre-Back,CB,,Sparta Rotterdam,Netherlands,,0
+1999,Eredivisie,Vitesse Arnhem,summer,out,Joe Bacak,221721,26,Australia,Midfielder,Midfielder,,Hertha BSC,Germany,,0
+1999,Eredivisie,Vitesse Arnhem,summer,out,Menno Willems,19400,22,Netherlands,Left-Back,LB,,FC Den Bosch,Netherlands,0.0,1
+1999,Eredivisie,Vitesse Arnhem,summer,out,Marián Zeman,4422,24,Slovakia,Centre-Back,CB,,Grasshopper Club Zurich,Switzerland,0.0,1
+1999,Eredivisie,Vitesse Arnhem,summer,out,Martijn Reuser,13356,24,Netherlands,Attacking Midfield,AM,,Ajax Amsterdam,Netherlands,0.0,1
+1999,Eredivisie,Vitesse Arnhem,summer,out,Darko Butorovic,172061,28,Croatia,Right-Back,RB,,FC Porto,Portugal,0.0,1
+1999,Eredivisie,Vitesse Arnhem,summer,out,Scott Booth,3558,26,Scotland,Centre-Forward,CF,,Borussia Dortmund,Germany,0.0,1
+1999,Eredivisie,Vitesse Arnhem,winter,out,Pieter Collen,4366,19,Belgium,Centre-Back,CB,,NEC Nijmegen,Netherlands,345000.0,0
+1999,Eredivisie,Vitesse Arnhem,winter,out,Matthew Amoah,4429,19,Ghana,Centre-Forward,CF,,Fortuna Sittard,Netherlands,0.0,1
+1999,Eredivisie,Vitesse Arnhem,winter,out,Remco van der Schaaf,4351,20,Netherlands,Centre-Back,CB,,Fortuna Sittard,Netherlands,0.0,1
+1999,Eredivisie,Willem II Tilburg,summer,in,Dmitriy Shukov,4580,23,Russia,Left Midfield,LM,,Vitesse Arnhem,Netherlands,2000000.0,0
+1999,Eredivisie,Willem II Tilburg,summer,in,Kew Jaliens,4560,20,Netherlands,Centre-Back,CB,,Sparta Rotterdam,Netherlands,1500000.0,0
+1999,Eredivisie,Willem II Tilburg,summer,in,Denny Landzaat,4570,23,Netherlands,Central Midfield,CM,,MVV Maastricht,Netherlands,0.0,0
+1999,Eredivisie,Willem II Tilburg,summer,in,Marco Gentile,160914,30,Netherlands,Centre-Back,CB,,FC Volendam,Netherlands,0.0,0
+1999,Eredivisie,Willem II Tilburg,summer,in,Casper Nelis,266253,23,Netherlands,Goalkeeper,GK,,Ajax Amsterdam U21,Netherlands,0.0,0
+1999,Eredivisie,Willem II Tilburg,summer,in,Guy Veldeman,4566,20,Belgium,Left-Back,LB,,RSC Anderlecht,Belgium,,0
+1999,Eredivisie,Willem II Tilburg,winter,in,Geert De Vlieger,3959,28,Belgium,Goalkeeper,GK,,RSC Anderlecht,Belgium,560000.0,0
+1999,Eredivisie,Willem II Tilburg,winter,in,Tom Caluwé,4568,21,Belgium,Attacking Midfield,AM,,KV Mechelen,Belgium,,0
+1999,Eredivisie,Willem II Tilburg,winter,in,Tarik Sektioui,4579,22,Morocco,Right Winger,RW,,Neuchâtel Xamax,Switzerland,,0
+1999,Eredivisie,Willem II Tilburg,summer,out,Sami Hyypiä,3470,25,Finland,Centre-Back,CB,,Liverpool FC,England,3900000.0,0
+1999,Eredivisie,Willem II Tilburg,summer,out,Rody Hoegee,223318,22,Netherlands,Goalkeeper,GK,,Sporting Flevoland,Netherlands,0.0,0
+1999,Eredivisie,Willem II Tilburg,summer,out,Marino Promes,7294,22,Netherlands,Striker,Striker,,De Graafschap Doetinchem,Netherlands,,0
+1999,Eredivisie,Willem II Tilburg,summer,out,Scott Calderwood,179241,21,Scotland,Midfielder,Midfielder,,Heracles Almelo,Netherlands,,0
+1999,Eredivisie,Willem II Tilburg,summer,out,Huub Loeffen,186343,27,Netherlands,Centre-Forward,CF,,TOP Oss,Netherlands,,0
+1999,Eredivisie,Willem II Tilburg,summer,out,Arno Arts,4472,30,Netherlands,Central Midfield,CM,,NEC Nijmegen,Netherlands,0.0,1
+1999,Eredivisie,Willem II Tilburg,summer,out,Marco Gentile,160914,31,Netherlands,Centre-Back,CB,,Dumbarton FC,Scotland,0.0,1
+1999,Eredivisie,Willem II Tilburg,summer,out,Reinder Hendriks,186352,26,Netherlands,Centre-Back,CB,,Cambuur-Leeuwarden bvo,Netherlands,0.0,1
+1999,Eredivisie,Willem II Tilburg,winter,out,Kris Mampaey,4690,29,Belgium,Goalkeeper,GK,,Dunfermline Athletic FC,Scotland,,0
+1999,Eredivisie,Willem II Tilburg,winter,out,Mark Schenning,4447,29,Netherlands,Centre-Back,CB,,FC Den Bosch,Netherlands,,0

@@ -1,0 +1,338 @@
+season,league,club,window,movement,player_name,player_id,age,nationality,position,pos,market_value,dealing_club,dealing_country,fee,is_loan
+1997,Eredivisie,Ajax Amsterdam,summer,in,Michael Laudrup,8023,33,Denmark,Attacking Midfield,AM,,Vissel Kobe,Japan,7500000.0,0
+1997,Eredivisie,Ajax Amsterdam,summer,in,Froylán Ledezma,38011,19,Costa Rica,Centre-Forward,CF,,LD Alajuelense,Costa Rica,4500000.0,0
+1997,Eredivisie,Ajax Amsterdam,summer,in,Sunday Oliseh,127,22,Nigeria,Defensive Midfield,DM,,1.FC Köln,Germany,2300000.0,0
+1997,Eredivisie,Ajax Amsterdam,summer,in,Gerald Sibon,4559,23,Netherlands,Centre-Forward,CF,,Roda JC Kerkrade,Netherlands,2250000.0,0
+1997,Eredivisie,Ajax Amsterdam,summer,in,Shota Arveladze,9487,24,Georgia,Centre-Forward,CF,,Trabzonspor,Türkiye,1600000.0,0
+1997,Eredivisie,Ajax Amsterdam,summer,in,Ole Tobiasen,4544,21,Denmark,Centre-Back,CB,,SC Heerenveen,Netherlands,1300000.0,0
+1997,Eredivisie,Ajax Amsterdam,summer,in,Andrzej Rudy,9229,31,Poland,Attacking Midfield,AM,,Lierse SK (-2018),Belgium,1130000.0,0
+1997,Eredivisie,Ajax Amsterdam,summer,in,Tom Sier,147754,27,Netherlands,Left-Back,LB,,SC Heerenveen,Netherlands,,0
+1997,Eredivisie,Ajax Amsterdam,summer,in,Dean Gorré,107128,26,Netherlands,Right Winger,RW,,FC Groningen,Netherlands,,0
+1997,Eredivisie,Ajax Amsterdam,summer,in,Richard Knopper,6230,19,Netherlands,Attacking Midfield,AM,,Feyenoord/Excelsior U19,Netherlands,,0
+1997,Eredivisie,Ajax Amsterdam,summer,out,Marc Overmars,3513,24,Netherlands,Left Winger,LW,,Arsenal FC,England,7500000.0,0
+1997,Eredivisie,Ajax Amsterdam,summer,out,Iván Gabrich,149508,24,Argentina,Centre-Forward,CF,,CP Mérida,Spain,3010000.0,0
+1997,Eredivisie,Ajax Amsterdam,summer,out,Dennis Schulp,14870,19,Netherlands,Central Midfield,CM,,FC Volendam,Netherlands,0.0,0
+1997,Eredivisie,Ajax Amsterdam,summer,out,Patrick Kluivert,4385,21,Netherlands,Centre-Forward,CF,,AC Milan,Italy,0.0,0
+1997,Eredivisie,Ajax Amsterdam,summer,out,Winston Bogarde,3155,26,Netherlands,Centre-Back,CB,,AC Milan,Italy,0.0,0
+1997,Eredivisie,Ajax Amsterdam,summer,out,Robert Gehring,184516,21,Netherlands,Midfielder,Midfielder,,Rayo Vallecano,Spain,,0
+1997,Eredivisie,Ajax Amsterdam,summer,out,Márcio Santos,16326,28,Brazil,Centre-Back,CB,,São Paulo Futebol Clube,Brazil,,0
+1997,Eredivisie,Ajax Amsterdam,summer,out,Elijah Louhenapessy,108137,20,Netherlands,Defensive Midfield,DM,,Udinese Calcio,Italy,,0
+1997,Eredivisie,Ajax Amsterdam,summer,out,Arnold Scholten,107139,34,Netherlands,Defensive Midfield,DM,,JEF United Ichihara,Japan,,0
+1997,Eredivisie,Ajax Amsterdam,summer,out,John Veldman,103736,29,Netherlands,Centre-Back,CB,,Vitesse Arnhem,Netherlands,,0
+1997,Eredivisie,Ajax Amsterdam,summer,out,Menno Willems,19400,20,Netherlands,Left-Back,LB,,Vitesse Arnhem,Netherlands,,0
+1997,Eredivisie,Ajax Amsterdam,summer,out,Kiki Musampa,7787,19,Netherlands,Left Winger,LW,,FC Girondins Bordeaux,France,,0
+1997,Eredivisie,Ajax Amsterdam,summer,out,Dave van den Bergh,4479,21,Netherlands,Left Midfield,LM,,Rayo Vallecano,Spain,,0
+1997,Eredivisie,Ajax Amsterdam,summer,out,Nordin Wooter,12090,19,Netherlands,Right Winger,RW,,Real Zaragoza,Spain,,0
+1997,Eredivisie,Ajax Amsterdam,summer,out,Martijn Reuser,13356,22,Netherlands,Attacking Midfield,AM,,Vitesse Arnhem,Netherlands,0.0,1
+1997,Eredivisie,Ajax Amsterdam,winter,out,Milan Berck Beelenkamp,12145,20,Netherlands,Right-Back,RB,,FC Volendam,Netherlands,0.0,0
+1997,Eredivisie,De Graafschap Doetinchem,summer,in,Tomasz Rzasa,4373,24,Poland,Left-Back,LB,,BSC Young Boys,Switzerland,0.0,0
+1997,Eredivisie,De Graafschap Doetinchem,summer,in,Dave de Jong,20261,22,Netherlands,Centre-Back,CB,,Willem II Tilburg,Netherlands,0.0,0
+1997,Eredivisie,De Graafschap Doetinchem,summer,in,Ville Väisänen,32824,20,Finland,Centre-Forward,CF,,FC Jazz Pori,Finland,0.0,0
+1997,Eredivisie,De Graafschap Doetinchem,summer,in,Dennis Gerritsen,148351,26,Netherlands,Centre-Forward,CF,,Helmond Sport,Netherlands,0.0,0
+1997,Eredivisie,De Graafschap Doetinchem,summer,in,Daniel Voigt,29927,19,Netherlands,Centre-Back,CB,,PSV Eindhoven U21,Netherlands,0.0,1
+1997,Eredivisie,De Graafschap Doetinchem,summer,out,Wasio Taiwo,19326,20,Nigeria,Centre-Forward,CF,,MVV Maastricht,Netherlands,0.0,0
+1997,Eredivisie,De Graafschap Doetinchem,summer,out,Bennie Dekker,221729,30,Netherlands,Right Winger,RW,,SV Spakenburg,Netherlands,0.0,0
+1997,Eredivisie,De Graafschap Doetinchem,summer,out,Marchanno Schultz,148542,24,Netherlands,Midfielder,Midfielder,,NEC Nijmegen,Netherlands,,0
+1997,Eredivisie,De Graafschap Doetinchem,summer,out,Jan Oosterhuis,221732,33,Netherlands,Midfielder,Midfielder,,HFC Haarlem,Netherlands,,0
+1997,Eredivisie,De Graafschap Doetinchem,winter,out,Daniel Voigt,29927,20,Netherlands,Centre-Back,CB,,PSV Eindhoven U21,Netherlands,0.0,1
+1997,Eredivisie,FC Groningen,summer,in,Joost Broerse,4638,18,Netherlands,Centre-Back,CB,,FC Utrecht U19,Netherlands,0.0,0
+1997,Eredivisie,FC Groningen,summer,in,Leonardo,4378,20,Brazil,Right-Back,RB,,CR Flamengo,Brazil,0.0,0
+1997,Eredivisie,FC Groningen,summer,in,Hugo,4643,22,Brazil,Attacking Midfield,AM,,CR Flamengo,Brazil,0.0,0
+1997,Eredivisie,FC Groningen,summer,in,Mariano Bombarda,8020,24,Argentina,Centre-Forward,CF,,FC Metz,France,,0
+1997,Eredivisie,FC Groningen,summer,in,Marcel Peeper,99754,31,Netherlands,Left Midfield,LM,,KSC Lokeren (-2020),Belgium,,0
+1997,Eredivisie,FC Groningen,summer,in,Toine Rorije,210226,23,Netherlands,Left Winger,LW,,Go Ahead Eagles,Netherlands,,0
+1997,Eredivisie,FC Groningen,winter,in,Mario Rodríguez,8448,21,Italy,Centre-Back,CB,,Kickers Emden,Germany,0.0,0
+1997,Eredivisie,FC Groningen,summer,out,Harvey Esajas,18511,23,Netherlands,Centre-Back,CB,,Cambuur-Leeuwarden bvo,Netherlands,0.0,0
+1997,Eredivisie,FC Groningen,summer,out,Lucas ten Brinke,222540,26,Netherlands,Defender,Defender,,VV Drachten,Netherlands,0.0,0
+1997,Eredivisie,FC Groningen,summer,out,Arjan Blaauw,21638,23,Netherlands,Midfielder,Midfielder,,BV Veendam,Netherlands,,0
+1997,Eredivisie,FC Groningen,summer,out,Dean Gorré,107128,26,Netherlands,Right Winger,RW,,Ajax Amsterdam,Netherlands,,0
+1997,Eredivisie,FC Groningen,summer,out,Pieter Huistra,152371,30,Netherlands,Left Winger,LW,,Lierse SK (-2018),Belgium,,0
+1997,Eredivisie,FC Groningen,summer,out,Roël Liefden,186698,30,Netherlands,Right-Back,RB,,VVV,Netherlands,,0
+1997,Eredivisie,FC Groningen,summer,out,Joop Gall,197344,33,Netherlands,Left-Back,LB,,BV Veendam,Netherlands,,0
+1997,Eredivisie,FC Groningen,summer,out,Rob Hilbers,207790,26,Netherlands,Goalkeeper,GK,,FC Volendam,Netherlands,,0
+1997,Eredivisie,FC Groningen,winter,out,Jeffrey Kooistra,186490,28,Netherlands,Midfielder,Midfielder,,Helmond Sport,Netherlands,,0
+1997,Eredivisie,FC Utrecht,summer,in,Emmanuel Nwakire,4493,18,Nigeria,Left-Back,LB,,Jasper United,Nigeria,0.0,0
+1997,Eredivisie,FC Utrecht,summer,in,Dennis van der Ree,19329,18,Netherlands,Right-Back,RB,,BVV Barendrecht,Netherlands,0.0,0
+1997,Eredivisie,FC Utrecht,summer,in,Dionysius Sebwe,210488,28,Liberia,Defender,Defender,,Orlando Sundogs,United States,,0
+1997,Eredivisie,FC Utrecht,summer,in,Dennis van der Steen,210491,21,Netherlands,Right Midfield,RM,,VV Brederodes Vianen,Netherlands,,0
+1997,Eredivisie,FC Utrecht,summer,in,Stefan Haaksman,206526,23,Netherlands,Striker,Striker,,Unknown,,,0
+1997,Eredivisie,FC Utrecht,summer,in,Harry Decheiver,13980,27,Netherlands,Centre-Forward,CF,,SC Freiburg,Germany,,0
+1997,Eredivisie,FC Utrecht,summer,in,Pascal Bosschaart,4473,17,Netherlands,Centre-Back,CB,,SC Feyenoord Rotterdam,Netherlands,,0
+1997,Eredivisie,FC Utrecht,summer,in,Tom Van Mol,4466,24,Belgium,Left-Back,LB,,KFC Lommel SK (- 2003),Belgium,,0
+1997,Eredivisie,FC Utrecht,summer,in,Harald Wapenaar,4180,27,Netherlands,Goalkeeper,GK,,Helmond Sport,Netherlands,,0
+1997,Eredivisie,FC Utrecht,summer,in,Mitchell van der Gaag,4988,25,Netherlands,Centre-Back,CB,,Motherwell FC,Scotland,,0
+1997,Eredivisie,FC Utrecht,summer,in,Dennis Scharrenburg,5269,18,Netherlands,Central Midfield,CM,,Ajax Amsterdam U19,Netherlands,,0
+1997,Eredivisie,FC Utrecht,winter,in,Scott Booth,3558,26,Scotland,Centre-Forward,CF,,Borussia Dortmund,Germany,50000.0,1
+1997,Eredivisie,FC Utrecht,winter,in,John de Jong,4347,20,Netherlands,Attacking Midfield,AM,,ADO Den Haag,Netherlands,,0
+1997,Eredivisie,FC Utrecht,summer,out,Dick van Burik,358,23,Netherlands,Centre-Back,CB,,Hertha BSC,Germany,600000.0,0
+1997,Eredivisie,FC Utrecht,summer,out,René Ponk,4464,25,Netherlands,Goalkeeper,GK,,SD Compostela,Spain,0.0,0
+1997,Eredivisie,FC Utrecht,summer,out,Peter Hofstede,6760,30,Netherlands,Centre-Forward,CF,,Helmond Sport,Netherlands,0.0,0
+1997,Eredivisie,FC Utrecht,summer,out,Hans Visser,147981,30,Netherlands,Centre-Forward,CF,,KRC Harelbeke,Belgium,,0
+1997,Eredivisie,FC Utrecht,summer,out,René van de Brink,197423,31,Netherlands,Right Winger,RW,,HFC Haarlem,Netherlands,,0
+1997,Eredivisie,FC Utrecht,summer,out,Vincent Polfliet,222707,21,Netherlands,Defender,Defender,,Unknown,,,0
+1997,Eredivisie,FC Utrecht,summer,out,Eric Smit,222708,25,Netherlands,Midfielder,Midfielder,,Unknown,,,0
+1997,Eredivisie,FC Utrecht,summer,out,Gerald Vanenburg,6668,33,Netherlands,Right Winger,RW,,AS Cannes,France,,0
+1997,Eredivisie,FC Utrecht,summer,out,René van den Brink,222709,31,Netherlands,Striker,Striker,,HFC Haarlem,Netherlands,,0
+1997,Eredivisie,FC Utrecht,winter,out,Harry Decheiver,13980,27,Netherlands,Centre-Forward,CF,,Borussia Dortmund,Germany,2800000.0,0
+1997,Eredivisie,FC Utrecht,winter,out,Srdjan Obradovic,210487,27,Serbia,Centre-Back,CB,,OFK Beograd,Serbia,,0
+1997,Eredivisie,FC Utrecht,winter,out,Marcel van der Net,210490,33,Netherlands,Sweeper,SW,,RBC,Netherlands,0.0,1
+1997,Eredivisie,FC Volendam,summer,in,Dennis Schulp,14870,19,Netherlands,Central Midfield,CM,,Ajax Amsterdam,Netherlands,0.0,0
+1997,Eredivisie,FC Volendam,summer,in,Silvan Inia,19233,28,Netherlands,Left Midfield,LM,,AZ Alkmaar,Netherlands,0.0,0
+1997,Eredivisie,FC Volendam,summer,in,Marco Boogers,206493,30,Netherlands,Centre-Forward,CF,,RKC Waalwijk,Netherlands,,0
+1997,Eredivisie,FC Volendam,summer,in,Ibrahim Babangida,221448,20,Nigeria,Right Winger,RW,,Katsina United FC,Nigeria,,0
+1997,Eredivisie,FC Volendam,summer,in,Ashwin de Bruijn,221454,25,Netherlands,Striker,Striker,,Unknown,,,0
+1997,Eredivisie,FC Volendam,summer,in,Rob Hilbers,207790,26,Netherlands,Goalkeeper,GK,,FC Groningen,Netherlands,,0
+1997,Eredivisie,FC Volendam,summer,in,Arnold Nijkamp,186224,24,Netherlands,Goalkeeper,GK,,SC Telstar,Netherlands,,0
+1997,Eredivisie,FC Volendam,summer,in,Marco Gentile,160914,29,Netherlands,Centre-Back,CB,,Burnley FC,England,,0
+1997,Eredivisie,FC Volendam,summer,in,Vincent Gouttebarge,31133,21,France,Defender,Defender,,Fraternelle Amicale Cournon-le Cendre,France,,0
+1997,Eredivisie,FC Volendam,summer,in,Yuri Rose,18014,18,Netherlands,Attacking Midfield,AM,,Ajax Amsterdam U19,Netherlands,,0
+1997,Eredivisie,FC Volendam,winter,in,Milan Berck Beelenkamp,12145,20,Netherlands,Right-Back,RB,,Ajax Amsterdam,Netherlands,0.0,0
+1997,Eredivisie,FC Volendam,summer,out,Gert Aandewiel,206900,27,Netherlands,Defensive Midfield,DM,,Sparta Rotterdam,Netherlands,,0
+1997,Eredivisie,FC Volendam,summer,out,Klaas Klein,224180,21,Netherlands,Midfielder,Midfielder,,Unknown,,,0
+1997,Eredivisie,FC Volendam,summer,out,Rogier Hoogland,224174,22,Netherlands,Defender,Defender,,Unknown,,,0
+1997,Eredivisie,FC Volendam,summer,out,Pascal Jongsma,224177,28,Netherlands,Midfielder,Midfielder,,Unknown,,,0
+1997,Eredivisie,FC Volendam,summer,out,Fred Admiraal,224163,29,Netherlands,Goalkeeper,GK,,Unknown,,,0
+1997,Eredivisie,FC Volendam,summer,out,Radoslav Samardzic,4157,27,Serbia,Centre-Forward,CF,,SC Heerenveen,Netherlands,,0
+1997,Eredivisie,FC Volendam,summer,out,Edwin Zoetebier,4365,27,Netherlands,Goalkeeper,GK,,Sunderland AFC,England,,0
+1997,Eredivisie,FC Volendam,summer,out,Dejan Govedarica,4522,27,Serbia,Central Midfield,CM,,US Lecce,Italy,,0
+1997,Eredivisie,FC Volendam,winter,out,Ayhan Tumani,9944,26,Germany,Centre-Forward,CF,,NEC Nijmegen,Netherlands,0.0,0
+1997,Eredivisie,FC Volendam,winter,out,Marcel Valk,160926,30,Netherlands,Right Midfield,RM,,Willem II Tilburg,Netherlands,,0
+1997,Eredivisie,Feyenoord Rotterdam,summer,in,Jon Dahl Tomasson,4169,21,Denmark,Centre-Forward,CF,,Newcastle United,England,3200000.0,0
+1997,Eredivisie,Feyenoord Rotterdam,summer,in,Bert Konterman,6252,26,Netherlands,Centre-Back,CB,,Willem II Tilburg,Netherlands,2700000.0,0
+1997,Eredivisie,Feyenoord Rotterdam,summer,in,Giorgi Demetradze,24002,20,Georgia,Centre-Forward,CF,,Dinamo Tbilisi,Georgia,1000000.0,0
+1997,Eredivisie,Feyenoord Rotterdam,summer,in,Paul Bosvelt,4376,27,Netherlands,Defensive Midfield,DM,,Twente Enschede FC,Netherlands,500000.0,0
+1997,Eredivisie,Feyenoord Rotterdam,summer,in,Igor Korneev,8011,29,Russia,Right Winger,RW,,SC Heerenveen,Netherlands,0.0,0
+1997,Eredivisie,Feyenoord Rotterdam,summer,in,David Connolly,9051,20,Ireland,Centre-Forward,CF,,Watford FC,England,0.0,0
+1997,Eredivisie,Feyenoord Rotterdam,summer,in,Bonaventure Kalou,4164,19,Cote d'Ivoire,Right Winger,RW,,ASEC Mimosas,Cote d'Ivoire,,0
+1997,Eredivisie,Feyenoord Rotterdam,summer,in,Zsolt Petry,20432,30,Hungary,Goalkeeper,GK,,Royal Charleroi SC,Belgium,,0
+1997,Eredivisie,Feyenoord Rotterdam,summer,in,Ulrich van Gobbel,92229,26,Netherlands,Right-Back,RB,,Southampton FC,England,,0
+1997,Eredivisie,Feyenoord Rotterdam,summer,in,René Bot,14861,18,Netherlands,Right-Back,RB,,SC Telstar U19,Netherlands,,0
+1997,Eredivisie,Feyenoord Rotterdam,winter,in,Julio Cruz,6006,23,Argentina,Centre-Forward,CF,,CA River Plate,Argentina,5400000.0,0
+1997,Eredivisie,Feyenoord Rotterdam,winter,in,Edwin Zoetebier,4365,27,Netherlands,Goalkeeper,GK,,Sunderland AFC,England,0.0,0
+1997,Eredivisie,Feyenoord Rotterdam,summer,out,Tomasz Iwan,2838,26,Poland,Right Midfield,RM,,PSV Eindhoven,Netherlands,2400000.0,0
+1997,Eredivisie,Feyenoord Rotterdam,summer,out,Henrik Larsson,3514,25,Sweden,Centre-Forward,CF,,Celtic FC,Scotland,740000.0,0
+1997,Eredivisie,Feyenoord Rotterdam,summer,out,Denis Klyuev,15296,23,Russia,Central Midfield,CM,,FC Schalke 04,Germany,600000.0,0
+1997,Eredivisie,Feyenoord Rotterdam,summer,out,Clemens Zwijnenberg,114392,27,Netherlands,Right-Back,RB,,Aalborg BK,Denmark,227000.0,0
+1997,Eredivisie,Feyenoord Rotterdam,summer,out,Jaromir Paciorek,120106,17,Czech Republic,Central Midfield,CM,,Sportclub Excelsior,Netherlands,0.0,0
+1997,Eredivisie,Feyenoord Rotterdam,summer,out,Gaston Taument,15550,26,Netherlands,Right Winger,RW,,SL Benfica,Portugal,,0
+1997,Eredivisie,Feyenoord Rotterdam,summer,out,Haytham Farouk,183056,26,Egypt,Centre-Back,CB,,Helsingborgs IF,Sweden,,0
+1997,Eredivisie,Feyenoord Rotterdam,summer,out,Mukwayanzo Bulayima,501896,28,DR Congo,Goalkeeper,GK,,Yanbian B,China,,0
+1997,Eredivisie,Feyenoord Rotterdam,summer,out,Patrick Allotey,154902,18,Ghana,Centre-Back,CB,,Sportclub Excelsior,Netherlands,0.0,1
+1997,Eredivisie,Feyenoord Rotterdam,summer,out,Ronald Koeman,7940,34,Netherlands,Sweeper,SW,,Retired,,,0
+1997,Eredivisie,Feyenoord Rotterdam,summer,out,Eduardo Bustos Montoya,58478,20,Argentina,Centre-Forward,CF,,CA Rosario Central,Argentina,0.0,1
+1997,Eredivisie,Feyenoord Rotterdam,winter,out,George Boateng,3358,22,Netherlands,Defensive Midfield,DM,,Coventry City,England,350000.0,0
+1997,Eredivisie,Feyenoord Rotterdam,winter,out,Gláucio,27356,22,Brazil,Attacking Midfield,AM,,América Football Club (RJ),Brazil,0.0,0
+1997,Eredivisie,Feyenoord Rotterdam,winter,out,Christian Gyan,4368,19,Ghana,Right-Back,RB,,Sportclub Excelsior,Netherlands,0.0,1
+1997,Eredivisie,Fortuna Sittard,summer,in,Edwin Hermans,14864,23,Netherlands,Left-Back,LB,,MVV Maastricht,Netherlands,0.0,0
+1997,Eredivisie,Fortuna Sittard,summer,in,François Gesthuizen,21597,24,Netherlands,Right Midfield,RM,,NAC Breda,Netherlands,0.0,0
+1997,Eredivisie,Fortuna Sittard,summer,in,Dorel Zegrean,186727,27,Romania,Left-Back,LB,,FC National Bukarest,Romania,,0
+1997,Eredivisie,Fortuna Sittard,summer,in,Alin Banceu,207251,23,Romania,Striker,Striker,,Universitatea Cluj,Romania,,0
+1997,Eredivisie,Fortuna Sittard,summer,in,Cosmin Maris,186508,22,Romania,Central Midfield,CM,,Universitatea Cluj,Romania,,0
+1997,Eredivisie,Fortuna Sittard,summer,out,Phil Gray,173689,28,Northern Ireland,Centre-Forward,CF,,Luton Town,England,900000.0,0
+1997,Eredivisie,Fortuna Sittard,summer,out,Fernando Ricksen,9425,20,Netherlands,Right-Back,RB,,AZ Alkmaar,Netherlands,0.0,0
+1997,Eredivisie,Fortuna Sittard,summer,out,Robert Loontjens,19412,24,Netherlands,Defender,Defender,,Cambuur-Leeuwarden bvo,Netherlands,0.0,0
+1997,Eredivisie,Fortuna Sittard,summer,out,Martin van Ophuizen,150900,28,Netherlands,Sweeper,SW,,KSK Beveren (-2010),Belgium,0.0,0
+1997,Eredivisie,Fortuna Sittard,summer,out,Wil Boessen,222702,33,Netherlands,Left-Back,LB,,Helmond Sport,Netherlands,,0
+1997,Eredivisie,Fortuna Sittard,summer,out,Robert van der Weert,186375,27,Netherlands,Centre-Forward,CF,,AZ Alkmaar,Netherlands,,0
+1997,Eredivisie,MVV Maastricht,summer,in,Kenneth Pérez,4557,22,Denmark,Centre-Forward,CF,,FC Copenhagen,Denmark,500000.0,0
+1997,Eredivisie,MVV Maastricht,summer,in,Wasio Taiwo,19326,20,Nigeria,Centre-Forward,CF,,De Graafschap Doetinchem,Netherlands,0.0,0
+1997,Eredivisie,MVV Maastricht,summer,in,Jack Vaessen,21536,20,Netherlands,Defensive Midfield,DM,,Unknown,,,0
+1997,Eredivisie,MVV Maastricht,summer,in,Hans Spillmann,67673,28,Netherlands,Goalkeeper,GK,,Roda JC Kerkrade,Netherlands,,0
+1997,Eredivisie,MVV Maastricht,summer,in,Wim Dusseldorp,221504,36,Netherlands,Goalkeeper,GK,,SV Meerssen,Netherlands,,0
+1997,Eredivisie,MVV Maastricht,summer,in,Arjan Vermeulen,173723,28,Netherlands,Left-Back,LB,,OGC Nice,France,,0
+1997,Eredivisie,MVV Maastricht,summer,in,Jerry de Jong,150187,31,Netherlands,Right-Back,RB,,SBV Eindhoven,Netherlands,,0
+1997,Eredivisie,MVV Maastricht,summer,in,Marc Nygaard,3491,20,Denmark,Centre-Forward,CF,,SC Heerenveen,Netherlands,,0
+1997,Eredivisie,MVV Maastricht,summer,in,Joost Volmer,4545,23,Netherlands,Centre-Back,CB,,VVV,Netherlands,,0
+1997,Eredivisie,MVV Maastricht,summer,in,Davy Heymans,30962,18,Belgium,Midfielder,Midfielder,,KRC Genk U19,Belgium,,0
+1997,Eredivisie,MVV Maastricht,summer,in,Mark Luijpers,4609,26,Netherlands,Left-Back,LB,,Roda JC Kerkrade,Netherlands,0.0,1
+1997,Eredivisie,MVV Maastricht,summer,in,Jeroen Heubach,4587,22,Netherlands,Left-Back,LB,,Twente Enschede FC,Netherlands,0.0,1
+1997,Eredivisie,MVV Maastricht,winter,in,Emerson,1969,24,Brazil,Centre-Forward,CF,,Grêmio Foot-Ball Porto Alegrense,Brazil,0.0,0
+1997,Eredivisie,MVV Maastricht,summer,out,Edwin Hermans,14864,23,Netherlands,Left-Back,LB,,Fortuna Sittard,Netherlands,0.0,0
+1997,Eredivisie,MVV Maastricht,summer,out,Danny den Ouden,149380,26,Netherlands,Defender,Defender,,FC Zwolle,Netherlands,,0
+1997,Eredivisie,MVV Maastricht,summer,out,Robbie Servais,672715,21,Netherlands,Defensive Midfield,DM,,SV Meerssen,Netherlands,,0
+1997,Eredivisie,MVV Maastricht,summer,out,Roger Knarren,230386,27,Netherlands,Midfielder,Midfielder,,Unknown,,,0
+1997,Eredivisie,MVV Maastricht,summer,out,Leo Koswal,186420,21,Netherlands,Right Winger,RW,,Vitesse Arnhem,Netherlands,,0
+1997,Eredivisie,MVV Maastricht,summer,out,Marco Gentile,160914,28,Netherlands,Centre-Back,CB,,Burnley FC,England,,0
+1997,Eredivisie,MVV Maastricht,summer,out,Rik Platvoet,5020,21,Netherlands,Centre-Forward,CF,,Twente Enschede FC,Netherlands,0.0,1
+1997,Eredivisie,NAC Breda,summer,in,Archil Arveladze,30,24,Georgia,Centre-Forward,CF,,Trabzonspor,Türkiye,500000.0,0
+1997,Eredivisie,NAC Breda,summer,in,John Feskens,197342,31,Netherlands,Midfielder,Midfielder,,Willem II Tilburg,Netherlands,,0
+1997,Eredivisie,NAC Breda,summer,in,Bart De Roover,179338,29,Belgium,Centre-Back,CB,,Lierse SK (-2018),Belgium,,0
+1997,Eredivisie,NAC Breda,summer,in,Glenn Helder,152223,28,Netherlands,Left Winger,LW,,Arsenal FC,England,,0
+1997,Eredivisie,NAC Breda,summer,in,Ante Milicic,29582,23,Australia,Centre-Forward,CF,,Sydney United 58 FC,Australia,,0
+1997,Eredivisie,NAC Breda,summer,in,Alfred Schreuder,4455,24,Netherlands,Defensive Midfield,DM,,RKC Waalwijk,Netherlands,,0
+1997,Eredivisie,NAC Breda,summer,in,Kevin Van Dessel,4614,18,Belgium,Left Midfield,LM,,Germinal Ekeren,Belgium,,0
+1997,Eredivisie,NAC Breda,summer,in,Nebojsa Gudelj,4443,28,Serbia,Left-Back,LB,,CD Toledo,Spain,,0
+1997,Eredivisie,NAC Breda,summer,in,Erwin van de Looi,4635,25,Netherlands,Centre-Back,CB,,Vitesse Arnhem,Netherlands,,0
+1997,Eredivisie,NAC Breda,winter,in,Jeong-yun No,101581,26,"Korea, South",Second Striker,SS,,Sanfrecce Hiroshima,Japan,,0
+1997,Eredivisie,NAC Breda,winter,in,Rade Bogdanovic,521,27,Serbia,Centre-Forward,CF,,Atlético de Madrid,Spain,0.0,1
+1997,Eredivisie,NAC Breda,summer,out,Barry van Galen,4548,27,Netherlands,Central Midfield,CM,,AZ Alkmaar,Netherlands,0.0,0
+1997,Eredivisie,NAC Breda,summer,out,Mark Minnaert,16254,21,Belgium,Midfielder,Midfielder,,HSV Hoek,Netherlands,0.0,0
+1997,Eredivisie,NAC Breda,summer,out,François Gesthuizen,21597,24,Netherlands,Right Midfield,RM,,Fortuna Sittard,Netherlands,0.0,0
+1997,Eredivisie,NAC Breda,summer,out,Zlatko Arambasic,221725,27,Australia,Centre-Forward,CF,,Royal Charleroi SC,Belgium,,0
+1997,Eredivisie,NAC Breda,summer,out,Paulo Da Costa Tavares,207259,18,Angola,Midfielder,Midfielder,,Unknown,,,0
+1997,Eredivisie,NAC Breda,summer,out,Jean-Claude Mukanya,221731,29,DR Congo,Centre-Back,CB,,KSC Eendracht Aalst,Belgium,,0
+1997,Eredivisie,NAC Breda,summer,out,Pascal Beeken,221727,23,Belgium,Goalkeeper,GK,,KV Mechelen,Belgium,,0
+1997,Eredivisie,NAC Breda,summer,out,Nico Jalink,150751,33,Netherlands,Right Midfield,RM,,Sparta Rotterdam,Netherlands,,0
+1997,Eredivisie,NAC Breda,winter,out,Tony Vidmar,3813,27,Australia,Left-Back,LB,,Rangers FC,Scotland,0.0,0
+1997,Eredivisie,NAC Breda,winter,out,Edwin Gorter,207856,34,Netherlands,Attacking Midfield,AM,,New England Revolution,United States,0.0,0
+1997,Eredivisie,NEC Nijmegen,summer,in,Danny Hesp,4516,27,Netherlands,Centre-Back,CB,,AZ Alkmaar,Netherlands,,0
+1997,Eredivisie,NEC Nijmegen,summer,in,Dzevdet Sainoski,16934,24,North Macedonia,Defensive Midfield,DM,,Vardar Skopje,North Macedonia,,0
+1997,Eredivisie,NEC Nijmegen,summer,in,Marchanno Schultz,148542,24,Netherlands,Midfielder,Midfielder,,De Graafschap Doetinchem,Netherlands,,0
+1997,Eredivisie,NEC Nijmegen,summer,in,Krzystof Bociek,150801,23,Poland,Centre-Forward,CF,,AZ Alkmaar,Netherlands,,0
+1997,Eredivisie,NEC Nijmegen,winter,in,Ayhan Tumani,9944,26,Germany,Centre-Forward,CF,,FC Volendam,Netherlands,0.0,0
+1997,Eredivisie,NEC Nijmegen,winter,in,Bart Latuheru,148272,32,Netherlands,Right Winger,RW,,AZ Alkmaar,Netherlands,,0
+1997,Eredivisie,NEC Nijmegen,winter,in,Yassine Abdellaoui,12113,22,Netherlands,Left Midfield,LM,,Rayo Vallecano,Spain,,0
+1997,Eredivisie,NEC Nijmegen,summer,out,Danny Hoekman,17345,32,Netherlands,Left Winger,LW,,JVC Cuijk,Netherlands,0.0,0
+1997,Eredivisie,NEC Nijmegen,summer,out,Michel Langerak,147878,28,Netherlands,Attacking Midfield,AM,,AZ Alkmaar,Netherlands,,0
+1997,Eredivisie,NEC Nijmegen,summer,out,Benito Kemble,206929,28,Netherlands,Centre-Back,CB,,VVV,Netherlands,,0
+1997,Eredivisie,NEC Nijmegen,summer,out,Bas Hendriks,224120,20,Netherlands,Midfielder,Midfielder,,Unknown,,,0
+1997,Eredivisie,NEC Nijmegen,summer,out,Roy Kerstens,224127,20,Netherlands,Midfielder,Midfielder,,Unknown,,,0
+1997,Eredivisie,NEC Nijmegen,summer,out,Rastislav Mores,18486,21,Slovakia,Midfielder,Midfielder,,Roda JC Kerkrade,Netherlands,,0
+1997,Eredivisie,NEC Nijmegen,winter,out,Jörg Sobiech,2550,29,Germany,Left-Back,LB,,Stoke City,England,0.0,1
+1997,Eredivisie,NEC Nijmegen,winter,out,Antti Sumiala,1037,23,Finland,Centre-Forward,CF,,Twente Enschede FC,Netherlands,,0
+1997,Eredivisie,PSV Eindhoven,summer,in,Tomasz Iwan,2838,26,Poland,Right Midfield,RM,,Feyenoord Rotterdam,Netherlands,2400000.0,0
+1997,Eredivisie,PSV Eindhoven,summer,in,Peter Møller,14915,25,Denmark,Centre-Forward,CF,,Bröndby IF,Denmark,1500000.0,0
+1997,Eredivisie,PSV Eindhoven,summer,in,Georg Koch,11,25,Germany,Goalkeeper,GK,,Fortuna Düsseldorf,Germany,0.0,0
+1997,Eredivisie,PSV Eindhoven,summer,in,Arnold Bruggink,4354,19,Netherlands,Attacking Midfield,AM,,Twente Enschede FC,Netherlands,0.0,0
+1997,Eredivisie,PSV Eindhoven,summer,in,Igor Demo,794,21,Slovakia,Central Midfield,CM,,Slovan Bratislava,Slovakia,,0
+1997,Eredivisie,PSV Eindhoven,winter,in,André Ooijer,4345,23,Netherlands,Centre-Back,CB,,Roda JC Kerkrade,Netherlands,450000.0,0
+1997,Eredivisie,PSV Eindhoven,winter,in,Dmitriy Khokhlov,9637,22,Russia,Central Midfield,CM,,Torpedo Moskau,Russia,300000.0,0
+1997,Eredivisie,PSV Eindhoven,winter,in,Andrius Skerla,12641,20,Lithuania,Centre-Back,CB,,FK Žalgiris Vilnius,Lithuania,0.0,0
+1997,Eredivisie,PSV Eindhoven,summer,out,Marcelo Ramos,59504,24,Brazil,Centre-Forward,CF,,Cruzeiro Esporte Clube,Brazil,1000000.0,0
+1997,Eredivisie,PSV Eindhoven,summer,out,Georg Koch,11,25,Germany,Goalkeeper,GK,,Arminia Bielefeld,Germany,0.0,0
+1997,Eredivisie,PSV Eindhoven,summer,out,René Eijkelkamp,15295,33,Netherlands,Centre-Forward,CF,,FC Schalke 04,Germany,0.0,0
+1997,Eredivisie,PSV Eindhoven,summer,out,Dennis Rommedahl,4361,18,Denmark,Right Winger,RW,,RKC Waalwijk,Netherlands,0.0,1
+1997,Eredivisie,PSV Eindhoven,summer,out,Anders Nielsen,23721,24,Denmark,Attacking Midfield,AM,,RKC Waalwijk,Netherlands,0.0,1
+1997,Eredivisie,PSV Eindhoven,summer,out,Björn van der Doelen,4593,20,Netherlands,Central Midfield,CM,,Standard Liège,Belgium,0.0,1
+1997,Eredivisie,PSV Eindhoven,winter,out,Vampeta,26542,23,Brazil,Central Midfield,CM,,Sport Club Corinthians Paulista,Brazil,,0
+1997,Eredivisie,PSV Eindhoven,winter,out,Piotr Matys,172036,19,Poland,Striker,Striker,,FC Lausanne-Sport,Switzerland,,0
+1997,Eredivisie,RKC Waalwijk,summer,in,Augustus Dumbar,15696,18,Liberia,Striker,Striker,,Mighty Barrolle SA,Liberia,0.0,0
+1997,Eredivisie,RKC Waalwijk,summer,in,Martijn Kuiper,19092,18,Netherlands,Centre-Back,CB,,Vitesse Arnhem,Netherlands,0.0,1
+1997,Eredivisie,RKC Waalwijk,summer,in,Carlos van Wanrooij,4496,30,Netherlands,Left Midfield,LM,,Vitesse Arnhem,Netherlands,,0
+1997,Eredivisie,RKC Waalwijk,summer,in,Miodrag Bozovic,221385,29,Montenegro,Defender,Defender,,APOP Pafos,Cyprus,,0
+1997,Eredivisie,RKC Waalwijk,summer,in,Charles Chiemezie,186695,17,Nigeria,Striker,Striker,,RSC Anderlecht Youth,Belgium,,0
+1997,Eredivisie,RKC Waalwijk,summer,in,Dennis Rommedahl,4361,18,Denmark,Right Winger,RW,,PSV Eindhoven,Netherlands,0.0,1
+1997,Eredivisie,RKC Waalwijk,summer,in,Anders Nielsen,23721,24,Denmark,Attacking Midfield,AM,,PSV Eindhoven,Netherlands,0.0,1
+1997,Eredivisie,RKC Waalwijk,summer,in,Jose Maria Cela,207258,27,Spain,Striker,Striker,,CD Numancia,Spain,,0
+1997,Eredivisie,RKC Waalwijk,winter,in,Maarten Schops,22223,21,Belgium,Defensive Midfield,DM,,Roda JC Kerkrade,Netherlands,0.0,1
+1997,Eredivisie,RKC Waalwijk,winter,in,Yuriy Petrov,4602,23,Russia,Centre-Forward,CF,,Twente Enschede FC,Netherlands,0.0,1
+1997,Eredivisie,RKC Waalwijk,summer,out,Clyde Wijnhard,14387,23,Netherlands,Centre-Forward,CF,,Willem II Tilburg,Netherlands,0.0,0
+1997,Eredivisie,RKC Waalwijk,summer,out,Dick Schreuder,150543,25,Netherlands,Defensive Midfield,DM,,Stoke City,England,0.0,0
+1997,Eredivisie,RKC Waalwijk,summer,out,Alfred Schreuder,4455,24,Netherlands,Defensive Midfield,DM,,NAC Breda,Netherlands,,0
+1997,Eredivisie,RKC Waalwijk,summer,out,Jurgen Streppel,29920,28,Netherlands,Centre-Back,CB,,Helmond Sport,Netherlands,,0
+1997,Eredivisie,RKC Waalwijk,summer,out,Marcel Brands,186321,35,Netherlands,Central Midfield,CM,,OJC Rosmalen,Netherlands,,0
+1997,Eredivisie,RKC Waalwijk,summer,out,Marco Boogers,206493,30,Netherlands,Centre-Forward,CF,,FC Volendam,Netherlands,,0
+1997,Eredivisie,RKC Waalwijk,summer,out,Danny Muller,150854,27,Netherlands,Attacking Midfield,AM,,Without Club,,,0
+1997,Eredivisie,Roda JC Kerkrade,summer,in,Bob Peeters,4434,23,Belgium,Centre-Forward,CF,,Lierse SK (-2018),Belgium,0.0,0
+1997,Eredivisie,Roda JC Kerkrade,summer,in,Mariusz Kukielka,4298,20,Poland,Centre-Back,CB,,GKS Belchatow,Poland,,0
+1997,Eredivisie,Roda JC Kerkrade,summer,in,Igor Tomasic,4701,20,Bulgaria,Centre-Back,CB,,NK Croatia Zagreb,Croatia,,0
+1997,Eredivisie,Roda JC Kerkrade,summer,in,Joos Valgaeren,9504,21,Belgium,Centre-Back,CB,,KV Mechelen,Belgium,,0
+1997,Eredivisie,Roda JC Kerkrade,summer,in,Jörg Kässmann,19622,28,Germany,Goalkeeper,GK,,Borussia Mönchengladbach,Germany,,0
+1997,Eredivisie,Roda JC Kerkrade,summer,in,Gábor Torma,74220,20,Hungary,Centre-Forward,CF,,Cercle Brugge ,Belgium,,0
+1997,Eredivisie,Roda JC Kerkrade,summer,in,Stephan 't Hart,186786,26,Netherlands,Right-Back,RB,,SVV Scheveningen,Netherlands,,0
+1997,Eredivisie,Roda JC Kerkrade,summer,in,Nikola Damjanac,189295,25,Serbia,Goalkeeper,GK,,FK Partizan Belgrade,Serbia,,0
+1997,Eredivisie,Roda JC Kerkrade,summer,in,Rastislav Mores,18486,21,Slovakia,Midfielder,Midfielder,,NEC Nijmegen,Netherlands,,0
+1997,Eredivisie,Roda JC Kerkrade,summer,in,Nenad Miskovic,20904,21,Bosnia-Herzegovina,Left Midfield,LM,,FK Radnicki Belgrade,Serbia,,0
+1997,Eredivisie,Roda JC Kerkrade,winter,in,Edwin Grünholz,189302,28,Netherlands,Striker,Striker,,ADO Den Haag,Netherlands,,0
+1997,Eredivisie,Roda JC Kerkrade,winter,in,Bernard Samuel Tchoutang,32170,21,Cameroon,Left Winger,LW,,KRC Genk,Belgium,,0
+1997,Eredivisie,Roda JC Kerkrade,summer,out,Gerald Sibon,4559,23,Netherlands,Centre-Forward,CF,,Ajax Amsterdam,Netherlands,2250000.0,0
+1997,Eredivisie,Roda JC Kerkrade,summer,out,Ruud Hesp,8018,31,Netherlands,Goalkeeper,GK,,FC Barcelona,Spain,1100000.0,0
+1997,Eredivisie,Roda JC Kerkrade,summer,out,Henri Heeren,929,22,Netherlands,Right-Back,RB,,Alemannia Aachen,Germany,0.0,0
+1997,Eredivisie,Roda JC Kerkrade,summer,out,Hans Spillmann,67673,28,Netherlands,Goalkeeper,GK,,MVV Maastricht,Netherlands,,0
+1997,Eredivisie,Roda JC Kerkrade,summer,out,Mark Luijpers,4609,26,Netherlands,Left-Back,LB,,MVV Maastricht,Netherlands,0.0,1
+1997,Eredivisie,Roda JC Kerkrade,winter,out,André Ooijer,4345,23,Netherlands,Centre-Back,CB,,PSV Eindhoven,Netherlands,450000.0,0
+1997,Eredivisie,Roda JC Kerkrade,winter,out,Jan-Pieter Martens,22740,23,Belgium,Attacking Midfield,AM,,SK Sturm Graz,Austria,,0
+1997,Eredivisie,Roda JC Kerkrade,winter,out,Stephan Van Der Heyden,101753,28,Belgium,Left Midfield,LM,,LOSC Lille,France,,0
+1997,Eredivisie,Roda JC Kerkrade,winter,out,Nenad Miskovic,20904,22,Bosnia-Herzegovina,Left Midfield,LM,,FK Proleter Zrenjanin,Serbia,,0
+1997,Eredivisie,Roda JC Kerkrade,winter,out,Maarten Schops,22223,21,Belgium,Defensive Midfield,DM,,RKC Waalwijk,Netherlands,0.0,1
+1997,Eredivisie,SC Heerenveen,summer,in,Ruud van Nistelrooy,3407,21,Netherlands,Centre-Forward,CF,,FC Den Bosch,Netherlands,1580000.0,0
+1997,Eredivisie,SC Heerenveen,summer,in,Arkadiusz Radomski,4404,20,Poland,Defensive Midfield,DM,,BV Veendam,Netherlands,0.0,0
+1997,Eredivisie,SC Heerenveen,summer,in,Harmen Kuperus,56608,20,Netherlands,Goalkeeper,GK,,Cambuur-Leeuwarden bvo,Netherlands,,0
+1997,Eredivisie,SC Heerenveen,summer,in,Raphael Bove,207835,20,Australia,Midfielder,Midfielder,,Sydney Olympic FC,Australia,,0
+1997,Eredivisie,SC Heerenveen,summer,in,Thomas Holm,3444,16,Norway,Central Midfield,CM,,Vålerenga Fotball Youth,Norway,,0
+1997,Eredivisie,SC Heerenveen,summer,in,Florin Constantinovici,188665,29,Romania,Centre-Back,CB,,Rapid Bucharest ,Romania,,0
+1997,Eredivisie,SC Heerenveen,summer,in,Dumitru Mitriţă,186516,26,Romania,Left-Back,LB,,Universitatea Craiova,Romania,,0
+1997,Eredivisie,SC Heerenveen,summer,in,Brian Meyninger,248161,18,Netherlands,Centre-Forward,CF,,Unknown,,,0
+1997,Eredivisie,SC Heerenveen,summer,in,Meindert Postma,207888,19,Netherlands,Midfielder,Midfielder,,Unknown,,,0
+1997,Eredivisie,SC Heerenveen,summer,in,Emmanuel Ebiede,186512,21,Nigeria,Left Winger,LW,,KSC Eendracht Aalst,Belgium,,0
+1997,Eredivisie,SC Heerenveen,summer,in,David Damman,207844,20,Belgium,Left-Back,LB,,KSK Beveren (-2010),Belgium,,0
+1997,Eredivisie,SC Heerenveen,summer,in,Ties Heldens,186513,18,Netherlands,Midfielder,Midfielder,,Unknown,,,0
+1997,Eredivisie,SC Heerenveen,summer,in,Radu Gusatu,184235,27,Romania,Attacking Midfield,AM,,Politehnica Timișoara,Romania,,0
+1997,Eredivisie,SC Heerenveen,summer,in,Khalid Sinouh,4487,22,Morocco,Goalkeeper,GK,,HFC Haarlem,Netherlands,,0
+1997,Eredivisie,SC Heerenveen,summer,in,Radoslav Samardzic,4157,27,Serbia,Centre-Forward,CF,,FC Volendam,Netherlands,,0
+1997,Eredivisie,SC Heerenveen,summer,in,Ivan Tsvetkov,7302,17,Bulgaria,Centre-Forward,CF,,Pirin Blagoevgrad,Bulgaria,,0
+1997,Eredivisie,SC Heerenveen,winter,in,Brian Tevreden,209659,28,Netherlands,Right-Back,RB,,Cambuur-Leeuwarden bvo,Netherlands,,0
+1997,Eredivisie,SC Heerenveen,summer,out,Jon Dahl Tomasson,4169,20,Denmark,Centre-Forward,CF,,Newcastle United,England,3900000.0,0
+1997,Eredivisie,SC Heerenveen,summer,out,Ole Tobiasen,4544,21,Denmark,Centre-Back,CB,,Ajax Amsterdam,Netherlands,1300000.0,0
+1997,Eredivisie,SC Heerenveen,summer,out,Igor Korneev,8011,29,Russia,Right Winger,RW,,Feyenoord Rotterdam,Netherlands,0.0,0
+1997,Eredivisie,SC Heerenveen,summer,out,Sierk Kooistra,248146,22,Netherlands,Goalkeeper,GK,,BV Veendam,Netherlands,,0
+1997,Eredivisie,SC Heerenveen,summer,out,Tony Alberda,88539,23,Netherlands,Striker,Striker,,SBV Emmen,Netherlands,,0
+1997,Eredivisie,SC Heerenveen,summer,out,Romeo Wouden,186711,26,Netherlands,Left Winger,LW,,Boavista FC,Portugal,,0
+1997,Eredivisie,SC Heerenveen,summer,out,Brian Tevreden,209659,28,Netherlands,Right-Back,RB,,Cambuur-Leeuwarden bvo,Netherlands,,0
+1997,Eredivisie,SC Heerenveen,summer,out,Tom Sier,147754,27,Netherlands,Left-Back,LB,,Ajax Amsterdam,Netherlands,,0
+1997,Eredivisie,SC Heerenveen,summer,out,Lee-Roy Echteld,114366,28,Netherlands,Attacking Midfield,AM,,AS Cannes,France,,0
+1997,Eredivisie,SC Heerenveen,summer,out,Marc Nygaard,3491,20,Denmark,Centre-Forward,CF,,MVV Maastricht,Netherlands,,0
+1997,Eredivisie,SC Heerenveen,winter,out,Alex Pastoor,114380,31,Netherlands,Centre-Back,CB,,KRC Harelbeke,Belgium,,0
+1997,Eredivisie,SC Heerenveen,winter,out,Simon Karkov,22681,21,Denmark,Right Midfield,RM,,Esbjerg fB,Denmark,,0
+1997,Eredivisie,Sparta Rotterdam,summer,in,Roland Jansen,6771,29,Netherlands,Goalkeeper,GK,,Willem II Tilburg,Netherlands,,0
+1997,Eredivisie,Sparta Rotterdam,summer,in,Johan van der Werff,7290,22,Netherlands,Goalkeeper,GK,,Kozakken Boys,Netherlands,,0
+1997,Eredivisie,Sparta Rotterdam,summer,in,Nico Jalink,150751,33,Netherlands,Right Midfield,RM,,NAC Breda,Netherlands,,0
+1997,Eredivisie,Sparta Rotterdam,summer,in,Gert Aandewiel,206900,27,Netherlands,Defensive Midfield,DM,,FC Volendam,Netherlands,,0
+1997,Eredivisie,Sparta Rotterdam,summer,in,Jimmy Simons,456576,27,Suriname,Centre-Forward,CF,,FC Lisse,Netherlands,,0
+1997,Eredivisie,Sparta Rotterdam,summer,out,Rob Alflen,149247,29,Netherlands,Defensive Midfield,DM,,SC Heracles '74,Netherlands,0.0,0
+1997,Eredivisie,Sparta Rotterdam,summer,out,Frank van der Geest,19297,24,Netherlands,Goalkeeper,GK,,SC Heracles '74,Netherlands,,0
+1997,Eredivisie,Sparta Rotterdam,summer,out,Rody Hoegee,223318,20,Netherlands,Goalkeeper,GK,,Willem II Tilburg,Netherlands,,0
+1997,Eredivisie,Sparta Rotterdam,summer,out,John Powell,224028,21,Netherlands,Defender,Defender,,Shelbourne FC,Ireland,,0
+1997,Eredivisie,Sparta Rotterdam,summer,out,Edward Metgod,153039,37,Netherlands,Goalkeeper,GK,,Retired,,,0
+1997,Eredivisie,Sparta Rotterdam,summer,out,Carlos Fortes,148593,23,Netherlands,Left Winger,LW,,Vitesse Arnhem,Netherlands,,0
+1997,Eredivisie,Twente Enschede FC,summer,in,Dennis Hulshoff,17318,27,Netherlands,Right-Back,RB,,Go Ahead Eagles,Netherlands,0.0,0
+1997,Eredivisie,Twente Enschede FC,summer,in,Andrey Kurdyumov,524353,25,Kazakhstan,Defensive Midfield,DM,,Zenit St. Petersburg,Russia,0.0,0
+1997,Eredivisie,Twente Enschede FC,summer,in,Rico Steinmann,16021,29,Germany,Right Midfield,RM,,1.FC Köln,Germany,,0
+1997,Eredivisie,Twente Enschede FC,summer,in,Martijn Abbenhuës,186339,23,Netherlands,Striker,Striker,,SC Enschede,Netherlands,,0
+1997,Eredivisie,Twente Enschede FC,summer,in,Achmed Kandhai,189092,19,Netherlands,Striker,Striker,,SC Telstar,Netherlands,,0
+1997,Eredivisie,Twente Enschede FC,winter,in,Antti Sumiala,1037,23,Finland,Centre-Forward,CF,,NEC Nijmegen,Netherlands,,0
+1997,Eredivisie,Twente Enschede FC,winter,in,Chris De Witte,4603,19,Belgium,Centre-Forward,CF,,RSC Anderlecht,Belgium,,0
+1997,Eredivisie,Twente Enschede FC,summer,out,Paul Bosvelt,4376,27,Netherlands,Defensive Midfield,DM,,Feyenoord Rotterdam,Netherlands,500000.0,0
+1997,Eredivisie,Twente Enschede FC,summer,out,Arnold Bruggink,4354,19,Netherlands,Attacking Midfield,AM,,PSV Eindhoven,Netherlands,0.0,0
+1997,Eredivisie,Twente Enschede FC,summer,out,Wilfried Elzinga,189089,27,Netherlands,Defender,Defender,,SBV Emmen,Netherlands,,0
+1997,Eredivisie,Twente Enschede FC,summer,out,Tobias Sumelka,6389,21,Germany,Midfielder,Midfielder,,Preußen Münster,Germany,,0
+1997,Eredivisie,Twente Enschede FC,summer,out,Jeroen Heubach,4587,22,Netherlands,Left-Back,LB,,MVV Maastricht,Netherlands,0.0,1
+1997,Eredivisie,Twente Enschede FC,summer,out,Rik Platvoet,5020,21,Netherlands,Centre-Forward,CF,,SBV Emmen,Netherlands,0.0,1
+1997,Eredivisie,Twente Enschede FC,winter,out,Yuriy Petrov,4602,23,Russia,Centre-Forward,CF,,RKC Waalwijk,Netherlands,0.0,1
+1997,Eredivisie,Twente Enschede FC,winter,out,Andrey Kurdyumov,524353,25,Kazakhstan,Defensive Midfield,DM,,Chernomorets Novorossijsk,Russia,0.0,1
+1997,Eredivisie,Vitesse Arnhem,summer,in,Marián Zeman,4422,22,Slovakia,Centre-Back,CB,,Istanbulspor,Türkiye,1600000.0,0
+1997,Eredivisie,Vitesse Arnhem,summer,in,Marco De Marchi,186334,30,Italy,Centre-Back,CB,,Bologna FC 1909,Italy,,0
+1997,Eredivisie,Vitesse Arnhem,summer,in,Marc van Hintum,1475,30,Netherlands,Left-Back,LB,,Willem II Tilburg,Netherlands,,0
+1997,Eredivisie,Vitesse Arnhem,summer,in,Jeremy Overbeek Bloem,186495,16,Netherlands,Midfielder,Midfielder,,De Graafschap Doetinchem Youth,Netherlands,,0
+1997,Eredivisie,Vitesse Arnhem,summer,in,Leo Koswal,186420,21,Netherlands,Right Winger,RW,,MVV Maastricht,Netherlands,,0
+1997,Eredivisie,Vitesse Arnhem,summer,in,Orlando Trustfull,107142,26,Netherlands,Defensive Midfield,DM,,Sheffield Wednesday,England,,0
+1997,Eredivisie,Vitesse Arnhem,summer,in,John Veldman,103736,29,Netherlands,Centre-Back,CB,,Ajax Amsterdam,Netherlands,,0
+1997,Eredivisie,Vitesse Arnhem,summer,in,Marko Perovic,12564,25,Serbia,Central Midfield,CM,,US Cremonese,Italy,,0
+1997,Eredivisie,Vitesse Arnhem,summer,in,Menno Willems,19400,20,Netherlands,Left-Back,LB,,Ajax Amsterdam,Netherlands,,0
+1997,Eredivisie,Vitesse Arnhem,summer,in,Michel Kreek,9858,26,Netherlands,Left-Back,LB,,AC Perugia,Italy,,0
+1997,Eredivisie,Vitesse Arnhem,summer,in,Martijn Reuser,13356,22,Netherlands,Attacking Midfield,AM,,Ajax Amsterdam,Netherlands,0.0,1
+1997,Eredivisie,Vitesse Arnhem,summer,in,Carlos Fortes,148593,23,Netherlands,Left Winger,LW,,Sparta Rotterdam,Netherlands,,0
+1997,Eredivisie,Vitesse Arnhem,summer,out,Roy Makaay,3994,22,Netherlands,Centre-Forward,CF,,CD Tenerife,Spain,6000000.0,0
+1997,Eredivisie,Vitesse Arnhem,summer,out,Ferdi Vierklau,147756,24,Netherlands,Right-Back,RB,,CD Tenerife,Spain,6000000.0,0
+1997,Eredivisie,Vitesse Arnhem,summer,out,John Stegeman,34481,20,Netherlands,Centre-Forward,CF,,Go Ahead Eagles,Netherlands,0.0,0
+1997,Eredivisie,Vitesse Arnhem,summer,out,Martijn Kuiper,19092,18,Netherlands,Centre-Back,CB,,RKC Waalwijk,Netherlands,0.0,1
+1997,Eredivisie,Vitesse Arnhem,summer,out,Ante Mise,155007,30,Croatia,Defensive Midfield,DM,,HNK Hajduk Split,Croatia,,0
+1997,Eredivisie,Vitesse Arnhem,summer,out,Joaquín del Olmo,102521,28,Mexico,Central Midfield,CM,,Club Necaxa,Mexico,,0
+1997,Eredivisie,Vitesse Arnhem,summer,out,Carlos van Wanrooij,4496,30,Netherlands,Left Midfield,LM,,RKC Waalwijk,Netherlands,,0
+1997,Eredivisie,Vitesse Arnhem,summer,out,Erwin van de Looi,4635,25,Netherlands,Centre-Back,CB,,NAC Breda,Netherlands,,0
+1997,Eredivisie,Willem II Tilburg,summer,in,Clyde Wijnhard,14387,23,Netherlands,Centre-Forward,CF,,RKC Waalwijk,Netherlands,0.0,0
+1997,Eredivisie,Willem II Tilburg,summer,in,Marino Promes,7294,20,Netherlands,Striker,Striker,,HFC Haarlem,Netherlands,,0
+1997,Eredivisie,Willem II Tilburg,summer,in,Arno Arts,4472,28,Netherlands,Central Midfield,CM,,Cambuur-Leeuwarden bvo,Netherlands,,0
+1997,Eredivisie,Willem II Tilburg,summer,in,Jukka Koskinen,133474,24,Finland,Left-Back,LB,,Myllykosken Pallo -47,Finland,,0
+1997,Eredivisie,Willem II Tilburg,summer,in,István Szekér,137695,26,Hungary,Centre-Back,CB,,Szombathelyi Haladás,Hungary,,0
+1997,Eredivisie,Willem II Tilburg,summer,in,Rody Hoegee,223318,20,Netherlands,Goalkeeper,GK,,Sparta Rotterdam,Netherlands,,0
+1997,Eredivisie,Willem II Tilburg,winter,in,Adil Ramzi,4359,20,Morocco,Left Midfield,LM,,Udinese Calcio,Italy,0.0,1
+1997,Eredivisie,Willem II Tilburg,winter,in,Marcel Valk,160926,30,Netherlands,Right Midfield,RM,,FC Volendam,Netherlands,,0
+1997,Eredivisie,Willem II Tilburg,summer,out,Bert Konterman,6252,26,Netherlands,Centre-Back,CB,,Feyenoord Rotterdam,Netherlands,2700000.0,0
+1997,Eredivisie,Willem II Tilburg,summer,out,Dave de Jong,20261,22,Netherlands,Centre-Back,CB,,De Graafschap Doetinchem,Netherlands,0.0,0
+1997,Eredivisie,Willem II Tilburg,summer,out,Marc van Hintum,1475,30,Netherlands,Left-Back,LB,,Vitesse Arnhem,Netherlands,,0
+1997,Eredivisie,Willem II Tilburg,summer,out,Roland Jansen,6771,29,Netherlands,Goalkeeper,GK,,Sparta Rotterdam,Netherlands,,0
+1997,Eredivisie,Willem II Tilburg,summer,out,Jack de Gier,4600,28,Netherlands,Centre-Forward,CF,,Lierse SK (-2018),Belgium,,0
+1997,Eredivisie,Willem II Tilburg,summer,out,John Feskens,197342,31,Netherlands,Midfielder,Midfielder,,NAC Breda,Netherlands,,0
+1997,Eredivisie,Willem II Tilburg,summer,out,Alex de Jong,223999,18,Netherlands,Midfielder,Midfielder,,Unknown,,,0
+1997,Eredivisie,Willem II Tilburg,summer,out,Arne van den Berg,206356,24,Netherlands,Striker,Striker,,Unknown,,,0

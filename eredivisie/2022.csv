@@ -1,0 +1,553 @@
+season,league,club,window,movement,player_name,player_id,age,nationality,position,pos,market_value,dealing_club,dealing_country,fee,is_loan
+2022,Eredivisie,AZ Alkmaar,summer,in,Jens Odgaard,345590,23,Denmark,Attacking Midfield,AM,2000000.0,US Sassuolo,Italy,3590000.0,0
+2022,Eredivisie,AZ Alkmaar,summer,in,Mees de Wit,315254,24,Netherlands,Left-Back,LB,1500000.0,PEC Zwolle,Netherlands,2300000.0,0
+2022,Eredivisie,AZ Alkmaar,summer,in,Mayckel Lahdo,795274,19,Sweden,Right Winger,RW,1000000.0,Hammarby IF,Sweden,600000.0,0
+2022,Eredivisie,AZ Alkmaar,summer,in,Riechedly Bazoer,216443,25,Curacao,Centre-Back,CB,5000000.0,Vitesse Arnhem,Netherlands,0.0,0
+2022,Eredivisie,AZ Alkmaar,summer,in,Zinho Vanheusden,338672,22,Belgium,Centre-Back,CB,8000000.0,Inter Milan,Italy,0.0,1
+2022,Eredivisie,AZ Alkmaar,winter,in,Djordje Mihailovic,484756,24,United States,Attacking Midfield,AM,6000000.0,CF Montréal,United States,3000000.0,0
+2022,Eredivisie,AZ Alkmaar,winter,in,Sven Mijnans,578804,22,Netherlands,Attacking Midfield,AM,1000000.0,Sparta Rotterdam,Netherlands,2500000.0,0
+2022,Eredivisie,AZ Alkmaar,winter,in,Mathew Ryan,128969,30,Australia,Goalkeeper,GK,5000000.0,FC Copenhagen,Denmark,500000.0,0
+2022,Eredivisie,AZ Alkmaar,summer,out,Owen Wijndal,339328,22,Netherlands,Left-Back,LB,12000000.0,Ajax Amsterdam,Netherlands,10000000.0,0
+2022,Eredivisie,AZ Alkmaar,summer,out,Fredrik Midtsjø,136180,28,Norway,Central Midfield,CM,6000000.0,Galatasaray,Türkiye,3500000.0,0
+2022,Eredivisie,AZ Alkmaar,summer,out,Thomas Ouwejan,241477,25,Netherlands,Left-Back,LB,2500000.0,FC Schalke 04,Germany,2000000.0,0
+2022,Eredivisie,AZ Alkmaar,summer,out,Zakaria Aboukhlal,393238,22,Morocco,Right Winger,RW,2000000.0,FC Toulouse,France,2000000.0,0
+2022,Eredivisie,AZ Alkmaar,summer,out,Ferdy Druijf,360519,24,Netherlands,Centre-Forward,CF,1500000.0,Rapid Vienna,Austria,1500000.0,0
+2022,Eredivisie,AZ Alkmaar,summer,out,Mohamed Taabouni,485591,20,Netherlands,Left Winger,LW,850000.0,Feyenoord Rotterdam,Netherlands,0.0,0
+2022,Eredivisie,AZ Alkmaar,summer,out,Aslak Witry,313944,26,Norway,Right-Back,RB,1200000.0,Ludogorets Razgrad,Bulgaria,,0
+2022,Eredivisie,AZ Alkmaar,summer,out,Beau Reus,515386,20,Netherlands,Goalkeeper,GK,150000.0,SK Beveren,Belgium,,0
+2022,Eredivisie,AZ Alkmaar,summer,out,Joris Kramer,326329,25,Netherlands,Centre-Back,CB,650000.0,NEC Nijmegen,Netherlands,,0
+2022,Eredivisie,AZ Alkmaar,summer,out,Mees Bakker,436061,21,Netherlands,Goalkeeper,GK,100000.0,De Graafschap Doetinchem,Netherlands,0.0,1
+2022,Eredivisie,AZ Alkmaar,summer,out,Jelle Duin,339327,23,Netherlands,Centre-Forward,CF,200000.0,Aarhus GF,Denmark,0.0,1
+2022,Eredivisie,AZ Alkmaar,summer,out,Jeremy Helmer,276135,24,Netherlands,Attacking Midfield,AM,300000.0,Without Club,,,0
+2022,Eredivisie,AZ Alkmaar,summer,out,Timo Letschert,231378,29,Netherlands,Centre-Back,CB,700000.0,Without Club,,,0
+2022,Eredivisie,AZ Alkmaar,summer,out,Kamal Sowah,564489,22,Ghana,Right Winger,RW,3500000.0,Club Brugge KV,Belgium,0.0,1
+2022,Eredivisie,AZ Alkmaar,winter,out,Håkon Evjen,394688,22,Norway,Central Midfield,CM,1800000.0,Bröndby IF,Denmark,2300000.0,0
+2022,Eredivisie,AZ Alkmaar,winter,out,Peter Vindahl,395421,24,Denmark,Goalkeeper,GK,650000.0,1.FC Nuremberg,Germany,0.0,1
+2022,Eredivisie,AZ Alkmaar,winter,out,Peer Koopmeiners,361074,22,Netherlands,Defensive Midfield,DM,600000.0,Excelsior Rotterdam,Netherlands,0.0,1
+2022,Eredivisie,Ajax Amsterdam,summer,in,Steven Bergwijn,284165,24,Netherlands,Left Winger,LW,18000000.0,Tottenham Hotspur,England,31250000.0,0
+2022,Eredivisie,Ajax Amsterdam,summer,in,Calvin Bassey,461883,22,Nigeria,Centre-Back,CB,10000000.0,Rangers FC,Scotland,23000000.0,0
+2022,Eredivisie,Ajax Amsterdam,summer,in,Brian Brobbey,473169,20,Netherlands,Centre-Forward,CF,9000000.0,RB Leipzig,Germany,16350000.000000002,0
+2022,Eredivisie,Ajax Amsterdam,summer,in,Owen Wijndal,339328,22,Netherlands,Left-Back,LB,12000000.0,AZ Alkmaar,Netherlands,10000000.0,0
+2022,Eredivisie,Ajax Amsterdam,summer,in,Ahmetcan Kaplan,662131,19,Türkiye,Centre-Back,CB,2800000.0,Trabzonspor,Türkiye,9500000.0,0
+2022,Eredivisie,Ajax Amsterdam,summer,in,Francisco Conceição,487474,19,Portugal,Right Winger,RW,8000000.0,FC Porto,Portugal,5070000.0,0
+2022,Eredivisie,Ajax Amsterdam,summer,in,Jorge Sánchez,356044,24,Mexico,Right-Back,RB,5000000.0,CF América,Mexico,5000000.0,0
+2022,Eredivisie,Ajax Amsterdam,summer,in,Lucas Ocampos,189441,28,Argentina,Left Winger,LW,25000000.0,Sevilla FC,Spain,4000000.0,1
+2022,Eredivisie,Ajax Amsterdam,summer,in,Lorenzo Lucca,572265,21,Italy,Centre-Forward,CF,6000000.0,Pisa Sporting Club,Italy,1000000.0,1
+2022,Eredivisie,Ajax Amsterdam,summer,in,Florian Grillitsch,195736,27,Austria,Defensive Midfield,DM,16000000.0,Without Club,,,0
+2022,Eredivisie,Ajax Amsterdam,winter,in,Gerónimo Rulli,229604,30,Argentina,Goalkeeper,GK,10000000.0,Villarreal CF,Spain,8000000.0,0
+2022,Eredivisie,Ajax Amsterdam,summer,out,Antony,602105,22,Brazil,Right Winger,RW,35000000.0,Manchester United,England,95000000.0,0
+2022,Eredivisie,Ajax Amsterdam,summer,out,Lisandro Martínez,480762,24,Argentina,Centre-Back,CB,32000000.0,Manchester United,England,57370000.0,0
+2022,Eredivisie,Ajax Amsterdam,summer,out,Sébastien Haller,181375,28,Cote d'Ivoire,Centre-Forward,CF,35000000.0,Borussia Dortmund,Germany,31000000.0,0
+2022,Eredivisie,Ajax Amsterdam,summer,out,Ryan Gravenberch,478573,20,Netherlands,Defensive Midfield,DM,35000000.0,Bayern Munich,Germany,18500000.0,0
+2022,Eredivisie,Ajax Amsterdam,summer,out,Perr Schuurs,418543,22,Netherlands,Centre-Back,CB,7000000.0,Torino FC,Italy,9400000.0,0
+2022,Eredivisie,Ajax Amsterdam,summer,out,Nicolás Tagliafico,131225,29,Argentina,Left-Back,LB,11000000.0,Olympique Lyon,France,4200000.0,0
+2022,Eredivisie,Ajax Amsterdam,summer,out,Dominik Kotarski,370997,22,Croatia,Goalkeeper,GK,1500000.0,HNK Gorica,Croatia,1000000.0,0
+2022,Eredivisie,Ajax Amsterdam,summer,out,Naci Ünüvar,508639,19,Türkiye,Left Winger,LW,3500000.0,Trabzonspor,Türkiye,150000.0,1
+2022,Eredivisie,Ajax Amsterdam,summer,out,André Onana,234509,26,Cameroon,Goalkeeper,GK,12000000.0,Inter Milan,Italy,0.0,0
+2022,Eredivisie,Ajax Amsterdam,summer,out,Przemyslaw Tyton,33210,35,Poland,Goalkeeper,GK,300000.0,Twente Enschede FC,Netherlands,0.0,0
+2022,Eredivisie,Ajax Amsterdam,summer,out,Danilo,519731,23,Brazil,Centre-Forward,CF,4000000.0,Feyenoord Rotterdam,Netherlands,0.0,0
+2022,Eredivisie,Ajax Amsterdam,summer,out,Noussair Mazraoui,340456,24,Morocco,Right-Back,RB,20000000.0,Bayern Munich,Germany,0.0,0
+2022,Eredivisie,Ajax Amsterdam,summer,out,Sean Klaiber,268113,28,Suriname,Right-Back,RB,2800000.0,FC Utrecht,Netherlands,0.0,0
+2022,Eredivisie,Ajax Amsterdam,summer,out,Mohamed Daramy,574385,20,Denmark,Left Winger,LW,6000000.0,FC Copenhagen,Denmark,0.0,1
+2022,Eredivisie,Ajax Amsterdam,summer,out,Zakaria Labyad,123349,29,Morocco,Attacking Midfield,AM,3000000.0,Without Club,,,0
+2022,Eredivisie,Ajax Amsterdam,summer,out,Brian Brobbey,473169,20,Netherlands,Centre-Forward,CF,9000000.0,RB Leipzig,Germany,0.0,1
+2022,Eredivisie,Ajax Amsterdam,winter,out,Daley Blind,12282,32,Netherlands,Centre-Back,CB,6000000.0,Bayern Munich,Germany,0.0,0
+2022,Eredivisie,Ajax Amsterdam,winter,out,Lisandro Magallán,66736,29,Argentina,Centre-Back,CB,2500000.0,Elche CF,Spain,0.0,0
+2022,Eredivisie,Ajax Amsterdam,winter,out,Kik Pierie,361207,22,Netherlands,Centre-Back,CB,1000000.0,Excelsior Rotterdam,Netherlands,0.0,1
+2022,Eredivisie,Ajax Amsterdam,winter,out,Jay Gorter,480453,22,Netherlands,Goalkeeper,GK,1500000.0,Aberdeen FC,Scotland,0.0,1
+2022,Eredivisie,Ajax Amsterdam,winter,out,Mohamed Ihattaren,503638,20,Morocco,Attacking Midfield,AM,3000000.0,Juventus FC,Italy,0.0,1
+2022,Eredivisie,Ajax Amsterdam,winter,out,Lucas Ocampos,189441,28,Argentina,Left Winger,LW,18000000.0,Sevilla FC,Spain,0.0,1
+2022,Eredivisie,Excelsior Rotterdam,summer,in,Lazaros Lamprou,292356,24,Greece,Left Winger,LW,1000000.0,PAOK Thessaloniki,Greece,450000.0,0
+2022,Eredivisie,Excelsior Rotterdam,summer,in,Nathan Markelo,451576,23,Curacao,Right-Back,RB,250000.0,PSV Eindhoven U21,Netherlands,0.0,0
+2022,Eredivisie,Excelsior Rotterdam,summer,in,Maxime Awoudja,312218,24,Germany,Centre-Back,CB,500000.0,VfB Stuttgart,Germany,0.0,0
+2022,Eredivisie,Excelsior Rotterdam,summer,in,Adrian Fein,379979,23,Germany,Central Midfield,CM,700000.0,Bayern Munich,Germany,0.0,0
+2022,Eredivisie,Excelsior Rotterdam,summer,in,Mike van Duinen,183397,30,Netherlands,Centre-Forward,CF,300000.0,OFI Crete FC,Greece,0.0,0
+2022,Eredivisie,Excelsior Rotterdam,summer,in,Yassin Ayoub,182573,28,Morocco,Central Midfield,CM,400000.0,Panathinaikos FC,Greece,0.0,0
+2022,Eredivisie,Excelsior Rotterdam,summer,in,Jacky Donkor,553217,23,Belgium,Left Winger,LW,325000.0,FC Dordrecht,Netherlands,,0
+2022,Eredivisie,Excelsior Rotterdam,summer,in,Reda Kharchouch,482826,26,Netherlands,Centre-Forward,CF,325000.0,Sparta Rotterdam,Netherlands,,0
+2022,Eredivisie,Excelsior Rotterdam,summer,in,Norbert Alblas,278938,27,Netherlands,Goalkeeper,GK,275000.0,TOP Oss,Netherlands,,0
+2022,Eredivisie,Excelsior Rotterdam,winter,in,Noah Naujoks,578544,20,Netherlands,Attacking Midfield,AM,400000.0,Feyenoord Rotterdam,Netherlands,,0
+2022,Eredivisie,Excelsior Rotterdam,winter,in,Kik Pierie,361207,22,Netherlands,Centre-Back,CB,1000000.0,Ajax Amsterdam,Netherlands,0.0,1
+2022,Eredivisie,Excelsior Rotterdam,winter,in,Peer Koopmeiners,361074,22,Netherlands,Defensive Midfield,DM,600000.0,AZ Alkmaar,Netherlands,0.0,1
+2022,Eredivisie,Excelsior Rotterdam,winter,in,Arthur Zagré,536477,21,France,Left-Back,LB,800000.0,AS Monaco,France,0.0,1
+2022,Eredivisie,Excelsior Rotterdam,winter,in,Vicente Besuijen,412954,21,Netherlands,Right Winger,RW,600000.0,Aberdeen FC,Scotland,0.0,1
+2022,Eredivisie,Excelsior Rotterdam,summer,out,Thijs Dallinga,538964,21,Netherlands,Centre-Forward,CF,1100000.0,FC Toulouse,France,2500000.0,0
+2022,Eredivisie,Excelsior Rotterdam,summer,out,Mats Wieffer,415381,22,Netherlands,Defensive Midfield,DM,400000.0,Feyenoord Rotterdam,Netherlands,575000.0,0
+2022,Eredivisie,Excelsior Rotterdam,summer,out,Modeste Duku,618483,21,France,Right Winger,RW,175000.0,FC Borgo,France,0.0,0
+2022,Eredivisie,Excelsior Rotterdam,summer,out,Reuven Niemeijer,443308,27,Netherlands,Attacking Midfield,AM,500000.0,Brescia Calcio (- 2025),Italy,0.0,0
+2022,Eredivisie,Excelsior Rotterdam,summer,out,Luuk Admiraal,736014,20,Netherlands,Left Winger,LW,50000.0,SV Spakenburg,Netherlands,0.0,1
+2022,Eredivisie,Excelsior Rotterdam,summer,out,Michael Chacón,158540,28,Netherlands,Defensive Midfield,DM,400000.0,Helmond Sport,Netherlands,0.0,1
+2022,Eredivisie,Excelsior Rotterdam,summer,out,Brandon Ormonde-Ottewill,242651,26,England,Left-Back,LB,300000.0,Without Club,,,0
+2022,Eredivisie,Excelsior Rotterdam,summer,out,Abdallah Aberkane,361086,22,Netherlands,Right-Back,RB,275000.0,Without Club,,,0
+2022,Eredivisie,Excelsior Rotterdam,summer,out,Bo Geens,259932,26,Belgium,Goalkeeper,GK,150000.0,Without Club,,,0
+2022,Eredivisie,Excelsior Rotterdam,summer,out,Nikita Vlasenko,510898,21,Switzerland,Centre-Back,CB,350000.0,Juventus Next Gen,Italy,0.0,1
+2022,Eredivisie,FC Emmen,summer,in,Mickey van der Hart,207048,28,Netherlands,Goalkeeper,GK,400000.0,Lech Poznan,Poland,0.0,0
+2022,Eredivisie,FC Emmen,summer,in,Metehan Güclü,395519,23,Türkiye,Centre-Forward,CF,300000.0,Stade Rennais FC,France,0.0,0
+2022,Eredivisie,FC Emmen,summer,in,Richairo Zivkovic,252755,25,Curacao,Centre-Forward,CF,400000.0,Red Star Belgrade,Serbia,0.0,0
+2022,Eredivisie,FC Emmen,summer,in,Gonzalo Sánchez,491562,22,Peru,Centre-Forward,CF,200000.0,Alianza Atlético Sullana,Peru,0.0,0
+2022,Eredivisie,FC Emmen,summer,in,Maikel Kieftenbeld,82332,32,Netherlands,Defensive Midfield,DM,400000.0,Millwall FC,England,0.0,0
+2022,Eredivisie,FC Emmen,summer,in,Eric Oelschlägel,152460,26,Germany,Goalkeeper,GK,500000.0,FC Utrecht,Netherlands,0.0,0
+2022,Eredivisie,FC Emmen,summer,in,Michaël Heylen,255748,28,Belgium,Centre-Back,CB,350000.0,Sparta Rotterdam,Netherlands,0.0,0
+2022,Eredivisie,FC Emmen,summer,in,Ahmed El Messaoudi,303939,27,Morocco,Central Midfield,CM,675000.0,Gaziantep FK,Türkiye,0.0,0
+2022,Eredivisie,FC Emmen,summer,in,Fernando Pacheco,451338,23,Peru,Left Winger,LW,600000.0,Club Sporting Cristal,Peru,0.0,1
+2022,Eredivisie,FC Emmen,summer,in,Mohamed Bouchouari,546225,21,Belgium,Right-Back,RB,150000.0,RSCA Futures,Belgium,0.0,1
+2022,Eredivisie,FC Emmen,summer,in,Mark Diemers,187507,28,Netherlands,Central Midfield,CM,1500000.0,Feyenoord Rotterdam,Netherlands,0.0,1
+2022,Eredivisie,FC Emmen,winter,in,Oussama Darfalou,321182,29,Algeria,Centre-Forward,CF,700000.0,MAS Fès,Morocco,0.0,0
+2022,Eredivisie,FC Emmen,winter,in,Mike te Wierik,155806,30,Netherlands,Centre-Back,CB,650000.0,FC Groningen,Netherlands,0.0,0
+2022,Eredivisie,FC Emmen,winter,in,Dennis Vos,412939,21,Netherlands,Centre-Back,CB,350000.0,PSV Eindhoven U21,Netherlands,,0
+2022,Eredivisie,FC Emmen,winter,in,Jeremy Antonisse,594273,20,Curacao,Left Winger,LW,300000.0,PSV Eindhoven U21,Netherlands,0.0,1
+2022,Eredivisie,FC Emmen,winter,in,Danny Hoesen,81163,32,Netherlands,Centre-Forward,CF,400000.0,Without Club,,,0
+2022,Eredivisie,FC Emmen,summer,out,Oussama El Azzouzi,531065,21,Morocco,Defensive Midfield,DM,300000.0,Union Saint-Gilloise,Belgium,100000.0,0
+2022,Eredivisie,FC Emmen,summer,out,Willem Hoffrogge,790469,21,Germany,Defensive Midfield,DM,25000.0,SV Atlas Delmenhorst,Germany,0.0,0
+2022,Eredivisie,FC Emmen,summer,out,Mitch Apau,113872,32,Netherlands,Centre-Back,CB,150000.0,SC Telstar,Netherlands,0.0,0
+2022,Eredivisie,FC Emmen,summer,out,Peter van Ooijen,123521,30,Netherlands,Right Winger,RW,375000.0,Helmond Sport,Netherlands,0.0,0
+2022,Eredivisie,FC Emmen,summer,out,Teun Bijleveld,324111,24,Netherlands,Left-Back,LB,325000.0,Roda JC Kerkrade,Netherlands,,0
+2022,Eredivisie,FC Emmen,summer,out,Leonel Miguel,497252,21,Netherlands,Centre-Back,CB,200000.0,Without Club,,,0
+2022,Eredivisie,FC Emmen,summer,out,Indy Groothuizen,241389,25,Netherlands,Goalkeeper,GK,125000.0,Without Club,,,0
+2022,Eredivisie,FC Emmen,summer,out,Peet Bijen,263553,27,Netherlands,Centre-Back,CB,300000.0,Retired,,,0
+2022,Eredivisie,FC Emmen,summer,out,Jeremy Antonisse,594273,21,Curacao,Left Winger,LW,500000.0,PSV Eindhoven U21,Netherlands,0.0,1
+2022,Eredivisie,FC Emmen,summer,out,Michael Brouwer,231650,29,Netherlands,Goalkeeper,GK,550000.0,Heracles Almelo,Netherlands,0.0,1
+2022,Eredivisie,FC Emmen,summer,out,Metehan Güclü,395519,23,Türkiye,Centre-Forward,CF,300000.0,Stade Rennais FC,France,0.0,1
+2022,Eredivisie,FC Emmen,summer,out,Joël van Kaam,503642,20,Netherlands,Right-Back,RB,175000.0,FC Groningen,Netherlands,0.0,1
+2022,Eredivisie,FC Emmen,summer,out,Kian Slor,513332,20,Netherlands,Left Winger,LW,100000.0,FC Groningen,Netherlands,0.0,1
+2022,Eredivisie,FC Emmen,summer,out,Reda Kharchouch,482826,26,Netherlands,Centre-Forward,CF,325000.0,Sparta Rotterdam,Netherlands,0.0,1
+2022,Eredivisie,FC Emmen,winter,out,Remi van Ekeris,806463,20,Netherlands,Central Midfield,CM,25000.0,FC Lisse,Netherlands,0.0,0
+2022,Eredivisie,FC Emmen,winter,out,Gonzalo Sánchez,491562,22,Peru,Centre-Forward,CF,200000.0,Ayacucho FC,Peru,0.0,0
+2022,Eredivisie,FC Emmen,winter,out,Danny Hoesen,81163,32,Netherlands,Centre-Forward,CF,400000.0,Retired,,,0
+2022,Eredivisie,FC Emmen,winter,out,Fernando Pacheco,451338,23,Peru,Left Winger,LW,500000.0,Club Sporting Cristal,Peru,0.0,1
+2022,Eredivisie,FC Groningen,summer,in,Florian Krüger,317740,23,Germany,Centre-Forward,CF,1800000.0,Arminia Bielefeld,Germany,1300000.0,0
+2022,Eredivisie,FC Groningen,summer,in,Isak Dybvik Määttä,664809,20,Norway,Right Winger,RW,500000.0,Aalesunds FK,Norway,1200000.0,0
+2022,Eredivisie,FC Groningen,summer,in,Ricardo Pepi,627207,19,United States,Centre-Forward,CF,9000000.0,FC Augsburg,Germany,500000.0,1
+2022,Eredivisie,FC Groningen,summer,in,Liam van Gelderen,412933,21,Suriname,Centre-Back,CB,650000.0,Ajax Amsterdam U21,Netherlands,450000.0,0
+2022,Eredivisie,FC Groningen,summer,in,Nordin Musampa,420215,20,Netherlands,Centre-Back,CB,500000.0,Ajax Amsterdam U21,Netherlands,0.0,0
+2022,Eredivisie,FC Groningen,summer,in,Joey Pelupessy,187293,29,Indonesia,Defensive Midfield,DM,350000.0,Giresunspor,Türkiye,0.0,0
+2022,Eredivisie,FC Groningen,summer,in,Ragnar Oratmangoen,410854,24,Indonesia,Left Winger,LW,550000.0,Go Ahead Eagles,Netherlands,,0
+2022,Eredivisie,FC Groningen,summer,in,Michael Verrips,288259,25,Netherlands,Goalkeeper,GK,800000.0,Fortuna Sittard,Netherlands,0.0,1
+2022,Eredivisie,FC Groningen,winter,in,Johan Hove,418557,22,Norway,Attacking Midfield,AM,1700000.0,Strømsgodset IF,Norway,1030000.0,0
+2022,Eredivisie,FC Groningen,winter,in,Aimar Sher,579294,20,Iraq,Central Midfield,CM,1000000.0,Spezia Calcio,Italy,0.0,1
+2022,Eredivisie,FC Groningen,winter,in,Mads Bech Sørensen,372240,24,Denmark,Centre-Back,CB,4000000.0,Brentford FC,England,0.0,1
+2022,Eredivisie,FC Groningen,winter,in,Matej Chalus,321178,24,Czech Republic,Centre-Back,CB,600000.0,Malmö FF,Sweden,0.0,1
+2022,Eredivisie,FC Groningen,winter,in,Oliver Antman,527896,21,Finland,Right Winger,RW,700000.0,FC Nordsjaelland,Denmark,0.0,1
+2022,Eredivisie,FC Groningen,winter,in,Elvis Manu,198070,29,Netherlands,Centre-Forward,CF,600000.0,Botev Plovdiv,Bulgaria,0.0,1
+2022,Eredivisie,FC Groningen,winter,in,Jetro Willems,146258,28,Netherlands,Centre-Back,CB,800000.0,Without Club,,,0
+2022,Eredivisie,FC Groningen,summer,out,Jørgen Strand Larsen,429983,22,Norway,Centre-Forward,CF,6000000.0,Celta de Vigo,Spain,15040000.0,0
+2022,Eredivisie,FC Groningen,summer,out,Bjorn Meijer,594227,19,Netherlands,Left-Back,LB,3000000.0,Club Brugge KV,Belgium,6000000.0,0
+2022,Eredivisie,FC Groningen,summer,out,Michael de Leeuw,110906,35,Netherlands,Centre-Forward,CF,250000.0,Willem II Tilburg,Netherlands,40000.0,0
+2022,Eredivisie,FC Groningen,summer,out,Mohammed El Hankouri,384587,25,Morocco,Attacking Midfield,AM,800000.0,1.FC Magdeburg,Germany,0.0,0
+2022,Eredivisie,FC Groningen,summer,out,Bart van Hintum,57328,35,Netherlands,Left-Back,LB,275000.0,PEC Zwolle,Netherlands,0.0,0
+2022,Eredivisie,FC Groningen,summer,out,Patrick Joosten,317593,26,Netherlands,Left Winger,LW,800000.0,Apollon Limassol,Cyprus,,0
+2022,Eredivisie,FC Groningen,summer,out,Daniël van Kaam,377720,22,Netherlands,Defensive Midfield,DM,700000.0,SC Cambuur Leeuwarden,Netherlands,,0
+2022,Eredivisie,FC Groningen,summer,out,Wessel Dammers,250450,27,Netherlands,Centre-Back,CB,600000.0,Willem II Tilburg,Netherlands,,0
+2022,Eredivisie,FC Groningen,summer,out,Sam Schreck,335100,23,Germany,Central Midfield,CM,400000.0,FC Erzgebirge Aue,Germany,,0
+2022,Eredivisie,FC Groningen,summer,out,Romano Postema,513330,20,Netherlands,Centre-Forward,CF,450000.0,Roda JC Kerkrade,Netherlands,0.0,1
+2022,Eredivisie,FC Groningen,summer,out,Melayro Bogarde,476915,20,Netherlands,Defensive Midfield,DM,1200000.0,TSG 1899 Hoffenheim,Germany,0.0,1
+2022,Eredivisie,FC Groningen,summer,out,Sebastian Tounekti,539677,19,Tunisia,Left Winger,LW,200000.0,FK Bodø/Glimt,Norway,0.0,1
+2022,Eredivisie,FC Groningen,winter,out,Neraysho Kasanwirjo,503640,20,Netherlands,Right-Back,RB,2500000.0,Feyenoord Rotterdam,Netherlands,2000000.0,0
+2022,Eredivisie,FC Groningen,winter,out,Cyril Ngonge,358032,22,Belgium,Right Winger,RW,1300000.0,Hellas Verona,Italy,550000.0,0
+2022,Eredivisie,FC Groningen,winter,out,Mike te Wierik,155806,30,Netherlands,Centre-Back,CB,650000.0,FC Emmen,Netherlands,0.0,0
+2022,Eredivisie,FC Groningen,winter,out,Ramon Pascal Lundqvist,238084,25,Sweden,Attacking Midfield,AM,700000.0,Sarpsborg 08 FF,Norway,,0
+2022,Eredivisie,FC Groningen,winter,out,Jan Hoekstra,409346,24,Netherlands,Goalkeeper,GK,350000.0,PEC Zwolle,Netherlands,0.0,1
+2022,Eredivisie,FC Groningen,winter,out,Marin Šverko,282169,24,Croatia,Centre-Back,CB,500000.0,Venezia FC,Italy,0.0,1
+2022,Eredivisie,FC Groningen,winter,out,Yahya Kalley,593410,21,The Gambia,Left-Back,LB,250000.0,IFK Norrköping,Sweden,0.0,1
+2022,Eredivisie,FC Utrecht,summer,in,Luuk Brouwers,369552,24,Netherlands,Attacking Midfield,AM,1000000.0,Go Ahead Eagles,Netherlands,1250000.0,0
+2022,Eredivisie,FC Utrecht,summer,in,Can Bozdogan,406609,21,Germany,Central Midfield,CM,4300000.0,FC Schalke 04,Germany,500000.0,1
+2022,Eredivisie,FC Utrecht,summer,in,Rocco Shein,488296,18,Estonia,Central Midfield,CM,250000.0,FC Flora Tallinn,Estonia,300000.0,0
+2022,Eredivisie,FC Utrecht,summer,in,Mike van der Hoorn,187105,29,Netherlands,Centre-Back,CB,1600000.0,Arminia Bielefeld,Germany,150000.0,0
+2022,Eredivisie,FC Utrecht,summer,in,Calvin Raatsie,485588,20,Netherlands,Goalkeeper,GK,200000.0,Ajax Amsterdam U21,Netherlands,0.0,0
+2022,Eredivisie,FC Utrecht,summer,in,Nick Viergever,93081,32,Netherlands,Centre-Back,CB,800000.0,SpVgg Greuther Fürth,Germany,0.0,0
+2022,Eredivisie,FC Utrecht,summer,in,Sean Klaiber,268113,28,Suriname,Right-Back,RB,2800000.0,Ajax Amsterdam,Netherlands,0.0,0
+2022,Eredivisie,FC Utrecht,summer,in,Jens Toornstra,134999,33,Netherlands,Attacking Midfield,AM,1200000.0,Feyenoord Rotterdam,Netherlands,0.0,0
+2022,Eredivisie,FC Utrecht,summer,in,Taylor Booth,513963,21,United States,Right Winger,RW,1000000.0,FC Bayern Munich II,Germany,0.0,0
+2022,Eredivisie,FC Utrecht,summer,in,Bas Dost,56331,33,Netherlands,Centre-Forward,CF,2500000.0,Club Brugge KV,Belgium,0.0,0
+2022,Eredivisie,FC Utrecht,summer,in,Amin Younes,96167,29,Germany,Left Winger,LW,1500000.0,Al-Ettifaq FC,Saudi Arabia,0.0,1
+2022,Eredivisie,FC Utrecht,summer,in,Modibo Sagnan,524925,23,Mali,Centre-Back,CB,3000000.0,Real Sociedad,Spain,0.0,1
+2022,Eredivisie,FC Utrecht,summer,in,Daishawn Redan,361081,21,Suriname,Centre-Forward,CF,1000000.0,Hertha BSC,Germany,0.0,1
+2022,Eredivisie,FC Utrecht,summer,in,Ramon Hendriks,436064,20,Netherlands,Centre-Back,CB,800000.0,Feyenoord Rotterdam,Netherlands,0.0,1
+2022,Eredivisie,FC Utrecht,summer,in,Vasilios Barkas,248658,28,Greece,Goalkeeper,GK,1000000.0,Celtic FC,Scotland,0.0,1
+2022,Eredivisie,FC Utrecht,winter,in,Victor Jensen,400548,22,Denmark,Attacking Midfield,AM,1000000.0,Ajax Amsterdam U21,Netherlands,,0
+2022,Eredivisie,FC Utrecht,winter,in,Anthony Descotte,565434,19,Belgium,Centre-Forward,CF,400000.0,Royal Charleroi SC,Belgium,0.0,1
+2022,Eredivisie,FC Utrecht,winter,in,Zakaria Labyad,123349,29,Morocco,Attacking Midfield,AM,2500000.0,Without Club,,,0
+2022,Eredivisie,FC Utrecht,summer,out,Quinten Timber,420213,21,Netherlands,Central Midfield,CM,4000000.0,Feyenoord Rotterdam,Netherlands,7400000.0,0
+2022,Eredivisie,FC Utrecht,summer,out,Adam Maher,122421,28,Netherlands,Central Midfield,CM,3800000.0,Damac FC,Saudi Arabia,1800000.0,0
+2022,Eredivisie,FC Utrecht,summer,out,Maarten Paes,396077,24,Indonesia,Goalkeeper,GK,900000.0,FC Dallas,United States,1000000.0,0
+2022,Eredivisie,FC Utrecht,summer,out,Eric Oelschlägel,152460,26,Germany,Goalkeeper,GK,500000.0,FC Emmen,Netherlands,0.0,0
+2022,Eredivisie,FC Utrecht,summer,out,Joris van Overeem,182582,28,Netherlands,Defensive Midfield,DM,900000.0,Maccabi Tel Aviv,Israel,0.0,0
+2022,Eredivisie,FC Utrecht,summer,out,Simon Gustafson,255474,27,Sweden,Central Midfield,CM,1800000.0,BK Häcken,Sweden,0.0,0
+2022,Eredivisie,FC Utrecht,summer,out,Benaissa Benamar,387199,25,Morocco,Centre-Back,CB,425000.0,FC Volendam,Netherlands,,0
+2022,Eredivisie,FC Utrecht,summer,out,Davy van den Berg,361066,22,Netherlands,Central Midfield,CM,250000.0,PEC Zwolle,Netherlands,,0
+2022,Eredivisie,FC Utrecht,summer,out,Henk Veerman,271743,31,Netherlands,Centre-Forward,CF,900000.0,FC Volendam,Netherlands,,0
+2022,Eredivisie,FC Utrecht,summer,out,Sylian Mokono,150663,23,Netherlands,Right-Back,RB,200000.0,Heracles Almelo,Netherlands,,0
+2022,Eredivisie,FC Utrecht,summer,out,Remco Balk,412940,21,Netherlands,Right Winger,RW,400000.0,SC Cambuur Leeuwarden,Netherlands,0.0,1
+2022,Eredivisie,FC Utrecht,summer,out,Willem Janssen,19409,35,Netherlands,Centre-Back,CB,,Retired,,,0
+2022,Eredivisie,FC Utrecht,summer,out,Urby Emanuelson,20586,36,Netherlands,Central Midfield,CM,,Without Club,,,0
+2022,Eredivisie,FC Utrecht,summer,out,Emil Bergström,142208,29,Sweden,Centre-Back,CB,500000.0,Without Club,,,0
+2022,Eredivisie,FC Utrecht,summer,out,Mike van der Hoorn,187105,29,Netherlands,Centre-Back,CB,1600000.0,Arminia Bielefeld,Germany,0.0,1
+2022,Eredivisie,FC Utrecht,summer,out,Pontus Almqvist,300532,22,Sweden,Right Winger,RW,3000000.0,FC Rostov,Russia,0.0,1
+2022,Eredivisie,FC Utrecht,winter,out,Moussa Sylla,460655,23,Mali,Centre-Forward,CF,1500000.0,SM Caen,France,0.0,0
+2022,Eredivisie,FC Utrecht,winter,out,Mimoun Mahi,216815,28,Morocco,Left Winger,LW,1000000.0,SC Cambuur Leeuwarden,Netherlands,0.0,1
+2022,Eredivisie,FC Utrecht,winter,out,Djevencio van der Kust,596148,21,Suriname,Left-Back,LB,850000.0,Houston Dynamo FC,United States,0.0,1
+2022,Eredivisie,FC Utrecht,winter,out,Arthur Zagré,536477,21,France,Left-Back,LB,800000.0,AS Monaco,France,0.0,1
+2022,Eredivisie,FC Utrecht,winter,out,Daishawn Redan,361081,21,Suriname,Centre-Forward,CF,1300000.0,Hertha BSC,Germany,0.0,1
+2022,Eredivisie,FC Volendam,summer,in,Diego Gustavo,1046796,18,Brazil,Attacking Midfield,AM,,Esporte Clube Laranja Mecânica,Brazil,0.0,0
+2022,Eredivisie,FC Volendam,summer,in,Carel Eiting,315128,24,Netherlands,Central Midfield,CM,2800000.0,Huddersfield Town,England,0.0,0
+2022,Eredivisie,FC Volendam,summer,in,Benaissa Benamar,387199,25,Morocco,Centre-Back,CB,425000.0,FC Utrecht,Netherlands,,0
+2022,Eredivisie,FC Volendam,summer,in,Henk Veerman,271743,31,Netherlands,Centre-Forward,CF,900000.0,FC Utrecht,Netherlands,,0
+2022,Eredivisie,FC Volendam,summer,in,Xavier Mbuyamba,640432,20,Netherlands,Centre-Back,CB,500000.0,Chelsea FC U21,England,,0
+2022,Eredivisie,FC Volendam,winter,in,Flip Klomp,790482,21,Netherlands,Central Midfield,CM,,VCU Rams (Virginia Commonwealth University),United States,0.0,0
+2022,Eredivisie,FC Volendam,winter,in,Florent Sanchez,607225,19,France,Central Midfield,CM,600000.0,Olympique Lyon,France,0.0,1
+2022,Eredivisie,FC Volendam,summer,out,Mike Eerdhuijzen,482141,21,Netherlands,Centre-Back,CB,325000.0,Sparta Rotterdam,Netherlands,0.0,0
+2022,Eredivisie,FC Volendam,summer,out,Samir Ben Sallam,582133,21,Netherlands,Central Midfield,CM,150000.0,Karmiotissa Pano Polemidion,Cyprus,0.0,0
+2022,Eredivisie,FC Volendam,summer,out,Alex Plat,410719,24,Netherlands,Defensive Midfield,DM,325000.0,NAC Breda,Netherlands,0.0,0
+2022,Eredivisie,FC Volendam,summer,out,John Hilton,469851,21,United States,Left-Back,LB,100000.0,Koninklijke HFC Haarlem,Netherlands,0.0,0
+2022,Eredivisie,FC Volendam,summer,out,Dyllandro Panka,671079,23,Netherlands,Left Winger,LW,75000.0,Quick Boys,Netherlands,0.0,0
+2022,Eredivisie,FC Volendam,summer,out,Robin Schulte,608777,21,Netherlands,Central Midfield,CM,25000.0,VV Katwijk,Netherlands,0.0,0
+2022,Eredivisie,FC Volendam,summer,out,Jim Beers,529218,22,Netherlands,Centre-Forward,CF,25000.0,Quick Boys,Netherlands,0.0,0
+2022,Eredivisie,FC Volendam,summer,out,Martijn Kaars,377729,23,Netherlands,Centre-Forward,CF,250000.0,Helmond Sport,Netherlands,0.0,0
+2022,Eredivisie,FC Volendam,summer,out,Kevin Visser,151540,33,Netherlands,Defensive Midfield,DM,100000.0,AFC Amsterdam,Netherlands,0.0,0
+2022,Eredivisie,FC Volendam,summer,out,Dion Vlak,587297,21,Netherlands,Goalkeeper,GK,25000.0,SV Spakenburg,Netherlands,0.0,0
+2022,Eredivisie,FC Volendam,summer,out,Koen Blommestijn,727531,22,Netherlands,Centre-Forward,CF,25000.0,SC Telstar,Netherlands,0.0,1
+2022,Eredivisie,FC Volendam,summer,out,Boy Deul,59636,34,Curacao,Attacking Midfield,AM,200000.0,Retired,,,0
+2022,Eredivisie,FC Volendam,summer,out,Sjors Kramer,478184,22,Netherlands,Centre-Back,CB,50000.0,Career break,,,0
+2022,Eredivisie,FC Volendam,summer,out,Benaissa Benamar,387199,25,Morocco,Centre-Back,CB,425000.0,FC Utrecht,Netherlands,0.0,1
+2022,Eredivisie,Feyenoord Rotterdam,summer,in,Dávid Hancko,404418,24,Slovakia,Centre-Back,CB,4500000.0,AC Sparta Prague,Czech Republic,8300000.000000001,0
+2022,Eredivisie,Feyenoord Rotterdam,summer,in,Quinten Timber,420213,21,Netherlands,Central Midfield,CM,4000000.0,FC Utrecht,Netherlands,7400000.0,0
+2022,Eredivisie,Feyenoord Rotterdam,summer,in,Santiago Gimenez,552955,21,Mexico,Centre-Forward,CF,4000000.0,CD Cruz Azul,Mexico,6000000.0,0
+2022,Eredivisie,Feyenoord Rotterdam,summer,in,Igor Paixão,653610,22,Brazil,Left Winger,LW,800000.0,Coritiba Foot Ball Club,Brazil,4500000.0,0
+2022,Eredivisie,Feyenoord Rotterdam,summer,in,Javairô Dilrosun,315125,24,Netherlands,Left Winger,LW,6000000.0,Hertha BSC,Germany,4000000.0,0
+2022,Eredivisie,Feyenoord Rotterdam,summer,in,Ezequiel Bullaude,627068,21,Argentina,Attacking Midfield,AM,4500000.0,CD Godoy Cruz Antonio Tomba,Argentina,2000000.0,0
+2022,Eredivisie,Feyenoord Rotterdam,summer,in,Sebastian Szymanski,320748,23,Poland,Attacking Midfield,AM,14000000.0,Dynamo Moscow,Russia,2000000.0,1
+2022,Eredivisie,Feyenoord Rotterdam,summer,in,Marcos López,432175,22,Peru,Left-Back,LB,1800000.0,San Jose Earthquakes,United States,1200000.0,0
+2022,Eredivisie,Feyenoord Rotterdam,summer,in,Mats Wieffer,415381,22,Netherlands,Defensive Midfield,DM,400000.0,Excelsior Rotterdam,Netherlands,575000.0,0
+2022,Eredivisie,Feyenoord Rotterdam,summer,in,Danilo,519731,23,Brazil,Centre-Forward,CF,4000000.0,Ajax Amsterdam,Netherlands,0.0,0
+2022,Eredivisie,Feyenoord Rotterdam,summer,in,Mohamed Taabouni,485591,20,Netherlands,Left Winger,LW,850000.0,AZ Alkmaar,Netherlands,0.0,0
+2022,Eredivisie,Feyenoord Rotterdam,summer,in,Jacob Rasmussen,283233,25,Denmark,Centre-Back,CB,3000000.0,ACF Fiorentina,Italy,0.0,1
+2022,Eredivisie,Feyenoord Rotterdam,summer,in,Oussama Idrissi,241391,26,Morocco,Left Winger,LW,4000000.0,Sevilla FC,Spain,0.0,1
+2022,Eredivisie,Feyenoord Rotterdam,summer,in,Fredrik Bjørkan,364938,24,Norway,Left-Back,LB,2500000.0,Hertha BSC,Germany,0.0,1
+2022,Eredivisie,Feyenoord Rotterdam,summer,in,Timon Wellenreuther,196829,26,Germany,Goalkeeper,GK,800000.0,RSC Anderlecht,Belgium,0.0,1
+2022,Eredivisie,Feyenoord Rotterdam,winter,in,Neraysho Kasanwirjo,503640,20,Netherlands,Right-Back,RB,2500000.0,FC Groningen,Netherlands,2000000.0,0
+2022,Eredivisie,Feyenoord Rotterdam,summer,out,Luis Sinisterra,512385,23,Colombia,Left Winger,LW,25000000.0,Leeds United,England,25000000.0,0
+2022,Eredivisie,Feyenoord Rotterdam,summer,out,Marcos Senesi,469781,25,Argentina,Centre-Back,CB,17000000.0,AFC Bournemouth,England,15000000.0,0
+2022,Eredivisie,Feyenoord Rotterdam,summer,out,Tyrell Malacia,339340,22,Netherlands,Left-Back,LB,17000000.0,Manchester United,England,15000000.0,0
+2022,Eredivisie,Feyenoord Rotterdam,summer,out,Fredrik Aursnes,223367,26,Norway,Central Midfield,CM,12000000.0,SL Benfica,Portugal,13000000.0,0
+2022,Eredivisie,Feyenoord Rotterdam,summer,out,Bryan Linssen,82410,31,Netherlands,Centre-Forward,CF,2200000.0,Urawa Red Diamonds,Japan,1300000.0,0
+2022,Eredivisie,Feyenoord Rotterdam,summer,out,Achraf El Bouchataoui,361122,22,Netherlands,Defensive Midfield,DM,250000.0,KMSK Deinze (-2024),Belgium,0.0,0
+2022,Eredivisie,Feyenoord Rotterdam,summer,out,Jens Toornstra,134999,33,Netherlands,Attacking Midfield,AM,1200000.0,FC Utrecht,Netherlands,0.0,0
+2022,Eredivisie,Feyenoord Rotterdam,summer,out,Philippe Sandler,340460,25,Netherlands,Centre-Back,CB,2000000.0,NEC Nijmegen,Netherlands,0.0,0
+2022,Eredivisie,Feyenoord Rotterdam,summer,out,Naoufal Bannis,430800,20,Morocco,Centre-Forward,CF,400000.0,FC Eindhoven,Netherlands,0.0,1
+2022,Eredivisie,Feyenoord Rotterdam,summer,out,Denzel Hall,412949,21,Netherlands,Right-Back,RB,100000.0,ADO Den Haag,Netherlands,0.0,1
+2022,Eredivisie,Feyenoord Rotterdam,summer,out,Róbert Boženík,454576,22,Slovakia,Centre-Forward,CF,1200000.0,Boavista FC,Portugal,0.0,1
+2022,Eredivisie,Feyenoord Rotterdam,summer,out,Ramon Hendriks,436064,20,Netherlands,Centre-Back,CB,800000.0,FC Utrecht,Netherlands,0.0,1
+2022,Eredivisie,Feyenoord Rotterdam,summer,out,Mark Diemers,187507,28,Netherlands,Central Midfield,CM,1500000.0,FC Emmen,Netherlands,0.0,1
+2022,Eredivisie,Feyenoord Rotterdam,summer,out,Thijs Jansen,514287,20,Netherlands,Goalkeeper,GK,50000.0,TOP Oss,Netherlands,0.0,1
+2022,Eredivisie,Feyenoord Rotterdam,summer,out,Lennard Hartjes,595238,19,Netherlands,Central Midfield,CM,100000.0,Roda JC Kerkrade,Netherlands,0.0,1
+2022,Eredivisie,Feyenoord Rotterdam,summer,out,Christian Conteh,530298,22,Germany,Right Winger,RW,450000.0,SG Dynamo Dresden,Germany,0.0,1
+2022,Eredivisie,Feyenoord Rotterdam,summer,out,Reiss Nelson,340325,22,England,Left Winger,LW,6500000.0,Arsenal FC,England,0.0,1
+2022,Eredivisie,Feyenoord Rotterdam,summer,out,Cyriel Dessers,317806,27,Nigeria,Centre-Forward,CF,6000000.0,KRC Genk,Belgium,0.0,1
+2022,Eredivisie,Feyenoord Rotterdam,summer,out,Cole Bassett,605144,21,United States,Attacking Midfield,AM,4000000.0,Colorado Rapids,United States,0.0,1
+2022,Eredivisie,Feyenoord Rotterdam,summer,out,Jorrit Hendrix,205004,27,Netherlands,Defensive Midfield,DM,1800000.0,Spartak Moscow,Russia,0.0,1
+2022,Eredivisie,Feyenoord Rotterdam,summer,out,Valentin Cojocaru,200616,26,Romania,Goalkeeper,GK,900000.0,SC Dnipro-1,Ukraine,0.0,1
+2022,Eredivisie,Feyenoord Rotterdam,summer,out,Guus Til,372267,24,Netherlands,Attacking Midfield,AM,7500000.0,Spartak Moscow,Russia,0.0,1
+2022,Eredivisie,Feyenoord Rotterdam,winter,out,Noah Naujoks,578544,20,Netherlands,Attacking Midfield,AM,400000.0,Excelsior Rotterdam,Netherlands,,0
+2022,Eredivisie,Feyenoord Rotterdam,winter,out,Fredrik Bjørkan,364938,24,Norway,Left-Back,LB,1500000.0,Hertha BSC,Germany,0.0,1
+2022,Eredivisie,Fortuna Sittard,summer,in,Rodrigo Guth,492313,21,Brazil,Centre-Back,CB,750000.0,Atalanta BC,Italy,1100000.0,0
+2022,Eredivisie,Fortuna Sittard,summer,in,Úmaro Embaló,409886,21,Portugal,Right Winger,RW,1500000.0,SL Benfica B,Portugal,1000000.0,0
+2022,Eredivisie,Fortuna Sittard,summer,in,Ivor Pandur,371013,22,Croatia,Goalkeeper,GK,1000000.0,Hellas Verona,Italy,190000.0,1
+2022,Eredivisie,Fortuna Sittard,summer,in,Bob van der Hoek,369762,26,Netherlands,Goalkeeper,GK,,Koninklijke HFC Haarlem,Netherlands,0.0,0
+2022,Eredivisie,Fortuna Sittard,summer,in,Iñigo Córdoba,251848,25,Spain,Left Winger,LW,2500000.0,Athletic Bilbao,Spain,0.0,0
+2022,Eredivisie,Fortuna Sittard,summer,in,Doğan Erdoğan,239733,25,Türkiye,Defensive Midfield,DM,1100000.0,Gaziantep FK,Türkiye,0.0,0
+2022,Eredivisie,Fortuna Sittard,summer,in,Burak Yılmaz,34987,36,Türkiye,Centre-Forward,CF,1500000.0,LOSC Lille,France,0.0,0
+2022,Eredivisie,Fortuna Sittard,summer,in,Ivo Pinto,82281,32,Portugal,Right-Back,RB,500000.0,GNK Dinamo Zagreb,Croatia,0.0,0
+2022,Eredivisie,Fortuna Sittard,summer,in,Oğuzhan Özyakup,77966,29,Türkiye,Central Midfield,CM,1000000.0,Besiktas JK,Türkiye,0.0,0
+2022,Eredivisie,Fortuna Sittard,summer,in,Rémy Vita,805835,21,Comoros,Left-Back,LB,1000000.0,FC Bayern Munich II,Germany,,0
+2022,Eredivisie,Fortuna Sittard,summer,in,Michael Verrips,288259,25,Netherlands,Goalkeeper,GK,800000.0,Sheffield United,England,,0
+2022,Eredivisie,Fortuna Sittard,summer,in,Cole Bassett,605144,21,United States,Attacking Midfield,AM,4000000.0,Colorado Rapids,United States,0.0,1
+2022,Eredivisie,Fortuna Sittard,summer,in,Vasilios Sourlis,554398,19,Greece,Central Midfield,CM,500000.0,Olympiacos Piraeus,Greece,0.0,1
+2022,Eredivisie,Fortuna Sittard,summer,in,Ximo Navarro,184767,32,Spain,Right-Back,RB,1200000.0,Without Club,,,0
+2022,Eredivisie,Fortuna Sittard,winter,in,Gianmarco Cangiano,496270,21,Italy,Left Winger,LW,800000.0,Bologna FC 1909,Italy,0.0,1
+2022,Eredivisie,Fortuna Sittard,winter,in,Thomas Buitink,357826,22,Netherlands,Centre-Forward,CF,1000000.0,Vitesse Arnhem,Netherlands,0.0,1
+2022,Eredivisie,Fortuna Sittard,winter,in,Stipe Radic,371002,22,Croatia,Centre-Back,CB,800000.0,Without Club,,,0
+2022,Eredivisie,Fortuna Sittard,winter,in,Kristijan Bistrovic,375857,24,Croatia,Central Midfield,CM,2200000.0,CSKA Moscow,Russia,0.0,1
+2022,Eredivisie,Fortuna Sittard,summer,out,Zian Flemming,411537,23,Netherlands,Centre-Forward,CF,2000000.0,Millwall FC,England,2500000.0,0
+2022,Eredivisie,Fortuna Sittard,summer,out,Ronan Pluijmen,892047,19,Thailand,Left-Back,LB,50000.0,Muangthong United,Thailand,0.0,0
+2022,Eredivisie,Fortuna Sittard,summer,out,Charlison Benschop,66783,32,Curacao,Centre-Forward,CF,350000.0,De Graafschap Doetinchem,Netherlands,0.0,0
+2022,Eredivisie,Fortuna Sittard,summer,out,Arian Kastrati,548185,21,Kosovo,Centre-Forward,CF,75000.0,SC Farense U23,Portugal,0.0,0
+2022,Eredivisie,Fortuna Sittard,summer,out,Ruben van Kouwen,566910,21,Netherlands,Goalkeeper,GK,50000.0,GVVV Veenendaal,Netherlands,0.0,0
+2022,Eredivisie,Fortuna Sittard,summer,out,Andreas Samaris,140032,33,Greece,Defensive Midfield,DM,700000.0,Rio Ave FC,Portugal,0.0,0
+2022,Eredivisie,Fortuna Sittard,summer,out,Lisandro Semedo,225431,26,Cape Verde,Left Winger,LW,700000.0,Radomiak Radom,Poland,0.0,0
+2022,Eredivisie,Fortuna Sittard,summer,out,Martin Angha,122695,28,Switzerland,Centre-Back,CB,700000.0,Al-Adalah FC,Saudi Arabia,0.0,0
+2022,Eredivisie,Fortuna Sittard,summer,out,Toshio Lake,514290,21,Netherlands,Centre-Forward,CF,200000.0,TOP Oss,Netherlands,0.0,0
+2022,Eredivisie,Fortuna Sittard,summer,out,Adnan Uğur,409515,21,Belgium,Central Midfield,CM,500000.0,Fatih Karagümrük,Türkiye,,0
+2022,Eredivisie,Fortuna Sittard,summer,out,Samy Baghdadi,511454,25,France,Centre-Forward,CF,150000.0,USL Dunkerque,France,,0
+2022,Eredivisie,Fortuna Sittard,summer,out,Yiğit Emre Çeltik,655894,19,Türkiye,Central Midfield,CM,100000.0,Podbeskidzie Bielsko-Biala,Poland,,0
+2022,Eredivisie,Fortuna Sittard,summer,out,Mickaël Tirpan,201248,28,Türkiye,Right-Back,RB,700000.0,Kasimpasa,Türkiye,,0
+2022,Eredivisie,Fortuna Sittard,summer,out,Richie Musaba,495963,21,Netherlands,Attacking Midfield,AM,200000.0,TOP Oss,Netherlands,0.0,1
+2022,Eredivisie,Fortuna Sittard,summer,out,Michael Verrips,288259,25,Netherlands,Goalkeeper,GK,800000.0,FC Groningen,Netherlands,0.0,1
+2022,Eredivisie,Fortuna Sittard,summer,out,Bob van der Hoek,369762,26,Netherlands,Goalkeeper,GK,25000.0,Retired,,,0
+2022,Eredivisie,Fortuna Sittard,summer,out,Ben Rienstra,64506,32,Netherlands,Central Midfield,CM,300000.0,Without Club,,,0
+2022,Eredivisie,Fortuna Sittard,summer,out,Felix Dornebusch,119034,27,Germany,Goalkeeper,GK,225000.0,Without Club,,,0
+2022,Eredivisie,Fortuna Sittard,summer,out,Joshua Wehking,333641,22,Germany,Goalkeeper,GK,50000.0,Without Club,,,0
+2022,Eredivisie,Fortuna Sittard,summer,out,Jordan Botaka,196860,29,DR Congo,Right Winger,RW,600000.0,KAA Gent,Belgium,0.0,1
+2022,Eredivisie,Fortuna Sittard,summer,out,Michael Verrips,288259,25,Netherlands,Goalkeeper,GK,800000.0,Sheffield United,England,0.0,1
+2022,Eredivisie,Fortuna Sittard,summer,out,Nigel Lonwijk,566043,19,Suriname,Centre-Back,CB,300000.0,Wolverhampton Wanderers U21,England,0.0,1
+2022,Eredivisie,Fortuna Sittard,summer,out,Ivo Pinto,82281,32,Portugal,Right-Back,RB,500000.0,GNK Dinamo Zagreb,Croatia,0.0,1
+2022,Eredivisie,Fortuna Sittard,summer,out,Ryan Johansson,351071,21,Luxembourg,Left Winger,LW,100000.0,Sevilla Atlético,Spain,0.0,1
+2022,Eredivisie,Fortuna Sittard,winter,out,Mats Seuntjens,187809,30,Netherlands,Attacking Midfield,AM,1200000.0,RKC Waalwijk,Netherlands,0.0,0
+2022,Eredivisie,Fortuna Sittard,winter,out,Vasilios Sourlis,554398,20,Greece,Central Midfield,CM,500000.0,Olympiacos Piraeus,Greece,0.0,1
+2022,Eredivisie,Fortuna Sittard,winter,out,Cole Bassett,605144,21,United States,Attacking Midfield,AM,2000000.0,Colorado Rapids,United States,0.0,1
+2022,Eredivisie,Go Ahead Eagles,summer,in,Oliver Edvardsen,374326,23,Norway,Left Winger,LW,500000.0,Stabæk Fotball,Norway,220000.0,0
+2022,Eredivisie,Go Ahead Eagles,summer,in,Willum Thór Willumsson,455127,23,Iceland,Attacking Midfield,AM,400000.0,BATE Borisov,Belarus,150000.0,0
+2022,Eredivisie,Go Ahead Eagles,summer,in,Rashaan Fernandes,315130,23,Netherlands,Left Winger,LW,300000.0,SC Telstar,Netherlands,0.0,0
+2022,Eredivisie,Go Ahead Eagles,summer,in,Finn Stokkers,241486,26,Netherlands,Centre-Forward,CF,450000.0,RKC Waalwijk,Netherlands,0.0,0
+2022,Eredivisie,Go Ahead Eagles,summer,in,Erwin Mulder,56631,33,Netherlands,Goalkeeper,GK,300000.0,SC Heerenveen,Netherlands,0.0,0
+2022,Eredivisie,Go Ahead Eagles,summer,in,Jamal Amofa,289651,23,Netherlands,Centre-Back,CB,350000.0,ADO Den Haag,Netherlands,0.0,0
+2022,Eredivisie,Go Ahead Eagles,summer,in,Xander Blomme,496873,20,Belgium,Defensive Midfield,DM,250000.0,Club NXT,Belgium,0.0,0
+2022,Eredivisie,Go Ahead Eagles,summer,in,Bobby Adekanye,331514,23,Netherlands,Right Winger,RW,350000.0,SS Lazio,Italy,0.0,0
+2022,Eredivisie,Go Ahead Eagles,summer,in,Sylla Sow,343184,26,Netherlands,Centre-Forward,CF,250000.0,Sheffield Wednesday,England,,0
+2022,Eredivisie,Go Ahead Eagles,summer,in,Enric Llansana,412945,21,Netherlands,Defensive Midfield,DM,400000.0,Ajax Amsterdam U21,Netherlands,,0
+2022,Eredivisie,Go Ahead Eagles,summer,in,Jeffrey de Lange,315253,24,Netherlands,Goalkeeper,GK,200000.0,Twente Enschede FC,Netherlands,,0
+2022,Eredivisie,Go Ahead Eagles,summer,in,José Fontán,609361,22,Spain,Centre-Back,CB,1000000.0,Celta de Vigo,Spain,0.0,1
+2022,Eredivisie,Go Ahead Eagles,summer,in,Federico Mattiello,200194,27,Italy,Right-Back,RB,400000.0,Without Club,,,0
+2022,Eredivisie,Go Ahead Eagles,summer,in,Tesfaldet Tekie,283185,25,Sweden,Central Midfield,CM,850000.0,Without Club,,,0
+2022,Eredivisie,Go Ahead Eagles,summer,in,Luca Plogmann,335997,22,Germany,Goalkeeper,GK,225000.0,Without Club,,,0
+2022,Eredivisie,Go Ahead Eagles,summer,in,Jahnoah Markelo,677382,19,Suriname,Right Winger,RW,50000.0,Without Club,,,0
+2022,Eredivisie,Go Ahead Eagles,winter,in,Darío Serra,834768,20,Spain,Left Winger,LW,25000.0,Valencia Mestalla,Spain,0.0,1
+2022,Eredivisie,Go Ahead Eagles,winter,in,Fredrik Oppegård,539665,20,Norway,Left-Back,LB,600000.0,PSV Eindhoven,Netherlands,0.0,1
+2022,Eredivisie,Go Ahead Eagles,summer,out,Luuk Brouwers,369552,24,Netherlands,Attacking Midfield,AM,1000000.0,FC Utrecht,Netherlands,1250000.0,0
+2022,Eredivisie,Go Ahead Eagles,summer,out,Quiermo Dumay,612024,21,Netherlands,Right-Back,RB,25000.0,GVVV Veenendaal,Netherlands,0.0,0
+2022,Eredivisie,Go Ahead Eagles,summer,out,Andries Noppert,276853,28,Netherlands,Goalkeeper,GK,450000.0,SC Heerenveen,Netherlands,0.0,0
+2022,Eredivisie,Go Ahead Eagles,summer,out,Boyd Lucassen,406091,24,Netherlands,Right-Back,RB,450000.0,NAC Breda,Netherlands,0.0,0
+2022,Eredivisie,Go Ahead Eagles,summer,out,Zakaria Eddahchouri,519651,22,Netherlands,Centre-Forward,CF,75000.0,Koninklijke HFC Haarlem,Netherlands,0.0,0
+2022,Eredivisie,Go Ahead Eagles,summer,out,Sam Crowther,490888,22,Netherlands,Centre-Forward,CF,50000.0,FC Victoria Rosport,Luxembourg,0.0,0
+2022,Eredivisie,Go Ahead Eagles,summer,out,Ragnar Oratmangoen,410854,24,Indonesia,Left Winger,LW,550000.0,FC Groningen,Netherlands,,0
+2022,Eredivisie,Go Ahead Eagles,summer,out,Federico Mattiello,200194,27,Italy,Right-Back,RB,400000.0,Without Club,,,0
+2022,Eredivisie,Go Ahead Eagles,summer,out,Job Schuurman,403800,23,Netherlands,Goalkeeper,GK,50000.0,Without Club,,,0
+2022,Eredivisie,Go Ahead Eagles,summer,out,Turan Tuzlacık,436063,21,Türkiye,Centre-Back,CB,50000.0,Without Club,,,0
+2022,Eredivisie,Go Ahead Eagles,summer,out,Nick Hengelman,153751,32,Netherlands,Goalkeeper,GK,75000.0,Retired,,,0
+2022,Eredivisie,Go Ahead Eagles,summer,out,Cuco Martina,91251,32,Curacao,Centre-Back,CB,300000.0,Without Club,,,0
+2022,Eredivisie,Go Ahead Eagles,summer,out,Frank Ross,293754,24,Scotland,Left Winger,LW,150000.0,Without Club,,,0
+2022,Eredivisie,Go Ahead Eagles,summer,out,Jacob Mulenga,25118,38,Zambia,Centre-Forward,CF,,Retired,,,0
+2022,Eredivisie,Go Ahead Eagles,summer,out,Iñigo Córdoba,251848,25,Spain,Left Winger,LW,2500000.0,Athletic Bilbao,Spain,0.0,1
+2022,Eredivisie,Go Ahead Eagles,summer,out,Marc Cardona,443222,26,Spain,Centre-Forward,CF,500000.0,CA Osasuna,Spain,0.0,1
+2022,Eredivisie,Go Ahead Eagles,summer,out,Ogechika Heil,448257,21,Germany,Attacking Midfield,AM,300000.0,Hamburger SV,Germany,0.0,1
+2022,Eredivisie,Go Ahead Eagles,summer,out,Joris Kramer,326329,25,Netherlands,Centre-Back,CB,650000.0,AZ Alkmaar,Netherlands,0.0,1
+2022,Eredivisie,Go Ahead Eagles,summer,out,Giannis-Fivos Botos,486057,21,Greece,Attacking Midfield,AM,400000.0,AEK Athens,Greece,0.0,1
+2022,Eredivisie,Go Ahead Eagles,winter,out,Tesfaldet Tekie,283185,25,Sweden,Central Midfield,CM,750000.0,Hammarby IF,Sweden,0.0,0
+2022,Eredivisie,Go Ahead Eagles,winter,out,Justin Bakker,313729,24,Netherlands,Centre-Back,CB,300000.0,Kuopion Palloseura,Finland,,0
+2022,Eredivisie,Go Ahead Eagles,winter,out,Martijn Berden,258335,25,Netherlands,Right Winger,RW,250000.0,VVV-Venlo,Netherlands,0.0,1
+2022,Eredivisie,NEC Nijmegen,summer,in,Jasper Cillessen,146227,33,Netherlands,Goalkeeper,GK,3000000.0,Valencia CF,Spain,1000000.0,0
+2022,Eredivisie,NEC Nijmegen,summer,in,Philippe Sandler,340460,25,Netherlands,Centre-Back,CB,2000000.0,Feyenoord Rotterdam,Netherlands,0.0,0
+2022,Eredivisie,NEC Nijmegen,summer,in,Terry Lartey Sanniez,241483,26,Netherlands,Right-Back,RB,50000.0,NK Celje,Slovenia,0.0,0
+2022,Eredivisie,NEC Nijmegen,summer,in,Pedro Marques,404383,24,Portugal,Centre-Forward,CF,800000.0,Sporting CP,Portugal,0.0,0
+2022,Eredivisie,NEC Nijmegen,summer,in,Oussama Tannane,235540,28,Morocco,Attacking Midfield,AM,600000.0,Göztepe,Türkiye,0.0,0
+2022,Eredivisie,NEC Nijmegen,summer,in,Calvin Verdonk,258364,25,Indonesia,Left-Back,LB,700000.0,FC Famalicão,Portugal,0.0,0
+2022,Eredivisie,NEC Nijmegen,summer,in,Joris Kramer,326329,25,Netherlands,Centre-Back,CB,650000.0,AZ Alkmaar,Netherlands,,0
+2022,Eredivisie,NEC Nijmegen,summer,in,Landry Dimata,311489,24,Belgium,Centre-Forward,CF,2200000.0,RCD Espanyol Barcelona,Spain,0.0,1
+2022,Eredivisie,NEC Nijmegen,summer,in,Andri Fannar Baldursson,464446,20,Iceland,Defensive Midfield,DM,600000.0,Bologna FC 1909,Italy,0.0,1
+2022,Eredivisie,NEC Nijmegen,winter,in,Anthony Musaba,511401,22,Netherlands,Right Winger,RW,900000.0,AS Monaco,France,0.0,1
+2022,Eredivisie,NEC Nijmegen,summer,out,Javier Vet,274640,28,Netherlands,Defensive Midfield,DM,325000.0,NAC Breda,Netherlands,0.0,0
+2022,Eredivisie,NEC Nijmegen,summer,out,Danny Vukovic,43113,37,Australia,Goalkeeper,GK,150000.0,Central Coast Mariners,Australia,0.0,0
+2022,Eredivisie,NEC Nijmegen,summer,out,Kevin Bukusu,453796,21,Germany,Centre-Back,CB,250000.0,Wolfsberger AC,Austria,0.0,0
+2022,Eredivisie,NEC Nijmegen,summer,out,Cas Odenthal,406632,21,Netherlands,Centre-Back,CB,650000.0,Como 1907,Italy,0.0,0
+2022,Eredivisie,NEC Nijmegen,summer,out,Jonathan Okita,289404,25,DR Congo,Left Winger,LW,800000.0,FC Zürich,Switzerland,0.0,0
+2022,Eredivisie,NEC Nijmegen,summer,out,Thomas Beekman,361089,22,Netherlands,Attacking Midfield,AM,200000.0,TOP Oss,Netherlands,0.0,0
+2022,Eredivisie,NEC Nijmegen,summer,out,Joep van der Sluijs,636170,20,Netherlands,Attacking Midfield,AM,125000.0,TOP Oss,Netherlands,0.0,1
+2022,Eredivisie,NEC Nijmegen,summer,out,Thibo Baeten,486043,20,Belgium,Centre-Forward,CF,250000.0,Beerschot VA,Belgium,0.0,1
+2022,Eredivisie,NEC Nijmegen,summer,out,Wilfried Bony,81808,33,Cote d'Ivoire,Centre-Forward,CF,300000.0,Without Club,,,0
+2022,Eredivisie,NEC Nijmegen,summer,out,Édgar Barreto,16120,37,Paraguay,Central Midfield,CM,,Retired,,,0
+2022,Eredivisie,NEC Nijmegen,summer,out,Rens van Eijden,61846,34,Netherlands,Centre-Back,CB,,Retired,,,0
+2022,Eredivisie,NEC Nijmegen,summer,out,Calvin Verdonk,258364,25,Indonesia,Left-Back,LB,700000.0,FC Famalicão,Portugal,0.0,1
+2022,Eredivisie,NEC Nijmegen,summer,out,Pedro Ruiz,523998,22,Spain,Centre-Forward,CF,250000.0,Olympique de Marseille B,France,0.0,1
+2022,Eredivisie,NEC Nijmegen,summer,out,Ali Akman,555719,20,Türkiye,Centre-Forward,CF,1200000.0,Eintracht Frankfurt,Germany,0.0,1
+2022,Eredivisie,NEC Nijmegen,summer,out,Rodrigo Guth,492313,21,Brazil,Centre-Back,CB,750000.0,Atalanta BC,Italy,0.0,1
+2022,Eredivisie,NEC Nijmegen,winter,out,Mikkel Duelund,320265,25,Denmark,Left Winger,LW,700000.0,Dynamo Kyiv,Ukraine,0.0,1
+2022,Eredivisie,PSV Eindhoven,summer,in,Guus Til,372267,24,Netherlands,Attacking Midfield,AM,7500000.0,Spartak Moscow,Russia,3000000.0,0
+2022,Eredivisie,PSV Eindhoven,summer,in,Luuk de Jong,72522,31,Netherlands,Centre-Forward,CF,4000000.0,Sevilla FC,Spain,3000000.0,0
+2022,Eredivisie,PSV Eindhoven,summer,in,Anwar El Ghazi,183720,27,Netherlands,Right Winger,RW,9000000.0,Aston Villa,England,2500000.0,0
+2022,Eredivisie,PSV Eindhoven,summer,in,Boy Waterman,4391,38,Netherlands,Goalkeeper,GK,100000.0,OFI Crete FC,Greece,0.0,0
+2022,Eredivisie,PSV Eindhoven,summer,in,Walter Benítez,296802,29,Argentina,Goalkeeper,GK,14000000.0,OGC Nice,France,0.0,0
+2022,Eredivisie,PSV Eindhoven,summer,in,Xavi Simons,566931,19,Netherlands,Attacking Midfield,AM,4000000.0,Paris Saint-Germain,France,0.0,0
+2022,Eredivisie,PSV Eindhoven,summer,in,Ki-Jana Hoever,485583,20,Netherlands,Right-Back,RB,6000000.0,Wolverhampton Wanderers,England,0.0,1
+2022,Eredivisie,PSV Eindhoven,summer,in,Savinho,743591,18,Brazil,Left Winger,LW,6000000.0,ESTAC Troyes,France,0.0,1
+2022,Eredivisie,PSV Eindhoven,summer,in,Jarrad Branthwaite,661053,20,England,Centre-Back,CB,3000000.0,Everton FC,England,0.0,1
+2022,Eredivisie,PSV Eindhoven,winter,in,Patrick van Aanholt,52119,32,Netherlands,Left-Back,LB,3200000.0,Galatasaray,Türkiye,1500000.0,1
+2022,Eredivisie,PSV Eindhoven,winter,in,Thorgan Hazard,102226,29,Belgium,Attacking Midfield,AM,9000000.0,Borussia Dortmund,Germany,500000.0,1
+2022,Eredivisie,PSV Eindhoven,winter,in,Fábio Silva,505653,20,Portugal,Centre-Forward,CF,13000000.0,Wolverhampton Wanderers,England,0.0,1
+2022,Eredivisie,PSV Eindhoven,summer,out,Ritsu Doan,358504,24,Japan,Right Winger,RW,8000000.0,SC Freiburg,Germany,10400000.0,0
+2022,Eredivisie,PSV Eindhoven,summer,out,Mario Götze,74842,30,Germany,Attacking Midfield,AM,10000000.0,Eintracht Frankfurt,Germany,3000000.0,0
+2022,Eredivisie,PSV Eindhoven,summer,out,Michal Sadílek,321204,23,Czech Republic,Central Midfield,CM,4000000.0,Twente Enschede FC,Netherlands,1500000.0,0
+2022,Eredivisie,PSV Eindhoven,summer,out,Eran Zahavi,85093,34,Israel,Centre-Forward,CF,1500000.0,Maccabi Tel Aviv,Israel,0.0,0
+2022,Eredivisie,PSV Eindhoven,summer,out,Vincent Müller,453807,21,Germany,Goalkeeper,GK,300000.0,MSV Duisburg,Germany,0.0,0
+2022,Eredivisie,PSV Eindhoven,summer,out,Bruma,139396,27,Portugal,Left Winger,LW,6000000.0,Fenerbahce,Türkiye,0.0,1
+2022,Eredivisie,PSV Eindhoven,summer,out,Maximiliano Romero,365758,23,Argentina,Centre-Forward,CF,3000000.0,Racing Club,Argentina,0.0,1
+2022,Eredivisie,PSV Eindhoven,summer,out,Derrick Luckassen,241457,27,Netherlands,Centre-Back,CB,1200000.0,Maccabi Tel Aviv,Israel,,0
+2022,Eredivisie,PSV Eindhoven,summer,out,Maxime Delanghe,409490,21,Belgium,Goalkeeper,GK,300000.0,KSK Lierse Kempenzonen,Belgium,,0
+2022,Eredivisie,PSV Eindhoven,summer,out,Ryan Thomas,203357,27,New Zealand,Central Midfield,CM,2500000.0,Without Club,,,0
+2022,Eredivisie,PSV Eindhoven,summer,out,Yvon Mvogo,147051,28,Switzerland,Goalkeeper,GK,2800000.0,RB Leipzig,Germany,0.0,1
+2022,Eredivisie,PSV Eindhoven,summer,out,Carlos Vinícius,525287,27,Brazil,Centre-Forward,CF,8000000.0,SL Benfica,Portugal,0.0,1
+2022,Eredivisie,PSV Eindhoven,winter,out,Cody Gakpo,434675,23,Netherlands,Left Winger,LW,60000000.0,Liverpool FC,England,42000000.0,0
+2022,Eredivisie,PSV Eindhoven,winter,out,Noni Madueke,503987,20,England,Right Winger,RW,15000000.0,Chelsea FC,England,35000000.0,0
+2022,Eredivisie,PSV Eindhoven,winter,out,Bruma,139396,28,Portugal,Left Winger,LW,3600000.0,Fenerbahce,Türkiye,4250000.0,0
+2022,Eredivisie,PSV Eindhoven,winter,out,Marco van Ginkel,147034,30,Netherlands,Central Midfield,CM,1400000.0,Vitesse Arnhem,Netherlands,,0
+2022,Eredivisie,PSV Eindhoven,winter,out,Yorbe Vertessen,409517,22,Belgium,Centre-Forward,CF,4500000.0,Union Saint-Gilloise,Belgium,0.0,1
+2022,Eredivisie,PSV Eindhoven,winter,out,Philipp Max,111275,29,Germany,Left-Back,LB,6000000.0,Eintracht Frankfurt,Germany,0.0,1
+2022,Eredivisie,PSV Eindhoven,winter,out,Richard Ledezma,575367,22,United States,Right-Back,RB,850000.0,New York City FC,United States,0.0,1
+2022,Eredivisie,PSV Eindhoven,winter,out,Fredrik Oppegård,539665,20,Norway,Left-Back,LB,600000.0,Go Ahead Eagles,Netherlands,0.0,1
+2022,Eredivisie,PSV Eindhoven,winter,out,Ki-Jana Hoever,485583,21,Netherlands,Right-Back,RB,4000000.0,Wolverhampton Wanderers,England,0.0,1
+2022,Eredivisie,RKC Waalwijk,summer,in,Joey Kesting,471691,21,Netherlands,Goalkeeper,GK,,PEC Zwolle U21,Netherlands,0.0,0
+2022,Eredivisie,RKC Waalwijk,summer,in,Zakaria Bakkali,203378,26,Belgium,Left Winger,LW,250000.0,RSC Anderlecht,Belgium,0.0,0
+2022,Eredivisie,RKC Waalwijk,summer,in,Florian Jozefzoon,124873,31,Suriname,Right Winger,RW,500000.0,Quevilly Rouen Métropole,France,0.0,0
+2022,Eredivisie,RKC Waalwijk,summer,in,Patrick Vroegh,433805,22,Netherlands,Central Midfield,CM,400000.0,Vitesse Arnhem,Netherlands,0.0,0
+2022,Eredivisie,RKC Waalwijk,summer,in,Pelle Clement,297693,26,Netherlands,Central Midfield,CM,700000.0,PEC Zwolle,Netherlands,0.0,0
+2022,Eredivisie,RKC Waalwijk,summer,in,Julian Lelieveld,337673,24,Netherlands,Right-Back,RB,500000.0,De Graafschap Doetinchem,Netherlands,0.0,0
+2022,Eredivisie,RKC Waalwijk,summer,in,Kevin Felida,433933,22,Curacao,Defensive Midfield,DM,400000.0,FC Den Bosch,Netherlands,0.0,0
+2022,Eredivisie,RKC Waalwijk,summer,in,Mika Biereth,565821,19,Denmark,Centre-Forward,CF,600000.0,Arsenal FC U21,England,0.0,1
+2022,Eredivisie,RKC Waalwijk,summer,in,Julen Lobete,625654,21,Spain,Left Winger,LW,3000000.0,Celta de Vigo,Spain,0.0,1
+2022,Eredivisie,RKC Waalwijk,winter,in,Mats Seuntjens,187809,30,Netherlands,Attacking Midfield,AM,1200000.0,Fortuna Sittard,Netherlands,0.0,0
+2022,Eredivisie,RKC Waalwijk,winter,in,Chris Lokesa,671675,18,Belgium,Left Winger,LW,400000.0,RSCA Futures,Belgium,,0
+2022,Eredivisie,RKC Waalwijk,summer,out,Ahmed Touba,325924,24,Algeria,Centre-Back,CB,1000000.0,Basaksehir FK,Türkiye,2000000.0,0
+2022,Eredivisie,RKC Waalwijk,summer,out,Melle Meulensteen,426280,22,Netherlands,Defensive Midfield,DM,800000.0,Vitesse Arnhem,Netherlands,1000000.0,0
+2022,Eredivisie,RKC Waalwijk,summer,out,Issam El Maach,430475,22,Morocco,Goalkeeper,GK,75000.0,Twente Enschede FC,Netherlands,0.0,0
+2022,Eredivisie,RKC Waalwijk,summer,out,Richard van der Venne,376675,30,Netherlands,Attacking Midfield,AM,350000.0,Melbourne City FC,Australia,0.0,0
+2022,Eredivisie,RKC Waalwijk,summer,out,Finn Stokkers,241486,26,Netherlands,Centre-Forward,CF,450000.0,Go Ahead Eagles,Netherlands,0.0,0
+2022,Eredivisie,RKC Waalwijk,summer,out,Jens Teunckens,289640,24,Belgium,Goalkeeper,GK,400000.0,KSK Lierse Kempenzonen,Belgium,0.0,0
+2022,Eredivisie,RKC Waalwijk,summer,out,Alexander Büttner,38003,33,Netherlands,Left-Back,LB,500000.0,De Graafschap Doetinchem,Netherlands,0.0,0
+2022,Eredivisie,RKC Waalwijk,summer,out,Lennerd Daneels,292805,24,Belgium,Left Winger,LW,350000.0,Roda JC Kerkrade,Netherlands,0.0,0
+2022,Eredivisie,RKC Waalwijk,summer,out,David Min,604813,23,Netherlands,Centre-Forward,CF,75000.0,SC Telstar,Netherlands,0.0,1
+2022,Eredivisie,RKC Waalwijk,summer,out,Ayman Azhil,452068,21,Morocco,Defensive Midfield,DM,400000.0,Bayer 04 Leverkusen,Germany,0.0,1
+2022,Eredivisie,RKC Waalwijk,summer,out,Achraf El Bouchataoui,361122,22,Netherlands,Defensive Midfield,DM,250000.0,Feyenoord Rotterdam,Netherlands,0.0,1
+2022,Eredivisie,RKC Waalwijk,summer,out,Jens Odgaard,345590,23,Denmark,Attacking Midfield,AM,2000000.0,US Sassuolo,Italy,0.0,1
+2022,Eredivisie,SC Cambuur Leeuwarden,summer,in,Silvester van der Water,386164,25,Netherlands,Right Winger,RW,1000000.0,Orlando City SC,United States,550000.0,0
+2022,Eredivisie,SC Cambuur Leeuwarden,summer,in,Sai van Wermeskerken,172779,28,Japan,Right-Back,RB,550000.0,PEC Zwolle,Netherlands,0.0,0
+2022,Eredivisie,SC Cambuur Leeuwarden,summer,in,Leon Bergsma,228478,25,Netherlands,Centre-Back,CB,350000.0,FC Aarau,Switzerland,,0
+2022,Eredivisie,SC Cambuur Leeuwarden,summer,in,Daniël van Kaam,377720,22,Netherlands,Defensive Midfield,DM,700000.0,FC Groningen,Netherlands,,0
+2022,Eredivisie,SC Cambuur Leeuwarden,summer,in,Remco Balk,412940,21,Netherlands,Right Winger,RW,400000.0,FC Utrecht,Netherlands,0.0,1
+2022,Eredivisie,SC Cambuur Leeuwarden,summer,in,Felix Mambimbi,507496,21,Switzerland,Left Winger,LW,4000000.0,BSC Young Boys,Switzerland,0.0,1
+2022,Eredivisie,SC Cambuur Leeuwarden,summer,in,Robbin Ruiter,81775,35,Netherlands,Goalkeeper,GK,300000.0,Without Club,,,0
+2022,Eredivisie,SC Cambuur Leeuwarden,summer,in,João Virgínia,329813,22,Portugal,Goalkeeper,GK,1000000.0,Everton FC,England,0.0,1
+2022,Eredivisie,SC Cambuur Leeuwarden,winter,in,Navarone Foor,61612,30,Netherlands,Attacking Midfield,AM,500000.0,Riga FC,Latvia,0.0,0
+2022,Eredivisie,SC Cambuur Leeuwarden,winter,in,Bjørn Johnsen,250686,31,Norway,Centre-Forward,CF,300000.0,CF Montréal,United States,0.0,0
+2022,Eredivisie,SC Cambuur Leeuwarden,winter,in,Mimoun Mahi,216815,28,Morocco,Left Winger,LW,1000000.0,FC Utrecht,Netherlands,0.0,1
+2022,Eredivisie,SC Cambuur Leeuwarden,winter,in,Ben Rienstra,64506,32,Netherlands,Central Midfield,CM,300000.0,Without Club,,,0
+2022,Eredivisie,SC Cambuur Leeuwarden,summer,out,Issa Kallon,212191,26,Sierra Leone,Right Winger,RW,800000.0,Shanghai Port,China,0.0,0
+2022,Eredivisie,SC Cambuur Leeuwarden,summer,out,Erik Schouten,79194,30,Netherlands,Centre-Back,CB,325000.0,Willem II Tilburg,Netherlands,0.0,0
+2022,Eredivisie,SC Cambuur Leeuwarden,summer,out,Sonny Stevens,160361,30,Netherlands,Goalkeeper,GK,500000.0,OFI Crete FC,Greece,0.0,0
+2022,Eredivisie,SC Cambuur Leeuwarden,summer,out,Sam Hendriks,225716,27,Netherlands,Centre-Forward,CF,300000.0,Olympiakos Nicosia,Cyprus,0.0,0
+2022,Eredivisie,SC Cambuur Leeuwarden,summer,out,Nick Doodeman,288233,25,Netherlands,Right Winger,RW,450000.0,Willem II Tilburg,Netherlands,,0
+2022,Eredivisie,SC Cambuur Leeuwarden,summer,out,Tamás Kiss,451282,21,Hungary,Left Midfield,LM,400000.0,Puskás Akadémia FC,Hungary,0.0,1
+2022,Eredivisie,SC Cambuur Leeuwarden,summer,out,Patrick Joosten,317593,26,Netherlands,Left Winger,LW,800000.0,FC Groningen,Netherlands,0.0,1
+2022,Eredivisie,SC Cambuur Leeuwarden,winter,out,Tom Boere,124863,30,Netherlands,Centre-Forward,CF,300000.0,NAC Breda,Netherlands,,0
+2022,Eredivisie,SC Cambuur Leeuwarden,winter,out,Jasper ter Heide,339331,23,Netherlands,Central Midfield,CM,200000.0,Without Club,,,0
+2022,Eredivisie,SC Heerenveen,summer,in,Simon Olsson,321158,24,Sweden,Central Midfield,CM,1500000.0,IF Elfsborg,Sweden,1300000.0,0
+2022,Eredivisie,SC Heerenveen,summer,in,Alex Timossi Andersson,454628,21,Sweden,Right-Back,RB,1500000.0,FC Bayern Munich II,Germany,550000.0,0
+2022,Eredivisie,SC Heerenveen,summer,in,Andries Noppert,276853,28,Netherlands,Goalkeeper,GK,450000.0,Go Ahead Eagles,Netherlands,0.0,0
+2022,Eredivisie,SC Heerenveen,summer,in,Mats Köhlert,288067,24,Germany,Left-Back,LB,650000.0,Willem II Tilburg,Netherlands,0.0,0
+2022,Eredivisie,SC Heerenveen,summer,in,Hussein Ali,585325,20,Iraq,Right-Back,RB,300000.0,Örebro SK,Sweden,,0
+2022,Eredivisie,SC Heerenveen,summer,in,Antoine Colassin,440953,21,Belgium,Centre-Forward,CF,450000.0,RSC Anderlecht,Belgium,0.0,1
+2022,Eredivisie,SC Heerenveen,winter,in,Osame Sahraoui,580657,21,Morocco,Left Winger,LW,2000000.0,Vålerenga Fotball Elite,Norway,2600000.0,0
+2022,Eredivisie,SC Heerenveen,winter,in,Daniel Karlsbakk,661205,19,Norway,Centre-Forward,CF,750000.0,Viking FK,Norway,2300000.0,0
+2022,Eredivisie,SC Heerenveen,winter,in,Jeffrey Bruma,88721,31,Netherlands,Centre-Back,CB,450000.0,Kasimpasa,Türkiye,0.0,0
+2022,Eredivisie,SC Heerenveen,winter,in,Pelle van Amersfoort,262613,26,Netherlands,Centre-Forward,CF,1500000.0,Without Club,,,0
+2022,Eredivisie,SC Heerenveen,winter,in,Ché Nunnely,326030,23,Suriname,Right Winger,RW,700000.0,Without Club,,,0
+2022,Eredivisie,SC Heerenveen,summer,out,Erwin Mulder,56631,33,Netherlands,Goalkeeper,GK,300000.0,Go Ahead Eagles,Netherlands,0.0,0
+2022,Eredivisie,SC Heerenveen,summer,out,Stanislav Shopov,486813,20,Bulgaria,Attacking Midfield,AM,175000.0,CSKA Sofia,Bulgaria,0.0,0
+2022,Eredivisie,SC Heerenveen,summer,out,Siem de Jong,45509,33,Netherlands,Attacking Midfield,AM,350000.0,De Graafschap Doetinchem,Netherlands,0.0,0
+2022,Eredivisie,SC Heerenveen,summer,out,Hamdi Akujobi,590773,22,Netherlands,Right-Back,RB,150000.0,Almere City FC,Netherlands,0.0,0
+2022,Eredivisie,SC Heerenveen,summer,out,Jan Ras,440531,23,Netherlands,Central Midfield,CM,75000.0,SV Urk,Netherlands,0.0,0
+2022,Eredivisie,SC Heerenveen,summer,out,Nick Bakker,210921,29,Netherlands,Centre-Back,CB,450000.0,Al-Arabi SC,Saudi Arabia,0.0,0
+2022,Eredivisie,SC Heerenveen,summer,out,Lucas Woudenberg,221766,28,Netherlands,Left-Back,LB,650000.0,Willem II Tilburg,Netherlands,0.0,0
+2022,Eredivisie,SC Heerenveen,summer,out,Arjen van der Heide,462087,20,Netherlands,Right Winger,RW,450000.0,Roda JC Kerkrade,Netherlands,0.0,0
+2022,Eredivisie,SC Heerenveen,summer,out,Ibrahim Dresevic,321135,25,Kosovo,Centre-Back,CB,800000.0,Fatih Karagümrük,Türkiye,0.0,0
+2022,Eredivisie,SC Heerenveen,summer,out,Nicolas Madsen,464599,22,Denmark,Central Midfield,CM,750000.0,FC Midtjylland,Denmark,0.0,1
+2022,Eredivisie,SC Heerenveen,summer,out,Anthony Musaba,511401,21,Netherlands,Right Winger,RW,1200000.0,AS Monaco,France,0.0,1
+2022,Eredivisie,SC Heerenveen,summer,out,Filip Stevanovic,627750,19,Serbia,Left Winger,LW,2500000.0,Manchester City U21,England,0.0,1
+2022,Eredivisie,SC Heerenveen,winter,out,Amin Sarr,748382,21,Sweden,Centre-Forward,CF,3500000.0,Olympique Lyon,France,11000000.0,0
+2022,Eredivisie,SC Heerenveen,winter,out,Joaquín Fernández,580142,23,Uruguay,Centre-Back,CB,300000.0,CA Boston River,Uruguay,0.0,0
+2022,Eredivisie,Sparta Rotterdam,summer,in,Joshua Kitolano,432694,20,Norway,Central Midfield,CM,800000.0,Odds BK,Norway,610000.0,0
+2022,Eredivisie,Sparta Rotterdam,summer,in,Tobias Lauritsen,272206,24,Norway,Centre-Forward,CF,500000.0,Odds BK,Norway,450000.0,0
+2022,Eredivisie,Sparta Rotterdam,summer,in,Charles-Andreas Brym,595028,23,Canada,Centre-Forward,CF,325000.0,FC Eindhoven,Netherlands,250000.0,0
+2022,Eredivisie,Sparta Rotterdam,summer,in,Youri Schoonderwaldt,531712,22,Netherlands,Goalkeeper,GK,50000.0,ADO Den Haag,Netherlands,0.0,0
+2022,Eredivisie,Sparta Rotterdam,summer,in,Younes Namli,227039,28,Denmark,Right Winger,RW,1200000.0,FC Krasnodar,Russia,0.0,0
+2022,Eredivisie,Sparta Rotterdam,summer,in,Jason Lokilo,325200,23,DR Congo,Left Winger,LW,400000.0,Gornik Leczna,Poland,0.0,0
+2022,Eredivisie,Sparta Rotterdam,summer,in,Jonathan de Guzmán,31067,34,Netherlands,Central Midfield,CM,300000.0,OFI Crete FC,Greece,0.0,0
+2022,Eredivisie,Sparta Rotterdam,summer,in,Mike Eerdhuijzen,482141,21,Netherlands,Centre-Back,CB,325000.0,FC Volendam,Netherlands,0.0,0
+2022,Eredivisie,Sparta Rotterdam,summer,in,Nick Olij,215094,26,Netherlands,Goalkeeper,GK,800000.0,NAC Breda,Netherlands,,0
+2022,Eredivisie,Sparta Rotterdam,summer,in,Arno Verschueren,250591,25,Belgium,Attacking Midfield,AM,600000.0,Lommel SK,Belgium,,0
+2022,Eredivisie,Sparta Rotterdam,summer,in,Omar Rekik,578292,20,Tunisia,Centre-Back,CB,1000000.0,Arsenal FC U21,England,0.0,1
+2022,Eredivisie,Sparta Rotterdam,summer,in,Shurandy Sambo,412937,20,Curacao,Right-Back,RB,500000.0,PSV Eindhoven U21,Netherlands,0.0,1
+2022,Eredivisie,Sparta Rotterdam,summer,in,Koki Saito,501743,20,Japan,Left Winger,LW,800000.0,Lommel SK,Belgium,0.0,1
+2022,Eredivisie,Sparta Rotterdam,summer,in,Delano van Crooij,159143,31,Netherlands,Goalkeeper,GK,225000.0,Without Club,,,0
+2022,Eredivisie,Sparta Rotterdam,winter,in,Pedro Alemañ,699771,20,Spain,Central Midfield,CM,100000.0,Valencia Mestalla,Spain,0.0,0
+2022,Eredivisie,Sparta Rotterdam,winter,in,Rick Meissen,596178,20,Netherlands,Centre-Back,CB,300000.0,FC Utrecht U21,Netherlands,,0
+2022,Eredivisie,Sparta Rotterdam,winter,in,Elias Hoff Melkersen,661428,20,Norway,Centre-Forward,CF,400000.0,Hibernian FC,Scotland,0.0,1
+2022,Eredivisie,Sparta Rotterdam,summer,out,Abdou Harroui,416386,24,Morocco,Central Midfield,CM,3000000.0,US Sassuolo,Italy,1000000.0,0
+2022,Eredivisie,Sparta Rotterdam,summer,out,Tom Beugelsdijk,151494,31,Netherlands,Centre-Back,CB,350000.0,Helmond Sport,Netherlands,0.0,0
+2022,Eredivisie,Sparta Rotterdam,summer,out,Lennart Thy,23553,30,Germany,Centre-Forward,CF,650000.0,PEC Zwolle,Netherlands,0.0,0
+2022,Eredivisie,Sparta Rotterdam,summer,out,Michaël Heylen,255748,28,Belgium,Centre-Back,CB,350000.0,FC Emmen,Netherlands,0.0,0
+2022,Eredivisie,Sparta Rotterdam,summer,out,Adrián Dalmau,288228,28,Spain,Centre-Forward,CF,700000.0,AD Alcorcón,Spain,0.0,0
+2022,Eredivisie,Sparta Rotterdam,summer,out,Reda Kharchouch,482826,26,Netherlands,Centre-Forward,CF,325000.0,Excelsior Rotterdam,Netherlands,,0
+2022,Eredivisie,Sparta Rotterdam,summer,out,Laurent Jans,163724,30,Luxembourg,Right-Back,RB,350000.0,SV Waldhof Mannheim,Germany,,0
+2022,Eredivisie,Sparta Rotterdam,summer,out,Eddy Martin,1189929,130,Netherlands,Right Winger,RW,,Unknown,,,0
+2022,Eredivisie,Sparta Rotterdam,summer,out,Charles-Andreas Brym,595028,24,Canada,Centre-Forward,CF,325000.0,FC Eindhoven,Netherlands,0.0,1
+2022,Eredivisie,Sparta Rotterdam,summer,out,Benjamin van Leer,123520,30,Netherlands,Goalkeeper,GK,250000.0,Retired,,,0
+2022,Eredivisie,Sparta Rotterdam,summer,out,Giannis Masouras,295780,25,Greece,Right-Back,RB,450000.0,Olympiacos Piraeus,Greece,0.0,1
+2022,Eredivisie,Sparta Rotterdam,summer,out,Riza Durmisi,135208,28,Denmark,Left-Back,LB,500000.0,SS Lazio,Italy,0.0,1
+2022,Eredivisie,Sparta Rotterdam,summer,out,Joeri de Kamps,57303,30,Netherlands,Defensive Midfield,DM,475000.0,Slovan Bratislava,Slovakia,0.0,1
+2022,Eredivisie,Sparta Rotterdam,summer,out,Arno Verschueren,250591,25,Belgium,Attacking Midfield,AM,600000.0,Lommel SK,Belgium,0.0,1
+2022,Eredivisie,Sparta Rotterdam,summer,out,Younes Namli,227039,28,Denmark,Right Winger,RW,1200000.0,FC Krasnodar,Russia,0.0,1
+2022,Eredivisie,Sparta Rotterdam,summer,out,Maduka Okoye,340353,22,Nigeria,Goalkeeper,GK,3500000.0,Watford FC,England,0.0,1
+2022,Eredivisie,Sparta Rotterdam,winter,out,Sven Mijnans,578804,22,Netherlands,Attacking Midfield,AM,1000000.0,AZ Alkmaar,Netherlands,2500000.0,0
+2022,Eredivisie,Sparta Rotterdam,winter,out,Mario Engels,93637,29,Germany,Left Winger,LW,450000.0,Tokyo Verdy,Japan,0.0,0
+2022,Eredivisie,Sparta Rotterdam,winter,out,Jason Lokilo,325200,24,DR Congo,Left Winger,LW,400000.0,Istanbulspor,Türkiye,0.0,1
+2022,Eredivisie,Sparta Rotterdam,winter,out,Omar Rekik,578292,21,Tunisia,Centre-Back,CB,800000.0,Arsenal FC U21,England,0.0,1
+2022,Eredivisie,Twente Enschede FC,summer,in,Michel Vlap,342702,25,Netherlands,Attacking Midfield,AM,2000000.0,RSC Anderlecht,Belgium,2000000.0,0
+2022,Eredivisie,Twente Enschede FC,summer,in,Michal Sadílek,321204,23,Czech Republic,Central Midfield,CM,4000000.0,PSV Eindhoven,Netherlands,1500000.0,0
+2022,Eredivisie,Twente Enschede FC,summer,in,Issam El Maach,430475,22,Morocco,Goalkeeper,GK,75000.0,RKC Waalwijk,Netherlands,0.0,0
+2022,Eredivisie,Twente Enschede FC,summer,in,Sem Steijn,593519,20,Netherlands,Attacking Midfield,AM,925000.0,ADO Den Haag,Netherlands,0.0,0
+2022,Eredivisie,Twente Enschede FC,summer,in,Przemyslaw Tyton,33210,35,Poland,Goalkeeper,GK,300000.0,Ajax Amsterdam,Netherlands,0.0,0
+2022,Eredivisie,Twente Enschede FC,summer,in,Mathias Kjølø,528652,21,Norway,Defensive Midfield,DM,650000.0,PSV Eindhoven U21,Netherlands,,0
+2022,Eredivisie,Twente Enschede FC,summer,in,Anass Salah-Eddine,485584,20,Morocco,Left-Back,LB,300000.0,Ajax Amsterdam U21,Netherlands,0.0,1
+2022,Eredivisie,Twente Enschede FC,summer,in,Christos Tzolis,451677,20,Greece,Left Winger,LW,8000000.0,Norwich City,England,0.0,1
+2022,Eredivisie,Twente Enschede FC,winter,in,Alfons Sampsted,332530,24,Iceland,Right-Back,RB,1500000.0,FK Bodø/Glimt,Norway,0.0,0
+2022,Eredivisie,Twente Enschede FC,summer,out,Jayden Oosterwolde,591361,21,Netherlands,Centre-Back,CB,1000000.0,Parma Calcio 1913,Italy,3300000.0,0
+2022,Eredivisie,Twente Enschede FC,summer,out,Ennio van der Gouw,529425,22,Netherlands,Goalkeeper,GK,50000.0,VVV-Venlo,Netherlands,0.0,0
+2022,Eredivisie,Twente Enschede FC,summer,out,Godfried Roemeratoe,393241,22,Curacao,Defensive Midfield,DM,450000.0,Hapoel Tel Aviv,Israel,0.0,0
+2022,Eredivisie,Twente Enschede FC,summer,out,Jesse Bosch,524043,22,Netherlands,Defensive Midfield,DM,600000.0,Willem II Tilburg,Netherlands,0.0,0
+2022,Eredivisie,Twente Enschede FC,summer,out,Jeffrey de Lange,315253,24,Netherlands,Goalkeeper,GK,200000.0,Go Ahead Eagles,Netherlands,,0
+2022,Eredivisie,Twente Enschede FC,summer,out,Giovanni Troupée,360514,24,Curacao,Right-Back,RB,600000.0,Without Club,,,0
+2022,Eredivisie,Twente Enschede FC,summer,out,Michel Vlap,342702,25,Netherlands,Attacking Midfield,AM,2000000.0,RSC Anderlecht,Belgium,0.0,1
+2022,Eredivisie,Twente Enschede FC,summer,out,Michal Sadílek,321204,23,Czech Republic,Central Midfield,CM,4000000.0,PSV Eindhoven,Netherlands,0.0,1
+2022,Eredivisie,Twente Enschede FC,summer,out,Dimitrios Limnios,324344,24,Greece,Right Winger,RW,2000000.0,1.FC Köln,Germany,0.0,1
+2022,Eredivisie,Twente Enschede FC,summer,out,Kik Pierie,361207,21,Netherlands,Centre-Back,CB,1500000.0,Ajax Amsterdam,Netherlands,0.0,1
+2022,Eredivisie,Twente Enschede FC,winter,out,Thijs van Leeuwen,524033,21,Netherlands,Central Midfield,CM,200000.0,TOP Oss,Netherlands,0.0,0
+2022,Eredivisie,Twente Enschede FC,winter,out,Casper Staring,596158,21,Netherlands,Defensive Midfield,DM,100000.0,NAC Breda,Netherlands,,0
+2022,Eredivisie,Twente Enschede FC,winter,out,Luca Everink,588744,21,Netherlands,Right-Back,RB,150000.0,Without Club,,,0
+2022,Eredivisie,Twente Enschede FC,winter,out,Christos Tzolis,451677,21,Greece,Left Winger,LW,7000000.0,Norwich City,England,0.0,1
+2022,Eredivisie,Vitesse Arnhem,summer,in,Melle Meulensteen,426280,22,Netherlands,Defensive Midfield,DM,800000.0,RKC Waalwijk,Netherlands,1000000.0,0
+2022,Eredivisie,Vitesse Arnhem,summer,in,Bartosz Bialek,535551,20,Poland,Centre-Forward,CF,4000000.0,VfL Wolfsburg,Germany,200000.0,1
+2022,Eredivisie,Vitesse Arnhem,summer,in,Carlens Arcus,371686,26,Haiti,Right-Back,RB,1800000.0,AJ Auxerre,France,0.0,0
+2022,Eredivisie,Vitesse Arnhem,summer,in,Kacper Kozlowski,554284,18,Poland,Attacking Midfield,AM,8000000.0,Brighton & Hove Albion,England,0.0,1
+2022,Eredivisie,Vitesse Arnhem,summer,in,Kjell Scherpen,463527,22,Netherlands,Goalkeeper,GK,2200000.0,Brighton & Hove Albion,England,0.0,1
+2022,Eredivisie,Vitesse Arnhem,summer,in,Mohamed Sankoh,572919,18,Netherlands,Centre-Forward,CF,1000000.0,VfB Stuttgart,Germany,0.0,1
+2022,Eredivisie,Vitesse Arnhem,summer,in,Ryan Flamingo,586429,19,Netherlands,Centre-Back,CB,1000000.0,US Sassuolo,Italy,0.0,1
+2022,Eredivisie,Vitesse Arnhem,summer,in,Ferro,294321,25,Portugal,Centre-Back,CB,3500000.0,SL Benfica,Portugal,0.0,1
+2022,Eredivisie,Vitesse Arnhem,summer,in,Gabriel Vidovic,604327,18,Croatia,Left Winger,LW,3000000.0,Bayern Munich,Germany,0.0,1
+2022,Eredivisie,Vitesse Arnhem,summer,in,Mitchell Dijks,187245,29,Netherlands,Left-Back,LB,2000000.0,Without Club,,,0
+2022,Eredivisie,Vitesse Arnhem,winter,in,Nicolas Isimat-Mirin,147846,31,France,Centre-Back,CB,400000.0,Sporting Kansas City,United States,0.0,0
+2022,Eredivisie,Vitesse Arnhem,winter,in,Marco van Ginkel,147034,30,Netherlands,Central Midfield,CM,1400000.0,PSV Eindhoven,Netherlands,,0
+2022,Eredivisie,Vitesse Arnhem,winter,in,Davy Pröpper,79027,31,Netherlands,Central Midfield,CM,,Career break,,,0
+2022,Eredivisie,Vitesse Arnhem,summer,out,Riechedly Bazoer,216443,25,Curacao,Centre-Back,CB,5000000.0,AZ Alkmaar,Netherlands,0.0,0
+2022,Eredivisie,Vitesse Arnhem,summer,out,Oussama Darfalou,321182,28,Algeria,Centre-Forward,CF,700000.0,MAS Fès,Morocco,0.0,0
+2022,Eredivisie,Vitesse Arnhem,summer,out,Eli Dasa,163847,29,Israel,Right-Back,RB,2000000.0,Dynamo Moscow,Russia,0.0,0
+2022,Eredivisie,Vitesse Arnhem,summer,out,Danilho Doekhi,387047,24,Netherlands,Centre-Back,CB,4000000.0,1.FC Union Berlin,Germany,0.0,0
+2022,Eredivisie,Vitesse Arnhem,summer,out,Patrick Vroegh,433805,22,Netherlands,Central Midfield,CM,400000.0,RKC Waalwijk,Netherlands,0.0,0
+2022,Eredivisie,Vitesse Arnhem,summer,out,Enrico Dueñas,494283,21,El Salvador,Attacking Midfield,AM,200000.0,FC Cartagena B,Spain,0.0,0
+2022,Eredivisie,Vitesse Arnhem,summer,out,Dominik Oroz,353559,21,Croatia,Centre-Back,CB,600000.0,SK Sturm Graz,Austria,0.0,1
+2022,Eredivisie,Vitesse Arnhem,summer,out,Daan Huisman,564448,20,Netherlands,Defensive Midfield,DM,500000.0,VVV-Venlo,Netherlands,0.0,1
+2022,Eredivisie,Vitesse Arnhem,summer,out,Eric Verstappen,187203,28,Netherlands,Goalkeeper,GK,125000.0,Without Club,,,0
+2022,Eredivisie,Vitesse Arnhem,summer,out,Adrian Grbic,167342,25,Austria,Centre-Forward,CF,2500000.0,FC Lorient,France,0.0,1
+2022,Eredivisie,Vitesse Arnhem,summer,out,Yann Gboho,463613,21,France,Left Winger,LW,2500000.0,Stade Rennais FC,France,0.0,1
+2022,Eredivisie,Vitesse Arnhem,summer,out,Jacob Rasmussen,283233,25,Denmark,Centre-Back,CB,3000000.0,ACF Fiorentina,Italy,0.0,1
+2022,Eredivisie,Vitesse Arnhem,summer,out,Loïs Openda,368887,22,Belgium,Centre-Forward,CF,7500000.0,Club Brugge KV,Belgium,0.0,1
+2022,Eredivisie,Vitesse Arnhem,winter,out,Thomas Buitink,357826,22,Netherlands,Centre-Forward,CF,1000000.0,Fortuna Sittard,Netherlands,0.0,1
+2022,Eredivisie,Vitesse Arnhem,winter,out,Nikolai Baden Frederiksen,400550,22,Denmark,Centre-Forward,CF,2500000.0,Ferencvárosi TC,Hungary,0.0,1
+2022,Eredivisie,Vitesse Arnhem,winter,out,Ferro,294321,25,Portugal,Centre-Back,CB,2500000.0,SL Benfica,Portugal,0.0,1
