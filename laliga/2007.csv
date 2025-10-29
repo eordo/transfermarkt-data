@@ -1,0 +1,518 @@
+season,league,club,window,movement,player_name,player_id,age,nationality,position,pos,market_value,dealing_club,dealing_country,fee,is_loan
+2007,Laliga,Athletic Bilbao,summer,in,David López,25462,24,Spain,Central Midfield,CM,1500000.0,CA Osasuna,Spain,5800000.0,0
+2007,Laliga,Athletic Bilbao,summer,in,Gorka Iraizoz,7874,26,Spain,Goalkeeper,GK,1400000.0,RCD Espanyol Barcelona,Spain,4000000.0,0
+2007,Laliga,Athletic Bilbao,summer,in,Aitor Ocio,7615,30,Spain,Centre-Back,CB,1100000.0,Sevilla FC,Spain,3500000.0,0
+2007,Laliga,Athletic Bilbao,summer,in,Iñaki Muñoz,7736,28,Spain,Defensive Midfield,DM,1000000.0,CA Osasuna,Spain,0.0,0
+2007,Laliga,Athletic Bilbao,summer,in,David Cuéllar,29090,27,Spain,Right Midfield,RM,600000.0,Gimnàstic de Tarragona,Spain,0.0,0
+2007,Laliga,Athletic Bilbao,summer,in,Koikili,57024,26,Spain,Left-Back,LB,,CA River Ebro,Spain,0.0,0
+2007,Laliga,Athletic Bilbao,summer,in,Asier del Horno,7617,26,Spain,Left-Back,LB,9000000.0,Valencia CF,Spain,0.0,1
+2007,Laliga,Athletic Bilbao,winter,in,Armando Ribeiro,29139,36,Spain,Goalkeeper,GK,500000.0,Cádiz CF,Spain,0.0,1
+2007,Laliga,Athletic Bilbao,summer,out,Josu Sarriegi,29077,28,Spain,Centre-Back,CB,700000.0,Panathinaikos FC,Greece,1000000.0,0
+2007,Laliga,Athletic Bilbao,summer,out,Javier Iturriaga,27237,23,Spain,Defensive Midfield,DM,350000.0,UD Salamanca,Spain,0.0,0
+2007,Laliga,Athletic Bilbao,summer,out,Javi González,7632,33,Spain,Right Midfield,RM,900000.0,Hércules CF,Spain,0.0,0
+2007,Laliga,Athletic Bilbao,summer,out,Ismael Urzaiz,7641,35,Spain,Centre-Forward,CF,,Ajax Amsterdam,Netherlands,0.0,0
+2007,Laliga,Athletic Bilbao,summer,out,Francisco Tarantino,35572,23,Spain,Centre-Back,CB,175000.0,Deportivo Alavés,Spain,0.0,0
+2007,Laliga,Athletic Bilbao,summer,out,Unai Alba,48289,29,Spain,Goalkeeper,GK,100000.0,Hércules CF,Spain,0.0,0
+2007,Laliga,Athletic Bilbao,summer,out,Mikel Dañobeitia,35566,21,Spain,Left Winger,LW,800000.0,UD Salamanca,Spain,0.0,0
+2007,Laliga,Athletic Bilbao,summer,out,Roberto Pampín,62616,23,Spain,Goalkeeper,GK,,Sestao River,Spain,0.0,0
+2007,Laliga,Athletic Bilbao,summer,out,Iñaki Lafuente,7614,31,Spain,Goalkeeper,GK,1500000.0,RCD Espanyol Barcelona,Spain,0.0,1
+2007,Laliga,Athletic Bilbao,winter,out,Ion Vélez,54789,22,Spain,Centre-Forward,CF,800000.0,Hércules CF,Spain,0.0,1
+2007,Laliga,Atlético de Madrid,summer,in,Diego Forlán,3408,28,Uruguay,Centre-Forward,CF,9000000.0,Villarreal CF,Spain,21000000.0,0
+2007,Laliga,Atlético de Madrid,summer,in,Simão,8019,27,Portugal,Left Winger,LW,15000000.0,SL Benfica,Portugal,20000000.0,0
+2007,Laliga,Atlético de Madrid,summer,in,Raúl García,34601,20,Spain,Attacking Midfield,AM,12000000.0,CA Osasuna,Spain,13000000.0,0
+2007,Laliga,Atlético de Madrid,summer,in,José Antonio Reyes,7717,23,Spain,Right Winger,RW,16700000.0,Arsenal FC,England,12000000.0,0
+2007,Laliga,Atlético de Madrid,summer,in,Cléber Santana,50145,26,Brazil,Central Midfield,CM,,Santos FC,Brazil,8000000.0,0
+2007,Laliga,Atlético de Madrid,summer,in,Luis García,7920,29,Spain,Right Winger,RW,9400000.0,Liverpool FC,England,4000000.0,0
+2007,Laliga,Atlético de Madrid,summer,in,Thiago Motta,7602,24,Italy,Defensive Midfield,DM,7500000.0,FC Barcelona,Spain,2000000.0,0
+2007,Laliga,Atlético de Madrid,summer,in,Christian Abbiati,3507,29,Italy,Goalkeeper,GK,4500000.0,AC Milan,Italy,500000.0,1
+2007,Laliga,Atlético de Madrid,summer,out,Fernando Torres,7767,23,Spain,Centre-Forward,CF,30000000.0,Liverpool FC,England,38000000.0,0
+2007,Laliga,Atlético de Madrid,summer,out,Martin Petrov,670,28,Bulgaria,Left Winger,LW,10000000.0,Manchester City,England,7000000.0,0
+2007,Laliga,Atlético de Madrid,summer,out,Peter Luccin,7555,28,France,Defensive Midfield,DM,6500000.0,Real Zaragoza,Spain,2800000.0,0
+2007,Laliga,Atlético de Madrid,summer,out,Luciano Galletti,7978,27,Argentina,Right Winger,RW,5000000.0,Olympiacos Piraeus,Greece,2100000.0,0
+2007,Laliga,Atlético de Madrid,summer,out,Javier Pinola,7358,24,Argentina,Left-Back,LB,6000000.0,1.FC Nuremberg,Germany,1200000.0,0
+2007,Laliga,Atlético de Madrid,summer,out,José Ignacio Zahinos,35523,29,Spain,Defensive Midfield,DM,2500000.0,Recreativo Huelva,Spain,0.0,0
+2007,Laliga,Atlético de Madrid,summer,out,Braulio Nóbrega,27488,21,Spain,Centre-Forward,CF,200000.0,Getafe CF,Spain,0.0,0
+2007,Laliga,Atlético de Madrid,summer,out,Costinha,9826,32,Portugal,Defensive Midfield,DM,9000000.0,Atalanta BC,Italy,0.0,0
+2007,Laliga,Atlético de Madrid,summer,out,Toché,22586,24,Spain,Centre-Forward,CF,600000.0,CD Numancia,Spain,0.0,0
+2007,Laliga,Atlético de Madrid,summer,out,Gabi,22969,23,Spain,Central Midfield,CM,2500000.0,Real Zaragoza,Spain,0.0,0
+2007,Laliga,Atlético de Madrid,summer,out,Diego Costa,44779,18,Spain,Centre-Forward,CF,2500000.0,Celta de Vigo,Spain,0.0,1
+2007,Laliga,Atlético de Madrid,summer,out,Roberto,37403,21,Spain,Goalkeeper,GK,100000.0,Gimnàstic de Tarragona,Spain,0.0,1
+2007,Laliga,Atlético de Madrid,summer,out,Víctor Bravo,47689,23,Spain,Attacking Midfield,AM,500000.0,Universidad de Las Palmas,Spain,,0
+2007,Laliga,Atlético de Madrid,summer,out,Mario Suárez,37337,20,Spain,Defensive Midfield,DM,300000.0,Celta de Vigo,Spain,0.0,1
+2007,Laliga,Atlético de Madrid,summer,out,Iván Cuéllar,27493,23,Spain,Goalkeeper,GK,500000.0,SD Eibar,Spain,0.0,1
+2007,Laliga,Atlético de Madrid,winter,out,Maniche,9822,30,Portugal,Central Midfield,CM,10000000.0,Inter Milan,Italy,1000000.0,1
+2007,Laliga,CA Osasuna,summer,in,Dady,34823,25,Cape Verde,Centre-Forward,CF,1000000.0,CF Os Belenenses,Portugal,3500000.0,0
+2007,Laliga,CA Osasuna,summer,in,Javi García,36350,20,Spain,Defensive Midfield,DM,2000000.0,Real Madrid Castilla,Spain,2500000.0,0
+2007,Laliga,CA Osasuna,summer,in,Jaroslav Plasil,8885,25,Czech Republic,Central Midfield,CM,3000000.0,AS Monaco,France,2200000.0,0
+2007,Laliga,CA Osasuna,summer,in,Walter Pandiani,7691,31,Uruguay,Centre-Forward,CF,7500000.0,RCD Espanyol Barcelona,Spain,1850000.0,0
+2007,Laliga,CA Osasuna,summer,in,Javier Portillo,7532,25,Spain,Centre-Forward,CF,3500000.0,Gimnàstic de Tarragona,Spain,750000.0,0
+2007,Laliga,CA Osasuna,summer,in,Xavier Margairaz,9554,23,Switzerland,Attacking Midfield,AM,2000000.0,FC Zürich,Switzerland,0.0,0
+2007,Laliga,CA Osasuna,summer,in,Andrés Fernández,57522,20,Spain,Goalkeeper,GK,,RCD Mallorca B,Spain,0.0,0
+2007,Laliga,CA Osasuna,summer,in,Nicolás Medina,30927,20,Chile,Centre-Forward,CF,,Club Universidad de Chile,Chile,0.0,0
+2007,Laliga,CA Osasuna,summer,in,Hugo Viana,3480,24,Portugal,Central Midfield,CM,6000000.0,Valencia CF,Spain,0.0,1
+2007,Laliga,CA Osasuna,summer,in,Carlos Vela,35773,18,Mexico,Right Winger,RW,3000000.0,Arsenal FC,England,0.0,1
+2007,Laliga,CA Osasuna,winter,in,Martín Astudillo,29082,30,Argentina,Central Midfield,CM,1500000.0,Deportivo Alavés,Spain,0.0,1
+2007,Laliga,CA Osasuna,summer,out,Raúl García,34601,20,Spain,Attacking Midfield,AM,12000000.0,Atlético de Madrid,Spain,13000000.0,0
+2007,Laliga,CA Osasuna,summer,out,David López,25462,24,Spain,Central Midfield,CM,1500000.0,Athletic Bilbao,Spain,5800000.0,0
+2007,Laliga,CA Osasuna,summer,out,Carlos Cuéllar,16576,25,Spain,Centre-Back,CB,750000.0,Rangers FC,Scotland,3000000.0,0
+2007,Laliga,CA Osasuna,summer,out,Valdo,7528,26,Cape Verde,Right Winger,RW,5000000.0,RCD Espanyol Barcelona,Spain,1500000.0,0
+2007,Laliga,CA Osasuna,summer,out,Bernardo Romeo,1431,29,Argentina,Centre-Forward,CF,1500000.0,CA San Lorenzo de Almagro,Argentina,600000.0,0
+2007,Laliga,CA Osasuna,summer,out,Pierre Webó,16589,25,Cameroon,Centre-Forward,CF,3000000.0,RCD Mallorca,Spain,0.0,0
+2007,Laliga,CA Osasuna,summer,out,Iñaki Muñoz,7736,28,Spain,Defensive Midfield,DM,1000000.0,Athletic Bilbao,Spain,0.0,0
+2007,Laliga,CA Osasuna,summer,out,Iñaki Astiz,52161,23,Spain,Centre-Back,CB,,Legia Warszawa,Poland,0.0,0
+2007,Laliga,CA Osasuna,summer,out,Nicolás Medina,30927,20,Chile,Centre-Forward,CF,500000.0,SD Eibar,Spain,0.0,1
+2007,Laliga,CA Osasuna,summer,out,Fran Moreno,35547,23,Spain,Attacking Midfield,AM,350000.0,Albacete Balompié,Spain,0.0,1
+2007,Laliga,CA Osasuna,summer,out,Savo Milosevic,7896,33,Serbia,Centre-Forward,CF,3000000.0,Without Club,,,0
+2007,Laliga,CA Osasuna,summer,out,Roberto Soldado,34870,22,Spain,Centre-Forward,CF,7500000.0,Real Madrid,Spain,0.0,1
+2007,Laliga,CA Osasuna,summer,out,Juanlu,22568,27,Spain,Left Midfield,LM,350000.0,Real Betis Balompié,Spain,0.0,1
+2007,Laliga,CA Osasuna,winter,out,Jon Erice,49130,21,Spain,Central Midfield,CM,600000.0,Málaga CF,Spain,0.0,1
+2007,Laliga,Deportivo de La Coruña,summer,in,Andrés Guardado,20506,20,Mexico,Central Midfield,CM,600000.0,Atlas Guadalajara,Mexico,7000000.0,0
+2007,Laliga,Deportivo de La Coruña,summer,in,Aythami Artiles,44735,21,Spain,Centre-Back,CB,,UD Las Palmas,Spain,950000.0,0
+2007,Laliga,Deportivo de La Coruña,summer,in,Ángel Lafita,35562,22,Spain,Left Winger,LW,1500000.0,Real Zaragoza,Spain,0.0,1
+2007,Laliga,Deportivo de La Coruña,winter,in,Christian Wilhelmsson,9611,28,Sweden,Right Winger,RW,5250000.0,FC Nantes,France,0.0,1
+2007,Laliga,Deportivo de La Coruña,summer,out,Javier Arizmendi,25411,23,Spain,Centre-Forward,CF,6000000.0,Valencia CF,Spain,12000000.0,0
+2007,Laliga,Deportivo de La Coruña,summer,out,Jorge Andrade,7491,29,Portugal,Centre-Back,CB,12500000.0,Juventus FC,Italy,10000000.0,0
+2007,Laliga,Deportivo de La Coruña,summer,out,Joan Capdevila,7486,29,Spain,Left-Back,LB,7500000.0,Villarreal CF,Spain,0.0,0
+2007,Laliga,Deportivo de La Coruña,summer,out,Aldo Duscher,3954,28,Argentina,Defensive Midfield,DM,7500000.0,Racing Santander,Spain,0.0,0
+2007,Laliga,Deportivo de La Coruña,summer,out,Juanma Delgado,16148,30,Spain,Centre-Back,CB,1800000.0,CD Tenerife,Spain,0.0,0
+2007,Laliga,Deportivo de La Coruña,summer,out,Ángel Guirado,72278,22,Philippines,Centre-Forward,CF,,Levante UD B,Spain,0.0,0
+2007,Laliga,Deportivo de La Coruña,summer,out,Momo,25319,24,Spain,Left Winger,LW,500000.0,Xerez CD,Spain,0.0,1
+2007,Laliga,Deportivo de La Coruña,summer,out,Iago Iglesias,35283,23,Spain,Attacking Midfield,AM,300000.0,Elche CF,Spain,0.0,1
+2007,Laliga,Deportivo de La Coruña,summer,out,Rodri,8163,22,Spain,Centre-Back,CB,1500000.0,Polideportivo Ejido,Spain,0.0,1
+2007,Laliga,Deportivo de La Coruña,summer,out,Pablo Álvarez,44000,27,Spain,Right Winger,RW,,Racing Santander,Spain,0.0,1
+2007,Laliga,Deportivo de La Coruña,summer,out,Carlos Alcántara,35551,22,Spain,Left-Back,LB,150000.0,FC Cartagena,Spain,0.0,1
+2007,Laliga,Deportivo de La Coruña,summer,out,Fabián Estoyanoff,35511,24,Uruguay,Right Midfield,RM,1750000.0,Valencia CF,Spain,0.0,1
+2007,Laliga,Deportivo de La Coruña,winter,out,Aythami Artiles,44735,21,Spain,Centre-Back,CB,1000000.0,Xerez CD,Spain,0.0,1
+2007,Laliga,Deportivo de La Coruña,winter,out,Adrián López,45383,20,Spain,Centre-Forward,CF,800000.0,Deportivo Alavés,Spain,0.0,1
+2007,Laliga,FC Barcelona,summer,in,Thierry Henry,3207,29,France,Centre-Forward,CF,45000000.0,Arsenal FC,England,24000000.0,0
+2007,Laliga,FC Barcelona,summer,in,Gabriel Milito,7968,26,Argentina,Centre-Back,CB,20000000.0,Real Zaragoza,Spain,20000000.0,0
+2007,Laliga,FC Barcelona,summer,in,Éric Abidal,5283,27,France,Left-Back,LB,13500000.0,Olympique Lyon,France,15000000.0,0
+2007,Laliga,FC Barcelona,summer,in,Yaya Touré,13091,24,Cote d'Ivoire,Central Midfield,CM,11000000.0,AS Monaco,France,9000000.0,0
+2007,Laliga,FC Barcelona,winter,in,José Manuel Pinto,7537,32,Spain,Goalkeeper,GK,2000000.0,Celta de Vigo,Spain,500000.0,1
+2007,Laliga,FC Barcelona,summer,out,Juliano Belletti,7829,31,Brazil,Right-Back,RB,4500000.0,Chelsea FC,England,5500000.0,0
+2007,Laliga,FC Barcelona,summer,out,Ludovic Giuly,5299,30,France,Right Winger,RW,7000000.0,AS Roma,Italy,4500000.0,0
+2007,Laliga,FC Barcelona,summer,out,Maxi López,26263,23,Argentina,Centre-Forward,CF,4000000.0,FC Moscow,Russia,2000000.0,0
+2007,Laliga,FC Barcelona,summer,out,Thiago Motta,7602,24,Italy,Defensive Midfield,DM,7500000.0,Atlético de Madrid,Spain,2000000.0,0
+2007,Laliga,FC Barcelona,summer,out,Giovanni van Bronckhorst,3191,32,Netherlands,Left-Back,LB,5200000.0,Feyenoord Rotterdam,Netherlands,0.0,0
+2007,Laliga,FC Barcelona,summer,out,Javier Saviola,7611,25,Argentina,Second Striker,SS,8650000.0,Real Madrid,Spain,0.0,0
+2007,Laliga,FC Barcelona,summer,out,Edmílson,5343,31,Brazil,Defensive Midfield,DM,3000000.0,Villarreal CF,Spain,0.0,0
+2007,Laliga,FC Barcelona,winter,out,Marc Crosas,54164,19,Spain,Defensive Midfield,DM,500000.0,Olympique Lyon,France,0.0,1
+2007,Laliga,Getafe CF,summer,in,Óscar Ustari,3755,21,Argentina,Goalkeeper,GK,6000000.0,CA Independiente,Argentina,6000000.0,0
+2007,Laliga,Getafe CF,summer,in,Cata Díaz,39087,27,Argentina,Centre-Back,CB,,CA Boca Juniors,Argentina,4000000.0,0
+2007,Laliga,Getafe CF,summer,in,Kepa Blanco,34494,23,Spain,Centre-Forward,CF,4500000.0,Sevilla FC,Spain,3500000.0,0
+2007,Laliga,Getafe CF,summer,in,Rubén de la Red,35522,22,Spain,Central Midfield,CM,3500000.0,Real Madrid,Spain,3000000.0,0
+2007,Laliga,Getafe CF,summer,in,Franck Signorino,12101,25,France,Left-Back,LB,3000000.0,FC Nantes,France,1500000.0,0
+2007,Laliga,Getafe CF,summer,in,Mario Abrante,7803,25,Spain,Centre-Back,CB,3000000.0,Recreativo Huelva,Spain,0.0,0
+2007,Laliga,Getafe CF,summer,in,Ikechukwu Uche,44027,23,Nigeria,Centre-Forward,CF,3500000.0,Recreativo Huelva,Spain,0.0,0
+2007,Laliga,Getafe CF,summer,in,Miguel Pallardó,36756,20,Spain,Central Midfield,CM,600000.0,Valencia CF,Spain,0.0,0
+2007,Laliga,Getafe CF,summer,in,Pablo Hernández,46220,22,Spain,Right Winger,RW,,Valencia CF,Spain,0.0,0
+2007,Laliga,Getafe CF,summer,in,Braulio Nóbrega,27488,21,Spain,Centre-Forward,CF,200000.0,Atlético de Madrid,Spain,0.0,0
+2007,Laliga,Getafe CF,summer,in,Esteban Granero,44065,20,Spain,Central Midfield,CM,100000.0,Real Madrid,Spain,0.0,1
+2007,Laliga,Getafe CF,winter,in,Jaime Gavilán,15461,22,Spain,Left Winger,LW,4000000.0,Valencia CF,Spain,0.0,1
+2007,Laliga,Getafe CF,summer,out,Alexis Ruano,7781,21,Spain,Centre-Back,CB,10000000.0,Valencia CF,Spain,6000000.0,0
+2007,Laliga,Getafe CF,summer,out,Dani Güiza,8186,26,Spain,Centre-Forward,CF,2000000.0,RCD Mallorca,Spain,5000000.0,0
+2007,Laliga,Getafe CF,summer,out,Javier Paredes,35512,24,Spain,Left-Back,LB,1400000.0,Real Zaragoza,Spain,1500000.0,0
+2007,Laliga,Getafe CF,summer,out,Rubén Pulido,22972,28,Spain,Centre-Back,CB,800000.0,UD Almería,Spain,0.0,0
+2007,Laliga,Getafe CF,summer,out,Ángel Vivar Dorado,23114,33,Spain,Attacking Midfield,AM,500000.0,Real Valladolid CF,Spain,0.0,0
+2007,Laliga,Getafe CF,summer,out,Jajá,27245,21,Brazil,Centre-Forward,CF,2000000.0,KVC Westerlo,Belgium,0.0,1
+2007,Laliga,Getafe CF,summer,out,Maris Verpakovskis,15404,27,Latvia,Centre-Forward,CF,3000000.0,Dynamo Kyiv,Ukraine,0.0,1
+2007,Laliga,Getafe CF,winter,out,Jajá,27245,21,Brazil,Centre-Forward,CF,2000000.0,Metalist Kharkiv,Ukraine,500000.0,0
+2007,Laliga,Getafe CF,winter,out,Alberto Aguilar,29060,23,Spain,Centre-Back,CB,1000000.0,Granada 74 CF,Spain,0.0,1
+2007,Laliga,Getafe CF,winter,out,Luis García,26149,28,Spain,Goalkeeper,GK,800000.0,Celta de Vigo,Spain,0.0,1
+2007,Laliga,Getafe CF,winter,out,Nacho,23287,27,Spain,Left-Back,LB,1500000.0,Real Sociedad,Spain,0.0,1
+2007,Laliga,Levante UD,summer,in,Pedro León,51587,20,Spain,Right Winger,RW,,Real Murcia CF,Spain,2200000.0,0
+2007,Laliga,Levante UD,summer,in,Sávio,7976,33,Brazil,Left Winger,LW,2000000.0,Real Sociedad,Spain,1000000.0,0
+2007,Laliga,Levante UD,summer,in,Christian Riganò,21153,33,Italy,Centre-Forward,CF,4000000.0,FC Messina Peloro,Italy,800000.0,0
+2007,Laliga,Levante UD,summer,in,Javi Fuego,56134,23,Spain,Defensive Midfield,DM,,Sporting Gijón,Spain,550000.0,0
+2007,Laliga,Levante UD,summer,in,Miquel Robusté,51477,22,Spain,Centre-Back,CB,,RCD Espanyol B,Spain,400000.0,0
+2007,Laliga,Levante UD,summer,in,Álex Geijo,15981,25,Spain,Centre-Forward,CF,500000.0,Xerez CD,Spain,350000.0,0
+2007,Laliga,Levante UD,summer,in,Shota Arveladze,9487,34,Georgia,Centre-Forward,CF,4200000.0,AZ Alkmaar,Netherlands,0.0,0
+2007,Laliga,Levante UD,summer,in,Vladan Kujovic,4605,28,Serbia,Goalkeeper,GK,800000.0,Roda JC Kerkrade,Netherlands,0.0,0
+2007,Laliga,Levante UD,summer,in,David Castedo,7695,33,Spain,Left-Back,LB,800000.0,Sevilla FC,Spain,0.0,0
+2007,Laliga,Levante UD,summer,in,Emilio Viqueira,44030,32,Spain,Central Midfield,CM,2200000.0,Recreativo Huelva,Spain,0.0,0
+2007,Laliga,Levante UD,summer,in,Bruno Cirillo,6062,30,Italy,Centre-Back,CB,2000000.0,AEK Athens,Greece,0.0,0
+2007,Laliga,Levante UD,summer,in,Miguel Ángel,7786,28,Spain,Defensive Midfield,DM,2000000.0,Real Betis Balompié,Spain,0.0,1
+2007,Laliga,Levante UD,summer,in,Marco Storari,19136,30,Italy,Goalkeeper,GK,1200000.0,AC Milan,Italy,0.0,1
+2007,Laliga,Levante UD,summer,out,Javi Rodríguez,51411,29,Spain,Centre-Forward,CF,,Racing Ferrol,Spain,0.0,0
+2007,Laliga,Levante UD,summer,out,Ian Harte,3634,29,Ireland,Left-Back,LB,3500000.0,Sunderland AFC,England,0.0,0
+2007,Laliga,Levante UD,summer,out,Gustavo Reggi,23302,34,Argentina,Centre-Forward,CF,250000.0,CD Castellón,Spain,0.0,0
+2007,Laliga,Levante UD,summer,out,Alexis,23330,33,Spain,Left-Back,LB,600000.0,Real Valladolid CF,Spain,0.0,0
+2007,Laliga,Levante UD,summer,out,Albert Meyong,17370,26,Cameroon,Centre-Forward,CF,4000000.0,Albacete Balompié,Spain,0.0,1
+2007,Laliga,Levante UD,summer,out,Carmelo,44038,24,Spain,Attacking Midfield,AM,250000.0,CD Numancia,Spain,0.0,1
+2007,Laliga,Levante UD,summer,out,Diego Camacho,23181,30,Spain,Defensive Midfield,DM,700000.0,Real Valladolid CF,Spain,0.0,1
+2007,Laliga,Levante UD,summer,out,Sylvain N'Diaye,5649,31,Senegal,Defensive Midfield,DM,1500000.0,CD Tenerife,Spain,0.0,1
+2007,Laliga,Levante UD,summer,out,Nino,29178,27,Spain,Centre-Forward,CF,300000.0,CD Tenerife,Spain,0.0,1
+2007,Laliga,Levante UD,summer,out,Juan Carlos Ceballos,51498,24,Spain,Right-Back,RB,,Racing Ferrol,Spain,0.0,1
+2007,Laliga,Levante UD,summer,out,Frédéric Déhu,5552,34,France,Centre-Back,CB,2000000.0,Retired,,,0
+2007,Laliga,Levante UD,summer,out,Zé Maria,6081,33,Brazil,Right-Back,RB,1000000.0,Without Club,,,0
+2007,Laliga,Levante UD,summer,out,José Francisco Molina,7485,36,Spain,Goalkeeper,GK,3850000.0,Retired,,,0
+2007,Laliga,Levante UD,summer,out,Salva Ballesta,3693,32,Spain,Centre-Forward,CF,6000000.0,Málaga CF,Spain,0.0,1
+2007,Laliga,Levante UD,summer,out,Olivier Kapo,5438,26,France,Attacking Midfield,AM,4000000.0,Juventus FC,Italy,0.0,1
+2007,Laliga,Levante UD,winter,out,Nino,29178,27,Spain,Centre-Forward,CF,1500000.0,CD Tenerife,Spain,1000000.0,0
+2007,Laliga,Levante UD,winter,out,Sávio,7976,33,Brazil,Left Winger,LW,2000000.0,Desportiva Ferroviária,Brazil,0.0,0
+2007,Laliga,Levante UD,winter,out,Bruno Cirillo,6062,30,Italy,Centre-Back,CB,2000000.0,Reggina Calcio,Italy,0.0,1
+2007,Laliga,Levante UD,winter,out,Emilio Viqueira,44030,33,Spain,Central Midfield,CM,2500000.0,Xerez CD,Spain,0.0,1
+2007,Laliga,Levante UD,winter,out,Christian Riganò,21153,33,Italy,Centre-Forward,CF,4000000.0,AC Siena,Italy,0.0,1
+2007,Laliga,Levante UD,winter,out,Albert Meyong,17370,27,Cameroon,Centre-Forward,CF,2000000.0,CF Os Belenenses,Portugal,0.0,1
+2007,Laliga,Levante UD,winter,out,Laurent Robert,3316,32,France,Left Winger,LW,2500000.0,Without Club,,,0
+2007,Laliga,Levante UD,winter,out,Marco Storari,19136,30,Italy,Goalkeeper,GK,1000000.0,AC Milan,Italy,0.0,1
+2007,Laliga,RCD Espanyol Barcelona,summer,in,Milan Smiljanic,34412,20,Serbia,Defensive Midfield,DM,1350000.0,FK Partizan Belgrade,Serbia,3000000.0,0
+2007,Laliga,RCD Espanyol Barcelona,summer,in,Valdo,7528,26,Cape Verde,Right Winger,RW,5000000.0,CA Osasuna,Spain,1500000.0,0
+2007,Laliga,RCD Espanyol Barcelona,summer,in,Clemente Rodríguez,20681,25,Argentina,Left-Back,LB,2800000.0,Spartak Moscow,Russia,600000.0,1
+2007,Laliga,RCD Espanyol Barcelona,summer,in,Iñaki Lafuente,7614,31,Spain,Goalkeeper,GK,1500000.0,Athletic Bilbao,Spain,0.0,1
+2007,Laliga,RCD Espanyol Barcelona,winter,in,Javier Ruiz,8177,27,Spain,Goalkeeper,GK,,AD Adra Milenaria,Spain,,0
+2007,Laliga,RCD Espanyol Barcelona,winter,in,Ewerthon,1396,26,Brazil,Centre-Forward,CF,5000000.0,Real Zaragoza,Spain,0.0,1
+2007,Laliga,RCD Espanyol Barcelona,summer,out,Gorka Iraizoz,7874,26,Spain,Goalkeeper,GK,1400000.0,Athletic Bilbao,Spain,4000000.0,0
+2007,Laliga,RCD Espanyol Barcelona,summer,out,Walter Pandiani,7691,31,Uruguay,Centre-Forward,CF,7500000.0,CA Osasuna,Spain,1850000.0,0
+2007,Laliga,RCD Espanyol Barcelona,summer,out,Ito,7662,32,Spain,Central Midfield,CM,1000000.0,Córdoba CF,Spain,0.0,0
+2007,Laliga,RCD Espanyol Barcelona,summer,out,Armando Sá,13218,31,Mozambique,Right-Back,RB,1000000.0,Foolad FC,Iran,0.0,0
+2007,Laliga,RCD Espanyol Barcelona,summer,out,Eduardo Costa,5374,24,Brazil,Defensive Midfield,DM,3000000.0,Grêmio Foot-Ball Porto Alegrense,Brazil,0.0,1
+2007,Laliga,RCD Espanyol Barcelona,summer,out,Julián López de Lerma,45651,20,Spain,Attacking Midfield,AM,,Sevilla Atlético,Spain,0.0,1
+2007,Laliga,RCD Espanyol Barcelona,summer,out,Sergio Sánchez,38270,21,Spain,Centre-Back,CB,500000.0,Racing Santander,Spain,0.0,1
+2007,Laliga,RCD Espanyol Barcelona,summer,out,Juan Velasco,7546,30,Spain,Centre-Back,CB,3500000.0,Without Club,,,0
+2007,Laliga,RCD Espanyol Barcelona,summer,out,Armen Azarian,292027,20,,Attacking Midfield,AM,,Without Club,,,0
+2007,Laliga,RCD Espanyol Barcelona,summer,out,César Peixoto,9830,27,Portugal,Left Winger,LW,2500000.0,FC Porto,Portugal,0.0,1
+2007,Laliga,RCD Espanyol Barcelona,winter,out,Jônatas,44397,25,Brazil,Central Midfield,CM,1000000.0,CR Flamengo,Brazil,1000000.0,1
+2007,Laliga,RCD Mallorca,summer,in,Dani Güiza,8186,26,Spain,Centre-Forward,CF,2000000.0,Getafe CF,Spain,5000000.0,0
+2007,Laliga,RCD Mallorca,summer,in,Chory Castro,28171,22,Uruguay,Left Winger,LW,2500000.0,Club Nacional,Uruguay,2500000.0,0
+2007,Laliga,RCD Mallorca,summer,in,Germán Lux,19979,24,Argentina,Goalkeeper,GK,1600000.0,CA River Plate,Argentina,0.0,0
+2007,Laliga,RCD Mallorca,summer,in,Francisco Molinero,27487,21,Spain,Right-Back,RB,500000.0,Málaga CF,Spain,0.0,0
+2007,Laliga,RCD Mallorca,summer,in,Pierre Webó,16589,25,Cameroon,Centre-Forward,CF,3000000.0,CA Osasuna,Spain,0.0,0
+2007,Laliga,RCD Mallorca,summer,in,Borja Valero,40372,22,Spain,Central Midfield,CM,300000.0,Real Madrid Castilla,Spain,0.0,0
+2007,Laliga,RCD Mallorca,summer,in,David Navarro,7568,27,Spain,Centre-Back,CB,1800000.0,Valencia CF,Spain,0.0,1
+2007,Laliga,RCD Mallorca,winter,in,Lionel Scaloni,7499,29,Argentina,Right-Back,RB,3800000.0,SS Lazio,Italy,0.0,1
+2007,Laliga,RCD Mallorca,summer,out,Boško Janković,19708,23,Serbia,Right Winger,RW,5000000.0,US Palermo,Italy,8000000.0,0
+2007,Laliga,RCD Mallorca,summer,out,Diego Tristán,7504,31,Spain,Centre-Forward,CF,7000000.0,AS Livorno,Italy,470000.0,0
+2007,Laliga,RCD Mallorca,summer,out,Paíto,16118,24,Mozambique,Left-Back,LB,1500000.0,FC Sion,Switzerland,0.0,0
+2007,Laliga,RCD Mallorca,summer,out,Toni Prats,7644,35,Spain,Goalkeeper,GK,1250000.0,Hércules CF,Spain,0.0,0
+2007,Laliga,RCD Mallorca,summer,out,Jordi López,15463,26,Spain,Central Midfield,CM,500000.0,Racing Santander,Spain,0.0,1
+2007,Laliga,RCD Mallorca,summer,out,Andrija Delibasic,10289,26,Montenegro,Centre-Forward,CF,1500000.0,Real Sociedad,Spain,0.0,1
+2007,Laliga,RCD Mallorca,summer,out,Chus Seco,89218,21,Spain,Centre-Forward,CF,,CD Guijuelo,Spain,,0
+2007,Laliga,RCD Mallorca,summer,out,Juanjo,47654,24,Spain,Goalkeeper,GK,,CD Ferriolense,Spain,,0
+2007,Laliga,RCD Mallorca,summer,out,Dani Benítez,63695,20,Spain,Left Winger,LW,,Pontevedra CF,Spain,0.0,1
+2007,Laliga,RCD Mallorca,summer,out,Maxi López,26263,23,Argentina,Centre-Forward,CF,5500000.0,FC Barcelona,Spain,0.0,1
+2007,Laliga,RCD Mallorca,winter,out,Guillermo Pereyra,16355,28,Argentina,Central Midfield,CM,2200000.0,Lokomotiv Moskau,Russia,3500000.0,0
+2007,Laliga,RCD Mallorca,winter,out,Víctor Casadesús,35540,22,Spain,Centre-Forward,CF,1000000.0,Real Sociedad,Spain,0.0,1
+2007,Laliga,Racing Santander,summer,in,Mémé Tchité,18949,23,Burundi,Centre-Forward,CF,5500000.0,RSC Anderlecht,Belgium,7500000.0,0
+2007,Laliga,Racing Santander,summer,in,Ebi Smolarek,4388,26,Poland,Centre-Forward,CF,4500000.0,Borussia Dortmund,Germany,4500000.0,0
+2007,Laliga,Racing Santander,summer,in,Fabio Coltorti,10250,26,Switzerland,Goalkeeper,GK,1600000.0,Grasshopper Club Zurich,Switzerland,880000.0,0
+2007,Laliga,Racing Santander,summer,in,César Navas,29056,27,Spain,Centre-Back,CB,800000.0,Málaga CF,Spain,300000.0,0
+2007,Laliga,Racing Santander,summer,in,Brian Sarmiento,58319,17,Argentina,Attacking Midfield,AM,,Club Estudiantes de La Plata U20,Argentina,0.0,0
+2007,Laliga,Racing Santander,summer,in,Danny Szetela,26854,20,United States,Central Midfield,CM,,Columbus Crew,United States,0.0,0
+2007,Laliga,Racing Santander,summer,in,Jorge López,7844,28,Spain,Right Winger,RW,1500000.0,Valencia CF,Spain,0.0,0
+2007,Laliga,Racing Santander,summer,in,Aldo Duscher,3954,28,Argentina,Defensive Midfield,DM,7500000.0,Deportivo de La Coruña,Spain,0.0,0
+2007,Laliga,Racing Santander,summer,in,Jordi López,15463,26,Spain,Central Midfield,CM,500000.0,RCD Mallorca,Spain,0.0,1
+2007,Laliga,Racing Santander,summer,in,Sergio Sánchez,38270,21,Spain,Centre-Back,CB,500000.0,RCD Espanyol Barcelona,Spain,0.0,1
+2007,Laliga,Racing Santander,summer,in,Pablo Álvarez,44000,27,Spain,Right Winger,RW,,Deportivo de La Coruña,Spain,0.0,1
+2007,Laliga,Racing Santander,winter,in,Damián Ísmodes,63451,18,Peru,Right Winger,RW,,Club Sporting Cristal,Peru,350000.0,0
+2007,Laliga,Racing Santander,winter,in,Sergio Orteman,40707,29,Uruguay,Defensive Midfield,DM,700000.0,CA Boca Juniors,Argentina,0.0,1
+2007,Laliga,Racing Santander,summer,out,Nikola Zigic,19729,26,Serbia,Centre-Forward,CF,10000000.0,Valencia CF,Spain,14000000.0,0
+2007,Laliga,Racing Santander,summer,out,Felipe Melo,35537,24,Brazil,Defensive Midfield,DM,900000.0,UD Almería,Spain,1800000.0,0
+2007,Laliga,Racing Santander,summer,out,Rubén González,7519,25,Spain,Centre-Back,CB,2200000.0,Celta de Vigo,Spain,1000000.0,0
+2007,Laliga,Racing Santander,summer,out,David Aganzo,7821,26,Spain,Centre-Forward,CF,1800000.0,Deportivo Alavés,Spain,95000.0,0
+2007,Laliga,Racing Santander,summer,out,Cristian Álvarez,16126,29,Argentina,Right-Back,RB,750000.0,Córdoba CF,Spain,0.0,0
+2007,Laliga,Racing Santander,summer,out,Sergio Matabuena,7863,28,Spain,Defensive Midfield,DM,500000.0,Sporting Gijón,Spain,0.0,0
+2007,Laliga,Racing Santander,summer,out,Lionel Scaloni,7499,29,Argentina,Right-Back,RB,3800000.0,SS Lazio,Italy,0.0,0
+2007,Laliga,Racing Santander,summer,out,Vitolo,27667,23,Spain,Central Midfield,CM,1250000.0,Celta de Vigo,Spain,0.0,1
+2007,Laliga,Racing Santander,summer,out,Juanjo Expósito,35534,21,Spain,Centre-Forward,CF,800000.0,Sevilla Atlético,Spain,0.0,1
+2007,Laliga,Racing Santander,summer,out,Ho-jin Lee,37942,24,"Korea, South",Centre-Back,CB,1000000.0,Without Club,,,0
+2007,Laliga,Racing Santander,summer,out,Pablo Alfaro,7700,38,Spain,Centre-Back,CB,800000.0,Retired,,,0
+2007,Laliga,Racing Santander,summer,out,Antonio Tomás,37340,22,Spain,Central Midfield,CM,500000.0,Deportivo de La Coruña,Spain,0.0,1
+2007,Laliga,Racing Santander,summer,out,Momo,25319,24,Spain,Left Winger,LW,500000.0,Deportivo de La Coruña,Spain,0.0,1
+2007,Laliga,Racing Santander,summer,out,Javier Balboa,35640,22,Equatorial Guinea,Right Winger,RW,2500000.0,Real Madrid,Spain,0.0,1
+2007,Laliga,Racing Santander,winter,out,Samuel San José,35535,23,Spain,Centre-Back,CB,300000.0,UD Las Palmas,Spain,0.0,1
+2007,Laliga,Racing Santander,winter,out,Cristian Portilla,35538,19,Spain,Central Midfield,CM,200000.0,Racing Ferrol,Spain,0.0,1
+2007,Laliga,Racing Santander,winter,out,Bolaño,48294,22,Spain,Left-Back,LB,100000.0,UD Las Palmas,Spain,0.0,1
+2007,Laliga,Racing Santander,winter,out,Danny Szetela,26854,20,United States,Central Midfield,CM,500000.0,Brescia Calcio,Italy,0.0,1
+2007,Laliga,Real Betis Balompié,summer,in,Mariano Pavone,27462,25,Argentina,Centre-Forward,CF,6000000.0,Club Estudiantes de La Plata,Argentina,6800000.0,0
+2007,Laliga,Real Betis Balompié,summer,in,Mark González,21750,23,Chile,Left Winger,LW,3500000.0,Liverpool FC,England,6000000.0,0
+2007,Laliga,Real Betis Balompié,summer,in,Ricardo,13867,31,Portugal,Goalkeeper,GK,4300000.0,Sporting CP,Portugal,4000000.0,0
+2007,Laliga,Real Betis Balompié,summer,in,Robert,15094,26,Brazil,Centre-Forward,CF,4000000.0,PSV Eindhoven,Netherlands,3500000.0,0
+2007,Laliga,Real Betis Balompié,summer,in,Lima,53011,22,Brazil,Centre-Back,CB,,Clube Atlético Mineiro,Brazil,2500000.0,0
+2007,Laliga,Real Betis Balompié,summer,in,Branko Ilic,29977,24,Slovenia,Centre-Back,CB,2000000.0,NK Domzale,Slovenia,1500000.0,0
+2007,Laliga,Real Betis Balompié,summer,in,José Mari,6194,28,Spain,Centre-Forward,CF,3500000.0,Villarreal CF,Spain,0.0,0
+2007,Laliga,Real Betis Balompié,summer,in,Marko Babic,62,26,Croatia,Left Midfield,LM,3000000.0,Bayer 04 Leverkusen,Germany,0.0,0
+2007,Laliga,Real Betis Balompié,summer,in,Leandro Somoza,26452,26,Argentina,Defensive Midfield,DM,4200000.0,Villarreal CF,Spain,0.0,1
+2007,Laliga,Real Betis Balompié,summer,out,Marcos Assunção,7654,30,Brazil,Central Midfield,CM,5000000.0,Al-Ahli Dubai Club (- 2017),United Arab Emirates,0.0,0
+2007,Laliga,Real Betis Balompié,summer,out,Alejandro Lembo,15722,29,Uruguay,Centre-Back,CB,1300000.0,Danubio FC,Uruguay,0.0,0
+2007,Laliga,Real Betis Balompié,summer,out,Dani,7665,25,Spain,Centre-Forward,CF,1000000.0,Cádiz CF,Spain,0.0,1
+2007,Laliga,Real Betis Balompié,summer,out,Pedro Contreras,7771,35,Spain,Goalkeeper,GK,2000000.0,Cádiz CF,Spain,0.0,1
+2007,Laliga,Real Betis Balompié,summer,out,Juanlu,22568,27,Spain,Left Midfield,LM,400000.0,Córdoba CF,Spain,0.0,1
+2007,Laliga,Real Betis Balompié,summer,out,Francisco Maldonado,15725,26,Spain,Attacking Midfield,AM,500000.0,Gimnàstic de Tarragona,Spain,0.0,1
+2007,Laliga,Real Betis Balompié,summer,out,Miguel Ángel,7786,28,Spain,Defensive Midfield,DM,2000000.0,Levante UD,Spain,0.0,1
+2007,Laliga,Real Betis Balompié,summer,out,Robert,15094,26,Brazil,Centre-Forward,CF,5000000.0,Al-Ittihad Club,Saudi Arabia,,0
+2007,Laliga,Real Betis Balompié,summer,out,Enrique Romero,7494,36,Spain,Left-Back,LB,750000.0,Retired,,,0
+2007,Laliga,Real Betis Balompié,summer,out,Benjamín,7655,31,Equatorial Guinea,Central Midfield,CM,1250000.0,Without Club,,,0
+2007,Laliga,Real Betis Balompié,summer,out,Fabrice Pancrate,6267,27,France,Right Winger,RW,2000000.0,Paris Saint-Germain,France,0.0,1
+2007,Laliga,Real Betis Balompié,summer,out,Robert,15094,26,Brazil,Centre-Forward,CF,4000000.0,PSV Eindhoven,Netherlands,0.0,1
+2007,Laliga,Real Betis Balompié,winter,out,Jorge Wagner,9630,29,Brazil,Left Winger,LW,3000000.0,São Paulo Futebol Clube,Brazil,1230000.0,0
+2007,Laliga,Real Betis Balompié,winter,out,Johann Vogel,4352,30,Switzerland,Defensive Midfield,DM,3000000.0,Without Club,,,0
+2007,Laliga,Real Madrid,summer,in,Arjen Robben,4360,23,Netherlands,Right Winger,RW,22800000.0,Chelsea FC,England,35000000.0,0
+2007,Laliga,Real Madrid,summer,in,Pepe,14132,24,Portugal,Centre-Back,CB,30000000.0,FC Porto,Portugal,30000000.0,0
+2007,Laliga,Real Madrid,summer,in,Wesley Sneijder,4673,23,Netherlands,Attacking Midfield,AM,14500000.0,Ajax Amsterdam,Netherlands,27000000.0,0
+2007,Laliga,Real Madrid,summer,in,Royston Drenthe,35631,20,Netherlands,Left Midfield,LM,13000000.0,Feyenoord Rotterdam,Netherlands,14000000.0,0
+2007,Laliga,Real Madrid,summer,in,Gabriel Heinze,5555,29,Argentina,Centre-Back,CB,13000000.0,Manchester United,England,12000000.0,0
+2007,Laliga,Real Madrid,summer,in,Jerzy Dudek,3209,34,Poland,Goalkeeper,GK,2000000.0,Liverpool FC,England,0.0,0
+2007,Laliga,Real Madrid,summer,in,Javier Saviola,7611,25,Argentina,Second Striker,SS,8650000.0,FC Barcelona,Spain,0.0,0
+2007,Laliga,Real Madrid,summer,in,Christoph Metzelder,123,26,Germany,Centre-Back,CB,6500000.0,Borussia Dortmund,Germany,0.0,0
+2007,Laliga,Real Madrid,summer,out,Cicinho,26101,27,Brazil,Right-Back,RB,15000000.0,AS Roma,Italy,11000000.0,0
+2007,Laliga,Real Madrid,summer,out,Jonathan Woodgate,3224,27,England,Centre-Back,CB,11000000.0,Middlesbrough FC,England,9600000.0,0
+2007,Laliga,Real Madrid,summer,out,Diego López,34370,25,Spain,Goalkeeper,GK,2750000.0,Villarreal CF,Spain,7000000.0,0
+2007,Laliga,Real Madrid,summer,out,Emerson,70,31,Brazil,Defensive Midfield,DM,16000000.0,AC Milan,Italy,5000000.0,0
+2007,Laliga,Real Madrid,summer,out,Carlos Diogo,32233,23,Uruguay,Right-Back,RB,6000000.0,Real Zaragoza,Spain,4500000.0,0
+2007,Laliga,Real Madrid,summer,out,Rubén de la Red,35522,22,Spain,Central Midfield,CM,3500000.0,Getafe CF,Spain,3000000.0,0
+2007,Laliga,Real Madrid,summer,out,Raúl Bravo,3771,26,Spain,Centre-Back,CB,3600000.0,Olympiacos Piraeus,Greece,2300000.0,0
+2007,Laliga,Real Madrid,summer,out,David Beckham,3139,32,England,Central Midfield,CM,19800000.0,Los Angeles Galaxy,United States,0.0,0
+2007,Laliga,Real Madrid,summer,out,Óscar Miñambres,7516,26,Spain,Right-Back,RB,1000000.0,Hércules CF,Spain,0.0,0
+2007,Laliga,Real Madrid,summer,out,Iván Helguera,7514,32,Spain,Centre-Back,CB,5300000.0,Valencia CF,Spain,0.0,0
+2007,Laliga,Real Madrid,summer,out,Francisco Pavón,7517,27,Spain,Centre-Back,CB,2200000.0,Real Zaragoza,Spain,0.0,0
+2007,Laliga,Real Madrid,summer,out,Álvaro Mejía,16634,25,Spain,Centre-Back,CB,1750000.0,Real Murcia CF,Spain,0.0,0
+2007,Laliga,Real Madrid,summer,out,Roberto Carlos,7518,34,Brazil,Left-Back,LB,6500000.0,Fenerbahce,Türkiye,0.0,0
+2007,Laliga,Real Madrid,summer,out,Antonio Cassano,5962,25,Italy,Second Striker,SS,8500000.0,UC Sampdoria,Italy,0.0,1
+2007,Laliga,Real Madrid,summer,out,Pablo García,7737,30,Uruguay,Defensive Midfield,DM,4500000.0,Real Murcia CF,Spain,0.0,1
+2007,Laliga,Real Madrid,summer,out,Adrián González,44073,19,Spain,Central Midfield,CM,100000.0,Celta de Vigo,Spain,0.0,1
+2007,Laliga,Real Madrid,summer,out,Esteban Granero,44065,20,Spain,Central Midfield,CM,100000.0,Getafe CF,Spain,0.0,1
+2007,Laliga,Real Madrid,summer,out,José Antonio Reyes,7717,23,Spain,Right Winger,RW,16700000.0,Arsenal FC,England,0.0,1
+2007,Laliga,Real Madrid,winter,out,Adrián González,44073,19,Spain,Central Midfield,CM,400000.0,Gimnàstic de Tarragona,Spain,0.0,1
+2007,Laliga,Real Murcia CF,summer,in,Fernando Baiano,9415,28,Brazil,Centre-Forward,CF,3000000.0,Celta de Vigo,Spain,5000000.0,0
+2007,Laliga,Real Murcia CF,summer,in,Henok Goitom,6838,22,Eritrea,Centre-Forward,CF,50000.0,Ciudad Murcia (- 2007),Spain,3000000.0,0
+2007,Laliga,Real Murcia CF,summer,in,José María Movilla,7763,32,Spain,Defensive Midfield,DM,2500000.0,Real Zaragoza,Spain,600000.0,0
+2007,Laliga,Real Murcia CF,summer,in,Quique de Lucas,3172,28,Spain,Attacking Midfield,AM,3000000.0,Deportivo Alavés,Spain,0.0,0
+2007,Laliga,Real Murcia CF,summer,in,Dirk Meier,915159,25,Germany,Goalkeeper,GK,,SC Irene Tegelen,Netherlands,0.0,0
+2007,Laliga,Real Murcia CF,summer,in,Rosinei,52853,24,Brazil,Defensive Midfield,DM,,Sport Club Corinthians Paulista,Brazil,0.0,0
+2007,Laliga,Real Murcia CF,summer,in,Iñigo Vélez,56226,25,Spain,Centre-Forward,CF,,SD Eibar,Spain,0.0,0
+2007,Laliga,Real Murcia CF,summer,in,Paco Gallardo,7708,27,Spain,Right Midfield,RM,750000.0,Sevilla FC,Spain,0.0,0
+2007,Laliga,Real Murcia CF,summer,in,Álvaro Mejía,16634,25,Spain,Centre-Back,CB,1750000.0,Real Madrid,Spain,0.0,0
+2007,Laliga,Real Murcia CF,summer,in,Fabián Carini,13444,27,Uruguay,Goalkeeper,GK,450000.0,Inter Milan,Italy,0.0,0
+2007,Laliga,Real Murcia CF,summer,in,Curro Torres,7567,30,Spain,Right-Back,RB,1500000.0,Valencia CF,Spain,0.0,1
+2007,Laliga,Real Murcia CF,summer,in,Pablo García,7737,30,Uruguay,Defensive Midfield,DM,4500000.0,Real Madrid,Spain,0.0,1
+2007,Laliga,Real Murcia CF,summer,in,Mario Regueiro,7871,28,Uruguay,Left Winger,LW,3000000.0,Valencia CF,Spain,0.0,1
+2007,Laliga,Real Murcia CF,summer,in,César Arzo,15798,21,Spain,Centre-Back,CB,1500000.0,Villarreal CF,Spain,0.0,1
+2007,Laliga,Real Murcia CF,winter,in,Abderrahman Kabous,36562,24,Morocco,Defensive Midfield,DM,125000.0,CSKA Sofia,Bulgaria,900000.0,0
+2007,Laliga,Real Murcia CF,winter,in,David de Coz,51555,27,Spain,Right-Back,RB,200000.0,Xerez CD,Spain,230000.0,0
+2007,Laliga,Real Murcia CF,summer,out,Pedro León,51587,20,Spain,Right Winger,RW,,Levante UD,Spain,2200000.0,0
+2007,Laliga,Real Murcia CF,summer,out,Sebastián Corona,27668,30,Spain,Centre-Back,CB,,SD Huesca,Spain,0.0,0
+2007,Laliga,Real Murcia CF,summer,out,Carlos Aranda,7841,26,Spain,Centre-Forward,CF,500000.0,Granada 74 CF,Spain,0.0,0
+2007,Laliga,Real Murcia CF,summer,out,Juanmi,7484,36,Spain,Goalkeeper,GK,2000000.0,Gimnàstic de Tarragona,Spain,0.0,0
+2007,Laliga,Real Murcia CF,summer,out,Émerson Paulista,51588,27,Brazil,Attacking Midfield,AM,,Iraklis Thessaloniki,Greece,0.0,0
+2007,Laliga,Real Murcia CF,summer,out,Jesús Tato,8182,23,Spain,Second Striker,SS,50000.0,Club Atlético de Ceuta,Spain,0.0,1
+2007,Laliga,Real Murcia CF,summer,out,Juanma Valero,8007,29,Spain,Right-Back,RB,50000.0,Hércules CF,Spain,0.0,1
+2007,Laliga,Real Murcia CF,summer,out,Adrián Martín,36315,24,Spain,Attacking Midfield,AM,1250000.0,Xerez CD,Spain,0.0,1
+2007,Laliga,Real Murcia CF,summer,out,José Luis Acciari,7992,28,Argentina,Defensive Midfield,DM,50000.0,Córdoba CF,Spain,0.0,1
+2007,Laliga,Real Murcia CF,summer,out,Samuel Baños,51584,27,Spain,Central Midfield,CM,,Xerez CD,Spain,0.0,1
+2007,Laliga,Real Murcia CF,summer,out,Capi,26147,26,Spain,Centre-Back,CB,400000.0,UD Las Palmas,Spain,0.0,1
+2007,Laliga,Real Murcia CF,summer,out,Gifton Noel-Williams,13596,27,England,Centre-Forward,CF,425000.0,Elche CF,Spain,,0
+2007,Laliga,Real Murcia CF,summer,out,Ramón González,57947,32,Spain,Centre-Back,CB,,Xerez CD,Spain,,0
+2007,Laliga,Real Murcia CF,summer,out,Francisco Lledó,29100,27,Spain,Goalkeeper,GK,,Club Atlético de Ceuta,Spain,0.0,1
+2007,Laliga,Real Murcia CF,summer,out,Antoñito,7715,29,Spain,Centre-Forward,CF,1800000.0,Sevilla FC,Spain,0.0,1
+2007,Laliga,Real Murcia CF,summer,out,Paco Gallardo,7708,27,Spain,Right Midfield,RM,750000.0,Sevilla FC,Spain,0.0,1
+2007,Laliga,Real Murcia CF,winter,out,Dirk Meier,915159,26,Germany,Goalkeeper,GK,,FC Differdange 03,Luxembourg,0.0,0
+2007,Laliga,Real Murcia CF,winter,out,Bruno Herrero,39788,22,Spain,Central Midfield,CM,1500000.0,UD Salamanca,Spain,0.0,1
+2007,Laliga,Real Valladolid CF,summer,in,Jonathan Sesma,29147,28,Spain,Left Winger,LW,1300000.0,Cádiz CF,Spain,1300000.0,0
+2007,Laliga,Real Valladolid CF,summer,in,Fabián Estoyanoff,35511,24,Uruguay,Right Midfield,RM,1800000.0,Valencia CF,Spain,500000.0,1
+2007,Laliga,Real Valladolid CF,summer,in,Daniel Cifuentes,35552,26,Spain,Centre-Back,CB,400000.0,SD Ponferradina,Spain,100000.0,0
+2007,Laliga,Real Valladolid CF,summer,in,Ángel Vivar Dorado,23114,33,Spain,Attacking Midfield,AM,500000.0,Getafe CF,Spain,0.0,0
+2007,Laliga,Real Valladolid CF,summer,in,Alexis,23330,33,Spain,Left-Back,LB,600000.0,Levante UD,Spain,0.0,0
+2007,Laliga,Real Valladolid CF,summer,in,Bartholomew Ogbeche,5574,22,Nigeria,Centre-Forward,CF,1500000.0,Deportivo Alavés,Spain,0.0,0
+2007,Laliga,Real Valladolid CF,summer,in,Diego Camacho,23181,30,Spain,Defensive Midfield,DM,700000.0,Levante UD,Spain,0.0,1
+2007,Laliga,Real Valladolid CF,summer,in,Ludovic Butelle,12029,24,France,Goalkeeper,GK,1000000.0,Valencia CF,Spain,0.0,1
+2007,Laliga,Real Valladolid CF,winter,in,Vladimir Manchev,8558,30,Bulgaria,Centre-Forward,CF,2000000.0,Celta de Vigo,Spain,0.0,0
+2007,Laliga,Real Valladolid CF,winter,in,Marcos Aguirre,54573,23,Argentina,Right Midfield,RM,2250000.0,CA Lanús,Argentina,0.0,1
+2007,Laliga,Real Valladolid CF,summer,out,Iván Hernández,29066,27,Spain,Centre-Back,CB,,Sporting Gijón,Spain,0.0,0
+2007,Laliga,Real Valladolid CF,summer,out,Vladimir Manchev,8558,29,Bulgaria,Centre-Forward,CF,1750000.0,Celta de Vigo,Spain,0.0,0
+2007,Laliga,Real Valladolid CF,summer,out,Chema Jiménez,7811,31,Spain,Right Midfield,RM,50000.0,Cultural Leonesa,Spain,0.0,0
+2007,Laliga,Real Valladolid CF,summer,out,Jacobo Sanz,51699,23,Spain,Goalkeeper,GK,,CD Numancia,Spain,0.0,0
+2007,Laliga,Real Valladolid CF,summer,out,Gonzalo Vicente,25510,27,Uruguay,Left-Back,LB,200000.0,Cádiz CF,Spain,0.0,0
+2007,Laliga,Real Valladolid CF,summer,out,Asier Arranz,51709,20,Spain,Central Midfield,CM,100000.0,Deportivo Alavés,Spain,0.0,1
+2007,Laliga,Real Valladolid CF,summer,out,Diego Figueredo,16309,25,Paraguay,Attacking Midfield,AM,200000.0,CD Godoy Cruz Antonio Tomba,Argentina,0.0,1
+2007,Laliga,Real Valladolid CF,summer,out,Mario Suárez,37337,20,Spain,Defensive Midfield,DM,250000.0,Atlético de Madrid,Spain,0.0,1
+2007,Laliga,Real Valladolid CF,summer,out,José Julian De La Cuesta,29129,24,Colombia,Centre-Back,CB,3000000.0,Cádiz CF,Spain,0.0,1
+2007,Laliga,Real Valladolid CF,summer,out,Toché,22586,24,Spain,Centre-Forward,CF,600000.0,Atlético de Madrid,Spain,0.0,1
+2007,Laliga,Real Valladolid CF,winter,out,Diego Figueredo,16309,25,Paraguay,Attacking Midfield,AM,500000.0,Club Cerro Porteño,Paraguay,0.0,0
+2007,Laliga,Real Valladolid CF,winter,out,Álvaro Antón,29086,24,Spain,Attacking Midfield,AM,2000000.0,Racing Ferrol,Spain,0.0,1
+2007,Laliga,Real Valladolid CF,winter,out,Kike López,56542,19,Spain,Right-Back,RB,400000.0,Polideportivo Ejido,Spain,0.0,1
+2007,Laliga,Real Valladolid CF,winter,out,Fabián Estoyanoff,35511,25,Uruguay,Right Midfield,RM,4000000.0,Valencia CF,Spain,0.0,1
+2007,Laliga,Real Zaragoza,summer,in,Matuzalém,5974,27,Brazil,Defensive Midfield,DM,14000000.0,Shakhtar Donetsk,Ukraine,6800000.0,0
+2007,Laliga,Real Zaragoza,summer,in,Roberto Ayala,7565,34,Argentina,Centre-Back,CB,8750000.0,Villarreal CF,Spain,6000000.0,0
+2007,Laliga,Real Zaragoza,summer,in,Carlos Diogo,32233,23,Uruguay,Right-Back,RB,6000000.0,Real Madrid,Spain,4500000.0,0
+2007,Laliga,Real Zaragoza,summer,in,Andrés D'Alessandro,3445,26,Argentina,Attacking Midfield,AM,7500000.0,VfL Wolfsburg,Germany,3500000.0,0
+2007,Laliga,Real Zaragoza,summer,in,Peter Luccin,7555,28,France,Defensive Midfield,DM,6500000.0,Atlético de Madrid,Spain,2800000.0,0
+2007,Laliga,Real Zaragoza,summer,in,Ricardo Oliveira,15468,27,Brazil,Centre-Forward,CF,7000000.0,AC Milan,Italy,2000000.0,1
+2007,Laliga,Real Zaragoza,summer,in,Javier Paredes,35512,24,Spain,Left-Back,LB,1400000.0,Getafe CF,Spain,1500000.0,0
+2007,Laliga,Real Zaragoza,summer,in,Javier López Vallejo,7824,31,Spain,Goalkeeper,GK,3000000.0,Villarreal CF,Spain,0.0,0
+2007,Laliga,Real Zaragoza,summer,in,Francisco Pavón,7517,27,Spain,Centre-Back,CB,2200000.0,Real Madrid,Spain,0.0,0
+2007,Laliga,Real Zaragoza,summer,in,Gabi,22969,23,Spain,Central Midfield,CM,2500000.0,Atlético de Madrid,Spain,0.0,0
+2007,Laliga,Real Zaragoza,summer,in,Djaïd Kasri,203508,20,France,Central Midfield,CM,,FC Nantes,France,,0
+2007,Laliga,Real Zaragoza,summer,out,Gabriel Milito,7968,26,Argentina,Centre-Back,CB,20000000.0,FC Barcelona,Spain,20000000.0,0
+2007,Laliga,Real Zaragoza,summer,out,Ewerthon,1396,26,Brazil,Centre-Forward,CF,10000000.0,VfB Stuttgart,Germany,1200000.0,1
+2007,Laliga,Real Zaragoza,summer,out,José María Movilla,7763,32,Spain,Defensive Midfield,DM,2500000.0,Real Murcia CF,Spain,600000.0,0
+2007,Laliga,Real Zaragoza,summer,out,Agustín Aranzabal,7460,34,Spain,Left-Back,LB,,CD Vera,Spain,0.0,0
+2007,Laliga,Real Zaragoza,summer,out,Ángel Lafita,35562,22,Spain,Left Winger,LW,1500000.0,Deportivo de La Coruña,Spain,0.0,1
+2007,Laliga,Real Zaragoza,summer,out,Íñigo Rodríguez,275311,31,Spain,Right Midfield,RM,,Burgos CF,Spain,,0
+2007,Laliga,Real Zaragoza,summer,out,Antonio Longás,45285,22,Spain,Central Midfield,CM,500000.0,CD Tenerife,Spain,0.0,1
+2007,Laliga,Real Zaragoza,summer,out,César Jiménez,26151,29,Spain,Centre-Back,CB,450000.0,Retired,,,0
+2007,Laliga,Real Zaragoza,summer,out,Gustavo Nery,16629,29,Brazil,Left-Back,LB,1500000.0,Sport Club Corinthians Paulista,Brazil,0.0,1
+2007,Laliga,Real Zaragoza,summer,out,Carlos Diogo,32233,23,Uruguay,Right-Back,RB,6000000.0,Real Madrid,Spain,0.0,1
+2007,Laliga,Real Zaragoza,summer,out,Gerard Piqué,18944,20,Spain,Centre-Back,CB,4000000.0,Manchester United,England,0.0,1
+2007,Laliga,Real Zaragoza,summer,out,Andrés D'Alessandro,3445,26,Argentina,Attacking Midfield,AM,7500000.0,VfL Wolfsburg,Germany,0.0,1
+2007,Laliga,Real Zaragoza,winter,out,Andrés D'Alessandro,3445,26,Argentina,Attacking Midfield,AM,4500000.0,CA San Lorenzo de Almagro,Argentina,3500000.0,0
+2007,Laliga,Real Zaragoza,winter,out,Ewerthon,1396,26,Brazil,Centre-Forward,CF,5000000.0,RCD Espanyol Barcelona,Spain,0.0,1
+2007,Laliga,Recreativo Huelva,summer,in,Florent Sinama-Pongolle,4216,22,France,Second Striker,SS,4500000.0,Liverpool FC,England,4000000.0,0
+2007,Laliga,Recreativo Huelva,summer,in,Carlos Martins,14511,25,Portugal,Attacking Midfield,AM,5500000.0,Sporting CP,Portugal,2200000.0,0
+2007,Laliga,Recreativo Huelva,summer,in,Ersen Martin,7035,28,Türkiye,Centre-Forward,CF,3000000.0,Trabzonspor,Türkiye,1100000.0,0
+2007,Laliga,Recreativo Huelva,summer,in,Beto,13819,31,Portugal,Centre-Back,CB,2800000.0,FC Girondins Bordeaux,France,750000.0,0
+2007,Laliga,Recreativo Huelva,summer,in,Stefano Sorrentino,21891,28,Italy,Goalkeeper,GK,2400000.0,AEK Athens,Greece,340000.0,1
+2007,Laliga,Recreativo Huelva,summer,in,Martín Cáceres,54935,20,Uruguay,Centre-Back,CB,,Villarreal CF,Spain,150000.0,1
+2007,Laliga,Recreativo Huelva,summer,in,José Ignacio Zahinos,35523,29,Spain,Defensive Midfield,DM,2500000.0,Atlético de Madrid,Spain,0.0,0
+2007,Laliga,Recreativo Huelva,summer,in,Quique Álvarez,7832,31,Spain,Centre-Back,CB,900000.0,Villarreal CF,Spain,0.0,0
+2007,Laliga,Recreativo Huelva,summer,in,Javi Guerrero,7869,30,Spain,Centre-Forward,CF,2500000.0,Celta de Vigo,Spain,0.0,0
+2007,Laliga,Recreativo Huelva,summer,in,Javier Camuñas,29170,26,Spain,Right Winger,RW,,Xerez CD,Spain,0.0,0
+2007,Laliga,Recreativo Huelva,summer,in,Edwin Congo,23189,30,Colombia,Centre-Forward,CF,1000000.0,Sporting Gijón,Spain,0.0,0
+2007,Laliga,Recreativo Huelva,summer,in,Mariano Barbosa,30749,23,Argentina,Goalkeeper,GK,2200000.0,Villarreal CF,Spain,0.0,0
+2007,Laliga,Recreativo Huelva,summer,in,Gerard López,7599,28,Spain,Central Midfield,CM,2300000.0,AS Monaco,France,0.0,0
+2007,Laliga,Recreativo Huelva,summer,in,Varela,31316,22,Portugal,Left Winger,LW,300000.0,Sporting CP,Portugal,0.0,1
+2007,Laliga,Recreativo Huelva,summer,in,José Calvo,19951,26,Argentina,Right-Back,RB,1000000.0,CA Boca Juniors,Argentina,0.0,1
+2007,Laliga,Recreativo Huelva,summer,in,Marquitos,38998,20,Spain,Attacking Midfield,AM,50000.0,Villarreal CF,Spain,0.0,1
+2007,Laliga,Recreativo Huelva,winter,in,Marco Ruben,30825,21,Argentina,Centre-Forward,CF,3000000.0,Villarreal CF,Spain,0.0,1
+2007,Laliga,Recreativo Huelva,summer,out,Santi Cazorla,15799,22,Spain,Central Midfield,CM,3500000.0,Villarreal CF,Spain,1200000.0,0
+2007,Laliga,Recreativo Huelva,summer,out,Ikechukwu Uche,44027,23,Nigeria,Centre-Forward,CF,3500000.0,Getafe CF,Spain,0.0,0
+2007,Laliga,Recreativo Huelva,summer,out,Emilio Viqueira,44030,32,Spain,Central Midfield,CM,2200000.0,Levante UD,Spain,0.0,0
+2007,Laliga,Recreativo Huelva,summer,out,Xavi Jiménez,54764,28,Spain,Central Midfield,CM,100000.0,Albacete Balompié,Spain,0.0,0
+2007,Laliga,Recreativo Huelva,summer,out,Mario Abrante,7803,25,Spain,Centre-Back,CB,3000000.0,Getafe CF,Spain,0.0,0
+2007,Laliga,Recreativo Huelva,summer,out,Cheli González,44013,28,Spain,Right Winger,RW,500000.0,Málaga CF,Spain,0.0,0
+2007,Laliga,Recreativo Huelva,summer,out,Joselito,44014,22,Spain,Attacking Midfield,AM,100000.0,Cultural Leonesa,Spain,0.0,1
+2007,Laliga,Recreativo Huelva,summer,out,Juan Merino,44018,36,Spain,Centre-Back,CB,,Retired,,,0
+2007,Laliga,Recreativo Huelva,summer,out,Javier López Vallejo,7824,31,Spain,Goalkeeper,GK,3000000.0,Villarreal CF,Spain,0.0,1
+2007,Laliga,Recreativo Huelva,summer,out,Pablo Amo,7508,29,Spain,Centre-Back,CB,1200000.0,Deportivo de La Coruña,Spain,0.0,1
+2007,Laliga,Recreativo Huelva,summer,out,Juanma,23220,26,Spain,Right Winger,RW,1000000.0,Levante UD,Spain,0.0,1
+2007,Laliga,Recreativo Huelva,summer,out,Florent Sinama-Pongolle,4216,22,France,Second Striker,SS,4500000.0,Liverpool FC,England,0.0,1
+2007,Laliga,Recreativo Huelva,summer,out,César Arzo,15798,21,Spain,Centre-Back,CB,1500000.0,Villarreal CF,Spain,0.0,1
+2007,Laliga,Recreativo Huelva,summer,out,Bertrand Laquait,12957,30,France,Goalkeeper,GK,1000000.0,Royal Charleroi SC,Belgium,0.0,1
+2007,Laliga,Recreativo Huelva,summer,out,Javi Guerrero,7869,30,Spain,Centre-Forward,CF,2500000.0,Celta de Vigo,Spain,0.0,1
+2007,Laliga,Recreativo Huelva,summer,out,Beto,13819,31,Portugal,Centre-Back,CB,2800000.0,FC Girondins Bordeaux,France,0.0,1
+2007,Laliga,Recreativo Huelva,winter,out,Joselito,44014,22,Spain,Attacking Midfield,AM,200000.0,Cultural Leonesa,Spain,0.0,1
+2007,Laliga,Sevilla FC,summer,in,Arouna Koné,8552,23,Cote d'Ivoire,Centre-Forward,CF,8500000.0,PSV Eindhoven,Netherlands,12000000.0,0
+2007,Laliga,Sevilla FC,summer,in,Aquivaldo Mosquera,52619,26,Colombia,Centre-Back,CB,,CF Pachuca,Mexico,8000000.0,0
+2007,Laliga,Sevilla FC,summer,in,Tom De Mul,15893,21,Belgium,Right Midfield,RM,4500000.0,Ajax Amsterdam,Netherlands,5000000.0,0
+2007,Laliga,Sevilla FC,summer,in,Seydou Keita,5486,27,Mali,Central Midfield,CM,10000000.0,RC Lens,France,4000000.0,0
+2007,Laliga,Sevilla FC,summer,in,Morgan De Sanctis,5880,30,Italy,Goalkeeper,GK,8000000.0,Udinese Calcio,Italy,0.0,0
+2007,Laliga,Sevilla FC,summer,in,Khalid Boulahrouz,4489,25,Netherlands,Centre-Back,CB,9800000.0,Chelsea FC,England,0.0,1
+2007,Laliga,Sevilla FC,summer,out,Kepa Blanco,34494,23,Spain,Centre-Forward,CF,4500000.0,Getafe CF,Spain,3500000.0,0
+2007,Laliga,Sevilla FC,summer,out,Aitor Ocio,7615,30,Spain,Centre-Back,CB,1100000.0,Athletic Bilbao,Spain,3500000.0,0
+2007,Laliga,Sevilla FC,summer,out,David Castedo,7695,33,Spain,Left-Back,LB,800000.0,Levante UD,Spain,0.0,0
+2007,Laliga,Sevilla FC,summer,out,Paco Gallardo,7708,27,Spain,Right Midfield,RM,750000.0,Real Murcia CF,Spain,0.0,0
+2007,Laliga,Sevilla FC,summer,out,Antoñito,7715,29,Spain,Centre-Forward,CF,1800000.0,Xerez CD,Spain,0.0,0
+2007,Laliga,Sevilla FC,summer,out,David Cobeño,37906,25,Spain,Goalkeeper,GK,500000.0,UD Almería,Spain,0.0,1
+2007,Laliga,Sevilla FC,summer,out,Pablo Ruiz,23312,26,Spain,Centre-Back,CB,370000.0,Córdoba CF,Spain,0.0,1
+2007,Laliga,Sevilla FC,summer,out,Ariza Makukula,5518,26,Portugal,Centre-Forward,CF,4250000.0,CS Marítimo,Portugal,0.0,1
+2007,Laliga,Sevilla FC,winter,out,Aleksandr Kerzhakov,15381,25,Russia,Centre-Forward,CF,7000000.0,Dinamo Moscow,Russia,8000000.0,0
+2007,Laliga,Sevilla FC,winter,out,Ariza Makukula,5518,26,Portugal,Centre-Forward,CF,5000000.0,SL Benfica,Portugal,3500000.0,0
+2007,Laliga,Sevilla FC,winter,out,Andreas Hinkel,599,25,Germany,Right-Back,RB,2000000.0,Celtic FC,Scotland,2600000.0,0
+2007,Laliga,Sevilla FC,winter,out,Fernando Sales,7814,30,Spain,Right Winger,RW,600000.0,Celta de Vigo,Spain,0.0,0
+2007,Laliga,Sevilla FC,winter,out,Jesuli,7560,29,Spain,Attacking Midfield,AM,1000000.0,CD Tenerife,Spain,0.0,1
+2007,Laliga,Sevilla FC,winter,out,Josep Lluís Martí,15955,32,Spain,Defensive Midfield,DM,3000000.0,Real Sociedad,Spain,0.0,1
+2007,Laliga,UD Almería,summer,in,Álvaro Negredo,18644,21,Spain,Centre-Forward,CF,1000000.0,Real Madrid Castilla,Spain,3000000.0,0
+2007,Laliga,UD Almería,summer,in,Diego Alves,42373,22,Brazil,Goalkeeper,GK,400000.0,Clube Atlético Mineiro,Brazil,2500000.0,0
+2007,Laliga,UD Almería,summer,in,Felipe Melo,35537,24,Brazil,Defensive Midfield,DM,900000.0,Racing Santander,Spain,1800000.0,0
+2007,Laliga,UD Almería,summer,in,Julio dos Santos,28944,24,Paraguay,Central Midfield,CM,1500000.0,Bayern Munich,Germany,950000.0,1
+2007,Laliga,UD Almería,summer,in,Natalio,51408,22,Spain,Centre-Forward,CF,,CD Castellón,Spain,500000.0,0
+2007,Laliga,UD Almería,summer,in,Juanito,7795,27,Spain,Defensive Midfield,DM,1000000.0,Real Sociedad,Spain,0.0,0
+2007,Laliga,UD Almería,summer,in,Iriney,35515,26,Brazil,Central Midfield,CM,2000000.0,Celta de Vigo,Spain,0.0,0
+2007,Laliga,UD Almería,summer,in,Juanma Ortiz,7353,25,Spain,Right-Back,RB,1250000.0,Polideportivo Ejido,Spain,0.0,0
+2007,Laliga,UD Almería,summer,in,Rubén Pulido,22972,28,Spain,Centre-Back,CB,800000.0,Getafe CF,Spain,0.0,0
+2007,Laliga,UD Almería,summer,in,Aitor López Rekarte,7464,31,Spain,Right-Back,RB,2800000.0,Real Sociedad,Spain,0.0,0
+2007,Laliga,UD Almería,summer,in,David Cobeño,37906,25,Spain,Goalkeeper,GK,500000.0,Sevilla FC,Spain,0.0,1
+2007,Laliga,UD Almería,summer,in,Mathías Vidangossy,46825,20,Chile,Attacking Midfield,AM,500000.0,Villarreal CF,Spain,0.0,1
+2007,Laliga,UD Almería,winter,in,Guilherme Santos,53965,19,Brazil,Left-Back,LB,,Clube de Regatas Vasco da Gama,Brazil,1500000.0,0
+2007,Laliga,UD Almería,winter,in,Veljko Paunovic,7364,30,Serbia,Centre-Forward,CF,1200000.0,Rubin Kazan,Russia,0.0,0
+2007,Laliga,UD Almería,summer,out,Alberto Hernández,72780,30,Spain,Midfielder,Midfielder,,Club Atlético de Ceuta,Spain,0.0,0
+2007,Laliga,UD Almería,summer,out,Míchel Carrilero,23014,29,Spain,Centre-Forward,CF,500000.0,Xerez CD,Spain,0.0,0
+2007,Laliga,UD Almería,summer,out,David Bermudo,27664,28,Spain,Centre-Back,CB,,Pontevedra CF,Spain,0.0,0
+2007,Laliga,UD Almería,summer,out,Ricardo Molina,51548,23,Spain,Goalkeeper,GK,,Alicante CF,Spain,0.0,0
+2007,Laliga,UD Almería,summer,out,Pedro Mairata,51539,28,Spain,Centre-Back,CB,100000.0,Gimnàstic de Tarragona,Spain,0.0,0
+2007,Laliga,UD Almería,summer,out,Sander Westerveld,3427,32,Netherlands,Goalkeeper,GK,1900000.0,Sparta Rotterdam,Netherlands,0.0,0
+2007,Laliga,UD Almería,summer,out,Joaquín Valerio,51543,34,Spain,Goalkeeper,GK,,Elche CF,Spain,0.0,0
+2007,Laliga,UD Almería,summer,out,Laurent de Palmas,51544,29,France,Defensive Midfield,DM,,Elche CF,Spain,0.0,0
+2007,Laliga,UD Almería,summer,out,Mario Bermejo,51545,28,Spain,Second Striker,SS,,Polideportivo Ejido,Spain,0.0,1
+2007,Laliga,UD Almería,summer,out,Francisco Rodríguez,25324,29,Spain,Centre-Forward,CF,1500000.0,Granada 74 CF,Spain,0.0,1
+2007,Laliga,UD Almería,summer,out,José María Mena,29179,28,Spain,Centre-Forward,CF,400000.0,Deportivo Alavés,Spain,,0
+2007,Laliga,UD Almería,summer,out,Rodri,8163,22,Spain,Centre-Back,CB,1500000.0,Deportivo de La Coruña,Spain,0.0,1
+2007,Laliga,UD Almería,summer,out,Gorka Larrea,35563,23,Spain,Central Midfield,CM,325000.0,Real Sociedad,Spain,0.0,1
+2007,Laliga,UD Almería,winter,out,Natalio,51408,23,Spain,Centre-Forward,CF,600000.0,Cádiz CF,Spain,0.0,1
+2007,Laliga,UD Almería,winter,out,José Luis Cabrera,51526,25,Spain,Central Midfield,CM,600000.0,Deportivo Alavés,Spain,,0
+2007,Laliga,UD Almería,winter,out,Mathías Vidangossy,46825,20,Chile,Attacking Midfield,AM,800000.0,Villarreal CF,Spain,0.0,1
+2007,Laliga,UD Almería,winter,out,Julio dos Santos,28944,24,Paraguay,Central Midfield,CM,1000000.0,Bayern Munich,Germany,0.0,1
+2007,Laliga,Valencia CF,summer,in,Manuel Fernandes,16791,21,Portugal,Attacking Midfield,AM,8500000.0,SL Benfica,Portugal,18000000.0,0
+2007,Laliga,Valencia CF,summer,in,Nikola Zigic,19729,26,Serbia,Centre-Forward,CF,10000000.0,Racing Santander,Spain,14000000.0,0
+2007,Laliga,Valencia CF,summer,in,Javier Arizmendi,25411,23,Spain,Centre-Forward,CF,6000000.0,Deportivo de La Coruña,Spain,12000000.0,0
+2007,Laliga,Valencia CF,summer,in,Alexis Ruano,7781,21,Spain,Centre-Back,CB,10000000.0,Getafe CF,Spain,6000000.0,0
+2007,Laliga,Valencia CF,summer,in,Sunny,51479,18,Nigeria,Defensive Midfield,DM,,Polideportivo Ejido,Spain,1800000.0,0
+2007,Laliga,Valencia CF,summer,in,Filip Krstic,48292,18,Germany,Centre-Back,CB,,Hertha BSC U19,Germany,350000.0,0
+2007,Laliga,Valencia CF,summer,in,Iván Helguera,7514,32,Spain,Centre-Back,CB,5300000.0,Real Madrid,Spain,0.0,0
+2007,Laliga,Valencia CF,summer,in,Timo Hildebrand,598,28,Germany,Goalkeeper,GK,8000000.0,VfB Stuttgart,Germany,0.0,0
+2007,Laliga,Valencia CF,summer,in,Juan Mata,44068,19,Spain,Attacking Midfield,AM,1100000.0,Real Madrid Castilla,Spain,0.0,0
+2007,Laliga,Valencia CF,summer,in,Manu Micó,65340,20,Spain,Left-Back,LB,,Benidorm CD,Spain,,0
+2007,Laliga,Valencia CF,winter,in,Éver Banega,12249,19,Argentina,Central Midfield,CM,15000000.0,CA Boca Juniors,Argentina,18000000.0,0
+2007,Laliga,Valencia CF,winter,in,Hedwiges Maduro,19057,22,Netherlands,Defensive Midfield,DM,4000000.0,Ajax Amsterdam,Netherlands,2000000.0,0
+2007,Laliga,Valencia CF,summer,out,Francesco Tavano,6020,28,Italy,Centre-Forward,CF,5750000.0,AS Livorno,Italy,6000000.0,0
+2007,Laliga,Valencia CF,summer,out,Fabián Estoyanoff,35511,24,Uruguay,Right Midfield,RM,1800000.0,Real Valladolid CF,Spain,500000.0,1
+2007,Laliga,Valencia CF,summer,out,Roberto Ayala,7565,34,Argentina,Centre-Back,CB,8750000.0,Villarreal CF,Spain,0.0,0
+2007,Laliga,Valencia CF,summer,out,Stefano Fiore,5842,32,Italy,Attacking Midfield,AM,6500000.0,AC Mantova 1911,Italy,0.0,0
+2007,Laliga,Valencia CF,summer,out,Pablo Hernández,46220,22,Spain,Right Winger,RW,,Getafe CF,Spain,0.0,0
+2007,Laliga,Valencia CF,summer,out,Jorge López,7844,28,Spain,Right Winger,RW,1500000.0,Racing Santander,Spain,0.0,0
+2007,Laliga,Valencia CF,summer,out,Miguel Pallardó,36756,20,Spain,Central Midfield,CM,600000.0,Getafe CF,Spain,0.0,0
+2007,Laliga,Valencia CF,summer,out,Hugo Viana,3480,24,Portugal,Central Midfield,CM,6000000.0,CA Osasuna,Spain,0.0,1
+2007,Laliga,Valencia CF,summer,out,Ludovic Butelle,12029,24,France,Goalkeeper,GK,1000000.0,Real Valladolid CF,Spain,0.0,1
+2007,Laliga,Valencia CF,summer,out,João Moreira,52499,21,Portugal,Centre-Forward,CF,,CD Nacional,Portugal,0.0,1
+2007,Laliga,Valencia CF,summer,out,Mario Regueiro,7871,28,Uruguay,Left Winger,LW,3000000.0,Real Murcia CF,Spain,0.0,1
+2007,Laliga,Valencia CF,summer,out,David Navarro,7568,27,Spain,Centre-Back,CB,1800000.0,RCD Mallorca,Spain,0.0,1
+2007,Laliga,Valencia CF,summer,out,Curro Torres,7567,30,Spain,Right-Back,RB,1500000.0,Real Murcia CF,Spain,0.0,1
+2007,Laliga,Valencia CF,summer,out,Asier del Horno,7617,26,Spain,Left-Back,LB,9000000.0,Athletic Bilbao,Spain,0.0,1
+2007,Laliga,Valencia CF,summer,out,Natxo Insa,57808,21,Malaysia,Central Midfield,CM,,SD Eibar,Spain,,0
+2007,Laliga,Valencia CF,summer,out,Manuel Ruz,35555,21,Spain,Right-Back,RB,400000.0,Granada 74 CF,Spain,0.0,1
+2007,Laliga,Valencia CF,summer,out,David Cerra,25041,23,Spain,Right-Back,RB,500000.0,Polideportivo Ejido,Spain,0.0,1
+2007,Laliga,Valencia CF,winter,out,Manuel Fernandes,16791,21,Portugal,Attacking Midfield,AM,15000000.0,Everton FC,England,750000.0,1
+2007,Laliga,Valencia CF,winter,out,Filip Krstic,48292,19,Germany,Centre-Back,CB,,AS Livorno,Italy,350000.0,0
+2007,Laliga,Valencia CF,winter,out,Jaime Gavilán,15461,22,Spain,Left Winger,LW,4000000.0,Getafe CF,Spain,0.0,1
+2007,Laliga,Valencia CF,winter,out,Fabián Estoyanoff,35511,25,Uruguay,Right Midfield,RM,4000000.0,CA Peñarol,Uruguay,0.0,1
+2007,Laliga,Valencia CF,winter,out,João Moreira,52499,21,Portugal,Centre-Forward,CF,1200000.0,Leixões SC,Portugal,0.0,1
+2007,Laliga,Villarreal CF,summer,in,Giuseppe Rossi,19104,20,Italy,Centre-Forward,CF,6500000.0,Manchester United,England,10000000.0,0
+2007,Laliga,Villarreal CF,summer,in,Rio Mavuba,14949,23,France,Defensive Midfield,DM,7500000.0,FC Girondins Bordeaux,France,8000000.0,0
+2007,Laliga,Villarreal CF,summer,in,Diego López,34370,25,Spain,Goalkeeper,GK,2750000.0,Real Madrid,Spain,7000000.0,0
+2007,Laliga,Villarreal CF,summer,in,Ángel López,15500,26,Spain,Right-Back,RB,1500000.0,Celta de Vigo,Spain,6000000.0,0
+2007,Laliga,Villarreal CF,summer,in,Santi Cazorla,15799,22,Spain,Central Midfield,CM,3500000.0,Recreativo Huelva,Spain,1200000.0,0
+2007,Laliga,Villarreal CF,summer,in,Martín Cáceres,54935,20,Uruguay,Centre-Back,CB,,Defensor Sporting Club,Uruguay,900000.0,0
+2007,Laliga,Villarreal CF,summer,in,Mathías Vidangossy,46825,20,Chile,Attacking Midfield,AM,,Unión Española,Chile,800000.0,0
+2007,Laliga,Villarreal CF,summer,in,Diego Godín,54928,21,Uruguay,Centre-Back,CB,,Club Nacional,Uruguay,800000.0,0
+2007,Laliga,Villarreal CF,summer,in,Jon Dahl Tomasson,4169,30,Denmark,Centre-Forward,CF,4500000.0,VfB Stuttgart,Germany,500000.0,0
+2007,Laliga,Villarreal CF,summer,in,Leonardo Sigali,54570,20,Argentina,Centre-Back,CB,,CA Lanús,Argentina,0.0,0
+2007,Laliga,Villarreal CF,summer,in,Edmílson,5343,31,Brazil,Defensive Midfield,DM,3000000.0,FC Barcelona,Spain,0.0,0
+2007,Laliga,Villarreal CF,summer,in,Roberto Ayala,7565,34,Argentina,Centre-Back,CB,8750000.0,Valencia CF,Spain,0.0,0
+2007,Laliga,Villarreal CF,summer,in,Joan Capdevila,7486,29,Spain,Left-Back,LB,7500000.0,Deportivo de La Coruña,Spain,0.0,0
+2007,Laliga,Villarreal CF,winter,in,Marco Ruben,30825,21,Argentina,Centre-Forward,CF,3000000.0,CA River Plate,Argentina,4800000.0,0
+2007,Laliga,Villarreal CF,winter,in,Sebastián Eguren,35590,27,Uruguay,Defensive Midfield,DM,1500000.0,Hammarby IF,Sweden,0.0,1
+2007,Laliga,Villarreal CF,summer,out,Diego Forlán,3408,28,Uruguay,Centre-Forward,CF,9000000.0,Atlético de Madrid,Spain,21000000.0,0
+2007,Laliga,Villarreal CF,summer,out,José Enrique,35571,21,Spain,Left-Back,LB,800000.0,Newcastle United,England,8700000.0,0
+2007,Laliga,Villarreal CF,summer,out,Roberto Ayala,7565,34,Argentina,Centre-Back,CB,8750000.0,Real Zaragoza,Spain,6000000.0,0
+2007,Laliga,Villarreal CF,summer,out,Martín Cáceres,54935,20,Uruguay,Centre-Back,CB,,Recreativo Huelva,Spain,150000.0,1
+2007,Laliga,Villarreal CF,summer,out,Jonathan Pereira,53239,20,Spain,Centre-Forward,CF,,Racing Ferrol,Spain,100000.0,1
+2007,Laliga,Villarreal CF,summer,out,Mariano Barbosa,30749,23,Argentina,Goalkeeper,GK,2200000.0,Recreativo Huelva,Spain,0.0,0
+2007,Laliga,Villarreal CF,summer,out,José Mari,6194,28,Spain,Centre-Forward,CF,3500000.0,Real Betis Balompié,Spain,0.0,0
+2007,Laliga,Villarreal CF,summer,out,Javier López Vallejo,7824,31,Spain,Goalkeeper,GK,3000000.0,Real Zaragoza,Spain,0.0,0
+2007,Laliga,Villarreal CF,summer,out,Juan Manuel Peña,7806,34,Bolivia,Centre-Back,CB,1500000.0,Celta de Vigo,Spain,0.0,0
+2007,Laliga,Villarreal CF,summer,out,Quique Álvarez,7832,31,Spain,Centre-Back,CB,900000.0,Recreativo Huelva,Spain,0.0,0
+2007,Laliga,Villarreal CF,summer,out,Rodolfo Arruabarrena,7827,31,Argentina,Left-Back,LB,2250000.0,AEK Athens,Greece,0.0,0
+2007,Laliga,Villarreal CF,summer,out,Leandro Somoza,26452,26,Argentina,Defensive Midfield,DM,4200000.0,Real Betis Balompié,Spain,0.0,1
+2007,Laliga,Villarreal CF,summer,out,Mathías Vidangossy,46825,20,Chile,Attacking Midfield,AM,500000.0,UD Almería,Spain,0.0,1
+2007,Laliga,Villarreal CF,summer,out,Marquitos,38998,20,Spain,Attacking Midfield,AM,50000.0,Recreativo Huelva,Spain,0.0,1
+2007,Laliga,Villarreal CF,summer,out,Leonardo Sigali,54570,20,Argentina,Centre-Back,CB,,CA Lanús,Argentina,0.0,1
+2007,Laliga,Villarreal CF,summer,out,César Arzo,15798,21,Spain,Centre-Back,CB,1500000.0,Real Murcia CF,Spain,0.0,1
+2007,Laliga,Villarreal CF,summer,out,Alessio Tacchinardi,5748,31,Italy,Defensive Midfield,DM,5000000.0,Juventus FC,Italy,0.0,1
+2007,Laliga,Villarreal CF,summer,out,Jon Dahl Tomasson,4169,30,Denmark,Centre-Forward,CF,4500000.0,VfB Stuttgart,Germany,0.0,1
+2007,Laliga,Villarreal CF,winter,out,Juan Román Riquelme,3854,29,Argentina,Attacking Midfield,AM,16000000.0,CA Boca Juniors,Argentina,12000000.0,0
+2007,Laliga,Villarreal CF,winter,out,Antonio Valencia,33544,22,Ecuador,Right-Back,RB,2500000.0,Wigan Athletic,England,2000000.0,0
+2007,Laliga,Villarreal CF,winter,out,Rio Mavuba,14949,23,France,Defensive Midfield,DM,8000000.0,LOSC Lille,France,500000.0,1
+2007,Laliga,Villarreal CF,winter,out,Xisco Nadal,15800,21,Spain,Right Winger,RW,600000.0,Granada 74 CF,Spain,0.0,0
+2007,Laliga,Villarreal CF,winter,out,Marco Ruben,30825,21,Argentina,Centre-Forward,CF,3000000.0,Recreativo Huelva,Spain,0.0,1
+2007,Laliga,Villarreal CF,winter,out,David Rocha,62683,22,Spain,Central Midfield,CM,100000.0,FC Cartagena,Spain,,0
+2007,Laliga,Villarreal CF,winter,out,Mathías Vidangossy,46825,20,Chile,Attacking Midfield,AM,800000.0,Audax Italiano,Chile,0.0,1

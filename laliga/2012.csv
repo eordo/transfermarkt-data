@@ -1,0 +1,490 @@
+season,league,club,window,movement,player_name,player_id,age,nationality,position,pos,market_value,dealing_club,dealing_country,fee,is_loan
+2012,Laliga,Athletic Bilbao,summer,in,Aritz Aduriz,29124,31,Spain,Centre-Forward,CF,4000000.0,Valencia CF,Spain,2500000.0,0
+2012,Laliga,Athletic Bilbao,summer,in,Isma López,54231,22,Spain,Left-Back,LB,,CD Lugo,Spain,0.0,0
+2012,Laliga,Athletic Bilbao,summer,in,Iago Herrerín,71570,24,Spain,Goalkeeper,GK,,Atlético Madrileño,Spain,0.0,0
+2012,Laliga,Athletic Bilbao,summer,out,Javi Martínez,44017,23,Spain,Centre-Back,CB,30000000.0,Bayern Munich,Germany,40000000.0,0
+2012,Laliga,Athletic Bilbao,summer,out,Koikili,57024,31,Spain,Left-Back,LB,500000.0,CD Mirandés,Spain,0.0,0
+2012,Laliga,Athletic Bilbao,summer,out,Igor Gabilondo,7471,33,Spain,Left Midfield,LM,1500000.0,AEK Larnaca,Cyprus,0.0,0
+2012,Laliga,Athletic Bilbao,summer,out,Iñigo Díaz de Cerio,38193,28,Spain,Centre-Forward,CF,800000.0,CD Mirandés,Spain,0.0,0
+2012,Laliga,Athletic Bilbao,summer,out,Pablo Orbaiz,7633,33,Spain,Defensive Midfield,DM,2500000.0,Rubin Kazan,Russia,0.0,0
+2012,Laliga,Athletic Bilbao,summer,out,Galder Cerrajería,128452,23,Spain,Central Midfield,CM,400000.0,Real Oviedo,Spain,0.0,0
+2012,Laliga,Athletic Bilbao,summer,out,David López,25462,29,Spain,Central Midfield,CM,2500000.0,Brighton & Hove Albion,England,0.0,0
+2012,Laliga,Athletic Bilbao,summer,out,Iago Herrerín,71570,24,Spain,Goalkeeper,GK,,CD Numancia,Spain,0.0,1
+2012,Laliga,Athletic Bilbao,summer,out,Iban Zubiaurre,47666,29,Spain,Right-Back,RB,600000.0,UD Salamanca,Spain,0.0,1
+2012,Laliga,Athletic Bilbao,summer,out,Aitor Ocio,7615,35,Spain,Centre-Back,CB,500000.0,Retired,,,0
+2012,Laliga,Athletic Bilbao,summer,out,Ustaritz,35554,29,Spain,Centre-Back,CB,1000000.0,Without Club,,,0
+2012,Laliga,Atlético de Madrid,summer,in,Cata Díaz,39087,32,Argentina,Centre-Back,CB,2500000.0,Getafe CF,Spain,1000000.0,0
+2012,Laliga,Atlético de Madrid,summer,in,Emre Belözoğlu,5782,31,Türkiye,Central Midfield,CM,7500000.0,Fenerbahce,Türkiye,0.0,0
+2012,Laliga,Atlético de Madrid,summer,in,Cristian Rodríguez,33448,26,Uruguay,Left Midfield,LM,5000000.0,FC Porto,Portugal,0.0,0
+2012,Laliga,Atlético de Madrid,summer,in,Domingo Cisma,51535,30,Spain,Left-Back,LB,2000000.0,Racing Santander,Spain,0.0,0
+2012,Laliga,Atlético de Madrid,winter,in,Emiliano Insúa,45599,24,Argentina,Left-Back,LB,10000000.0,Sporting CP,Portugal,3500000.0,0
+2012,Laliga,Atlético de Madrid,summer,out,Eduardo Salvio,84535,22,Argentina,Right Winger,RW,10000000.0,SL Benfica,Portugal,11000000.0,0
+2012,Laliga,Atlético de Madrid,summer,out,Álvaro Domínguez,62915,23,Spain,Centre-Back,CB,8000000.0,Borussia Mönchengladbach,Germany,10000000.0,0
+2012,Laliga,Atlético de Madrid,summer,out,Luis Amaranto Perea,27489,33,Colombia,Centre-Back,CB,1500000.0,CD Cruz Azul,Mexico,0.0,0
+2012,Laliga,Atlético de Madrid,summer,out,Antonio López,7723,30,Spain,Left-Back,LB,1500000.0,RCD Mallorca,Spain,0.0,0
+2012,Laliga,Atlético de Madrid,summer,out,Paulo Assunção,14244,32,Brazil,Defensive Midfield,DM,1500000.0,São Paulo Futebol Clube,Brazil,0.0,0
+2012,Laliga,Atlético de Madrid,summer,out,Fran Mérida,42920,22,Spain,Central Midfield,CM,1500000.0,Hércules CF,Spain,0.0,0
+2012,Laliga,Atlético de Madrid,summer,out,Borja Bastón,85324,20,Spain,Centre-Forward,CF,600000.0,SD Huesca,Spain,0.0,1
+2012,Laliga,Atlético de Madrid,summer,out,Pizzi,64339,22,Portugal,Attacking Midfield,AM,4500000.0,Deportivo de La Coruña,Spain,0.0,1
+2012,Laliga,Atlético de Madrid,summer,out,Leandro Cabrera,102423,21,Uruguay,Centre-Back,CB,1000000.0,Hércules CF,Spain,0.0,1
+2012,Laliga,Atlético de Madrid,summer,out,Rúben Micael,84491,25,Portugal,Central Midfield,CM,5000000.0,SC Braga,Portugal,0.0,1
+2012,Laliga,Atlético de Madrid,summer,out,Rubén Pérez,113045,23,Spain,Defensive Midfield,DM,2800000.0,Real Betis Balompié,Spain,0.0,1
+2012,Laliga,Atlético de Madrid,summer,out,Dani Pacheco,28285,21,Spain,Central Midfield,CM,600000.0,Liverpool FC,England,0.0,1
+2012,Laliga,Atlético de Madrid,summer,out,Diego,4248,27,Brazil,Attacking Midfield,AM,10000000.0,VfL Wolfsburg,Germany,0.0,1
+2012,Laliga,Atlético de Madrid,winter,out,Emre Belözoğlu,5782,32,Türkiye,Central Midfield,CM,4000000.0,Fenerbahce,Türkiye,350000.0,0
+2012,Laliga,Atlético de Madrid,winter,out,Sílvio,84511,25,Portugal,Right-Back,RB,8000000.0,Deportivo de La Coruña,Spain,0.0,1
+2012,Laliga,Atlético de Madrid,winter,out,Joel Robles,101118,22,Spain,Goalkeeper,GK,2000000.0,Wigan Athletic,England,0.0,1
+2012,Laliga,CA Osasuna,summer,in,José Núñez,139440,24,Paraguay,Second Striker,SS,,Club Libertad Asunción,Paraguay,300000.0,1
+2012,Laliga,CA Osasuna,summer,in,Anthony Annan,29122,26,Ghana,Defensive Midfield,DM,2500000.0,FC Schalke 04,Germany,300000.0,1
+2012,Laliga,CA Osasuna,summer,in,Sisi González,51713,26,Spain,Attacking Midfield,AM,2000000.0,Real Valladolid CF,Spain,0.0,0
+2012,Laliga,CA Osasuna,summer,in,Nano,7901,30,Spain,Left-Back,LB,700000.0,CD Numancia,Spain,0.0,0
+2012,Laliga,CA Osasuna,summer,in,Alejandro Arribas,137174,23,Spain,Centre-Back,CB,2000000.0,Rayo Vallecano,Spain,0.0,0
+2012,Laliga,CA Osasuna,summer,in,Emiliano Armenteros,30747,26,Argentina,Left Winger,LW,2800000.0,Sevilla FC,Spain,0.0,0
+2012,Laliga,CA Osasuna,summer,in,Joseba Llorente,7480,32,Spain,Centre-Forward,CF,2500000.0,Real Sociedad,Spain,0.0,1
+2012,Laliga,CA Osasuna,winter,in,Miguel de las Cuevas,54774,26,Spain,Right Winger,RW,3500000.0,Sporting Gijón,Spain,0.0,1
+2012,Laliga,CA Osasuna,winter,in,Francisco Silva,84870,26,Chile,Defensive Midfield,DM,1000000.0,CD Universidad Católica,Chile,0.0,1
+2012,Laliga,CA Osasuna,winter,in,Ricardo,3535,41,Spain,Goalkeeper,GK,100000.0,Career break,,,0
+2012,Laliga,CA Osasuna,summer,out,Ibrahima Balde,134497,23,Senegal,Centre-Forward,CF,2500000.0,Kuban Krasnodar (-2018),Russia,4000000.0,0
+2012,Laliga,CA Osasuna,summer,out,Dejan Lekic,49795,27,Serbia,Centre-Forward,CF,1800000.0,Genclerbirligi Ankara,Türkiye,1000000.0,0
+2012,Laliga,CA Osasuna,summer,out,Javad Nekounam,24619,31,Iran,Defensive Midfield,DM,3000000.0,Esteghlal FC,Iran,700000.0,0
+2012,Laliga,CA Osasuna,summer,out,Sergio Fernández,7544,35,Spain,Centre-Back,CB,700000.0,Sporting Gijón,Spain,0.0,0
+2012,Laliga,CA Osasuna,summer,out,Rovérsio,25110,28,Brazil,Centre-Back,CB,1200000.0,Orduspor,Türkiye,0.0,0
+2012,Laliga,CA Osasuna,summer,out,Eneko Satrústegui,158792,21,Spain,Centre-Back,CB,600000.0,CD Numancia,Spain,0.0,1
+2012,Laliga,CA Osasuna,summer,out,Nacho Zabal,63062,25,Spain,Goalkeeper,GK,200000.0,SD Huesca,Spain,0.0,1
+2012,Laliga,CA Osasuna,summer,out,Xavier Annunziata,94910,23,Spain,Left Winger,LW,400000.0,SD Huesca,Spain,0.0,1
+2012,Laliga,CA Osasuna,summer,out,Rúper,63012,25,Spain,Central Midfield,CM,900000.0,CD Mirandés,Spain,0.0,1
+2012,Laliga,CA Osasuna,summer,out,Ricardo,3535,40,Spain,Goalkeeper,GK,300000.0,Career break,,,0
+2012,Laliga,CA Osasuna,summer,out,Javier Calleja,7842,34,Spain,Left Midfield,LM,600000.0,Retired,,,0
+2012,Laliga,CA Osasuna,summer,out,Jukka Raitala,47785,23,Finland,Centre-Back,CB,1200000.0,TSG 1899 Hoffenheim,Germany,0.0,1
+2012,Laliga,CA Osasuna,summer,out,Raúl García,34601,25,Spain,Attacking Midfield,AM,5000000.0,Atlético de Madrid,Spain,0.0,1
+2012,Laliga,CA Osasuna,winter,out,Jon Echaide,59527,25,Spain,Centre-Back,CB,700000.0,SD Huesca,Spain,0.0,1
+2012,Laliga,CA Osasuna,winter,out,Roland Lamah,35035,25,Belgium,Left Winger,LW,2500000.0,Swansea City,England,0.0,1
+2012,Laliga,Celta de Vigo,summer,in,Augusto Fernández,39151,26,Argentina,Central Midfield,CM,2500000.0,CA Vélez Sarsfield,Argentina,1500000.0,0
+2012,Laliga,Celta de Vigo,summer,in,Michael Krohn-Dehli,18006,29,Denmark,Central Midfield,CM,3000000.0,Bröndby IF,Denmark,1000000.0,0
+2012,Laliga,Celta de Vigo,summer,in,Gustavo Cabral,30677,26,Argentina,Centre-Back,CB,800000.0,Arsenal FC,Argentina,500000.0,1
+2012,Laliga,Celta de Vigo,summer,in,Chu-young Park,30982,27,"Korea, South",Centre-Forward,CF,4000000.0,Arsenal FC,England,500000.0,1
+2012,Laliga,Celta de Vigo,summer,in,Samuel Llorca,57941,27,Spain,Centre-Back,CB,1000000.0,Hércules CF,Spain,450000.0,0
+2012,Laliga,Celta de Vigo,summer,in,Javi Varas,58341,29,Spain,Goalkeeper,GK,3000000.0,Sevilla FC,Spain,0.0,1
+2012,Laliga,Celta de Vigo,winter,in,Fabián Orellana,60890,27,Chile,Right Winger,RW,3000000.0,Granada CF,Spain,1200000.0,0
+2012,Laliga,Celta de Vigo,winter,in,Danijel Pranjic,25617,31,Croatia,Left-Back,LB,2000000.0,Sporting CP,Portugal,0.0,1
+2012,Laliga,Celta de Vigo,winter,in,Vadim Demidov,37247,26,Norway,Centre-Back,CB,2000000.0,Eintracht Frankfurt,Germany,0.0,1
+2012,Laliga,Celta de Vigo,summer,out,Dimitrios Papadopoulos,9836,30,Greece,Centre-Forward,CF,400000.0,Panthrakikos Komotini,Greece,0.0,0
+2012,Laliga,Celta de Vigo,summer,out,David Català,7877,32,Spain,Centre-Back,CB,500000.0,AEK Larnaca,Cyprus,0.0,0
+2012,Laliga,Celta de Vigo,summer,out,Yoel Rodríguez,58115,23,Spain,Goalkeeper,GK,800000.0,CD Lugo,Spain,0.0,1
+2012,Laliga,Celta de Vigo,summer,out,David Rodríguez,57950,26,Spain,Centre-Forward,CF,1200000.0,Sporting Gijón,Spain,0.0,1
+2012,Laliga,Celta de Vigo,summer,out,Jota Peleteiro,176591,21,Spain,Right Winger,RW,200000.0,Real Madrid Castilla,Spain,0.0,1
+2012,Laliga,Celta de Vigo,summer,out,Oier Sanjurjo,63040,26,Spain,Defensive Midfield,DM,600000.0,CA Osasuna,Spain,0.0,1
+2012,Laliga,Celta de Vigo,summer,out,Fabián Orellana,60890,26,Chile,Right Winger,RW,2000000.0,Granada CF,Spain,0.0,1
+2012,Laliga,Celta de Vigo,winter,out,Joan Tomás,64419,27,Spain,Left Winger,LW,900000.0,AEK Larnaca,Cyprus,0.0,0
+2012,Laliga,Celta de Vigo,winter,out,Cristian Bustos,57922,29,Spain,Central Midfield,CM,900000.0,Sporting Gijón,Spain,0.0,1
+2012,Laliga,Celta de Vigo,winter,out,Dani Abalo,57956,25,Spain,Right Winger,RW,500000.0,SC Beira-Mar,Portugal,0.0,1
+2012,Laliga,Deportivo de La Coruña,summer,in,Nélson Oliveira,72768,20,Portugal,Centre-Forward,CF,6000000.0,SL Benfica,Portugal,600000.0,1
+2012,Laliga,Deportivo de La Coruña,summer,in,Carlos Marchena,7572,33,Spain,Centre-Back,CB,3000000.0,Villarreal CF,Spain,0.0,0
+2012,Laliga,Deportivo de La Coruña,summer,in,Tiago Pinto,63293,24,Portugal,Left-Back,LB,1500000.0,Rio Ave FC,Portugal,0.0,1
+2012,Laliga,Deportivo de La Coruña,summer,in,André Santos,61743,23,Portugal,Defensive Midfield,DM,4300000.0,Sporting CP,Portugal,0.0,1
+2012,Laliga,Deportivo de La Coruña,summer,in,Evaldo,25106,30,Brazil,Left-Back,LB,2500000.0,Sporting CP,Portugal,0.0,1
+2012,Laliga,Deportivo de La Coruña,summer,in,Pizzi,64339,22,Portugal,Attacking Midfield,AM,4500000.0,Atlético de Madrid,Spain,0.0,1
+2012,Laliga,Deportivo de La Coruña,summer,in,Abel Aguilar,37388,27,Colombia,Defensive Midfield,DM,2500000.0,Hércules CF,Spain,0.0,1
+2012,Laliga,Deportivo de La Coruña,summer,in,Roderick Miranda,87856,21,Portugal,Centre-Back,CB,750000.0,SL Benfica,Portugal,0.0,1
+2012,Laliga,Deportivo de La Coruña,summer,in,Javier Camuñas,29170,32,Spain,Right Winger,RW,1800000.0,Villarreal CF,Spain,0.0,1
+2012,Laliga,Deportivo de La Coruña,winter,in,Kaká,41234,31,Brazil,Centre-Back,CB,400000.0,Videoton FC,Hungary,150000.0,1
+2012,Laliga,Deportivo de La Coruña,winter,in,Paulo Assunção,14244,32,Brazil,Defensive Midfield,DM,400000.0,São Paulo Futebol Clube,Brazil,0.0,0
+2012,Laliga,Deportivo de La Coruña,winter,in,Sílvio,84511,25,Portugal,Right-Back,RB,8000000.0,Atlético de Madrid,Spain,0.0,1
+2012,Laliga,Deportivo de La Coruña,summer,out,Andrés Guardado,20506,25,Mexico,Central Midfield,CM,5000000.0,Valencia CF,Spain,0.0,0
+2012,Laliga,Deportivo de La Coruña,summer,out,Lassad Nouioui,101015,26,Tunisia,Centre-Forward,CF,2000000.0,Celtic FC,Scotland,0.0,0
+2012,Laliga,Deportivo de La Coruña,summer,out,Diego Colotto,27453,31,Argentina,Centre-Back,CB,4000000.0,RCD Espanyol Barcelona,Spain,0.0,0
+2012,Laliga,Deportivo de La Coruña,summer,out,Claudio Morel Rodríguez,7924,34,Paraguay,Left-Back,LB,700000.0,CA Independiente,Argentina,0.0,0
+2012,Laliga,Deportivo de La Coruña,summer,out,Pablo Álvarez,44000,32,Spain,Right Winger,RW,1000000.0,CD Lugo,Spain,0.0,0
+2012,Laliga,Deportivo de La Coruña,summer,out,Felipe Ramos,59568,24,Spain,Goalkeeper,GK,,Valencia Mestalla,Spain,0.0,1
+2012,Laliga,Deportivo de La Coruña,summer,out,Borja Fernández,7512,31,Spain,Defensive Midfield,DM,1400000.0,Getafe CF,Spain,0.0,1
+2012,Laliga,Deportivo de La Coruña,summer,out,Xisco,34564,26,Spain,Centre-Forward,CF,1000000.0,Newcastle United,England,0.0,1
+2012,Laliga,Deportivo de La Coruña,winter,out,Diego Seoane,104916,24,Spain,Right-Back,RB,400000.0,Córdoba CF,Spain,0.0,1
+2012,Laliga,Deportivo de La Coruña,winter,out,Saúl,56130,27,Spain,Attacking Midfield,AM,800000.0,SD Ponferradina,Spain,,0
+2012,Laliga,Deportivo de La Coruña,winter,out,Rodolfo Bodipo,7867,35,Equatorial Guinea,Centre-Forward,CF,200000.0,Without Club,,,0
+2012,Laliga,Deportivo de La Coruña,winter,out,Roderick Miranda,87856,21,Portugal,Centre-Back,CB,1000000.0,SL Benfica,Portugal,0.0,1
+2012,Laliga,FC Barcelona,summer,in,Alex Song,27394,24,Cameroon,Defensive Midfield,DM,25000000.0,Arsenal FC,England,19000000.0,0
+2012,Laliga,FC Barcelona,summer,in,Jordi Alba,69751,23,Spain,Left-Back,LB,10000000.0,Valencia CF,Spain,14000000.0,0
+2012,Laliga,FC Barcelona,summer,out,Ibrahim Afellay,15760,26,Netherlands,Attacking Midfield,AM,9000000.0,FC Schalke 04,Germany,500000.0,1
+2012,Laliga,FC Barcelona,summer,out,Henrique,52513,25,Brazil,Centre-Back,CB,3000000.0,Sociedade Esportiva Palmeiras,Brazil,0.0,0
+2012,Laliga,FC Barcelona,summer,out,Seydou Keita,5486,32,Mali,Central Midfield,CM,8000000.0,Dalian Aerbin,China,0.0,0
+2012,Laliga,FC Barcelona,summer,out,Andreu Fontàs,65237,22,Spain,Centre-Back,CB,3500000.0,RCD Mallorca,Spain,0.0,1
+2012,Laliga,FC Barcelona,winter,out,Isaac Cuenca,176285,21,Spain,Left Winger,LW,4000000.0,Ajax Amsterdam,Netherlands,0.0,1
+2012,Laliga,Getafe CF,summer,in,Álvaro Vázquez,141835,21,Spain,Centre-Forward,CF,6000000.0,RCD Espanyol Barcelona,Spain,3000000.0,0
+2012,Laliga,Getafe CF,summer,in,Miguel Ángel Moyá,26065,28,Spain,Goalkeeper,GK,2000000.0,Valencia CF,Spain,2000000.0,0
+2012,Laliga,Getafe CF,summer,in,Xavi Torres,65301,25,Spain,Defensive Midfield,DM,3000000.0,Levante UD,Spain,500000.0,0
+2012,Laliga,Getafe CF,summer,in,David Abraham,58178,25,Argentina,Centre-Back,CB,3500000.0,FC Basel 1893,Switzerland,0.0,0
+2012,Laliga,Getafe CF,summer,in,Ángel Lafita,35562,27,Spain,Left Winger,LW,3000000.0,Real Zaragoza,Spain,0.0,0
+2012,Laliga,Getafe CF,summer,in,Paco Alcácer,126716,19,Spain,Centre-Forward,CF,2500000.0,Valencia CF,Spain,0.0,1
+2012,Laliga,Getafe CF,winter,in,Sergio Escudero,93935,23,Spain,Left-Back,LB,1000000.0,FC Schalke 04,Germany,200000.0,1
+2012,Laliga,Getafe CF,winter,in,Federico Fernández,85475,23,Argentina,Centre-Back,CB,3000000.0,SSC Napoli,Italy,0.0,1
+2012,Laliga,Getafe CF,summer,out,Cata Díaz,39087,32,Argentina,Centre-Back,CB,2500000.0,Atlético de Madrid,Spain,1000000.0,0
+2012,Laliga,Getafe CF,summer,out,Javi Casquero,7705,36,Spain,Defensive Midfield,DM,1000000.0,UD Almería,Spain,0.0,0
+2012,Laliga,Getafe CF,summer,out,Pedro Ríos,29187,30,Spain,Right Winger,RW,3000000.0,Levante UD,Spain,0.0,0
+2012,Laliga,Getafe CF,summer,out,Adrián Sardinero,125870,21,Spain,Left Winger,LW,400000.0,Hércules CF,Spain,0.0,0
+2012,Laliga,Getafe CF,summer,out,Óscar Ustari,3755,26,Argentina,Goalkeeper,GK,1000000.0,CA Boca Juniors,Argentina,0.0,0
+2012,Laliga,Getafe CF,summer,out,Javier Arizmendi,25411,28,Spain,Centre-Forward,CF,2000000.0,RCD Mallorca,Spain,0.0,1
+2012,Laliga,Getafe CF,summer,out,Álex Pérez,167830,20,Spain,Centre-Back,CB,,SD Huesca,Spain,0.0,1
+2012,Laliga,Getafe CF,summer,out,Pablo Pintos,76728,25,Uruguay,Right-Back,RB,800000.0,Kasimpasa,Türkiye,,0
+2012,Laliga,Getafe CF,summer,out,Miku,58001,27,Venezuela,Centre-Forward,CF,5000000.0,Celtic FC,Scotland,0.0,1
+2012,Laliga,Getafe CF,summer,out,Álvaro Arroyo,138662,24,Spain,Centre-Back,CB,,AD Alcorcón,Spain,0.0,1
+2012,Laliga,Getafe CF,summer,out,Rubén Pérez,113045,23,Spain,Defensive Midfield,DM,2800000.0,Atlético de Madrid,Spain,0.0,1
+2012,Laliga,Getafe CF,summer,out,Tsepo Masilela,63287,27,South Africa,Left-Back,LB,1000000.0,Maccabi Haifa,Israel,0.0,1
+2012,Laliga,Getafe CF,summer,out,Miguel Ángel Moyá,26065,28,Spain,Goalkeeper,GK,2000000.0,Valencia CF,Spain,0.0,1
+2012,Laliga,Getafe CF,winter,out,David Abraham,58178,26,Argentina,Centre-Back,CB,3000000.0,TSG 1899 Hoffenheim,Germany,4000000.0,0
+2012,Laliga,Getafe CF,winter,out,Dani Güiza,8186,32,Spain,Centre-Forward,CF,2000000.0,Johor Darul Ta'zim,Malaysia,0.0,1
+2012,Laliga,Granada CF,summer,in,Youssef El Arabi,96533,25,Morocco,Centre-Forward,CF,6500000.0,Al-Hilal SFC,Saudi Arabia,5000000.0,0
+2012,Laliga,Granada CF,summer,in,Allan,126422,21,Brazil,Defensive Midfield,DM,3000000.0,Club Deportivo Maldonado,Uruguay,3000000.0,0
+2012,Laliga,Granada CF,summer,in,Borja Gómez,65060,24,Spain,Centre-Back,CB,1500000.0,Karpaty Lviv,Ukraine,800000.0,0
+2012,Laliga,Granada CF,summer,in,Silvan Widmer,168989,19,Switzerland,Right-Back,RB,800000.0,FC Aarau,Switzerland,750000.0,0
+2012,Laliga,Granada CF,summer,in,Yacine Brahimi,60517,22,Algeria,Left Winger,LW,3000000.0,Stade Rennais FC,France,300000.0,1
+2012,Laliga,Granada CF,summer,in,Álex Bernal,199131,21,Spain,Central Midfield,CM,,Real Betis B,Spain,0.0,0
+2012,Laliga,Granada CF,summer,in,Brayan Angulo,67866,22,Colombia,Left-Back,LB,,CD Atlético Baleares,Spain,0.0,0
+2012,Laliga,Granada CF,summer,in,Iriney,35515,31,Brazil,Central Midfield,CM,2500000.0,Real Betis Balompié,Spain,0.0,0
+2012,Laliga,Granada CF,summer,in,Juanma Ortiz,7353,30,Spain,Right-Back,RB,1200000.0,Rangers FC,Scotland,0.0,0
+2012,Laliga,Granada CF,summer,in,Ritchie Kitoko,42732,24,Belgium,Central Midfield,CM,,CD Tenerife,Spain,0.0,0
+2012,Laliga,Granada CF,summer,in,Gabriel Torje,47184,22,Romania,Right Winger,RW,5000000.0,Udinese Calcio,Italy,0.0,1
+2012,Laliga,Granada CF,summer,in,Antonio Floro Flores,16893,29,Italy,Centre-Forward,CF,6000000.0,Udinese Calcio,Italy,0.0,1
+2012,Laliga,Granada CF,summer,in,Allan Nyom,111508,24,Cameroon,Right-Back,RB,4000000.0,Udinese Calcio,Italy,0.0,1
+2012,Laliga,Granada CF,winter,in,Diego Buonanotte,45646,24,Argentina,Attacking Midfield,AM,2000000.0,Málaga CF,Spain,2300000.0,0
+2012,Laliga,Granada CF,winter,in,Nolito,70934,26,Spain,Left Winger,LW,9500000.0,SL Benfica,Portugal,600000.0,1
+2012,Laliga,Granada CF,winter,in,Carlos Aranda,7841,32,Spain,Centre-Forward,CF,1000000.0,Real Zaragoza,Spain,300000.0,0
+2012,Laliga,Granada CF,winter,in,Jona,93047,24,Honduras,Centre-Forward,CF,300000.0,CD Ourense,Spain,20000.0,0
+2012,Laliga,Granada CF,winter,in,Naldo,148666,24,Brazil,Centre-Back,CB,750000.0,União São João EC (SP),Brazil,,0
+2012,Laliga,Granada CF,winter,in,Recio,150948,21,Spain,Central Midfield,CM,1500000.0,Málaga CF,Spain,0.0,1
+2012,Laliga,Granada CF,summer,out,Gabriel Silva,114340,21,Brazil,Left-Back,LB,2500000.0,Udinese Calcio,Italy,4000000.0,0
+2012,Laliga,Granada CF,summer,out,Yohan Mollo,60570,22,France,Right Winger,RW,3000000.0,AS Nancy-Lorraine,France,2000000.0,0
+2012,Laliga,Granada CF,summer,out,David Ferreiro,71918,24,Spain,Left Winger,LW,,Racing Santander,Spain,50000.0,1
+2012,Laliga,Granada CF,summer,out,Abel Gómez,29065,30,Spain,Central Midfield,CM,2000000.0,Córdoba CF,Spain,0.0,0
+2012,Laliga,Granada CF,summer,out,Matías Campos Toro,73408,23,Chile,Left-Back,LB,1300000.0,AC Siena,Italy,0.0,0
+2012,Laliga,Granada CF,summer,out,Álex Goikoetxea,71631,29,Spain,Centre-Back,CB,,Racing Santander,Spain,0.0,0
+2012,Laliga,Granada CF,summer,out,José Juan Figueras,15499,32,Spain,Goalkeeper,GK,300000.0,CD Lugo,Spain,0.0,0
+2012,Laliga,Granada CF,summer,out,Óscar Pérez,51520,30,Spain,Central Midfield,CM,,Racing Santander,Spain,0.0,0
+2012,Laliga,Granada CF,summer,out,Pedro Barrancos,93933,24,Spain,Attacking Midfield,AM,,UCAM Murcia CF,Spain,0.0,0
+2012,Laliga,Granada CF,summer,out,Álex Bernal,199131,21,Spain,Central Midfield,CM,,CD Mirandés,Spain,0.0,1
+2012,Laliga,Granada CF,summer,out,José María Cases,73070,25,Spain,Attacking Midfield,AM,,CD Mirandés,Spain,0.0,1
+2012,Laliga,Granada CF,summer,out,Ritchie Kitoko,42732,24,Belgium,Central Midfield,CM,,Girona FC,Spain,0.0,1
+2012,Laliga,Granada CF,summer,out,Silvan Widmer,168989,19,Switzerland,Right-Back,RB,800000.0,FC Aarau,Switzerland,0.0,1
+2012,Laliga,Granada CF,summer,out,Toti,57930,24,Spain,Attacking Midfield,AM,500000.0,Hércules CF,Spain,0.0,1
+2012,Laliga,Granada CF,summer,out,Álex Cruz,92939,22,Spain,Striker,Striker,300000.0,UCAM Murcia CF,Spain,0.0,1
+2012,Laliga,Granada CF,summer,out,Allan,126422,21,Brazil,Defensive Midfield,DM,3000000.0,Udinese Calcio,Italy,0.0,1
+2012,Laliga,Granada CF,summer,out,Kabiru Akinsola,97213,21,Nigeria,Centre-Forward,CF,300000.0,FC Cartagena,Spain,0.0,1
+2012,Laliga,Granada CF,summer,out,Juanjo,71140,26,Spain,Centre-Forward,CF,,UD Logroñés,Spain,0.0,1
+2012,Laliga,Granada CF,summer,out,David de Coz,51555,32,Spain,Right-Back,RB,,CD Lugo,Spain,0.0,1
+2012,Laliga,Granada CF,summer,out,Daniel Pudil,35583,26,Czech Republic,Left-Back,LB,1800000.0,Watford FC,England,0.0,1
+2012,Laliga,Granada CF,summer,out,Ikechi Anya,107427,24,Scotland,Left Midfield,LM,,Watford FC,England,0.0,1
+2012,Laliga,Granada CF,summer,out,Jeison Murillo,131102,20,Colombia,Centre-Back,CB,,UD Las Palmas,Spain,0.0,1
+2012,Laliga,Granada CF,summer,out,Héctor Yuste,94414,24,Spain,Centre-Back,CB,600000.0,Racing Santander,Spain,0.0,1
+2012,Laliga,Granada CF,summer,out,David Cortés,7671,33,Spain,Right-Back,RB,1000000.0,Without Club,,,0
+2012,Laliga,Granada CF,summer,out,Noé Pamarot,5531,33,France,Centre-Back,CB,800000.0,Without Club,,,0
+2012,Laliga,Granada CF,summer,out,Álex Geijo,15981,30,Spain,Centre-Forward,CF,2000000.0,Udinese Calcio,Italy,0.0,1
+2012,Laliga,Granada CF,summer,out,Allan Nyom,111508,24,Cameroon,Right-Back,RB,4000000.0,Udinese Calcio,Italy,0.0,1
+2012,Laliga,Granada CF,summer,out,Borja Gómez,65060,24,Spain,Centre-Back,CB,1500000.0,Karpaty Lviv,Ukraine,0.0,1
+2012,Laliga,Granada CF,summer,out,Ikechukwu Uche,44027,28,Nigeria,Centre-Forward,CF,3500000.0,Villarreal CF,Spain,0.0,1
+2012,Laliga,Granada CF,summer,out,Franco Jara,75035,23,Argentina,Centre-Forward,CF,5000000.0,SL Benfica,Portugal,0.0,1
+2012,Laliga,Granada CF,summer,out,Júlio César,52647,25,Brazil,Goalkeeper,GK,1000000.0,SL Benfica B,Portugal,0.0,1
+2012,Laliga,Granada CF,summer,out,Carlos Martins,14511,30,Portugal,Attacking Midfield,AM,5000000.0,SL Benfica,Portugal,0.0,1
+2012,Laliga,Granada CF,winter,out,Fabián Orellana,60890,27,Chile,Right Winger,RW,3000000.0,Celta de Vigo,Spain,1200000.0,0
+2012,Laliga,Granada CF,winter,out,Juanjo,71140,27,Spain,Centre-Forward,CF,,CD Guadalajara,Spain,0.0,0
+2012,Laliga,Granada CF,winter,out,Álex Bernal,199131,21,Spain,Central Midfield,CM,200000.0,CD Leganés,Spain,0.0,1
+2012,Laliga,Granada CF,winter,out,Naldo,148666,24,Brazil,Centre-Back,CB,750000.0,Bologna FC 1909,Italy,0.0,1
+2012,Laliga,Granada CF,winter,out,José María Cases,73070,26,Spain,Attacking Midfield,AM,200000.0,CD Alcoyano,Spain,0.0,1
+2012,Laliga,Granada CF,winter,out,Moisés Hurtado,15764,31,Spain,Defensive Midfield,DM,1000000.0,Girona FC,Spain,,0
+2012,Laliga,Granada CF,winter,out,Jona,93047,24,Honduras,Centre-Forward,CF,300000.0,Vitória Guimarães SC,Portugal,0.0,1
+2012,Laliga,Granada CF,winter,out,Kabiru Akinsola,97213,21,Nigeria,Centre-Forward,CF,,Doxa Katokopias,Cyprus,0.0,1
+2012,Laliga,Granada CF,winter,out,Gonzalo,62944,25,Spain,Goalkeeper,GK,,Without Club,,,0
+2012,Laliga,Granada CF,winter,out,Antonio Floro Flores,16893,29,Italy,Centre-Forward,CF,4000000.0,Udinese Calcio,Italy,0.0,1
+2012,Laliga,Granada CF,winter,out,Jaime Romero,81998,22,Spain,Right Winger,RW,1000000.0,Udinese Calcio,Italy,0.0,1
+2012,Laliga,Levante UD,summer,in,Xavi Torres,65301,25,Spain,Defensive Midfield,DM,3000000.0,Málaga CF,Spain,300000.0,0
+2012,Laliga,Levante UD,summer,in,Pape Diop,39907,26,Senegal,Defensive Midfield,DM,3000000.0,Racing Santander,Spain,200000.0,0
+2012,Laliga,Levante UD,summer,in,Keylor Navas,79422,25,Costa Rica,Goalkeeper,GK,800000.0,Albacete Balompié,Spain,150000.0,0
+2012,Laliga,Levante UD,summer,in,Míchel Herrero,65331,23,Spain,Central Midfield,CM,1500000.0,Valencia CF,Spain,0.0,0
+2012,Laliga,Levante UD,summer,in,Obafemi Martins,5794,27,Nigeria,Centre-Forward,CF,2500000.0,Rubin Kazan,Russia,0.0,0
+2012,Laliga,Levante UD,summer,in,Theofanis Gekas,16402,32,Greece,Centre-Forward,CF,2000000.0,Samsunspor,Türkiye,0.0,0
+2012,Laliga,Levante UD,summer,in,Nikolaos Karabelas,42935,27,Greece,Left-Back,LB,800000.0,AEK Athens,Greece,0.0,0
+2012,Laliga,Levante UD,summer,in,Pedro Ríos,29187,30,Spain,Right Winger,RW,3000000.0,Getafe CF,Spain,0.0,0
+2012,Laliga,Levante UD,summer,in,Ángel Rodríguez,51510,25,Spain,Centre-Forward,CF,1500000.0,Elche CF,Spain,0.0,0
+2012,Laliga,Levante UD,summer,in,Christian Lell,2233,27,Germany,Right-Back,RB,1750000.0,Hertha BSC,Germany,0.0,0
+2012,Laliga,Levante UD,summer,in,Arouna Koné,8552,28,Cote d'Ivoire,Centre-Forward,CF,4000000.0,Sevilla FC,Spain,0.0,0
+2012,Laliga,Levante UD,summer,in,Dariusz Dudka,24502,28,Poland,Defensive Midfield,DM,2000000.0,AJ Auxerre,France,0.0,0
+2012,Laliga,Levante UD,summer,in,Massimo Volta,54921,25,Italy,Centre-Back,CB,700000.0,UC Sampdoria,Italy,0.0,1
+2012,Laliga,Levante UD,winter,in,Loukas Vyntra,16458,31,Greece,Centre-Back,CB,1750000.0,Panathinaikos FC,Greece,0.0,0
+2012,Laliga,Levante UD,winter,in,Simão,58281,24,Mozambique,Defensive Midfield,DM,1000000.0,Shandong Luneng Taishan,China,0.0,0
+2012,Laliga,Levante UD,winter,in,Valdo,7528,31,Cape Verde,Right Winger,RW,1200000.0,CF Atlante,Mexico,0.0,1
+2012,Laliga,Levante UD,winter,in,Robert Acquafresca,35703,25,Italy,Centre-Forward,CF,3000000.0,Bologna FC 1909,Italy,0.0,1
+2012,Laliga,Levante UD,summer,out,Arouna Koné,8552,28,Cote d'Ivoire,Centre-Forward,CF,7000000.0,Wigan Athletic,England,3800000.0,0
+2012,Laliga,Levante UD,summer,out,Xavi Torres,65301,25,Spain,Defensive Midfield,DM,3000000.0,Getafe CF,Spain,500000.0,0
+2012,Laliga,Levante UD,summer,out,Valdo,7528,31,Cape Verde,Right Winger,RW,2500000.0,CF Atlante,Mexico,0.0,0
+2012,Laliga,Levante UD,summer,out,Marc Mateu,96539,22,Spain,Left-Back,LB,200000.0,Real Zaragoza B,Spain,0.0,0
+2012,Laliga,Levante UD,summer,out,Rubén Suárez,29193,33,Spain,Second Striker,SS,1500000.0,Guizhou Renhe,China,0.0,0
+2012,Laliga,Levante UD,summer,out,Javi Venta,7831,36,Spain,Right-Back,RB,500000.0,Villarreal CF,Spain,0.0,0
+2012,Laliga,Levante UD,summer,out,Javier Farinós,5785,34,Spain,Defensive Midfield,DM,800000.0,Without Club,,,0
+2012,Laliga,Levante UD,summer,out,Asier del Horno,7617,31,Spain,Left-Back,LB,1000000.0,Retired,,,0
+2012,Laliga,Levante UD,summer,out,Keylor Navas,79422,25,Costa Rica,Goalkeeper,GK,800000.0,Albacete Balompié,Spain,0.0,1
+2012,Laliga,Levante UD,summer,out,Abdelkader Ghezzal,76406,27,Algeria,Centre-Forward,CF,2500000.0,AS Bari,Italy,0.0,1
+2012,Laliga,Levante UD,summer,out,Pedro Botelho,26239,22,Brazil,Left-Back,LB,1500000.0,Arsenal FC,England,0.0,1
+2012,Laliga,Levante UD,summer,out,Arouna Koné,8552,28,Cote d'Ivoire,Centre-Forward,CF,4000000.0,Sevilla FC,Spain,0.0,1
+2012,Laliga,Levante UD,summer,out,Gustavo Cabral,30677,26,Argentina,Centre-Back,CB,800000.0,Arsenal FC,Argentina,0.0,1
+2012,Laliga,Levante UD,summer,out,Xavi Torres,65301,25,Spain,Defensive Midfield,DM,3000000.0,Málaga CF,Spain,0.0,1
+2012,Laliga,Levante UD,winter,out,Obafemi Martins,5794,28,Nigeria,Centre-Forward,CF,3500000.0,Seattle Sounders FC,United States,3640000.0,0
+2012,Laliga,Levante UD,winter,out,Ángel Rodríguez,51510,25,Spain,Centre-Forward,CF,1500000.0,Elche CF,Spain,0.0,1
+2012,Laliga,Levante UD,winter,out,Miguel Pallardó,36756,26,Spain,Central Midfield,CM,1000000.0,UD Almería,Spain,0.0,1
+2012,Laliga,Levante UD,winter,out,Óscar Serrano,26373,31,Spain,Left Midfield,LM,1000000.0,Without Club,,,0
+2012,Laliga,Levante UD,winter,out,Theofanis Gekas,16402,32,Greece,Centre-Forward,CF,2000000.0,Without Club,,,0
+2012,Laliga,Levante UD,winter,out,Massimo Volta,54921,25,Italy,Centre-Back,CB,500000.0,UC Sampdoria,Italy,0.0,1
+2012,Laliga,Málaga CF,summer,in,Javier Saviola,7611,30,Argentina,Second Striker,SS,6000000.0,SL Benfica,Portugal,0.0,0
+2012,Laliga,Málaga CF,summer,in,Manuel Iturra,40428,28,Chile,Defensive Midfield,DM,1000000.0,Club Universidad de Chile,Chile,0.0,0
+2012,Laliga,Málaga CF,summer,in,Roque Santa Cruz,215,31,Paraguay,Centre-Forward,CF,3000000.0,Manchester City,England,0.0,1
+2012,Laliga,Málaga CF,summer,in,Oguchi Onyewu,12517,30,United States,Centre-Back,CB,7000000.0,Sporting CP,Portugal,0.0,1
+2012,Laliga,Málaga CF,winter,in,Pedro Morales,75314,27,Chile,Attacking Midfield,AM,1000000.0,GNK Dinamo Zagreb,Croatia,0.0,0
+2012,Laliga,Málaga CF,winter,in,Diego Lugano,13829,32,Uruguay,Centre-Back,CB,1500000.0,Paris Saint-Germain,France,0.0,1
+2012,Laliga,Málaga CF,winter,in,Lucas Piazón,176485,18,Brazil,Defensive Midfield,DM,7000000.0,Chelsea FC,England,0.0,1
+2012,Laliga,Málaga CF,winter,in,Antunes,44699,25,Portugal,Left-Back,LB,200000.0,FC Paços de Ferreira,Portugal,0.0,1
+2012,Laliga,Málaga CF,summer,out,Santi Cazorla,15799,27,Spain,Central Midfield,CM,20000000.0,Arsenal FC,England,19000000.0,0
+2012,Laliga,Málaga CF,summer,out,Salomón Rondón,80197,22,Venezuela,Centre-Forward,CF,9000000.0,Rubin Kazan,Russia,9000000.0,0
+2012,Laliga,Málaga CF,summer,out,Apoño,58013,28,Spain,Central Midfield,CM,3000000.0,Real Zaragoza,Spain,1000000.0,0
+2012,Laliga,Málaga CF,summer,out,Xavi Torres,65301,25,Spain,Defensive Midfield,DM,3000000.0,Levante UD,Spain,300000.0,0
+2012,Laliga,Málaga CF,summer,out,Hélder Rosário,14196,32,Portugal,Centre-Back,CB,500000.0,SD Ponferradina,Spain,0.0,0
+2012,Laliga,Málaga CF,summer,out,Enzo Maresca,16651,32,Italy,Central Midfield,CM,1500000.0,UC Sampdoria,Italy,0.0,0
+2012,Laliga,Málaga CF,summer,out,Javier Malagueño,58722,29,Argentina,Centre-Back,CB,200000.0,Club Atlético Tigre,Argentina,0.0,0
+2012,Laliga,Málaga CF,summer,out,Joris Mathijsen,4563,32,Netherlands,Centre-Back,CB,3000000.0,Feyenoord Rotterdam,Netherlands,0.0,0
+2012,Laliga,Málaga CF,summer,out,Iván González,131942,24,Spain,Centre-Back,CB,1000000.0,Real Madrid Castilla,Spain,0.0,0
+2012,Laliga,Málaga CF,summer,out,Javi López,129653,24,Spain,Right Winger,RW,,Getafe CF B,Spain,0.0,0
+2012,Laliga,Málaga CF,summer,out,Rubén Martínez,8184,28,Spain,Goalkeeper,GK,500000.0,Rayo Vallecano,Spain,0.0,1
+2012,Laliga,Málaga CF,summer,out,Sandro Silva,74536,28,Brazil,Defensive Midfield,DM,750000.0,Cruzeiro Esporte Clube,Brazil,0.0,1
+2012,Laliga,Málaga CF,summer,out,Ruud van Nistelrooy,3407,36,Netherlands,Centre-Forward,CF,2000000.0,Retired,,,0
+2012,Laliga,Málaga CF,winter,out,Nacho Monreal,43003,26,Spain,Left-Back,LB,6000000.0,Arsenal FC,England,10000000.0,0
+2012,Laliga,Málaga CF,winter,out,Diego Buonanotte,45646,24,Argentina,Attacking Midfield,AM,2000000.0,Granada CF,Spain,2300000.0,0
+2012,Laliga,Málaga CF,winter,out,Sandro Silva,74536,28,Brazil,Defensive Midfield,DM,600000.0,Clube de Regatas Vasco da Gama,Brazil,,0
+2012,Laliga,Málaga CF,winter,out,Recio,150948,21,Spain,Central Midfield,CM,1500000.0,Granada CF,Spain,0.0,1
+2012,Laliga,Málaga CF,winter,out,Juanmi,126737,19,Spain,Left Winger,LW,2000000.0,Racing Santander,Spain,0.0,1
+2012,Laliga,RCD Espanyol Barcelona,summer,in,Cristhian Stuani,59323,25,Uruguay,Centre-Forward,CF,3000000.0,Reggina Calcio,Italy,2700000.0,0
+2012,Laliga,RCD Espanyol Barcelona,summer,in,Joan Capdevila,7486,34,Spain,Left-Back,LB,1500000.0,SL Benfica,Portugal,350000.0,0
+2012,Laliga,RCD Espanyol Barcelona,summer,in,Mubarak Wakaso,45639,21,Ghana,Central Midfield,CM,2000000.0,Villarreal CF,Spain,300000.0,0
+2012,Laliga,RCD Espanyol Barcelona,summer,in,Simão,8019,32,Portugal,Left Winger,LW,4500000.0,Besiktas JK,Türkiye,0.0,0
+2012,Laliga,RCD Espanyol Barcelona,summer,in,Diego Colotto,27453,31,Argentina,Centre-Back,CB,4000000.0,Deportivo de La Coruña,Spain,0.0,0
+2012,Laliga,RCD Espanyol Barcelona,summer,in,Sergio Tejera,38817,22,Spain,Central Midfield,CM,1000000.0,RCD Mallorca,Spain,,0
+2012,Laliga,RCD Espanyol Barcelona,summer,in,Samuele Longo,124560,20,Italy,Centre-Forward,CF,1500000.0,Inter Milan,Italy,0.0,1
+2012,Laliga,RCD Espanyol Barcelona,winter,in,Martin Petrov,670,33,Bulgaria,Left Winger,LW,600000.0,Bolton Wanderers,England,0.0,0
+2012,Laliga,RCD Espanyol Barcelona,summer,out,Álvaro Vázquez,141835,21,Spain,Centre-Forward,CF,6000000.0,Getafe CF,Spain,3000000.0,0
+2012,Laliga,RCD Espanyol Barcelona,summer,out,Kalu Uche,6585,29,Nigeria,Centre-Forward,CF,3500000.0,Kasimpasa,Türkiye,1500000.0,0
+2012,Laliga,RCD Espanyol Barcelona,summer,out,Javi Márquez,72315,26,Spain,Central Midfield,CM,6000000.0,RCD Mallorca,Spain,1200000.0,0
+2012,Laliga,RCD Espanyol Barcelona,summer,out,Ben Sahar,40436,22,Israel,Centre-Forward,CF,1500000.0,Hertha BSC,Germany,0.0,0
+2012,Laliga,RCD Espanyol Barcelona,summer,out,Manu Molina,160671,20,Spain,Central Midfield,CM,300000.0,Valencia Mestalla,Spain,0.0,0
+2012,Laliga,RCD Espanyol Barcelona,summer,out,Dani Nieto,67544,21,Spain,Right Winger,RW,500000.0,AD Alcorcón,Spain,0.0,0
+2012,Laliga,RCD Espanyol Barcelona,summer,out,Walter Pandiani,7691,36,Uruguay,Centre-Forward,CF,400000.0,Villarreal CF,Spain,0.0,0
+2012,Laliga,RCD Espanyol Barcelona,summer,out,Thievy Bifouma,181477,20,Congo,Left Winger,LW,2500000.0,UD Las Palmas,Spain,0.0,1
+2012,Laliga,RCD Espanyol Barcelona,summer,out,Jordi Amat,85289,20,Indonesia,Centre-Back,CB,2000000.0,Rayo Vallecano,Spain,0.0,1
+2012,Laliga,RCD Espanyol Barcelona,summer,out,Adrián Luna,131113,20,Uruguay,Attacking Midfield,AM,500000.0,Club Nacional,Uruguay,0.0,1
+2012,Laliga,RCD Espanyol Barcelona,summer,out,Dídac Vilà,67090,23,Spain,Left-Back,LB,3500000.0,AC Milan,Italy,0.0,1
+2012,Laliga,RCD Espanyol Barcelona,summer,out,Philippe Coutinho,80444,20,Brazil,Attacking Midfield,AM,7000000.0,Inter Milan,Italy,0.0,1
+2012,Laliga,RCD Espanyol Barcelona,summer,out,Romaric,15808,29,Cote d'Ivoire,Defensive Midfield,DM,4000000.0,Sevilla FC,Spain,0.0,1
+2012,Laliga,RCD Espanyol Barcelona,summer,out,Vladimír Weiss,92701,22,Slovakia,Left Winger,LW,3500000.0,Manchester City,England,0.0,1
+2012,Laliga,RCD Espanyol Barcelona,winter,out,Rui Fonte,9335,22,Portugal,Centre-Forward,CF,1500000.0,SL Benfica B,Portugal,0.0,0
+2012,Laliga,RCD Espanyol Barcelona,winter,out,Juan Albín,44139,26,Uruguay,Attacking Midfield,AM,2000000.0,Club Nacional,Uruguay,0.0,1
+2012,Laliga,RCD Espanyol Barcelona,winter,out,Ernesto Galán,73009,26,Spain,Right-Back,RB,1000000.0,Xerez CD,Spain,,0
+2012,Laliga,RCD Mallorca,summer,in,Pedro Geromel,32568,26,Brazil,Centre-Back,CB,4000000.0,1.FC Köln,Germany,1500000.0,1
+2012,Laliga,RCD Mallorca,summer,in,Javi Márquez,72315,26,Spain,Central Midfield,CM,6000000.0,RCD Espanyol Barcelona,Spain,1200000.0,0
+2012,Laliga,RCD Mallorca,summer,in,Giovani dos Santos,44674,23,Mexico,Second Striker,SS,4000000.0,Tottenham Hotspur,England,1000000.0,0
+2012,Laliga,RCD Mallorca,summer,in,Antonio López,7723,30,Spain,Left-Back,LB,1500000.0,Atlético de Madrid,Spain,0.0,0
+2012,Laliga,RCD Mallorca,summer,in,Rubén Miño,65266,23,Spain,Goalkeeper,GK,900000.0,FC Barcelona B,Spain,0.0,0
+2012,Laliga,RCD Mallorca,summer,in,Javier Arizmendi,25411,28,Spain,Centre-Forward,CF,2000000.0,Getafe CF,Spain,0.0,1
+2012,Laliga,RCD Mallorca,summer,in,Anderson Conceição,187759,22,Brazil,Centre-Back,CB,500000.0,Tombense Futebol Clube (MG),Brazil,0.0,1
+2012,Laliga,RCD Mallorca,summer,in,Andreu Fontàs,65237,22,Spain,Centre-Back,CB,3500000.0,FC Barcelona,Spain,0.0,1
+2012,Laliga,RCD Mallorca,winter,in,Fernando Tissone,35871,26,Argentina,Defensive Midfield,DM,2200000.0,UC Sampdoria,Italy,100000.0,1
+2012,Laliga,RCD Mallorca,winter,in,Antonio Luna,126516,21,Spain,Left-Back,LB,2500000.0,Sevilla FC,Spain,0.0,1
+2012,Laliga,RCD Mallorca,winter,in,Alan Hutton,9619,28,Scotland,Right-Back,RB,4000000.0,Aston Villa,England,0.0,1
+2012,Laliga,RCD Mallorca,summer,out,Iván Ramis,26066,27,Spain,Centre-Back,CB,6000000.0,Wigan Athletic,England,6000000.0,0
+2012,Laliga,RCD Mallorca,summer,out,Pablo Cáceres,40790,27,Uruguay,Left-Back,LB,1000000.0,Rangers de Talca,Chile,0.0,0
+2012,Laliga,RCD Mallorca,summer,out,Pau Cendrós,73138,25,Spain,Right-Back,RB,2000000.0,KAA Gent,Belgium,0.0,0
+2012,Laliga,RCD Mallorca,summer,out,Martí Crespí,58532,25,Spain,Centre-Back,CB,1000000.0,Chornomorets Odesa,Ukraine,0.0,0
+2012,Laliga,RCD Mallorca,summer,out,Chory Castro,28171,27,Uruguay,Left Winger,LW,6000000.0,Real Sociedad,Spain,0.0,0
+2012,Laliga,RCD Mallorca,summer,out,Gianni Zuiverloon,27304,25,Netherlands,Centre-Back,CB,2500000.0,SC Heerenveen,Netherlands,0.0,1
+2012,Laliga,RCD Mallorca,summer,out,Sergi Enrich,81988,22,Spain,Centre-Forward,CF,800000.0,AD Alcorcón,Spain,0.0,1
+2012,Laliga,RCD Mallorca,summer,out,Marvin Ogunjimi,33870,24,Belgium,Centre-Forward,CF,3500000.0,Standard Liège,Belgium,0.0,1
+2012,Laliga,RCD Mallorca,summer,out,Sergio Tejera,38817,22,Spain,Central Midfield,CM,1000000.0,RCD Espanyol Barcelona,Spain,,0
+2012,Laliga,RCD Mallorca,summer,out,Akihiro Ienaga,86167,26,Japan,Right Winger,RW,1000000.0,Gamba Osaka,Japan,0.0,1
+2012,Laliga,RCD Mallorca,summer,out,Chico Flores,51681,25,Spain,Centre-Back,CB,3500000.0,Genoa CFC,Italy,0.0,1
+2012,Laliga,RCD Mallorca,summer,out,Fernando Tissone,35871,25,Argentina,Defensive Midfield,DM,2500000.0,UC Sampdoria,Italy,0.0,1
+2012,Laliga,RCD Mallorca,winter,out,Marvin Ogunjimi,33870,25,Belgium,Centre-Forward,CF,3000000.0,Beerschot AC (-2013),Belgium,0.0,1
+2012,Laliga,Rayo Vallecano,summer,in,Alejandro Domínguez,18958,31,Argentina,Attacking Midfield,AM,2000000.0,Valencia CF,Spain,0.0,0
+2012,Laliga,Rayo Vallecano,summer,in,Adrián González,44073,24,Spain,Central Midfield,CM,2000000.0,Racing Santander,Spain,0.0,0
+2012,Laliga,Rayo Vallecano,summer,in,Rodri,8163,28,Spain,Centre-Back,CB,800000.0,Spartak Moscow,Russia,0.0,0
+2012,Laliga,Rayo Vallecano,summer,in,Alejandro Gálvez,128488,23,Spain,Centre-Back,CB,200000.0,Sporting Gijón,Spain,0.0,0
+2012,Laliga,Rayo Vallecano,summer,in,José Carlos,73244,24,Spain,Attacking Midfield,AM,1500000.0,AEK Athens,Greece,0.0,0
+2012,Laliga,Rayo Vallecano,summer,in,Manuel Arana,51383,27,Spain,Right Winger,RW,2500000.0,Racing Santander,Spain,0.0,0
+2012,Laliga,Rayo Vallecano,summer,in,Nicki Bille,46006,24,Denmark,Centre-Forward,CF,1800000.0,Villarreal CF,Spain,0.0,1
+2012,Laliga,Rayo Vallecano,summer,in,Rubén Martínez,8184,28,Spain,Goalkeeper,GK,500000.0,Málaga CF,Spain,0.0,1
+2012,Laliga,Rayo Vallecano,summer,in,Franco Vázquez,76163,23,Argentina,Attacking Midfield,AM,3000000.0,US Palermo,Italy,0.0,1
+2012,Laliga,Rayo Vallecano,summer,in,Mohammed Abu,164478,20,Ghana,Defensive Midfield,DM,1200000.0,Manchester City,England,0.0,1
+2012,Laliga,Rayo Vallecano,summer,in,Jordi Amat,85289,20,Indonesia,Centre-Back,CB,2000000.0,RCD Espanyol Barcelona,Spain,0.0,1
+2012,Laliga,Rayo Vallecano,winter,in,Raúl Tamudo,7899,35,Spain,Centre-Forward,CF,300000.0,CF Pachuca,Mexico,0.0,0
+2012,Laliga,Rayo Vallecano,winter,in,Gabriel Machado,55487,23,Brazil,Centre-Forward,CF,400000.0,Steaua Bucharest,Romania,0.0,0
+2012,Laliga,Rayo Vallecano,winter,in,Anaitz Arbilla,71548,25,Spain,Centre-Back,CB,700000.0,Hércules CF,Spain,0.0,0
+2012,Laliga,Rayo Vallecano,winter,in,Jordi Figueras,62941,25,Spain,Centre-Back,CB,2500000.0,Club Brugge KV,Belgium,0.0,1
+2012,Laliga,Rayo Vallecano,summer,out,Michu,70789,26,Spain,Second Striker,SS,6000000.0,Swansea City,England,2570000.0,0
+2012,Laliga,Rayo Vallecano,summer,out,José María Movilla,7763,37,Spain,Defensive Midfield,DM,700000.0,Real Zaragoza,Spain,0.0,0
+2012,Laliga,Rayo Vallecano,summer,out,Raúl Bravo,3771,31,Spain,Centre-Back,CB,1000000.0,Beerschot AC (-2013),Belgium,0.0,0
+2012,Laliga,Rayo Vallecano,summer,out,Alejandro Arribas,137174,23,Spain,Centre-Back,CB,2000000.0,CA Osasuna,Spain,0.0,0
+2012,Laliga,Rayo Vallecano,summer,out,Raúl Tamudo,7899,34,Spain,Centre-Forward,CF,1500000.0,CF Pachuca,Mexico,0.0,0
+2012,Laliga,Rayo Vallecano,summer,out,Juli Cerdá,57792,31,Spain,Second Striker,SS,600000.0,AD Alcorcón,Spain,0.0,0
+2012,Laliga,Rayo Vallecano,summer,out,Pape Maly Diamanka,176610,22,Senegal,Central Midfield,CM,300000.0,Vålerenga Fotball Elite,Norway,0.0,1
+2012,Laliga,Rayo Vallecano,summer,out,Míchel,8324,36,Spain,Attacking Midfield,AM,200000.0,Retired,,,0
+2012,Laliga,Rayo Vallecano,summer,out,Juan Quero,51476,27,Spain,Left Winger,LW,400000.0,Without Club,,,0
+2012,Laliga,Rayo Vallecano,summer,out,Dani Pacheco,28285,21,Spain,Central Midfield,CM,600000.0,Atlético de Madrid,Spain,0.0,1
+2012,Laliga,Rayo Vallecano,summer,out,Joel Robles,101118,22,Spain,Goalkeeper,GK,2000000.0,Atlético de Madrid,Spain,0.0,1
+2012,Laliga,Rayo Vallecano,summer,out,Jorge Pulido,67546,21,Spain,Centre-Back,CB,500000.0,Atlético de Madrid,Spain,0.0,1
+2012,Laliga,Rayo Vallecano,summer,out,Emiliano Armenteros,30747,26,Argentina,Left Winger,LW,2800000.0,Sevilla FC,Spain,0.0,1
+2012,Laliga,Rayo Vallecano,summer,out,Diego Costa,44779,23,Spain,Centre-Forward,CF,6500000.0,Atlético de Madrid,Spain,0.0,1
+2012,Laliga,Rayo Vallecano,winter,out,Sueliton,195604,26,Brazil,Right-Back,RB,100000.0,Criciúma EC,Brazil,0.0,0
+2012,Laliga,Rayo Vallecano,winter,out,Manuel Arana,51383,28,Spain,Right Winger,RW,1500000.0,Recreativo Huelva,Spain,0.0,0
+2012,Laliga,Rayo Vallecano,winter,out,Gabriel Machado,55487,23,Brazil,Centre-Forward,CF,400000.0,Hércules CF,Spain,0.0,1
+2012,Laliga,Rayo Vallecano,winter,out,Nicki Bille,46006,24,Denmark,Centre-Forward,CF,2000000.0,Villarreal CF,Spain,0.0,1
+2012,Laliga,Rayo Vallecano,winter,out,Mohammed Abu,164478,21,Ghana,Defensive Midfield,DM,600000.0,Manchester City,England,0.0,1
+2012,Laliga,Real Betis Balompié,summer,in,Nosa Igiebor,108636,21,Nigeria,Central Midfield,CM,1200000.0,Hapoel Tel Aviv,Israel,1100000.0,0
+2012,Laliga,Real Betis Balompié,summer,in,Damien Perquis,31050,28,Poland,Centre-Back,CB,3000000.0,FC Sochaux-Montbéliard,France,750000.0,0
+2012,Laliga,Real Betis Balompié,summer,in,Salvador Agra,155395,20,Portugal,Right Winger,RW,800000.0,SC Olhanense,Portugal,300000.0,0
+2012,Laliga,Real Betis Balompié,summer,in,Ángel López,15500,31,Spain,Right-Back,RB,2500000.0,Villarreal CF,Spain,0.0,0
+2012,Laliga,Real Betis Balompié,summer,in,Paulão,44700,29,Brazil,Centre-Back,CB,2500000.0,AS Saint-Étienne,France,0.0,0
+2012,Laliga,Real Betis Balompié,summer,in,Joel Campbell,131248,20,Costa Rica,Right Winger,RW,1500000.0,Arsenal FC,England,0.0,1
+2012,Laliga,Real Betis Balompié,summer,in,Rubén Pérez,113045,23,Spain,Defensive Midfield,DM,2800000.0,Atlético de Madrid,Spain,0.0,1
+2012,Laliga,Real Betis Balompié,summer,in,Juankar,126625,22,Spain,Left-Back,LB,1200000.0,SC Braga,Portugal,0.0,1
+2012,Laliga,Real Betis Balompié,winter,in,Guillermo Molins,51457,24,Sweden,Centre-Forward,CF,1500000.0,RSC Anderlecht,Belgium,500000.0,1
+2012,Laliga,Real Betis Balompié,winter,in,Dorlan Pabón,74667,25,Colombia,Right Winger,RW,3500000.0,Parma FC,Italy,0.0,1
+2012,Laliga,Real Betis Balompié,summer,out,Iriney,35515,31,Brazil,Central Midfield,CM,2500000.0,Granada CF,Spain,0.0,0
+2012,Laliga,Real Betis Balompié,summer,out,Isidoro,48291,26,Spain,Right-Back,RB,1200000.0,Polonia Warsaw,Poland,0.0,0
+2012,Laliga,Real Betis Balompié,summer,out,Ezequiel Calvente,153739,21,Spain,Right Winger,RW,1000000.0,SC Freiburg,Germany,0.0,1
+2012,Laliga,Real Betis Balompié,summer,out,Iñaki Goitia,29050,30,Spain,Goalkeeper,GK,1200000.0,CD Mirandés,Spain,,0
+2012,Laliga,Real Betis Balompié,summer,out,Eric Barroso,270307,21,Spain,Left-Back,LB,,San Fernando CD (-2025),Spain,,0
+2012,Laliga,Real Betis Balompié,summer,out,Javier Matilla,73269,23,Spain,Central Midfield,CM,1500000.0,Real Murcia CF,Spain,0.0,1
+2012,Laliga,Real Betis Balompié,summer,out,Juanma,23220,31,Spain,Right Winger,RW,900000.0,Without Club,,,0
+2012,Laliga,Real Betis Balompié,summer,out,Jefferson Montero,77932,22,Ecuador,Left Winger,LW,2500000.0,Villarreal CF,Spain,0.0,1
+2012,Laliga,Real Betis Balompié,summer,out,Paulão,44700,29,Brazil,Centre-Back,CB,2500000.0,AS Saint-Étienne,France,0.0,1
+2012,Laliga,Real Betis Balompié,summer,out,Roque Santa Cruz,215,30,Paraguay,Centre-Forward,CF,4000000.0,Manchester City,England,0.0,1
+2012,Laliga,Real Betis Balompié,summer,out,Ustaritz,35554,29,Spain,Centre-Back,CB,1800000.0,Athletic Bilbao,Spain,0.0,1
+2012,Laliga,Real Betis Balompié,winter,out,Nélson,17555,29,Portugal,Right-Back,RB,1800000.0,US Palermo,Italy,0.0,0
+2012,Laliga,Real Betis Balompié,winter,out,Salvador Agra,155395,21,Portugal,Right Winger,RW,1500000.0,AC Siena,Italy,0.0,1
+2012,Laliga,Real Betis Balompié,winter,out,Chechu Dorado,70898,30,Spain,Centre-Back,CB,1800000.0,Villarreal CF,Spain,,0
+2012,Laliga,Real Betis Balompié,winter,out,Jonathan Pereira,53239,25,Spain,Centre-Forward,CF,3000000.0,Villarreal CF,Spain,0.0,1
+2012,Laliga,Real Madrid,summer,in,Luka Modrić,27992,26,Croatia,Central Midfield,CM,40000000.0,Tottenham Hotspur,England,35000000.0,0
+2012,Laliga,Real Madrid,summer,in,Michael Essien,5588,29,Ghana,Defensive Midfield,DM,24000000.0,Chelsea FC,England,0.0,1
+2012,Laliga,Real Madrid,winter,in,Diego López,34370,31,Spain,Goalkeeper,GK,3500000.0,Sevilla FC,Spain,3500000.0,0
+2012,Laliga,Real Madrid,summer,out,Esteban Granero,44065,25,Spain,Central Midfield,CM,7000000.0,Queens Park Rangers,England,8000000.0,0
+2012,Laliga,Real Madrid,summer,out,Sergio Canales,66106,21,Spain,Attacking Midfield,AM,5000000.0,Valencia CF,Spain,7500000.0,0
+2012,Laliga,Real Madrid,summer,out,Lassana Diarra,23914,27,France,Defensive Midfield,DM,8000000.0,Anzhi Makhachkala,Russia,5000000.0,0
+2012,Laliga,Real Madrid,summer,out,Nuri Şahin,31095,23,Türkiye,Defensive Midfield,DM,12000000.0,Liverpool FC,England,5000000.0,1
+2012,Laliga,Real Madrid,summer,out,Hamit Altıntop,1792,29,Türkiye,Right Midfield,RM,5000000.0,Galatasaray,Türkiye,3500000.0,0
+2012,Laliga,Real Madrid,summer,out,Fernando Gago,38954,26,Argentina,Defensive Midfield,DM,6500000.0,Valencia CF,Spain,3500000.0,0
+2012,Laliga,Real Madrid,summer,out,Royston Drenthe,35631,25,Netherlands,Left Midfield,LM,4000000.0,Without Club,,,0
+2012,Laliga,Real Madrid,winter,out,Nuri Şahin,31095,24,Türkiye,Defensive Midfield,DM,15000000.0,Borussia Dortmund,Germany,1000000.0,1
+2012,Laliga,Real Sociedad,summer,in,Carlos Vela,35773,23,Mexico,Right Winger,RW,8000000.0,Arsenal FC,England,14000000.0,0
+2012,Laliga,Real Sociedad,summer,in,Chory Castro,28171,27,Uruguay,Left Winger,LW,6000000.0,RCD Mallorca,Spain,0.0,0
+2012,Laliga,Real Sociedad,summer,in,Yuri Berchiche,61812,22,Spain,Left-Back,LB,,Real Unión Club,Spain,0.0,0
+2012,Laliga,Real Sociedad,summer,in,Cote,87469,22,Spain,Left-Back,LB,4000000.0,AS Roma,Italy,0.0,1
+2012,Laliga,Real Sociedad,summer,out,Vadim Demidov,37247,25,Norway,Centre-Back,CB,3500000.0,Eintracht Frankfurt,Germany,500000.0,0
+2012,Laliga,Real Sociedad,summer,out,Yuri Berchiche,61812,22,Spain,Left-Back,LB,,SD Eibar,Spain,0.0,1
+2012,Laliga,Real Sociedad,summer,out,Borja Viguera,61344,25,Spain,Centre-Forward,CF,,Deportivo Alavés,Spain,,0
+2012,Laliga,Real Sociedad,summer,out,Joseba Llorente,7480,32,Spain,Centre-Forward,CF,2500000.0,CA Osasuna,Spain,0.0,1
+2012,Laliga,Real Sociedad,summer,out,Jeffrey Sarpong,35529,24,Netherlands,Right Midfield,RM,900000.0,Hércules CF,Spain,0.0,1
+2012,Laliga,Real Sociedad,summer,out,Mikel Aranburu,7467,33,Spain,Central Midfield,CM,2500000.0,Retired,,,0
+2012,Laliga,Real Sociedad,summer,out,Carlos Vela,35773,23,Mexico,Right Winger,RW,6000000.0,Arsenal FC,England,0.0,1
+2012,Laliga,Real Sociedad,winter,out,Jeffrey Sarpong,35529,24,Netherlands,Right Midfield,RM,500000.0,Without Club,,,0
+2012,Laliga,Real Valladolid CF,summer,in,Lluis Sastre,8108,26,Spain,Central Midfield,CM,800000.0,SD Huesca,Spain,0.0,0
+2012,Laliga,Real Valladolid CF,summer,in,Antonio Rukavina,27924,28,Serbia,Right-Back,RB,1250000.0,TSV 1860 Munich,Germany,0.0,0
+2012,Laliga,Real Valladolid CF,summer,in,Patrick Ebert,32622,25,Germany,Right Winger,RW,2000000.0,Hertha BSC,Germany,0.0,0
+2012,Laliga,Real Valladolid CF,summer,in,Omar Ramos,58112,24,Spain,Left Winger,LW,800000.0,SD Huesca,Spain,0.0,1
+2012,Laliga,Real Valladolid CF,summer,in,Juan Neira,56831,23,Argentina,Attacking Midfield,AM,1500000.0,Club de Gimnasia y Esgrima La Plata,Argentina,0.0,1
+2012,Laliga,Real Valladolid CF,summer,in,Sereno,48931,27,Portugal,Centre-Back,CB,1800000.0,FC Porto,Portugal,0.0,1
+2012,Laliga,Real Valladolid CF,winter,in,Daniel Larsson,27292,25,Sweden,Left Winger,LW,1500000.0,Malmö FF,Sweden,0.0,0
+2012,Laliga,Real Valladolid CF,winter,in,Valdet Rama,33535,25,Albania,Left Winger,LW,1000000.0,Örebro SK,Sweden,0.0,0
+2012,Laliga,Real Valladolid CF,summer,out,Dani Aquino,59335,21,Spain,Second Striker,SS,300000.0,Real Oviedo,Spain,0.0,0
+2012,Laliga,Real Valladolid CF,summer,out,Jorge Alonso,51483,27,Spain,Central Midfield,CM,600000.0,Racing Santander,Spain,0.0,0
+2012,Laliga,Real Valladolid CF,summer,out,Marquitos,38998,25,Spain,Attacking Midfield,AM,1000000.0,Xerez CD,Spain,0.0,0
+2012,Laliga,Real Valladolid CF,summer,out,José Salcedo,118017,21,Spain,Goalkeeper,GK,,Huracán Valencia CF,Spain,0.0,0
+2012,Laliga,Real Valladolid CF,summer,out,Mehdi Nafti,7862,33,Tunisia,Defensive Midfield,DM,1200000.0,Real Murcia CF,Spain,0.0,0
+2012,Laliga,Real Valladolid CF,summer,out,Jofre Mateu,8134,32,Spain,Left Winger,LW,700000.0,Girona FC,Spain,0.0,0
+2012,Laliga,Real Valladolid CF,summer,out,Nauzet Alemán,45775,27,Spain,Right Winger,RW,2000000.0,UD Las Palmas,Spain,0.0,0
+2012,Laliga,Real Valladolid CF,summer,out,Sisi González,51713,26,Spain,Attacking Midfield,AM,2000000.0,CA Osasuna,Spain,0.0,0
+2012,Laliga,Real Valladolid CF,summer,out,Saná Camará,72767,20,Guinea-Bissau,Central Midfield,CM,200000.0,Académica Coimbra,Portugal,,0
+2012,Laliga,Real Valladolid CF,summer,out,Carlos Lázaro,71447,21,Spain,Central Midfield,CM,200000.0,SD Huesca,Spain,0.0,1
+2012,Laliga,Real Valladolid CF,summer,out,Fernando Varela,7652,32,Spain,Right-Back,RB,500000.0,Retired,,,0
+2012,Laliga,Real Valladolid CF,summer,out,Juanito,7647,35,Spain,Centre-Back,CB,300000.0,Retired,,,0
+2012,Laliga,Real Valladolid CF,summer,out,Sergio Matabuena,7863,33,Spain,Defensive Midfield,DM,400000.0,Retired,,,0
+2012,Laliga,Real Zaragoza,summer,in,Apoño,58013,28,Spain,Central Midfield,CM,3000000.0,Málaga CF,Spain,1000000.0,0
+2012,Laliga,Real Zaragoza,summer,in,Paco Montañés,40442,25,Spain,Left Winger,LW,800000.0,AD Alcorcón,Spain,500000.0,0
+2012,Laliga,Real Zaragoza,summer,in,Javi Álamo,164816,23,Spain,Right Winger,RW,500000.0,Recreativo Huelva,Spain,300000.0,0
+2012,Laliga,Real Zaragoza,summer,in,Álvaro González,183647,22,Spain,Centre-Back,CB,2000000.0,Racing Santander,Spain,0.0,0
+2012,Laliga,Real Zaragoza,summer,in,José María Movilla,7763,37,Spain,Defensive Midfield,DM,700000.0,Rayo Vallecano,Spain,0.0,0
+2012,Laliga,Real Zaragoza,summer,in,Cristian Săpunaru,25942,28,Romania,Centre-Back,CB,4000000.0,FC Porto,Portugal,0.0,0
+2012,Laliga,Real Zaragoza,summer,in,Stefan Babovic,29237,25,Serbia,Attacking Midfield,AM,2000000.0,FK Partizan Belgrade,Serbia,0.0,0
+2012,Laliga,Real Zaragoza,summer,in,Lucas Porcar,59364,22,Spain,Attacking Midfield,AM,600000.0,Villarreal CF B,Spain,0.0,0
+2012,Laliga,Real Zaragoza,summer,in,Romaric,15808,29,Cote d'Ivoire,Defensive Midfield,DM,4000000.0,Sevilla FC,Spain,0.0,0
+2012,Laliga,Real Zaragoza,summer,in,Glenn Loovens,4371,28,Netherlands,Centre-Back,CB,1000000.0,Celtic FC,Scotland,0.0,0
+2012,Laliga,Real Zaragoza,summer,in,Franco Zuculini,73083,21,Argentina,Central Midfield,CM,3000000.0,TSG 1899 Hoffenheim,Germany,0.0,0
+2012,Laliga,Real Zaragoza,summer,in,Lucas Wilchez,56059,28,Argentina,Attacking Midfield,AM,900000.0,CSD Colo-Colo,Chile,0.0,1
+2012,Laliga,Real Zaragoza,winter,in,José Manuel Fernández,172128,23,Spain,Right-Back,RB,800000.0,Córdoba CF,Spain,500000.0,0
+2012,Laliga,Real Zaragoza,winter,in,Henri Bienvenu,65921,24,Cameroon,Centre-Forward,CF,2500000.0,Fenerbahce,Türkiye,0.0,1
+2012,Laliga,Real Zaragoza,winter,in,Rodri Ríos,117549,22,Spain,Centre-Forward,CF,900000.0,FC Barcelona B,Spain,0.0,1
+2012,Laliga,Real Zaragoza,winter,in,Adrià Carmona,73858,20,Spain,Left Winger,LW,300000.0,AC Milan,Italy,0.0,1
+2012,Laliga,Real Zaragoza,winter,in,Rubén Rochina,67548,21,Spain,Right Winger,RW,1000000.0,Blackburn Rovers,England,0.0,1
+2012,Laliga,Real Zaragoza,summer,out,Matteo Contini,25318,32,Italy,Centre-Back,CB,900000.0,AC Siena,Italy,1370000.0,0
+2012,Laliga,Real Zaragoza,summer,out,Pablo,74753,22,Brazil,Right-Back,RB,400000.0,Tombense Futebol Clube (MG),Brazil,0.0,0
+2012,Laliga,Real Zaragoza,summer,out,Paulo da Silva,38800,32,Paraguay,Centre-Back,CB,2000000.0,CF Pachuca,Mexico,0.0,0
+2012,Laliga,Real Zaragoza,summer,out,Ángel Lafita,35562,27,Spain,Left Winger,LW,3000000.0,Getafe CF,Spain,0.0,0
+2012,Laliga,Real Zaragoza,summer,out,Lucas Porcar,59364,22,Spain,Attacking Midfield,AM,1000000.0,Xerez CD,Spain,0.0,1
+2012,Laliga,Real Zaragoza,summer,out,Víctor Laguardia,67080,22,Spain,Centre-Back,CB,800000.0,AD Alcorcón,Spain,0.0,1
+2012,Laliga,Real Zaragoza,summer,out,Luis García,8006,31,Spain,Central Midfield,CM,4000000.0,Tigres UANL,Mexico,0.0,1
+2012,Laliga,Real Zaragoza,summer,out,David Mateos,45304,25,Spain,Centre-Back,CB,1000000.0,Real Madrid Castilla,Spain,0.0,1
+2012,Laliga,Real Zaragoza,summer,out,Lucas Wilchez,56059,29,Argentina,Attacking Midfield,AM,700000.0,CSD Colo-Colo,Chile,0.0,1
+2012,Laliga,Real Zaragoza,summer,out,Pablo Álvarez,55993,28,Argentina,Right-Back,RB,1200000.0,Calcio Catania,Italy,0.0,1
+2012,Laliga,Real Zaragoza,summer,out,Apoño,58013,28,Spain,Central Midfield,CM,3000000.0,Málaga CF,Spain,0.0,1
+2012,Laliga,Real Zaragoza,summer,out,Tomislav Dujmovic,27986,31,Croatia,Central Midfield,CM,2000000.0,Dinamo Moscow,Russia,0.0,1
+2012,Laliga,Real Zaragoza,summer,out,Juankar,126625,22,Spain,Left-Back,LB,1200000.0,SC Braga,Portugal,0.0,1
+2012,Laliga,Real Zaragoza,summer,out,Pablo Barrera,51079,25,Mexico,Right Winger,RW,2500000.0,West Ham United,England,0.0,1
+2012,Laliga,Real Zaragoza,summer,out,Rúben Micael,84491,25,Portugal,Central Midfield,CM,5000000.0,Atlético de Madrid,Spain,0.0,1
+2012,Laliga,Real Zaragoza,summer,out,Franco Zuculini,73083,21,Argentina,Central Midfield,CM,3000000.0,TSG 1899 Hoffenheim,Germany,0.0,1
+2012,Laliga,Real Zaragoza,winter,out,Carlos Aranda,7841,32,Spain,Centre-Forward,CF,1000000.0,Granada CF,Spain,300000.0,0
+2012,Laliga,Real Zaragoza,winter,out,Raúl Goni,61869,24,Spain,Centre-Back,CB,600000.0,CE Sabadell FC,Spain,0.0,0
+2012,Laliga,Real Zaragoza,winter,out,Toni Doblas,7642,32,Spain,Goalkeeper,GK,400000.0,Khazar Lankaran (- 2016),Azerbaijan,0.0,0
+2012,Laliga,Sevilla FC,summer,in,Geoffrey Kondogbia,127189,19,Central African Republic,Defensive Midfield,DM,3000000.0,RC Lens,France,4000000.0,0
+2012,Laliga,Sevilla FC,summer,in,Diego López,34370,30,Spain,Goalkeeper,GK,8000000.0,Villarreal CF,Spain,3500000.0,0
+2012,Laliga,Sevilla FC,summer,in,Alberto Botía,53077,23,Spain,Centre-Back,CB,6000000.0,Sporting Gijón,Spain,3000000.0,0
+2012,Laliga,Sevilla FC,summer,in,Cicinho,99632,25,Brazil,Right-Back,RB,2000000.0,Sociedade Esportiva Palmeiras,Brazil,2000000.0,0
+2012,Laliga,Sevilla FC,summer,in,Hedwiges Maduro,19057,27,Netherlands,Defensive Midfield,DM,3000000.0,Valencia CF,Spain,0.0,0
+2012,Laliga,Sevilla FC,winter,in,Miroslav Stevanovic,75816,22,Bosnia-Herzegovina,Right Midfield,RM,1750000.0,FK Vojvodina Novi Sad,Serbia,1500000.0,0
+2012,Laliga,Sevilla FC,winter,in,Beto,35242,30,Portugal,Goalkeeper,GK,4000000.0,SC Braga,Portugal,0.0,1
+2012,Laliga,Sevilla FC,summer,out,Martín Cáceres,54935,25,Uruguay,Centre-Back,CB,9500000.0,Juventus FC,Italy,8000000.0,0
+2012,Laliga,Sevilla FC,summer,out,Luis Alberto,128220,19,Spain,Attacking Midfield,AM,500000.0,FC Barcelona B,Spain,200000.0,1
+2012,Laliga,Sevilla FC,summer,out,Frédéric Kanouté,3700,34,Mali,Centre-Forward,CF,2000000.0,Beijing Guoan,China,0.0,0
+2012,Laliga,Sevilla FC,summer,out,Arouna Koné,8552,28,Cote d'Ivoire,Centre-Forward,CF,4000000.0,Levante UD,Spain,0.0,0
+2012,Laliga,Sevilla FC,summer,out,Emiliano Armenteros,30747,26,Argentina,Left Winger,LW,2800000.0,CA Osasuna,Spain,0.0,0
+2012,Laliga,Sevilla FC,summer,out,Julien Escudé,3573,32,France,Centre-Back,CB,2500000.0,Besiktas JK,Türkiye,0.0,0
+2012,Laliga,Sevilla FC,summer,out,Romaric,15808,29,Cote d'Ivoire,Defensive Midfield,DM,4000000.0,Real Zaragoza,Spain,0.0,0
+2012,Laliga,Sevilla FC,summer,out,Lautaro Acosta,45307,24,Argentina,Left Winger,LW,1200000.0,CA Boca Juniors,Argentina,0.0,1
+2012,Laliga,Sevilla FC,summer,out,Javi Varas,58341,29,Spain,Goalkeeper,GK,3000000.0,Celta de Vigo,Spain,0.0,1
+2012,Laliga,Sevilla FC,summer,out,Tiberio Guarente,28868,26,Italy,Central Midfield,CM,3000000.0,Bologna FC 1909,Italy,0.0,1
+2012,Laliga,Sevilla FC,summer,out,Tom De Mul,15893,26,Belgium,Right Midfield,RM,800000.0,Without Club,,,0
+2012,Laliga,Sevilla FC,winter,out,Diego López,34370,31,Spain,Goalkeeper,GK,3500000.0,Real Madrid,Spain,3500000.0,0
+2012,Laliga,Sevilla FC,winter,out,Emir Spahic,25812,32,Bosnia-Herzegovina,Centre-Back,CB,3000000.0,Anzhi Makhachkala,Russia,500000.0,1
+2012,Laliga,Sevilla FC,winter,out,Bernardo Espinosa,64598,23,Colombia,Centre-Back,CB,1000000.0,Sporting Gijón,Spain,0.0,1
+2012,Laliga,Sevilla FC,winter,out,Antonio Luna,126516,21,Spain,Left-Back,LB,2500000.0,RCD Mallorca,Spain,0.0,1
+2012,Laliga,Valencia CF,summer,in,Sergio Canales,66106,21,Spain,Attacking Midfield,AM,5000000.0,Real Madrid,Spain,7500000.0,0
+2012,Laliga,Valencia CF,summer,in,Aly Cissokho,57515,24,France,Centre-Back,CB,7000000.0,Olympique Lyon,France,6000000.0,0
+2012,Laliga,Valencia CF,summer,in,João Pereira,13217,28,Portugal,Right-Back,RB,10500000.0,Sporting CP,Portugal,3700000.0,0
+2012,Laliga,Valencia CF,summer,in,Fernando Gago,38954,26,Argentina,Defensive Midfield,DM,6500000.0,Real Madrid,Spain,3500000.0,0
+2012,Laliga,Valencia CF,summer,in,Jonathan Viera,153238,22,Spain,Attacking Midfield,AM,1200000.0,UD Las Palmas,Spain,2500000.0,0
+2012,Laliga,Valencia CF,summer,in,Andrés Guardado,20506,25,Mexico,Central Midfield,CM,5000000.0,Deportivo de La Coruña,Spain,0.0,0
+2012,Laliga,Valencia CF,summer,in,Nelson Valdez,2050,28,Paraguay,Centre-Forward,CF,5000000.0,Rubin Kazan,Russia,0.0,1
+2012,Laliga,Valencia CF,summer,out,Jordi Alba,69751,23,Spain,Left-Back,LB,10000000.0,FC Barcelona,Spain,14000000.0,0
+2012,Laliga,Valencia CF,summer,out,Pablo Hernández,46220,27,Spain,Right Winger,RW,9000000.0,Swansea City,England,7000000.0,0
+2012,Laliga,Valencia CF,summer,out,Mehmet Topal,44402,26,Türkiye,Defensive Midfield,DM,8000000.0,Fenerbahce,Türkiye,4500000.0,0
+2012,Laliga,Valencia CF,summer,out,Aritz Aduriz,29124,31,Spain,Centre-Forward,CF,4000000.0,Athletic Bilbao,Spain,2500000.0,0
+2012,Laliga,Valencia CF,summer,out,Miguel Ángel Moyá,26065,28,Spain,Goalkeeper,GK,2000000.0,Getafe CF,Spain,2000000.0,0
+2012,Laliga,Valencia CF,summer,out,Míchel Herrero,65331,23,Spain,Central Midfield,CM,1500000.0,Levante UD,Spain,0.0,0
+2012,Laliga,Valencia CF,summer,out,Bruno Saltor,51528,31,Spain,Right-Back,RB,2000000.0,Brighton & Hove Albion,England,0.0,0
+2012,Laliga,Valencia CF,summer,out,Ángel Dealbert,51420,29,Spain,Centre-Back,CB,2000000.0,Kuban Krasnodar (-2018),Russia,0.0,0
+2012,Laliga,Valencia CF,summer,out,Hedwiges Maduro,19057,27,Netherlands,Defensive Midfield,DM,3000000.0,Sevilla FC,Spain,0.0,0
+2012,Laliga,Valencia CF,summer,out,Alejandro Domínguez,18958,31,Argentina,Attacking Midfield,AM,2000000.0,Rayo Vallecano,Spain,0.0,0
+2012,Laliga,Valencia CF,summer,out,Paco Alcácer,126716,19,Spain,Centre-Forward,CF,2500000.0,Getafe CF,Spain,0.0,1
+2012,Laliga,Valencia CF,summer,out,Miguel,13225,32,Portugal,Right-Back,RB,3500000.0,Retired,,,0
+2012,Laliga,Valencia CF,summer,out,Sergio Canales,66106,21,Spain,Attacking Midfield,AM,5000000.0,Real Madrid,Spain,0.0,1
+2012,Laliga,Valencia CF,winter,out,Fernando Gago,38954,26,Argentina,Defensive Midfield,DM,5000000.0,CA Vélez Sarsfield,Argentina,0.0,1

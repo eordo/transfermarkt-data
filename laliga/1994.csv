@@ -1,0 +1,310 @@
+season,league,club,window,movement,player_name,player_id,age,nationality,position,pos,market_value,dealing_club,dealing_country,fee,is_loan
+1994,Laliga,Albacete Balompié,summer,in,José Francisco Molina,7485,23,Spain,Goalkeeper,GK,,Villarreal CF,Spain,0.0,0
+1994,Laliga,Albacete Balompié,summer,in,Oscar Dertycia,120394,29,Argentina,Centre-Forward,CF,,CD Tenerife,Spain,,0
+1994,Laliga,Albacete Balompié,summer,in,Albert Tomàs,253507,23,Spain,Centre-Back,CB,,FC Barcelona B,Spain,,0
+1994,Laliga,Albacete Balompié,summer,in,Ivaylo Andonov,17163,26,Bulgaria,Centre-Forward,CF,,Levski Sofia,Bulgaria,,0
+1994,Laliga,Albacete Balompié,summer,in,Óscar García,7897,21,Spain,Attacking Midfield,AM,,FC Barcelona,Spain,0.0,1
+1994,Laliga,Albacete Balompié,winter,in,Goyo Fonseca,273632,29,Spain,Striker,Striker,,RCD Español,Spain,0.0,0
+1994,Laliga,Albacete Balompié,winter,in,Manolo Salvador,277216,31,Spain,Central Midfield,CM,,Club Atlético Marbella,Spain,,0
+1994,Laliga,Albacete Balompié,summer,out,Delfí Geli,172357,25,Spain,Right-Back,RB,,Atlético de Madrid,Spain,1200000.0,0
+1994,Laliga,Albacete Balompié,summer,out,Santi Denia,10010,20,Spain,Centre-Back,CB,,Atlético de Madrid,Spain,0.0,0
+1994,Laliga,Albacete Balompié,summer,out,Gabelo Conejo,92916,34,Costa Rica,Goalkeeper,GK,,Unknown,,,0
+1994,Laliga,Albacete Balompié,summer,out,José González,276624,27,Spain,Striker,Striker,,AD Rayo Vallecano,Spain,,0
+1994,Laliga,Albacete Balompié,summer,out,José Menéndez,304045,30,Spain,Midfielder,Midfielder,,Real Betis Balompié,Spain,,0
+1994,Laliga,Albacete Balompié,summer,out,Raúl dos Santos,222942,29,Uruguay,Centre-Forward,CF,,Villarreal CF,Spain,,0
+1994,Laliga,Albacete Balompié,summer,out,Vladan Dimitrijević,356414,21,Serbia,Defender,Defender,,CP Mérida,Spain,,0
+1994,Laliga,Albacete Balompié,summer,out,Nilson,283199,28,Brazil,Second Striker,SS,,Real Valladolid Deportivo,Spain,,0
+1994,Laliga,Albacete Balompié,summer,out,Sócrates Parri,314482,27,Spain,Defender,Defender,,Levante UD,Spain,,0
+1994,Laliga,Albacete Balompié,summer,out,Ramón,208608,30,Spain,Centre-Forward,CF,,Retired,,,0
+1994,Laliga,Albacete Balompié,summer,out,Óscar,1361170,21,Spain,Goalkeeper,GK,,Retired,,,0
+1994,Laliga,Albacete Balompié,winter,out,Alberto Monteagudo,29180,20,Spain,Defensive Midfield,DM,,UD Fuerteventura,Spain,0.0,1
+1994,Laliga,Athletic Bilbao,summer,in,Jon Andoni Goikoetxea,150650,28,Spain,Right Midfield,RM,,FC Barcelona,Spain,4200000.0,0
+1994,Laliga,Athletic Bilbao,summer,in,Bittor Alkiza,7627,23,Spain,Left Midfield,LM,,Real Sociedad,Spain,1300000.0,0
+1994,Laliga,Athletic Bilbao,summer,out,Xabier Eskurza,154584,24,Spain,Central Midfield,CM,,FC Barcelona,Spain,4000000.0,0
+1994,Laliga,Athletic Bilbao,summer,out,Jon Uribarrena,154655,25,Spain,Striker,Striker,,Celta de Vigo,Spain,180000.0,0
+1994,Laliga,Athletic Bilbao,summer,out,Asier García,154591,27,Spain,Defender,Defender,,CA Osasuna,Spain,0.0,0
+1994,Laliga,Athletic Bilbao,summer,out,José Manuel Galdames,154589,23,Spain,Centre-Back,CB,,SD Compostela,Spain,0.0,1
+1994,Laliga,Athletic Bilbao,summer,out,Carlos García,7628,23,Spain,Defensive Midfield,DM,,CA Osasuna,Spain,0.0,1
+1994,Laliga,Atlético de Madrid,summer,in,Diego Simeone,5841,24,Argentina,Central Midfield,CM,,Sevilla FC,Spain,2700000.0,0
+1994,Laliga,Atlético de Madrid,summer,in,Adolfo Valencia,84610,26,Colombia,Centre-Forward,CF,,Bayern Munich,Germany,2250000.0,0
+1994,Laliga,Atlético de Madrid,summer,in,Delfí Geli,172357,25,Spain,Right-Back,RB,,Albacete Balompié,Spain,1200000.0,0
+1994,Laliga,Atlético de Madrid,summer,in,Santi Denia,10010,20,Spain,Centre-Back,CB,,Albacete Balompié,Spain,0.0,0
+1994,Laliga,Atlético de Madrid,summer,in,Alejandro,353725,23,Spain,Left-Back,LB,,Club Atlético Marbella,Spain,0.0,0
+1994,Laliga,Atlético de Madrid,summer,in,Igor Dobrovolskiy,69814,26,Russia,Attacking Midfield,AM,,Dinamo Moscow,Russia,,0
+1994,Laliga,Atlético de Madrid,summer,in,Iván Rocha,253985,25,Brazil,Left-Back,LB,,Real Valladolid Deportivo,Spain,,0
+1994,Laliga,Atlético de Madrid,summer,out,Moacir,303470,24,Brazil,Defensive Midfield,DM,,Sevilla FC,Spain,800000.0,0
+1994,Laliga,Atlético de Madrid,summer,out,Juanito Rodríguez,253986,29,Spain,Centre-Back,CB,,Sevilla FC,Spain,600000.0,0
+1994,Laliga,Atlético de Madrid,summer,out,Pedro,254096,26,Spain,Left-Back,LB,,Sevilla FC,Spain,400000.0,0
+1994,Laliga,Atlético de Madrid,summer,out,Luis García,80024,25,Mexico,Centre-Forward,CF,,Real Sociedad,Spain,,0
+1994,Laliga,Atlético de Madrid,summer,out,Mami Quevedo,172351,25,Spain,Central Midfield,CM,,Real Valladolid Deportivo,Spain,,0
+1994,Laliga,Atlético de Madrid,summer,out,Pizo Gómez,154877,30,Spain,Midfielder,Midfielder,,CA Osasuna,Spain,,0
+1994,Laliga,Atlético de Madrid,summer,out,Juanma Alamillos,559986,21,Spain,Defender,Defender,,CD Toledo,Spain,,0
+1994,Laliga,Atlético de Madrid,summer,out,Juan Sabas,253212,27,Spain,Centre-Forward,CF,,Real Betis Balompié,Spain,,0
+1994,Laliga,Atlético de Madrid,summer,out,Juan Carlos,173135,21,Spain,Striker,Striker,,Club Atlético Marbella,Spain,0.0,1
+1994,Laliga,Atlético de Madrid,winter,out,Serge-Alain Maguy,353161,24,Cote d'Ivoire,Midfielder,Midfielder,,ASEC Mimosas,Cote d'Ivoire,,0
+1994,Laliga,Atlético de Madrid,winter,out,Miguel Ángel Benítez,27449,24,Paraguay,Centre-Forward,CF,,CP Mérida,Spain,0.0,1
+1994,Laliga,Atlético de Madrid,winter,out,José Soler,262964,27,Spain,Midfielder,Midfielder,,CA Osasuna,Spain,0.0,1
+1994,Laliga,CD Logroñés,summer,in,Javi Navarro,7696,20,Spain,Centre-Back,CB,,Valencia CF,Spain,0.0,1
+1994,Laliga,CD Logroñés,summer,in,Nebojsa Gudelj,4443,25,Serbia,Left-Back,LB,,FK Partizan Belgrade,Serbia,,0
+1994,Laliga,CD Logroñés,summer,in,Atila Kasaš,506028,25,Serbia,Striker,Striker,,FK Bečej,Serbia,,0
+1994,Laliga,CD Logroñés,summer,in,Arturo,314704,25,Spain,Defender,Defender,,Sporting Gijón,Spain,,0
+1994,Laliga,CD Logroñés,summer,in,Felipe Herrero,303462,24,Spain,Centre-Back,CB,,Córdoba CF,Spain,,0
+1994,Laliga,CD Logroñés,summer,in,Víctor Segura,303475,21,Spain,Centre-Back,CB,,Palamós CF,Spain,,0
+1994,Laliga,CD Logroñés,summer,in,José Manuel Ochotorena,255175,33,Spain,Goalkeeper,GK,,CD Tenerife,Spain,,0
+1994,Laliga,CD Logroñés,summer,in,Antonio Acosta,145580,22,Spain,Midfielder,Midfielder,,UE Lleida,Spain,,0
+1994,Laliga,CD Logroñés,winter,in,Rubén Ruiz,134015,25,Paraguay,Goalkeeper,GK,,CF Monterrey,Mexico,,0
+1994,Laliga,CD Logroñés,winter,in,Sílvio,303461,24,Brazil,Centre-Forward,CF,,Clube Atlético Bragantino (SP),Brazil,,0
+1994,Laliga,CD Logroñés,winter,in,Javier Delgado,303457,22,Spain,Central Midfield,CM,,FC Barcelona B,Spain,0.0,1
+1994,Laliga,CD Logroñés,summer,out,Oleg Salenko,88147,24,Russia,Centre-Forward,CF,,Valencia CF,Spain,2069999.9999999998,0
+1994,Laliga,CD Logroñés,summer,out,Enrique Romero,7494,23,Spain,Left-Back,LB,,Valencia CF,Spain,0.0,0
+1994,Laliga,CD Logroñés,summer,out,Julen Lopetegui,101570,27,Spain,Goalkeeper,GK,,FC Barcelona,Spain,0.0,0
+1994,Laliga,CD Logroñés,summer,out,Antonio Poyatos,173466,28,Spain,Left Midfield,LM,,Valencia CF,Spain,0.0,0
+1994,Laliga,CD Logroñés,summer,out,Ricardo Moreno,277345,28,Spain,Defender,Defender,,Deportivo Alavés,Spain,,0
+1994,Laliga,CD Logroñés,summer,out,Nacho Martín,277063,31,Spain,Centre-Back,CB,,Elche CF,Spain,,0
+1994,Laliga,CD Logroñés,summer,out,David Linde,314464,25,Spain,Left Winger,LW,,Sevilla FC,Spain,,0
+1994,Laliga,CD Logroñés,summer,out,Lutxo Iturrino,154601,30,Spain,Right Midfield,RM,,Real Sociedad,Spain,,0
+1994,Laliga,CD Logroñés,summer,out,Paco Fernández,314747,26,Spain,Central Midfield,CM,,CD Badajoz,Spain,,0
+1994,Laliga,CD Logroñés,summer,out,Grzegorz Lewandowski,69240,24,Poland,Defensive Midfield,DM,,Legia Warszawa,Poland,,0
+1994,Laliga,CD Tenerife,summer,in,Juanele,7943,23,Spain,Second Striker,SS,,Sporting Gijón,Spain,1650000.0,0
+1994,Laliga,CD Tenerife,summer,in,Marcelo Ojeda,305390,25,Argentina,Goalkeeper,GK,,CA Lanús,Argentina,540000.0,0
+1994,Laliga,CD Tenerife,summer,in,Ángel Vivar Dorado,23114,20,Spain,Attacking Midfield,AM,,CD Leganés,Spain,120000.0,0
+1994,Laliga,CD Tenerife,summer,in,José María Buljubasich,67204,23,Argentina,Goalkeeper,GK,,CA Rosario Central,Argentina,,0
+1994,Laliga,CD Tenerife,summer,in,Víctor Fernández,7846,20,Spain,Centre-Forward,CF,,Real Madrid B,Spain,,0
+1994,Laliga,CD Tenerife,summer,in,Luis Miguel Ramis,154986,23,Spain,Centre-Back,CB,,Real Madrid,Spain,0.0,1
+1994,Laliga,CD Tenerife,summer,out,Fernando Redondo,5811,25,Argentina,Defensive Midfield,DM,,Real Madrid,Spain,3500000.0,0
+1994,Laliga,CD Tenerife,summer,out,Pier,184330,22,Spain,Centre-Forward,CF,,Sporting Gijón,Spain,1200000.0,0
+1994,Laliga,CD Tenerife,summer,out,Oscar Dertycia,120394,29,Argentina,Centre-Forward,CF,,Albacete Balompié,Spain,,0
+1994,Laliga,CD Tenerife,summer,out,José Manuel Ochotorena,255175,33,Spain,Goalkeeper,GK,,CD Logroñés,Spain,,0
+1994,Laliga,CD Tenerife,summer,out,Manolo,310938,33,Spain,Goalkeeper,GK,,UD Las Palmas,Spain,,0
+1994,Laliga,CD Tenerife,summer,out,Agustín,214177,34,Spain,Goalkeeper,GK,,Retired,,,0
+1994,Laliga,Celta de Vigo,summer,in,Juan Sánchez,7585,22,Spain,Centre-Forward,CF,,Valencia CF,Spain,600000.0,0
+1994,Laliga,Celta de Vigo,summer,in,Srdjan Bajcetic,213087,22,Serbia,Defensive Midfield,DM,,Red Star Belgrade,Serbia,540000.0,0
+1994,Laliga,Celta de Vigo,summer,in,Jon Uribarrena,154655,25,Spain,Striker,Striker,,Athletic Bilbao,Spain,180000.0,0
+1994,Laliga,Celta de Vigo,summer,in,Mariano Hoyas,253468,23,Spain,Right-Back,RB,,Deportivo de La Coruña,Spain,180000.0,0
+1994,Laliga,Celta de Vigo,summer,in,Mikel Antía,187820,21,Spain,Centre-Back,CB,,Real Madrid B,Spain,0.0,0
+1994,Laliga,Celta de Vigo,summer,in,Ángel Merino,253953,27,Spain,Central Midfield,CM,,CA Osasuna,Spain,,0
+1994,Laliga,Celta de Vigo,summer,in,José Manuel Tárraga,258870,23,Spain,Centre-Back,CB,,Valencia CF,Spain,,0
+1994,Laliga,Celta de Vigo,summer,in,Carlos Cano,253196,24,Spain,Goalkeeper,GK,,Real Madrid,Spain,,0
+1994,Laliga,Celta de Vigo,summer,in,Hermes Desio,172356,24,Argentina,Defensive Midfield,DM,,CA Independiente,Argentina,,0
+1994,Laliga,Celta de Vigo,summer,in,Alberto Toril,253214,20,Spain,Right Midfield,RM,,Real Madrid B,Spain,0.0,1
+1994,Laliga,Celta de Vigo,summer,out,Santiago Cañizares,7562,24,Spain,Goalkeeper,GK,,Real Madrid,Spain,0.0,1
+1994,Laliga,Celta de Vigo,summer,out,Jorge Otero,29183,25,Spain,Right-Back,RB,,Valencia CF,Spain,300000.0,0
+1994,Laliga,Celta de Vigo,summer,out,Vicente Engonga,150748,28,Spain,Central Midfield,CM,,Valencia CF,Spain,300000.0,0
+1994,Laliga,Celta de Vigo,summer,out,Joseba Aguirre,179566,30,Spain,Midfielder,Midfielder,,Deportivo Alavés,Spain,,0
+1994,Laliga,Celta de Vigo,summer,out,Paco Salillas,253503,28,Spain,Centre-Forward,CF,,UE Lleida,Spain,,0
+1994,Laliga,Celta de Vigo,summer,out,Atilano,277084,35,Spain,Right-Back,RB,,Retired,,,0
+1994,Laliga,Celta de Vigo,summer,out,Diego Duffort Falco,459963,23,Spain,Striker,Striker,,Retired,,,0
+1994,Laliga,Celta de Vigo,summer,out,Jorge del Río,459968,20,Spain,Goalkeeper,GK,,Retired,,,0
+1994,Laliga,Celta de Vigo,summer,out,Francisco Oliete,259661,23,Spain,Left-Back,LB,,Albacete Balompié,Spain,0.0,1
+1994,Laliga,Celta de Vigo,summer,out,Stjepan Andrijasevic,175963,27,Croatia,Right Midfield,RM,,HNK Hajduk Split,Croatia,0.0,1
+1994,Laliga,Celta de Vigo,summer,out,Zsolt Limperger,173993,25,Hungary,Centre-Back,CB,,Real Burgos CF,Spain,0.0,1
+1994,Laliga,Deportivo de La Coruña,summer,in,Julio Salinas,8141,32,Spain,Centre-Forward,CF,,FC Barcelona,Spain,2400000.0,0
+1994,Laliga,Deportivo de La Coruña,summer,in,Emil Kostadinov,17167,26,Bulgaria,Right Winger,RW,,FC Porto,Portugal,480000.0,1
+1994,Laliga,Deportivo de La Coruña,summer,in,Javier Villarroya,180078,27,Spain,Left Midfield,LM,,Real Madrid,Spain,,0
+1994,Laliga,Deportivo de La Coruña,summer,out,Mariano Hoyas,253468,23,Spain,Right-Back,RB,,Celta de Vigo,Spain,180000.0,0
+1994,Laliga,Deportivo de La Coruña,summer,out,Marcos Vales,7709,19,Spain,Right Midfield,RM,,Sporting Gijón,Spain,0.0,0
+1994,Laliga,Deportivo de La Coruña,summer,out,Ricardo Serna,267783,30,Spain,Centre-Back,CB,,RCD Mallorca,Spain,,0
+1994,Laliga,Deportivo de La Coruña,winter,out,Pedro Riesco,305883,25,Spain,Striker,Striker,,Real Valladolid Deportivo,Spain,0.0,1
+1994,Laliga,Deportivo de La Coruña,winter,out,Emil Kostadinov,17167,27,Bulgaria,Right Winger,RW,,FC Porto,Portugal,0.0,1
+1994,Laliga,FC Barcelona,summer,in,Gheorghe Hagi,7939,29,Romania,Attacking Midfield,AM,,Brescia Calcio,Italy,4000000.0,0
+1994,Laliga,FC Barcelona,summer,in,Xabier Eskurza,154584,24,Spain,Central Midfield,CM,,Athletic Bilbao,Spain,4000000.0,0
+1994,Laliga,FC Barcelona,summer,in,Abelardo,8036,24,Spain,Centre-Back,CB,,Sporting Gijón,Spain,3000000.0,0
+1994,Laliga,FC Barcelona,summer,in,Xavier Escaich,8123,25,Spain,Centre-Forward,CF,,Sporting Gijón,Spain,150000.0,0
+1994,Laliga,FC Barcelona,summer,in,Igor Korneev,8011,26,Russia,Right Winger,RW,,RCD Español,Spain,0.0,0
+1994,Laliga,FC Barcelona,summer,in,Julen Lopetegui,101570,27,Spain,Goalkeeper,GK,,CD Logroñés,Spain,0.0,0
+1994,Laliga,FC Barcelona,winter,in,José Mari,154592,23,Spain,Attacking Midfield,AM,,CA Osasuna,Spain,900000.0,0
+1994,Laliga,FC Barcelona,summer,out,Jon Andoni Goikoetxea,150650,28,Spain,Right Midfield,RM,,Athletic Bilbao,Spain,4200000.0,0
+1994,Laliga,FC Barcelona,summer,out,Julio Salinas,8141,32,Spain,Centre-Forward,CF,,Deportivo de La Coruña,Spain,2400000.0,0
+1994,Laliga,FC Barcelona,summer,out,Andoni Zubizarreta,8117,32,Spain,Goalkeeper,GK,,Valencia CF,Spain,2100000.0,0
+1994,Laliga,FC Barcelona,summer,out,Quique Estebaranz,8126,28,Spain,Centre-Forward,CF,,Sevilla FC,Spain,150000.0,0
+1994,Laliga,FC Barcelona,summer,out,Michael Laudrup,8023,30,Denmark,Attacking Midfield,AM,,Real Madrid,Spain,0.0,0
+1994,Laliga,FC Barcelona,summer,out,Juan Carlos,178738,29,Spain,Left-Back,LB,,Valencia CF,Spain,,0
+1994,Laliga,FC Barcelona,summer,out,Sergi López,257776,26,Spain,Left-Back,LB,,Real Zaragoza,Spain,,0
+1994,Laliga,FC Barcelona,summer,out,Lluís Carreras,16593,21,Spain,Left-Back,LB,,Racing Santander,Spain,0.0,1
+1994,Laliga,FC Barcelona,summer,out,Goran Vucevic,130411,23,Croatia,Central Midfield,CM,,HNK Hajduk Split,Croatia,0.0,1
+1994,Laliga,FC Barcelona,summer,out,Óscar García,7897,21,Spain,Attacking Midfield,AM,,Albacete Balompié,Spain,0.0,1
+1994,Laliga,FC Barcelona,summer,out,Pablo Sanz,22582,20,Spain,Defensive Midfield,DM,,Gimnàstic de Tarragona,Spain,0.0,1
+1994,Laliga,FC Barcelona,winter,out,Romário,7942,28,Brazil,Centre-Forward,CF,,CR Flamengo,Brazil,6000000.0,0
+1994,Laliga,RCD Español,summer,in,Florin Răducioiu,16167,24,Romania,Centre-Forward,CF,,AC Milan,Italy,2400000.0,0
+1994,Laliga,RCD Español,summer,in,Mauricio Pochettino,4767,22,Argentina,Centre-Back,CB,,CA Newell's Old Boys,Argentina,900000.0,0
+1994,Laliga,RCD Español,summer,in,Branko Brnovic,102964,26,Montenegro,Defensive Midfield,DM,,FK Partizan Belgrade,Serbia,900000.0,0
+1994,Laliga,RCD Español,summer,in,Pacheta,187845,26,Spain,Central Midfield,CM,,CP Mérida,Spain,240000.0,0
+1994,Laliga,RCD Español,summer,in,Jaime Molina,22572,25,Spain,Centre-Back,CB,,CP Mérida,Spain,,0
+1994,Laliga,RCD Español,summer,in,Sebastián Herrera,259497,25,Spain,Centre-Back,CB,,FC Barcelona B,Spain,,0
+1994,Laliga,RCD Español,winter,in,Luis Cembranos,172345,22,Spain,Attacking Midfield,AM,,FC Barcelona B,Spain,600000.0,0
+1994,Laliga,RCD Español,summer,out,Igor Korneev,8011,26,Russia,Right Winger,RW,,FC Barcelona,Spain,0.0,0
+1994,Laliga,RCD Español,summer,out,Dmitriy Galyamin,102593,31,Russia,Right-Back,RB,,CP Mérida,Spain,,0
+1994,Laliga,RCD Español,summer,out,Juan José Elgezabal,154873,30,Spain,Central Midfield,CM,,Gernika Club,Spain,,0
+1994,Laliga,RCD Español,summer,out,Mino,216658,31,Spain,Centre-Back,CB,,RCD Mallorca,Spain,,0
+1994,Laliga,RCD Español,summer,out,Albert Albesa,273628,29,Spain,Centre-Back,CB,,Real Valladolid Deportivo,Spain,,0
+1994,Laliga,RCD Español,summer,out,Eloy Pérez,273571,29,Spain,Right-Back,RB,,Palamós CF,Spain,,0
+1994,Laliga,RCD Español,summer,out,Ángel Luis,292376,24,Spain,Right Midfield,RM,,RCD Mallorca,Spain,,0
+1994,Laliga,RCD Español,summer,out,Santi Cuesta,277442,22,Spain,Left-Back,LB,,Real Valladolid Deportivo,Spain,,0
+1994,Laliga,RCD Español,winter,out,Goyo Fonseca,273632,29,Spain,Striker,Striker,,Albacete Balompié,Spain,0.0,0
+1994,Laliga,RCD Español,winter,out,Dmitriy Kuznetsov,93357,29,Russia,Right Midfield,RM,,UE Lleida,Spain,0.0,1
+1994,Laliga,Racing Santander,summer,in,Thomas Christiansen,722,21,Spain,Centre-Forward,CF,,FC Barcelona B,Spain,0.0,1
+1994,Laliga,Racing Santander,summer,in,Alfredo Grelak,174106,23,Argentina,Defender,Defender,,Quilmes AC,Argentina,,0
+1994,Laliga,Racing Santander,summer,in,Iñaki Bollain,96051,19,Spain,Right-Back,RB,,Gimnástica de Torrelavega,Spain,,0
+1994,Laliga,Racing Santander,summer,in,Lluís Carreras,16593,21,Spain,Left-Back,LB,,FC Barcelona,Spain,0.0,1
+1994,Laliga,Racing Santander,summer,out,Pepe Aguilar,462488,23,Spain,Left Midfield,LM,,CP Cacereño,Spain,0.0,0
+1994,Laliga,Racing Santander,summer,out,Michel Pineda,255176,30,France,Centre-Forward,CF,,UE Lleida,Spain,,0
+1994,Laliga,Racing Santander,summer,out,Óscar Engonga,462525,25,Spain,Midfielder,Midfielder,,UE Figueres,Spain,,0
+1994,Laliga,Racing Santander,summer,out,Juan Endrino,587347,28,Spain,Left-Back,LB,,UE Sant Andreu,Spain,,0
+1994,Laliga,Racing Santander,summer,out,Gelucho,277029,32,Spain,Left-Back,LB,,Retired,,,0
+1994,Laliga,Racing Santander,winter,out,Alfredo Grelak,174106,24,Argentina,Defender,Defender,,Gimnástica de Torrelavega,Spain,0.0,1
+1994,Laliga,Real Betis Balompié,summer,in,Wojciech Kowalczyk,20812,22,Poland,Centre-Forward,CF,,Legia Warszawa,Poland,1250000.0,0
+1994,Laliga,Real Betis Balompié,summer,in,Risto Vidakovic,167530,25,Serbia,Centre-Back,CB,,Red Star Belgrade,Serbia,612000.0,0
+1994,Laliga,Real Betis Balompié,summer,in,Jaime Quesada,184347,22,Spain,Right-Back,RB,,UE Lleida,Spain,480000.0,0
+1994,Laliga,Real Betis Balompié,summer,in,Josete,187812,24,Spain,Left-Back,LB,,AD Rayo Vallecano,Spain,270000.0,0
+1994,Laliga,Real Betis Balompié,summer,in,Vlada Stosic,179915,29,Serbia,Central Midfield,CM,,RCD Mallorca,Spain,0.0,0
+1994,Laliga,Real Betis Balompié,summer,in,Juan Sabas,253212,27,Spain,Centre-Forward,CF,,Atlético de Madrid,Spain,,0
+1994,Laliga,Real Betis Balompié,summer,in,José Menéndez,304045,30,Spain,Midfielder,Midfielder,,Albacete Balompié,Spain,,0
+1994,Laliga,Real Betis Balompié,summer,in,Pedro Jaro,180156,31,Spain,Goalkeeper,GK,,Real Madrid,Spain,,0
+1994,Laliga,Real Betis Balompié,summer,out,José Requena,1086472,26,Spain,Goalkeeper,GK,,Almería CF,Spain,,0
+1994,Laliga,Real Betis Balompié,summer,out,Miguel Ángel,243933,32,Spain,Defender,Defender,,CD Manchego,Spain,,0
+1994,Laliga,Real Betis Balompié,summer,out,José Luis Martínez,756655,22,Spain,Goalkeeper,GK,,Almería CF,Spain,,0
+1994,Laliga,Real Betis Balompié,summer,out,Txirri,154887,29,Spain,Centre-Back,CB,,Elche CF,Spain,,0
+1994,Laliga,Real Betis Balompié,summer,out,Juanito,253530,24,Spain,Right Winger,RW,,Racing Ferrol,Spain,,0
+1994,Laliga,Real Betis Balompié,summer,out,Luis Merino,291360,25,Spain,Right Midfield,RM,,Club Atlético Marbella,Spain,,0
+1994,Laliga,Real Betis Balompié,summer,out,Juanlu Bernal,71320,21,Spain,Centre-Back,CB,,CF Extremadura,Spain,,0
+1994,Laliga,Real Betis Balompié,summer,out,Mágico Díaz,273549,26,Spain,Central Midfield,CM,,Palamós CF,Spain,,0
+1994,Laliga,Real Betis Balompié,summer,out,Juan Ramón Comas,582157,31,Argentina,Striker,Striker,,AA Argentinos Juniors,Argentina,,0
+1994,Laliga,Real Betis Balompié,summer,out,Johnny Ekström,84557,29,Sweden,Centre-Forward,CF,,AC Reggiana,Italy,0.0,1
+1994,Laliga,Real Betis Balompié,winter,out,Tab Ramos,102007,28,United States,Central Midfield,CM,,MLS Pool,United States,,0
+1994,Laliga,Real Betis Balompié,winter,out,Antonio Monreal,305209,25,Spain,Centre-Back,CB,,CP Mérida,Spain,,0
+1994,Laliga,Real Betis Balompié,winter,out,Andrés Gonzales,738941,26,Peru,Centre-Forward,CF,,Sport Boys Association,Peru,,0
+1994,Laliga,Real Madrid,summer,in,Fernando Redondo,5811,25,Argentina,Defensive Midfield,DM,,CD Tenerife,Spain,3500000.0,0
+1994,Laliga,Real Madrid,summer,in,Quique Sánchez Flores,173942,29,Spain,Right-Back,RB,,Valencia CF,Spain,1200000.0,0
+1994,Laliga,Real Madrid,summer,in,José Amavisca,7496,23,Spain,Left Midfield,LM,,Real Valladolid Deportivo,Spain,900000.0,0
+1994,Laliga,Real Madrid,summer,in,Michael Laudrup,8023,30,Denmark,Attacking Midfield,AM,,FC Barcelona,Spain,0.0,0
+1994,Laliga,Real Madrid,summer,out,Robert Prosinecki,8013,25,Croatia,Central Midfield,CM,,Real Oviedo,Spain,600000.0,0
+1994,Laliga,Real Madrid,summer,out,Paco Llorente,121096,29,Spain,Right Winger,RW,,SD Compostela,Spain,,0
+1994,Laliga,Real Madrid,summer,out,Javier Villarroya,180078,27,Spain,Left Midfield,LM,,Deportivo de La Coruña,Spain,,0
+1994,Laliga,Real Madrid,summer,out,Carlos Cano,253196,24,Spain,Goalkeeper,GK,,Celta de Vigo,Spain,,0
+1994,Laliga,Real Madrid,summer,out,Pedro Jaro,180156,31,Spain,Goalkeeper,GK,,Real Betis Balompié,Spain,,0
+1994,Laliga,Real Madrid,summer,out,Kike Velasco,22585,22,Spain,Right-Back,RB,,Sporting Gijón,Spain,,0
+1994,Laliga,Real Madrid,summer,out,Luis Miguel Ramis,154986,23,Spain,Centre-Back,CB,,CD Tenerife,Spain,0.0,1
+1994,Laliga,Real Madrid,summer,out,José Luis Morales,253679,20,Spain,Right Winger,RW,,Sporting Gijón,Spain,0.0,1
+1994,Laliga,Real Oviedo,summer,in,Robert Prosinecki,8013,25,Croatia,Central Midfield,CM,,Real Madrid,Spain,600000.0,0
+1994,Laliga,Real Oviedo,summer,in,Georgi Yordanov,116714,30,Bulgaria,Attacking Midfield,AM,,Club Atlético Marbella,Spain,0.0,0
+1994,Laliga,Real Oviedo,summer,out,Lluís Elcacho,273208,30,Spain,Left-Back,LB,,UE Lleida,Spain,0.0,0
+1994,Laliga,Real Oviedo,summer,out,Félix Sarriugarte,154892,29,Spain,Striker,Striker,,UD Las Palmas,Spain,,0
+1994,Laliga,Real Oviedo,summer,out,Jordi Vinyals,314817,30,Spain,Midfielder,Midfielder,,Villarreal CF,Spain,,0
+1994,Laliga,Real Oviedo,summer,out,Viti,273209,34,Spain,Goalkeeper,GK,,Retired,,,0
+1994,Laliga,Real Oviedo,summer,out,Lluís Carreras,16593,21,Spain,Left-Back,LB,,FC Barcelona,Spain,0.0,1
+1994,Laliga,Real Oviedo,winter,out,Antonio Gorriarán,273211,33,Spain,Centre-Back,CB,,Deportivo Alavés,Spain,,0
+1994,Laliga,Real Sociedad,summer,in,Gică Craioveanu,23019,26,Romania,Centre-Forward,CF,,Universitatea Craiova,Romania,1000000.0,0
+1994,Laliga,Real Sociedad,summer,in,Valeriy Karpin,7472,25,Russia,Right Midfield,RM,,Spartak Moscow,Russia,750000.0,0
+1994,Laliga,Real Sociedad,summer,in,Luis García,80024,25,Mexico,Centre-Forward,CF,,Atlético de Madrid,Spain,,0
+1994,Laliga,Real Sociedad,summer,in,Lutxo Iturrino,154601,30,Spain,Right Midfield,RM,,CD Logroñés,Spain,,0
+1994,Laliga,Real Sociedad,summer,out,Bittor Alkiza,7627,23,Spain,Left Midfield,LM,,Athletic Bilbao,Spain,1300000.0,0
+1994,Laliga,Real Sociedad,summer,out,Oceano,103755,31,Portugal,Defensive Midfield,DM,,Sporting CP,Portugal,,0
+1994,Laliga,Real Sociedad,summer,out,Carlos Xavier,200755,32,Portugal,Defensive Midfield,DM,,Sporting CP,Portugal,,0
+1994,Laliga,Real Sociedad,summer,out,José Luis Agirre,200730,28,Spain,Midfielder,Midfielder,,CD Badajoz,Spain,,0
+1994,Laliga,Real Sociedad,summer,out,Jon Andoni Larrañaga,145535,35,Spain,Sweeper,SW,,Retired,,,0
+1994,Laliga,Real Sociedad,winter,out,Iñaki Zabala,200766,24,Spain,Defender,Defender,,Real Zaragoza B,Spain,,0
+1994,Laliga,Real Valladolid Deportivo,summer,in,Manolo Herrero,312173,24,Spain,Central Midfield,CM,,Real Jaén CF,Spain,,0
+1994,Laliga,Real Valladolid Deportivo,summer,in,Nilson,283199,28,Brazil,Second Striker,SS,,Albacete Balompié,Spain,,0
+1994,Laliga,Real Valladolid Deportivo,summer,in,Santi Cuesta,277442,22,Spain,Left-Back,LB,,RCD Español,Spain,,0
+1994,Laliga,Real Valladolid Deportivo,summer,in,Manuel Carou,356441,25,Spain,Goalkeeper,GK,,AD Rayo Vallecano,Spain,,0
+1994,Laliga,Real Valladolid Deportivo,summer,in,Juan Carlos Quero,506027,21,Spain,Striker,Striker,,CP Mérida,Spain,,0
+1994,Laliga,Real Valladolid Deportivo,summer,in,Manuel Chumilla,253651,25,Spain,Midfielder,Midfielder,,Real Jaén CF,Spain,,0
+1994,Laliga,Real Valladolid Deportivo,summer,in,Gustavo Matosas,273265,27,Uruguay,Central Midfield,CM,,UE Lleida,Spain,,0
+1994,Laliga,Real Valladolid Deportivo,summer,in,José González,200746,29,Spain,Goalkeeper,GK,,Valencia CF,Spain,,0
+1994,Laliga,Real Valladolid Deportivo,summer,in,Albert Albesa,273628,29,Spain,Centre-Back,CB,,RCD Español,Spain,,0
+1994,Laliga,Real Valladolid Deportivo,summer,in,Mami Quevedo,172351,25,Spain,Central Midfield,CM,,Atlético de Madrid,Spain,,0
+1994,Laliga,Real Valladolid Deportivo,summer,in,Pablo Gómez,172358,24,Spain,Central Midfield,CM,,AD Rayo Vallecano,Spain,,0
+1994,Laliga,Real Valladolid Deportivo,summer,in,Miodrag Belodedici,102018,30,Romania,Sweeper,SW,,Valencia CF,Spain,,0
+1994,Laliga,Real Valladolid Deportivo,summer,in,José María Cidoncha,70949,24,Spain,Left-Back,LB,,CD Badajoz,Spain,,0
+1994,Laliga,Real Valladolid Deportivo,winter,in,Jan Urban,117226,32,Poland,Centre-Forward,CF,,CA Osasuna,Spain,180000.0,0
+1994,Laliga,Real Valladolid Deportivo,winter,in,Amado Guevara,30598,18,Honduras,Attacking Midfield,AM,,CD Motagua Tegucigalpa,Honduras,,0
+1994,Laliga,Real Valladolid Deportivo,winter,in,Pedro Riesco,305883,25,Spain,Striker,Striker,,Deportivo de La Coruña,Spain,0.0,1
+1994,Laliga,Real Valladolid Deportivo,summer,out,José Amavisca,7496,23,Spain,Left Midfield,LM,,Real Madrid,Spain,900000.0,0
+1994,Laliga,Real Valladolid Deportivo,summer,out,Manolo Alfaro,221878,23,Spain,Centre-Forward,CF,,Hércules CF,Spain,0.0,0
+1994,Laliga,Real Valladolid Deportivo,summer,out,Iván Rocha,253985,25,Brazil,Left-Back,LB,,Atlético de Madrid,Spain,,0
+1994,Laliga,Real Valladolid Deportivo,summer,out,José Antonio Castillo,355983,24,Spain,Midfielder,Midfielder,,GD Chaves,Portugal,,0
+1994,Laliga,Real Valladolid Deportivo,summer,out,Alfonso Serrano,358355,23,Spain,Midfielder,Midfielder,,CD Numancia,Spain,,0
+1994,Laliga,Real Valladolid Deportivo,summer,out,Luis Miguel Damián,275918,28,Spain,Midfielder,Midfielder,,Xerez CD,Spain,,0
+1994,Laliga,Real Valladolid Deportivo,summer,out,Ángel Lozano,310940,34,Spain,Goalkeeper,GK,,CD Badajoz,Spain,,0
+1994,Laliga,Real Valladolid Deportivo,summer,out,Gabi Correa,258056,26,Uruguay,Central Midfield,CM,,CP Mérida,Spain,,0
+1994,Laliga,Real Valladolid Deportivo,summer,out,Ilija Najdoski,152380,30,North Macedonia,Centre-Back,CB,,Denizlispor,Türkiye,,0
+1994,Laliga,Real Valladolid Deportivo,summer,out,Walter Lozano,277437,28,Argentina,Defender,Defender,,Retired,,,0
+1994,Laliga,Real Valladolid Deportivo,summer,out,Marlon Brandão,355986,30,Brazil,Right Winger,RW,,Retired,,,0
+1994,Laliga,Real Valladolid Deportivo,summer,out,Txelis,355985,31,Spain,Left-Back,LB,,Retired,,,0
+1994,Laliga,Real Valladolid Deportivo,summer,out,Juli,354029,24,Spain,Centre-Back,CB,,FC Barcelona B,Spain,0.0,1
+1994,Laliga,Real Valladolid Deportivo,winter,out,Gustavo Matosas,273265,27,Uruguay,Central Midfield,CM,,Atlético Paranaense,Brazil,,0
+1994,Laliga,Real Valladolid Deportivo,winter,out,Juan Carlos Quero,506027,22,Spain,Striker,Striker,,Córdoba CF,Spain,,0
+1994,Laliga,Real Valladolid Deportivo,winter,out,Manolo Herrero,312173,24,Spain,Central Midfield,CM,,Córdoba CF,Spain,,0
+1994,Laliga,Real Valladolid Deportivo,winter,out,Pedro Arquero,648325,21,Spain,Striker,Striker,,Levante UD,Spain,0.0,1
+1994,Laliga,Real Zaragoza,summer,in,José Luis Loreto,253946,23,Spain,Centre-Forward,CF,,Córdoba CF,Spain,150000.0,0
+1994,Laliga,Real Zaragoza,summer,in,Óscar Celada,184497,28,Spain,Defensive Midfield,DM,,Sporting Gijón,Spain,0.0,0
+1994,Laliga,Real Zaragoza,summer,in,Sergi López,257776,26,Spain,Left-Back,LB,,FC Barcelona,Spain,,0
+1994,Laliga,Real Zaragoza,winter,in,Cafu,5937,24,Brazil,Right-Back,RB,,São Paulo Futebol Clube,Brazil,1500000.0,0
+1994,Laliga,Real Zaragoza,summer,out,Mario García,357678,26,Spain,Goalkeeper,GK,,CD Tudelano,Spain,,0
+1994,Laliga,Real Zaragoza,summer,out,Jesús Seba,184502,20,Spain,Second Striker,SS,,Villarreal CF,Spain,,0
+1994,Laliga,Real Zaragoza,summer,out,Roberto Martínez,50008,20,Spain,Defensive Midfield,DM,,CF Balaguer,Spain,,0
+1994,Laliga,Real Zaragoza,summer,out,Moisés García,7716,22,Spain,Centre-Forward,CF,,CA Osasuna,Spain,,0
+1994,Laliga,Real Zaragoza,summer,out,Javier Sánchez Broto,8210,22,Spain,Goalkeeper,GK,,Villarreal CF,Spain,,0
+1994,Laliga,Real Zaragoza,summer,out,Esteban,214696,33,Spain,Left-Back,LB,,Retired,,,0
+1994,Laliga,Real Zaragoza,summer,out,Narcís Julià,257761,31,Spain,Defender,Defender,,Retired,,,0
+1994,Laliga,Real Zaragoza,summer,out,Sergi López,257776,26,Spain,Left-Back,LB,,FC Barcelona,Spain,0.0,1
+1994,Laliga,SD Compostela,summer,in,Juan Carlos Paniagua,353723,28,Spain,Centre-Forward,CF,,CD Toledo,Spain,30000.0,0
+1994,Laliga,SD Compostela,summer,in,Ángel Lekumberri,7734,24,Spain,Midfielder,Midfielder,,Athletic Bilbao B,Spain,,0
+1994,Laliga,SD Compostela,summer,in,Paco Llorente,121096,29,Spain,Right Winger,RW,,Real Madrid,Spain,,0
+1994,Laliga,SD Compostela,summer,in,Franck Passi,177714,28,France,Defensive Midfield,DM,,AS Monaco,France,,0
+1994,Laliga,SD Compostela,summer,in,Javier Villena,259506,27,Spain,Centre-Back,CB,,RCD Mallorca,Spain,,0
+1994,Laliga,SD Compostela,summer,in,Toño Castro,310636,22,Spain,Centre-Back,CB,,CD Toledo,Spain,,0
+1994,Laliga,SD Compostela,summer,in,José Manuel Galdames,154589,23,Spain,Centre-Back,CB,,Athletic Bilbao,Spain,0.0,1
+1994,Laliga,SD Compostela,summer,in,Bent Christensen,17301,27,Denmark,Centre-Forward,CF,,FC Schalke 04,Germany,0.0,1
+1994,Laliga,SD Compostela,summer,out,Albert Stroni,467326,22,Albania,Striker,Striker,,CD Orense,Spain,0.0,0
+1994,Laliga,SD Compostela,summer,out,Modesto Martínez,461293,29,Spain,Centre-Back,CB,,CD Mensajero,Spain,,0
+1994,Laliga,SD Compostela,summer,out,Xose Carlos,310635,23,Spain,Goalkeeper,GK,,Arosa SC,Spain,,0
+1994,Laliga,SD Compostela,winter,out,Óscar Arias,253191,28,Germany,Midfielder,Midfielder,,Deportivo Alavés,Spain,,0
+1994,Laliga,SD Compostela,winter,out,Alberto Bodelón,399196,26,Spain,Left Winger,LW,,Racing Ferrol,Spain,,0
+1994,Laliga,Sevilla FC,summer,in,Moacir,303470,24,Brazil,Defensive Midfield,DM,,Atlético de Madrid,Spain,800000.0,0
+1994,Laliga,Sevilla FC,summer,in,Juanito Rodríguez,253986,29,Spain,Centre-Back,CB,,Atlético de Madrid,Spain,600000.0,0
+1994,Laliga,Sevilla FC,summer,in,Pedro,254096,26,Spain,Left-Back,LB,,Atlético de Madrid,Spain,400000.0,0
+1994,Laliga,Sevilla FC,summer,in,Quique Estebaranz,8126,28,Spain,Centre-Forward,CF,,FC Barcelona,Spain,150000.0,0
+1994,Laliga,Sevilla FC,summer,in,Zigor Aranalde,13777,21,Spain,Left-Back,LB,,Club Atlético Marbella,Spain,,0
+1994,Laliga,Sevilla FC,summer,in,David Linde,314464,25,Spain,Left Winger,LW,,CD Logroñés,Spain,,0
+1994,Laliga,Sevilla FC,winter,in,Ilie Dumitrescu,102020,25,Romania,Attacking Midfield,AM,,Tottenham Hotspur,England,0.0,1
+1994,Laliga,Sevilla FC,summer,out,Diego Simeone,5841,24,Argentina,Central Midfield,CM,,Atlético de Madrid,Spain,2700000.0,0
+1994,Laliga,Sevilla FC,summer,out,José Padilla,253209,24,Spain,Left-Back,LB,,CF Extremadura,Spain,,0
+1994,Laliga,Sevilla FC,summer,out,José Carvajal,277427,26,Spain,Striker,Striker,,AD Rayo Vallecano,Spain,,0
+1994,Laliga,Sevilla FC,summer,out,Patxi Ferreira,150645,27,Spain,Centre-Back,CB,,Atlético de Madrid,Spain,0.0,1
+1994,Laliga,Sporting Gijón,summer,in,Igor Ledyakhov,102594,26,Russia,Central Midfield,CM,,Spartak Moscow,Russia,1200000.0,0
+1994,Laliga,Sporting Gijón,summer,in,Pier,184330,22,Spain,Centre-Forward,CF,,CD Tenerife,Spain,1200000.0,0
+1994,Laliga,Sporting Gijón,summer,in,Marcos Vales,7709,19,Spain,Right Midfield,RM,,Deportivo de La Coruña,Spain,0.0,0
+1994,Laliga,Sporting Gijón,summer,in,Kike Velasco,22585,22,Spain,Right-Back,RB,,Real Madrid,Spain,,0
+1994,Laliga,Sporting Gijón,summer,in,José Luis Morales,253679,20,Spain,Right Winger,RW,,Real Madrid,Spain,0.0,1
+1994,Laliga,Sporting Gijón,winter,in,Hugo Pérez,102210,26,Argentina,Right Midfield,RM,,CA Independiente,Argentina,,0
+1994,Laliga,Sporting Gijón,summer,out,Abelardo,8036,24,Spain,Centre-Back,CB,,FC Barcelona,Spain,3000000.0,0
+1994,Laliga,Sporting Gijón,summer,out,Juanele,7943,23,Spain,Second Striker,SS,,CD Tenerife,Spain,1650000.0,0
+1994,Laliga,Sporting Gijón,summer,out,Xavier Escaich,8123,25,Spain,Centre-Forward,CF,,FC Barcelona,Spain,150000.0,0
+1994,Laliga,Sporting Gijón,summer,out,Óscar Celada,184497,28,Spain,Defensive Midfield,DM,,Real Zaragoza,Spain,0.0,0
+1994,Laliga,Sporting Gijón,summer,out,Roberto Rodri,357215,25,Spain,Goalkeeper,GK,,AD Rayo Vallecano,Spain,0.0,0
+1994,Laliga,Sporting Gijón,summer,out,Mario Stanic,3164,22,Croatia,Right Winger,RW,,SL Benfica,Portugal,,0
+1994,Laliga,Sporting Gijón,summer,out,Luis Sierra,273580,28,Spain,Centre-Back,CB,,CP Mérida,Spain,,0
+1994,Laliga,Sporting Gijón,summer,out,Jose Maria Cela,207258,24,Spain,Striker,Striker,,FC Barcelona B,Spain,,0
+1994,Laliga,Sporting Gijón,summer,out,Arturo,314704,25,Spain,Defender,Defender,,CD Logroñés,Spain,,0
+1994,Laliga,Sporting Gijón,summer,out,Emilio Isierte,314761,30,Spain,Goalkeeper,GK,,UE Lleida,Spain,,0
+1994,Laliga,Valencia CF,summer,in,Andoni Zubizarreta,8117,32,Spain,Goalkeeper,GK,,FC Barcelona,Spain,2100000.0,0
+1994,Laliga,Valencia CF,summer,in,Oleg Salenko,88147,24,Russia,Centre-Forward,CF,,CD Logroñés,Spain,2069999.9999999998,0
+1994,Laliga,Valencia CF,summer,in,Jorge Otero,29183,25,Spain,Right-Back,RB,,Celta de Vigo,Spain,300000.0,0
+1994,Laliga,Valencia CF,summer,in,Vicente Engonga,150748,28,Spain,Central Midfield,CM,,Celta de Vigo,Spain,300000.0,0
+1994,Laliga,Valencia CF,summer,in,Enrique Romero,7494,23,Spain,Left-Back,LB,,CD Logroñés,Spain,0.0,0
+1994,Laliga,Valencia CF,summer,in,Antonio Poyatos,173466,28,Spain,Left Midfield,LM,,CD Logroñés,Spain,0.0,0
+1994,Laliga,Valencia CF,summer,in,David Clotet,187821,21,Spain,Centre-Back,CB,,UDA Gramenet,Spain,,0
+1994,Laliga,Valencia CF,summer,in,Juan Carlos,178738,29,Spain,Left-Back,LB,,FC Barcelona,Spain,,0
+1994,Laliga,Valencia CF,summer,in,Juanjo Maqueda,180072,25,Spain,Midfielder,Midfielder,,Real Madrid B,Spain,,0
+1994,Laliga,Valencia CF,summer,in,Mazinho,102588,28,Brazil,Defensive Midfield,DM,,Sociedade Esportiva Palmeiras,Brazil,,0
+1994,Laliga,Valencia CF,summer,out,Quique Sánchez Flores,173942,29,Spain,Right-Back,RB,,Real Madrid,Spain,1200000.0,0
+1994,Laliga,Valencia CF,summer,out,Juan Sánchez,7585,22,Spain,Centre-Forward,CF,,Celta de Vigo,Spain,600000.0,0
+1994,Laliga,Valencia CF,summer,out,Víctor Aristizábal,102165,22,Colombia,Centre-Forward,CF,,Atlético Nacional,Colombia,0.0,0
+1994,Laliga,Valencia CF,summer,out,Javi Navarro,7696,20,Spain,Centre-Back,CB,,CD Logroñés,Spain,0.0,1
+1994,Laliga,Valencia CF,summer,out,Alberto Benito,353216,22,Spain,Central Midfield,CM,,CD Toledo,Spain,,0
+1994,Laliga,Valencia CF,summer,out,José González,200746,29,Spain,Goalkeeper,GK,,Real Valladolid Deportivo,Spain,,0
+1994,Laliga,Valencia CF,summer,out,José Manuel Tárraga,258870,23,Spain,Centre-Back,CB,,Celta de Vigo,Spain,,0
+1994,Laliga,Valencia CF,summer,out,Miodrag Belodedici,102018,30,Romania,Sweeper,SW,,Real Valladolid Deportivo,Spain,,0
+1994,Laliga,Valencia CF,summer,out,Antonio Notario,7694,21,Spain,Goalkeeper,GK,,Real Murcia CF,Spain,,0
+1994,Laliga,Valencia CF,summer,out,Juan Antonio Pizzi,8015,26,Spain,Centre-Forward,CF,,CD Tenerife,Spain,0.0,1

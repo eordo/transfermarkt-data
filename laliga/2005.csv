@@ -1,0 +1,453 @@
+season,league,club,window,movement,player_name,player_id,age,nationality,position,pos,market_value,dealing_club,dealing_country,fee,is_loan
+2005,Laliga,Athletic Bilbao,summer,in,Unai Expósito,16579,25,Spain,Right-Back,RB,300000.0,CA Osasuna,Spain,0.0,0
+2005,Laliga,Athletic Bilbao,winter,in,Aritz Aduriz,29124,24,Spain,Centre-Forward,CF,,Real Valladolid CF,Spain,3000000.0,0
+2005,Laliga,Athletic Bilbao,summer,out,Asier del Horno,7617,24,Spain,Left-Back,LB,12000000.0,Chelsea FC,England,12000000.0,0
+2005,Laliga,Athletic Bilbao,summer,out,Santiago Ezquerro,7639,28,Spain,Centre-Forward,CF,2000000.0,FC Barcelona,Spain,0.0,0
+2005,Laliga,Athletic Bilbao,summer,out,Jonan García,15803,22,Spain,Attacking Midfield,AM,700000.0,CD Castellón,Spain,0.0,0
+2005,Laliga,Athletic Bilbao,summer,out,César Caneda,51682,27,Spain,Centre-Back,CB,,SD Eibar,Spain,,0
+2005,Laliga,Athletic Bilbao,summer,out,Gorka Azkorra,26136,22,Spain,Right Winger,RW,400000.0,CD Numancia,Spain,0.0,1
+2005,Laliga,Athletic Bilbao,summer,out,Aritz Solabarrieta,26144,21,Spain,Right Midfield,RM,500000.0,SD Eibar,Spain,0.0,1
+2005,Laliga,Athletic Bilbao,summer,out,Roberto Pampín,62616,21,Spain,Goalkeeper,GK,,Real Unión Club,Spain,0.0,1
+2005,Laliga,Athletic Bilbao,summer,out,Joseba Arriaga,7638,22,Spain,Centre-Forward,CF,500000.0,SD Eibar,Spain,0.0,1
+2005,Laliga,Athletic Bilbao,summer,out,Oskar Vales,7625,30,Spain,Right-Back,RB,,Retired,,,0
+2005,Laliga,Athletic Bilbao,winter,out,Aitor Karanka,7619,32,Spain,Centre-Back,CB,2000000.0,Colorado Rapids,United States,0.0,0
+2005,Laliga,Athletic Bilbao,winter,out,Javi González,7632,31,Spain,Right Midfield,RM,900000.0,FC Ashdod,Israel,0.0,1
+2005,Laliga,Athletic Bilbao,winter,out,Francisco Tarantino,35572,21,Spain,Centre-Back,CB,,CD Numancia,Spain,0.0,1
+2005,Laliga,Atlético de Madrid,summer,in,Mateja Kežman,4358,26,Serbia,Centre-Forward,CF,13500000.0,Chelsea FC,England,9000000.0,0
+2005,Laliga,Atlético de Madrid,summer,in,Martin Petrov,670,26,Bulgaria,Left Winger,LW,7000000.0,VfL Wolfsburg,Germany,8500000.0,0
+2005,Laliga,Atlético de Madrid,summer,in,Maxi Rodríguez,7895,24,Argentina,Left Winger,LW,7000000.0,RCD Espanyol Barcelona,Spain,5000000.0,0
+2005,Laliga,Atlético de Madrid,summer,in,Luciano Galletti,7978,25,Argentina,Right Winger,RW,2000000.0,Real Zaragoza,Spain,2500000.0,0
+2005,Laliga,Atlético de Madrid,summer,in,Juan Valera,16595,20,Spain,Right-Back,RB,50000.0,Real Murcia CF,Spain,0.0,0
+2005,Laliga,Atlético de Madrid,summer,out,Jesper Grønkjær,3137,27,Denmark,Left Winger,LW,6500000.0,VfB Stuttgart,Germany,3000000.0,0
+2005,Laliga,Atlético de Madrid,summer,out,Javier Pinola,7358,22,Argentina,Left-Back,LB,500000.0,1.FC Nuremberg,Germany,300000.0,1
+2005,Laliga,Atlético de Madrid,summer,out,Veljko Paunovic,7364,27,Serbia,Centre-Forward,CF,2000000.0,Getafe CF,Spain,0.0,0
+2005,Laliga,Atlético de Madrid,summer,out,Richard Núñez,2877,29,Uruguay,Attacking Midfield,AM,3750000.0,CD Cruz Azul,Mexico,0.0,0
+2005,Laliga,Atlético de Madrid,summer,out,Santi Denia,10010,31,Spain,Centre-Back,CB,1250000.0,Albacete Balompié,Spain,0.0,0
+2005,Laliga,Atlético de Madrid,summer,out,Cosmin Contra,5808,29,Romania,Right-Back,RB,,Getafe CF,Spain,0.0,0
+2005,Laliga,Atlético de Madrid,summer,out,Sergio Sánchez,35798,28,Spain,Goalkeeper,GK,,Hércules CF,Spain,0.0,0
+2005,Laliga,Atlético de Madrid,summer,out,Toché,22586,22,Spain,Centre-Forward,CF,600000.0,Hércules CF,Spain,0.0,1
+2005,Laliga,Atlético de Madrid,summer,out,Jorge Larena,7761,23,Spain,Central Midfield,CM,3000000.0,Celta de Vigo,Spain,0.0,1
+2005,Laliga,Atlético de Madrid,summer,out,Álvaro Novo,7687,27,Spain,Right Midfield,RM,2500000.0,Real Sociedad,Spain,,0
+2005,Laliga,Atlético de Madrid,summer,out,Iván Romero,57899,25,Spain,Left-Back,LB,,Real Jaén CF,Spain,,0
+2005,Laliga,Atlético de Madrid,summer,out,Nano,7901,23,Spain,Left-Back,LB,2500000.0,Getafe CF,Spain,,0
+2005,Laliga,Atlético de Madrid,summer,out,Raúl Medina,51564,22,Spain,Central Midfield,CM,,Ciudad de Murcia,Spain,0.0,1
+2005,Laliga,Atlético de Madrid,summer,out,Marcelo Sosa,16654,27,Uruguay,Defensive Midfield,DM,2000000.0,CA Osasuna,Spain,0.0,1
+2005,Laliga,Atlético de Madrid,summer,out,Juan Carlos Aguilera,7370,36,Spain,Right-Back,RB,,Retired,,,0
+2005,Laliga,Atlético de Madrid,summer,out,Sergi Barjuan,8063,33,Spain,Left-Back,LB,,Retired,,,0
+2005,Laliga,Atlético de Madrid,summer,out,Salva Ballesta,3693,30,Spain,Centre-Forward,CF,6000000.0,Valencia CF,Spain,0.0,1
+2005,Laliga,Atlético de Madrid,winter,out,Javier Arizmendi,25411,21,Spain,Centre-Forward,CF,1500000.0,Deportivo de La Coruña,Spain,2000000.0,0
+2005,Laliga,Atlético de Madrid,winter,out,Braulio Nóbrega,27488,20,Spain,Centre-Forward,CF,200000.0,RCD Mallorca,Spain,0.0,1
+2005,Laliga,CA Osasuna,summer,in,Bernardo Romeo,1431,27,Argentina,Centre-Forward,CF,3500000.0,Hamburger SV,Germany,1000000.0,0
+2005,Laliga,CA Osasuna,summer,in,Ricardo,3535,33,Spain,Goalkeeper,GK,1000000.0,Manchester United,England,0.0,0
+2005,Laliga,CA Osasuna,summer,in,Gorka Brit,29167,27,Spain,Centre-Forward,CF,,UD Salamanca,Spain,0.0,0
+2005,Laliga,CA Osasuna,summer,in,Marcelo Sosa,16654,27,Uruguay,Defensive Midfield,DM,2000000.0,Atlético de Madrid,Spain,0.0,1
+2005,Laliga,CA Osasuna,summer,out,Pablo García,7737,28,Uruguay,Defensive Midfield,DM,4250000.0,Real Madrid,Spain,4000000.0,0
+2005,Laliga,CA Osasuna,summer,out,Richard Morales,16588,30,Uruguay,Centre-Forward,CF,750000.0,Málaga CF,Spain,1400000.0,0
+2005,Laliga,CA Osasuna,summer,out,John Aloisi,7741,29,Australia,Centre-Forward,CF,2250000.0,Deportivo Alavés,Spain,0.0,0
+2005,Laliga,CA Osasuna,summer,out,Unai Expósito,16579,25,Spain,Right-Back,RB,300000.0,Athletic Bilbao,Spain,0.0,0
+2005,Laliga,CA Osasuna,summer,out,Iván Rosado,7744,31,Spain,Centre-Forward,CF,1500000.0,Xerez CD,Spain,0.0,0
+2005,Laliga,CA Osasuna,summer,out,Ricardo Sanzol,7721,29,Spain,Goalkeeper,GK,500000.0,Albacete Balompié,Spain,0.0,0
+2005,Laliga,CA Osasuna,summer,out,Francisco Jusué,7727,25,Spain,Centre-Back,CB,300000.0,UD San Sebastián de los Reyes,Spain,,0
+2005,Laliga,CA Osasuna,summer,out,Fernando Porto,95961,31,Spain,Centre-Back,CB,,CD Baza,Spain,,0
+2005,Laliga,Celta de Vigo,summer,in,Fabián Canobbio,15455,25,Uruguay,Attacking Midfield,AM,50000.0,Valencia CF,Spain,1500000.0,0
+2005,Laliga,Celta de Vigo,summer,in,Daniël de Ridder,15894,21,Netherlands,Left Winger,LW,1250000.0,Ajax Amsterdam,Netherlands,1250000.0,1
+2005,Laliga,Celta de Vigo,summer,in,Roberto Sousa,27420,20,Brazil,Defensive Midfield,DM,,Guarani Futebol Clube (SP),Brazil,1000000.0,0
+2005,Laliga,Celta de Vigo,summer,in,Esteban,15974,30,Spain,Goalkeeper,GK,3000000.0,Sevilla FC,Spain,500000.0,0
+2005,Laliga,Celta de Vigo,summer,in,Diego Placente,76,28,Argentina,Left-Back,LB,4500000.0,Bayer 04 Leverkusen,Germany,0.0,0
+2005,Laliga,Celta de Vigo,summer,in,Antonio Núñez,15466,26,Spain,Right Winger,RW,1300000.0,Liverpool FC,England,0.0,0
+2005,Laliga,Celta de Vigo,summer,in,Jesús Perera,15901,25,Spain,Centre-Forward,CF,350000.0,RCD Mallorca,Spain,0.0,0
+2005,Laliga,Celta de Vigo,summer,in,Javi Guerrero,7869,28,Spain,Centre-Forward,CF,3500000.0,Racing Santander,Spain,0.0,0
+2005,Laliga,Celta de Vigo,summer,in,David Silva,35518,19,Spain,Attacking Midfield,AM,,Valencia CF,Spain,0.0,1
+2005,Laliga,Celta de Vigo,summer,in,José Enrique,35571,19,Spain,Left-Back,LB,,Valencia CF,Spain,0.0,1
+2005,Laliga,Celta de Vigo,summer,in,Jorge Larena,7761,23,Spain,Central Midfield,CM,3000000.0,Atlético de Madrid,Spain,0.0,1
+2005,Laliga,Celta de Vigo,summer,in,Fernando Baiano,9415,26,Brazil,Centre-Forward,CF,3000000.0,Málaga CF,Spain,,0
+2005,Laliga,Celta de Vigo,summer,in,Iriney,35515,24,Brazil,Central Midfield,CM,,Rayo Vallecano,Spain,,0
+2005,Laliga,Celta de Vigo,summer,in,Matías Lequi,7372,24,Argentina,Centre-Back,CB,2250000.0,SS Lazio,Italy,0.0,1
+2005,Laliga,Celta de Vigo,winter,in,Carlos Vela,35773,16,Mexico,Right Winger,RW,1000000.0,Arsenal FC,England,0.0,1
+2005,Laliga,Celta de Vigo,summer,out,Orlando Quintana,29112,27,Spain,Goalkeeper,GK,,Lorca Deportiva CF,Spain,0.0,0
+2005,Laliga,Celta de Vigo,summer,out,Roger Guerreiro,36423,23,Poland,Attacking Midfield,AM,,Esporte Clube Juventude,Brazil,0.0,0
+2005,Laliga,Celta de Vigo,summer,out,Toni Moral,51715,23,Spain,Left Winger,LW,,CD Tenerife,Spain,0.0,0
+2005,Laliga,Celta de Vigo,summer,out,Txomin Nagore,7764,30,Spain,Central Midfield,CM,1500000.0,Levante UD,Spain,0.0,0
+2005,Laliga,Celta de Vigo,summer,out,Israel Delgado,29093,26,Spain,Left-Back,LB,,Córdoba CF,Spain,0.0,0
+2005,Laliga,Celta de Vigo,summer,out,Eduardo Berizzo,7539,35,Argentina,Centre-Back,CB,50000.0,Cádiz CF,Spain,0.0,0
+2005,Laliga,Celta de Vigo,summer,out,Iago Bouzón,14535,22,Spain,Centre-Back,CB,750000.0,Recreativo Huelva,Spain,0.0,1
+2005,Laliga,Celta de Vigo,summer,out,Jandro Castro,7553,26,Spain,Attacking Midfield,AM,1000000.0,Deportivo Alavés,Spain,,0
+2005,Laliga,Celta de Vigo,summer,out,Capucho,8563,33,Portugal,Right Winger,RW,,Retired,,,0
+2005,Laliga,Celta de Vigo,summer,out,Zisis Vryzas,6095,31,Greece,Centre-Forward,CF,2000000.0,ACF Fiorentina,Italy,0.0,1
+2005,Laliga,Celta de Vigo,summer,out,Facundo Sava,3709,31,Argentina,Centre-Forward,CF,2250000.0,Fulham FC,England,0.0,1
+2005,Laliga,Celta de Vigo,summer,out,Fabián Canobbio,15455,25,Uruguay,Attacking Midfield,AM,50000.0,Valencia CF,Spain,0.0,1
+2005,Laliga,Celta de Vigo,winter,out,José Ignacio,7554,32,Spain,Defensive Midfield,DM,1000000.0,Logroñés CF (- 2008),Spain,0.0,0
+2005,Laliga,Cádiz CF,summer,in,Alejandro Limia,30881,29,Argentina,Goalkeeper,GK,,Arsenal FC,Argentina,500000.0,0
+2005,Laliga,Cádiz CF,summer,in,Alexander Medina,35514,27,Uruguay,Centre-Forward,CF,,Club Nacional,Uruguay,500000.0,0
+2005,Laliga,Cádiz CF,summer,in,Fabián Estoyanoff,35511,22,Uruguay,Right Midfield,RM,,Valencia CF,Spain,300000.0,1
+2005,Laliga,Cádiz CF,summer,in,Mário Silva,9818,28,Portugal,Left-Back,LB,600000.0,FC Porto,Portugal,0.0,0
+2005,Laliga,Cádiz CF,summer,in,Marc Bertrán,15761,23,Spain,Right-Back,RB,400000.0,RCD Espanyol Barcelona,Spain,0.0,0
+2005,Laliga,Cádiz CF,summer,in,Eduardo Berizzo,7539,35,Argentina,Centre-Back,CB,50000.0,Celta de Vigo,Spain,0.0,0
+2005,Laliga,Cádiz CF,summer,in,Iván Ania,29081,27,Spain,Left Midfield,LM,,Gimnàstic de Tarragona,Spain,0.0,0
+2005,Laliga,Cádiz CF,summer,in,Fernando Morán,7861,29,Spain,Right Midfield,RM,500000.0,Racing Santander,Spain,0.0,0
+2005,Laliga,Cádiz CF,summer,in,Benjamín,7655,29,Equatorial Guinea,Central Midfield,CM,1250000.0,Real Betis Balompié,Spain,0.0,1
+2005,Laliga,Cádiz CF,winter,in,Lucas Lobos,30787,24,Mexico,Second Striker,SS,,Club de Gimnasia y Esgrima La Plata,Argentina,1600000.0,0
+2005,Laliga,Cádiz CF,winter,in,Luciano Vella,38371,24,Argentina,Right-Back,RB,,CA Newell's Old Boys,Argentina,400000.0,0
+2005,Laliga,Cádiz CF,summer,out,Manuel de Gomar,29145,20,Spain,Second Striker,SS,,Rayo Vallecano,Spain,0.0,0
+2005,Laliga,Cádiz CF,summer,out,Fredi Lobeiras,7707,31,Spain,Left Midfield,LM,500000.0,CD Castellón,Spain,0.0,0
+2005,Laliga,Cádiz CF,summer,out,Jesuli Velázquez,29132,26,Spain,Defender,Defender,,Lorca Deportiva CF,Spain,0.0,0
+2005,Laliga,Cádiz CF,summer,out,Cherno Samba,13608,20,The Gambia,Centre-Forward,CF,50000.0,Málaga CF B,Spain,0.0,1
+2005,Laliga,Cádiz CF,summer,out,Dani Navarrete,29134,28,Spain,Right Winger,RW,,Hércules CF,Spain,,0
+2005,Laliga,Deportivo Alavés,summer,in,Wesley,22560,24,Brazil,Second Striker,SS,2000000.0,FC Penafiel,Portugal,1400000.0,0
+2005,Laliga,Deportivo Alavés,summer,in,Arthuro,35513,22,Brazil,Centre-Forward,CF,,Sporting Gijón,Spain,0.0,0
+2005,Laliga,Deportivo Alavés,summer,in,Mehdi Lacen,35539,21,Algeria,Defensive Midfield,DM,,Association sportive de Valence ,France,0.0,0
+2005,Laliga,Deportivo Alavés,summer,in,Franco Costanzo,19962,24,Argentina,Goalkeeper,GK,,CA River Plate,Argentina,0.0,0
+2005,Laliga,Deportivo Alavés,summer,in,Poli,7678,28,Spain,Left-Back,LB,500000.0,RCD Mallorca,Spain,0.0,0
+2005,Laliga,Deportivo Alavés,summer,in,Mauricio Pellegrino,7573,33,Argentina,Centre-Back,CB,2000000.0,Liverpool FC,England,0.0,0
+2005,Laliga,Deportivo Alavés,summer,in,Juanito,7795,25,Spain,Defensive Midfield,DM,300000.0,Málaga CF,Spain,0.0,0
+2005,Laliga,Deportivo Alavés,summer,in,John Aloisi,7741,29,Australia,Centre-Forward,CF,2250000.0,CA Osasuna,Spain,0.0,0
+2005,Laliga,Deportivo Alavés,summer,in,Henri Antchouet,14189,25,Gabon,Centre-Forward,CF,4000000.0,CF Os Belenenses,Portugal,0.0,0
+2005,Laliga,Deportivo Alavés,summer,in,Jandro Castro,7553,26,Spain,Attacking Midfield,AM,1000000.0,Celta de Vigo,Spain,,0
+2005,Laliga,Deportivo Alavés,summer,in,José María Mena,29179,26,Spain,Centre-Forward,CF,,Xerez CD,Spain,,0
+2005,Laliga,Deportivo Alavés,summer,in,Remond Mendy,103595,19,Senegal,Centre-Forward,CF,,ASC Jeanne d'Arc Dakar,Senegal,,0
+2005,Laliga,Deportivo Alavés,summer,in,Bernardo Domínguez,35533,25,Spain,Goalkeeper,GK,,SD Huesca,Spain,,0
+2005,Laliga,Deportivo Alavés,winter,in,Élton,36206,22,Brazil,Left Midfield,LM,50000.0,Santos FC,Brazil,0.0,0
+2005,Laliga,Deportivo Alavés,winter,in,Ibon Begoña,73098,32,Spain,Left-Back,LB,,Without Club,,0.0,0
+2005,Laliga,Deportivo Alavés,winter,in,Blagoy Georgiev,36812,24,Bulgaria,Central Midfield,CM,2000000.0,Slavia Sofia,Bulgaria,0.0,1
+2005,Laliga,Deportivo Alavés,summer,out,Maximiliano Flotta,29075,26,Argentina,Centre-Back,CB,,CD Atlético Huila,Colombia,0.0,0
+2005,Laliga,Deportivo Alavés,summer,out,Alejandro Lombardero,29101,26,Spain,Midfielder,Midfielder,,UDA Gramenet,Spain,0.0,0
+2005,Laliga,Deportivo Alavés,summer,out,Nacho Fernández,29096,25,Spain,Central Midfield,CM,,Racing Ferrol,Spain,0.0,0
+2005,Laliga,Deportivo Alavés,summer,out,Kiko Lacasa,29084,27,Spain,Centre-Forward,CF,,Polideportivo Ejido,Spain,0.0,0
+2005,Laliga,Deportivo Alavés,summer,out,Youness Bengelloun,17883,22,France,Centre-Back,CB,,US Raon-l'Étape,France,0.0,0
+2005,Laliga,Deportivo Alavés,summer,out,Juan Pablo Colinas,27685,26,Spain,Goalkeeper,GK,,CD Numancia,Spain,0.0,0
+2005,Laliga,Deportivo Alavés,summer,out,Edu Aguilar,29079,24,Spain,Midfielder,Midfielder,,CF Reus Deportiu,Spain,0.0,0
+2005,Laliga,Deportivo Alavés,summer,out,Juan Epitié,29094,28,Equatorial Guinea,Centre-Forward,CF,,CD Castellón,Spain,0.0,0
+2005,Laliga,Deportivo Alavés,summer,out,Bernardo Domínguez,35533,26,Spain,Goalkeeper,GK,,CD Tenerife,Spain,0.0,1
+2005,Laliga,Deportivo Alavés,summer,out,Andrea Orlandi,29117,20,Spain,Central Midfield,CM,,FC Barcelona B,Spain,0.0,1
+2005,Laliga,Deportivo Alavés,summer,out,Juvenal Edjogo,29095,26,Equatorial Guinea,Central Midfield,CM,,Recreativo Huelva,Spain,,0
+2005,Laliga,Deportivo Alavés,summer,out,Abel Valenzuela,29120,23,Spain,Centre-Back,CB,,UD Salamanca,Spain,,0
+2005,Laliga,Deportivo Alavés,summer,out,Eneko Romo,29114,26,Spain,Attacking Midfield,AM,,Rayo Vallecano,Spain,,0
+2005,Laliga,Deportivo Alavés,summer,out,Aleksandr Mostovoy,7556,36,Russia,Attacking Midfield,AM,,Retired,,,0
+2005,Laliga,Deportivo Alavés,summer,out,Abelardo,8036,35,Spain,Centre-Back,CB,,Retired,,,0
+2005,Laliga,Deportivo Alavés,summer,out,David Sánchez,58147,22,Spain,Central Midfield,CM,,FC Barcelona B,Spain,0.0,1
+2005,Laliga,Deportivo Alavés,summer,out,Sergio Santamaría,71580,24,Spain,Right Winger,RW,,FC Barcelona B,Spain,0.0,1
+2005,Laliga,Deportivo Alavés,winter,out,Henri Antchouet,14189,26,Gabon,Centre-Forward,CF,4000000.0,Vitória Guimarães SC,Portugal,0.0,1
+2005,Laliga,Deportivo Alavés,winter,out,Ángel Sánchez,51717,23,Spain,Left-Back,LB,,Ciudad de Murcia,Spain,,0
+2005,Laliga,Deportivo Alavés,winter,out,Wesley,22560,25,Brazil,Second Striker,SS,2000000.0,Vitória Guimarães SC,Portugal,0.0,1
+2005,Laliga,Deportivo de La Coruña,summer,in,Sebastián Taborda,34279,24,Uruguay,Centre-Forward,CF,,Defensor Sporting Club,Uruguay,3000000.0,0
+2005,Laliga,Deportivo de La Coruña,summer,in,Julian de Guzmán,1083,24,Canada,Defensive Midfield,DM,2500000.0,Hannover 96,Germany,0.0,0
+2005,Laliga,Deportivo de La Coruña,summer,in,Juanma Delgado,16148,28,Spain,Centre-Back,CB,500000.0,Racing Santander,Spain,0.0,0
+2005,Laliga,Deportivo de La Coruña,summer,in,Rodri,8163,20,Spain,Centre-Back,CB,475000.0,FC Barcelona B,Spain,0.0,0
+2005,Laliga,Deportivo de La Coruña,summer,in,Senel,34565,21,Spain,Centre-Forward,CF,,CD Lalin,Spain,,0
+2005,Laliga,Deportivo de La Coruña,winter,in,Javier Arizmendi,25411,21,Spain,Centre-Forward,CF,1500000.0,Atlético de Madrid,Spain,2000000.0,0
+2005,Laliga,Deportivo de La Coruña,winter,in,Paco Gallardo,7708,25,Spain,Right Midfield,RM,900000.0,Sevilla FC,Spain,0.0,1
+2005,Laliga,Deportivo de La Coruña,summer,out,Albert Luque,7506,27,Spain,Left Winger,LW,20000000.0,Newcastle United,England,20000000.0,0
+2005,Laliga,Deportivo de La Coruña,summer,out,Walter Pandiani,7691,29,Uruguay,Centre-Forward,CF,10000000.0,Birmingham City,England,4000000.0,0
+2005,Laliga,Deportivo de La Coruña,summer,out,Mauro Silva,15476,37,Brazil,Defensive Midfield,DM,,Retired,,,0
+2005,Laliga,Deportivo de La Coruña,summer,out,Fran,7498,35,Spain,Left Midfield,LM,,Retired,,,0
+2005,Laliga,Deportivo de La Coruña,winter,out,Pablo Amo,7508,27,Spain,Centre-Back,CB,1750000.0,Real Valladolid CF,Spain,180000.0,1
+2005,Laliga,Deportivo de La Coruña,winter,out,Senel,34565,21,Spain,Centre-Forward,CF,,Málaga CF B,Spain,0.0,0
+2005,Laliga,Deportivo de La Coruña,winter,out,Changui,7503,28,Spain,Centre-Forward,CF,1300000.0,Skoda Xanthi,Greece,0.0,1
+2005,Laliga,Deportivo de La Coruña,winter,out,Lionel Scaloni,7499,27,Argentina,Right-Back,RB,5750000.0,West Ham United,England,0.0,1
+2005,Laliga,FC Barcelona,summer,in,Mark van Bommel,3515,28,Netherlands,Central Midfield,CM,12000000.0,PSV Eindhoven,Netherlands,0.0,0
+2005,Laliga,FC Barcelona,summer,in,Santiago Ezquerro,7639,28,Spain,Centre-Forward,CF,2000000.0,Athletic Bilbao,Spain,0.0,0
+2005,Laliga,FC Barcelona,summer,out,Juan Román Riquelme,3854,27,Argentina,Attacking Midfield,AM,15000000.0,Villarreal CF,Spain,8000000.0,0
+2005,Laliga,FC Barcelona,summer,out,Sergio García,7922,22,Spain,Centre-Forward,CF,2500000.0,Real Zaragoza,Spain,1500000.0,0
+2005,Laliga,FC Barcelona,summer,out,Fábio Rochemback,7606,23,Brazil,Central Midfield,CM,8000000.0,Middlesbrough FC,England,1500000.0,0
+2005,Laliga,FC Barcelona,summer,out,Gerard López,7599,26,Spain,Central Midfield,CM,3500000.0,AS Monaco,France,0.0,0
+2005,Laliga,FC Barcelona,summer,out,Óscar López,7921,25,Spain,Right-Back,RB,1250000.0,Real Betis Balompié,Spain,0.0,1
+2005,Laliga,FC Barcelona,summer,out,Fernando Navarro,7593,23,Spain,Left-Back,LB,2500000.0,RCD Mallorca,Spain,0.0,1
+2005,Laliga,FC Barcelona,summer,out,Javier Saviola,7611,23,Argentina,Second Striker,SS,11500000.0,Sevilla FC,Spain,0.0,1
+2005,Laliga,FC Barcelona,summer,out,Demetrio Albertini,3390,33,Italy,Defensive Midfield,DM,,Without Club,,,0
+2005,Laliga,FC Barcelona,winter,out,Damià Abella,28002,23,Spain,Right-Back,RB,2000000.0,Racing Santander,Spain,0.0,1
+2005,Laliga,Getafe CF,summer,in,Dani Güiza,8186,24,Spain,Centre-Forward,CF,120000.0,Ciudad de Murcia,Spain,800000.0,0
+2005,Laliga,Getafe CF,summer,in,Veljko Paunovic,7364,27,Serbia,Centre-Forward,CF,2000000.0,Atlético de Madrid,Spain,0.0,0
+2005,Laliga,Getafe CF,summer,in,Luis García,26149,26,Spain,Goalkeeper,GK,475000.0,Real Zaragoza,Spain,0.0,0
+2005,Laliga,Getafe CF,summer,in,Fabio Celestini,6134,29,Switzerland,Defensive Midfield,DM,1500000.0,Olympique Marseille,France,0.0,0
+2005,Laliga,Getafe CF,summer,in,Cosmin Contra,5808,29,Romania,Right-Back,RB,,Atlético de Madrid,Spain,0.0,0
+2005,Laliga,Getafe CF,summer,in,Alberto Aguilar,29060,20,Spain,Centre-Back,CB,,Málaga CF B,Spain,0.0,0
+2005,Laliga,Getafe CF,summer,in,Aníbal Matellán,1282,28,Argentina,Centre-Back,CB,1800000.0,CA Boca Juniors,Argentina,0.0,0
+2005,Laliga,Getafe CF,summer,in,Pablo Redondo,16620,23,Spain,Attacking Midfield,AM,200000.0,Albacete Balompié,Spain,0.0,0
+2005,Laliga,Getafe CF,summer,in,Juan Calatayud,15980,25,Spain,Goalkeeper,GK,2500000.0,Málaga CF,Spain,0.0,1
+2005,Laliga,Getafe CF,summer,in,Jaime Gavilán,15461,20,Spain,Left Winger,LW,500000.0,Valencia CF,Spain,0.0,1
+2005,Laliga,Getafe CF,summer,in,Nano,7901,23,Spain,Left-Back,LB,2500000.0,Atlético de Madrid,Spain,,0
+2005,Laliga,Getafe CF,summer,in,Javier Paredes,35512,22,Spain,Left-Back,LB,,Real Madrid Castilla,Spain,,0
+2005,Laliga,Getafe CF,winter,in,Jajá,27245,19,Brazil,Centre-Forward,CF,4000000.0,Feyenoord Rotterdam,Netherlands,1000000.0,0
+2005,Laliga,Getafe CF,summer,out,Nano Rivas,22974,24,Spain,Centre-Back,CB,100000.0,Real Betis Balompié,Spain,600000.0,0
+2005,Laliga,Getafe CF,summer,out,Alberto Ruiz,23100,27,Spain,Attacking Midfield,AM,700000.0,Elche CF,Spain,0.0,0
+2005,Laliga,Getafe CF,summer,out,Iván Amaya,7876,26,Spain,Centre-Back,CB,400000.0,Ciudad de Murcia,Spain,0.0,0
+2005,Laliga,Getafe CF,summer,out,Javier Sánchez Broto,8210,33,Spain,Goalkeeper,GK,500000.0,Hércules CF,Spain,0.0,0
+2005,Laliga,Getafe CF,summer,out,Quique Medina,7833,30,Spain,Centre-Back,CB,300000.0,Elche CF,Spain,0.0,0
+2005,Laliga,Getafe CF,summer,out,Daniel Komé,23062,25,Cameroon,Right Winger,RW,1000000.0,Ciudad de Murcia,Spain,,0
+2005,Laliga,Getafe CF,summer,out,José Manuel Yanguas,7731,33,Spain,Right-Back,RB,400000.0,CD Numancia,Spain,,0
+2005,Laliga,Getafe CF,summer,out,Jaime Asen,57965,26,Spain,Centre-Forward,CF,,CF Extremadura,Spain,,0
+2005,Laliga,Getafe CF,summer,out,Sergio Aragoneses,27492,28,Spain,Goalkeeper,GK,,Atlético de Madrid,Spain,0.0,1
+2005,Laliga,Getafe CF,summer,out,Paco Gallardo,7708,25,Spain,Right Midfield,RM,900000.0,Sevilla FC,Spain,0.0,1
+2005,Laliga,Getafe CF,summer,out,Raúl Albiol,15452,19,Spain,Centre-Back,CB,800000.0,Valencia CF,Spain,0.0,1
+2005,Laliga,Getafe CF,summer,out,Gabi,22969,21,Spain,Central Midfield,CM,200000.0,Atlético de Madrid,Spain,0.0,1
+2005,Laliga,Getafe CF,summer,out,Sergio Sánchez,35798,28,Spain,Goalkeeper,GK,,Atlético de Madrid,Spain,0.0,1
+2005,Laliga,Getafe CF,winter,out,Yordi,7979,31,Spain,Centre-Forward,CF,1000000.0,RCD Mallorca,Spain,,0
+2005,Laliga,Málaga CF,summer,in,Richard Morales,16588,30,Uruguay,Centre-Forward,CF,750000.0,CA Osasuna,Spain,1400000.0,0
+2005,Laliga,Málaga CF,summer,in,Nacho,23287,25,Spain,Left-Back,LB,200000.0,Levante UD,Spain,120000.0,0
+2005,Laliga,Málaga CF,summer,in,Pablo Couñago,13242,25,Spain,Centre-Forward,CF,750000.0,Ipswich Town,England,0.0,0
+2005,Laliga,Málaga CF,summer,in,Jorge Pina,37325,22,Spain,Attacking Midfield,AM,,Racing Ferrol,Spain,0.0,0
+2005,Laliga,Málaga CF,summer,in,Gabriel,13822,24,Brazil,Right-Back,RB,,Fluminense Football Club,Brazil,0.0,0
+2005,Laliga,Málaga CF,summer,in,Salva Ballesta,3693,30,Spain,Centre-Forward,CF,6000000.0,Valencia CF,Spain,0.0,0
+2005,Laliga,Málaga CF,summer,in,Antonio Hidalgo,27673,26,Spain,Central Midfield,CM,,CD Tenerife,Spain,0.0,0
+2005,Laliga,Málaga CF,summer,in,Anderson Silva,16122,22,Brazil,Defensive Midfield,DM,500000.0,Everton FC,England,0.0,1
+2005,Laliga,Málaga CF,summer,in,Borja Ramos,88746,20,Spain,Left Winger,LW,,UD Las Palmas,Spain,,0
+2005,Laliga,Málaga CF,winter,in,Antonio López,51402,25,Spain,Left Midfield,LM,,Sevilla FC,Spain,0.0,1
+2005,Laliga,Málaga CF,winter,in,Ricardo Bóvio,20065,23,Brazil,Defensive Midfield,DM,1750000.0,Santos FC,Brazil,,0
+2005,Laliga,Málaga CF,winter,in,Jorge Ribeiro,17286,24,Portugal,Left-Back,LB,2500000.0,Dinamo Moscow,Russia,0.0,1
+2005,Laliga,Málaga CF,summer,out,Miguel Ángel,7786,26,Spain,Defensive Midfield,DM,2000000.0,Real Betis Balompié,Spain,2000000.0,0
+2005,Laliga,Málaga CF,summer,out,Rafa González,7772,34,Spain,Goalkeeper,GK,50000.0,Real Oviedo,Spain,0.0,0
+2005,Laliga,Málaga CF,summer,out,José Luque,15982,27,Spain,Left Midfield,LM,300000.0,Ciudad de Murcia,Spain,0.0,0
+2005,Laliga,Málaga CF,summer,out,Raúl Iznata,7775,27,Spain,Left-Back,LB,300000.0,Rayo Vallecano,Spain,0.0,0
+2005,Laliga,Málaga CF,summer,out,Paulo Wanchope,3230,28,Costa Rica,Centre-Forward,CF,4500000.0,Al-Gharafa SC,Qatar,0.0,0
+2005,Laliga,Málaga CF,summer,out,Juanito,7795,25,Spain,Defensive Midfield,DM,300000.0,Deportivo Alavés,Spain,0.0,0
+2005,Laliga,Málaga CF,summer,out,Márcio Amoroso,1263,30,Brazil,Centre-Forward,CF,3000000.0,São Paulo Futebol Clube,Brazil,0.0,0
+2005,Laliga,Málaga CF,summer,out,Juan Calatayud,15980,25,Spain,Goalkeeper,GK,2500000.0,Getafe CF,Spain,0.0,1
+2005,Laliga,Málaga CF,summer,out,Fernando Baiano,9415,26,Brazil,Centre-Forward,CF,3000000.0,Celta de Vigo,Spain,,0
+2005,Laliga,Málaga CF,summer,out,Tote,7535,26,Spain,Attacking Midfield,AM,3500000.0,Real Betis Balompié,Spain,0.0,1
+2005,Laliga,Málaga CF,summer,out,Míchel,8324,29,Spain,Attacking Midfield,AM,50000.0,Real Murcia CF,Spain,0.0,1
+2005,Laliga,Málaga CF,winter,out,Paco Esteban,51468,24,Spain,Centre-Forward,CF,,Ciudad de Murcia,Spain,,0
+2005,Laliga,RCD Espanyol Barcelona,summer,in,Eduardo Costa,5374,22,Brazil,Defensive Midfield,DM,3000000.0,Olympique Marseille,France,4000000.0,0
+2005,Laliga,RCD Espanyol Barcelona,summer,in,Pablo Zabaleta,20007,20,Argentina,Right-Back,RB,,CA San Lorenzo de Almagro,Argentina,3500000.0,0
+2005,Laliga,RCD Espanyol Barcelona,summer,in,Albert Riera,7373,23,Spain,Left Midfield,LM,4750000.0,FC Girondins Bordeaux,France,3000000.0,0
+2005,Laliga,RCD Espanyol Barcelona,summer,in,Luis García,8006,24,Spain,Central Midfield,CM,2500000.0,RCD Mallorca,Spain,3000000.0,0
+2005,Laliga,RCD Espanyol Barcelona,summer,in,Armando Sá,13218,29,Mozambique,Right-Back,RB,1000000.0,Villarreal CF,Spain,100000.0,1
+2005,Laliga,RCD Espanyol Barcelona,summer,in,Juanfran Torres,16635,20,Spain,Right-Back,RB,6000000.0,Real Madrid,Spain,100000.0,1
+2005,Laliga,RCD Espanyol Barcelona,summer,in,Ito,7662,30,Spain,Central Midfield,CM,1000000.0,Real Betis Balompié,Spain,0.0,0
+2005,Laliga,RCD Espanyol Barcelona,summer,in,Jofre Mateu,8134,25,Spain,Left Winger,LW,250000.0,Levante UD,Spain,0.0,0
+2005,Laliga,RCD Espanyol Barcelona,winter,in,Walter Pandiani,7691,29,Uruguay,Centre-Forward,CF,7500000.0,Birmingham City,England,1500000.0,0
+2005,Laliga,RCD Espanyol Barcelona,winter,in,André Luiz,26238,22,Brazil,Right-Back,RB,,Atlético Paranaense,Brazil,400000.0,0
+2005,Laliga,RCD Espanyol Barcelona,winter,in,Armen Azarian,292027,18,,Attacking Midfield,AM,,Hamburger SV U19,Germany,25000.0,0
+2005,Laliga,RCD Espanyol Barcelona,summer,out,Maxi Rodríguez,7895,24,Argentina,Left Winger,LW,7000000.0,Atlético de Madrid,Spain,5000000.0,0
+2005,Laliga,RCD Espanyol Barcelona,summer,out,Toni Soldevilla,7883,26,Spain,Centre-Back,CB,400000.0,Polideportivo Ejido,Spain,150000.0,0
+2005,Laliga,RCD Espanyol Barcelona,summer,out,Dani García,7608,30,Spain,Centre-Forward,CF,2000000.0,Olympiacos Piraeus,Greece,0.0,0
+2005,Laliga,RCD Espanyol Barcelona,summer,out,Claudiu Răducanu,16032,28,Romania,Centre-Forward,CF,2500000.0,FC Vaslui,Romania,0.0,0
+2005,Laliga,RCD Espanyol Barcelona,summer,out,Marc Bertrán,15761,23,Spain,Right-Back,RB,400000.0,Cádiz CF,Spain,0.0,0
+2005,Laliga,RCD Espanyol Barcelona,summer,out,Óscar Serrano,26373,23,Spain,Left Midfield,LM,300000.0,Racing Santander,Spain,0.0,0
+2005,Laliga,RCD Espanyol Barcelona,summer,out,Álex Fernández,7885,31,Spain,Defensive Midfield,DM,600000.0,Xerez CD,Spain,0.0,0
+2005,Laliga,RCD Espanyol Barcelona,summer,out,Erwin Lemmens,7849,29,Belgium,Goalkeeper,GK,1000000.0,Olympiacos Piraeus,Greece,0.0,0
+2005,Laliga,RCD Espanyol Barcelona,summer,out,Carlos García,15762,21,Spain,Centre-Back,CB,50000.0,UD Almería,Spain,0.0,0
+2005,Laliga,RCD Espanyol Barcelona,summer,out,José Amavisca,7496,34,Spain,Left Midfield,LM,1000000.0,Retired,,,0
+2005,Laliga,RCD Espanyol Barcelona,summer,out,Óscar Miñambres,7516,24,Spain,Right-Back,RB,900000.0,Real Madrid,Spain,0.0,1
+2005,Laliga,RCD Espanyol Barcelona,summer,out,Ito,7662,30,Spain,Central Midfield,CM,1000000.0,Real Betis Balompié,Spain,0.0,1
+2005,Laliga,RCD Espanyol Barcelona,summer,out,Hugo Ibarra,6985,31,Argentina,Right-Back,RB,3000000.0,FC Porto,Portugal,0.0,1
+2005,Laliga,RCD Espanyol Barcelona,winter,out,Àngel Morales,7890,30,Spain,Defensive Midfield,DM,300000.0,Gimnàstic de Tarragona,Spain,500000.0,0
+2005,Laliga,RCD Espanyol Barcelona,winter,out,Toni Velamazán,15794,28,Spain,Right Midfield,RM,500000.0,UD Almería,Spain,450000.0,0
+2005,Laliga,RCD Espanyol Barcelona,winter,out,Albert Riera,7373,23,Spain,Left Midfield,LM,4750000.0,Manchester City,England,0.0,1
+2005,Laliga,RCD Espanyol Barcelona,winter,out,Jonathan Soriano,7893,20,Spain,Centre-Forward,CF,500000.0,UD Almería,Spain,0.0,1
+2005,Laliga,RCD Espanyol Barcelona,winter,out,André Luiz,26238,22,Brazil,Right-Back,RB,,UE Figueres,Spain,0.0,1
+2005,Laliga,RCD Mallorca,summer,in,Jonás Gutiérrez,26443,22,Argentina,Left Midfield,LM,,CA Vélez Sarsfield,Argentina,3500000.0,0
+2005,Laliga,RCD Mallorca,summer,in,Adrián Peralta,35521,23,Argentina,Left Midfield,LM,,Instituto ACC,Argentina,750000.0,0
+2005,Laliga,RCD Mallorca,summer,in,Cristiano Doni,6195,32,Italy,Attacking Midfield,AM,2000000.0,UC Sampdoria,Italy,0.0,0
+2005,Laliga,RCD Mallorca,summer,in,Javier Farinós,5785,27,Spain,Defensive Midfield,DM,2000000.0,Inter Milan,Italy,0.0,0
+2005,Laliga,RCD Mallorca,summer,in,Toni Prats,7644,33,Spain,Goalkeeper,GK,1250000.0,Real Betis Balompié,Spain,0.0,0
+2005,Laliga,RCD Mallorca,summer,in,Borja Fernández,7512,24,Spain,Defensive Midfield,DM,1500000.0,Real Madrid,Spain,0.0,1
+2005,Laliga,RCD Mallorca,summer,in,Fernando Navarro,7593,23,Spain,Left-Back,LB,2500000.0,FC Barcelona,Spain,0.0,1
+2005,Laliga,RCD Mallorca,summer,in,Lampros Choutos,9682,25,Greece,Centre-Forward,CF,2500000.0,Inter Milan,Italy,0.0,1
+2005,Laliga,RCD Mallorca,summer,in,Yoshito Okubo,27439,23,Japan,Centre-Forward,CF,1500000.0,Cerezo Osaka,Japan,,0
+2005,Laliga,RCD Mallorca,summer,in,Francisco Diego Maciel,7993,27,Argentina,Right-Back,RB,50000.0,Real Murcia CF,Spain,0.0,1
+2005,Laliga,RCD Mallorca,summer,in,Eduardo Tuzzio,5318,30,Argentina,Centre-Back,CB,2500000.0,CA River Plate,Argentina,0.0,1
+2005,Laliga,RCD Mallorca,summer,in,Alessandro Potenza,16828,21,Italy,Right-Back,RB,3000000.0,Inter Milan,Italy,0.0,1
+2005,Laliga,RCD Mallorca,winter,in,Leonardo Pisculichi,26744,21,Argentina,Attacking Midfield,AM,1750000.0,AA Argentinos Juniors,Argentina,3000000.0,0
+2005,Laliga,RCD Mallorca,winter,in,José Nunes,14342,28,Portugal,Centre-Back,CB,1500000.0,SC Braga,Portugal,2500000.0,0
+2005,Laliga,RCD Mallorca,winter,in,Braulio Nóbrega,27488,20,Spain,Centre-Forward,CF,200000.0,Atlético de Madrid,Spain,0.0,1
+2005,Laliga,RCD Mallorca,winter,in,Yordi,7979,31,Spain,Centre-Forward,CF,1000000.0,Getafe CF,Spain,,0
+2005,Laliga,RCD Mallorca,winter,in,Angelos Basinas,9821,30,Greece,Defensive Midfield,DM,4000000.0,Without Club,,,0
+2005,Laliga,RCD Mallorca,summer,out,Luis García,8006,24,Spain,Central Midfield,CM,2500000.0,RCD Espanyol Barcelona,Spain,3000000.0,0
+2005,Laliga,RCD Mallorca,summer,out,Felipe Melo,35537,22,Brazil,Defensive Midfield,DM,,Racing Santander,Spain,2000000.0,0
+2005,Laliga,RCD Mallorca,summer,out,Alberto Cifuentes,7668,26,Spain,Goalkeeper,GK,150000.0,Rayo Vallecano,Spain,0.0,0
+2005,Laliga,RCD Mallorca,summer,out,Poli,7678,28,Spain,Left-Back,LB,500000.0,Deportivo Alavés,Spain,0.0,0
+2005,Laliga,RCD Mallorca,summer,out,Jesús Perera,15901,25,Spain,Centre-Forward,CF,350000.0,Celta de Vigo,Spain,0.0,0
+2005,Laliga,RCD Mallorca,summer,out,Andrija Delibasic,10289,24,Montenegro,Centre-Forward,CF,2200000.0,SC Braga,Portugal,0.0,1
+2005,Laliga,RCD Mallorca,summer,out,Oussama Souaidy,34831,23,Morocco,Central Midfield,CM,,GD Estoril Praia,Portugal,,0
+2005,Laliga,RCD Mallorca,summer,out,Iván Ramis,26066,20,Spain,Centre-Back,CB,1500000.0,Real Valladolid CF,Spain,0.0,1
+2005,Laliga,RCD Mallorca,summer,out,Marcos Vales,7709,30,Spain,Right Midfield,RM,750000.0,Retired,,,0
+2005,Laliga,RCD Mallorca,summer,out,Marcos Martín,7683,36,Spain,Defensive Midfield,DM,,Retired,,,0
+2005,Laliga,RCD Mallorca,summer,out,Fernando Correa,14212,31,Uruguay,Centre-Forward,CF,750000.0,Without Club,,,0
+2005,Laliga,RCD Mallorca,summer,out,Sander Westerveld,3427,30,Netherlands,Goalkeeper,GK,2000000.0,Real Sociedad,Spain,0.0,1
+2005,Laliga,RCD Mallorca,summer,out,Gonzalo de los Santos,7577,28,Uruguay,Defensive Midfield,DM,2500000.0,Valencia CF,Spain,0.0,1
+2005,Laliga,RCD Mallorca,summer,out,Jorge López,7844,26,Spain,Right Winger,RW,1000000.0,Valencia CF,Spain,0.0,1
+2005,Laliga,RCD Mallorca,summer,out,Javier Farinós,5785,27,Spain,Defensive Midfield,DM,2000000.0,Inter Milan,Italy,0.0,1
+2005,Laliga,RCD Mallorca,summer,out,Bernardo Romeo,1431,27,Argentina,Centre-Forward,CF,3500000.0,Hamburger SV,Germany,0.0,1
+2005,Laliga,RCD Mallorca,summer,out,Yoshito Okubo,27439,23,Japan,Centre-Forward,CF,1500000.0,Cerezo Osaka,Japan,0.0,1
+2005,Laliga,RCD Mallorca,winter,out,Mark Iuliano,5750,32,Italy,Centre-Back,CB,2000000.0,UC Sampdoria,Italy,0.0,0
+2005,Laliga,RCD Mallorca,winter,out,Adrián Peralta,35521,23,Argentina,Left Midfield,LM,,CA Newell's Old Boys,Argentina,,0
+2005,Laliga,RCD Mallorca,winter,out,Lampros Choutos,9682,26,Greece,Centre-Forward,CF,1500000.0,Inter Milan,Italy,0.0,1
+2005,Laliga,Racing Santander,summer,in,Felipe Melo,35537,22,Brazil,Defensive Midfield,DM,,RCD Mallorca,Spain,2000000.0,0
+2005,Laliga,Racing Santander,summer,in,Vitolo,27667,21,Spain,Central Midfield,CM,,CD Tenerife,Spain,1200000.0,0
+2005,Laliga,Racing Santander,summer,in,Javi Casquero,7705,29,Spain,Defensive Midfield,DM,300000.0,Sevilla FC,Spain,700000.0,0
+2005,Laliga,Racing Santander,summer,in,Pablo Pinillos,23290,30,Spain,Right-Back,RB,400000.0,Levante UD,Spain,0.0,0
+2005,Laliga,Racing Santander,summer,in,Óscar Serrano,26373,23,Spain,Left Midfield,LM,300000.0,RCD Espanyol Barcelona,Spain,0.0,0
+2005,Laliga,Racing Santander,summer,in,Wilfried Dalmat,5516,23,Saint-Martin,Right Winger,RW,500000.0,Grenoble Foot 38,France,0.0,0
+2005,Laliga,Racing Santander,summer,in,Stéphane Dalmat,7259,26,France,Central Midfield,CM,7000000.0,Inter Milan,Italy,0.0,0
+2005,Laliga,Racing Santander,summer,in,Antoñito,7715,27,Spain,Centre-Forward,CF,900000.0,Sevilla FC,Spain,0.0,1
+2005,Laliga,Racing Santander,winter,in,Ezequiel Garay,35939,19,Argentina,Centre-Back,CB,300000.0,CA Newell's Old Boys,Argentina,1400000.0,0
+2005,Laliga,Racing Santander,winter,in,Mauricio Pinilla,6160,21,Chile,Centre-Forward,CF,2500000.0,Sporting CP,Portugal,0.0,1
+2005,Laliga,Racing Santander,winter,in,Damià Abella,28002,23,Spain,Right-Back,RB,2000000.0,FC Barcelona,Spain,0.0,1
+2005,Laliga,Racing Santander,winter,in,Pablo Alfaro,7700,36,Spain,Centre-Back,CB,1250000.0,Sevilla FC,Spain,0.0,1
+2005,Laliga,Racing Santander,winter,in,Juanjo Valencia,29119,34,Spain,Goalkeeper,GK,,Gimnàstic de Tarragona,Spain,,0
+2005,Laliga,Racing Santander,winter,in,Ho-jin Lee,37942,22,"Korea, South",Centre-Back,CB,,Without Club,,,0
+2005,Laliga,Racing Santander,summer,out,Yossi Benayoun,7858,25,Israel,Right Winger,RW,4000000.0,West Ham United,England,3750000.0,0
+2005,Laliga,Racing Santander,summer,out,Mehdi Nafti,7862,26,Tunisia,Defensive Midfield,DM,2000000.0,Birmingham City,England,1500000.0,0
+2005,Laliga,Racing Santander,summer,out,Mario Regueiro,7871,26,Uruguay,Left Winger,LW,2500000.0,Valencia CF,Spain,1200000.0,0
+2005,Laliga,Racing Santander,summer,out,Gerardo Torrado,7713,26,Mexico,Defensive Midfield,DM,2500000.0,CD Cruz Azul,Mexico,0.0,0
+2005,Laliga,Racing Santander,summer,out,Frantz Bertin,39209,22,Haiti,Centre-Back,CB,,CD Tenerife,Spain,0.0,0
+2005,Laliga,Racing Santander,summer,out,Omri Afek,16119,26,Israel,Attacking Midfield,AM,400000.0,Beitar Jerusalem,Israel,0.0,0
+2005,Laliga,Racing Santander,summer,out,Gal Alberman,24068,22,Israel,Defensive Midfield,DM,200000.0,CD Tenerife,Spain,0.0,0
+2005,Laliga,Racing Santander,summer,out,Fernando Morán,7861,29,Spain,Right Midfield,RM,500000.0,Cádiz CF,Spain,0.0,0
+2005,Laliga,Racing Santander,summer,out,Diego Mateo,7860,26,Argentina,Defensive Midfield,DM,750000.0,CA San Lorenzo de Almagro,Argentina,0.0,0
+2005,Laliga,Racing Santander,summer,out,Alessandro Pierini,6067,32,Italy,Centre-Back,CB,500000.0,Córdoba CF,Spain,0.0,0
+2005,Laliga,Racing Santander,summer,out,Javi Guerrero,7869,28,Spain,Centre-Forward,CF,3500000.0,Celta de Vigo,Spain,0.0,0
+2005,Laliga,Racing Santander,summer,out,Juanma Delgado,16148,28,Spain,Centre-Back,CB,500000.0,Deportivo de La Coruña,Spain,0.0,0
+2005,Laliga,Racing Santander,summer,out,Xabi Pascual,71853,23,Spain,Goalkeeper,GK,,Real Oviedo,Spain,,0
+2005,Laliga,Racing Santander,summer,out,Pedro López,25412,21,Spain,Right-Back,RB,150000.0,Valencia CF,Spain,0.0,1
+2005,Laliga,Racing Santander,summer,out,Javier Arizmendi,25411,21,Spain,Centre-Forward,CF,1500000.0,Atlético de Madrid,Spain,0.0,1
+2005,Laliga,Racing Santander,summer,out,Anderson Silva,16122,22,Brazil,Defensive Midfield,DM,500000.0,Club Nacional,Uruguay,0.0,1
+2005,Laliga,Racing Santander,summer,out,Líbero Parri,8326,23,Spain,Attacking Midfield,AM,1000000.0,Valencia CF,Spain,0.0,1
+2005,Laliga,Racing Santander,winter,out,Pablo Casar,7856,27,Spain,Centre-Back,CB,250000.0,Real Valladolid CF,Spain,0.0,0
+2005,Laliga,Racing Santander,winter,out,David Aganzo,7821,25,Spain,Centre-Forward,CF,1500000.0,Beitar Jerusalem,Israel,0.0,1
+2005,Laliga,Racing Santander,winter,out,Toño,35536,26,Spain,Goalkeeper,GK,,Recreativo Huelva,Spain,0.0,1
+2005,Laliga,Racing Santander,winter,out,Fernando Marqués,25414,21,Spain,Right Winger,RW,500000.0,Atlético Madrileño,Spain,0.0,1
+2005,Laliga,Real Betis Balompié,summer,in,Alberto Rivera,23306,27,Spain,Central Midfield,CM,800000.0,Levante UD,Spain,3500000.0,0
+2005,Laliga,Real Betis Balompié,summer,in,Miguel Ángel,7786,26,Spain,Defensive Midfield,DM,2000000.0,Málaga CF,Spain,2000000.0,0
+2005,Laliga,Real Betis Balompié,summer,in,Nano Rivas,22974,24,Spain,Centre-Back,CB,100000.0,Getafe CF,Spain,600000.0,0
+2005,Laliga,Real Betis Balompié,summer,in,Juanlu,22568,25,Spain,Left Midfield,LM,300000.0,CD Numancia,Spain,450000.0,0
+2005,Laliga,Real Betis Balompié,summer,in,Xisco Muñoz,15465,24,Spain,Second Striker,SS,4000000.0,Valencia CF,Spain,0.0,0
+2005,Laliga,Real Betis Balompié,summer,in,Óscar López,7921,25,Spain,Right-Back,RB,1250000.0,FC Barcelona,Spain,0.0,1
+2005,Laliga,Real Betis Balompié,winter,in,Robert,15094,24,Brazil,Centre-Forward,CF,4000000.0,PSV Eindhoven,Netherlands,0.0,1
+2005,Laliga,Real Betis Balompié,winter,in,Diego Tardelli,37536,20,Brazil,Centre-Forward,CF,,São Paulo Futebol Clube,Brazil,0.0,1
+2005,Laliga,Real Betis Balompié,summer,out,Denilson,7660,27,Brazil,Left Winger,LW,9500000.0,FC Girondins Bordeaux,France,480000.0,0
+2005,Laliga,Real Betis Balompié,summer,out,Ito,7662,30,Spain,Central Midfield,CM,1000000.0,RCD Espanyol Barcelona,Spain,0.0,0
+2005,Laliga,Real Betis Balompié,summer,out,João Tomás,13150,30,Portugal,Centre-Forward,CF,2000000.0,SC Braga,Portugal,0.0,0
+2005,Laliga,Real Betis Balompié,summer,out,Toni Prats,7644,33,Spain,Goalkeeper,GK,1250000.0,RCD Mallorca,Spain,0.0,0
+2005,Laliga,Real Betis Balompié,summer,out,Francisco Maldonado,15725,24,Spain,Attacking Midfield,AM,50000.0,Lorca Deportiva CF,Spain,0.0,0
+2005,Laliga,Real Betis Balompié,summer,out,Ismael López,15724,27,Spain,Left Midfield,LM,600000.0,Xerez CD,Spain,0.0,0
+2005,Laliga,Real Betis Balompié,summer,out,Jaime Pérez,971761,23,Spain,Left-Back,LB,,UD Las Palmas,Spain,,0
+2005,Laliga,Real Betis Balompié,summer,out,Tote,7535,26,Spain,Attacking Midfield,AM,3500000.0,Real Valladolid CF,Spain,,0
+2005,Laliga,Real Betis Balompié,summer,out,Pablo Niño,12086,27,Spain,Midfielder,Midfielder,1000000.0,CD Numancia,Spain,,0
+2005,Laliga,Real Betis Balompié,summer,out,Benjamín,7655,29,Equatorial Guinea,Central Midfield,CM,1250000.0,Cádiz CF,Spain,0.0,1
+2005,Laliga,Real Betis Balompié,summer,out,Washington Tais,7651,32,Uruguay,Right-Back,RB,900000.0,Career break,,,0
+2005,Laliga,Real Betis Balompié,summer,out,Alfonso,7933,32,Spain,Centre-Forward,CF,1000000.0,Retired,,,0
+2005,Laliga,Real Betis Balompié,winter,out,Juanlu,22568,25,Spain,Left Midfield,LM,300000.0,Albacete Balompié,Spain,0.0,1
+2005,Laliga,Real Betis Balompié,winter,out,Ricardo Oliveira,15468,25,Brazil,Centre-Forward,CF,6000000.0,São Paulo Futebol Clube,Brazil,0.0,1
+2005,Laliga,Real Madrid,summer,in,Sergio Ramos,25557,19,Spain,Centre-Back,CB,27000000.0,Sevilla FC,Spain,27000000.0,0
+2005,Laliga,Real Madrid,summer,in,Robinho,15511,21,Brazil,Left Winger,LW,25000000.0,Santos FC,Brazil,24000000.0,0
+2005,Laliga,Real Madrid,summer,in,Júlio Baptista,15952,23,Brazil,Attacking Midfield,AM,25000000.0,Sevilla FC,Spain,20000000.0,0
+2005,Laliga,Real Madrid,summer,in,Carlos Diogo,32233,21,Uruguay,Right-Back,RB,2500000.0,CA River Plate,Argentina,5000000.0,0
+2005,Laliga,Real Madrid,summer,in,Pablo García,7737,28,Uruguay,Defensive Midfield,DM,4250000.0,CA Osasuna,Spain,4000000.0,0
+2005,Laliga,Real Madrid,winter,in,Antonio Cassano,5962,23,Italy,Second Striker,SS,24000000.0,AS Roma,Italy,5500000.0,0
+2005,Laliga,Real Madrid,winter,in,Cicinho,26101,25,Brazil,Right-Back,RB,5000000.0,São Paulo Futebol Clube,Brazil,4000000.0,0
+2005,Laliga,Real Madrid,summer,out,Michael Owen,1397,25,England,Centre-Forward,CF,22000000.0,Newcastle United,England,25000000.0,0
+2005,Laliga,Real Madrid,summer,out,Walter Samuel,5938,27,Argentina,Centre-Back,CB,18000000.0,Inter Milan,Italy,16000000.0,0
+2005,Laliga,Real Madrid,summer,out,Santiago Solari,7527,28,Argentina,Left Midfield,LM,7000000.0,Inter Milan,Italy,2000000.0,0
+2005,Laliga,Real Madrid,summer,out,Juanfran Torres,16635,20,Spain,Right-Back,RB,6000000.0,RCD Espanyol Barcelona,Spain,100000.0,1
+2005,Laliga,Real Madrid,summer,out,César Sánchez,7510,33,Spain,Goalkeeper,GK,1750000.0,Real Zaragoza,Spain,0.0,0
+2005,Laliga,Real Madrid,summer,out,Albert Celades,7521,29,Spain,Defensive Midfield,DM,3500000.0,Real Zaragoza,Spain,0.0,0
+2005,Laliga,Real Madrid,summer,out,Luís Figo,3446,32,Portugal,Right Winger,RW,20000000.0,Inter Milan,Italy,0.0,0
+2005,Laliga,Real Madrid,summer,out,Borja Fernández,7512,24,Spain,Defensive Midfield,DM,1500000.0,RCD Mallorca,Spain,0.0,1
+2005,Laliga,Real Madrid,summer,out,Javier Portillo,7532,23,Spain,Centre-Forward,CF,5000000.0,Club Brugge KV,Belgium,0.0,1
+2005,Laliga,Real Madrid,summer,out,Carlos Sánchez,7509,27,Spain,Goalkeeper,GK,500000.0,UD Almería,Spain,0.0,1
+2005,Laliga,Real Sociedad,summer,in,Daniel Cifuentes,35552,25,Spain,Centre-Back,CB,,SD Eibar,Spain,0.0,0
+2005,Laliga,Real Sociedad,summer,in,Álvaro Novo,7687,27,Spain,Right Midfield,RM,2500000.0,Atlético de Madrid,Spain,,0
+2005,Laliga,Real Sociedad,summer,in,Gaizka Garitano,35559,29,Spain,Defensive Midfield,DM,,SD Eibar,Spain,,0
+2005,Laliga,Real Sociedad,summer,in,Bonifacio Echeverria,959109,118,Spain,Defender,Defender,,Unknown,,,0
+2005,Laliga,Real Sociedad,winter,in,Morten Skoubo,2703,25,Denmark,Centre-Forward,CF,1250000.0,Bröndby IF,Denmark,2500000.0,0
+2005,Laliga,Real Sociedad,winter,in,Dalibor Stevanovic,34643,21,Slovenia,Central Midfield,CM,1000000.0,NK Domzale,Slovenia,1000000.0,0
+2005,Laliga,Real Sociedad,winter,in,Jhon Viáfara,32137,27,Colombia,Defensive Midfield,DM,2500000.0,Portsmouth FC,England,0.0,1
+2005,Laliga,Real Sociedad,winter,in,Mark González,21750,21,Chile,Left Winger,LW,1500000.0,Liverpool FC,England,0.0,1
+2005,Laliga,Real Sociedad,summer,out,Mikel Arteta,7451,23,Spain,Central Midfield,CM,8000000.0,Everton FC,England,2800000.0,0
+2005,Laliga,Real Sociedad,summer,out,Chun-soo Lee,12376,23,"Korea, South",Second Striker,SS,2000000.0,Ulsan Hyundai,"Korea, South",2000000.0,0
+2005,Laliga,Real Sociedad,summer,out,Sander Westerveld,3427,30,Netherlands,Goalkeeper,GK,2000000.0,Portsmouth FC,England,0.0,0
+2005,Laliga,Real Sociedad,summer,out,Luiz Alberto,23193,27,Brazil,Centre-Back,CB,2000000.0,Santos FC,Brazil,0.0,0
+2005,Laliga,Real Sociedad,summer,out,Zuhaitz Gurrutxaga,7461,24,Spain,Centre-Back,CB,800000.0,Real Unión Club,Spain,0.0,0
+2005,Laliga,Real Sociedad,summer,out,Rossato,14249,27,Brazil,Left-Back,LB,2000000.0,SC Braga,Portugal,0.0,1
+2005,Laliga,Real Sociedad,summer,out,Sebastián Romero,56042,25,Argentina,Right Midfield,RM,,CA Banfield,Argentina,0.0,1
+2005,Laliga,Real Sociedad,summer,out,Dragan Mladenovic,18714,29,Serbia,Defensive Midfield,DM,1500000.0,Rangers FC,Scotland,0.0,1
+2005,Laliga,Real Sociedad,summer,out,Valeriy Karpin,7472,36,Russia,Right Midfield,RM,,Retired,,,0
+2005,Laliga,Real Sociedad,summer,out,Bittor Alkiza,7627,34,Spain,Left Midfield,LM,,Retired,,,0
+2005,Laliga,Real Sociedad,summer,out,Jhon Viáfara,32137,27,Colombia,Defensive Midfield,DM,2500000.0,Portsmouth FC,England,0.0,1
+2005,Laliga,Real Zaragoza,summer,in,Ewerthon,1396,24,Brazil,Centre-Forward,CF,12000000.0,Borussia Dortmund,Germany,3500000.0,0
+2005,Laliga,Real Zaragoza,summer,in,Diego Milito,22202,26,Argentina,Centre-Forward,CF,6000000.0,Genoa CFC,Italy,2000000.0,1
+2005,Laliga,Real Zaragoza,summer,in,Sergio García,7922,22,Spain,Centre-Forward,CF,2500000.0,FC Barcelona,Spain,1500000.0,0
+2005,Laliga,Real Zaragoza,summer,in,César Sánchez,7510,33,Spain,Goalkeeper,GK,1750000.0,Real Madrid,Spain,0.0,0
+2005,Laliga,Real Zaragoza,summer,in,Albert Celades,7521,29,Spain,Defensive Midfield,DM,3500000.0,Real Madrid,Spain,0.0,0
+2005,Laliga,Real Zaragoza,summer,in,Raúl Valbuena,7911,30,Spain,Goalkeeper,GK,150000.0,Albacete Balompié,Spain,,0
+2005,Laliga,Real Zaragoza,summer,out,David Villa,7980,23,Spain,Centre-Forward,CF,12000000.0,Valencia CF,Spain,12000000.0,0
+2005,Laliga,Real Zaragoza,summer,out,Luciano Galletti,7978,25,Argentina,Right Winger,RW,2000000.0,Atlético de Madrid,Spain,2500000.0,0
+2005,Laliga,Real Zaragoza,summer,out,Fernando Soriano,7989,25,Spain,Attacking Midfield,AM,900000.0,UD Almería,Spain,0.0,0
+2005,Laliga,Real Zaragoza,summer,out,García Granero,26150,24,Spain,Left Midfield,LM,25000.0,Xerez CD,Spain,0.0,0
+2005,Laliga,Real Zaragoza,summer,out,Goran Drulic,7909,28,Serbia,Centre-Forward,CF,2750000.0,KSC Lokeren (-2020),Belgium,0.0,0
+2005,Laliga,Real Zaragoza,summer,out,Luis García,26149,26,Spain,Goalkeeper,GK,475000.0,Getafe CF,Spain,0.0,0
+2005,Laliga,Real Zaragoza,summer,out,Piti,58076,24,Spain,Attacking Midfield,AM,,Ciudad de Murcia,Spain,0.0,1
+2005,Laliga,Real Zaragoza,summer,out,David Pirri,7986,31,Spain,Left Midfield,LM,1000000.0,Albacete Balompié,Spain,,0
+2005,Laliga,Real Zaragoza,summer,out,Javi Moreno,7768,30,Spain,Centre-Forward,CF,4250000.0,Córdoba CF,Spain,,0
+2005,Laliga,Real Zaragoza,summer,out,Rubén Falcón,71917,27,Spain,Goalkeeper,GK,,CD Villanueva,Spain,,0
+2005,Laliga,Real Zaragoza,summer,out,César Laínez,7967,28,Spain,Goalkeeper,GK,,Retired,,,0
+2005,Laliga,Real Zaragoza,winter,out,Juanjo Camacho,26148,25,Spain,Attacking Midfield,AM,400000.0,UE Lleida,Spain,,0
+2005,Laliga,Real Zaragoza,winter,out,Miguel Ángel Corona,7945,24,Spain,Central Midfield,CM,3000000.0,Albacete Balompié,Spain,0.0,1
+2005,Laliga,Sevilla FC,summer,in,Luís Fabiano,19082,24,Brazil,Centre-Forward,CF,10000000.0,FC Porto,Portugal,10000000.0,0
+2005,Laliga,Sevilla FC,summer,in,Frédéric Kanouté,3700,27,Mali,Centre-Forward,CF,7500000.0,Tottenham Hotspur,England,6500000.0,0
+2005,Laliga,Sevilla FC,summer,in,Enzo Maresca,16651,25,Italy,Central Midfield,CM,7500000.0,Juventus FC,Italy,2500000.0,0
+2005,Laliga,Sevilla FC,summer,in,Ivica Dragutinovic,13453,29,Serbia,Centre-Back,CB,1500000.0,Standard Liège,Belgium,2100000.0,0
+2005,Laliga,Sevilla FC,summer,in,Andrés Palop,7563,31,Spain,Goalkeeper,GK,2000000.0,Valencia CF,Spain,0.0,0
+2005,Laliga,Sevilla FC,summer,in,Javier Saviola,7611,23,Argentina,Second Striker,SS,11500000.0,FC Barcelona,Spain,0.0,1
+2005,Laliga,Sevilla FC,winter,in,Julien Escudé,3573,26,France,Centre-Back,CB,3000000.0,Ajax Amsterdam,Netherlands,1900000.0,0
+2005,Laliga,Sevilla FC,summer,out,Sergio Ramos,25557,19,Spain,Centre-Back,CB,27000000.0,Real Madrid,Spain,27000000.0,0
+2005,Laliga,Sevilla FC,summer,out,Júlio Baptista,15952,23,Brazil,Attacking Midfield,AM,25000000.0,Real Madrid,Spain,20000000.0,0
+2005,Laliga,Sevilla FC,summer,out,Javi Casquero,7705,29,Spain,Defensive Midfield,DM,300000.0,Racing Santander,Spain,700000.0,0
+2005,Laliga,Sevilla FC,summer,out,Esteban,15974,30,Spain,Goalkeeper,GK,3000000.0,Celta de Vigo,Spain,500000.0,0
+2005,Laliga,Sevilla FC,summer,out,Óscar Rodríguez,7699,25,Spain,Centre-Back,CB,50000.0,Polideportivo Ejido,Spain,0.0,0
+2005,Laliga,Sevilla FC,summer,out,Darío Silva,7792,32,Uruguay,Centre-Forward,CF,4250000.0,Portsmouth FC,England,0.0,0
+2005,Laliga,Sevilla FC,summer,out,Antoñito,7715,27,Spain,Centre-Forward,CF,900000.0,Racing Santander,Spain,0.0,1
+2005,Laliga,Sevilla FC,summer,out,Carlos Aranda,7841,24,Spain,Centre-Forward,CF,500000.0,Albacete Balompié,Spain,0.0,1
+2005,Laliga,Sevilla FC,summer,out,Marco Navas,57942,22,Spain,Right Winger,RW,,Polideportivo Ejido,Spain,0.0,1
+2005,Laliga,Sevilla FC,summer,out,Juan Luis Redondo,7702,28,Spain,Right-Back,RB,300000.0,Hércules CF,Spain,,0
+2005,Laliga,Sevilla FC,summer,out,Paco Gallardo,7708,25,Spain,Right Midfield,RM,900000.0,Vitória Guimarães SC,Portugal,0.0,1
+2005,Laliga,Sevilla FC,winter,out,Carlitos,7689,29,Spain,Centre-Forward,CF,300000.0,Hércules CF,Spain,0.0,0
+2005,Laliga,Sevilla FC,winter,out,Pablo Alfaro,7700,36,Spain,Centre-Back,CB,1250000.0,Racing Santander,Spain,0.0,1
+2005,Laliga,Sevilla FC,winter,out,Paco Gallardo,7708,25,Spain,Right Midfield,RM,900000.0,Deportivo de La Coruña,Spain,0.0,1
+2005,Laliga,Sevilla FC,winter,out,Antonio López,51402,25,Spain,Left Midfield,LM,,Málaga CF,Spain,0.0,1
+2005,Laliga,Valencia CF,summer,in,David Villa,7980,23,Spain,Centre-Forward,CF,12000000.0,Real Zaragoza,Spain,12000000.0,0
+2005,Laliga,Valencia CF,summer,in,Miguel,13225,25,Portugal,Right-Back,RB,15000000.0,SL Benfica,Portugal,8000000.0,0
+2005,Laliga,Valencia CF,summer,in,José Enrique,35571,19,Spain,Left-Back,LB,,Levante UD B,Spain,1800000.0,0
+2005,Laliga,Valencia CF,summer,in,Mario Regueiro,7871,26,Uruguay,Left Winger,LW,2500000.0,Racing Santander,Spain,1200000.0,0
+2005,Laliga,Valencia CF,summer,in,Fabián Estoyanoff,35511,22,Uruguay,Right Midfield,RM,,CA Fénix,Uruguay,800000.0,0
+2005,Laliga,Valencia CF,summer,in,João Moreira,52499,19,Portugal,Centre-Forward,CF,,Clube Futebol Estrela da Amadora,Portugal,770000.0,0
+2005,Laliga,Valencia CF,summer,in,Juan Luis Mora,23269,31,Spain,Goalkeeper,GK,800000.0,Levante UD,Spain,240000.0,0
+2005,Laliga,Valencia CF,summer,in,Edú Gaspar,3192,27,Brazil,Central Midfield,CM,5750000.0,Arsenal FC,England,0.0,0
+2005,Laliga,Valencia CF,summer,in,Patrick Kluivert,4385,29,Netherlands,Centre-Forward,CF,7500000.0,Newcastle United,England,0.0,0
+2005,Laliga,Valencia CF,summer,in,Hugo Viana,3480,22,Portugal,Central Midfield,CM,9000000.0,Newcastle United,England,0.0,1
+2005,Laliga,Valencia CF,summer,out,Mohamed Sissoko,6119,20,Mali,Defensive Midfield,DM,4000000.0,Liverpool FC,England,12000000.0,0
+2005,Laliga,Valencia CF,summer,out,Fabián Canobbio,15455,25,Uruguay,Attacking Midfield,AM,50000.0,Celta de Vigo,Spain,1500000.0,0
+2005,Laliga,Valencia CF,summer,out,Fabián Estoyanoff,35511,22,Uruguay,Right Midfield,RM,,Cádiz CF,Spain,300000.0,1
+2005,Laliga,Valencia CF,summer,out,Líbero Parri,8326,23,Spain,Attacking Midfield,AM,1000000.0,Albacete Balompié,Spain,0.0,0
+2005,Laliga,Valencia CF,summer,out,Xisco Muñoz,15465,24,Spain,Second Striker,SS,4000000.0,Real Betis Balompié,Spain,0.0,0
+2005,Laliga,Valencia CF,summer,out,Salva Ballesta,3693,30,Spain,Centre-Forward,CF,6000000.0,Málaga CF,Spain,0.0,0
+2005,Laliga,Valencia CF,summer,out,Andrés Palop,7563,31,Spain,Goalkeeper,GK,2000000.0,Sevilla FC,Spain,0.0,0
+2005,Laliga,Valencia CF,summer,out,Jaime Gavilán,15461,20,Spain,Left Winger,LW,500000.0,Getafe CF,Spain,0.0,1
+2005,Laliga,Valencia CF,summer,out,David Silva,35518,19,Spain,Attacking Midfield,AM,,Celta de Vigo,Spain,0.0,1
+2005,Laliga,Valencia CF,summer,out,José Enrique,35571,19,Spain,Left-Back,LB,,Celta de Vigo,Spain,0.0,1
+2005,Laliga,Valencia CF,summer,out,Bernardo Corradi,5851,29,Italy,Centre-Forward,CF,6500000.0,Parma FC,Italy,0.0,1
+2005,Laliga,Valencia CF,summer,out,Stefano Fiore,5842,30,Italy,Attacking Midfield,AM,9000000.0,ACF Fiorentina,Italy,0.0,1
+2005,Laliga,Valencia CF,summer,out,Pedro López,25412,21,Spain,Right-Back,RB,150000.0,Real Valladolid CF,Spain,,0
+2005,Laliga,Valencia CF,summer,out,Joaquín Enguix,72198,27,Spain,Right Midfield,RM,,Sporting Gijón,Spain,,0
+2005,Laliga,Valencia CF,summer,out,Manuel Ruz,35555,19,Spain,Right-Back,RB,,Gimnàstic de Tarragona,Spain,0.0,1
+2005,Laliga,Valencia CF,summer,out,Javier Garrido,7571,26,Spain,Right-Back,RB,2000000.0,Albacete Balompié,Spain,0.0,1
+2005,Laliga,Valencia CF,summer,out,João Moreira,52499,19,Portugal,Centre-Forward,CF,,Rayo Vallecano,Spain,0.0,1
+2005,Laliga,Valencia CF,winter,out,Marco Di Vaio,4170,29,Italy,Centre-Forward,CF,8000000.0,AS Monaco,France,100000.0,1
+2005,Laliga,Valencia CF,winter,out,Marco Caneira,6242,26,Portugal,Centre-Back,CB,2100000.0,Sporting CP,Portugal,0.0,1
+2005,Laliga,Villarreal CF,summer,in,Juan Román Riquelme,3854,27,Argentina,Attacking Midfield,AM,15000000.0,FC Barcelona,Spain,8000000.0,0
+2005,Laliga,Villarreal CF,summer,in,Jan Kromkamp,4549,24,Netherlands,Right-Back,RB,8000000.0,AZ Alkmaar,Netherlands,6000000.0,0
+2005,Laliga,Villarreal CF,summer,in,Mariano Barbosa,30749,20,Argentina,Goalkeeper,GK,,CA Banfield,Argentina,2000000.0,0
+2005,Laliga,Villarreal CF,summer,in,Antonio Valencia,33544,19,Ecuador,Right-Back,RB,,CD El Nacional,Ecuador,2000000.0,0
+2005,Laliga,Villarreal CF,summer,in,Alessio Tacchinardi,5748,30,Italy,Defensive Midfield,DM,5000000.0,Juventus FC,Italy,100000.0,1
+2005,Laliga,Villarreal CF,summer,in,Sebastián Viera,33531,22,Uruguay,Goalkeeper,GK,2250000.0,Club Nacional,Uruguay,0.0,0
+2005,Laliga,Villarreal CF,winter,in,Guillermo Franco,37558,29,Mexico,Centre-Forward,CF,,CF Monterrey,Mexico,1800000.0,0
+2005,Laliga,Villarreal CF,winter,in,Josemi,7776,26,Spain,Centre-Back,CB,2750000.0,Liverpool FC,England,0.0,0
+2005,Laliga,Villarreal CF,summer,out,Pepe Reina,7825,22,Spain,Goalkeeper,GK,4500000.0,Liverpool FC,England,9800000.0,0
+2005,Laliga,Villarreal CF,summer,out,Sebastián Battaglia,15646,24,Argentina,Defensive Midfield,DM,6000000.0,CA Boca Juniors,Argentina,1400000.0,0
+2005,Laliga,Villarreal CF,summer,out,Armando Sá,13218,29,Mozambique,Right-Back,RB,1000000.0,RCD Espanyol Barcelona,Spain,100000.0,1
+2005,Laliga,Villarreal CF,summer,out,Verza,26199,18,Spain,Central Midfield,CM,400000.0,Córdoba CF,Spain,,0
+2005,Laliga,Villarreal CF,summer,out,Juan Román Riquelme,3854,27,Argentina,Attacking Midfield,AM,15000000.0,FC Barcelona,Spain,0.0,1
+2005,Laliga,Villarreal CF,winter,out,Luciano Figueroa,7133,24,Argentina,Centre-Forward,CF,3750000.0,CA River Plate,Argentina,1650000.0,0
+2005,Laliga,Villarreal CF,winter,out,Antonio Valencia,33544,20,Ecuador,Right-Back,RB,,Recreativo Huelva,Spain,400000.0,1
+2005,Laliga,Villarreal CF,winter,out,Jan Kromkamp,4549,25,Netherlands,Right-Back,RB,8000000.0,Liverpool FC,England,0.0,0

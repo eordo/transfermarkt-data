@@ -1,0 +1,403 @@
+season,league,club,window,movement,player_name,player_id,age,nationality,position,pos,market_value,dealing_club,dealing_country,fee,is_loan
+1999,Laliga,Athletic Bilbao,summer,in,Sívori,71438,22,Spain,Centre-Forward,CF,,Deportivo Alavés,Spain,2100000.0,0
+1999,Laliga,Athletic Bilbao,summer,in,Tiko,7634,22,Spain,Central Midfield,CM,,CA Osasuna,Spain,1050000.0,0
+1999,Laliga,Athletic Bilbao,summer,in,Oskar Vales,7625,24,Spain,Right-Back,RB,,Celta de Vigo,Spain,900000.0,0
+1999,Laliga,Athletic Bilbao,summer,out,Sergio Korino,154574,24,Spain,Centre-Back,CB,,RCD Espanyol Barcelona,Spain,1800000.0,0
+1999,Laliga,Athletic Bilbao,summer,out,Juanjo Valencia,29119,27,Spain,Goalkeeper,GK,,Sevilla FC,Spain,1200000.0,0
+1999,Laliga,Athletic Bilbao,summer,out,Txomin Nagore,7764,24,Spain,Central Midfield,CM,,CD Numancia,Spain,0.0,0
+1999,Laliga,Athletic Bilbao,summer,out,Jorge Pérez,51413,23,Spain,Central Midfield,CM,,CD Numancia,Spain,,0
+1999,Laliga,Athletic Bilbao,summer,out,César Caneda,51682,21,Spain,Centre-Back,CB,,UD Salamanca,Spain,,0
+1999,Laliga,Athletic Bilbao,summer,out,Mario Bermejo,51545,20,Spain,Second Striker,SS,,Cultural Leonesa,Spain,0.0,1
+1999,Laliga,Athletic Bilbao,summer,out,Mikel,8325,24,Spain,Centre-Forward,CF,,UE Lleida,Spain,,0
+1999,Laliga,Atlético de Madrid,summer,in,Jimmy Floyd Hasselbaink,3175,27,Netherlands,Centre-Forward,CF,,Leeds United,England,16700000.0,0
+1999,Laliga,Atlético de Madrid,summer,in,Joan Capdevila,7486,21,Spain,Left-Back,LB,,RCD Espanyol Barcelona,Spain,4800000.0,0
+1999,Laliga,Atlético de Madrid,summer,in,Celso Ayala,22938,28,Paraguay,Centre-Back,CB,,Real Betis Balompié,Spain,3000000.0,0
+1999,Laliga,Atlético de Madrid,summer,in,Hugo Leal,5562,19,Portugal,Central Midfield,CM,,SL Benfica,Portugal,0.0,0
+1999,Laliga,Atlético de Madrid,summer,in,Carlos Gamarra,5779,28,Paraguay,Centre-Back,CB,,Sport Club Corinthians Paulista,Brazil,,0
+1999,Laliga,Atlético de Madrid,summer,in,Cristian Díaz,51499,23,Argentina,Centre-Back,CB,,Málaga CF,Spain,,0
+1999,Laliga,Atlético de Madrid,summer,in,Leonel Pilipauskas,125144,24,Uruguay,Centre-Back,CB,,CA Bella Vista,Uruguay,,0
+1999,Laliga,Atlético de Madrid,summer,in,Toni Jiménez,15767,28,Spain,Goalkeeper,GK,,RCD Espanyol Barcelona,Spain,,0
+1999,Laliga,Atlético de Madrid,summer,out,Michele Serena,5777,29,Italy,Left-Back,LB,,Inter Milan,Italy,7500000.0,0
+1999,Laliga,Atlético de Madrid,summer,out,Stefano Torrisi,5865,28,Italy,Centre-Back,CB,,AC Parma,Italy,3000000.0,0
+1999,Laliga,Atlético de Madrid,summer,out,Vladimir Jugović,5297,29,Serbia,Central Midfield,CM,,Inter Milan,Italy,2000000.0,0
+1999,Laliga,Atlético de Madrid,summer,out,Ramón González,57947,24,Spain,Centre-Back,CB,,UD Las Palmas,Spain,1750000.0,0
+1999,Laliga,Atlético de Madrid,summer,out,Delfí Geli,172357,30,Spain,Right-Back,RB,,Albacete Balompié,Spain,,0
+1999,Laliga,Atlético de Madrid,summer,out,Juninho Paulista,3505,26,Brazil,Attacking Midfield,AM,,Middlesbrough FC,England,0.0,1
+1999,Laliga,Atlético de Madrid,summer,out,Pedro Jaro,180156,36,Spain,Goalkeeper,GK,,Retired,,,0
+1999,Laliga,Atlético de Madrid,summer,out,Juan González,187828,27,Uruguay,Centre-Forward,CF,,Real Oviedo,Spain,0.0,1
+1999,Laliga,Atlético de Madrid,winter,out,José Mari,6194,21,Spain,Centre-Forward,CF,,AC Milan,Italy,19000000.0,0
+1999,Laliga,Atlético de Madrid,winter,out,José Chamot,5805,30,Argentina,Centre-Back,CB,,AC Milan,Italy,3000000.0,0
+1999,Laliga,Atlético de Madrid,winter,out,Quinton Fortune,3541,22,South Africa,Left-Back,LB,,Manchester United,England,2250000.0,0
+1999,Laliga,CD Numancia,summer,in,Damián Manusovich,253984,26,Argentina,Left-Back,LB,,CA San Lorenzo de Almagro,Argentina,0.0,0
+1999,Laliga,CD Numancia,summer,in,Fabrice Moreau,183078,31,Cameroon,Midfielder,Midfielder,,Talavera CF,Spain,0.0,0
+1999,Laliga,CD Numancia,summer,in,Alberto Belsué,104031,31,Spain,Right-Back,RB,,Deportivo Alavés,Spain,0.0,0
+1999,Laliga,CD Numancia,summer,in,Txomin Nagore,7764,24,Spain,Central Midfield,CM,,Athletic Bilbao,Spain,0.0,0
+1999,Laliga,CD Numancia,summer,in,Pacheta,187845,31,Spain,Central Midfield,CM,,RCD Espanyol Barcelona,Spain,0.0,0
+1999,Laliga,CD Numancia,summer,in,Alberto Rivera,23306,21,Spain,Central Midfield,CM,,Real Madrid,Spain,0.0,1
+1999,Laliga,CD Numancia,summer,in,Rubén Navarro,29107,20,Spain,Centre-Forward,CF,,Valencia CF,Spain,,0
+1999,Laliga,CD Numancia,summer,in,Iván Rocha,253985,30,Brazil,Left-Back,LB,,Deportivo Alavés,Spain,,0
+1999,Laliga,CD Numancia,summer,in,Diego Jaume,57758,25,Uruguay,Centre-Back,CB,,CA Bella Vista,Uruguay,,0
+1999,Laliga,CD Numancia,summer,in,Gabriel Popescu,103222,25,Romania,Attacking Midfield,AM,,Valencia CF,Spain,,0
+1999,Laliga,CD Numancia,summer,in,Perico Ojeda,187841,26,Argentina,Centre-Forward,CF,,Racing Club,Argentina,,0
+1999,Laliga,CD Numancia,summer,in,Juan Muñiz,187836,30,Spain,Centre-Back,CB,,Rayo Vallecano,Spain,,0
+1999,Laliga,CD Numancia,summer,in,Jorge Delgado,88836,23,Uruguay,Centre-Forward,CF,,Club Nacional,Uruguay,,0
+1999,Laliga,CD Numancia,summer,in,Jorge Pérez,51413,23,Spain,Central Midfield,CM,,Athletic Bilbao,Spain,,0
+1999,Laliga,CD Numancia,summer,in,Álvaro Núñez,22576,26,Uruguay,Goalkeeper,GK,,CA Rentistas,Uruguay,,0
+1999,Laliga,CD Numancia,winter,in,Tito Blanco,23175,28,Spain,Defensive Midfield,DM,,Albacete Balompié,Spain,,0
+1999,Laliga,CD Numancia,winter,in,Constantin Barbu,170804,28,Romania,Attacking Midfield,AM,,Rapid Bucharest ,Romania,,0
+1999,Laliga,CD Numancia,winter,in,Raúl Muñoz,298864,24,Chile,Left-Back,LB,,CSD Colo-Colo,Chile,,0
+1999,Laliga,CD Numancia,winter,in,Jandro Castro,7553,20,Spain,Attacking Midfield,AM,,Valencia CF B,Spain,0.0,1
+1999,Laliga,CD Numancia,summer,out,Pepín,14138,23,Spain,Centre-Forward,CF,,CD Badajoz,Spain,0.0,0
+1999,Laliga,CD Numancia,summer,out,Alfonso Cortijo,262906,32,Spain,Left-Back,LB,,Cádiz CF,Spain,,0
+1999,Laliga,CD Numancia,summer,out,Alberto Artigas,253930,26,Spain,Centre-Forward,CF,,Real Murcia CF,Spain,,0
+1999,Laliga,CD Numancia,summer,out,Óscar Herreros,354370,28,Spain,Right-Back,RB,,Club Atlético de Ceuta,Spain,,0
+1999,Laliga,CD Numancia,summer,out,Iñigo Uribarri,567430,26,Spain,Left-Back,LB,,SD Eibar,Spain,,0
+1999,Laliga,CD Numancia,summer,out,Álex Díez,253932,24,Spain,Right-Back,RB,,CD Badajoz,Spain,,0
+1999,Laliga,CD Numancia,summer,out,Ángel Rodríguez,71978,27,Spain,Defensive Midfield,DM,,Sevilla FC,Spain,,0
+1999,Laliga,CD Numancia,summer,out,Jorge Barbarín,253931,28,Spain,Centre-Forward,CF,,CD Leganés,Spain,,0
+1999,Laliga,CD Numancia,summer,out,Julián Palacios,305092,28,Spain,Left-Back,LB,,CP Mérida,Spain,,0
+1999,Laliga,CD Numancia,summer,out,Javi Suárez,72423,23,Spain,Centre-Back,CB,,CD Binéfar,Spain,,0
+1999,Laliga,CD Numancia,summer,out,Mario Larrea,187833,21,Spain,Striker,Striker,,CE Sabadell FC,Spain,0.0,1
+1999,Laliga,CD Numancia,summer,out,Iñaki Eraña,253990,34,Spain,Left Midfield,LM,,Retired,,,0
+1999,Laliga,CD Numancia,summer,out,Moisés Álvarez,310461,21,Spain,Centre-Back,CB,,CD Tenerife,Spain,0.0,1
+1999,Laliga,CD Numancia,summer,out,Javi Moreno,7768,24,Spain,Centre-Forward,CF,,Deportivo Alavés,Spain,0.0,1
+1999,Laliga,CD Numancia,summer,out,Quique Medina,7833,24,Spain,Centre-Back,CB,,Villarreal CF,Spain,0.0,1
+1999,Laliga,CD Numancia,winter,out,José Luis Diezma,253933,31,Spain,Goalkeeper,GK,,Recreativo Huelva,Spain,,0
+1999,Laliga,CD Numancia,winter,out,Gabriel Popescu,103222,26,Romania,Attacking Midfield,AM,,FC Dinamo 1948,Romania,,0
+1999,Laliga,CD Numancia,winter,out,José Luis Morales,253679,26,Spain,Right Winger,RW,,UD Salamanca,Spain,,0
+1999,Laliga,CD Numancia,winter,out,Ángel Luis,76033,26,Spain,Centre-Forward,CF,,CA Osasuna,Spain,,0
+1999,Laliga,Celta de Vigo,summer,in,Juan Velasco,7546,22,Spain,Centre-Back,CB,,Sevilla FC,Spain,6600000.0,0
+1999,Laliga,Celta de Vigo,summer,in,Benni McCarthy,3091,21,South Africa,Centre-Forward,CF,,Ajax Amsterdam,Netherlands,6000000.0,0
+1999,Laliga,Celta de Vigo,summer,in,Iván Kaviedes,7561,21,Ecuador,Centre-Forward,CF,,AC Perugia,Italy,5000000.0,0
+1999,Laliga,Celta de Vigo,summer,in,Everton Giovanella,7551,28,Brazil,Central Midfield,CM,,UD Salamanca,Spain,4200000.0,0
+1999,Laliga,Celta de Vigo,summer,in,Mario Turdó,5684,20,Argentina,Centre-Forward,CF,,CA Independiente,Argentina,3600000.0,0
+1999,Laliga,Celta de Vigo,summer,in,Sergio Fernández,7544,22,Spain,Centre-Back,CB,,Sporting Gijón,Spain,3600000.0,0
+1999,Laliga,Celta de Vigo,summer,in,Gustavo López,7552,26,Argentina,Left Winger,LW,,Real Zaragoza,Spain,2400000.0,0
+1999,Laliga,Celta de Vigo,summer,in,Juanfran,7542,22,Spain,Left-Back,LB,,Valencia CF,Spain,2000000.0,0
+1999,Laliga,Celta de Vigo,summer,in,Albert Celades,7521,23,Spain,Defensive Midfield,DM,,FC Barcelona,Spain,1700000.0,0
+1999,Laliga,Celta de Vigo,summer,in,Marko Pantelic,19719,20,Serbia,Centre-Forward,CF,,Paris Saint-Germain,France,0.0,0
+1999,Laliga,Celta de Vigo,summer,in,Pablo Coira,7541,19,Spain,Right-Back,RB,,SD Compostela,Spain,0.0,0
+1999,Laliga,Celta de Vigo,summer,in,Djamel Belmadi,3639,23,Algeria,Right Midfield,RM,,Olympique Marseille,France,0.0,1
+1999,Laliga,Celta de Vigo,summer,in,José María Mena,29179,20,Spain,Centre-Forward,CF,,Córdoba CF,Spain,,0
+1999,Laliga,Celta de Vigo,winter,in,Rick Hoogendorp,4508,24,Netherlands,Centre-Forward,CF,,RKC Waalwijk,Netherlands,315000.0,1
+1999,Laliga,Celta de Vigo,summer,out,Míchel Salgado,7515,23,Spain,Right-Back,RB,,Real Madrid,Spain,6000000.0,0
+1999,Laliga,Celta de Vigo,summer,out,Juan Sánchez,7585,27,Spain,Centre-Forward,CF,,Valencia CF,Spain,4200000.0,0
+1999,Laliga,Celta de Vigo,summer,out,Oskar Vales,7625,24,Spain,Right-Back,RB,,Athletic Bilbao,Spain,900000.0,0
+1999,Laliga,Celta de Vigo,summer,out,Fran Caínzos,253194,25,Spain,Left-Back,LB,,UD Salamanca,Spain,900000.0,0
+1999,Laliga,Celta de Vigo,summer,out,Dan Eggen,6819,29,Norway,Centre-Back,CB,,Deportivo Alavés,Spain,0.0,0
+1999,Laliga,Celta de Vigo,summer,out,Marko Pantelic,19719,20,Serbia,Centre-Forward,CF,,SK Sturm Graz,Austria,0.0,1
+1999,Laliga,Celta de Vigo,summer,out,Pablo Couñago,13242,19,Spain,Centre-Forward,CF,,Recreativo Huelva,Spain,0.0,1
+1999,Laliga,Celta de Vigo,summer,out,Josema,187834,30,Spain,Right-Back,RB,,CA Osasuna,Spain,,0
+1999,Laliga,Celta de Vigo,summer,out,Vladimir Gudelj,253546,32,Bosnia-Herzegovina,Centre-Forward,CF,,SD Compostela,Spain,,0
+1999,Laliga,Celta de Vigo,winter,out,Adriano Teixeira,253543,26,Brazil,Centre-Back,CB,,SD Compostela,Spain,,0
+1999,Laliga,Celta de Vigo,winter,out,Iván Kaviedes,7561,22,Ecuador,Centre-Forward,CF,,Puebla FC,Mexico,0.0,1
+1999,Laliga,Celta de Vigo,winter,out,Bruno Caires,159940,23,Portugal,Defensive Midfield,DM,,CD Tenerife,Spain,0.0,1
+1999,Laliga,Celta de Vigo,winter,out,Djamel Belmadi,3639,23,Algeria,Right Midfield,RM,,Olympique Marseille,France,0.0,1
+1999,Laliga,Deportivo Alavés,summer,in,Cosmin Contra,5808,23,Romania,Right-Back,RB,,FC Dinamo 1948,Romania,1800000.0,0
+1999,Laliga,Deportivo Alavés,summer,in,Martín Herrera,3726,28,Argentina,Goalkeeper,GK,,Club Ferro Carril Oeste,Argentina,1200000.0,0
+1999,Laliga,Deportivo Alavés,summer,in,Jurica Vucko,44256,22,Croatia,Centre-Forward,CF,,HNK Hajduk Split,Croatia,250000.0,0
+1999,Laliga,Deportivo Alavés,summer,in,Óscar Téllez,29078,24,Spain,Centre-Back,CB,,Valencia CF,Spain,0.0,0
+1999,Laliga,Deportivo Alavés,summer,in,Dan Eggen,6819,29,Norway,Centre-Back,CB,,Celta de Vigo,Spain,0.0,0
+1999,Laliga,Deportivo Alavés,summer,in,Martín Astudillo,29082,21,Argentina,Central Midfield,CM,,Club Atlético Gimnasia y Esgrima (Jujuy),Argentina,,0
+1999,Laliga,Deportivo Alavés,summer,in,Meho Kodro,8012,32,Bosnia-Herzegovina,Centre-Forward,CF,,CD Tenerife,Spain,,0
+1999,Laliga,Deportivo Alavés,summer,in,Víctor Torres Mestre,171914,28,Spain,Left-Back,LB,,FC Girondins Bordeaux,France,,0
+1999,Laliga,Deportivo Alavés,summer,in,Àngel Morales,7890,23,Spain,Defensive Midfield,DM,,RCD Espanyol Barcelona,Spain,0.0,1
+1999,Laliga,Deportivo Alavés,summer,in,Nan Ribera,185957,24,Spain,Right Midfield,RM,,RCD Espanyol Barcelona,Spain,0.0,1
+1999,Laliga,Deportivo Alavés,summer,out,Sívori,71438,22,Spain,Centre-Forward,CF,,Athletic Bilbao,Spain,2100000.0,0
+1999,Laliga,Deportivo Alavés,summer,out,Alfonso Vera,7703,25,Spain,Central Midfield,CM,,CA Osasuna,Spain,240000.0,0
+1999,Laliga,Deportivo Alavés,summer,out,Alberto Belsué,104031,31,Spain,Right-Back,RB,,CD Numancia,Spain,0.0,0
+1999,Laliga,Deportivo Alavés,summer,out,Tito,253963,29,Spain,Goalkeeper,GK,,CD Leganés,Spain,,0
+1999,Laliga,Deportivo Alavés,summer,out,Iván Rocha,253985,30,Brazil,Left-Back,LB,,CD Numancia,Spain,,0
+1999,Laliga,Deportivo Alavés,summer,out,Alberto Albistegui,200732,34,Spain,Centre-Back,CB,,Retired,,,0
+1999,Laliga,Deportivo Alavés,summer,out,Manuel Canabal,7791,24,Spain,Centre-Forward,CF,,Real Madrid,Spain,0.0,1
+1999,Laliga,Deportivo Alavés,summer,out,Pablo Sánchez,30932,26,Argentina,Attacking Midfield,AM,,Feyenoord Rotterdam,Netherlands,0.0,1
+1999,Laliga,Deportivo Alavés,summer,out,Gerard López,7599,20,Spain,Central Midfield,CM,,Valencia CF,Spain,0.0,1
+1999,Laliga,Deportivo Alavés,winter,out,Álex Fernández,72394,25,Spain,Midfielder,Midfielder,,CD Ourense,Spain,0.0,0
+1999,Laliga,Deportivo Alavés,winter,out,Iñaki Berruet,71755,26,Spain,Centre-Back,CB,,Villarreal CF,Spain,,0
+1999,Laliga,Deportivo de La Coruña,summer,in,Roy Makaay,3994,24,Netherlands,Centre-Forward,CF,,CD Tenerife,Spain,8600000.0,0
+1999,Laliga,Deportivo de La Coruña,summer,in,Víctor Sánchez,7502,23,Spain,Right Winger,RW,,Racing Santander,Spain,7600000.0,0
+1999,Laliga,Deportivo de La Coruña,summer,in,César Martín,7487,22,Spain,Centre-Back,CB,,Real Oviedo,Spain,7400000.0,0
+1999,Laliga,Deportivo de La Coruña,summer,in,Barata,253208,27,Brazil,Centre-Forward,CF,,CP Mérida,Spain,4500000.0,0
+1999,Laliga,Deportivo de La Coruña,summer,in,Slavisa Jokanovic,79065,30,Serbia,Defensive Midfield,DM,,CD Tenerife,Spain,4500000.0,0
+1999,Laliga,Deportivo de La Coruña,summer,in,Fernando,2757,27,Spain,Left Midfield,LM,,Real Betis Balompié,Spain,3000000.0,0
+1999,Laliga,Deportivo de La Coruña,summer,in,Jaime,2758,26,Spain,Defensive Midfield,DM,,Real Madrid,Spain,2500000.0,0
+1999,Laliga,Deportivo de La Coruña,summer,in,José Manuel,2759,25,Spain,Right Midfield,RM,,Sporting Gijón,Spain,1800000.0,0
+1999,Laliga,Deportivo de La Coruña,summer,in,David Pirri,7986,25,Spain,Left Midfield,LM,,CP Mérida,Spain,1710000.0,0
+1999,Laliga,Deportivo de La Coruña,summer,in,Iván Pérez,7505,23,Spain,Centre-Forward,CF,,Real Betis Balompié,Spain,0.0,0
+1999,Laliga,Deportivo de La Coruña,summer,in,Manel Menéndez,57824,28,Spain,Right-Back,RB,,Real Oviedo,Spain,,0
+1999,Laliga,Deportivo de La Coruña,summer,out,Stéphane Ziani,5514,27,France,Attacking Midfield,AM,,FC Girondins Bordeaux,France,7050000.0,0
+1999,Laliga,Deportivo de La Coruña,summer,out,Jérôme Bonnissel,3911,26,France,Left-Back,LB,,FC Girondins Bordeaux,France,7050000.0,0
+1999,Laliga,Deportivo de La Coruña,summer,out,Barata,253208,27,Brazil,Centre-Forward,CF,,CD Tenerife,Spain,4500000.0,0
+1999,Laliga,Deportivo de La Coruña,summer,out,Peter Rufai,102309,35,Nigeria,Goalkeeper,GK,,Gil Vicente FC,Portugal,,0
+1999,Laliga,Deportivo de La Coruña,summer,out,Sergio Martínez,229623,30,Uruguay,Centre-Forward,CF,,Club Nacional,Uruguay,,0
+1999,Laliga,Deportivo de La Coruña,summer,out,Armando Álvarez,172654,28,Spain,Right-Back,RB,,RCD Mallorca,Spain,,0
+1999,Laliga,Deportivo de La Coruña,summer,out,Javier Manjarín,104049,29,Spain,Attacking Midfield,AM,,Racing Santander,Spain,,0
+1999,Laliga,Deportivo de La Coruña,summer,out,Maikel,39220,23,Spain,Centre-Forward,CF,,Xerez CD,Spain,,0
+1999,Laliga,Deportivo de La Coruña,summer,out,Sebastián Abreu,53817,22,Uruguay,Centre-Forward,CF,,Tecos de la UAG,Mexico,0.0,1
+1999,Laliga,Deportivo de La Coruña,summer,out,Hélder Cristóvão,13214,28,Portugal,Centre-Back,CB,,Newcastle United,England,0.0,1
+1999,Laliga,Deportivo de La Coruña,summer,out,David Pirri,7986,25,Spain,Left Midfield,LM,,UD Las Palmas,Spain,0.0,1
+1999,Laliga,Deportivo de La Coruña,summer,out,David Fernández,9507,23,Spain,Attacking Midfield,AM,,CD Toledo,Spain,0.0,1
+1999,Laliga,Deportivo de La Coruña,winter,out,Mustapha Hadji,3840,28,Morocco,Attacking Midfield,AM,,Coventry City,England,6000000.0,0
+1999,Laliga,Deportivo de La Coruña,winter,out,Gerardo Seoane,4906,21,Switzerland,Centre-Back,CB,,AC Bellinzona,Switzerland,0.0,1
+1999,Laliga,FC Barcelona,summer,in,Dani García,7608,24,Spain,Centre-Forward,CF,,RCD Mallorca,Spain,15000000.0,0
+1999,Laliga,FC Barcelona,summer,in,Simão,8019,19,Portugal,Left Winger,LW,,Sporting CP,Portugal,14000000.0,0
+1999,Laliga,FC Barcelona,summer,in,Jari Litmanen,4675,28,Finland,Attacking Midfield,AM,,Ajax Amsterdam,Netherlands,4000000.0,0
+1999,Laliga,FC Barcelona,summer,in,Frédéric Déhu,5552,26,France,Centre-Back,CB,,RC Lens,France,0.0,0
+1999,Laliga,FC Barcelona,summer,out,Sonny Anderson,3500,28,Brazil,Centre-Forward,CF,,Olympique Lyon,France,19000000.0,0
+1999,Laliga,FC Barcelona,summer,out,Giovanni,8014,27,Brazil,Attacking Midfield,AM,,Olympiacos Piraeus,Greece,6000000.0,0
+1999,Laliga,FC Barcelona,summer,out,Óscar García,7897,26,Spain,Attacking Midfield,AM,,Valencia CF,Spain,4800000.0,0
+1999,Laliga,FC Barcelona,summer,out,Roger García,7891,22,Spain,Left Midfield,LM,,RCD Espanyol Barcelona,Spain,2700000.0,0
+1999,Laliga,FC Barcelona,summer,out,Albert Celades,7521,23,Spain,Defensive Midfield,DM,,Celta de Vigo,Spain,1700000.0,0
+1999,Laliga,FC Barcelona,summer,out,Toni Velamazán,15794,22,Spain,Right Midfield,RM,,RCD Espanyol Barcelona,Spain,450000.0,0
+1999,Laliga,FC Barcelona,summer,out,Miguel Ángel Nadal,7676,32,Spain,Centre-Back,CB,,RCD Mallorca,Spain,0.0,0
+1999,Laliga,FC Barcelona,summer,out,Carles Busquets,134927,31,Spain,Goalkeeper,GK,,UE Lleida,Spain,0.0,0
+1999,Laliga,FC Barcelona,summer,out,Luis García,7920,21,Spain,Right Winger,RW,,Real Valladolid CF,Spain,0.0,1
+1999,Laliga,FC Barcelona,summer,out,Dragan Ciric,7812,24,Serbia,Attacking Midfield,AM,,AEK Athens,Greece,0.0,1
+1999,Laliga,FC Barcelona,summer,out,Samuel Okunowo,3517,20,Nigeria,Right-Back,RB,,SL Benfica,Portugal,0.0,1
+1999,Laliga,FC Barcelona,summer,out,Mauricio Pellegrino,7573,27,Argentina,Centre-Back,CB,,CA Vélez Sarsfield,Argentina,0.0,1
+1999,Laliga,FC Barcelona,winter,out,Luis García,7920,21,Spain,Right Winger,RW,,CD Toledo,Spain,0.0,1
+1999,Laliga,Málaga CF,summer,in,Francisco Rufete,7580,22,Spain,Right Winger,RW,,RCD Mallorca,Spain,1800000.0,0
+1999,Laliga,Málaga CF,summer,in,Darío Silva,7792,26,Uruguay,Centre-Forward,CF,,Cagliari Calcio,Italy,500000.0,0
+1999,Laliga,Málaga CF,summer,in,Roberto Rojas,7778,24,Spain,Right-Back,RB,,Real Madrid,Spain,0.0,0
+1999,Laliga,Málaga CF,summer,in,Pedro Contreras,7771,27,Spain,Goalkeeper,GK,,Real Madrid,Spain,0.0,0
+1999,Laliga,Málaga CF,summer,in,Albert Luque,7506,21,Spain,Left Winger,LW,,RCD Mallorca,Spain,0.0,1
+1999,Laliga,Málaga CF,summer,in,Fernando Sanz,7774,25,Spain,Centre-Back,CB,,Real Madrid,Spain,,0
+1999,Laliga,Málaga CF,summer,in,Awule Quaye,39552,18,Ghana,Attacking Midfield,AM,,CD Ourense,Spain,,0
+1999,Laliga,Málaga CF,summer,out,Brahim Thiam,22409,25,Mali,Centre-Back,CB,,AS Red Star 93,France,0.0,0
+1999,Laliga,Málaga CF,summer,out,Irurzun,16255,24,Spain,Centre-Forward,CF,,CA Osasuna,Spain,0.0,1
+1999,Laliga,Málaga CF,summer,out,Dani,22715,25,Spain,Goalkeeper,GK,,Almería CF,Spain,,0
+1999,Laliga,Málaga CF,summer,out,Quino,13353,28,Spain,Striker,Striker,,Recreativo Huelva,Spain,,0
+1999,Laliga,Málaga CF,summer,out,Cristian Díaz,51499,23,Argentina,Centre-Back,CB,,Atlético de Madrid,Spain,,0
+1999,Laliga,Málaga CF,summer,out,Vladimir Popovic,61077,23,Montenegro,Striker,Striker,,Getafe CF,Spain,,0
+1999,Laliga,Málaga CF,summer,out,Pablo Guede,71299,24,Argentina,Centre-Forward,CF,,Elche CF,Spain,,0
+1999,Laliga,Málaga CF,summer,out,Rodrigão,308107,27,Brazil,Defensive Midfield,DM,,CD Manchego,Spain,,0
+1999,Laliga,Málaga CF,summer,out,Owusu Afriyie,500589,18,Ghana,Striker,Striker,,GD Chaves,Portugal,0.0,1
+1999,Laliga,Málaga CF,summer,out,Francisco Rufete,7580,22,Spain,Right Winger,RW,,RCD Mallorca,Spain,0.0,1
+1999,Laliga,Málaga CF,winter,out,Ariel Zárate,29200,26,Argentina,Attacking Midfield,AM,,Elche CF,Spain,,0
+1999,Laliga,RCD Espanyol Barcelona,summer,in,Roger García,7891,22,Spain,Left Midfield,LM,,FC Barcelona,Spain,2700000.0,0
+1999,Laliga,RCD Espanyol Barcelona,summer,in,Sergio Korino,154574,24,Spain,Centre-Back,CB,,Athletic Bilbao,Spain,1800000.0,0
+1999,Laliga,RCD Espanyol Barcelona,summer,in,Toni Velamazán,15794,22,Spain,Right Midfield,RM,,FC Barcelona,Spain,450000.0,0
+1999,Laliga,RCD Espanyol Barcelona,summer,in,Juan Luis Mora,23269,25,Spain,Goalkeeper,GK,,Real Oviedo,Spain,,0
+1999,Laliga,RCD Espanyol Barcelona,summer,in,Carlos Casartelli,78492,24,Argentina,Centre-Forward,CF,,UD Salamanca,Spain,,0
+1999,Laliga,RCD Espanyol Barcelona,summer,in,Mauro Navas,30857,24,Argentina,Right Midfield,RM,,Udinese Calcio,Italy,,0
+1999,Laliga,RCD Espanyol Barcelona,summer,in,Manel,70974,25,Spain,Centre-Forward,CF,,CD Logroñés,Spain,,0
+1999,Laliga,RCD Espanyol Barcelona,summer,in,Pablo Rotchen,184348,26,Argentina,Centre-Back,CB,,CA Independiente,Argentina,,0
+1999,Laliga,RCD Espanyol Barcelona,summer,in,Pablo Cavallero,7536,25,Argentina,Goalkeeper,GK,,CA Vélez Sarsfield,Argentina,0.0,1
+1999,Laliga,RCD Espanyol Barcelona,winter,in,Delio Toledo,7969,23,Paraguay,Left-Back,LB,,Udinese Calcio,Italy,,0
+1999,Laliga,RCD Espanyol Barcelona,summer,out,Iván Helguera,7514,24,Spain,Centre-Back,CB,,Real Madrid,Spain,7200000.0,0
+1999,Laliga,RCD Espanyol Barcelona,summer,out,Joan Capdevila,7486,21,Spain,Left-Back,LB,,Atlético de Madrid,Spain,4800000.0,0
+1999,Laliga,RCD Espanyol Barcelona,summer,out,Quique Martín,51493,26,Spain,Left Winger,LW,,UD Salamanca,Spain,450000.0,0
+1999,Laliga,RCD Espanyol Barcelona,summer,out,Pacheta,187845,31,Spain,Central Midfield,CM,,CD Numancia,Spain,0.0,0
+1999,Laliga,RCD Espanyol Barcelona,summer,out,Toni Jiménez,15767,28,Spain,Goalkeeper,GK,,Atlético de Madrid,Spain,,0
+1999,Laliga,RCD Espanyol Barcelona,summer,out,Giampaolo Di Magno,253884,25,Italy,Goalkeeper,GK,,AC Carpi,Italy,,0
+1999,Laliga,RCD Espanyol Barcelona,summer,out,Nan Ribera,185957,24,Spain,Right Midfield,RM,,Deportivo Alavés,Spain,0.0,1
+1999,Laliga,RCD Espanyol Barcelona,summer,out,Àngel Morales,7890,23,Spain,Defensive Midfield,DM,,Deportivo Alavés,Spain,0.0,1
+1999,Laliga,RCD Espanyol Barcelona,summer,out,Dominique Lemoine,181538,33,Belgium,Attacking Midfield,AM,,Without Club,,,0
+1999,Laliga,RCD Espanyol Barcelona,summer,out,Federico Domínguez,25089,22,Argentina,Left-Back,LB,,CA Vélez Sarsfield,Argentina,0.0,1
+1999,Laliga,RCD Espanyol Barcelona,summer,out,Samuel Eto'o,4257,18,Cameroon,Centre-Forward,CF,,Real Madrid,Spain,0.0,1
+1999,Laliga,RCD Espanyol Barcelona,summer,out,Darío Silva,7792,26,Uruguay,Centre-Forward,CF,,Cagliari Calcio,Italy,0.0,1
+1999,Laliga,RCD Espanyol Barcelona,winter,out,Sergio Korino,154574,25,Spain,Centre-Back,CB,,Real Sociedad,Spain,2100000.0,0
+1999,Laliga,RCD Espanyol Barcelona,winter,out,Carlos Casartelli,78492,25,Argentina,Centre-Forward,CF,,Club Estudiantes de La Plata,Argentina,,0
+1999,Laliga,RCD Espanyol Barcelona,winter,out,Pedro Nieto,309601,24,Spain,Defender,Defender,,Recreativo Huelva,Spain,,0
+1999,Laliga,RCD Mallorca,summer,in,Samuel Eto'o,4257,19,Cameroon,Centre-Forward,CF,,Real Madrid,Spain,7200000.0,0
+1999,Laliga,RCD Mallorca,summer,in,Juan José Serrizuela,17281,22,Argentina,Right-Back,RB,,CA Lanús,Argentina,4600000.0,0
+1999,Laliga,RCD Mallorca,summer,in,Jorge Quinteros,83225,24,Argentina,Centre-Forward,CF,,AA Argentinos Juniors,Argentina,3500000.0,0
+1999,Laliga,RCD Mallorca,summer,in,Ardijan Djokaj,34404,20,Montenegro,Left Winger,LW,,Buducnost Podgorica,Serbia,0.0,0
+1999,Laliga,RCD Mallorca,summer,in,Miguel Ángel Nadal,7676,32,Spain,Centre-Back,CB,,FC Barcelona,Spain,0.0,0
+1999,Laliga,RCD Mallorca,summer,in,Germán Burgos,7745,30,Argentina,Goalkeeper,GK,,CA River Plate,Argentina,,0
+1999,Laliga,RCD Mallorca,summer,in,Iván Gabrich,149508,26,Argentina,Centre-Forward,CF,,CF Extremadura,Spain,,0
+1999,Laliga,RCD Mallorca,summer,in,Armando Álvarez,172654,28,Spain,Right-Back,RB,,Deportivo de La Coruña,Spain,,0
+1999,Laliga,RCD Mallorca,summer,in,Jorge Cordero,29150,22,Spain,Midfielder,Midfielder,,Elche CF,Spain,,0
+1999,Laliga,RCD Mallorca,winter,in,Samuel Eto'o,4257,18,Cameroon,Centre-Forward,CF,,Real Madrid,Spain,0.0,1
+1999,Laliga,RCD Mallorca,summer,out,Dani García,7608,24,Spain,Centre-Forward,CF,,FC Barcelona,Spain,15000000.0,0
+1999,Laliga,RCD Mallorca,summer,out,Marcelino,171977,27,Spain,Centre-Back,CB,,Newcastle United,England,6700000.0,0
+1999,Laliga,RCD Mallorca,summer,out,Francisco Rufete,7580,22,Spain,Right Winger,RW,,Málaga CF,Spain,1800000.0,0
+1999,Laliga,RCD Mallorca,summer,out,Gabi Moya,173462,33,Spain,Midfielder,Midfielder,,Sevilla FC,Spain,600000.0,0
+1999,Laliga,RCD Mallorca,summer,out,Albert Luque,7506,21,Spain,Left Winger,LW,,Málaga CF,Spain,0.0,1
+1999,Laliga,RCD Mallorca,summer,out,Óscar Arpón,29162,24,Spain,Central Midfield,CM,,CA Osasuna,Spain,,0
+1999,Laliga,RCD Mallorca,summer,out,Ariel López,51083,25,Argentina,Centre-Forward,CF,,CA San Lorenzo de Almagro,Argentina,0.0,1
+1999,Laliga,RCD Mallorca,summer,out,Veljko Paunovic,7364,21,Serbia,Centre-Forward,CF,,Atlético de Madrid,Spain,0.0,1
+1999,Laliga,RCD Mallorca,summer,out,Mauricio Pineda,106109,23,Argentina,Left-Back,LB,,Udinese Calcio,Italy,0.0,1
+1999,Laliga,RCD Mallorca,winter,out,Iván Gabrich,149508,27,Argentina,Centre-Forward,CF,,CA Huracán,Argentina,,0
+1999,Laliga,Racing Santander,summer,in,Sigurd Rushfeldt,2959,26,Norway,Centre-Forward,CF,,Rosenborg BK,Norway,4000000.0,0
+1999,Laliga,Racing Santander,summer,in,Federico Magallanes,16266,22,Uruguay,Centre-Forward,CF,,Real Madrid,Spain,1000000.0,0
+1999,Laliga,Racing Santander,summer,in,Fernando Morán,7861,23,Spain,Right Midfield,RM,,CD Ourense,Spain,,0
+1999,Laliga,Racing Santander,summer,in,Erwin Lemmens,7849,23,Belgium,Goalkeeper,GK,,KSK Beveren (-2010),Belgium,,0
+1999,Laliga,Racing Santander,summer,in,Javier Manjarín,104049,29,Spain,Attacking Midfield,AM,,Deportivo de La Coruña,Spain,,0
+1999,Laliga,Racing Santander,summer,in,Marcelo Espina,187824,32,Argentina,Attacking Midfield,AM,,CSD Colo-Colo,Chile,,0
+1999,Laliga,Racing Santander,winter,in,Léider Preciado,74107,22,Colombia,Centre-Forward,CF,,CD Toledo,Spain,,0
+1999,Laliga,Racing Santander,summer,out,Víctor Sánchez,7502,23,Spain,Right Winger,RW,,Deportivo de La Coruña,Spain,7600000.0,0
+1999,Laliga,Racing Santander,summer,out,Ilshat Fayzulin,67101,26,Russia,Centre-Forward,CF,,SC Farense,Portugal,,0
+1999,Laliga,Racing Santander,summer,out,Léider Preciado,74107,22,Colombia,Centre-Forward,CF,,CD Toledo,Spain,,0
+1999,Laliga,Racing Santander,summer,out,Javi Sánchez Jara,175960,29,Spain,Right-Back,RB,,Sporting Gijón,Spain,,0
+1999,Laliga,Racing Santander,summer,out,Fernando Marcos,259626,30,Spain,Goalkeeper,GK,,Motril CF,Spain,,0
+1999,Laliga,Racing Santander,summer,out,Frode Grodås,263,34,Norway,Goalkeeper,GK,,FC Schalke 04,Germany,0.0,1
+1999,Laliga,Racing Santander,summer,out,Federico Magallanes,16266,22,Uruguay,Centre-Forward,CF,,Real Madrid,Spain,0.0,1
+1999,Laliga,Racing Santander,winter,out,Sergey Shustikov,25659,29,Russia,Defensive Midfield,DM,,CA Osasuna,Spain,,0
+1999,Laliga,Rayo Vallecano,summer,in,Jordi Ferrón,7973,20,Spain,Right-Back,RB,,FC Barcelona B,Spain,1950000.0,0
+1999,Laliga,Rayo Vallecano,summer,in,Kasey Keller,3608,29,United States,Goalkeeper,GK,,Leicester City,England,0.0,0
+1999,Laliga,Rayo Vallecano,summer,in,Hélder Baptista,32612,27,Portugal,Defensive Midfield,DM,,Paris Saint-Germain,France,,0
+1999,Laliga,Rayo Vallecano,summer,in,Martín Mandra,6238,21,Argentina,Centre-Forward,CF,,Club Ferro Carril Oeste,Argentina,,0
+1999,Laliga,Rayo Vallecano,summer,in,David Clotet,187821,26,Spain,Centre-Back,CB,,CD Logroñés,Spain,,0
+1999,Laliga,Rayo Vallecano,summer,in,Dani Bouzas,70941,25,Spain,Attacking Midfield,AM,,Albacete Balompié,Spain,,0
+1999,Laliga,Rayo Vallecano,summer,in,Gerhard Poschner,1521,29,Germany,Defensive Midfield,DM,,AC Venezia 1907,Italy,,0
+1999,Laliga,Rayo Vallecano,summer,in,Gilmar,253989,28,Brazil,Centre-Back,CB,,Real Zaragoza,Spain,,0
+1999,Laliga,Rayo Vallecano,summer,in,Quinzinho,254508,25,Angola,Centre-Forward,CF,,FC Porto,Portugal,0.0,1
+1999,Laliga,Rayo Vallecano,summer,in,Manuel Canabal,7791,24,Spain,Centre-Forward,CF,,Real Madrid,Spain,0.0,1
+1999,Laliga,Rayo Vallecano,winter,in,Juan Carlos Villamayor,584873,30,Paraguay,Right-Back,RB,,Associação Atlética Ponte Preta,Brazil,,0
+1999,Laliga,Rayo Vallecano,winter,in,Mark Draper,3681,29,England,Central Midfield,CM,,Aston Villa,England,0.0,1
+1999,Laliga,Rayo Vallecano,summer,out,Pablo Lago,7865,24,Spain,Central Midfield,CM,,UD Las Palmas,Spain,240000.0,0
+1999,Laliga,Rayo Vallecano,summer,out,Iván Rosado,7744,25,Spain,Centre-Forward,CF,,CA Osasuna,Spain,0.0,0
+1999,Laliga,Rayo Vallecano,summer,out,Jero Miñarro,71816,21,Spain,Centre-Back,CB,,Panachaiki GE,Greece,0.0,0
+1999,Laliga,Rayo Vallecano,summer,out,Sergio Segura,75249,21,Spain,Goalkeeper,GK,,UD San Sebastián de los Reyes,Spain,0.0,1
+1999,Laliga,Rayo Vallecano,summer,out,Tiago,9820,23,Portugal,Defensive Midfield,DM,,CD Tenerife,Spain,,0
+1999,Laliga,Rayo Vallecano,summer,out,Juan Muñiz,187836,30,Spain,Centre-Back,CB,,CD Numancia,Spain,,0
+1999,Laliga,Rayo Vallecano,summer,out,Onésimo Sánchez,246203,30,Spain,Right Winger,RW,,Burgos CF,Spain,,0
+1999,Laliga,Rayo Vallecano,summer,out,Javi Pineda,253496,27,Spain,Attacking Midfield,AM,,Getafe CF,Spain,,0
+1999,Laliga,Rayo Vallecano,summer,out,Rafael Jaques,735034,23,Brazil,Centre-Forward,CF,,São Paulo Futebol Clube,Brazil,,0
+1999,Laliga,Rayo Vallecano,winter,out,Quinzinho,254508,25,Angola,Centre-Forward,CF,,FC Porto,Portugal,0.0,1
+1999,Laliga,Real Betis Balompié,summer,in,Sebastián Romero,30691,21,Argentina,Left Midfield,LM,,Club de Gimnasia y Esgrima La Plata,Argentina,4400000.0,0
+1999,Laliga,Real Betis Balompié,summer,in,Diego Crosa,19963,23,Argentina,Centre-Back,CB,,CA Newell's Old Boys,Argentina,3800000.0,0
+1999,Laliga,Real Betis Balompié,summer,in,Joaquín Bornes,51410,24,Spain,Centre-Back,CB,,Recreativo Huelva,Spain,180000.0,0
+1999,Laliga,Real Betis Balompié,summer,in,Miroslav Karhan,1262,23,Slovakia,Central Midfield,CM,,Spartak Trnava,Slovakia,0.0,0
+1999,Laliga,Real Betis Balompié,summer,in,Adilson,90742,23,Brazil,Left-Back,LB,,Red Star Belgrade,Serbia,,0
+1999,Laliga,Real Betis Balompié,winter,in,Fabão,26098,23,Brazil,Centre-Back,CB,,CR Flamengo,Brazil,2100000.0,0
+1999,Laliga,Real Betis Balompié,summer,out,Celso Ayala,22938,28,Paraguay,Centre-Back,CB,,Atlético de Madrid,Spain,3000000.0,0
+1999,Laliga,Real Betis Balompié,summer,out,Fernando,2757,27,Spain,Left Midfield,LM,,Deportivo de La Coruña,Spain,3000000.0,0
+1999,Laliga,Real Betis Balompié,summer,out,Tomás Olías,184345,30,Spain,Centre-Back,CB,,UD Las Palmas,Spain,850000.0,0
+1999,Laliga,Real Betis Balompié,summer,out,Jaime Quesada,184347,27,Spain,Right-Back,RB,,UD Las Palmas,Spain,240000.0,0
+1999,Laliga,Real Betis Balompié,summer,out,Iván Pérez,7505,23,Spain,Centre-Forward,CF,,Deportivo de La Coruña,Spain,0.0,0
+1999,Laliga,Real Betis Balompié,summer,out,Virgilio Ferreira,254094,26,Paraguay,Centre-Forward,CF,,CF América,Mexico,,0
+1999,Laliga,Real Betis Balompié,summer,out,Capi,7658,22,Spain,Attacking Midfield,AM,,Granada CF,Spain,0.0,1
+1999,Laliga,Real Betis Balompié,winter,out,Luis Márquez,7817,28,Spain,Right Midfield,RM,,Real Valladolid CF,Spain,,0
+1999,Laliga,Real Betis Balompié,winter,out,Adilson,90742,23,Brazil,Left-Back,LB,,Sevilla FC,Spain,,0
+1999,Laliga,Real Madrid,summer,in,Nicolas Anelka,3226,20,France,Centre-Forward,CF,,Arsenal FC,England,35000000.0,0
+1999,Laliga,Real Madrid,summer,in,Elvir Baljic,6900,24,Bosnia-Herzegovina,Left Winger,LW,,Fenerbahce,Türkiye,21000000.0,0
+1999,Laliga,Real Madrid,summer,in,Iván Helguera,7514,24,Spain,Centre-Back,CB,,RCD Espanyol Barcelona,Spain,7200000.0,0
+1999,Laliga,Real Madrid,summer,in,Míchel Salgado,7515,23,Spain,Right-Back,RB,,Celta de Vigo,Spain,6000000.0,0
+1999,Laliga,Real Madrid,summer,in,Njitap Geremi,3374,20,Cameroon,Right Midfield,RM,,Genclerbirligi Ankara,Türkiye,5000000.0,0
+1999,Laliga,Real Madrid,summer,in,Edwin Congo,23189,22,Colombia,Centre-Forward,CF,,Once Caldas,Colombia,4800000.0,0
+1999,Laliga,Real Madrid,summer,in,Perica Ognjenovic,1470,22,Serbia,Right Winger,RW,,Red Star Belgrade,Serbia,2400000.0,0
+1999,Laliga,Real Madrid,summer,in,Albano Bizzarri,7797,21,Argentina,Goalkeeper,GK,,Racing Club,Argentina,1800000.0,0
+1999,Laliga,Real Madrid,summer,in,Júlio César,2943,20,Brazil,Centre-Back,CB,,Real Valladolid CF,Spain,1800000.0,0
+1999,Laliga,Real Madrid,summer,in,Steve McManaman,3980,27,England,Right Midfield,RM,,Liverpool FC,England,0.0,0
+1999,Laliga,Real Madrid,summer,out,Predrag Mijatović,24481,30,Montenegro,Centre-Forward,CF,,AC Fiorentina,Italy,12000000.0,0
+1999,Laliga,Real Madrid,summer,out,Christian Panucci,5940,26,Italy,Right-Back,RB,,Inter Milan,Italy,9300000.0,0
+1999,Laliga,Real Madrid,summer,out,Samuel Eto'o,4257,19,Cameroon,Centre-Forward,CF,,RCD Mallorca,Spain,7200000.0,0
+1999,Laliga,Real Madrid,summer,out,Davor Suker,1407,31,Croatia,Centre-Forward,CF,,Arsenal FC,England,5400000.0,0
+1999,Laliga,Real Madrid,summer,out,Jaime,2758,26,Spain,Defensive Midfield,DM,,Deportivo de La Coruña,Spain,2500000.0,0
+1999,Laliga,Real Madrid,summer,out,Federico Magallanes,16266,22,Uruguay,Centre-Forward,CF,,Racing Santander,Spain,1000000.0,0
+1999,Laliga,Real Madrid,summer,out,Roberto Rojas,7778,24,Spain,Right-Back,RB,,Málaga CF,Spain,0.0,0
+1999,Laliga,Real Madrid,summer,out,Robert Jarni,29556,30,Croatia,Left-Back,LB,,UD Las Palmas,Spain,0.0,0
+1999,Laliga,Real Madrid,summer,out,Pedro Contreras,7771,27,Spain,Goalkeeper,GK,,Málaga CF,Spain,0.0,0
+1999,Laliga,Real Madrid,summer,out,Manuel Tena,7808,21,Spain,Centre-Back,CB,,Real Valladolid CF,Spain,0.0,0
+1999,Laliga,Real Madrid,summer,out,Alberto Rivera,23306,21,Spain,Central Midfield,CM,,CD Numancia,Spain,0.0,1
+1999,Laliga,Real Madrid,summer,out,Fernando Sanz,7774,25,Spain,Centre-Back,CB,,Málaga CF,Spain,,0
+1999,Laliga,Real Madrid,summer,out,Tote,7535,20,Spain,Attacking Midfield,AM,,SL Benfica,Portugal,0.0,1
+1999,Laliga,Real Madrid,summer,out,Edwin Congo,23189,22,Colombia,Centre-Forward,CF,,Real Valladolid CF,Spain,0.0,1
+1999,Laliga,Real Madrid,summer,out,Manuel Canabal,7791,24,Spain,Centre-Forward,CF,,Rayo Vallecano,Spain,0.0,1
+1999,Laliga,Real Madrid,summer,out,Rodrigo Fabri,7352,23,Brazil,Attacking Midfield,AM,,Real Valladolid CF,Spain,0.0,1
+1999,Laliga,Real Madrid,winter,out,Clarence Seedorf,4168,23,Netherlands,Central Midfield,CM,,Inter Milan,Italy,24000000.0,0
+1999,Laliga,Real Madrid,winter,out,Samuel Eto'o,4257,18,Cameroon,Centre-Forward,CF,,RCD Mallorca,Spain,0.0,1
+1999,Laliga,Real Oviedo,summer,in,Gert Claessens,4423,27,Belgium,Left Midfield,LM,,Club Brugge KV,Belgium,1200000.0,0
+1999,Laliga,Real Oviedo,summer,in,Óscar Álvarez,27682,22,Spain,Centre-Back,CB,,FC Barcelona B,Spain,270000.0,0
+1999,Laliga,Real Oviedo,summer,in,Juan Carlos Unzué,7722,32,Spain,Goalkeeper,GK,,CD Tenerife,Spain,,0
+1999,Laliga,Real Oviedo,summer,in,Frédéric Danjou,13768,24,France,Centre-Back,CB,,AJ Auxerre,France,,0
+1999,Laliga,Real Oviedo,summer,in,Mateo Corbo,35795,23,Uruguay,Left-Back,LB,,CA River Plate Montevideo,Uruguay,,0
+1999,Laliga,Real Oviedo,winter,in,Bruno Berner,1589,22,Switzerland,Left-Back,LB,,Grasshopper Club Zurich,Switzerland,0.0,1
+1999,Laliga,Real Oviedo,summer,out,César Martín,7487,22,Spain,Centre-Back,CB,,Deportivo de La Coruña,Spain,7400000.0,0
+1999,Laliga,Real Oviedo,summer,out,Berto,258111,36,Spain,Right Midfield,RM,,SD Ponferradina,Spain,0.0,0
+1999,Laliga,Real Oviedo,summer,out,Fernando Gamboa,9918,28,Argentina,Centre-Back,CB,,CA Newell's Old Boys,Argentina,,0
+1999,Laliga,Real Oviedo,summer,out,Juan Luis Mora,23269,25,Spain,Goalkeeper,GK,,RCD Espanyol Barcelona,Spain,,0
+1999,Laliga,Real Oviedo,summer,out,Manel Menéndez,57824,28,Spain,Right-Back,RB,,Deportivo de La Coruña,Spain,,0
+1999,Laliga,Real Oviedo,summer,out,Dani Pendín,29185,24,Argentina,Defensive Midfield,DM,,Burgos CF,Spain,,0
+1999,Laliga,Real Oviedo,summer,out,Joyce Moreno,187840,24,Spain,Centre-Back,CB,,CD Leganés,Spain,0.0,1
+1999,Laliga,Real Oviedo,summer,out,Bruno Berner,1589,22,Switzerland,Left-Back,LB,,Grasshopper Club Zurich,Switzerland,0.0,1
+1999,Laliga,Real Sociedad,summer,in,Víctor Bonilla,5708,28,Colombia,Centre-Forward,CF,,Deportivo Cali,Colombia,,0
+1999,Laliga,Real Sociedad,winter,in,Edgaras Jankauskas,9816,24,Lithuania,Centre-Forward,CF,,Club Brugge KV,Belgium,2300000.0,0
+1999,Laliga,Real Sociedad,winter,in,Sergio Korino,154574,25,Spain,Centre-Back,CB,,RCD Espanyol Barcelona,Spain,2100000.0,0
+1999,Laliga,Real Sociedad,winter,in,Dmitriy Khokhlov,9637,24,Russia,Central Midfield,CM,,PSV Eindhoven,Netherlands,1500000.0,0
+1999,Laliga,Real Sociedad,summer,out,Darko Kovacevic,7479,25,Serbia,Centre-Forward,CF,,Juventus FC,Italy,17000000.0,0
+1999,Laliga,Real Sociedad,summer,out,Javi Gracia,172656,29,Spain,Defensive Midfield,DM,,Villarreal CF,Spain,,0
+1999,Laliga,Real Sociedad,summer,out,Igor Cvitanovic,103807,28,Croatia,Centre-Forward,CF,,GNK Dinamo Zagreb,Croatia,,0
+1999,Laliga,Real Sociedad,summer,out,Roberto Olabe,200759,31,Spain,Goalkeeper,GK,,Retired,,,0
+1999,Laliga,Real Sociedad,winter,out,Víctor Bonilla,5708,28,Colombia,Centre-Forward,CF,,UD Salamanca,Spain,,0
+1999,Laliga,Real Sociedad,winter,out,Mutiu Adepoju,102321,29,Nigeria,Central Midfield,CM,,Al-Ittihad Club,Saudi Arabia,,0
+1999,Laliga,Real Valladolid CF,summer,in,Manuel Tena,7808,21,Spain,Centre-Back,CB,,Real Madrid,Spain,0.0,0
+1999,Laliga,Real Valladolid CF,summer,in,Luis García,7920,21,Spain,Right Winger,RW,,FC Barcelona,Spain,0.0,1
+1999,Laliga,Real Valladolid CF,summer,in,Arílson,100108,26,Brazil,Attacking Midfield,AM,,Grêmio Foot-Ball Porto Alegrense,Brazil,,0
+1999,Laliga,Real Valladolid CF,summer,in,Jorge Brítez,16834,18,Paraguay,Defensive Midfield,DM,,Club Presidente Hayes,Paraguay,,0
+1999,Laliga,Real Valladolid CF,summer,in,Edwin Congo,23189,22,Colombia,Centre-Forward,CF,,Real Madrid,Spain,0.0,1
+1999,Laliga,Real Valladolid CF,summer,in,Rodrigo Fabri,7352,23,Brazil,Attacking Midfield,AM,,Real Madrid,Spain,0.0,1
+1999,Laliga,Real Valladolid CF,winter,in,Luis Márquez,7817,28,Spain,Right Midfield,RM,,Real Betis Balompié,Spain,,0
+1999,Laliga,Real Valladolid CF,winter,in,Javi Jiménez,7815,23,Spain,Defensive Midfield,DM,,Getafe CF,Spain,,0
+1999,Laliga,Real Valladolid CF,winter,in,Shoji Jo,156995,24,Japan,Centre-Forward,CF,,Yokohama F. Marinos,Japan,0.0,1
+1999,Laliga,Real Valladolid CF,summer,out,Júlio César,2943,20,Brazil,Centre-Back,CB,,Real Madrid,Spain,1800000.0,0
+1999,Laliga,Real Valladolid CF,summer,out,Diego Klimowicz,1424,24,Argentina,Centre-Forward,CF,,CA Lanús,Argentina,,0
+1999,Laliga,Real Valladolid CF,summer,out,Daniel Dutuel,168571,31,France,Central Midfield,CM,,AC Bellinzona,Switzerland,,0
+1999,Laliga,Real Valladolid CF,summer,out,Álvaro Gutiérrez,227721,30,Uruguay,Defensive Midfield,DM,,CA Bella Vista,Uruguay,,0
+1999,Laliga,Real Valladolid CF,summer,out,Emilio López,253991,21,Spain,Centre-Forward,CF,,Atlético Madrileño,Spain,,0
+1999,Laliga,Real Valladolid CF,summer,out,Raúl Ibáñez,187831,26,Spain,Right Winger,RW,,Puebla FC,Mexico,0.0,1
+1999,Laliga,Real Valladolid CF,summer,out,Agustín Elduayen,121089,34,Spain,Goalkeeper,GK,,Retired,,,0
+1999,Laliga,Real Valladolid CF,summer,out,Juan Carlos,178738,34,Spain,Left-Back,LB,,Retired,,,0
+1999,Laliga,Real Valladolid CF,winter,out,Raúl Ibáñez,187831,27,Spain,Right Winger,RW,,Elche CF,Spain,0.0,1
+1999,Laliga,Real Valladolid CF,winter,out,Luis García,7920,21,Spain,Right Winger,RW,,FC Barcelona,Spain,0.0,1
+1999,Laliga,Real Zaragoza,summer,in,Juanele,7943,28,Spain,Second Striker,SS,,CD Tenerife,Spain,420000.0,0
+1999,Laliga,Real Zaragoza,summer,in,Martín Vellisca,7982,27,Spain,Left Midfield,LM,,UD Salamanca,Spain,,0
+1999,Laliga,Real Zaragoza,summer,in,Marco Lanna,181054,30,Italy,Centre-Back,CB,,UD Salamanca,Spain,,0
+1999,Laliga,Real Zaragoza,summer,out,Kily González,7438,24,Argentina,Left Midfield,LM,,Valencia CF,Spain,2500000.0,0
+1999,Laliga,Real Zaragoza,summer,out,Gustavo López,7552,26,Argentina,Left Winger,LW,,Celta de Vigo,Spain,2400000.0,0
+1999,Laliga,Real Zaragoza,summer,out,Nordin Wooter,12090,22,Netherlands,Right Winger,RW,,Watford FC,England,1400000.0,0
+1999,Laliga,Real Zaragoza,summer,out,Javi Peña,253483,26,Spain,Centre-Forward,CF,,UE Lleida,Spain,0.0,0
+1999,Laliga,Real Zaragoza,summer,out,Gilmar,253989,28,Brazil,Centre-Back,CB,,Rayo Vallecano,Spain,,0
+1999,Laliga,Real Zaragoza,summer,out,Faryd Mondragón,6100,28,Colombia,Goalkeeper,GK,,CA Independiente,Argentina,0.0,1
+1999,Laliga,Sevilla FC,summer,in,Marcelo Otero,167632,28,Uruguay,Centre-Forward,CF,,Vicenza Calcio,Italy,6000000.0,0
+1999,Laliga,Sevilla FC,summer,in,Nicolás Olivera,53033,21,Uruguay,Second Striker,SS,,Valencia CF,Spain,2550000.0,0
+1999,Laliga,Sevilla FC,summer,in,Juanjo Valencia,29119,27,Spain,Goalkeeper,GK,,Athletic Bilbao,Spain,1200000.0,0
+1999,Laliga,Sevilla FC,summer,in,Bakero,58262,21,Portugal,Left Winger,LW,,UD Leiria,Portugal,1200000.0,0
+1999,Laliga,Sevilla FC,summer,in,Gabi Moya,173462,33,Spain,Midfielder,Midfielder,,RCD Mallorca,Spain,600000.0,0
+1999,Laliga,Sevilla FC,summer,in,Inti Podestá,7710,21,Uruguay,Defensive Midfield,DM,,Danubio FC,Uruguay,0.0,0
+1999,Laliga,Sevilla FC,summer,in,Marcelo Zalayeta,5767,20,Uruguay,Centre-Forward,CF,,Juventus FC,Italy,0.0,1
+1999,Laliga,Sevilla FC,summer,in,Ángel Rodríguez,71978,27,Spain,Defensive Midfield,DM,,CD Numancia,Spain,,0
+1999,Laliga,Sevilla FC,summer,in,Loren,138514,25,Spain,Centre-Forward,CF,,Atlético Madrileño,Spain,,0
+1999,Laliga,Sevilla FC,summer,in,Gerardo Rabadja,309537,31,Uruguay,Goalkeeper,GK,,Unknown,,,0
+1999,Laliga,Sevilla FC,summer,in,Fredi Lobeiras,7707,25,Spain,Left Midfield,LM,,Sporting Gijón,Spain,,0
+1999,Laliga,Sevilla FC,winter,in,Frode Olsen,26424,32,Norway,Goalkeeper,GK,,Stabæk Fotball,Norway,0.0,1
+1999,Laliga,Sevilla FC,winter,in,Adilson,90742,23,Brazil,Left-Back,LB,,Real Betis Balompié,Spain,,0
+1999,Laliga,Sevilla FC,summer,out,Juan Velasco,7546,22,Spain,Centre-Back,CB,,Celta de Vigo,Spain,6600000.0,0
+1999,Laliga,Sevilla FC,summer,out,Igor Gluscevic,4482,25,Montenegro,Centre-Forward,CF,,Aris Thessaloniki,Greece,0.0,0
+1999,Laliga,Sevilla FC,summer,out,Patri,580887,25,Spain,Midfielder,Midfielder,,CD Badajoz,Spain,0.0,1
+1999,Laliga,Sevilla FC,summer,out,Rachid Rokki,103670,24,Morocco,Centre-Forward,CF,,Albacete Balompié,Spain,,0
+1999,Laliga,Sevilla FC,summer,out,Dejan Vukicevic,608587,31,Montenegro,Midfielder,Midfielder,,Recreativo Huelva,Spain,,0
+1999,Laliga,Sevilla FC,summer,out,André-Joël Eboué,222082,25,Cameroon,Goalkeeper,GK,,O Elvas CAD,Portugal,,0
+1999,Laliga,Sevilla FC,summer,out,David Cordón,505317,23,Spain,Left-Back,LB,,Recreativo Huelva,Spain,,0
+1999,Laliga,Sevilla FC,summer,out,Gabi Correa,258056,31,Uruguay,Central Midfield,CM,,Hércules CF,Spain,,0
+1999,Laliga,Sevilla FC,summer,out,Jesús Galván,7836,24,Spain,Right-Back,RB,,Villarreal CF,Spain,,0
+1999,Laliga,Sevilla FC,summer,out,Sebastián Corona,27668,22,Spain,Centre-Back,CB,,Albacete Balompié,Spain,,0
+1999,Laliga,Sevilla FC,summer,out,Milorad Ratkovic,180262,34,Serbia,Left Midfield,LM,,Retired,,,0
+1999,Laliga,Sevilla FC,summer,out,Paco Leal,305202,34,Spain,Goalkeeper,GK,,Retired,,,0
+1999,Laliga,Sevilla FC,summer,out,Monchi,143304,30,Spain,Goalkeeper,GK,,Retired,,,0
+1999,Laliga,Sevilla FC,summer,out,David Cañas,27691,21,Spain,Centre-Back,CB,,Getafe CF,Spain,0.0,1
+1999,Laliga,Sevilla FC,summer,out,Nicolás Olivera,53033,21,Uruguay,Second Striker,SS,,Valencia CF,Spain,0.0,1
+1999,Laliga,Sevilla FC,winter,out,Miklos Molnar,102759,29,Denmark,Centre-Forward,CF,,Kansas City Wizards,United States,,0
+1999,Laliga,Sevilla FC,winter,out,Gerardo Rabadja,309537,32,Uruguay,Goalkeeper,GK,,Unknown,,,0
+1999,Laliga,Sevilla FC,winter,out,Juanjo Valencia,29119,28,Spain,Goalkeeper,GK,,Sporting Gijón,Spain,0.0,1
+1999,Laliga,Sevilla FC,winter,out,Fredi Lobeiras,7707,25,Spain,Left Midfield,LM,,CF Extremadura,Spain,0.0,1
+1999,Laliga,Valencia CF,summer,in,Óscar García,7897,26,Spain,Attacking Midfield,AM,,FC Barcelona,Spain,4800000.0,0
+1999,Laliga,Valencia CF,summer,in,Juan Sánchez,7585,27,Spain,Centre-Forward,CF,,Celta de Vigo,Spain,4200000.0,0
+1999,Laliga,Valencia CF,summer,in,Kily González,7438,24,Argentina,Left Midfield,LM,,Real Zaragoza,Spain,2500000.0,0
+1999,Laliga,Valencia CF,summer,in,Daniel Fagiani,27670,25,Argentina,Left-Back,LB,,CA Newell's Old Boys,Argentina,1800000.0,0
+1999,Laliga,Valencia CF,summer,in,Mauricio Pellegrino,7573,27,Argentina,Centre-Back,CB,,CA Vélez Sarsfield,Argentina,1200000.0,0
+1999,Laliga,Valencia CF,summer,in,Gerardo García,7783,24,Spain,Right-Back,RB,,Villarreal CF,Spain,216000.0,0
+1999,Laliga,Valencia CF,summer,in,Andrés Palop,7563,25,Spain,Goalkeeper,GK,,Villarreal CF,Spain,0.0,0
+1999,Laliga,Valencia CF,summer,out,Stefan Schwarz,4123,30,Sweden,Central Midfield,CM,,Sunderland AFC,England,6000000.0,0
+1999,Laliga,Valencia CF,summer,out,Cristiano Lucarelli,21408,23,Italy,Centre-Forward,CF,,US Lecce,Italy,4000000.0,0
+1999,Laliga,Valencia CF,summer,out,Nicolás Olivera,53033,21,Uruguay,Second Striker,SS,,Sevilla FC,Spain,2550000.0,0
+1999,Laliga,Valencia CF,summer,out,Juanfran,7542,22,Spain,Left-Back,LB,,Celta de Vigo,Spain,2000000.0,0
+1999,Laliga,Valencia CF,summer,out,Óscar Téllez,29078,24,Spain,Centre-Back,CB,,Deportivo Alavés,Spain,0.0,0
+1999,Laliga,Valencia CF,summer,out,Líbero Parri,8326,17,Spain,Attacking Midfield,AM,,Villarreal CF,Spain,0.0,1
+1999,Laliga,Valencia CF,summer,out,Curro Torres,7567,22,Spain,Right-Back,RB,,Recreativo Huelva,Spain,0.0,1
+1999,Laliga,Valencia CF,summer,out,Dennis Șerban,7581,23,Romania,Central Midfield,CM,,Villarreal CF,Spain,0.0,1
+1999,Laliga,Valencia CF,summer,out,Guillermo Morigi,290629,25,Argentina,Left Midfield,LM,,CA Vélez Sarsfield,Argentina,,0
+1999,Laliga,Valencia CF,summer,out,Gabriel Popescu,103222,25,Romania,Attacking Midfield,AM,,CD Numancia,Spain,,0
+1999,Laliga,Valencia CF,summer,out,Rubén Navarro,29107,20,Spain,Centre-Forward,CF,,CD Numancia,Spain,,0

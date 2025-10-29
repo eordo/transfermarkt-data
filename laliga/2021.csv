@@ -1,0 +1,495 @@
+season,league,club,window,movement,player_name,player_id,age,nationality,position,pos,market_value,dealing_club,dealing_country,fee,is_loan
+2021,Laliga,Athletic Bilbao,summer,in,Álex Petxarroman,527838,24,Spain,Right-Back,RB,800000.0,Real Sociedad B,Spain,0.0,0
+2021,Laliga,Athletic Bilbao,summer,out,Iago Herrerín,71570,33,Spain,Goalkeeper,GK,1000000.0,Al-Raed SFC,Saudi Arabia,0.0,0
+2021,Laliga,Athletic Bilbao,summer,out,Kenan Kodro,197126,28,Bosnia-Herzegovina,Centre-Forward,CF,1000000.0,Videoton FC Fehérvár,Hungary,0.0,0
+2021,Laliga,Athletic Bilbao,summer,out,Iñigo Vicente,335216,23,Spain,Left Winger,LW,1000000.0,CD Mirandés,Spain,0.0,1
+2021,Laliga,Athletic Bilbao,summer,out,Imanol García de Albéniz,626954,21,Spain,Left-Back,LB,150000.0,CD Mirandés,Spain,0.0,1
+2021,Laliga,Athletic Bilbao,summer,out,Unai López,192009,25,Spain,Central Midfield,CM,12000000.0,Rayo Vallecano,Spain,0.0,1
+2021,Laliga,Athletic Bilbao,summer,out,Iñigo Córdoba,251848,24,Spain,Left Winger,LW,2000000.0,Go Ahead Eagles,Netherlands,0.0,1
+2021,Laliga,Athletic Bilbao,summer,out,Ibai Gómez,127837,31,Spain,Left Winger,LW,1200000.0,Without Club,,,0
+2021,Laliga,Athletic Bilbao,winter,out,Jon Morcillo,455349,23,Spain,Left Winger,LW,4000000.0,Real Valladolid CF,Spain,0.0,1
+2021,Laliga,Athletic Bilbao,winter,out,Peru Nolaskoain,447052,23,Spain,Defensive Midfield,DM,2000000.0,SD Amorebieta,Spain,0.0,1
+2021,Laliga,Atlético de Madrid,summer,in,Matheus Cunha,517894,22,Brazil,Second Striker,SS,30000000.0,Hertha BSC,Germany,35000000.0,0
+2021,Laliga,Atlético de Madrid,summer,in,Rodrigo De Paul,255901,27,Argentina,Central Midfield,CM,38000000.0,Udinese Calcio,Italy,35000000.0,0
+2021,Laliga,Atlético de Madrid,summer,in,Antoine Griezmann,125781,30,France,Second Striker,SS,60000000.0,FC Barcelona,Spain,10000000.0,1
+2021,Laliga,Atlético de Madrid,summer,in,Marcos Paulo,612496,20,Portugal,Left Winger,LW,9000000.0,Fluminense Football Club,Brazil,0.0,0
+2021,Laliga,Atlético de Madrid,summer,in,Benjamin Lecomte,127181,30,France,Goalkeeper,GK,10000000.0,AS Monaco,France,0.0,1
+2021,Laliga,Atlético de Madrid,winter,in,Reinildo Mandava,240692,28,Mozambique,Left-Back,LB,10000000.0,LOSC Lille,France,3000000.0,0
+2021,Laliga,Atlético de Madrid,winter,in,Daniel Wass,63463,32,Denmark,Central Midfield,CM,6000000.0,Valencia CF,Spain,2700000.0,0
+2021,Laliga,Atlético de Madrid,summer,out,Saúl Ñíguez,148928,26,Spain,Central Midfield,CM,40000000.0,Chelsea FC,England,5000000.0,1
+2021,Laliga,Atlético de Madrid,summer,out,Nicolás Ibáñez,267753,26,Argentina,Centre-Forward,CF,4500000.0,CF Pachuca,Mexico,3000000.0,0
+2021,Laliga,Atlético de Madrid,summer,out,Javi Montero,396333,22,Spain,Centre-Back,CB,3700000.0,Besiktas JK,Türkiye,750000.0,0
+2021,Laliga,Atlético de Madrid,summer,out,Juan Manuel Sanabria,446106,21,Uruguay,Left-Back,LB,800000.0,Atlético de San Luis,Mexico,0.0,1
+2021,Laliga,Atlético de Madrid,summer,out,Borja Garcés,566036,22,Spain,Centre-Forward,CF,2700000.0,CD Leganés,Spain,0.0,1
+2021,Laliga,Atlético de Madrid,summer,out,Manu Sánchez,618809,20,Spain,Left-Back,LB,8000000.0,CA Osasuna,Spain,0.0,1
+2021,Laliga,Atlético de Madrid,summer,out,Ivo Grbic,226073,25,Croatia,Goalkeeper,GK,3500000.0,LOSC Lille,France,0.0,1
+2021,Laliga,Atlético de Madrid,summer,out,Marcos Paulo,612496,20,Portugal,Left Winger,LW,9000000.0,FC Famalicão,Portugal,0.0,1
+2021,Laliga,Atlético de Madrid,summer,out,Nehuén Pérez,491693,21,Argentina,Centre-Back,CB,4000000.0,Udinese Calcio,Italy,0.0,1
+2021,Laliga,Atlético de Madrid,summer,out,Santiago Arias,120443,29,Colombia,Right-Back,RB,6000000.0,Granada CF,Spain,0.0,1
+2021,Laliga,Atlético de Madrid,summer,out,Rodrigo Riquelme,461617,21,Spain,Left Winger,LW,1800000.0,CD Mirandés,Spain,0.0,1
+2021,Laliga,Atlético de Madrid,summer,out,Sergio Camello,505674,20,Spain,Centre-Forward,CF,2300000.0,CD Mirandés,Spain,0.0,1
+2021,Laliga,Atlético de Madrid,summer,out,Vitolo,67082,31,Spain,Left Winger,LW,4000000.0,Getafe CF,Spain,0.0,1
+2021,Laliga,Atlético de Madrid,summer,out,Axel Werner,236734,25,Argentina,Goalkeeper,GK,1500000.0,Without Club,,,0
+2021,Laliga,Atlético de Madrid,summer,out,Víctor Mollejo,505673,20,Spain,Right Winger,RW,3000000.0,CD Tenerife,Spain,0.0,1
+2021,Laliga,Atlético de Madrid,summer,out,Moussa Dembélé,229004,24,France,Centre-Forward,CF,20000000.0,Olympique Lyon,France,0.0,1
+2021,Laliga,Atlético de Madrid,summer,out,Lucas Torreira,318077,25,Uruguay,Defensive Midfield,DM,20000000.0,Arsenal FC,England,0.0,1
+2021,Laliga,Atlético de Madrid,winter,out,Kieran Trippier,95810,31,England,Right-Back,RB,18000000.0,Newcastle United,England,14000000.0,0
+2021,Laliga,Atlético de Madrid,winter,out,Ivan Saponjic,274347,24,Serbia,Centre-Forward,CF,800000.0,Slovan Bratislava,Slovakia,0.0,0
+2021,Laliga,CA Osasuna,summer,in,Ante Budimir,46413,29,Croatia,Centre-Forward,CF,9000000.0,RCD Mallorca,Spain,8000000.0,0
+2021,Laliga,CA Osasuna,summer,in,Jonás Ramalho,69660,28,Spain,Centre-Back,CB,1000000.0,Girona FC,Spain,700000.0,0
+2021,Laliga,CA Osasuna,summer,in,Kike García,93936,31,Spain,Centre-Forward,CF,2800000.0,SD Eibar,Spain,0.0,0
+2021,Laliga,CA Osasuna,summer,in,Jesús Areso,488626,21,Spain,Right-Back,RB,300000.0,Bilbao Athletic,Spain,0.0,0
+2021,Laliga,CA Osasuna,summer,in,Cote,87469,31,Spain,Left-Back,LB,1500000.0,SD Eibar,Spain,0.0,0
+2021,Laliga,CA Osasuna,summer,in,Javi Ontiveros,298983,23,Spain,Left Winger,LW,5000000.0,Villarreal CF,Spain,0.0,1
+2021,Laliga,CA Osasuna,summer,in,Manu Sánchez,618809,20,Spain,Left-Back,LB,8000000.0,Atlético de Madrid,Spain,0.0,1
+2021,Laliga,CA Osasuna,summer,out,Facundo Roncaglia,61546,34,Argentina,Centre-Back,CB,1000000.0,Aris Limassol,Cyprus,0.0,0
+2021,Laliga,CA Osasuna,summer,out,Enric Gallego,114060,34,Spain,Centre-Forward,CF,1000000.0,CD Tenerife,Spain,0.0,0
+2021,Laliga,CA Osasuna,summer,out,Rubén Martínez,8184,37,Spain,Goalkeeper,GK,500000.0,AEK Larnaca,Cyprus,0.0,0
+2021,Laliga,CA Osasuna,summer,out,Brandon Thomas,251680,26,Spain,Centre-Forward,CF,600000.0,Málaga CF,Spain,0.0,0
+2021,Laliga,CA Osasuna,summer,out,Marc Cardona,443222,26,Spain,Centre-Forward,CF,600000.0,Go Ahead Eagles,Netherlands,0.0,1
+2021,Laliga,CA Osasuna,summer,out,Kike Saverio,388519,22,Ecuador,Left Winger,LW,200000.0,SD Ponferradina,Spain,0.0,1
+2021,Laliga,CA Osasuna,summer,out,Adrián López,45383,33,Spain,Centre-Forward,CF,1200000.0,Without Club,,,0
+2021,Laliga,CA Osasuna,summer,out,Jonás Ramalho,69660,28,Spain,Centre-Back,CB,1000000.0,Girona FC,Spain,0.0,1
+2021,Laliga,CA Osasuna,summer,out,Manu Sánchez,618809,20,Spain,Left-Back,LB,8000000.0,Atlético de Madrid,Spain,0.0,1
+2021,Laliga,CA Osasuna,summer,out,Ante Budimir,46413,29,Croatia,Centre-Forward,CF,9000000.0,RCD Mallorca,Spain,0.0,1
+2021,Laliga,CA Osasuna,summer,out,Jony,228761,29,Spain,Left Winger,LW,2800000.0,SS Lazio,Italy,0.0,1
+2021,Laliga,CA Osasuna,summer,out,Jonathan Calleri,284727,27,Argentina,Centre-Forward,CF,5000000.0,Club Deportivo Maldonado,Uruguay,0.0,1
+2021,Laliga,CA Osasuna,winter,out,Jaume Grau,340864,24,Spain,Central Midfield,CM,800000.0,Real Zaragoza,Spain,0.0,0
+2021,Laliga,CA Osasuna,winter,out,Rober Ibáñez,242532,28,Spain,Right Winger,RW,500000.0,CD Leganés,Spain,0.0,1
+2021,Laliga,CA Osasuna,winter,out,Javi Ontiveros,298983,24,Spain,Left Winger,LW,3000000.0,Villarreal CF,Spain,0.0,1
+2021,Laliga,Celta de Vigo,summer,in,Franco Cervi,341110,27,Argentina,Left Winger,LW,5000000.0,SL Benfica,Portugal,5000000.0,0
+2021,Laliga,Celta de Vigo,summer,in,Javi Galán,448628,26,Spain,Left-Back,LB,6000000.0,SD Huesca,Spain,4000000.0,0
+2021,Laliga,Celta de Vigo,summer,in,Thiago Galhardo,186399,32,Brazil,Centre-Forward,CF,2500000.0,Sport Club Internacional,Brazil,600000.0,1
+2021,Laliga,Celta de Vigo,summer,in,Matías Dituro,144128,34,Argentina,Goalkeeper,GK,1000000.0,CD Universidad Católica,Chile,422000.0,1
+2021,Laliga,Celta de Vigo,summer,in,Jeison Murillo,131102,29,Colombia,Centre-Back,CB,7000000.0,UC Sampdoria,Italy,0.0,1
+2021,Laliga,Celta de Vigo,winter,in,Orbelín Pineda,334042,25,Mexico,Central Midfield,CM,9000000.0,CD Cruz Azul,Mexico,0.0,0
+2021,Laliga,Celta de Vigo,summer,out,Álvaro Vadillo,162074,26,Spain,Left Winger,LW,700000.0,RCD Espanyol Barcelona,Spain,1800000.0,0
+2021,Laliga,Celta de Vigo,summer,out,Jozabed Sánchez,207924,30,Spain,Central Midfield,CM,700000.0,Málaga CF,Spain,0.0,0
+2021,Laliga,Celta de Vigo,summer,out,Juan Hernández,349873,26,Spain,Left Winger,LW,400000.0,AD Alcorcón,Spain,0.0,0
+2021,Laliga,Celta de Vigo,summer,out,David Costas,276111,26,Spain,Centre-Back,CB,1200000.0,Real Oviedo,Spain,0.0,0
+2021,Laliga,Celta de Vigo,summer,out,David Juncà,164055,27,Spain,Left-Back,LB,700000.0,Girona FC,Spain,0.0,0
+2021,Laliga,Celta de Vigo,summer,out,Iván Villar,297194,24,Spain,Goalkeeper,GK,2500000.0,CD Leganés,Spain,0.0,1
+2021,Laliga,Celta de Vigo,summer,out,Emre Mor,283223,24,Türkiye,Right Winger,RW,700000.0,Fatih Karagümrük,Türkiye,0.0,1
+2021,Laliga,Celta de Vigo,summer,out,Sergio Carreira,545647,20,Spain,Right-Back,RB,1000000.0,CD Mirandés,Spain,0.0,1
+2021,Laliga,Celta de Vigo,summer,out,Gabriel Fernández,259930,27,Uruguay,Centre-Forward,CF,1000000.0,FC Juárez,Mexico,0.0,1
+2021,Laliga,Celta de Vigo,summer,out,Facundo Ferreyra,93795,30,Argentina,Centre-Forward,CF,2000000.0,Without Club,,,0
+2021,Laliga,Celta de Vigo,summer,out,Sergio Álvarez,45912,34,Spain,Goalkeeper,GK,,Retired,,,0
+2021,Laliga,Celta de Vigo,summer,out,Aarón Martín,251878,24,Spain,Left-Back,LB,4500000.0,1.FSV Mainz 05,Germany,0.0,1
+2021,Laliga,Celta de Vigo,summer,out,Jorge Sáenz,340339,24,Spain,Centre-Back,CB,1000000.0,Valencia CF,Spain,0.0,1
+2021,Laliga,Celta de Vigo,summer,out,Jeison Murillo,131102,29,Colombia,Centre-Back,CB,7000000.0,UC Sampdoria,Italy,0.0,1
+2021,Laliga,Celta de Vigo,winter,out,Miguel Baeza,523977,21,Spain,Attacking Midfield,AM,2000000.0,SD Ponferradina,Spain,0.0,1
+2021,Laliga,Celta de Vigo,winter,out,Okay Yokuşlu,137616,27,Türkiye,Defensive Midfield,DM,3500000.0,Getafe CF,Spain,0.0,1
+2021,Laliga,Cádiz CF,summer,in,Santiago Arzamendia,520947,23,Paraguay,Left-Back,LB,5000000.0,Club Cerro Porteño,Paraguay,2100000.0,0
+2021,Laliga,Cádiz CF,summer,in,Tomás Alarcón,454238,22,Chile,Defensive Midfield,DM,1500000.0,CD O'Higgins,Chile,2000000.0,0
+2021,Laliga,Cádiz CF,summer,in,Conan Ledesma,284342,28,Argentina,Goalkeeper,GK,5000000.0,CA Rosario Central,Argentina,1800000.0,0
+2021,Laliga,Cádiz CF,summer,in,Álvaro Jiménez,282406,25,Spain,Right Winger,RW,400000.0,Albacete Balompié,Spain,0.0,0
+2021,Laliga,Cádiz CF,summer,in,Varazdat Haroyan,155423,28,Armenia,Centre-Back,CB,900000.0,FC Astana,Kazakhstan,0.0,0
+2021,Laliga,Cádiz CF,summer,in,Martín Calderón,278404,22,Spain,Central Midfield,CM,300000.0,Real Madrid Castilla,Spain,0.0,0
+2021,Laliga,Cádiz CF,summer,in,Milutin Osmajic,542819,21,Montenegro,Centre-Forward,CF,175000.0,FK Sutjeska Niksic,Montenegro,,0
+2021,Laliga,Cádiz CF,summer,in,Rubén Sobrino,85383,29,Spain,Centre-Forward,CF,1500000.0,Valencia CF,Spain,,0
+2021,Laliga,Cádiz CF,summer,in,Víctor Chust,495625,21,Spain,Centre-Back,CB,400000.0,Real Madrid,Spain,0.0,1
+2021,Laliga,Cádiz CF,summer,in,Florin Andone,177065,28,Romania,Centre-Forward,CF,2000000.0,Brighton & Hove Albion,England,0.0,1
+2021,Laliga,Cádiz CF,winter,in,Lucas Pérez,73185,33,Spain,Centre-Forward,CF,2500000.0,Elche CF,Spain,200000.0,0
+2021,Laliga,Cádiz CF,winter,in,Luis Hernández,62945,32,Spain,Centre-Back,CB,250000.0,Maccabi Tel Aviv,Israel,0.0,0
+2021,Laliga,Cádiz CF,winter,in,Fede San Emeterio,307519,24,Spain,Central Midfield,CM,2000000.0,Real Valladolid CF,Spain,0.0,1
+2021,Laliga,Cádiz CF,winter,in,Rubén Alcaraz,247250,30,Spain,Central Midfield,CM,3000000.0,Real Valladolid CF,Spain,0.0,1
+2021,Laliga,Cádiz CF,winter,in,Oussama Idrissi,241391,25,Morocco,Left Winger,LW,7000000.0,Sevilla FC,Spain,0.0,1
+2021,Laliga,Cádiz CF,summer,out,Pedro Alcalá,51663,32,Spain,Centre-Back,CB,600000.0,FC Cartagena,Spain,0.0,0
+2021,Laliga,Cádiz CF,summer,out,Gaspar Panadero,251883,23,Spain,Left Winger,LW,300000.0,Qarabağ FK,Azerbaijan,0.0,0
+2021,Laliga,Cádiz CF,summer,out,José Matos,268957,26,Spain,Left-Back,LB,700000.0,Burgos CF,Spain,0.0,0
+2021,Laliga,Cádiz CF,summer,out,Dani Sotres,171170,28,Spain,Goalkeeper,GK,250000.0,Cultural Leonesa,Spain,0.0,0
+2021,Laliga,Cádiz CF,summer,out,Jean-Pierre Rhyner,203981,25,Peru,Centre-Back,CB,300000.0,Volos NPS,Greece,0.0,0
+2021,Laliga,Cádiz CF,summer,out,Sergio González,435500,24,Spain,Central Midfield,CM,500000.0,CD Tenerife,Spain,0.0,0
+2021,Laliga,Cádiz CF,summer,out,Caye Quintana,238471,27,Spain,Centre-Forward,CF,400000.0,Slask Wroclaw,Poland,0.0,0
+2021,Laliga,Cádiz CF,summer,out,Álvaro Giménez,57935,30,Spain,Centre-Forward,CF,1500000.0,Real Zaragoza,Spain,0.0,1
+2021,Laliga,Cádiz CF,summer,out,Nano Mesa,305956,26,Spain,Centre-Forward,CF,500000.0,Real Zaragoza,Spain,0.0,1
+2021,Laliga,Cádiz CF,summer,out,Jorge Pombo,336747,27,Spain,Attacking Midfield,AM,1000000.0,Real Oviedo,Spain,0.0,1
+2021,Laliga,Cádiz CF,summer,out,Augusto Fernández,39151,35,Argentina,Central Midfield,CM,300000.0,Retired,,,0
+2021,Laliga,Cádiz CF,summer,out,Filip Malbasic,162652,28,Serbia,Right Winger,RW,1200000.0,Without Club,,,0
+2021,Laliga,Cádiz CF,summer,out,Conan Ledesma,284342,28,Argentina,Goalkeeper,GK,5000000.0,CA Rosario Central,Argentina,0.0,1
+2021,Laliga,Cádiz CF,summer,out,Rubén Sobrino,85383,29,Spain,Centre-Forward,CF,1500000.0,Valencia CF,Spain,0.0,1
+2021,Laliga,Cádiz CF,summer,out,Ivan Saponjic,274347,23,Serbia,Centre-Forward,CF,1200000.0,Atlético de Madrid,Spain,0.0,1
+2021,Laliga,Cádiz CF,summer,out,Jairo Izquierdo,337946,27,Spain,Left-Back,LB,800000.0,Girona FC,Spain,0.0,1
+2021,Laliga,Cádiz CF,summer,out,David Mayoral,355629,24,Spain,Right Winger,RW,400000.0,CD Lugo,Spain,0.0,1
+2021,Laliga,Cádiz CF,winter,out,Marcos Mauro,247366,31,Argentina,Centre-Back,CB,1200000.0,FC Juárez,Mexico,0.0,0
+2021,Laliga,Cádiz CF,winter,out,Martín Calderón,278404,22,Spain,Central Midfield,CM,500000.0,CD Mirandés,Spain,0.0,1
+2021,Laliga,Cádiz CF,winter,out,Jon Ander Garrido,158704,32,Spain,Defensive Midfield,DM,400000.0,CD Mirandés,Spain,0.0,1
+2021,Laliga,Cádiz CF,winter,out,Álvaro Jiménez,282406,26,Spain,Right Winger,RW,600000.0,UD Ibiza,Spain,0.0,1
+2021,Laliga,Cádiz CF,winter,out,Milutin Osmajic,542819,22,Montenegro,Centre-Forward,CF,400000.0,Bandirmaspor,Türkiye,0.0,1
+2021,Laliga,Deportivo Alavés,summer,in,Mamadou Sylla,166683,27,Senegal,Centre-Forward,CF,1500000.0,Girona FC,Spain,1150000.0,0
+2021,Laliga,Deportivo Alavés,summer,in,Miguel de la Fuente,480883,21,Spain,Centre-Forward,CF,500000.0,Real Valladolid Promesas,Spain,0.0,0
+2021,Laliga,Deportivo Alavés,summer,in,Taichi Hara,495752,22,Japan,Centre-Forward,CF,1200000.0,NK Istra 1961,Croatia,0.0,0
+2021,Laliga,Deportivo Alavés,summer,in,Toni Moya,295065,23,Spain,Central Midfield,CM,400000.0,Atlético Madrileño,Spain,0.0,0
+2021,Laliga,Deportivo Alavés,summer,in,Florian Lejeune,127108,30,France,Centre-Back,CB,4500000.0,Newcastle United,England,,0
+2021,Laliga,Deportivo Alavés,summer,in,Matt Miazga,245893,26,United States,Centre-Back,CB,3000000.0,Chelsea FC,England,0.0,1
+2021,Laliga,Deportivo Alavés,summer,in,Iván Martín,341278,22,Spain,Attacking Midfield,AM,800000.0,Villarreal CF,Spain,0.0,1
+2021,Laliga,Deportivo Alavés,summer,in,Facundo Pellistri,676318,19,Uruguay,Right Winger,RW,6000000.0,Manchester United,England,0.0,1
+2021,Laliga,Deportivo Alavés,summer,in,Mamadou Loum,364237,24,Senegal,Defensive Midfield,DM,2500000.0,FC Porto,Portugal,0.0,1
+2021,Laliga,Deportivo Alavés,summer,in,Manu García,277118,23,Spain,Attacking Midfield,AM,4000000.0,Sporting Gijón,Spain,0.0,1
+2021,Laliga,Deportivo Alavés,winter,in,Nahuel Tenaglia,533568,25,Argentina,Right-Back,RB,5200000.0,CA Talleres,Argentina,450000.0,1
+2021,Laliga,Deportivo Alavés,winter,in,Jason Remeseiro,263860,27,Spain,Right Winger,RW,2500000.0,Valencia CF,Spain,0.0,0
+2021,Laliga,Deportivo Alavés,winter,in,Gonzalo Escalante,266795,28,Argentina,Central Midfield,CM,2000000.0,SS Lazio,Italy,0.0,1
+2021,Laliga,Deportivo Alavés,winter,in,Manu Vallejo,527350,24,Spain,Second Striker,SS,5000000.0,Valencia CF,Spain,0.0,1
+2021,Laliga,Deportivo Alavés,summer,out,Ramón Miérez,435022,24,Argentina,Centre-Forward,CF,5000000.0,NK Osijek,Croatia,2500000.0,0
+2021,Laliga,Deportivo Alavés,summer,out,Olivier Verdon,504125,25,Benin,Centre-Back,CB,1200000.0,Ludogorets Razgrad,Bulgaria,1000000.0,0
+2021,Laliga,Deportivo Alavés,summer,out,Rodrigo Ely,176140,27,Brazil,Centre-Back,CB,2200000.0,Nottingham Forest,England,0.0,0
+2021,Laliga,Deportivo Alavés,summer,out,Rafa Páez,268258,26,Spain,Centre-Back,CB,50000.0,Mar Menor FC,Spain,0.0,0
+2021,Laliga,Deportivo Alavés,summer,out,Manu García,76273,35,Spain,Central Midfield,CM,800000.0,Aris Limassol,Cyprus,0.0,0
+2021,Laliga,Deportivo Alavés,summer,out,Javi Muñoz,282421,26,Spain,Central Midfield,CM,700000.0,SD Eibar,Spain,0.0,0
+2021,Laliga,Deportivo Alavés,summer,out,Rafa Navarro,351746,27,Spain,Right-Back,RB,300000.0,NK Istra 1961,Croatia,0.0,0
+2021,Laliga,Deportivo Alavés,summer,out,Lucas Pérez,73185,32,Spain,Centre-Forward,CF,3000000.0,Elche CF,Spain,0.0,0
+2021,Laliga,Deportivo Alavés,summer,out,Taichi Hara,495752,22,Japan,Centre-Forward,CF,1200000.0,Sint-Truidense VV,Belgium,0.0,1
+2021,Laliga,Deportivo Alavés,summer,out,Carlos Isaac,396324,23,Spain,Right-Back,RB,200000.0,Real Oviedo,Spain,0.0,1
+2021,Laliga,Deportivo Alavés,summer,out,Borja Sainz,634461,20,Spain,Left Winger,LW,2000000.0,Real Zaragoza,Spain,0.0,1
+2021,Laliga,Deportivo Alavés,summer,out,José Luis Rodríguez,425028,23,Panama,Left Winger,LW,500000.0,Sporting Gijón,Spain,0.0,1
+2021,Laliga,Deportivo Alavés,summer,out,Fabrice Ondoa,220999,25,Cameroon,Goalkeeper,GK,250000.0,Without Club,,,0
+2021,Laliga,Deportivo Alavés,summer,out,Burgui,246277,27,Spain,Left Winger,LW,800000.0,Without Club,,,0
+2021,Laliga,Deportivo Alavés,summer,out,Jota Peleteiro,176591,30,Spain,Right Winger,RW,1800000.0,Retired,,,0
+2021,Laliga,Deportivo Alavés,summer,out,Rodrigo Battaglia,89297,29,Argentina,Defensive Midfield,DM,4000000.0,Sporting CP,Portugal,0.0,1
+2021,Laliga,Deportivo Alavés,summer,out,Iñigo Córdoba,251848,24,Spain,Left Winger,LW,2000000.0,Athletic Bilbao,Spain,0.0,1
+2021,Laliga,Deportivo Alavés,summer,out,Facundo Pellistri,676318,19,Uruguay,Right Winger,RW,6000000.0,Manchester United,England,0.0,1
+2021,Laliga,Deportivo Alavés,summer,out,Florian Lejeune,127108,30,France,Centre-Back,CB,4500000.0,Newcastle United,England,0.0,1
+2021,Laliga,Deportivo Alavés,winter,out,Tachi,354697,24,Spain,Centre-Back,CB,800000.0,CF Fuenlabrada,Spain,0.0,1
+2021,Laliga,Deportivo Alavés,winter,out,Mamadou Sylla,166683,27,Senegal,Centre-Forward,CF,1200000.0,Rayo Vallecano,Spain,0.0,1
+2021,Laliga,Deportivo Alavés,winter,out,Iván Martín,341278,22,Spain,Attacking Midfield,AM,800000.0,Villarreal CF,Spain,0.0,1
+2021,Laliga,Elche CF,summer,in,Iván Marcone,90451,31,Argentina,Defensive Midfield,DM,3000000.0,CA Boca Juniors,Argentina,4000000.0,0
+2021,Laliga,Elche CF,summer,in,Lucas Boyé,334222,25,Argentina,Centre-Forward,CF,3500000.0,Torino FC,Italy,3000000.0,0
+2021,Laliga,Elche CF,summer,in,Johan Mojica,262939,28,Colombia,Left-Back,LB,2000000.0,Girona FC,Spain,1200000.0,0
+2021,Laliga,Elche CF,summer,in,Gerard Gumbau,268670,26,Spain,Defensive Midfield,DM,1000000.0,Girona FC,Spain,0.0,0
+2021,Laliga,Elche CF,summer,in,Lucas Pérez,73185,32,Spain,Centre-Forward,CF,3000000.0,Deportivo Alavés,Spain,0.0,0
+2021,Laliga,Elche CF,summer,in,Enzo Roco,186862,28,Chile,Centre-Back,CB,2000000.0,Fatih Karagümrük,Türkiye,0.0,0
+2021,Laliga,Elche CF,summer,in,Omar Mascarell,142031,28,Equatorial Guinea,Defensive Midfield,DM,4500000.0,FC Schalke 04,Germany,0.0,0
+2021,Laliga,Elche CF,summer,in,Pedro Bigas,203043,31,Spain,Centre-Back,CB,1200000.0,SD Eibar,Spain,0.0,0
+2021,Laliga,Elche CF,summer,in,Darío Benedetto,92693,31,Argentina,Centre-Forward,CF,7000000.0,Olympique Marseille,France,0.0,1
+2021,Laliga,Elche CF,summer,in,Kiko Casilla,27486,34,Spain,Goalkeeper,GK,800000.0,Leeds United,England,0.0,1
+2021,Laliga,Elche CF,summer,in,Axel Werner,236734,25,Argentina,Goalkeeper,GK,1500000.0,Without Club,,,0
+2021,Laliga,Elche CF,summer,in,Javier Pastore,55215,32,Argentina,Attacking Midfield,AM,1500000.0,Without Club,,,0
+2021,Laliga,Elche CF,winter,in,Lucas Olaza,216240,27,Uruguay,Left-Back,LB,3000000.0,Real Valladolid CF,Spain,0.0,1
+2021,Laliga,Elche CF,winter,in,Kike Pérez,527698,24,Spain,Central Midfield,CM,1000000.0,Real Valladolid CF,Spain,0.0,1
+2021,Laliga,Elche CF,winter,in,Ezequiel Ponce,296783,24,Argentina,Centre-Forward,CF,7000000.0,Spartak Moscow,Russia,0.0,1
+2021,Laliga,Elche CF,summer,out,Dani Calvo,326416,27,Spain,Centre-Back,CB,1500000.0,Real Oviedo,Spain,0.0,0
+2021,Laliga,Elche CF,summer,out,Luismi Sánchez,207922,29,Spain,Defensive Midfield,DM,500000.0,Real Oviedo,Spain,0.0,0
+2021,Laliga,Elche CF,summer,out,Ramón Folch,286841,31,Spain,Central Midfield,CM,300000.0,CE Sabadell FC,Spain,0.0,0
+2021,Laliga,Elche CF,summer,out,Miguel Cifuentes,175836,30,Spain,Central Midfield,CM,600000.0,UD Ibiza,Spain,0.0,0
+2021,Laliga,Elche CF,summer,out,Nuke Mfulu,203516,27,DR Congo,Defensive Midfield,DM,800000.0,UD Las Palmas,Spain,0.0,0
+2021,Laliga,Elche CF,summer,out,Mourad El Ghezouani,527972,23,Morocco,Centre-Forward,CF,100000.0,CD Alcoyano,Spain,0.0,1
+2021,Laliga,Elche CF,summer,out,Manu Justo,593357,25,Spain,Centre-Forward,CF,250000.0,Racing Santander,Spain,0.0,1
+2021,Laliga,Elche CF,summer,out,José Salinas,819590,20,Spain,Left-Back,LB,,Unionistas CF,Spain,0.0,1
+2021,Laliga,Elche CF,summer,out,Víctor Rodríguez,129753,31,Spain,Attacking Midfield,AM,800000.0,Without Club,,,0
+2021,Laliga,Elche CF,summer,out,Nino,29178,41,Spain,Centre-Forward,CF,,Retired,,,0
+2021,Laliga,Elche CF,summer,out,Paulo Gazzaniga,195488,29,Argentina,Goalkeeper,GK,3000000.0,Tottenham Hotspur,England,0.0,1
+2021,Laliga,Elche CF,summer,out,Johan Mojica,262939,28,Colombia,Left-Back,LB,2000000.0,Girona FC,Spain,0.0,1
+2021,Laliga,Elche CF,summer,out,Iván Marcone,90451,31,Argentina,Defensive Midfield,DM,3000000.0,CA Boca Juniors,Argentina,0.0,1
+2021,Laliga,Elche CF,summer,out,Lucas Boyé,334222,25,Argentina,Centre-Forward,CF,3500000.0,Torino FC,Italy,0.0,1
+2021,Laliga,Elche CF,winter,out,Lucas Pérez,73185,33,Spain,Centre-Forward,CF,2500000.0,Cádiz CF,Spain,200000.0,0
+2021,Laliga,Elche CF,winter,out,Josema,255892,25,Spain,Centre-Back,CB,800000.0,Real Valladolid CF,Spain,0.0,1
+2021,Laliga,Elche CF,winter,out,Axel Werner,236734,25,Argentina,Goalkeeper,GK,900000.0,Arsenal FC,Argentina,0.0,1
+2021,Laliga,Elche CF,winter,out,Darío Benedetto,92693,31,Argentina,Centre-Forward,CF,3500000.0,Olympique Marseille,France,0.0,1
+2021,Laliga,FC Barcelona,summer,in,Emerson Royal,476344,22,Brazil,Right-Back,RB,25000000.0,Real Betis Balompié,Spain,14000000.0,0
+2021,Laliga,FC Barcelona,summer,in,Yusuf Demir,548031,18,Austria,Right Winger,RW,8000000.0,Rapid Vienna,Austria,500000.0,1
+2021,Laliga,FC Barcelona,summer,in,Sergio Agüero,26399,33,Argentina,Centre-Forward,CF,18000000.0,Manchester City,England,0.0,0
+2021,Laliga,FC Barcelona,summer,in,Eric García,466794,20,Spain,Centre-Back,CB,20000000.0,Manchester City,England,0.0,0
+2021,Laliga,FC Barcelona,summer,in,Memphis Depay,167850,27,Netherlands,Centre-Forward,CF,45000000.0,Olympique Lyon,France,0.0,0
+2021,Laliga,FC Barcelona,summer,in,Luuk de Jong,72522,31,Netherlands,Centre-Forward,CF,10000000.0,Sevilla FC,Spain,0.0,1
+2021,Laliga,FC Barcelona,winter,in,Ferran Torres,398184,21,Spain,Centre-Forward,CF,45000000.0,Manchester City,England,55000000.0,0
+2021,Laliga,FC Barcelona,winter,in,Pierre-Emerick Aubameyang,58864,32,Gabon,Centre-Forward,CF,15000000.0,Arsenal FC,England,0.0,0
+2021,Laliga,FC Barcelona,winter,in,Adama Traoré,204103,26,Spain,Right Winger,RW,28000000.0,Wolverhampton Wanderers,England,0.0,1
+2021,Laliga,FC Barcelona,winter,in,Dani Alves,15951,38,Brazil,Right-Back,RB,1000000.0,Without Club,,,0
+2021,Laliga,FC Barcelona,summer,out,Emerson Royal,476344,22,Brazil,Right-Back,RB,25000000.0,Tottenham Hotspur,England,25000000.0,0
+2021,Laliga,FC Barcelona,summer,out,Ilaix Moriba,617074,18,Guinea,Central Midfield,CM,25000000.0,RB Leipzig,Germany,16600000.000000002,0
+2021,Laliga,FC Barcelona,summer,out,Jean-Clair Todibo,605184,21,France,Centre-Back,CB,12000000.0,OGC Nice,France,16500000.0,0
+2021,Laliga,FC Barcelona,summer,out,Junior Firpo,374139,24,Dominican Republic,Left-Back,LB,8000000.0,Leeds United,England,15000000.0,0
+2021,Laliga,FC Barcelona,summer,out,Antoine Griezmann,125781,30,France,Second Striker,SS,60000000.0,Atlético de Madrid,Spain,10000000.0,1
+2021,Laliga,FC Barcelona,summer,out,Francisco Trincão,412669,21,Portugal,Right Winger,RW,22000000.0,Wolverhampton Wanderers,England,6000000.0,1
+2021,Laliga,FC Barcelona,summer,out,Carles Aleñá,284854,23,Spain,Central Midfield,CM,15000000.0,Getafe CF,Spain,5000000.0,0
+2021,Laliga,FC Barcelona,summer,out,Monchu,282727,21,Spain,Central Midfield,CM,4000000.0,Granada CF,Spain,750000.0,0
+2021,Laliga,FC Barcelona,summer,out,Rey Manaj,308278,24,Albania,Centre-Forward,CF,700000.0,Spezia Calcio,Italy,510000.0,1
+2021,Laliga,FC Barcelona,summer,out,Lionel Messi,28003,34,Argentina,Right Winger,RW,80000000.0,Paris Saint-Germain,France,0.0,0
+2021,Laliga,FC Barcelona,summer,out,Matheus Fernandes,351892,23,Brazil,Defensive Midfield,DM,1500000.0,Sociedade Esportiva Palmeiras,Brazil,0.0,0
+2021,Laliga,FC Barcelona,summer,out,Juan Miranda,341227,21,Spain,Left-Back,LB,7000000.0,Real Betis Balompié,Spain,0.0,0
+2021,Laliga,FC Barcelona,summer,out,Miralem Pjanić,44162,31,Bosnia-Herzegovina,Central Midfield,CM,20000000.0,Besiktas JK,Türkiye,0.0,1
+2021,Laliga,FC Barcelona,winter,out,Álex Collado,282722,22,Spain,Attacking Midfield,AM,3000000.0,Granada CF,Spain,0.0,1
+2021,Laliga,FC Barcelona,winter,out,Iñaki Peña,283170,22,Spain,Goalkeeper,GK,3000000.0,Galatasaray,Türkiye,0.0,1
+2021,Laliga,FC Barcelona,winter,out,Philippe Coutinho,80444,29,Brazil,Attacking Midfield,AM,18000000.0,Aston Villa,England,0.0,1
+2021,Laliga,FC Barcelona,winter,out,Sergio Agüero,26399,33,Argentina,Centre-Forward,CF,15000000.0,Retired,,,0
+2021,Laliga,FC Barcelona,winter,out,Yusuf Demir,548031,18,Austria,Right Winger,RW,10000000.0,Rapid Vienna,Austria,0.0,1
+2021,Laliga,Getafe CF,summer,in,Jakub Jankto,319160,25,Czech Republic,Left Midfield,LM,11000000.0,UC Sampdoria,Italy,5160000.0,0
+2021,Laliga,Getafe CF,summer,in,Carles Aleñá,284854,23,Spain,Central Midfield,CM,15000000.0,FC Barcelona,Spain,5000000.0,0
+2021,Laliga,Getafe CF,summer,in,Jonathan Silva,189453,27,Argentina,Left-Back,LB,1500000.0,CD Leganés,Spain,2500000.0,0
+2021,Laliga,Getafe CF,summer,in,Stefan Mitrovic,143029,31,Serbia,Centre-Back,CB,2200000.0,RC Strasbourg Alsace,France,1000000.0,0
+2021,Laliga,Getafe CF,summer,in,Sandro Ramírez,199369,26,Spain,Centre-Forward,CF,3500000.0,SD Huesca,Spain,1000000.0,1
+2021,Laliga,Getafe CF,summer,in,Diego Conde,341713,22,Spain,Goalkeeper,GK,300000.0,Atlético Madrileño,Spain,0.0,0
+2021,Laliga,Getafe CF,summer,in,Darío Poveda,399780,24,Spain,Centre-Forward,CF,400000.0,Atlético Madrileño,Spain,0.0,0
+2021,Laliga,Getafe CF,summer,in,Jorge Cuenca,494880,21,Spain,Centre-Back,CB,6000000.0,Villarreal CF,Spain,0.0,1
+2021,Laliga,Getafe CF,summer,in,Florentino,357162,22,Portugal,Defensive Midfield,DM,10000000.0,SL Benfica,Portugal,0.0,1
+2021,Laliga,Getafe CF,summer,in,José Juan Macías,546047,21,Mexico,Centre-Forward,CF,10000000.0,Deportivo Guadalajara,Mexico,0.0,1
+2021,Laliga,Getafe CF,summer,in,Vitolo,67082,31,Spain,Left Winger,LW,4000000.0,Atlético de Madrid,Spain,0.0,1
+2021,Laliga,Getafe CF,winter,in,Borja Mayoral,298976,24,Spain,Centre-Forward,CF,10000000.0,AS Roma,Italy,500000.0,1
+2021,Laliga,Getafe CF,winter,in,Gonzalo Villar,398163,23,Spain,Central Midfield,CM,10000000.0,AS Roma,Italy,0.0,1
+2021,Laliga,Getafe CF,winter,in,Óscar Rodríguez,284884,23,Spain,Attacking Midfield,AM,10000000.0,Sevilla FC,Spain,0.0,1
+2021,Laliga,Getafe CF,winter,in,Okay Yokuşlu,137616,27,Türkiye,Defensive Midfield,DM,3500000.0,Celta de Vigo,Spain,0.0,1
+2021,Laliga,Getafe CF,winter,in,Gastón Álvarez,577486,21,Uruguay,Centre-Back,CB,500000.0,CA Boston River,Uruguay,0.0,1
+2021,Laliga,Getafe CF,summer,out,Marc Cucurella,284857,23,Spain,Left-Back,LB,20000000.0,Brighton & Hove Albion,England,18000000.0,0
+2021,Laliga,Getafe CF,summer,out,Amath Ndiaye,339820,24,Senegal,Right Winger,RW,4000000.0,RCD Mallorca,Spain,3000000.0,0
+2021,Laliga,Getafe CF,summer,out,Ángel Rodríguez,51510,34,Spain,Centre-Forward,CF,3000000.0,RCD Mallorca,Spain,0.0,0
+2021,Laliga,Getafe CF,summer,out,Xabi Etxeita,71559,33,Spain,Centre-Back,CB,800000.0,SD Eibar,Spain,0.0,0
+2021,Laliga,Getafe CF,summer,out,Francisco Portillo,138803,31,Spain,Right Winger,RW,1200000.0,UD Almería,Spain,0.0,0
+2021,Laliga,Getafe CF,summer,out,Jack Harper,147524,25,Scotland,Centre-Forward,CF,500000.0,Racing Santander,Spain,0.0,1
+2021,Laliga,Getafe CF,summer,out,Ignasi Miquel,70245,28,Spain,Centre-Back,CB,1000000.0,SD Huesca,Spain,0.0,1
+2021,Laliga,Getafe CF,summer,out,Hugo Duro,573775,21,Spain,Centre-Forward,CF,5000000.0,Valencia CF,Spain,0.0,1
+2021,Laliga,Getafe CF,summer,out,Miguel Rubio,583510,23,Spain,Centre-Back,CB,150000.0,Burgos CF,Spain,0.0,1
+2021,Laliga,Getafe CF,summer,out,Cucho Hernández,459463,22,Colombia,Centre-Forward,CF,9000000.0,Watford FC,England,0.0,1
+2021,Laliga,Getafe CF,summer,out,Soufiane Chakla,236956,27,Morocco,Centre-Back,CB,800000.0,Villarreal CF,Spain,0.0,1
+2021,Laliga,Getafe CF,summer,out,Takefusa Kubo,405398,20,Japan,Right Winger,RW,15000000.0,Real Madrid,Spain,0.0,1
+2021,Laliga,Getafe CF,summer,out,Carles Aleñá,284854,23,Spain,Central Midfield,CM,15000000.0,FC Barcelona,Spain,0.0,1
+2021,Laliga,Getafe CF,summer,out,Darío Poveda,399780,24,Spain,Centre-Forward,CF,400000.0,Atlético Madrileño,Spain,0.0,1
+2021,Laliga,Getafe CF,winter,out,David Timor,158795,32,Spain,Defensive Midfield,DM,1200000.0,SD Huesca,Spain,0.0,0
+2021,Laliga,Getafe CF,winter,out,Allan Nyom,111508,33,Cameroon,Right-Back,RB,1500000.0,CD Leganés,Spain,0.0,0
+2021,Laliga,Getafe CF,winter,out,Chema Rodríguez,248330,29,Spain,Centre-Back,CB,800000.0,SD Eibar,Spain,0.0,1
+2021,Laliga,Getafe CF,winter,out,Darío Poveda,399780,24,Spain,Centre-Forward,CF,600000.0,SD Huesca,Spain,0.0,1
+2021,Laliga,Getafe CF,winter,out,José Juan Macías,546047,22,Mexico,Centre-Forward,CF,7000000.0,Deportivo Guadalajara,Mexico,0.0,1
+2021,Laliga,Granada CF,summer,in,Luís Maximiano,367464,22,Portugal,Goalkeeper,GK,5000000.0,Sporting CP,Portugal,5500000.0,0
+2021,Laliga,Granada CF,summer,in,Monchu,282727,21,Spain,Central Midfield,CM,4000000.0,FC Barcelona,Spain,750000.0,0
+2021,Laliga,Granada CF,summer,in,Ricard Sánchez,388545,21,Spain,Right-Back,RB,1500000.0,Atlético Madrileño,Spain,490000.0,0
+2021,Laliga,Granada CF,summer,in,Carlos Bacca,119235,34,Colombia,Centre-Forward,CF,1800000.0,Villarreal CF,Spain,0.0,0
+2021,Laliga,Granada CF,summer,in,Luis Abram,330684,25,Peru,Centre-Back,CB,6800000.0,CA Vélez Sarsfield,Argentina,0.0,0
+2021,Laliga,Granada CF,summer,in,Rubén Rochina,67548,30,Spain,Right Winger,RW,2800000.0,Levante UD,Spain,0.0,0
+2021,Laliga,Granada CF,summer,in,Alpha Diounkou,554175,19,Senegal,Right-Back,RB,250000.0,Manchester City U23,England,0.0,0
+2021,Laliga,Granada CF,summer,in,Sergio Escudero,93935,31,Spain,Left-Back,LB,2500000.0,Sevilla FC,Spain,0.0,0
+2021,Laliga,Granada CF,summer,in,Santiago Arias,120443,29,Colombia,Right-Back,RB,6000000.0,Atlético de Madrid,Spain,0.0,1
+2021,Laliga,Granada CF,winter,in,Matías Arezo,611426,19,Uruguay,Centre-Forward,CF,7000000.0,CA River Plate Montevideo,Uruguay,5700000.0,0
+2021,Laliga,Granada CF,winter,in,Myrto Uzuni,315289,26,Albania,Left Winger,LW,3500000.0,Ferencvárosi TC,Hungary,5100000.0,0
+2021,Laliga,Granada CF,winter,in,Njegos Petrovic,376588,22,Serbia,Defensive Midfield,DM,2500000.0,Red Star Belgrade,Serbia,1500000.0,0
+2021,Laliga,Granada CF,winter,in,Dani Raba,413262,26,Spain,Second Striker,SS,900000.0,Villarreal CF,Spain,0.0,0
+2021,Laliga,Granada CF,winter,in,Álex Collado,282722,22,Spain,Attacking Midfield,AM,3000000.0,FC Barcelona,Spain,0.0,1
+2021,Laliga,Granada CF,summer,out,Dimitri Foulquier,170472,28,Guadeloupe,Right-Back,RB,3500000.0,Valencia CF,Spain,2500000.0,0
+2021,Laliga,Granada CF,summer,out,Roberto Soldado,34870,36,Spain,Centre-Forward,CF,1200000.0,Levante UD,Spain,500000.0,0
+2021,Laliga,Granada CF,summer,out,Fede Vico,162079,27,Spain,Attacking Midfield,AM,1200000.0,CD Leganés,Spain,0.0,0
+2021,Laliga,Granada CF,summer,out,Rui Silva,234811,27,Portugal,Goalkeeper,GK,12000000.0,Real Betis Balompié,Spain,0.0,0
+2021,Laliga,Granada CF,summer,out,Ricard Sánchez,388545,21,Spain,Right-Back,RB,1500000.0,CD Lugo,Spain,0.0,1
+2021,Laliga,Granada CF,summer,out,Alpha Diounkou,554175,19,Senegal,Right-Back,RB,250000.0,San Fernando CD (-2025),Spain,0.0,1
+2021,Laliga,Granada CF,summer,out,Antoñín,610336,21,Spain,Centre-Forward,CF,1500000.0,Málaga CF,Spain,0.0,1
+2021,Laliga,Granada CF,summer,out,Adrián Marín,295414,24,Spain,Left-Back,LB,1200000.0,FC Famalicão,Portugal,0.0,1
+2021,Laliga,Granada CF,summer,out,Ramon Azeez,131667,28,Nigeria,Central Midfield,CM,800000.0,Without Club,,,0
+2021,Laliga,Granada CF,summer,out,Domingos Quina,391719,21,Portugal,Central Midfield,CM,3000000.0,Watford FC,England,0.0,1
+2021,Laliga,Granada CF,summer,out,Nehuén Pérez,491693,21,Argentina,Centre-Back,CB,4000000.0,Atlético de Madrid,Spain,0.0,1
+2021,Laliga,Granada CF,summer,out,Kenedy,281404,25,Brazil,Left Winger,LW,10000000.0,Chelsea FC,England,0.0,1
+2021,Laliga,Granada CF,summer,out,Yangel Herrera,378293,23,Venezuela,Central Midfield,CM,18000000.0,Manchester City,England,0.0,1
+2021,Laliga,Granada CF,summer,out,Jesús Vallejo,251896,24,Spain,Centre-Back,CB,5000000.0,Real Madrid,Spain,0.0,1
+2021,Laliga,Granada CF,winter,out,Luis Abram,330684,25,Peru,Centre-Back,CB,7000000.0,CD Cruz Azul,Mexico,0.0,1
+2021,Laliga,Granada CF,winter,out,Adrián Butzke,596884,22,Spain,Centre-Forward,CF,100000.0,FC Paços de Ferreira,Portugal,0.0,1
+2021,Laliga,Granada CF,winter,out,Alpha Diounkou,554175,20,Senegal,Right-Back,RB,300000.0,FC Barcelona B,Spain,0.0,1
+2021,Laliga,Granada CF,winter,out,Monchu,282727,22,Spain,Central Midfield,CM,3000000.0,Real Valladolid CF,Spain,0.0,1
+2021,Laliga,Levante UD,summer,in,Roberto Soldado,34870,36,Spain,Centre-Forward,CF,1200000.0,Granada CF,Spain,500000.0,0
+2021,Laliga,Levante UD,summer,in,Enric Franquesa,282700,24,Spain,Left-Back,LB,800000.0,Villarreal CF,Spain,375000.0,0
+2021,Laliga,Levante UD,summer,in,Roger Brugué,557057,24,Spain,Left Winger,LW,200000.0,Gimnàstic de Tarragona,Spain,0.0,0
+2021,Laliga,Levante UD,summer,in,Shkodran Mustafi,88590,29,Germany,Centre-Back,CB,2500000.0,Without Club,,,0
+2021,Laliga,Levante UD,winter,in,Martín Cáceres,54935,34,Uruguay,Centre-Back,CB,900000.0,Cagliari Calcio,Italy,0.0,0
+2021,Laliga,Levante UD,winter,in,Marcelo Saracchi,373916,23,Uruguay,Left-Back,LB,4500000.0,Without Club,,,0
+2021,Laliga,Levante UD,summer,out,Rubén Rochina,67548,30,Spain,Right Winger,RW,2800000.0,Granada CF,Spain,0.0,0
+2021,Laliga,Levante UD,summer,out,Toño García,125931,31,Spain,Left-Back,LB,800000.0,SD Eibar,Spain,0.0,0
+2021,Laliga,Levante UD,summer,out,Cheick Doukouré,129679,28,Cote d'Ivoire,Defensive Midfield,DM,600000.0,CD Leganés,Spain,0.0,0
+2021,Laliga,Levante UD,summer,out,Arturo Molina,337781,25,Spain,Attacking Midfield,AM,300000.0,CF Fuenlabrada,Spain,0.0,0
+2021,Laliga,Levante UD,summer,out,Sergio León,145769,32,Spain,Centre-Forward,CF,1200000.0,Real Valladolid CF,Spain,0.0,0
+2021,Laliga,Levante UD,summer,out,Roger Brugué,557057,24,Spain,Left Winger,LW,200000.0,CD Mirandés,Spain,0.0,1
+2021,Laliga,Levante UD,summer,out,Koke Vegas,299715,25,Spain,Goalkeeper,GK,500000.0,Without Club,,,0
+2021,Laliga,Levante UD,summer,out,Hernâni,172142,30,Portugal,Left Winger,LW,1200000.0,Without Club,,,0
+2021,Laliga,Levante UD,winter,out,Pablo Martínez,568835,23,Spain,Central Midfield,CM,1500000.0,SD Huesca,Spain,0.0,1
+2021,Laliga,Levante UD,winter,out,Álex Blesa,611198,20,Spain,Central Midfield,CM,300000.0,CD Castellón,Spain,0.0,1
+2021,Laliga,RCD Espanyol Barcelona,summer,in,Landry Dimata,311489,23,Belgium,Centre-Forward,CF,3000000.0,RSC Anderlecht,Belgium,2200000.0,0
+2021,Laliga,RCD Espanyol Barcelona,summer,in,Álvaro Vadillo,162074,26,Spain,Left Winger,LW,700000.0,Celta de Vigo,Spain,1800000.0,0
+2021,Laliga,RCD Espanyol Barcelona,summer,in,Sergi Gómez,92947,29,Spain,Centre-Back,CB,3000000.0,Sevilla FC,Spain,1000000.0,0
+2021,Laliga,RCD Espanyol Barcelona,summer,in,Miguel Llambrich,399775,25,Spain,Right-Back,RB,1600000.0,Villarreal CF,Spain,500000.0,0
+2021,Laliga,RCD Espanyol Barcelona,summer,in,Aleix Vidal,88490,31,Spain,Right Winger,RW,2000000.0,Sevilla FC,Spain,0.0,0
+2021,Laliga,RCD Espanyol Barcelona,summer,in,Manu Morlanes,335225,22,Spain,Central Midfield,CM,5000000.0,Villarreal CF,Spain,0.0,1
+2021,Laliga,RCD Espanyol Barcelona,summer,in,Loren Morón,354741,27,Spain,Centre-Forward,CF,9000000.0,Real Betis Balompié,Spain,0.0,1
+2021,Laliga,RCD Espanyol Barcelona,summer,in,Yangel Herrera,378293,23,Venezuela,Central Midfield,CM,18000000.0,Manchester City,England,0.0,1
+2021,Laliga,RCD Espanyol Barcelona,winter,in,Tonny Vilhena,182581,27,Netherlands,Central Midfield,CM,7500000.0,FC Krasnodar,Russia,500000.0,1
+2021,Laliga,RCD Espanyol Barcelona,summer,out,Lluís López,262391,24,Spain,Centre-Back,CB,800000.0,Real Zaragoza,Spain,0.0,0
+2021,Laliga,RCD Espanyol Barcelona,summer,out,Matías Vargas,376211,24,Argentina,Left Winger,LW,1800000.0,Adana Demirspor,Türkiye,0.0,1
+2021,Laliga,RCD Espanyol Barcelona,summer,out,Víctor Gómez,495601,21,Spain,Right-Back,RB,2500000.0,Málaga CF,Spain,0.0,1
+2021,Laliga,RCD Espanyol Barcelona,summer,out,Pol Lozano,412045,21,Spain,Central Midfield,CM,800000.0,Girona FC,Spain,0.0,1
+2021,Laliga,RCD Espanyol Barcelona,summer,out,Miguel Llambrich,399775,25,Spain,Right-Back,RB,1600000.0,Villarreal CF,Spain,0.0,1
+2021,Laliga,RCD Espanyol Barcelona,summer,out,Álvaro Vadillo,162074,26,Spain,Left Winger,LW,700000.0,Celta de Vigo,Spain,0.0,1
+2021,Laliga,RCD Espanyol Barcelona,summer,out,Landry Dimata,311489,23,Belgium,Centre-Forward,CF,3000000.0,RSC Anderlecht,Belgium,0.0,1
+2021,Laliga,RCD Espanyol Barcelona,winter,out,Álvaro Vadillo,162074,27,Spain,Left Winger,LW,1000000.0,Málaga CF,Spain,0.0,1
+2021,Laliga,RCD Mallorca,summer,in,Matthew Hoppe,678194,20,United States,Centre-Forward,CF,4500000.0,FC Schalke 04,Germany,3500000.0,0
+2021,Laliga,RCD Mallorca,summer,in,Amath Ndiaye,339820,24,Senegal,Right Winger,RW,4000000.0,Getafe CF,Spain,3000000.0,0
+2021,Laliga,RCD Mallorca,summer,in,Dominik Greif,316884,24,Slovakia,Goalkeeper,GK,1000000.0,Slovan Bratislava,Slovakia,2500000.0,0
+2021,Laliga,RCD Mallorca,summer,in,Pablo Maffeo,251876,23,Argentina,Right-Back,RB,3500000.0,VfB Stuttgart,Germany,500000.0,1
+2021,Laliga,RCD Mallorca,summer,in,Jaume Costa,65318,33,Spain,Left-Back,LB,2000000.0,Villarreal CF,Spain,0.0,0
+2021,Laliga,RCD Mallorca,summer,in,Kang-in Lee,557149,20,"Korea, South",Right Winger,RW,10000000.0,Valencia CF,Spain,0.0,0
+2021,Laliga,RCD Mallorca,summer,in,Ángel Rodríguez,51510,34,Spain,Centre-Forward,CF,3000000.0,Getafe CF,Spain,0.0,0
+2021,Laliga,RCD Mallorca,summer,in,Takefusa Kubo,405398,20,Japan,Right Winger,RW,15000000.0,Real Madrid,Spain,0.0,1
+2021,Laliga,RCD Mallorca,summer,in,Rodrigo Battaglia,89297,30,Argentina,Defensive Midfield,DM,4000000.0,Sporting CP,Portugal,0.0,1
+2021,Laliga,RCD Mallorca,summer,in,Fer Niño,627294,20,Spain,Centre-Forward,CF,3000000.0,Villarreal CF,Spain,0.0,1
+2021,Laliga,RCD Mallorca,winter,in,Vedat Muriqi,256267,27,Kosovo,Centre-Forward,CF,6000000.0,SS Lazio,Italy,500000.0,1
+2021,Laliga,RCD Mallorca,winter,in,Giovanni González,339699,27,Uruguay,Right-Back,RB,2000000.0,CA Peñarol,Uruguay,0.0,0
+2021,Laliga,RCD Mallorca,winter,in,Sergio Rico,207302,28,Spain,Goalkeeper,GK,5000000.0,Paris Saint-Germain,France,0.0,1
+2021,Laliga,RCD Mallorca,winter,in,Clément Grenier,72479,31,France,Central Midfield,CM,3000000.0,Without Club,,,0
+2021,Laliga,RCD Mallorca,summer,out,Ante Budimir,46413,29,Croatia,Centre-Forward,CF,9000000.0,CA Osasuna,Spain,8000000.0,0
+2021,Laliga,RCD Mallorca,summer,out,Stoichkov,271021,27,Spain,Second Striker,SS,1000000.0,SD Eibar,Spain,1000000.0,0
+2021,Laliga,RCD Mallorca,summer,out,Josep Señé,161267,29,Spain,Attacking Midfield,AM,400000.0,CD Lugo,Spain,0.0,0
+2021,Laliga,RCD Mallorca,summer,out,Pablo Valcarce,365313,28,Spain,Right Winger,RW,600000.0,Burgos CF,Spain,0.0,0
+2021,Laliga,RCD Mallorca,summer,out,Fran Gámez,442816,29,Spain,Right-Back,RB,500000.0,Real Zaragoza,Spain,0.0,0
+2021,Laliga,RCD Mallorca,summer,out,Enzo Lombardo,443290,24,Philippines,Left Winger,LW,400000.0,SD Huesca,Spain,0.0,0
+2021,Laliga,RCD Mallorca,summer,out,Igor Zlatanovic,343965,23,Serbia,Centre-Forward,CF,500000.0,Maccabi Netanya,Israel,0.0,0
+2021,Laliga,RCD Mallorca,summer,out,Miquel Parera,242301,25,Spain,Goalkeeper,GK,200000.0,Racing Santander,Spain,0.0,0
+2021,Laliga,RCD Mallorca,summer,out,Álex Alegría,178187,28,Spain,Centre-Forward,CF,500000.0,Burgos CF,Spain,0.0,1
+2021,Laliga,RCD Mallorca,summer,out,Braian Cufré,401521,24,Argentina,Left-Back,LB,3000000.0,Málaga CF,Spain,0.0,1
+2021,Laliga,RCD Mallorca,summer,out,Aleksandar Trajkovski,142920,28,North Macedonia,Left Winger,LW,400000.0,Aalborg BK,Denmark,0.0,1
+2021,Laliga,RCD Mallorca,summer,out,Álex López,166674,27,Spain,Centre-Forward,CF,300000.0,Without Club,,,0
+2021,Laliga,RCD Mallorca,summer,out,Murilo,345061,26,Brazil,Right Winger,RW,600000.0,SC Braga,Portugal,0.0,1
+2021,Laliga,RCD Mallorca,summer,out,Koke Vegas,299715,25,Spain,Goalkeeper,GK,500000.0,Levante UD,Spain,0.0,1
+2021,Laliga,RCD Mallorca,summer,out,Víctor Mollejo,505673,20,Spain,Right Winger,RW,3000000.0,Atlético de Madrid,Spain,0.0,1
+2021,Laliga,RCD Mallorca,summer,out,Álvaro Giménez,57935,30,Spain,Centre-Forward,CF,1500000.0,Cádiz CF,Spain,0.0,1
+2021,Laliga,RCD Mallorca,summer,out,Amath Ndiaye,339820,24,Senegal,Right Winger,RW,4000000.0,Getafe CF,Spain,0.0,1
+2021,Laliga,RCD Mallorca,summer,out,Marc Cardona,443222,25,Spain,Centre-Forward,CF,600000.0,CA Osasuna,Spain,0.0,1
+2021,Laliga,RCD Mallorca,winter,out,Aleksandar Trajkovski,142920,29,North Macedonia,Left Winger,LW,350000.0,Al-Fayha FC,Saudi Arabia,0.0,0
+2021,Laliga,RCD Mallorca,winter,out,Lago Júnior,100722,31,Cote d'Ivoire,Left Winger,LW,1400000.0,SD Huesca,Spain,0.0,1
+2021,Laliga,RCD Mallorca,winter,out,Aleix Febas,217144,25,Spain,Central Midfield,CM,1000000.0,Málaga CF,Spain,0.0,1
+2021,Laliga,RCD Mallorca,winter,out,Joan Sastre,350364,24,Spain,Right-Back,RB,1600000.0,PAOK Thessaloniki,Greece,0.0,1
+2021,Laliga,RCD Mallorca,winter,out,Jordi Mboula,331498,22,Spain,Right Winger,RW,1500000.0,GD Estoril Praia,Portugal,0.0,1
+2021,Laliga,Rayo Vallecano,summer,in,Fran García,341264,21,Spain,Left-Back,LB,3000000.0,Real Madrid Castilla,Spain,2000000.0,0
+2021,Laliga,Rayo Vallecano,summer,in,Randy Nteka,560483,23,Angola,Attacking Midfield,AM,1300000.0,CF Fuenlabrada,Spain,1300000.0,0
+2021,Laliga,Rayo Vallecano,summer,in,Pathé Ciss,525578,27,Senegal,Central Midfield,CM,800000.0,CF Fuenlabrada,Spain,1000000.0,0
+2021,Laliga,Rayo Vallecano,summer,in,Radamel Falcao,39152,35,Colombia,Centre-Forward,CF,2200000.0,Galatasaray,Türkiye,0.0,0
+2021,Laliga,Rayo Vallecano,summer,in,Iván Balliu,85295,29,Albania,Right-Back,RB,1000000.0,UD Almería,Spain,0.0,0
+2021,Laliga,Rayo Vallecano,summer,in,Unai López,192009,25,Spain,Central Midfield,CM,12000000.0,Athletic Bilbao,Spain,0.0,1
+2021,Laliga,Rayo Vallecano,summer,in,Kévin Rodrigues,206947,27,Portugal,Left-Back,LB,3500000.0,Real Sociedad,Spain,0.0,1
+2021,Laliga,Rayo Vallecano,summer,in,Martín Merquelanz,289272,26,Spain,Left Winger,LW,2000000.0,Real Sociedad,Spain,0.0,1
+2021,Laliga,Rayo Vallecano,summer,in,Nikola Maras,258475,25,Serbia,Centre-Back,CB,1500000.0,UD Almería,Spain,0.0,1
+2021,Laliga,Rayo Vallecano,summer,in,Sergi Guardiola,256429,30,Spain,Centre-Forward,CF,3000000.0,Real Valladolid CF,Spain,0.0,1
+2021,Laliga,Rayo Vallecano,summer,in,Iván Arboleda,260740,25,Colombia,Goalkeeper,GK,2500000.0,Without Club,,,0
+2021,Laliga,Rayo Vallecano,winter,in,Mamadou Sylla,166683,27,Senegal,Centre-Forward,CF,1200000.0,Deportivo Alavés,Spain,0.0,1
+2021,Laliga,Rayo Vallecano,summer,out,Luis Advíncula,103890,31,Peru,Right-Back,RB,1200000.0,CA Boca Juniors,Argentina,2200000.0,0
+2021,Laliga,Rayo Vallecano,summer,out,Miguel Ángel Guerrero,137704,31,Spain,Centre-Forward,CF,800000.0,UD Ibiza,Spain,0.0,0
+2021,Laliga,Rayo Vallecano,summer,out,Adri Carrasco,561384,24,Spain,Left Winger,LW,100000.0,Salamanca CF UDS,Spain,0.0,0
+2021,Laliga,Rayo Vallecano,summer,out,Emiliano Velázquez,189458,27,Uruguay,Centre-Back,CB,1000000.0,Santos FC,Brazil,0.0,0
+2021,Laliga,Rayo Vallecano,summer,out,Miguel Ángel Morro,607780,20,Spain,Goalkeeper,GK,600000.0,CF Fuenlabrada,Spain,0.0,1
+2021,Laliga,Rayo Vallecano,summer,out,Joni Montiel,343273,22,Spain,Attacking Midfield,AM,300000.0,Real Oviedo,Spain,0.0,1
+2021,Laliga,Rayo Vallecano,summer,out,Jorge Moreno,717957,20,Spain,Centre-Back,CB,,Cultural Leonesa,Spain,0.0,1
+2021,Laliga,Rayo Vallecano,summer,out,Leonardo Ulloa,54890,34,Argentina,Centre-Forward,CF,,Retired,,,0
+2021,Laliga,Rayo Vallecano,summer,out,Alberto García,58497,36,Spain,Goalkeeper,GK,100000.0,Retired,,,0
+2021,Laliga,Rayo Vallecano,summer,out,Martín Pascual,638588,21,Spain,Centre-Back,CB,400000.0,Villarreal CF B,Spain,0.0,1
+2021,Laliga,Rayo Vallecano,summer,out,Iván Martos,406773,24,Spain,Left-Back,LB,400000.0,UD Almería,Spain,0.0,1
+2021,Laliga,Rayo Vallecano,summer,out,Antoñín,610336,21,Spain,Centre-Forward,CF,1500000.0,Granada CF,Spain,0.0,1
+2021,Laliga,Rayo Vallecano,summer,out,Fran García,341264,21,Spain,Left-Back,LB,3000000.0,Real Madrid Castilla,Spain,0.0,1
+2021,Laliga,Rayo Vallecano,winter,out,Yacine Qasmi,93747,31,Morocco,Centre-Forward,CF,600000.0,CD Leganés,Spain,0.0,0
+2021,Laliga,Rayo Vallecano,winter,out,Lass Bangoura,182963,29,Guinea,Right Winger,RW,300000.0,PAS Lamia 1964,Greece,0.0,1
+2021,Laliga,Rayo Vallecano,winter,out,José Pozo,195605,25,Spain,Attacking Midfield,AM,1200000.0,Al-Ahli SC,Qatar,0.0,1
+2021,Laliga,Rayo Vallecano,winter,out,Sergio Moreno,607779,23,Spain,Centre-Forward,CF,400000.0,SD Amorebieta,Spain,0.0,1
+2021,Laliga,Rayo Vallecano,winter,out,Andrés Martín,531277,22,Spain,Right Winger,RW,1200000.0,CD Tenerife,Spain,0.0,1
+2021,Laliga,Rayo Vallecano,winter,out,Iván Arboleda,260740,25,Colombia,Goalkeeper,GK,2000000.0,CA Newell's Old Boys,Argentina,0.0,1
+2021,Laliga,Real Betis Balompié,summer,in,Germán Pezzella,113133,30,Argentina,Centre-Back,CB,7500000.0,ACF Fiorentina,Italy,3250000.0,0
+2021,Laliga,Real Betis Balompié,summer,in,Willian José,122155,29,Brazil,Centre-Forward,CF,18000000.0,Real Sociedad,Spain,960000.0,1
+2021,Laliga,Real Betis Balompié,summer,in,Juan Miranda,341227,21,Spain,Left-Back,LB,7000000.0,FC Barcelona,Spain,0.0,0
+2021,Laliga,Real Betis Balompié,summer,in,Youssouf Sabaly,135492,28,Senegal,Right-Back,RB,6500000.0,FC Girondins Bordeaux,France,0.0,0
+2021,Laliga,Real Betis Balompié,summer,in,Rui Silva,234811,27,Portugal,Goalkeeper,GK,12000000.0,Granada CF,Spain,0.0,0
+2021,Laliga,Real Betis Balompié,summer,in,Héctor Bellerín,191217,26,Spain,Right-Back,RB,25000000.0,Arsenal FC,England,0.0,1
+2021,Laliga,Real Betis Balompié,summer,out,Emerson Royal,476344,22,Brazil,Right-Back,RB,25000000.0,FC Barcelona,Spain,14000000.0,0
+2021,Laliga,Real Betis Balompié,summer,out,Aïssa Mandi,80293,29,Algeria,Centre-Back,CB,8000000.0,Villarreal CF,Spain,0.0,0
+2021,Laliga,Real Betis Balompié,summer,out,Dani Martín,335221,23,Spain,Goalkeeper,GK,3000000.0,Málaga CF,Spain,0.0,1
+2021,Laliga,Real Betis Balompié,summer,out,Loren Morón,354741,27,Spain,Centre-Forward,CF,9000000.0,RCD Espanyol Barcelona,Spain,0.0,1
+2021,Laliga,Real Betis Balompié,summer,out,Juan Miranda,341227,21,Spain,Left-Back,LB,7000000.0,FC Barcelona,Spain,0.0,1
+2021,Laliga,Real Betis Balompié,winter,out,Sidnei,27374,32,Brazil,Centre-Back,CB,2000000.0,Cruzeiro Esporte Clube,Brazil,0.0,0
+2021,Laliga,Real Betis Balompié,winter,out,Rober González,505675,21,Spain,Right Winger,RW,2000000.0,UD Las Palmas,Spain,0.0,1
+2021,Laliga,Real Madrid,summer,in,Eduardo Camavinga,640428,18,France,Central Midfield,CM,55000000.0,Stade Rennais FC,France,31000000.0,0
+2021,Laliga,Real Madrid,summer,in,David Alaba,59016,29,Austria,Centre-Back,CB,55000000.0,Bayern Munich,Germany,0.0,0
+2021,Laliga,Real Madrid,summer,out,Raphaël Varane,164770,28,France,Centre-Back,CB,70000000.0,Manchester United,England,40000000.0,0
+2021,Laliga,Real Madrid,summer,out,Martin Ødegaard,316264,22,Norway,Attacking Midfield,AM,40000000.0,Arsenal FC,England,35000000.0,0
+2021,Laliga,Real Madrid,summer,out,Brahim Díaz,314678,21,Morocco,Right Winger,RW,15000000.0,AC Milan,Italy,3000000.0,1
+2021,Laliga,Real Madrid,summer,out,Sergio Ramos,25557,35,Spain,Centre-Back,CB,10000000.0,Paris Saint-Germain,France,0.0,0
+2021,Laliga,Real Madrid,summer,out,Víctor Chust,495625,21,Spain,Centre-Back,CB,400000.0,Cádiz CF,Spain,0.0,1
+2021,Laliga,Real Madrid,summer,out,Takefusa Kubo,405398,20,Japan,Right Winger,RW,15000000.0,RCD Mallorca,Spain,0.0,1
+2021,Laliga,Real Madrid,summer,out,Álvaro Odriozola,280730,25,Spain,Right-Back,RB,10000000.0,ACF Fiorentina,Italy,0.0,1
+2021,Laliga,Real Sociedad,summer,in,Alexander Sørloth,238407,25,Norway,Centre-Forward,CF,16000000.0,RB Leipzig,Germany,2000000.0,1
+2021,Laliga,Real Sociedad,summer,in,Diego Rico,249513,28,Spain,Left-Back,LB,4500000.0,AFC Bournemouth,England,500000.0,0
+2021,Laliga,Real Sociedad,summer,in,Mathew Ryan,128969,29,Australia,Goalkeeper,GK,6000000.0,Brighton & Hove Albion,England,0.0,0
+2021,Laliga,Real Sociedad,winter,in,Rafinha,129473,28,Brazil,Attacking Midfield,AM,12000000.0,Paris Saint-Germain,France,0.0,1
+2021,Laliga,Real Sociedad,summer,out,Willian José,122155,29,Brazil,Centre-Forward,CF,18000000.0,Real Betis Balompié,Spain,960000.0,1
+2021,Laliga,Real Sociedad,summer,out,Martín Merquelanz,289272,26,Spain,Left Winger,LW,2000000.0,Rayo Vallecano,Spain,0.0,1
+2021,Laliga,Real Sociedad,summer,out,Kévin Rodrigues,206947,27,Portugal,Left-Back,LB,3500000.0,Rayo Vallecano,Spain,0.0,1
+2021,Laliga,Real Sociedad,summer,out,Jon Bautista,289236,26,Spain,Centre-Forward,CF,1200000.0,CD Leganés,Spain,0.0,1
+2021,Laliga,Real Sociedad,summer,out,Modibo Sagnan,524925,22,Mali,Centre-Back,CB,3000000.0,CD Tondela,Portugal,0.0,1
+2021,Laliga,Real Sociedad,summer,out,Miguel Ángel Moyá,26065,37,Spain,Goalkeeper,GK,,Retired,,,0
+2021,Laliga,Sevilla FC,summer,in,Rafa Mir,361254,24,Spain,Centre-Forward,CF,12000000.0,Wolverhampton Wanderers,England,16000000.0,0
+2021,Laliga,Sevilla FC,summer,in,Gonzalo Montiel,402733,24,Argentina,Right-Back,RB,17000000.0,CA River Plate,Argentina,11000000.0,0
+2021,Laliga,Sevilla FC,summer,in,Thomas Delaney,91849,29,Denmark,Central Midfield,CM,15000000.0,Borussia Dortmund,Germany,6000000.0,0
+2021,Laliga,Sevilla FC,summer,in,Ludwig Augustinsson,170646,27,Sweden,Left-Back,LB,10000000.0,SV Werder Bremen,Germany,5500000.0,0
+2021,Laliga,Sevilla FC,summer,in,Erik Lamela,111630,29,Argentina,Right Winger,RW,16000000.0,Tottenham Hotspur,England,0.0,0
+2021,Laliga,Sevilla FC,summer,in,Marko Dmitrovic,94308,29,Serbia,Goalkeeper,GK,8000000.0,SD Eibar,Spain,0.0,0
+2021,Laliga,Sevilla FC,winter,in,Jesús Corona,125165,29,Mexico,Right Winger,RW,22000000.0,FC Porto,Portugal,3000000.0,0
+2021,Laliga,Sevilla FC,winter,in,Anthony Martial,182877,26,France,Centre-Forward,CF,32000000.0,Manchester United,England,0.0,1
+2021,Laliga,Sevilla FC,summer,out,Bryan Gil,537382,20,Spain,Left Winger,LW,30000000.0,Tottenham Hotspur,England,25000000.0,0
+2021,Laliga,Sevilla FC,summer,out,Guilherme Arana,346766,24,Brazil,Left-Back,LB,5500000.0,Clube Atlético Mineiro,Brazil,2500000.0,0
+2021,Laliga,Sevilla FC,summer,out,Sergi Gómez,92947,29,Spain,Centre-Back,CB,3000000.0,RCD Espanyol Barcelona,Spain,1000000.0,0
+2021,Laliga,Sevilla FC,summer,out,Franco Vázquez,76163,32,Argentina,Attacking Midfield,AM,4000000.0,Parma Calcio 1913,Italy,0.0,0
+2021,Laliga,Sevilla FC,summer,out,Sergio Escudero,93935,31,Spain,Left-Back,LB,2500000.0,Granada CF,Spain,0.0,0
+2021,Laliga,Sevilla FC,summer,out,Aleix Vidal,88490,31,Spain,Right Winger,RW,2000000.0,RCD Espanyol Barcelona,Spain,0.0,0
+2021,Laliga,Sevilla FC,summer,out,José Alonso Lara,461858,21,Spain,Left Winger,LW,500000.0,Betis Deportivo Balompié,Spain,0.0,0
+2021,Laliga,Sevilla FC,summer,out,Juan Soriano,251892,23,Spain,Goalkeeper,GK,1000000.0,CD Tenerife,Spain,0.0,0
+2021,Laliga,Sevilla FC,summer,out,Tomáš Vaclík,64000,32,Czech Republic,Goalkeeper,GK,4000000.0,Olympiacos Piraeus,Greece,0.0,0
+2021,Laliga,Sevilla FC,summer,out,Luuk de Jong,72522,31,Netherlands,Centre-Forward,CF,10000000.0,FC Barcelona,Spain,0.0,1
+2021,Laliga,Sevilla FC,summer,out,Juan Berrocal,461843,22,Spain,Centre-Back,CB,1500000.0,Sporting Gijón,Spain,0.0,1
+2021,Laliga,Sevilla FC,summer,out,Rony Lopes,174694,25,Portugal,Right Winger,RW,7000000.0,Olympiacos Piraeus,Greece,0.0,1
+2021,Laliga,Sevilla FC,summer,out,Álex Pozo,341272,22,Spain,Right-Back,RB,4000000.0,UD Almería,Spain,0.0,1
+2021,Laliga,Sevilla FC,summer,out,Joris Gnagnon,378954,24,France,Centre-Back,CB,1500000.0,Without Club,,,0
+2021,Laliga,Sevilla FC,winter,out,Ibrahim Amadou,205503,28,France,Defensive Midfield,DM,2500000.0,FC Metz,France,0.0,0
+2021,Laliga,Sevilla FC,winter,out,Óscar Rodríguez,284884,23,Spain,Attacking Midfield,AM,10000000.0,Getafe CF,Spain,0.0,1
+2021,Laliga,Sevilla FC,winter,out,Oussama Idrissi,241391,25,Morocco,Left Winger,LW,7000000.0,Cádiz CF,Spain,0.0,1
+2021,Laliga,Valencia CF,summer,in,Marcos André,481084,24,Brazil,Centre-Forward,CF,3500000.0,Real Valladolid CF,Spain,8500000.0,0
+2021,Laliga,Valencia CF,summer,in,Dimitri Foulquier,170472,28,Guadeloupe,Right-Back,RB,3500000.0,Granada CF,Spain,2500000.0,0
+2021,Laliga,Valencia CF,summer,in,Giorgi Mamardashvili,502676,20,Georgia,Goalkeeper,GK,800000.0,Dinamo Tbilisi,Georgia,200000.0,1
+2021,Laliga,Valencia CF,summer,in,Omar Alderete,353032,24,Paraguay,Centre-Back,CB,4500000.0,Hertha BSC,Germany,0.0,1
+2021,Laliga,Valencia CF,summer,in,Hugo Duro,573775,21,Spain,Centre-Forward,CF,5000000.0,Getafe CF,Spain,0.0,1
+2021,Laliga,Valencia CF,summer,in,Hélder Costa,173900,27,Angola,Right Winger,RW,10000000.0,Leeds United,England,0.0,1
+2021,Laliga,Valencia CF,winter,in,Giorgi Mamardashvili,502676,21,Georgia,Goalkeeper,GK,3000000.0,Dinamo Tbilisi,Georgia,3850000.0,0
+2021,Laliga,Valencia CF,winter,in,Eray Cömert,298583,23,Switzerland,Centre-Back,CB,1800000.0,FC Basel 1893,Switzerland,800000.0,0
+2021,Laliga,Valencia CF,winter,in,Bryan Gil,537382,20,Spain,Left Winger,LW,28000000.0,Tottenham Hotspur,England,500000.0,1
+2021,Laliga,Valencia CF,winter,in,Ilaix Moriba,617074,19,Guinea,Central Midfield,CM,20000000.0,RB Leipzig,Germany,0.0,1
+2021,Laliga,Valencia CF,summer,out,Javi Jiménez,251860,24,Spain,Centre-Back,CB,200000.0,Albacete Balompié,Spain,0.0,0
+2021,Laliga,Valencia CF,summer,out,Kévin Gameiro,27389,34,France,Centre-Forward,CF,3000000.0,RC Strasbourg Alsace,France,0.0,0
+2021,Laliga,Valencia CF,summer,out,Kang-in Lee,557149,20,"Korea, South",Right Winger,RW,10000000.0,RCD Mallorca,Spain,0.0,0
+2021,Laliga,Valencia CF,summer,out,Rubén Sobrino,85383,29,Spain,Centre-Forward,CF,1500000.0,Cádiz CF,Spain,,0
+2021,Laliga,Valencia CF,summer,out,Jorge Sáenz,340339,24,Spain,Centre-Back,CB,1000000.0,CS Marítimo,Portugal,0.0,1
+2021,Laliga,Valencia CF,summer,out,Eliaquim Mangala,90681,30,France,Centre-Back,CB,2500000.0,Without Club,,,0
+2021,Laliga,Valencia CF,summer,out,Patrick Cutrone,265078,23,Italy,Centre-Forward,CF,9000000.0,Wolverhampton Wanderers,England,0.0,1
+2021,Laliga,Valencia CF,summer,out,Ferro,294321,24,Portugal,Centre-Back,CB,5000000.0,SL Benfica,Portugal,0.0,1
+2021,Laliga,Valencia CF,summer,out,Christian Oliva,563812,25,Uruguay,Defensive Midfield,DM,4000000.0,Cagliari Calcio,Italy,0.0,1
+2021,Laliga,Valencia CF,winter,out,Daniel Wass,63463,32,Denmark,Central Midfield,CM,6000000.0,Atlético de Madrid,Spain,2700000.0,0
+2021,Laliga,Valencia CF,winter,out,Jason Remeseiro,263860,27,Spain,Right Winger,RW,2500000.0,Deportivo Alavés,Spain,0.0,0
+2021,Laliga,Valencia CF,winter,out,Cristiano Piccini,163086,29,Italy,Centre-Back,CB,1500000.0,Red Star Belgrade,Serbia,0.0,0
+2021,Laliga,Valencia CF,winter,out,Álex Blanco,328914,23,Spain,Left Winger,LW,1200000.0,Como 1907,Italy,0.0,0
+2021,Laliga,Valencia CF,winter,out,Cristian Rivero,398131,23,Spain,Goalkeeper,GK,300000.0,AD Alcorcón,Spain,0.0,1
+2021,Laliga,Valencia CF,winter,out,Jorge Sáenz,340339,25,Spain,Centre-Back,CB,700000.0,CD Mirandés,Spain,0.0,1
+2021,Laliga,Valencia CF,winter,out,Manu Vallejo,527350,24,Spain,Second Striker,SS,5000000.0,Deportivo Alavés,Spain,0.0,1
+2021,Laliga,Villarreal CF,summer,in,Arnaut Danjuma,355861,24,Netherlands,Left Winger,LW,15000000.0,AFC Bournemouth,England,23500000.0,0
+2021,Laliga,Villarreal CF,summer,in,Juan Foyth,480763,23,Argentina,Centre-Back,CB,12000000.0,Tottenham Hotspur,England,15000000.0,0
+2021,Laliga,Villarreal CF,summer,in,Boulaye Dia,626913,24,Senegal,Centre-Forward,CF,14000000.0,Stade Reims,France,12000000.0,0
+2021,Laliga,Villarreal CF,summer,in,Manu Morlanes,335225,22,Spain,Central Midfield,CM,5000000.0,UD Almería,Spain,4000000.0,0
+2021,Laliga,Villarreal CF,summer,in,Aïssa Mandi,80293,29,Algeria,Centre-Back,CB,8000000.0,Real Betis Balompié,Spain,0.0,0
+2021,Laliga,Villarreal CF,summer,in,Serge Aurier,127032,28,Cote d'Ivoire,Right-Back,RB,20000000.0,Without Club,,,0
+2021,Laliga,Villarreal CF,winter,in,Giovani Lo Celso,348795,25,Argentina,Attacking Midfield,AM,22000000.0,Tottenham Hotspur,England,0.0,1
+2021,Laliga,Villarreal CF,summer,out,Manu Morlanes,335225,22,Spain,Central Midfield,CM,5000000.0,UD Almería,Spain,3000000.0,0
+2021,Laliga,Villarreal CF,summer,out,Ramiro Funes Mori,11111,30,Argentina,Centre-Back,CB,2000000.0,Al-Nassr FC,Saudi Arabia,2500000.0,0
+2021,Laliga,Villarreal CF,summer,out,Mario González,255995,25,Spain,Centre-Forward,CF,3000000.0,SC Braga,Portugal,1470000.0,0
+2021,Laliga,Villarreal CF,summer,out,Miguel Llambrich,399775,25,Spain,Right-Back,RB,1600000.0,RCD Espanyol Barcelona,Spain,500000.0,0
+2021,Laliga,Villarreal CF,summer,out,Enric Franquesa,282700,24,Spain,Left-Back,LB,800000.0,Levante UD,Spain,375000.0,0
+2021,Laliga,Villarreal CF,summer,out,Soufiane Chakla,236956,27,Morocco,Centre-Back,CB,800000.0,Oud-Heverlee Leuven,Belgium,0.0,0
+2021,Laliga,Villarreal CF,summer,out,Andrei Rațiu,527966,23,Romania,Right-Back,RB,300000.0,SD Huesca,Spain,0.0,0
+2021,Laliga,Villarreal CF,summer,out,Carlos Bacca,119235,34,Colombia,Centre-Forward,CF,1800000.0,Granada CF,Spain,0.0,0
+2021,Laliga,Villarreal CF,summer,out,Jaume Costa,65318,33,Spain,Left-Back,LB,2000000.0,RCD Mallorca,Spain,0.0,0
+2021,Laliga,Villarreal CF,summer,out,Iván Martín,341278,22,Spain,Attacking Midfield,AM,800000.0,Deportivo Alavés,Spain,0.0,1
+2021,Laliga,Villarreal CF,summer,out,Xavi Quintillà,204102,24,Spain,Left-Back,LB,2800000.0,CD Leganés,Spain,0.0,1
+2021,Laliga,Villarreal CF,summer,out,Álex Millán,412041,21,Spain,Centre-Forward,CF,300000.0,Cercle Brugge ,Belgium,0.0,1
+2021,Laliga,Villarreal CF,summer,out,Manu Morlanes,335225,22,Spain,Central Midfield,CM,5000000.0,RCD Espanyol Barcelona,Spain,0.0,1
+2021,Laliga,Villarreal CF,summer,out,Fer Niño,627294,20,Spain,Centre-Forward,CF,3000000.0,RCD Mallorca,Spain,0.0,1
+2021,Laliga,Villarreal CF,summer,out,Javi Ontiveros,298983,23,Spain,Left Winger,LW,5000000.0,CA Osasuna,Spain,0.0,1
+2021,Laliga,Villarreal CF,summer,out,Jorge Cuenca,494880,21,Spain,Centre-Back,CB,6000000.0,Getafe CF,Spain,0.0,1
+2021,Laliga,Villarreal CF,summer,out,Juan Foyth,480763,23,Argentina,Centre-Back,CB,12000000.0,Tottenham Hotspur,England,0.0,1
+2021,Laliga,Villarreal CF,winter,out,Santiago Cáseres,466298,24,Argentina,Defensive Midfield,DM,5000000.0,CA Vélez Sarsfield,Argentina,2500000.0,0
+2021,Laliga,Villarreal CF,winter,out,Dani Raba,413262,26,Spain,Second Striker,SS,900000.0,Granada CF,Spain,0.0,0
+2021,Laliga,Villarreal CF,winter,out,Iván Martín,341278,22,Spain,Attacking Midfield,AM,800000.0,Girona FC,Spain,0.0,1
+2021,Laliga,Villarreal CF,winter,out,Álex Millán,412041,22,Spain,Centre-Forward,CF,700000.0,Union Saint-Gilloise,Belgium,0.0,1
+2021,Laliga,Villarreal CF,winter,out,Javi Ontiveros,298983,24,Spain,Left Winger,LW,3000000.0,CF Fuenlabrada,Spain,0.0,1

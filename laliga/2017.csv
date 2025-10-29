@@ -1,0 +1,602 @@
+season,league,club,window,movement,player_name,player_id,age,nationality,position,pos,market_value,dealing_club,dealing_country,fee,is_loan
+2017,Laliga,Athletic Bilbao,winter,in,Iñigo Martínez,158863,26,Spain,Centre-Back,CB,25000000.0,Real Sociedad,Spain,32000000.0,0
+2017,Laliga,Athletic Bilbao,summer,out,Gorka Iraizoz,7874,36,Spain,Goalkeeper,GK,500000.0,Girona FC,Spain,0.0,0
+2017,Laliga,Athletic Bilbao,summer,out,Gorka Elustondo,47647,30,Spain,Defensive Midfield,DM,1000000.0,Atlético Nacional,Colombia,0.0,0
+2017,Laliga,Athletic Bilbao,summer,out,Javi Eraso,156814,27,Spain,Central Midfield,CM,1500000.0,CD Leganés,Spain,0.0,0
+2017,Laliga,Athletic Bilbao,summer,out,Urtzi Iriondo,255499,22,Spain,Left-Back,LB,300000.0,Granada CF,Spain,0.0,1
+2017,Laliga,Athletic Bilbao,summer,out,Álex Remiro,212862,22,Spain,Goalkeeper,GK,600000.0,SD Huesca,Spain,0.0,1
+2017,Laliga,Athletic Bilbao,summer,out,Unai López,192009,21,Spain,Central Midfield,CM,2000000.0,Rayo Vallecano,Spain,0.0,1
+2017,Laliga,Athletic Bilbao,winter,out,Aymeric Laporte,176553,23,Spain,Centre-Back,CB,25000000.0,Manchester City,England,65000000.0,0
+2017,Laliga,Athletic Bilbao,winter,out,Eneko Bóveda,89313,29,Spain,Right-Back,RB,2000000.0,Deportivo de La Coruña,Spain,0.0,0
+2017,Laliga,Athletic Bilbao,winter,out,Ager Aketxe,158057,24,Spain,Right Winger,RW,2000000.0,Toronto FC,United States,0.0,0
+2017,Laliga,Atlético de Madrid,summer,in,Vitolo,67082,27,Spain,Left Winger,LW,25000000.0,Sevilla FC,Spain,35600000.0,0
+2017,Laliga,Atlético de Madrid,winter,in,Diego Costa,44779,29,Spain,Centre-Forward,CF,50000000.0,Chelsea FC,England,60000000.0,0
+2017,Laliga,Atlético de Madrid,summer,out,Theo Hernández,339808,19,France,Left-Back,LB,15000000.0,Real Madrid,Spain,24000000.0,0
+2017,Laliga,Atlético de Madrid,summer,out,Óliver Torres,214775,22,Spain,Central Midfield,CM,14000000.0,FC Porto,Portugal,20000000.0,0
+2017,Laliga,Atlético de Madrid,summer,out,Matías Kranevitter,240900,24,Argentina,Defensive Midfield,DM,6000000.0,Zenit St. Petersburg,Russia,8500000.0,0
+2017,Laliga,Atlético de Madrid,summer,out,Javier Manquillo,162029,23,Spain,Right-Back,RB,4000000.0,Newcastle United,England,5000000.0,0
+2017,Laliga,Atlético de Madrid,summer,out,Rafael Borré,323831,21,Colombia,Centre-Forward,CF,2000000.0,CA River Plate,Argentina,3500000.0,0
+2017,Laliga,Atlético de Madrid,summer,out,Amath Ndiaye,339820,21,Senegal,Right Winger,RW,1000000.0,Getafe CF,Spain,3000000.0,0
+2017,Laliga,Atlético de Madrid,summer,out,Alessio Cerci,21748,29,Italy,Right Winger,RW,4000000.0,Hellas Verona,Italy,0.0,0
+2017,Laliga,Atlético de Madrid,summer,out,André Moreira,326363,21,Portugal,Goalkeeper,GK,1000000.0,SC Braga,Portugal,0.0,1
+2017,Laliga,Atlético de Madrid,summer,out,Diogo Jota,340950,20,Portugal,Left Winger,LW,8000000.0,Wolverhampton Wanderers,England,0.0,1
+2017,Laliga,Atlético de Madrid,summer,out,Vitolo,67082,27,Spain,Left Winger,LW,25000000.0,UD Las Palmas,Spain,0.0,1
+2017,Laliga,Atlético de Madrid,summer,out,Bernard Mensah,324321,22,Ghana,Attacking Midfield,AM,1500000.0,Kasimpasa,Türkiye,0.0,1
+2017,Laliga,Atlético de Madrid,summer,out,Emiliano Velázquez,189458,23,Uruguay,Centre-Back,CB,1000000.0,Rayo Vallecano,Spain,0.0,1
+2017,Laliga,Atlético de Madrid,summer,out,Héctor Hernández,273738,21,Spain,Centre-Forward,CF,500000.0,Albacete Balompié,Spain,0.0,1
+2017,Laliga,Atlético de Madrid,summer,out,Tiago Mendes,8538,36,Portugal,Central Midfield,CM,,Retired,,,0
+2017,Laliga,Atlético de Madrid,summer,out,Guilherme Siqueira,44373,31,Brazil,Left-Back,LB,1500000.0,Without Club,,,0
+2017,Laliga,Atlético de Madrid,winter,out,Yannick Carrasco,140776,24,Belgium,Left Winger,LW,40000000.0,Dalian Yifang,China,30000000.0,0
+2017,Laliga,Atlético de Madrid,winter,out,Nico Gaitán,75442,30,Argentina,Attacking Midfield,AM,15000000.0,Dalian Yifang,China,5500000.0,0
+2017,Laliga,Atlético de Madrid,winter,out,Augusto Fernández,39151,31,Argentina,Central Midfield,CM,4000000.0,Beijing Renhe,China,4500000.0,0
+2017,Laliga,Atlético de Madrid,winter,out,Miguel Ángel Moyá,26065,33,Spain,Goalkeeper,GK,2000000.0,Real Sociedad,Spain,0.0,0
+2017,Laliga,Atlético de Madrid,winter,out,André Moreira,326363,22,Portugal,Goalkeeper,GK,1000000.0,CF Os Belenenses,Portugal,0.0,1
+2017,Laliga,Atlético de Madrid,winter,out,Luciano Vietto,214316,24,Argentina,Centre-Forward,CF,10000000.0,Valencia CF,Spain,0.0,1
+2017,Laliga,CD Leganés,summer,in,Dimitrios Siovas,52403,28,Greece,Centre-Back,CB,2000000.0,Olympiacos Piraeus,Greece,3000000.0,0
+2017,Laliga,CD Leganés,summer,in,Ezequiel Muñoz,75127,26,Argentina,Centre-Back,CB,3000000.0,Genoa CFC,Italy,2500000.0,0
+2017,Laliga,CD Leganés,summer,in,Tito,128295,31,Spain,Right-Back,RB,2500000.0,Granada CF,Spain,600000.0,0
+2017,Laliga,CD Leganés,summer,in,Luciano,223560,24,Brazil,Centre-Forward,CF,2500000.0,Sport Club Corinthians Paulista,Brazil,450000.0,0
+2017,Laliga,CD Leganés,summer,in,Waly Diouf,490414,20,Senegal,Centre-Back,CB,,AJ Auxerre B,France,0.0,0
+2017,Laliga,CD Leganés,summer,in,Javi Eraso,156814,27,Spain,Central Midfield,CM,1500000.0,Athletic Bilbao,Spain,0.0,0
+2017,Laliga,CD Leganés,summer,in,Iván Cuéllar,27493,33,Spain,Goalkeeper,GK,800000.0,Sporting Gijón,Spain,0.0,0
+2017,Laliga,CD Leganés,summer,in,Gerard Gumbau,268670,22,Spain,Defensive Midfield,DM,700000.0,FC Barcelona B,Spain,0.0,0
+2017,Laliga,CD Leganés,summer,in,Mauro dos Santos,55240,28,Argentina,Centre-Back,CB,2000000.0,SD Eibar,Spain,0.0,0
+2017,Laliga,CD Leganés,summer,in,Raúl Carnero,139434,28,Spain,Left-Back,LB,1000000.0,Deportivo Alavés,Spain,0.0,0
+2017,Laliga,CD Leganés,summer,in,Owusu Kwabena,457782,20,Ghana,Left Winger,LW,250000.0,Sporting Club Accra,Ghana,,0
+2017,Laliga,CD Leganés,summer,in,Nordin Amrabat,55619,30,Morocco,Right Winger,RW,4500000.0,Watford FC,England,0.0,1
+2017,Laliga,CD Leganés,summer,in,José Naranjo,272679,23,Spain,Left Winger,LW,2000000.0,KRC Genk,Belgium,0.0,1
+2017,Laliga,CD Leganés,summer,in,Joseba Zaldua,197135,25,Spain,Right-Back,RB,1500000.0,Real Sociedad,Spain,0.0,1
+2017,Laliga,CD Leganés,summer,in,Josua Mejías,427683,19,Venezuela,Centre-Back,CB,250000.0,Carabobo FC,Venezuela,0.0,1
+2017,Laliga,CD Leganés,summer,in,Nereo Champagne,19958,32,Argentina,Goalkeeper,GK,400000.0,Club Olimpo,Argentina,0.0,1
+2017,Laliga,CD Leganés,summer,in,Claudio Beauvue,58818,29,Guadeloupe,Centre-Forward,CF,3000000.0,Celta de Vigo,Spain,0.0,1
+2017,Laliga,CD Leganés,summer,in,Darko Brasanac,95641,25,Serbia,Central Midfield,CM,4000000.0,Real Betis Balompié,Spain,0.0,1
+2017,Laliga,CD Leganés,winter,in,Yahya Al-Shehri,150788,27,Saudi Arabia,Attacking Midfield,AM,1600000.0,Al-Nassr FC,Saudi Arabia,0.0,1
+2017,Laliga,CD Leganés,summer,out,David Timor,158795,27,Spain,Defensive Midfield,DM,2000000.0,Girona FC,Spain,0.0,0
+2017,Laliga,CD Leganés,summer,out,Alberto Martín,210153,28,Spain,Central Midfield,CM,800000.0,Granada CF,Spain,0.0,0
+2017,Laliga,CD Leganés,summer,out,Víctor Díaz,58330,29,Spain,Right-Back,RB,1200000.0,Granada CF,Spain,0.0,0
+2017,Laliga,CD Leganés,summer,out,Jon Ander Serantes,71835,27,Spain,Goalkeeper,GK,1500000.0,FC Cartagena B,Spain,0.0,1
+2017,Laliga,CD Leganés,summer,out,Josua Mejías,427683,19,Venezuela,Centre-Back,CB,250000.0,FC Cartagena,Spain,0.0,1
+2017,Laliga,CD Leganés,summer,out,Luciano,223560,24,Brazil,Centre-Forward,CF,2500000.0,Panathinaikos FC,Greece,0.0,1
+2017,Laliga,CD Leganés,summer,out,Owusu Kwabena,457782,20,Ghana,Left Winger,LW,250000.0,Real Oviedo,Spain,0.0,1
+2017,Laliga,CD Leganés,summer,out,Darwin Machís,211251,24,Venezuela,Left Winger,LW,1000000.0,Granada CF,Spain,0.0,1
+2017,Laliga,CD Leganés,summer,out,Pablo Insua,171362,23,Spain,Centre-Back,CB,3000000.0,Deportivo de La Coruña,Spain,0.0,1
+2017,Laliga,CD Leganés,summer,out,Adrián Marín,295414,20,Spain,Left-Back,LB,1000000.0,Villarreal CF,Spain,0.0,1
+2017,Laliga,CD Leganés,summer,out,Unai López,192009,21,Spain,Central Midfield,CM,2000000.0,Athletic Bilbao,Spain,0.0,1
+2017,Laliga,CD Leganés,summer,out,Alberto Bueno,45335,29,Spain,Second Striker,SS,2000000.0,FC Porto,Portugal,0.0,1
+2017,Laliga,CD Leganés,summer,out,Luciano,223560,24,Brazil,Centre-Forward,CF,2500000.0,Sport Club Corinthians Paulista,Brazil,0.0,1
+2017,Laliga,CD Leganés,summer,out,Rober Ibáñez,242532,24,Spain,Right Winger,RW,1500000.0,Valencia CF,Spain,0.0,1
+2017,Laliga,CD Leganés,summer,out,Iago Herrerín,71570,29,Spain,Goalkeeper,GK,3000000.0,Athletic Bilbao,Spain,0.0,1
+2017,Laliga,CD Leganés,summer,out,Dimitrios Siovas,52403,28,Greece,Centre-Back,CB,2000000.0,Olympiacos Piraeus,Greece,0.0,1
+2017,Laliga,CD Leganés,summer,out,Nereo Champagne,19958,32,Argentina,Goalkeeper,GK,400000.0,Club Olimpo,Argentina,0.0,1
+2017,Laliga,CD Leganés,summer,out,Samu García,208890,26,Spain,Right Winger,RW,2000000.0,Rubin Kazan,Russia,0.0,1
+2017,Laliga,CD Leganés,summer,out,Tito,128295,31,Spain,Right-Back,RB,2500000.0,Granada CF,Spain,0.0,1
+2017,Laliga,CD Leganés,winter,out,Erik Morán,67542,26,Spain,Central Midfield,CM,900000.0,AEK Athens,Greece,130000.0,0
+2017,Laliga,CD Leganés,winter,out,Waly Diouf,490414,20,Senegal,Centre-Back,CB,,FK Palanga (-2020),Lithuania,,0
+2017,Laliga,CD Leganés,winter,out,Owusu Kwabena,457782,20,Ghana,Left Winger,LW,300000.0,FC Cartagena,Spain,0.0,1
+2017,Laliga,CD Leganés,winter,out,Mamadou Koné,171165,26,Cote d'Ivoire,Centre-Forward,CF,500000.0,KAS Eupen,Belgium,0.0,1
+2017,Laliga,Celta de Vigo,summer,in,Emre Mor,283223,20,Türkiye,Right Winger,RW,5000000.0,Borussia Dortmund,Germany,13000000.0,0
+2017,Laliga,Celta de Vigo,summer,in,Stanislav Lobotka,192735,22,Slovakia,Defensive Midfield,DM,1000000.0,FC Nordsjaelland,Denmark,5000000.0,0
+2017,Laliga,Celta de Vigo,summer,in,Maxi Gómez,396894,20,Uruguay,Centre-Forward,CF,1100000.0,Defensor Sporting Club,Uruguay,4300000.0,0
+2017,Laliga,Celta de Vigo,summer,in,Jozabed Sánchez,207924,26,Spain,Central Midfield,CM,3500000.0,Fulham FC,England,3500000.0,0
+2017,Laliga,Celta de Vigo,winter,in,Robert Mazan,181619,23,Slovakia,Left-Back,LB,500000.0,MSK Zilina,Slovakia,1000000.0,0
+2017,Laliga,Celta de Vigo,winter,in,Lucas Boyé,334222,21,Argentina,Centre-Forward,CF,2000000.0,Torino FC,Italy,0.0,1
+2017,Laliga,Celta de Vigo,summer,out,Pape Cheikh,336828,20,Senegal,Central Midfield,CM,800000.0,Olympique Lyon,France,10000000.0,0
+2017,Laliga,Celta de Vigo,summer,out,Fabián Orellana,60890,31,Chile,Right Winger,RW,3000000.0,Valencia CF,Spain,3000000.0,0
+2017,Laliga,Celta de Vigo,summer,out,Théo Bongonda,280701,21,DR Congo,Right Winger,RW,3000000.0,Trabzonspor,Türkiye,200000.0,1
+2017,Laliga,Celta de Vigo,summer,out,Carles Planas,66099,26,Spain,Left-Back,LB,1500000.0,Girona FC,Spain,0.0,0
+2017,Laliga,Celta de Vigo,summer,out,Levy Madinda,21297,25,Gabon,Attacking Midfield,AM,800000.0,Asteras Tripolis,Greece,0.0,0
+2017,Laliga,Celta de Vigo,summer,out,Pedro Martín,192585,25,Spain,Centre-Forward,CF,300000.0,Real Murcia CF,Spain,0.0,0
+2017,Laliga,Celta de Vigo,summer,out,Josep Señé,161267,25,Spain,Attacking Midfield,AM,500000.0,Cultural Leonesa,Spain,0.0,0
+2017,Laliga,Celta de Vigo,summer,out,Marcelo Díaz,83895,30,Chile,Defensive Midfield,DM,2500000.0,UNAM Pumas,Mexico,0.0,0
+2017,Laliga,Celta de Vigo,summer,out,Álex López,127457,29,Spain,Central Midfield,CM,1000000.0,Sporting Gijón,Spain,0.0,0
+2017,Laliga,Celta de Vigo,summer,out,David Costas,276111,22,Spain,Centre-Back,CB,1000000.0,FC Barcelona B,Spain,0.0,1
+2017,Laliga,Celta de Vigo,summer,out,Claudio Beauvue,58818,29,Guadeloupe,Centre-Forward,CF,3000000.0,CD Leganés,Spain,0.0,1
+2017,Laliga,Celta de Vigo,summer,out,Álvaro Lemos,230222,24,Spain,Right-Back,RB,500000.0,RC Lens,France,0.0,1
+2017,Laliga,Celta de Vigo,summer,out,Jozabed Sánchez,207924,26,Spain,Central Midfield,CM,3500000.0,Fulham FC,England,0.0,1
+2017,Laliga,Celta de Vigo,summer,out,Giuseppe Rossi,19104,30,Italy,Centre-Forward,CF,4000000.0,ACF Fiorentina,Italy,0.0,1
+2017,Laliga,Celta de Vigo,winter,out,John Guidetti,98596,25,Sweden,Centre-Forward,CF,5000000.0,Deportivo Alavés,Spain,0.0,1
+2017,Laliga,Celta de Vigo,winter,out,Álvaro Lemos,230222,24,Spain,Right-Back,RB,500000.0,CD Lugo,Spain,0.0,1
+2017,Laliga,Celta de Vigo,winter,out,Iván Villar,297194,20,Spain,Goalkeeper,GK,300000.0,Levante UD,Spain,0.0,1
+2017,Laliga,Celta de Vigo,winter,out,Théo Bongonda,280701,22,DR Congo,Right Winger,RW,3000000.0,Zulte Waregem,Belgium,0.0,1
+2017,Laliga,Celta de Vigo,winter,out,Andrew Hjulsager,167798,23,Denmark,Central Midfield,CM,1000000.0,Granada CF,Spain,0.0,1
+2017,Laliga,Deportivo Alavés,summer,in,Burgui,246277,23,Spain,Left Winger,LW,1500000.0,Real Madrid,Spain,3000000.0,0
+2017,Laliga,Deportivo Alavés,summer,in,Rodrigo Ely,176140,23,Brazil,Centre-Back,CB,2000000.0,AC Milan,Italy,2800000.0,0
+2017,Laliga,Deportivo Alavés,summer,in,Guillermo Maripán,249730,23,Chile,Centre-Back,CB,550000.0,CD Universidad Católica,Chile,2500000.0,0
+2017,Laliga,Deportivo Alavés,summer,in,Antonio Sivera,298197,20,Spain,Goalkeeper,GK,300000.0,Valencia Mestalla,Spain,2000000.0,0
+2017,Laliga,Deportivo Alavés,summer,in,Rubén Sobrino,85383,25,Spain,Centre-Forward,CF,500000.0,Manchester City,England,2000000.0,0
+2017,Laliga,Deportivo Alavés,summer,in,Rubén Duarte,177046,21,Spain,Centre-Back,CB,1000000.0,RCD Espanyol Barcelona,Spain,400000.0,0
+2017,Laliga,Deportivo Alavés,summer,in,Nando García,337977,23,Spain,Right Winger,RW,400000.0,Valencia Mestalla,Spain,0.0,0
+2017,Laliga,Deportivo Alavés,summer,in,Enzo Zidane,106825,22,France,Attacking Midfield,AM,2500000.0,Real Madrid Castilla,Spain,0.0,0
+2017,Laliga,Deportivo Alavés,summer,in,Juanan Entrena,204097,21,Spain,Left Winger,LW,200000.0,Granada CF B,Spain,0.0,0
+2017,Laliga,Deportivo Alavés,summer,in,Mubarak Wakaso,45639,26,Ghana,Central Midfield,CM,1000000.0,Panathinaikos FC,Greece,0.0,0
+2017,Laliga,Deportivo Alavés,summer,in,Antonio Glauder,380365,21,Philippines,Centre-Back,CB,250000.0,RCD Espanyol B,Spain,0.0,0
+2017,Laliga,Deportivo Alavés,summer,in,Alfonso Pedraza,356197,21,Spain,Left-Back,LB,1000000.0,Villarreal CF,Spain,0.0,1
+2017,Laliga,Deportivo Alavés,summer,in,Álvaro Medrán,253839,23,Spain,Central Midfield,CM,2500000.0,Valencia CF,Spain,0.0,1
+2017,Laliga,Deportivo Alavés,summer,in,Bojan Krkic,44675,27,Spain,Second Striker,SS,5000000.0,Stoke City,England,0.0,1
+2017,Laliga,Deportivo Alavés,summer,in,Héctor Hernández,221986,26,Spain,Left-Back,LB,600000.0,Real Sociedad,Spain,0.0,1
+2017,Laliga,Deportivo Alavés,summer,in,Tomás Pina,139895,29,Spain,Central Midfield,CM,1500000.0,Club Brugge KV,Belgium,0.0,1
+2017,Laliga,Deportivo Alavés,summer,in,Munir El Haddadi,223725,22,Morocco,Attacking Midfield,AM,9000000.0,FC Barcelona,Spain,0.0,1
+2017,Laliga,Deportivo Alavés,winter,in,Anderson Cruz,533060,21,Angola,Left Winger,LW,100000.0,Club Rápido de Bouzas,Spain,,0
+2017,Laliga,Deportivo Alavés,winter,in,Rafa Páez,268258,23,Spain,Centre-Back,CB,100000.0,UCAM Murcia CF,Spain,,0
+2017,Laliga,Deportivo Alavés,winter,in,John Guidetti,98596,25,Sweden,Centre-Forward,CF,5000000.0,Celta de Vigo,Spain,0.0,1
+2017,Laliga,Deportivo Alavés,winter,in,Hernán Pérez,73636,28,Paraguay,Right Winger,RW,1500000.0,RCD Espanyol Barcelona,Spain,0.0,1
+2017,Laliga,Deportivo Alavés,summer,out,Edgar Méndez,133794,27,Spain,Right Winger,RW,2000000.0,CD Cruz Azul,Mexico,5000000.0,0
+2017,Laliga,Deportivo Alavés,summer,out,Zouhair Feddal,129386,27,Morocco,Centre-Back,CB,3000000.0,Real Betis Balompié,Spain,2500000.0,0
+2017,Laliga,Deportivo Alavés,summer,out,Nenad Krsticic,56790,27,Serbia,Central Midfield,CM,1000000.0,Red Star Belgrade,Serbia,0.0,0
+2017,Laliga,Deportivo Alavés,summer,out,Raúl Carnero,139434,28,Spain,Left-Back,LB,1000000.0,CD Leganés,Spain,0.0,0
+2017,Laliga,Deportivo Alavés,summer,out,Kiko Femenía,76467,26,Spain,Right-Back,RB,4000000.0,Watford FC,England,0.0,0
+2017,Laliga,Deportivo Alavés,summer,out,Gaizka Toquero,71840,32,Spain,Second Striker,SS,500000.0,Real Zaragoza,Spain,0.0,0
+2017,Laliga,Deportivo Alavés,summer,out,Juanan Entrena,204097,21,Spain,Left Winger,LW,200000.0,NK Rudes,Croatia,0.0,1
+2017,Laliga,Deportivo Alavés,summer,out,Antonio Glauder,380365,21,Philippines,Centre-Back,CB,250000.0,NK Rudes,Croatia,0.0,1
+2017,Laliga,Deportivo Alavés,summer,out,Nando García,337977,23,Spain,Right Winger,RW,400000.0,Lorca FC,Spain,0.0,1
+2017,Laliga,Deportivo Alavés,summer,out,Rodrigo Ely,176140,23,Brazil,Centre-Back,CB,2000000.0,AC Milan,Italy,0.0,1
+2017,Laliga,Deportivo Alavés,summer,out,Víctor Camarasa,263856,23,Spain,Central Midfield,CM,5000000.0,Levante UD,Spain,0.0,1
+2017,Laliga,Deportivo Alavés,summer,out,Marcos Llorente,282411,22,Spain,Right-Back,RB,15000000.0,Real Madrid,Spain,0.0,1
+2017,Laliga,Deportivo Alavés,summer,out,Theo Hernández,339808,19,France,Left-Back,LB,15000000.0,Atlético de Madrid,Spain,0.0,1
+2017,Laliga,Deportivo Alavés,summer,out,Deyverson,243541,26,Brazil,Centre-Forward,CF,5000000.0,Levante UD,Spain,0.0,1
+2017,Laliga,Deportivo Alavés,summer,out,Rubén Sobrino,85383,25,Spain,Centre-Forward,CF,500000.0,Manchester City,England,0.0,1
+2017,Laliga,Deportivo Alavés,summer,out,Adrián Ortolá,142033,23,Spain,Goalkeeper,GK,800000.0,FC Barcelona B,Spain,0.0,1
+2017,Laliga,Deportivo Alavés,winter,out,Enzo Zidane,106825,22,France,Attacking Midfield,AM,2000000.0,FC Lausanne-Sport,Switzerland,0.0,0
+2017,Laliga,Deportivo Alavés,winter,out,Anderson Cruz,533060,21,Angola,Left Winger,LW,100000.0,NK Rudes,Croatia,0.0,1
+2017,Laliga,Deportivo Alavés,winter,out,Aleksandar Katai,139915,27,Serbia,Attacking Midfield,AM,1000000.0,Chicago Fire,United States,0.0,1
+2017,Laliga,Deportivo Alavés,winter,out,Rafa Páez,268258,23,Spain,Centre-Back,CB,100000.0,NK Rudes,Croatia,0.0,1
+2017,Laliga,Deportivo Alavés,winter,out,Óscar Romero,217886,25,Paraguay,Attacking Midfield,AM,5000000.0,Shanghai Greenland Shenhua,China,0.0,1
+2017,Laliga,Deportivo de La Coruña,summer,in,Guilherme,115382,26,Qatar,Defensive Midfield,DM,4000000.0,Udinese Calcio,Italy,4500000.0,0
+2017,Laliga,Deportivo de La Coruña,summer,in,Fabian Schär,135343,25,Switzerland,Centre-Back,CB,2500000.0,TSG 1899 Hoffenheim,Germany,3000000.0,0
+2017,Laliga,Deportivo de La Coruña,summer,in,Juanfran Moreno,64411,28,Spain,Right-Back,RB,5000000.0,Watford FC,England,1000000.0,0
+2017,Laliga,Deportivo de La Coruña,summer,in,Gerard Valentín,278651,23,Spain,Right-Back,RB,500000.0,Gimnàstic de Tarragona,Spain,1000000.0,0
+2017,Laliga,Deportivo de La Coruña,summer,in,Federico Valverde,369081,18,Uruguay,Central Midfield,CM,3000000.0,Real Madrid Castilla,Spain,0.0,1
+2017,Laliga,Deportivo de La Coruña,summer,in,Zakaria Bakkali,203378,21,Belgium,Left Winger,LW,2000000.0,Valencia CF,Spain,0.0,1
+2017,Laliga,Deportivo de La Coruña,summer,in,Adrián López,45383,29,Spain,Centre-Forward,CF,3500000.0,FC Porto,Portugal,0.0,1
+2017,Laliga,Deportivo de La Coruña,summer,in,Lucas Pérez,73185,28,Spain,Centre-Forward,CF,15000000.0,Arsenal FC,England,0.0,1
+2017,Laliga,Deportivo de La Coruña,summer,in,Costel Pantilimon,47659,30,Romania,Goalkeeper,GK,3000000.0,Watford FC,England,0.0,1
+2017,Laliga,Deportivo de La Coruña,winter,in,Eneko Bóveda,89313,29,Spain,Right-Back,RB,2000000.0,Athletic Bilbao,Spain,0.0,0
+2017,Laliga,Deportivo de La Coruña,winter,in,Michael Krohn-Dehli,18006,34,Denmark,Central Midfield,CM,1500000.0,Sevilla FC,Spain,0.0,0
+2017,Laliga,Deportivo de La Coruña,winter,in,Maksym Koval,120211,25,Ukraine,Goalkeeper,GK,2000000.0,Dynamo Kyiv,Ukraine,0.0,1
+2017,Laliga,Deportivo de La Coruña,winter,in,Sulley Muntari,17129,33,Ghana,Central Midfield,CM,500000.0,Without Club,,,0
+2017,Laliga,Deportivo de La Coruña,summer,out,Pablo Insua,171362,23,Spain,Centre-Back,CB,3000000.0,FC Schalke 04,Germany,3500000.0,0
+2017,Laliga,Deportivo de La Coruña,summer,out,Laure,57876,32,Spain,Right-Back,RB,500000.0,AD Alcorcón,Spain,0.0,0
+2017,Laliga,Deportivo de La Coruña,summer,out,Juan Domínguez,72195,27,Spain,Central Midfield,CM,1200000.0,CF Reus Deportiu,Spain,0.0,0
+2017,Laliga,Deportivo de La Coruña,summer,out,Fayçal Fajr,174344,28,Morocco,Central Midfield,CM,2000000.0,Getafe CF,Spain,0.0,0
+2017,Laliga,Deportivo de La Coruña,summer,out,Oriol Riera,71671,31,Spain,Centre-Forward,CF,1500000.0,Western Sydney Wanderers,Australia,0.0,0
+2017,Laliga,Deportivo de La Coruña,summer,out,Germán Lux,19979,34,Argentina,Goalkeeper,GK,800000.0,CA River Plate,Argentina,0.0,0
+2017,Laliga,Deportivo de La Coruña,summer,out,Álex Bergantiños,72189,32,Spain,Defensive Midfield,DM,1000000.0,Sporting Gijón,Spain,0.0,1
+2017,Laliga,Deportivo de La Coruña,summer,out,Róber Pier,387129,22,Spain,Centre-Back,CB,1000000.0,Levante UD,Spain,0.0,1
+2017,Laliga,Deportivo de La Coruña,summer,out,Davy Roef,140808,23,Belgium,Goalkeeper,GK,1000000.0,RSC Anderlecht,Belgium,0.0,1
+2017,Laliga,Deportivo de La Coruña,summer,out,Guilherme,115382,26,Qatar,Defensive Midfield,DM,4000000.0,Udinese Calcio,Italy,0.0,1
+2017,Laliga,Deportivo de La Coruña,summer,out,Gaël Kakuta,74297,26,DR Congo,Attacking Midfield,AM,1000000.0,Hebei China Fortune,China,0.0,1
+2017,Laliga,Deportivo de La Coruña,summer,out,Ola John,124550,25,Netherlands,Left Winger,LW,2500000.0,SL Benfica,Portugal,0.0,1
+2017,Laliga,Deportivo de La Coruña,summer,out,Joselu,81999,27,Spain,Centre-Forward,CF,3500000.0,Stoke City,England,0.0,1
+2017,Laliga,Deportivo de La Coruña,summer,out,Marlos Moreno,345654,20,Colombia,Left Winger,LW,1000000.0,Manchester City,England,0.0,1
+2017,Laliga,Deportivo de La Coruña,summer,out,Juanfran Moreno,64411,28,Spain,Right-Back,RB,5000000.0,Watford FC,England,0.0,1
+2017,Laliga,Deportivo de La Coruña,winter,out,Alejandro Arribas,137174,28,Spain,Centre-Back,CB,2000000.0,UNAM Pumas,Mexico,2000000.0,0
+2017,Laliga,Deportivo de La Coruña,winter,out,Saúl García,249471,23,Spain,Left-Back,LB,600000.0,CD Numancia,Spain,0.0,1
+2017,Laliga,Deportivo de La Coruña,winter,out,Bruno Gama,15568,30,Portugal,Left Winger,LW,1000000.0,Without Club,,,0
+2017,Laliga,Deportivo de La Coruña,winter,out,Costel Pantilimon,47659,30,Romania,Goalkeeper,GK,1500000.0,Watford FC,England,0.0,1
+2017,Laliga,FC Barcelona,summer,in,Ousmane Dembélé,288230,20,France,Centre-Forward,CF,33000000.0,Borussia Dortmund,Germany,148000000.0,0
+2017,Laliga,FC Barcelona,summer,in,Paulinho,57229,29,Brazil,Central Midfield,CM,15000000.0,Guangzhou Evergrande Taobao,China,40000000.0,0
+2017,Laliga,FC Barcelona,summer,in,Nélson Semedo,231572,23,Portugal,Right-Back,RB,20000000.0,SL Benfica,Portugal,35700000.0,0
+2017,Laliga,FC Barcelona,summer,in,Gerard Deulofeu,129476,23,Spain,Centre-Forward,CF,12000000.0,Everton FC,England,12000000.0,0
+2017,Laliga,FC Barcelona,summer,in,Marlon,273236,21,Brazil,Centre-Back,CB,5000000.0,Fluminense Football Club,Brazil,5000000.0,0
+2017,Laliga,FC Barcelona,winter,in,Philippe Coutinho,80444,25,Brazil,Attacking Midfield,AM,90000000.0,Liverpool FC,England,135000000.0,0
+2017,Laliga,FC Barcelona,winter,in,Yerry Mina,289446,23,Colombia,Centre-Back,CB,9000000.0,Sociedade Esportiva Palmeiras,Brazil,12400000.0,0
+2017,Laliga,FC Barcelona,summer,out,Neymar,68290,25,Brazil,Attacking Midfield,AM,100000000.0,Paris Saint-Germain,France,222000000.0,0
+2017,Laliga,FC Barcelona,summer,out,Cristian Tello,141834,25,Spain,Left Winger,LW,8000000.0,Real Betis Balompié,Spain,4000000.0,0
+2017,Laliga,FC Barcelona,summer,out,Jérémy Mathieu,5404,33,France,Left-Back,LB,3000000.0,Sporting CP,Portugal,0.0,0
+2017,Laliga,FC Barcelona,summer,out,Jordi Masip,65263,28,Spain,Goalkeeper,GK,1000000.0,Real Valladolid CF,Spain,0.0,0
+2017,Laliga,FC Barcelona,summer,out,Sergi Samper,181112,22,Spain,Defensive Midfield,DM,3500000.0,UD Las Palmas,Spain,0.0,1
+2017,Laliga,FC Barcelona,summer,out,Marlon,273236,21,Brazil,Centre-Back,CB,5000000.0,OGC Nice,France,0.0,1
+2017,Laliga,FC Barcelona,summer,out,Douglas,58426,27,Brazil,Right-Back,RB,1500000.0,SL Benfica,Portugal,0.0,1
+2017,Laliga,FC Barcelona,summer,out,Munir El Haddadi,223725,22,Morocco,Attacking Midfield,AM,9000000.0,Deportivo Alavés,Spain,0.0,1
+2017,Laliga,FC Barcelona,winter,out,Javier Mascherano,19981,33,Argentina,Defensive Midfield,DM,6000000.0,Hebei China Fortune,China,5500000.0,0
+2017,Laliga,FC Barcelona,winter,out,Gerard Deulofeu,129476,23,Spain,Centre-Forward,CF,14000000.0,Watford FC,England,1000000.0,1
+2017,Laliga,FC Barcelona,winter,out,Arda Turan,21369,30,Türkiye,Left Winger,LW,12000000.0,Basaksehir FK,Türkiye,0.0,1
+2017,Laliga,FC Barcelona,winter,out,Rafinha,129473,24,Brazil,Attacking Midfield,AM,15000000.0,Inter Milan,Italy,0.0,1
+2017,Laliga,Getafe CF,summer,in,Amath Ndiaye,339820,21,Senegal,Right Winger,RW,1000000.0,Atlético de Madrid,Spain,3000000.0,0
+2017,Laliga,Getafe CF,summer,in,Dakonam Djené,221150,25,Togo,Centre-Back,CB,800000.0,Sint-Truidense VV,Belgium,2500000.0,0
+2017,Laliga,Getafe CF,summer,in,Francisco Portillo,138803,27,Spain,Right Winger,RW,1500000.0,Real Betis Balompié,Spain,1500000.0,0
+2017,Laliga,Getafe CF,summer,in,Filip Manojlovic,333323,21,Serbia,Goalkeeper,GK,1000000.0,Red Star Belgrade,Serbia,1250000.0,0
+2017,Laliga,Getafe CF,summer,in,Álvaro Jiménez,282406,22,Spain,Right Winger,RW,1000000.0,Real Madrid Castilla,Spain,1000000.0,0
+2017,Laliga,Getafe CF,summer,in,Dani Pacheco,28285,26,Spain,Central Midfield,CM,1500000.0,Real Betis Balompié,Spain,1000000.0,0
+2017,Laliga,Getafe CF,summer,in,Mathías Olivera,376514,19,Uruguay,Left-Back,LB,300000.0,Club Nacional,Uruguay,850000.0,0
+2017,Laliga,Getafe CF,summer,in,Chuli,129515,26,Spain,Centre-Forward,CF,500000.0,UD Almería,Spain,700000.0,0
+2017,Laliga,Getafe CF,summer,in,Bruno González,188838,27,Spain,Centre-Back,CB,2500000.0,Real Betis Balompié,Spain,600000.0,0
+2017,Laliga,Getafe CF,summer,in,Antunes,44699,30,Portugal,Left-Back,LB,4000000.0,Dynamo Kyiv,Ukraine,500000.0,1
+2017,Laliga,Getafe CF,summer,in,Rubén Yáñez,246335,23,Spain,Goalkeeper,GK,300000.0,Real Madrid,Spain,0.0,0
+2017,Laliga,Getafe CF,summer,in,Fayçal Fajr,174344,28,Morocco,Central Midfield,CM,2000000.0,Deportivo de La Coruña,Spain,0.0,0
+2017,Laliga,Getafe CF,summer,in,Gaku Shibasaki,129693,25,Japan,Central Midfield,CM,2000000.0,CD Tenerife,Spain,0.0,0
+2017,Laliga,Getafe CF,summer,in,Ángel Rodríguez,51510,30,Spain,Centre-Forward,CF,1000000.0,Real Zaragoza,Spain,0.0,0
+2017,Laliga,Getafe CF,summer,in,Jefferson Montero,77932,28,Ecuador,Left Winger,LW,4500000.0,Swansea City,England,0.0,1
+2017,Laliga,Getafe CF,summer,in,Mauro Arambarri,290249,21,Uruguay,Central Midfield,CM,1250000.0,CA Boston River,Uruguay,0.0,1
+2017,Laliga,Getafe CF,summer,in,Emiliano Martínez,111873,24,Argentina,Goalkeeper,GK,1000000.0,Arsenal FC,England,0.0,1
+2017,Laliga,Getafe CF,summer,in,Markel Bergara,51426,31,Spain,Defensive Midfield,DM,1500000.0,Real Sociedad,Spain,0.0,1
+2017,Laliga,Getafe CF,winter,in,Rober Ibáñez,242532,24,Spain,Right Winger,RW,1500000.0,Valencia CF,Spain,0.0,0
+2017,Laliga,Getafe CF,winter,in,Loïc Rémy,45121,31,France,Centre-Forward,CF,8000000.0,UD Las Palmas,Spain,0.0,1
+2017,Laliga,Getafe CF,winter,in,Leandro Cabrera,102423,26,Uruguay,Centre-Back,CB,600000.0,FC Crotone,Italy,0.0,1
+2017,Laliga,Getafe CF,winter,in,Mathieu Flamini,17396,33,France,Defensive Midfield,DM,1500000.0,Without Club,,,0
+2017,Laliga,Getafe CF,summer,out,Carlos Peña,8746,33,Spain,Left-Back,LB,200000.0,Lorca FC,Spain,0.0,0
+2017,Laliga,Getafe CF,summer,out,Cata Díaz,39087,38,Argentina,Centre-Back,CB,300000.0,CF Fuenlabrada,Spain,0.0,0
+2017,Laliga,Getafe CF,summer,out,Rubén Yáñez,246335,23,Spain,Goalkeeper,GK,300000.0,Cádiz CF,Spain,0.0,1
+2017,Laliga,Getafe CF,summer,out,Alejandro Faurlín,88067,30,Argentina,Central Midfield,CM,1500000.0,CD Cruz Azul,Mexico,,0
+2017,Laliga,Getafe CF,summer,out,Alberto García,58497,32,Spain,Goalkeeper,GK,500000.0,Rayo Vallecano,Spain,0.0,1
+2017,Laliga,Getafe CF,summer,out,Emiliano Buendía,321247,20,Argentina,Attacking Midfield,AM,500000.0,Cultural Leonesa,Spain,0.0,1
+2017,Laliga,Getafe CF,summer,out,Stefan Scepovic,71273,27,Serbia,Centre-Forward,CF,1000000.0,Sporting Gijón,Spain,0.0,1
+2017,Laliga,Getafe CF,summer,out,David Fuster,39003,35,Spain,Attacking Midfield,AM,,Retired,,,0
+2017,Laliga,Getafe CF,summer,out,Johannes van den Bergh,31218,30,Germany,Left-Back,LB,400000.0,Without Club,,,0
+2017,Laliga,Getafe CF,summer,out,Rolf Feltscher,52590,26,Venezuela,Right-Back,RB,400000.0,Without Club,,,0
+2017,Laliga,Getafe CF,summer,out,Chuli,129515,26,Spain,Centre-Forward,CF,500000.0,UD Almería,Spain,0.0,1
+2017,Laliga,Getafe CF,summer,out,Facundo Castillón,89314,31,Argentina,Right Winger,RW,400000.0,Racing Club,Argentina,0.0,1
+2017,Laliga,Getafe CF,summer,out,Francisco Portillo,138803,27,Spain,Right Winger,RW,1500000.0,Real Betis Balompié,Spain,0.0,1
+2017,Laliga,Getafe CF,summer,out,Álvaro Jiménez,282406,22,Spain,Right Winger,RW,1000000.0,Real Madrid Castilla,Spain,0.0,1
+2017,Laliga,Getafe CF,summer,out,Paul Anton,123286,26,Romania,Central Midfield,CM,1000000.0,FC Dinamo 1948,Romania,0.0,1
+2017,Laliga,Getafe CF,summer,out,Dani Pacheco,28285,26,Spain,Central Midfield,CM,1500000.0,Real Betis Balompié,Spain,0.0,1
+2017,Laliga,Getafe CF,winter,out,Juan Cala,67089,28,Spain,Centre-Back,CB,2000000.0,Henan Jianye,China,1600000.0,0
+2017,Laliga,Getafe CF,winter,out,Nicolas Gorosito,125281,29,Argentina,Centre-Back,CB,600000.0,Albacete Balompié,Spain,0.0,0
+2017,Laliga,Getafe CF,winter,out,Mehdi Lacen,35539,33,Algeria,Defensive Midfield,DM,800000.0,Málaga CF,Spain,0.0,0
+2017,Laliga,Getafe CF,winter,out,Karim Yoda,61464,29,France,Right Winger,RW,700000.0,CF Reus Deportiu,Spain,0.0,1
+2017,Laliga,Getafe CF,winter,out,Stefan Scepovic,71273,28,Serbia,Centre-Forward,CF,1000000.0,Videoton FC,Hungary,,0
+2017,Laliga,Getafe CF,winter,out,Chuli,129515,26,Spain,Centre-Forward,CF,500000.0,CD Lugo,Spain,0.0,1
+2017,Laliga,Getafe CF,winter,out,Rober Ibáñez,242532,24,Spain,Right Winger,RW,1500000.0,CA Osasuna,Spain,0.0,1
+2017,Laliga,Getafe CF,winter,out,Jefferson Montero,77932,28,Ecuador,Left Winger,LW,2000000.0,CS Emelec,Ecuador,0.0,1
+2017,Laliga,Girona FC,summer,in,Bernardo Espinosa,64598,27,Colombia,Centre-Back,CB,2500000.0,Middlesbrough FC,England,4500000.0,0
+2017,Laliga,Girona FC,summer,in,Cristhian Stuani,59323,30,Uruguay,Centre-Forward,CF,3500000.0,Middlesbrough FC,England,2500000.0,0
+2017,Laliga,Girona FC,summer,in,David Timor,158795,27,Spain,Defensive Midfield,DM,2000000.0,CD Leganés,Spain,0.0,0
+2017,Laliga,Girona FC,summer,in,Carles Planas,66099,26,Spain,Left-Back,LB,1500000.0,Celta de Vigo,Spain,0.0,0
+2017,Laliga,Girona FC,summer,in,Gorka Iraizoz,7874,36,Spain,Goalkeeper,GK,500000.0,Athletic Bilbao,Spain,0.0,0
+2017,Laliga,Girona FC,summer,in,Farid Boulaya,202318,24,Algeria,Attacking Midfield,AM,800000.0,SC Bastia,France,,0
+2017,Laliga,Girona FC,summer,in,Michael Olunga,263482,23,Kenya,Centre-Forward,CF,500000.0,Guizhou Hengfeng,China,0.0,1
+2017,Laliga,Girona FC,summer,in,Marlos Moreno,345654,20,Colombia,Left Winger,LW,1000000.0,Manchester City,England,0.0,1
+2017,Laliga,Girona FC,summer,in,Johan Mojica,262939,24,Colombia,Left-Back,LB,1000000.0,Rayo Vallecano,Spain,0.0,1
+2017,Laliga,Girona FC,summer,in,Olarenwaju Kayode,131694,24,Nigeria,Centre-Forward,CF,4000000.0,Manchester City,England,0.0,1
+2017,Laliga,Girona FC,summer,in,Marc Muniesa,74228,25,Spain,Centre-Back,CB,3000000.0,Stoke City,England,0.0,1
+2017,Laliga,Girona FC,summer,in,Douglas Luiz,447661,19,Brazil,Central Midfield,CM,,Manchester City,England,0.0,1
+2017,Laliga,Girona FC,summer,in,Aleix García,261504,20,Spain,Central Midfield,CM,1000000.0,Manchester City,England,0.0,1
+2017,Laliga,Girona FC,summer,in,Pablo Maffeo,251876,20,Argentina,Right-Back,RB,500000.0,Manchester City,England,0.0,1
+2017,Laliga,Girona FC,winter,in,Choco Lozano,131275,24,Honduras,Centre-Forward,CF,1500000.0,FC Barcelona B,Spain,1750000.0,0
+2017,Laliga,Girona FC,summer,out,Kiko Olivas,51667,29,Spain,Centre-Back,CB,1000000.0,Real Valladolid CF,Spain,0.0,0
+2017,Laliga,Girona FC,summer,out,Cristian Herrera,237617,26,Spain,Centre-Forward,CF,700000.0,CD Lugo,Spain,0.0,0
+2017,Laliga,Girona FC,summer,out,René Román,64350,33,Spain,Goalkeeper,GK,400000.0,UD Almería,Spain,0.0,0
+2017,Laliga,Girona FC,summer,out,Felipe Sanchón,8160,35,Spain,Centre-Forward,CF,100000.0,CE Sabadell FC,Spain,0.0,0
+2017,Laliga,Girona FC,summer,out,Albert Vivancos,294349,23,Spain,Central Midfield,CM,200000.0,UCAM Murcia CF,Spain,0.0,0
+2017,Laliga,Girona FC,summer,out,Carles Mas,243732,24,Spain,Centre-Back,CB,200000.0,UE Olot,Spain,0.0,0
+2017,Laliga,Girona FC,summer,out,Sebas Coris,243715,24,Spain,Right Winger,RW,600000.0,CA Osasuna,Spain,0.0,1
+2017,Laliga,Girona FC,summer,out,Fran Sandaza,65350,32,Spain,Centre-Forward,CF,400000.0,Al-Ahli SC,Qatar,0.0,1
+2017,Laliga,Girona FC,summer,out,Rubén Alcaraz,247250,26,Spain,Central Midfield,CM,500000.0,UD Almería,Spain,0.0,1
+2017,Laliga,Girona FC,summer,out,Richy,58177,32,Spain,Centre-Back,CB,,Retired,,,0
+2017,Laliga,Girona FC,summer,out,Pablo Marí,210178,23,Spain,Centre-Back,CB,400000.0,Manchester City,England,0.0,1
+2017,Laliga,Girona FC,summer,out,Juan Cámara,162039,23,Spain,Attacking Midfield,AM,300000.0,FC Barcelona B,Spain,0.0,1
+2017,Laliga,Girona FC,summer,out,Pablo Maffeo,251876,19,Argentina,Right-Back,RB,500000.0,Manchester City,England,0.0,1
+2017,Laliga,Girona FC,summer,out,Samuele Longo,124560,25,Italy,Centre-Forward,CF,1200000.0,Inter Milan,Italy,0.0,1
+2017,Laliga,Girona FC,summer,out,Angeliño,277179,20,Spain,Left-Back,LB,300000.0,Manchester City U23,England,0.0,1
+2017,Laliga,Girona FC,summer,out,Johan Mojica,262939,24,Colombia,Left-Back,LB,1000000.0,Rayo Vallecano,Spain,0.0,1
+2017,Laliga,Girona FC,summer,out,Miguel Cifuentes,175836,26,Spain,Central Midfield,CM,800000.0,Málaga CF,Spain,0.0,1
+2017,Laliga,Girona FC,winter,out,Fran Sandaza,65350,33,Spain,Centre-Forward,CF,400000.0,Qingdao Huanghai,China,0.0,0
+2017,Laliga,Girona FC,winter,out,Farid Boulaya,202318,24,Algeria,Attacking Midfield,AM,400000.0,FC Metz,France,0.0,1
+2017,Laliga,Girona FC,winter,out,Olarenwaju Kayode,131694,24,Nigeria,Centre-Forward,CF,3000000.0,Manchester City,England,0.0,1
+2017,Laliga,Girona FC,winter,out,Marlos Moreno,345654,21,Colombia,Left Winger,LW,500000.0,Manchester City,England,0.0,1
+2017,Laliga,Levante UD,summer,in,Emmanuel Boateng,332612,21,Ghana,Centre-Forward,CF,1500000.0,Moreirense FC,Portugal,2900000.0,0
+2017,Laliga,Levante UD,summer,in,Cheick Doukouré,129679,24,Cote d'Ivoire,Defensive Midfield,DM,1250000.0,FC Metz,France,1600000.0,0
+2017,Laliga,Levante UD,summer,in,Enis Bardhi,245014,22,North Macedonia,Attacking Midfield,AM,700000.0,Újpest FC,Hungary,1500000.0,0
+2017,Laliga,Levante UD,summer,in,Ivi López,282371,23,Spain,Attacking Midfield,AM,1500000.0,Sevilla Atlético,Spain,1200000.0,0
+2017,Laliga,Levante UD,summer,in,Mitchell Langerak,49347,29,Australia,Goalkeeper,GK,1500000.0,VfB Stuttgart,Germany,600000.0,0
+2017,Laliga,Levante UD,summer,in,Oier Olazábal,8176,27,Spain,Goalkeeper,GK,800000.0,Granada CF,Spain,200000.0,0
+2017,Laliga,Levante UD,summer,in,Antonio Luna,126516,26,Spain,Left-Back,LB,2000000.0,SD Eibar,Spain,0.0,0
+2017,Laliga,Levante UD,summer,in,Samu García,208890,27,Spain,Right Winger,RW,2000000.0,Rubin Kazan,Russia,0.0,0
+2017,Laliga,Levante UD,summer,in,Álex Alegría,178187,24,Spain,Centre-Forward,CF,2000000.0,Real Betis Balompié,Spain,0.0,1
+2017,Laliga,Levante UD,summer,in,Erick Cabaco,302991,22,Uruguay,Centre-Back,CB,1500000.0,Club Nacional,Uruguay,0.0,1
+2017,Laliga,Levante UD,summer,in,Nano Mesa,305956,22,Spain,Centre-Forward,CF,700000.0,SD Eibar,Spain,0.0,1
+2017,Laliga,Levante UD,summer,in,Enes Ünal,251106,20,Türkiye,Centre-Forward,CF,14000000.0,Villarreal CF,Spain,0.0,1
+2017,Laliga,Levante UD,summer,in,Saša Lukić,245056,21,Serbia,Central Midfield,CM,2200000.0,Torino FC,Italy,0.0,1
+2017,Laliga,Levante UD,summer,in,Róber Pier,387129,22,Spain,Centre-Back,CB,1000000.0,Deportivo de La Coruña,Spain,0.0,1
+2017,Laliga,Levante UD,winter,in,Armando Sadiku,140082,26,Albania,Centre-Forward,CF,900000.0,Legia Warszawa,Poland,1000000.0,0
+2017,Laliga,Levante UD,winter,in,Rubén Rochina,67548,26,Spain,Right Winger,RW,2000000.0,Rubin Kazan,Russia,1000000.0,1
+2017,Laliga,Levante UD,winter,in,Coke,71905,30,Spain,Right-Back,RB,2000000.0,FC Schalke 04,Germany,0.0,1
+2017,Laliga,Levante UD,winter,in,Fahad Al-Muwallad,193153,23,Saudi Arabia,Right Winger,RW,2900000.0,Al-Ittihad Club,Saudi Arabia,0.0,1
+2017,Laliga,Levante UD,winter,in,Iván Villar,297194,20,Spain,Goalkeeper,GK,300000.0,Celta de Vigo,Spain,0.0,1
+2017,Laliga,Levante UD,winter,in,Giampaolo Pazzini,19447,33,Italy,Centre-Forward,CF,1000000.0,Hellas Verona,Italy,0.0,1
+2017,Laliga,Levante UD,summer,out,Víctor Camarasa,263856,23,Spain,Central Midfield,CM,5000000.0,Real Betis Balompié,Spain,7000000.0,0
+2017,Laliga,Levante UD,summer,out,Deyverson,243541,26,Brazil,Centre-Forward,CF,5000000.0,Sociedade Esportiva Palmeiras,Brazil,5000000.0,0
+2017,Laliga,Levante UD,summer,out,Natxo Insa,57808,31,Malaysia,Central Midfield,CM,800000.0,Johor Darul Ta'zim,Malaysia,400000.0,0
+2017,Laliga,Levante UD,summer,out,Víctor Casadesús,35540,32,Spain,Centre-Forward,CF,700000.0,CD Tenerife,Spain,0.0,0
+2017,Laliga,Levante UD,summer,out,Esteban Saveljich,240360,26,Montenegro,Centre-Back,CB,500000.0,Albacete Balompié,Spain,0.0,1
+2017,Laliga,Levante UD,summer,out,Rubén García,213260,24,Spain,Right Winger,RW,1500000.0,Sporting Gijón,Spain,0.0,1
+2017,Laliga,Levante UD,summer,out,Verza,26199,30,Spain,Central Midfield,CM,1200000.0,UD Almería,Spain,0.0,1
+2017,Laliga,Levante UD,summer,out,Javier Espinosa,128219,24,Spain,Central Midfield,CM,1800000.0,Granada CF,Spain,0.0,1
+2017,Laliga,Levante UD,summer,out,Róber Pier,387129,22,Spain,Centre-Back,CB,1000000.0,Deportivo de La Coruña,Spain,0.0,1
+2017,Laliga,Levante UD,summer,out,Oier Olazábal,8176,27,Spain,Goalkeeper,GK,800000.0,Granada CF,Spain,0.0,1
+2017,Laliga,Levante UD,summer,out,Juan Muñoz,268958,21,Spain,Centre-Forward,CF,500000.0,Sevilla FC,Spain,0.0,1
+2017,Laliga,Levante UD,summer,out,Paco Montañés,40442,30,Spain,Left Winger,LW,700000.0,RCD Espanyol Barcelona,Spain,0.0,1
+2017,Laliga,Levante UD,summer,out,Abraham Minero,95483,31,Spain,Left-Back,LB,400000.0,Real Zaragoza,Spain,0.0,1
+2017,Laliga,Levante UD,winter,out,Mitchell Langerak,49347,29,Australia,Goalkeeper,GK,1000000.0,Nagoya Grampus,Japan,1450000.0,0
+2017,Laliga,Levante UD,winter,out,Samu García,208890,27,Spain,Right Winger,RW,1000000.0,Málaga CF,Spain,0.0,1
+2017,Laliga,Levante UD,winter,out,Nano Mesa,305956,22,Spain,Centre-Forward,CF,600000.0,SD Eibar,Spain,0.0,1
+2017,Laliga,Levante UD,winter,out,Enes Ünal,251106,20,Türkiye,Centre-Forward,CF,14000000.0,Villarreal CF,Spain,0.0,1
+2017,Laliga,Málaga CF,summer,in,Emanuel Cecchini,324946,20,Argentina,Defensive Midfield,DM,1750000.0,CA Banfield,Argentina,4600000.0,0
+2017,Laliga,Málaga CF,summer,in,Esteban Rolón,399887,22,Argentina,Defensive Midfield,DM,75000.0,AA Argentinos Juniors,Argentina,3200000.0,0
+2017,Laliga,Málaga CF,summer,in,Diego González,349836,22,Spain,Centre-Back,CB,1500000.0,Sevilla Atlético,Spain,2000000.0,0
+2017,Laliga,Málaga CF,summer,in,Cenk Gönen,45214,29,Türkiye,Goalkeeper,GK,650000.0,Galatasaray,Türkiye,200000.0,0
+2017,Laliga,Málaga CF,summer,in,Juankar,126625,27,Spain,Left-Back,LB,2500000.0,SC Braga,Portugal,0.0,0
+2017,Laliga,Málaga CF,summer,in,Andrés Prieto,238032,23,Spain,Goalkeeper,GK,300000.0,RCD Espanyol B,Spain,0.0,0
+2017,Laliga,Málaga CF,summer,in,Paul Baysse,43256,29,France,Centre-Back,CB,3500000.0,OGC Nice,France,0.0,0
+2017,Laliga,Málaga CF,summer,in,Adrián González,44073,29,Spain,Central Midfield,CM,3000000.0,SD Eibar,Spain,0.0,0
+2017,Laliga,Málaga CF,summer,in,Roberto,37403,31,Spain,Goalkeeper,GK,2000000.0,RCD Espanyol Barcelona,Spain,0.0,1
+2017,Laliga,Málaga CF,summer,in,Diego Rolán,193938,24,Uruguay,Centre-Forward,CF,8000000.0,FC Girondins Bordeaux,France,0.0,1
+2017,Laliga,Málaga CF,summer,in,Borja Bastón,85324,24,Spain,Centre-Forward,CF,10000000.0,Swansea City,England,0.0,1
+2017,Laliga,Málaga CF,winter,in,Ignasi Miquel,70245,25,Spain,Centre-Back,CB,700000.0,CD Lugo,Spain,500000.0,0
+2017,Laliga,Málaga CF,winter,in,Manuel Iturra,40428,33,Chile,Defensive Midfield,DM,1500000.0,Club Necaxa,Mexico,0.0,0
+2017,Laliga,Málaga CF,winter,in,Maxime Lestienne,96454,25,Belgium,Right Winger,RW,3000000.0,Rubin Kazan,Russia,0.0,0
+2017,Laliga,Málaga CF,winter,in,Mehdi Lacen,35539,33,Algeria,Defensive Midfield,DM,800000.0,Getafe CF,Spain,0.0,0
+2017,Laliga,Málaga CF,winter,in,Alberto Bueno,45335,29,Spain,Second Striker,SS,2000000.0,FC Porto,Portugal,0.0,1
+2017,Laliga,Málaga CF,winter,in,Samu García,208890,27,Spain,Right Winger,RW,1000000.0,Levante UD,Spain,0.0,1
+2017,Laliga,Málaga CF,winter,in,Brown Ideye,64308,29,Nigeria,Centre-Forward,CF,5000000.0,Tianjin Jinmen Tiger Reserves,China,0.0,1
+2017,Laliga,Málaga CF,winter,in,Isaac Success,295331,22,Nigeria,Centre-Forward,CF,4000000.0,Watford FC,England,0.0,1
+2017,Laliga,Málaga CF,summer,out,Ignacio Camacho,58874,27,Spain,Defensive Midfield,DM,10000000.0,VfL Wolfsburg,Germany,14000000.0,0
+2017,Laliga,Málaga CF,summer,out,Pablo Fornals,357885,21,Spain,Central Midfield,CM,10000000.0,Villarreal CF,Spain,12000000.0,0
+2017,Laliga,Málaga CF,summer,out,Sandro Ramírez,199369,21,Spain,Centre-Forward,CF,10000000.0,Everton FC,England,6000000.0,0
+2017,Laliga,Málaga CF,summer,out,Guillermo Ochoa,29559,31,Mexico,Goalkeeper,GK,3000000.0,Standard Liège,Belgium,0.0,0
+2017,Laliga,Málaga CF,summer,out,Ricardo Horta,261927,22,Portugal,Left Winger,LW,1750000.0,SC Braga,Portugal,0.0,0
+2017,Laliga,Málaga CF,summer,out,Carlos Kameni,7914,33,Cameroon,Goalkeeper,GK,2000000.0,Fenerbahce,Türkiye,0.0,0
+2017,Laliga,Málaga CF,summer,out,Charles,154059,33,Brazil,Centre-Forward,CF,1500000.0,SD Eibar,Spain,0.0,0
+2017,Laliga,Málaga CF,summer,out,Bakary Koné,57186,29,Burkina Faso,Centre-Back,CB,800000.0,RC Strasbourg Alsace,France,0.0,1
+2017,Laliga,Málaga CF,summer,out,Mikel Villanueva,308371,24,Venezuela,Centre-Back,CB,1000000.0,Cádiz CF,Spain,0.0,1
+2017,Laliga,Málaga CF,summer,out,Michael Santos,178107,24,Uruguay,Centre-Forward,CF,2500000.0,Sporting Gijón,Spain,0.0,1
+2017,Laliga,Málaga CF,summer,out,Adnane Tighadouini,185570,24,Morocco,Left Winger,LW,800000.0,Twente Enschede FC,Netherlands,0.0,1
+2017,Laliga,Málaga CF,summer,out,Luis Muñoz,355624,20,Spain,Central Midfield,CM,400000.0,CD Lugo,Spain,0.0,1
+2017,Laliga,Málaga CF,summer,out,Duda,7782,37,Portugal,Left Midfield,LM,,Retired,,,0
+2017,Laliga,Málaga CF,summer,out,Weligton,22550,37,Brazil,Centre-Back,CB,,Retired,,,0
+2017,Laliga,Málaga CF,summer,out,Martín Demichelis,2963,36,Argentina,Centre-Back,CB,200000.0,Retired,,,0
+2017,Laliga,Málaga CF,summer,out,Juankar,126625,27,Spain,Left-Back,LB,2500000.0,SC Braga,Portugal,0.0,1
+2017,Laliga,Málaga CF,summer,out,José Rodríguez,165012,22,Spain,Central Midfield,CM,1000000.0,1.FSV Mainz 05,Germany,0.0,1
+2017,Laliga,Málaga CF,summer,out,Denys Boyko,91931,29,Ukraine,Goalkeeper,GK,1000000.0,Besiktas JK,Türkiye,0.0,1
+2017,Laliga,Málaga CF,summer,out,Diego Llorente,246291,23,Spain,Centre-Back,CB,7500000.0,Real Madrid,Spain,0.0,1
+2017,Laliga,Málaga CF,winter,out,Paul Baysse,43256,29,France,Centre-Back,CB,2500000.0,FC Girondins Bordeaux,France,1000000.0,0
+2017,Laliga,Málaga CF,winter,out,Emanuel Cecchini,324946,21,Argentina,Defensive Midfield,DM,2000000.0,Club León FC,Mexico,400000.0,1
+2017,Laliga,Málaga CF,winter,out,Jony,228761,26,Spain,Left Winger,LW,1500000.0,Sporting Gijón,Spain,0.0,1
+2017,Laliga,Málaga CF,winter,out,Miguel Cifuentes,175836,27,Spain,Central Midfield,CM,600000.0,Albacete Balompié,Spain,0.0,1
+2017,Laliga,Málaga CF,winter,out,Álex Mula,242295,21,Spain,Left Winger,LW,400000.0,CD Tenerife,Spain,0.0,1
+2017,Laliga,Málaga CF,winter,out,Javi Ontiveros,298983,20,Spain,Left Winger,LW,2500000.0,Real Valladolid CF,Spain,0.0,1
+2017,Laliga,RCD Espanyol Barcelona,summer,in,Mario Hermoso,281769,22,Spain,Centre-Back,CB,400000.0,Real Madrid Castilla,Spain,12500000.0,0
+2017,Laliga,RCD Espanyol Barcelona,summer,in,Naldo,148666,28,Brazil,Centre-Back,CB,4000000.0,FC Krasnodar,Russia,2500000.0,0
+2017,Laliga,RCD Espanyol Barcelona,summer,in,Pablo Piatti,56067,28,Argentina,Attacking Midfield,AM,6000000.0,Valencia CF,Spain,1300000.0,0
+2017,Laliga,RCD Espanyol Barcelona,summer,in,Sergi Darder,142021,23,Spain,Central Midfield,CM,11000000.0,Olympique Lyon,France,300000.0,1
+2017,Laliga,RCD Espanyol Barcelona,summer,in,Dídac Vilà,67090,28,Spain,Left-Back,LB,1000000.0,AEK Athens,Greece,250000.0,0
+2017,Laliga,RCD Espanyol Barcelona,summer,in,Diego López,34370,35,Spain,Goalkeeper,GK,1000000.0,AC Milan,Italy,0.0,0
+2017,Laliga,RCD Espanyol Barcelona,summer,in,Esteban Granero,44065,30,Spain,Central Midfield,CM,2000000.0,Real Sociedad,Spain,0.0,0
+2017,Laliga,RCD Espanyol Barcelona,summer,in,Sergio García,7922,34,Spain,Centre-Forward,CF,3000000.0,Al-Rayyan SC,Qatar,0.0,0
+2017,Laliga,RCD Espanyol Barcelona,summer,in,Sergio Sánchez,38270,31,Spain,Centre-Back,CB,1000000.0,Rubin Kazan,Russia,0.0,1
+2017,Laliga,RCD Espanyol Barcelona,winter,in,Carlos Sánchez,51226,31,Colombia,Defensive Midfield,DM,2500000.0,ACF Fiorentina,Italy,200000.0,1
+2017,Laliga,RCD Espanyol Barcelona,summer,out,Joan Jordán,263727,23,Spain,Central Midfield,CM,1000000.0,SD Eibar,Spain,3800000.0,0
+2017,Laliga,RCD Espanyol Barcelona,summer,out,Felipe Caicedo,37834,28,Ecuador,Centre-Forward,CF,3000000.0,SS Lazio,Italy,2500000.0,0
+2017,Laliga,RCD Espanyol Barcelona,summer,out,Mamadou Sylla,166683,23,Senegal,Centre-Forward,CF,3000000.0,KAS Eupen,Belgium,2300000.0,0
+2017,Laliga,RCD Espanyol Barcelona,summer,out,Rubén Duarte,177046,21,Spain,Centre-Back,CB,1000000.0,Deportivo Alavés,Spain,400000.0,0
+2017,Laliga,RCD Espanyol Barcelona,summer,out,Salva Sevilla,58799,33,Spain,Central Midfield,CM,500000.0,RCD Mallorca,Spain,0.0,0
+2017,Laliga,RCD Espanyol Barcelona,summer,out,Víctor Álvarez,99355,24,Spain,Left-Back,LB,1000000.0,Arsenal Tula,Russia,0.0,0
+2017,Laliga,RCD Espanyol Barcelona,summer,out,Paco Montañés,40442,30,Spain,Left Winger,LW,700000.0,CD Tenerife,Spain,0.0,0
+2017,Laliga,RCD Espanyol Barcelona,summer,out,Rober Correa,223890,24,Spain,Right-Back,RB,500000.0,Cádiz CF,Spain,0.0,0
+2017,Laliga,RCD Espanyol Barcelona,summer,out,Roberto,37403,31,Spain,Goalkeeper,GK,2000000.0,Málaga CF,Spain,0.0,1
+2017,Laliga,RCD Espanyol Barcelona,summer,out,José Antonio Reyes,7717,33,Spain,Right Winger,RW,800000.0,Without Club,,,0
+2017,Laliga,RCD Espanyol Barcelona,summer,out,Pablo Piatti,56067,28,Argentina,Attacking Midfield,AM,6000000.0,Valencia CF,Spain,0.0,1
+2017,Laliga,RCD Espanyol Barcelona,summer,out,Diego Reyes,131090,24,Mexico,Centre-Back,CB,6000000.0,FC Porto,Portugal,0.0,1
+2017,Laliga,RCD Espanyol Barcelona,summer,out,Diego López,34370,35,Spain,Goalkeeper,GK,1000000.0,AC Milan,Italy,0.0,1
+2017,Laliga,RCD Espanyol Barcelona,winter,out,Javi Fuego,56134,34,Spain,Defensive Midfield,DM,1000000.0,Villarreal CF,Spain,1500000.0,0
+2017,Laliga,RCD Espanyol Barcelona,winter,out,Pape Diop,39907,31,Senegal,Defensive Midfield,DM,1000000.0,SD Eibar,Spain,0.0,0
+2017,Laliga,RCD Espanyol Barcelona,winter,out,Hernán Pérez,73636,28,Paraguay,Right Winger,RW,1500000.0,Deportivo Alavés,Spain,0.0,1
+2017,Laliga,RCD Espanyol Barcelona,winter,out,Álvaro Vázquez,141835,26,Spain,Centre-Forward,CF,1000000.0,Gimnàstic de Tarragona,Spain,0.0,1
+2017,Laliga,Real Betis Balompié,summer,in,Ryad Boudebouz,77826,27,Algeria,Attacking Midfield,AM,10000000.0,Montpellier HSC,France,7000000.0,0
+2017,Laliga,Real Betis Balompié,summer,in,Víctor Camarasa,263856,23,Spain,Central Midfield,CM,5000000.0,Levante UD,Spain,7000000.0,0
+2017,Laliga,Real Betis Balompié,summer,in,Cristian Tello,141834,25,Spain,Left Winger,LW,8000000.0,FC Barcelona,Spain,4000000.0,0
+2017,Laliga,Real Betis Balompié,summer,in,Sergio León,145769,28,Spain,Centre-Forward,CF,3500000.0,CA Osasuna,Spain,3500000.0,0
+2017,Laliga,Real Betis Balompié,summer,in,Zouhair Feddal,129386,27,Morocco,Centre-Back,CB,3000000.0,Deportivo Alavés,Spain,2500000.0,0
+2017,Laliga,Real Betis Balompié,summer,in,Andrés Guardado,20506,30,Mexico,Central Midfield,CM,6000000.0,PSV Eindhoven,Netherlands,2500000.0,0
+2017,Laliga,Real Betis Balompié,summer,in,Javi García,36350,30,Spain,Defensive Midfield,DM,7000000.0,Zenit St. Petersburg,Russia,1500000.0,0
+2017,Laliga,Real Betis Balompié,summer,in,Joel Campbell,131248,25,Costa Rica,Right Winger,RW,6000000.0,Arsenal FC,England,0.0,1
+2017,Laliga,Real Betis Balompié,summer,in,Antonio Barragán,32522,30,Spain,Right-Back,RB,3000000.0,Middlesbrough FC,England,0.0,1
+2017,Laliga,Real Betis Balompié,summer,in,Jordi Amat,85289,25,Indonesia,Centre-Back,CB,2500000.0,Swansea City,England,0.0,1
+2017,Laliga,Real Betis Balompié,winter,in,Marc Bartra,99922,27,Spain,Centre-Back,CB,15000000.0,Borussia Dortmund,Germany,10500000.0,0
+2017,Laliga,Real Betis Balompié,summer,out,Dani Ceballos,319745,20,Spain,Central Midfield,CM,10000000.0,Real Madrid,Spain,16500000.0,0
+2017,Laliga,Real Betis Balompié,summer,out,Cristiano Piccini,163086,24,Italy,Centre-Back,CB,3000000.0,Sporting CP,Portugal,2870000.0,0
+2017,Laliga,Real Betis Balompié,summer,out,Petros,200558,28,Brazil,Defensive Midfield,DM,3500000.0,São Paulo Futebol Clube,Brazil,2500000.0,0
+2017,Laliga,Real Betis Balompié,summer,out,Jonas Martin,127142,27,France,Defensive Midfield,DM,2500000.0,RC Strasbourg Alsace,France,1500000.0,0
+2017,Laliga,Real Betis Balompié,summer,out,Francisco Portillo,138803,27,Spain,Right Winger,RW,1500000.0,Getafe CF,Spain,1500000.0,0
+2017,Laliga,Real Betis Balompié,summer,out,Dani Pacheco,28285,26,Spain,Central Midfield,CM,1500000.0,Getafe CF,Spain,1000000.0,0
+2017,Laliga,Real Betis Balompié,summer,out,Bruno González,188838,27,Spain,Centre-Back,CB,2500000.0,Getafe CF,Spain,600000.0,0
+2017,Laliga,Real Betis Balompié,summer,out,Germán Pezzella,113133,26,Argentina,Centre-Back,CB,6000000.0,ACF Fiorentina,Italy,500000.0,1
+2017,Laliga,Real Betis Balompié,summer,out,Álex Martínez,186891,26,Spain,Left-Back,LB,1000000.0,Granada CF,Spain,0.0,0
+2017,Laliga,Real Betis Balompié,summer,out,Manu Herrera,59343,35,Spain,Goalkeeper,GK,100000.0,CA Osasuna,Spain,0.0,0
+2017,Laliga,Real Betis Balompié,summer,out,Álvaro Cejudo,72779,33,Spain,Second Striker,SS,1500000.0,Western Sydney Wanderers,Australia,0.0,0
+2017,Laliga,Real Betis Balompié,summer,out,Roman Zozulya,70767,27,Ukraine,Centre-Forward,CF,1000000.0,Albacete Balompié,Spain,0.0,0
+2017,Laliga,Real Betis Balompié,summer,out,Álex Alegría,178187,24,Spain,Centre-Forward,CF,2000000.0,Levante UD,Spain,0.0,1
+2017,Laliga,Real Betis Balompié,summer,out,Darko Brasanac,95641,25,Serbia,Central Midfield,CM,4000000.0,CD Leganés,Spain,0.0,1
+2017,Laliga,Real Betis Balompié,summer,out,Rubén Castro,25316,36,Spain,Centre-Forward,CF,1000000.0,Guizhou Hengfeng,China,0.0,1
+2017,Laliga,Real Betis Balompié,summer,out,Didier Digard,52345,31,France,Defensive Midfield,DM,800000.0,Without Club,,,0
+2017,Laliga,Real Betis Balompié,summer,out,Ryan Donk,38414,31,Suriname,Centre-Back,CB,2000000.0,Galatasaray,Türkiye,0.0,1
+2017,Laliga,Real Betis Balompié,summer,out,Rubén Pardo,99352,24,Spain,Central Midfield,CM,4000000.0,Real Sociedad,Spain,0.0,1
+2017,Laliga,Real Betis Balompié,winter,out,Alin Toșca,148004,25,Romania,Centre-Back,CB,1000000.0,Benevento Calcio,Italy,100000.0,1
+2017,Laliga,Real Betis Balompié,winter,out,Felipe Gutiérrez,133089,27,Chile,Central Midfield,CM,2500000.0,Sporting Kansas City,United States,0.0,0
+2017,Laliga,Real Betis Balompié,winter,out,Juanjo Narváez,213595,22,Colombia,Centre-Forward,CF,200000.0,Córdoba CF,Spain,0.0,1
+2017,Laliga,Real Betis Balompié,winter,out,Matías Nahuel,263843,21,Spain,Left Winger,LW,1000000.0,Villarreal CF,Spain,0.0,1
+2017,Laliga,Real Madrid,summer,in,Theo Hernández,339808,19,France,Left-Back,LB,15000000.0,Atlético de Madrid,Spain,24000000.0,0
+2017,Laliga,Real Madrid,summer,in,Dani Ceballos,319745,20,Spain,Central Midfield,CM,10000000.0,Real Betis Balompié,Spain,16500000.0,0
+2017,Laliga,Real Madrid,summer,out,Álvaro Morata,128223,24,Spain,Centre-Forward,CF,40000000.0,Chelsea FC,England,66000000.0,0
+2017,Laliga,Real Madrid,summer,out,Danilo,145707,26,Brazil,Centre-Back,CB,16000000.0,Manchester City,England,30000000.0,0
+2017,Laliga,Real Madrid,summer,out,James Rodríguez,88103,26,Colombia,Attacking Midfield,AM,50000000.0,Bayern Munich,Germany,13000000.0,1
+2017,Laliga,Real Madrid,summer,out,Diego Llorente,246291,23,Spain,Centre-Back,CB,7500000.0,Real Sociedad,Spain,11000000.0,0
+2017,Laliga,Real Madrid,summer,out,Mariano Díaz,225020,23,Dominican Republic,Centre-Forward,CF,5000000.0,Olympique Lyon,France,8000000.0,0
+2017,Laliga,Real Madrid,summer,out,Burgui,246277,23,Spain,Left Winger,LW,1500000.0,Deportivo Alavés,Spain,3000000.0,0
+2017,Laliga,Real Madrid,summer,out,Fábio Coentrão,33648,29,Portugal,Left-Back,LB,5000000.0,Sporting CP,Portugal,1000000.0,1
+2017,Laliga,Real Madrid,summer,out,Philipp Lienhart,225657,20,Austria,Centre-Back,CB,800000.0,SC Freiburg,Germany,500000.0,1
+2017,Laliga,Real Madrid,summer,out,Pepe,14132,34,Portugal,Centre-Back,CB,3000000.0,Besiktas JK,Türkiye,0.0,0
+2017,Laliga,Real Madrid,summer,out,Rubén Yáñez,246335,23,Spain,Goalkeeper,GK,300000.0,Getafe CF,Spain,0.0,0
+2017,Laliga,Real Sociedad,summer,in,Diego Llorente,246291,23,Spain,Centre-Back,CB,7500000.0,Real Madrid,Spain,11000000.0,0
+2017,Laliga,Real Sociedad,summer,in,Adnan Januzaj,177847,22,Belgium,Right Winger,RW,7000000.0,Manchester United,England,8500000.0,0
+2017,Laliga,Real Sociedad,winter,in,Héctor Moreno,51046,30,Mexico,Centre-Back,CB,5000000.0,AS Roma,Italy,6000000.0,0
+2017,Laliga,Real Sociedad,winter,in,Miguel Ángel Moyá,26065,33,Spain,Goalkeeper,GK,2000000.0,Atlético de Madrid,Spain,0.0,0
+2017,Laliga,Real Sociedad,summer,out,Yuri Berchiche,61812,27,Spain,Left-Back,LB,10000000.0,Paris Saint-Germain,France,16000000.0,0
+2017,Laliga,Real Sociedad,summer,out,Mikel González,35560,31,Spain,Centre-Back,CB,1000000.0,Real Zaragoza,Spain,0.0,0
+2017,Laliga,Real Sociedad,summer,out,Pablo Hervías,142027,24,Spain,Right Winger,RW,500000.0,SD Eibar,Spain,0.0,0
+2017,Laliga,Real Sociedad,summer,out,Alain Oyarzun,229812,23,Spain,Left Winger,LW,200000.0,Real Zaragoza,Spain,0.0,0
+2017,Laliga,Real Sociedad,summer,out,Esteban Granero,44065,30,Spain,Central Midfield,CM,2000000.0,RCD Espanyol Barcelona,Spain,0.0,0
+2017,Laliga,Real Sociedad,summer,out,Ander Bardají,229798,22,Spain,Goalkeeper,GK,200000.0,SD Huesca,Spain,0.0,0
+2017,Laliga,Real Sociedad,summer,out,Jon Gaztañaga,66110,26,Spain,Central Midfield,CM,500000.0,Gimnàstic de Tarragona,Spain,0.0,0
+2017,Laliga,Real Sociedad,summer,out,Srdjan Babic,222805,21,Serbia,Centre-Back,CB,600000.0,Red Star Belgrade,Serbia,0.0,1
+2017,Laliga,Real Sociedad,summer,out,Héctor Hernández,221986,26,Spain,Left-Back,LB,600000.0,Deportivo Alavés,Spain,0.0,1
+2017,Laliga,Real Sociedad,summer,out,Joseba Zaldua,197135,25,Spain,Right-Back,RB,1500000.0,CD Leganés,Spain,0.0,1
+2017,Laliga,Real Sociedad,summer,out,Markel Bergara,51426,31,Spain,Defensive Midfield,DM,1500000.0,Getafe CF,Spain,0.0,1
+2017,Laliga,Real Sociedad,summer,out,David Concha,304250,20,Spain,Right Winger,RW,800000.0,FC Barcelona B,Spain,0.0,1
+2017,Laliga,Real Sociedad,winter,out,Iñigo Martínez,158863,26,Spain,Centre-Back,CB,25000000.0,Athletic Bilbao,Spain,32000000.0,0
+2017,Laliga,Real Sociedad,winter,out,Carlos Vela,35773,28,Mexico,Right Winger,RW,10000000.0,Los Angeles FC,United States,5000000.0,0
+2017,Laliga,SD Eibar,summer,in,Paulo Oliveira,139336,25,Portugal,Centre-Back,CB,4000000.0,Sporting CP,Portugal,4000000.0,0
+2017,Laliga,SD Eibar,summer,in,Joan Jordán,263727,23,Spain,Central Midfield,CM,1000000.0,RCD Espanyol Barcelona,Spain,3800000.0,0
+2017,Laliga,SD Eibar,summer,in,Marko Dmitrovic,94308,25,Serbia,Goalkeeper,GK,1000000.0,AD Alcorcón,Spain,1000000.0,0
+2017,Laliga,SD Eibar,summer,in,Yoel Rodríguez,58115,28,Spain,Goalkeeper,GK,2500000.0,Valencia CF,Spain,750000.0,0
+2017,Laliga,SD Eibar,summer,in,Iván Alejo,281755,22,Spain,Right-Back,RB,300000.0,AD Alcorcón,Spain,300000.0,0
+2017,Laliga,SD Eibar,summer,in,Cote,87469,27,Spain,Left-Back,LB,1500000.0,FC Porto,Portugal,0.0,0
+2017,Laliga,SD Eibar,summer,in,Pablo Hervías,142027,24,Spain,Right Winger,RW,500000.0,Real Sociedad,Spain,0.0,0
+2017,Laliga,SD Eibar,summer,in,Charles,154059,33,Brazil,Centre-Forward,CF,1500000.0,Málaga CF,Spain,0.0,0
+2017,Laliga,SD Eibar,summer,in,David Lombán,63723,30,Spain,Centre-Back,CB,2500000.0,Without Club,,,0
+2017,Laliga,SD Eibar,winter,in,Fabián Orellana,60890,31,Chile,Right Winger,RW,2000000.0,Valencia CF,Spain,400000.0,1
+2017,Laliga,SD Eibar,winter,in,Pape Diop,39907,31,Senegal,Defensive Midfield,DM,1000000.0,RCD Espanyol Barcelona,Spain,0.0,0
+2017,Laliga,SD Eibar,winter,in,Vukasin Jovanovic,264140,21,Serbia,Centre-Back,CB,5000000.0,FC Girondins Bordeaux,France,0.0,1
+2017,Laliga,SD Eibar,summer,out,Florian Lejeune,127108,26,France,Centre-Back,CB,5000000.0,Newcastle United,England,10000000.0,0
+2017,Laliga,SD Eibar,summer,out,Mauro dos Santos,55240,28,Argentina,Centre-Back,CB,2000000.0,CD Leganés,Spain,0.0,0
+2017,Laliga,SD Eibar,summer,out,Jon Ander Felipe,255497,22,Spain,Goalkeeper,GK,100000.0,CD Toledo,Spain,0.0,0
+2017,Laliga,SD Eibar,summer,out,Juanfran,207913,25,Spain,Centre-Forward,CF,150000.0,Marbella FC,Spain,0.0,0
+2017,Laliga,SD Eibar,summer,out,Sergio García,159644,27,Spain,Left Winger,LW,100000.0,Barakaldo CF ,Spain,0.0,0
+2017,Laliga,SD Eibar,summer,out,Antonio Luna,126516,26,Spain,Left-Back,LB,2000000.0,Levante UD,Spain,0.0,0
+2017,Laliga,SD Eibar,summer,out,Adrián González,44073,29,Spain,Central Midfield,CM,3000000.0,Málaga CF,Spain,0.0,0
+2017,Laliga,SD Eibar,summer,out,Pere Milla,225593,24,Spain,Left Winger,LW,300000.0,CD Numancia,Spain,0.0,1
+2017,Laliga,SD Eibar,summer,out,Pablo Hervías,142027,24,Spain,Right Winger,RW,500000.0,Real Valladolid CF,Spain,0.0,1
+2017,Laliga,SD Eibar,summer,out,Unai Elgezabal,255495,24,Spain,Centre-Back,CB,300000.0,CD Numancia,Spain,0.0,1
+2017,Laliga,SD Eibar,summer,out,Jordi Calavera,286849,22,Spain,Right Midfield,RM,800000.0,Sporting Gijón,Spain,0.0,1
+2017,Laliga,SD Eibar,summer,out,Nano Mesa,305956,22,Spain,Centre-Forward,CF,700000.0,Levante UD,Spain,0.0,1
+2017,Laliga,SD Eibar,summer,out,Íñigo Barrenetxea,399273,23,Spain,Central Midfield,CM,200000.0,Without Club,,,0
+2017,Laliga,SD Eibar,summer,out,Yoel Rodríguez,58115,28,Spain,Goalkeeper,GK,2500000.0,Valencia CF,Spain,0.0,1
+2017,Laliga,SD Eibar,winter,out,Alejandro Gálvez,128488,28,Spain,Centre-Back,CB,1500000.0,UD Las Palmas,Spain,0.0,1
+2017,Laliga,SD Eibar,winter,out,Christian Rivera,374077,20,Spain,Central Midfield,CM,700000.0,FC Barcelona B,Spain,0.0,1
+2017,Laliga,SD Eibar,winter,out,Nano Mesa,305956,22,Spain,Centre-Forward,CF,600000.0,Sporting Gijón,Spain,0.0,1
+2017,Laliga,SD Eibar,winter,out,Bebé,153427,27,Cape Verde,Left Winger,LW,1500000.0,Rayo Vallecano,Spain,0.0,1
+2017,Laliga,Sevilla FC,summer,in,Luis Muriel,119228,26,Colombia,Centre-Forward,CF,17000000.0,UC Sampdoria,Italy,24500000.0,0
+2017,Laliga,Sevilla FC,summer,in,Simon Kjaer,48859,28,Denmark,Centre-Back,CB,11000000.0,Fenerbahce,Türkiye,12500000.0,0
+2017,Laliga,Sevilla FC,summer,in,Guido Pizarro,105899,27,Argentina,Defensive Midfield,DM,5000000.0,Tigres UANL,Mexico,8700000.0,0
+2017,Laliga,Sevilla FC,summer,in,Nolito,70934,30,Spain,Left Winger,LW,12000000.0,Manchester City,England,7000000.0,0
+2017,Laliga,Sevilla FC,summer,in,Éver Banega,12249,29,Argentina,Central Midfield,CM,16000000.0,Inter Milan,Italy,7000000.0,0
+2017,Laliga,Sevilla FC,summer,in,Sébastien Corchia,102744,26,France,Right-Back,RB,7500000.0,LOSC Lille,France,5000000.0,0
+2017,Laliga,Sevilla FC,summer,in,Johannes Geis,89650,24,Germany,Defensive Midfield,DM,10000000.0,FC Schalke 04,Germany,2000000.0,1
+2017,Laliga,Sevilla FC,summer,in,Lionel Carole,11530,26,France,Left-Back,LB,3250000.0,Galatasaray,Türkiye,350000.0,1
+2017,Laliga,Sevilla FC,summer,in,Jesús Navas,15956,31,Spain,Right-Back,RB,12000000.0,Manchester City,England,0.0,0
+2017,Laliga,Sevilla FC,winter,in,Guilherme Arana,346766,20,Brazil,Left-Back,LB,10000000.0,Sport Club Corinthians Paulista,Brazil,11000000.0,0
+2017,Laliga,Sevilla FC,winter,in,Miguel Layún,58576,29,Mexico,Right-Back,RB,6000000.0,FC Porto,Portugal,0.0,1
+2017,Laliga,Sevilla FC,winter,in,Roque Mesa,202984,28,Spain,Central Midfield,CM,10000000.0,Swansea City,England,0.0,1
+2017,Laliga,Sevilla FC,winter,in,Sandro Ramírez,199369,22,Spain,Centre-Forward,CF,10000000.0,Everton FC,England,0.0,1
+2017,Laliga,Sevilla FC,summer,out,Vitolo,67082,27,Spain,Left Winger,LW,25000000.0,Atlético de Madrid,Spain,35600000.0,0
+2017,Laliga,Sevilla FC,summer,out,Vicente Iborra,65467,29,Spain,Defensive Midfield,DM,9000000.0,Leicester City,England,15000000.0,0
+2017,Laliga,Sevilla FC,summer,out,Yevgen Konoplyanka,58949,27,Ukraine,Left Winger,LW,10000000.0,FC Schalke 04,Germany,12500000.0,0
+2017,Laliga,Sevilla FC,summer,out,Adil Rami,51118,31,France,Centre-Back,CB,5000000.0,Olympique Marseille,France,6000000.0,0
+2017,Laliga,Sevilla FC,summer,out,Mariano,54155,31,Brazil,Right-Back,RB,8000000.0,Galatasaray,Türkiye,4500000.0,0
+2017,Laliga,Sevilla FC,summer,out,Sebastián Cristóforo,188157,23,Uruguay,Central Midfield,CM,2700000.0,ACF Fiorentina,Italy,2500000.0,0
+2017,Laliga,Sevilla FC,summer,out,Juan Muñoz,268958,21,Spain,Centre-Forward,CF,500000.0,UD Almería,Spain,0.0,1
+2017,Laliga,Sevilla FC,summer,out,Benoît Trémoulinas,43264,31,France,Left-Back,LB,2000000.0,Without Club,,,0
+2017,Laliga,Sevilla FC,summer,out,Stevan Jovetić,46104,27,Montenegro,Second Striker,SS,10000000.0,Inter Milan,Italy,0.0,1
+2017,Laliga,Sevilla FC,summer,out,Samir Nasri,18935,30,France,Attacking Midfield,AM,16000000.0,Manchester City,England,0.0,1
+2017,Laliga,Sevilla FC,summer,out,Luciano Vietto,214316,23,Argentina,Centre-Forward,CF,12000000.0,Atlético de Madrid,Spain,0.0,1
+2017,Laliga,Sevilla FC,summer,out,Matías Kranevitter,240900,24,Argentina,Defensive Midfield,DM,6000000.0,Atlético de Madrid,Spain,0.0,1
+2017,Laliga,Sevilla FC,winter,out,Walter Montoya,267420,24,Argentina,Central Midfield,CM,5000000.0,CD Cruz Azul,Mexico,5500000.0,0
+2017,Laliga,Sevilla FC,winter,out,Michael Krohn-Dehli,18006,34,Denmark,Central Midfield,CM,1500000.0,Deportivo de La Coruña,Spain,0.0,0
+2017,Laliga,Sevilla FC,winter,out,Borja Lasso,268949,24,Spain,Attacking Midfield,AM,1500000.0,CA Osasuna,Spain,0.0,1
+2017,Laliga,UD Las Palmas,summer,in,Ximo Navarro,184767,27,Spain,Right-Back,RB,2000000.0,UD Almería,Spain,0.0,0
+2017,Laliga,UD Las Palmas,summer,in,Loïc Rémy,45121,30,France,Centre-Forward,CF,9000000.0,Chelsea FC,England,0.0,0
+2017,Laliga,UD Las Palmas,summer,in,Alberto Aquilani,5957,33,Italy,Central Midfield,CM,1000000.0,Delfino Pescara 1936,Italy,0.0,0
+2017,Laliga,UD Las Palmas,summer,in,Leandro Chichizola,95736,27,Argentina,Goalkeeper,GK,1000000.0,Spezia Calcio,Italy,0.0,0
+2017,Laliga,UD Las Palmas,summer,in,Oussama Tannane,235540,23,Morocco,Attacking Midfield,AM,3000000.0,AS Saint-Étienne,France,0.0,1
+2017,Laliga,UD Las Palmas,summer,in,Hernán Toledo,397896,21,Argentina,Left Winger,LW,4500000.0,Club Deportivo Maldonado,Uruguay,0.0,1
+2017,Laliga,UD Las Palmas,summer,in,Jonathan Calleri,284727,23,Argentina,Centre-Forward,CF,8000000.0,Club Deportivo Maldonado,Uruguay,0.0,1
+2017,Laliga,UD Las Palmas,summer,in,Vitolo,67082,27,Spain,Left Winger,LW,25000000.0,Atlético de Madrid,Spain,0.0,1
+2017,Laliga,UD Las Palmas,summer,in,Sergi Samper,181112,22,Spain,Defensive Midfield,DM,3500000.0,FC Barcelona,Spain,0.0,1
+2017,Laliga,UD Las Palmas,winter,in,Jairo Samperio,171167,24,Spain,Right Winger,RW,2000000.0,1.FSV Mainz 05,Germany,350000.0,0
+2017,Laliga,UD Las Palmas,winter,in,Imoh Ezekiel,216463,24,Nigeria,Centre-Forward,CF,3000000.0,Konyaspor,Türkiye,0.0,0
+2017,Laliga,UD Las Palmas,winter,in,Gabriel Peñalba,30929,33,Argentina,Central Midfield,CM,1200000.0,CD Cruz Azul,Mexico,0.0,0
+2017,Laliga,UD Las Palmas,winter,in,Emmanuel Emenike,120630,30,Nigeria,Centre-Forward,CF,2500000.0,Olympiacos Piraeus,Greece,0.0,1
+2017,Laliga,UD Las Palmas,winter,in,Alejandro Gálvez,128488,28,Spain,Centre-Back,CB,1500000.0,SD Eibar,Spain,0.0,1
+2017,Laliga,UD Las Palmas,winter,in,Peter Etebo,409106,22,Nigeria,Defensive Midfield,DM,1500000.0,CD Feirense,Portugal,0.0,1
+2017,Laliga,UD Las Palmas,winter,in,Nacho Gil,336731,22,Spain,Left Winger,LW,300000.0,Valencia CF,Spain,0.0,1
+2017,Laliga,UD Las Palmas,winter,in,Matías Aguirregaray,74232,28,Uruguay,Right-Back,RB,1800000.0,Club Tijuana,Mexico,0.0,1
+2017,Laliga,UD Las Palmas,summer,out,Roque Mesa,202984,28,Spain,Central Midfield,CM,12000000.0,Swansea City,England,12500000.0,0
+2017,Laliga,UD Las Palmas,summer,out,Sergio Araujo,110366,25,Argentina,Centre-Forward,CF,2000000.0,AEK Athens,Greece,500000.0,1
+2017,Laliga,UD Las Palmas,summer,out,Marko Livaja,95438,23,Croatia,Centre-Forward,CF,2500000.0,AEK Athens,Greece,200000.0,1
+2017,Laliga,UD Las Palmas,summer,out,Kevin-Prince Boateng,16922,30,Ghana,Attacking Midfield,AM,5000000.0,Eintracht Frankfurt,Germany,0.0,0
+2017,Laliga,UD Las Palmas,summer,out,Tyronne,172127,26,Spain,Attacking Midfield,AM,400000.0,CD Tenerife,Spain,0.0,0
+2017,Laliga,UD Las Palmas,summer,out,Héctor Figueroa,274765,28,Spain,Centre-Forward,CF,200000.0,CD Toledo,Spain,0.0,0
+2017,Laliga,UD Las Palmas,summer,out,Hélder Lopes,171068,28,Portugal,Left-Back,LB,1500000.0,AEK Athens,Greece,0.0,0
+2017,Laliga,UD Las Palmas,summer,out,Ángel Montoro,59551,29,Spain,Central Midfield,CM,1000000.0,Granada CF,Spain,0.0,0
+2017,Laliga,UD Las Palmas,summer,out,Javi Varas,58341,34,Spain,Goalkeeper,GK,400000.0,Granada CF,Spain,0.0,0
+2017,Laliga,UD Las Palmas,summer,out,Mateo García,441287,20,Argentina,Right Winger,RW,1200000.0,CA Osasuna,Spain,0.0,1
+2017,Laliga,UD Las Palmas,summer,out,Jesé,134936,24,Spain,Left Winger,LW,7500000.0,Paris Saint-Germain,France,0.0,1
+2017,Laliga,UD Las Palmas,winter,out,Jonathan Viera,153238,28,Spain,Attacking Midfield,AM,8000000.0,Beijing Guoan,China,11000000.0,0
+2017,Laliga,UD Las Palmas,winter,out,Mauricio Lemos,303140,22,Uruguay,Centre-Back,CB,6000000.0,US Sassuolo,Italy,1500000.0,1
+2017,Laliga,UD Las Palmas,winter,out,Hernán Santana,176133,27,Spain,Central Midfield,CM,700000.0,Sporting Gijón,Spain,0.0,0
+2017,Laliga,UD Las Palmas,winter,out,Aythami Artiles,44735,31,Spain,Centre-Back,CB,700000.0,Córdoba CF,Spain,0.0,0
+2017,Laliga,UD Las Palmas,winter,out,Loïc Rémy,45121,31,France,Centre-Forward,CF,8000000.0,Getafe CF,Spain,0.0,1
+2017,Laliga,UD Las Palmas,winter,out,Mateo García,441287,21,Argentina,Right Winger,RW,1200000.0,AD Alcorcón,Spain,0.0,1
+2017,Laliga,UD Las Palmas,winter,out,Borja Herrera,311277,25,Spain,Attacking Midfield,AM,300000.0,Real Valladolid CF,Spain,0.0,1
+2017,Laliga,UD Las Palmas,winter,out,Alfredo Ortuño,96540,26,Spain,Centre-Forward,CF,1000000.0,Without Club,,,0
+2017,Laliga,UD Las Palmas,winter,out,Vitolo,67082,28,Spain,Left Winger,LW,30000000.0,Atlético de Madrid,Spain,0.0,1
+2017,Laliga,UD Las Palmas,winter,out,Oussama Tannane,235540,23,Morocco,Attacking Midfield,AM,1500000.0,AS Saint-Étienne,France,0.0,1
+2017,Laliga,UD Las Palmas,winter,out,Sergi Samper,181112,23,Spain,Defensive Midfield,DM,2500000.0,FC Barcelona,Spain,0.0,1
+2017,Laliga,Valencia CF,summer,in,Simone Zaza,96828,26,Italy,Centre-Forward,CF,15000000.0,Juventus FC,Italy,16000000.0,0
+2017,Laliga,Valencia CF,summer,in,Gabriel Paulista,149498,26,Brazil,Centre-Back,CB,13000000.0,Arsenal FC,England,11000000.0,0
+2017,Laliga,Valencia CF,summer,in,Neto,111819,27,Brazil,Goalkeeper,GK,6000000.0,Juventus FC,Italy,7000000.0,0
+2017,Laliga,Valencia CF,summer,in,Fabián Orellana,60890,31,Chile,Right Winger,RW,3000000.0,Celta de Vigo,Spain,3000000.0,0
+2017,Laliga,Valencia CF,summer,in,Andreas Pereira,203394,21,Brazil,Attacking Midfield,AM,5000000.0,Manchester United,England,3000000.0,1
+2017,Laliga,Valencia CF,summer,in,Jeison Murillo,131102,25,Colombia,Centre-Back,CB,13000000.0,Inter Milan,Italy,1000000.0,1
+2017,Laliga,Valencia CF,summer,in,Nemanja Maksimovic,273152,22,Serbia,Central Midfield,CM,3000000.0,FC Astana,Kazakhstan,0.0,0
+2017,Laliga,Valencia CF,summer,in,Geoffrey Kondogbia,127189,24,Central African Republic,Defensive Midfield,DM,18000000.0,Inter Milan,Italy,0.0,1
+2017,Laliga,Valencia CF,summer,in,Gonçalo Guedes,225122,20,Portugal,Left Winger,LW,17000000.0,Paris Saint-Germain,France,0.0,1
+2017,Laliga,Valencia CF,winter,in,Francis Coquelin,74869,26,France,Defensive Midfield,DM,12000000.0,Arsenal FC,England,14000000.0,0
+2017,Laliga,Valencia CF,winter,in,Luciano Vietto,214316,24,Argentina,Centre-Forward,CF,10000000.0,Atlético de Madrid,Spain,0.0,1
+2017,Laliga,Valencia CF,summer,out,Mathew Ryan,128969,25,Australia,Goalkeeper,GK,3500000.0,Brighton & Hove Albion,England,6000000.0,0
+2017,Laliga,Valencia CF,summer,out,Álvaro Negredo,18644,31,Spain,Centre-Forward,CF,7500000.0,Besiktas JK,Türkiye,2500000.0,0
+2017,Laliga,Valencia CF,summer,out,Enzo Pérez,56066,31,Argentina,Defensive Midfield,DM,8000000.0,CA River Plate,Argentina,2500000.0,0
+2017,Laliga,Valencia CF,summer,out,Nani,33706,30,Portugal,Left Winger,LW,10000000.0,SS Lazio,Italy,2000000.0,1
+2017,Laliga,Valencia CF,summer,out,Pablo Piatti,56067,28,Argentina,Attacking Midfield,AM,6000000.0,RCD Espanyol Barcelona,Spain,1300000.0,0
+2017,Laliga,Valencia CF,summer,out,Aderllan Santos,159142,28,Brazil,Centre-Back,CB,3500000.0,São Paulo Futebol Clube,Brazil,800000.0,1
+2017,Laliga,Valencia CF,summer,out,Yoel Rodríguez,58115,28,Spain,Goalkeeper,GK,2500000.0,SD Eibar,Spain,750000.0,0
+2017,Laliga,Valencia CF,summer,out,Diego Alves,42373,32,Brazil,Goalkeeper,GK,5000000.0,CR Flamengo,Brazil,300000.0,0
+2017,Laliga,Valencia CF,summer,out,Vinícius Araújo,258374,24,Brazil,Centre-Forward,CF,700000.0,Real Zaragoza,Spain,0.0,0
+2017,Laliga,Valencia CF,summer,out,Aymen Abdennour,108830,28,Tunisia,Centre-Back,CB,6000000.0,Olympique Marseille,France,0.0,1
+2017,Laliga,Valencia CF,summer,out,Zakaria Bakkali,203378,21,Belgium,Left Winger,LW,2000000.0,Deportivo de La Coruña,Spain,0.0,1
+2017,Laliga,Valencia CF,summer,out,João Cancelo,182712,23,Portugal,Right-Back,RB,20000000.0,Inter Milan,Italy,0.0,1
+2017,Laliga,Valencia CF,summer,out,Álvaro Medrán,253839,23,Spain,Central Midfield,CM,2500000.0,Deportivo Alavés,Spain,0.0,1
+2017,Laliga,Valencia CF,summer,out,Fabián Orellana,60890,31,Chile,Right Winger,RW,3000000.0,Celta de Vigo,Spain,0.0,1
+2017,Laliga,Valencia CF,summer,out,Guilherme Siqueira,44373,31,Brazil,Left-Back,LB,1500000.0,Atlético de Madrid,Spain,0.0,1
+2017,Laliga,Valencia CF,summer,out,Simone Zaza,96828,26,Italy,Centre-Forward,CF,15000000.0,Juventus FC,Italy,0.0,1
+2017,Laliga,Valencia CF,summer,out,Eliaquim Mangala,90681,26,France,Centre-Back,CB,15000000.0,Manchester City,England,0.0,1
+2017,Laliga,Valencia CF,summer,out,Munir El Haddadi,223725,21,Morocco,Attacking Midfield,AM,9000000.0,FC Barcelona,Spain,0.0,1
+2017,Laliga,Valencia CF,summer,out,Mario Suárez,37337,30,Spain,Defensive Midfield,DM,6000000.0,Watford FC,England,0.0,1
+2017,Laliga,Valencia CF,winter,out,Fabián Orellana,60890,31,Chile,Right Winger,RW,2000000.0,SD Eibar,Spain,400000.0,1
+2017,Laliga,Valencia CF,winter,out,Rober Ibáñez,242532,24,Spain,Right Winger,RW,1500000.0,Getafe CF,Spain,0.0,0
+2017,Laliga,Valencia CF,winter,out,Nacho Gil,336731,22,Spain,Left Winger,LW,300000.0,UD Las Palmas,Spain,0.0,1
+2017,Laliga,Valencia CF,winter,out,Aderllan Santos,159142,29,Brazil,Centre-Back,CB,3000000.0,Esporte Clube Vitória,Brazil,0.0,1
+2017,Laliga,Villarreal CF,summer,in,Enes Ünal,251106,20,Türkiye,Centre-Forward,CF,10000000.0,Manchester City,England,14000000.0,0
+2017,Laliga,Villarreal CF,summer,in,Rúben Semedo,197602,23,Portugal,Centre-Back,CB,9000000.0,Sporting CP,Portugal,14000000.0,0
+2017,Laliga,Villarreal CF,summer,in,Pablo Fornals,357885,21,Spain,Central Midfield,CM,10000000.0,Málaga CF,Spain,12000000.0,0
+2017,Laliga,Villarreal CF,summer,in,Carlos Bacca,119235,30,Colombia,Centre-Forward,CF,18000000.0,AC Milan,Italy,2500000.0,1
+2017,Laliga,Villarreal CF,summer,in,Andrés Fernández,57522,30,Spain,Goalkeeper,GK,1500000.0,FC Porto,Portugal,2000000.0,0
+2017,Laliga,Villarreal CF,summer,in,Luis Quintero,742864,12,Colombia,Right Winger,RW,,Kelme CF U19,Spain,,0
+2017,Laliga,Villarreal CF,winter,in,Javi Fuego,56134,34,Spain,Defensive Midfield,DM,1000000.0,RCD Espanyol Barcelona,Spain,1500000.0,0
+2017,Laliga,Villarreal CF,winter,in,Roger Martínez,285771,23,Colombia,Centre-Forward,CF,4000000.0,Jiangsu Suning,China,100000.0,1
+2017,Laliga,Villarreal CF,winter,in,Salem Al-Dawsari,195332,26,Saudi Arabia,Left Winger,LW,950000.0,Al-Hilal SFC,Saudi Arabia,0.0,1
+2017,Laliga,Villarreal CF,summer,out,Mateo Musacchio,45653,26,Argentina,Centre-Back,CB,18000000.0,AC Milan,Italy,18000000.0,0
+2017,Laliga,Villarreal CF,summer,out,Roberto Soldado,34870,32,Spain,Centre-Forward,CF,8000000.0,Fenerbahce,Türkiye,5000000.0,0
+2017,Laliga,Villarreal CF,summer,out,Jonathan dos Santos,60445,27,Mexico,Defensive Midfield,DM,8000000.0,Los Angeles Galaxy,United States,5000000.0,0
+2017,Laliga,Villarreal CF,summer,out,Akram Afif,336646,20,Qatar,Left Winger,LW,600000.0,KAS Eupen,Belgium,0.0,1
+2017,Laliga,Villarreal CF,summer,out,Enes Ünal,251106,20,Türkiye,Centre-Forward,CF,14000000.0,Levante UD,Spain,0.0,1
+2017,Laliga,Villarreal CF,summer,out,Alfred N'Diaye,77737,27,Senegal,Defensive Midfield,DM,5000000.0,Wolverhampton Wanderers,England,0.0,1
+2017,Laliga,Villarreal CF,summer,out,Cristian Espinoza,278992,22,Argentina,Right Winger,RW,2500000.0,CA Boca Juniors,Argentina,0.0,1
+2017,Laliga,Villarreal CF,summer,out,Alfonso Pedraza,356197,21,Spain,Left-Back,LB,1000000.0,Deportivo Alavés,Spain,0.0,1
+2017,Laliga,Villarreal CF,summer,out,Andrés Fernández,57522,30,Spain,Goalkeeper,GK,1500000.0,FC Porto,Portugal,0.0,1
+2017,Laliga,Villarreal CF,summer,out,Adrián López,45383,29,Spain,Centre-Forward,CF,3500000.0,FC Porto,Portugal,0.0,1
+2017,Laliga,Villarreal CF,summer,out,Rafael Borré,323831,21,Colombia,Centre-Forward,CF,2000000.0,Atlético de Madrid,Spain,0.0,1
+2017,Laliga,Villarreal CF,summer,out,Cote,87469,27,Spain,Left-Back,LB,1500000.0,FC Porto,Portugal,0.0,1
+2017,Laliga,Villarreal CF,winter,out,Cédric Bakambu,127048,26,DR Congo,Centre-Forward,CF,25000000.0,Beijing Guoan,China,40000000.0,0
+2017,Laliga,Villarreal CF,winter,out,Matías Nahuel,263843,21,Spain,Left Winger,LW,1000000.0,FC Barcelona B,Spain,0.0,1
+2017,Laliga,Villarreal CF,winter,out,Akram Afif,336646,21,Qatar,Left Winger,LW,700000.0,Al-Sadd SC,Qatar,0.0,1

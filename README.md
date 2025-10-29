@@ -7,11 +7,11 @@ If you'd like to use this data, simply clone the repository or download whatever
 
 ## Leagues
 
-I have scraped data for the following leagues and seasons so far:
+I have scraped data for the following leagues so far.
+All league data span the 1992&ndash;93 season through the current season unless otherwise noted.
 
 - Premier League (England)
-  - All windows of the 1992&ndash;93 through 2024&ndash;25 seasons
-  - Summer transfer window of the 2025&ndash;26 season (the current season)
+- La Liga (Spain)
 
 More leagues and seasons are to come!
 
