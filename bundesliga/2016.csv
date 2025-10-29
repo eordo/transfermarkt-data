@@ -1,0 +1,434 @@
+season,league,club,window,movement,player_name,player_id,age,nationality,position,pos,market_value,dealing_club,dealing_country,fee,is_loan
+2016,Bundesliga,1.FC Köln,summer,in,Serhou Guirassy,270541,20,Guinea,Centre-Forward,CF,2000000.0,LOSC Lille,France,3800000.0,0
+2016,Bundesliga,1.FC Köln,summer,in,Marco Höger,55510,26,Germany,Defensive Midfield,DM,4000000.0,FC Schalke 04,Germany,1300000.0,0
+2016,Bundesliga,1.FC Köln,summer,in,Artjoms Rudnevs,103547,28,Latvia,Centre-Forward,CF,1000000.0,Hamburger SV,Germany,0.0,0
+2016,Bundesliga,1.FC Köln,summer,in,Konstantin Rausch,45668,26,Russia,Left-Back,LB,1500000.0,SV Darmstadt 98,Germany,0.0,0
+2016,Bundesliga,1.FC Köln,winter,in,Christian Clemens,44713,25,Germany,Right Winger,RW,3000000.0,1.FSV Mainz 05,Germany,2750000.0,0
+2016,Bundesliga,1.FC Köln,winter,in,Neven Subotic,40995,28,Germany,Centre-Back,CB,8000000.0,Borussia Dortmund,Germany,500000.0,1
+2016,Bundesliga,1.FC Köln,summer,out,Yannick Gerhardt,119277,22,Germany,Central Midfield,CM,4500000.0,VfL Wolfsburg,Germany,13000000.0,0
+2016,Bundesliga,1.FC Köln,summer,out,Kevin Vogt,84435,24,Germany,Centre-Back,CB,4000000.0,TSG 1899 Hoffenheim,Germany,3000000.0,0
+2016,Bundesliga,1.FC Köln,summer,out,Daniel Mesenhöler,150080,20,Germany,Goalkeeper,GK,150000.0,1.FC Union Berlin,Germany,0.0,0
+2016,Bundesliga,1.FC Köln,summer,out,Dusan Svento,34543,30,Slovakia,Left Midfield,LM,750000.0,SK Slavia Prague,Czech Republic,0.0,0
+2016,Bundesliga,1.FC Köln,summer,out,Bruno Nascimento,159570,25,Brazil,Centre-Back,CB,700000.0,Omonia Nicosia,Cyprus,0.0,0
+2016,Bundesliga,1.FC Köln,summer,out,Philipp Hosiner,37788,27,Austria,Centre-Forward,CF,1250000.0,Stade Rennais FC,France,0.0,1
+2016,Bundesliga,1.FC Köln,winter,out,Mergim Mavraj,38267,30,Albania,Centre-Back,CB,1750000.0,Hamburger SV,Germany,1800000.0,0
+2016,Bundesliga,1.FC Köln,winter,out,Filip Mladenovic,168063,25,Serbia,Left-Back,LB,2000000.0,Standard Liège,Belgium,1200000.0,0
+2016,Bundesliga,1.FSV Mainz 05,summer,in,Jhon Córdoba,185245,23,Colombia,Centre-Forward,CF,3500000.0,Granada CF,Spain,6500000.0,0
+2016,Bundesliga,1.FSV Mainz 05,summer,in,Jean-Philippe Gbamin,182894,20,Cote d'Ivoire,Defensive Midfield,DM,2500000.0,RC Lens,France,5000000.0,0
+2016,Bundesliga,1.FSV Mainz 05,summer,in,Levin Öztunali,168543,20,Germany,Left Winger,LW,3000000.0,Bayer 04 Leverkusen,Germany,5000000.0,0
+2016,Bundesliga,1.FSV Mainz 05,summer,in,Gerrit Holtmann,190289,21,Philippines,Left Winger,LW,600000.0,Eintracht Braunschweig,Germany,3000000.0,0
+2016,Bundesliga,1.FSV Mainz 05,summer,in,Jonas Lössl,48870,27,Denmark,Goalkeeper,GK,2500000.0,EA Guingamp,France,2500000.0,0
+2016,Bundesliga,1.FSV Mainz 05,summer,in,José Rodríguez,165012,21,Spain,Central Midfield,CM,2500000.0,Galatasaray,Türkiye,2150000.0,0
+2016,Bundesliga,1.FSV Mainz 05,summer,in,Christian Clemens,44713,24,Germany,Right Winger,RW,2500000.0,FC Schalke 04,Germany,2000000.0,0
+2016,Bundesliga,1.FSV Mainz 05,summer,in,André Ramalho,175792,24,Brazil,Centre-Back,CB,2000000.0,Bayer 04 Leverkusen,Germany,500000.0,1
+2016,Bundesliga,1.FSV Mainz 05,winter,in,Robin Quaison,206542,23,Sweden,Centre-Forward,CF,2000000.0,US Palermo,Italy,2500000.0,0
+2016,Bundesliga,1.FSV Mainz 05,winter,in,Marin Šverko,282169,18,Croatia,Centre-Back,CB,,Karlsruher SC U19,Germany,60000.0,0
+2016,Bundesliga,1.FSV Mainz 05,winter,in,Bojan Krkic,44675,26,Spain,Second Striker,SS,10000000.0,Stoke City,England,0.0,1
+2016,Bundesliga,1.FSV Mainz 05,summer,out,Loris Karius,85864,23,Germany,Goalkeeper,GK,7000000.0,Liverpool FC,England,6200000.0,0
+2016,Bundesliga,1.FSV Mainz 05,summer,out,Julian Baumgartlinger,34787,28,Austria,Defensive Midfield,DM,6000000.0,Bayer 04 Leverkusen,Germany,4000000.0,0
+2016,Bundesliga,1.FSV Mainz 05,summer,out,Christoph Moritz,55519,26,Germany,Central Midfield,CM,1500000.0,1.FC Kaiserslautern,Germany,250000.0,0
+2016,Bundesliga,1.FSV Mainz 05,summer,out,Elkin Soto,40937,35,Colombia,Central Midfield,CM,250000.0,Once Caldas,Colombia,0.0,0
+2016,Bundesliga,1.FSV Mainz 05,summer,out,Dani Schahin,58437,26,Germany,Centre-Forward,CF,400000.0,Roda JC Kerkrade,Netherlands,0.0,0
+2016,Bundesliga,1.FSV Mainz 05,summer,out,Pierre Neurath Bengtsson,50577,28,Sweden,Left-Back,LB,2000000.0,SC Bastia,France,0.0,1
+2016,Bundesliga,1.FSV Mainz 05,summer,out,Sereno,48931,31,Portugal,Centre-Back,CB,500000.0,Without Club,,,0
+2016,Bundesliga,1.FSV Mainz 05,summer,out,Christian Clemens,44713,24,Germany,Right Winger,RW,2500000.0,FC Schalke 04,Germany,0.0,1
+2016,Bundesliga,1.FSV Mainz 05,summer,out,Jhon Córdoba,185245,23,Colombia,Centre-Forward,CF,3500000.0,Granada CF,Spain,0.0,1
+2016,Bundesliga,1.FSV Mainz 05,winter,out,Yunus Mallı,85352,24,Türkiye,Central Midfield,CM,10000000.0,VfL Wolfsburg,Germany,12500000.0,0
+2016,Bundesliga,1.FSV Mainz 05,winter,out,Christian Clemens,44713,25,Germany,Right Winger,RW,3000000.0,1.FC Köln,Germany,2750000.0,0
+2016,Bundesliga,1.FSV Mainz 05,winter,out,José Rodríguez,165012,22,Spain,Central Midfield,CM,2250000.0,Málaga CF,Spain,0.0,1
+2016,Bundesliga,1.FSV Mainz 05,winter,out,Gianluca Curci,24001,31,Italy,Goalkeeper,GK,700000.0,Without Club,,,0
+2016,Bundesliga,Bayer 04 Leverkusen,summer,in,Aleksandar Dragovic,59032,25,Austria,Centre-Back,CB,15000000.0,Dynamo Kyiv,Ukraine,21000000.0,0
+2016,Bundesliga,Bayer 04 Leverkusen,summer,in,Kevin Volland,82009,23,Germany,Attacking Midfield,AM,17000000.0,TSG 1899 Hoffenheim,Germany,20000000.0,0
+2016,Bundesliga,Bayer 04 Leverkusen,summer,in,Julian Baumgartlinger,34787,28,Austria,Defensive Midfield,DM,6000000.0,1.FSV Mainz 05,Germany,4000000.0,0
+2016,Bundesliga,Bayer 04 Leverkusen,summer,in,Jonas Meffert,107574,21,Germany,Defensive Midfield,DM,1500000.0,Karlsruher SC,Germany,600000.0,0
+2016,Bundesliga,Bayer 04 Leverkusen,summer,in,Danny da Costa,85906,22,Germany,Centre-Back,CB,1000000.0,FC Ingolstadt 04,Germany,500000.0,0
+2016,Bundesliga,Bayer 04 Leverkusen,summer,in,Ramazan Özcan,16498,32,Austria,Goalkeeper,GK,1250000.0,FC Ingolstadt 04,Germany,500000.0,0
+2016,Bundesliga,Bayer 04 Leverkusen,winter,in,Leon Bailey,387626,19,Jamaica,Right Winger,RW,12500000.0,KRC Genk,Belgium,16700000.0,0
+2016,Bundesliga,Bayer 04 Leverkusen,summer,out,Christoph Kramer,82097,25,Germany,Defensive Midfield,DM,12000000.0,Borussia Mönchengladbach,Germany,15000000.0,0
+2016,Bundesliga,Bayer 04 Leverkusen,summer,out,Levin Öztunali,168543,20,Germany,Left Winger,LW,3000000.0,1.FSV Mainz 05,Germany,5000000.0,0
+2016,Bundesliga,Bayer 04 Leverkusen,summer,out,Jonas Meffert,107574,21,Germany,Defensive Midfield,DM,1500000.0,SC Freiburg,Germany,1200000.0,0
+2016,Bundesliga,Bayer 04 Leverkusen,summer,out,Kyriakos Papadopoulos,58489,24,Greece,Centre-Back,CB,6500000.0,RB Leipzig,Germany,1000000.0,1
+2016,Bundesliga,Bayer 04 Leverkusen,summer,out,André Ramalho,175792,24,Brazil,Centre-Back,CB,2000000.0,1.FSV Mainz 05,Germany,500000.0,1
+2016,Bundesliga,Bayer 04 Leverkusen,summer,out,Maximilian Wagener,158530,21,Germany,Central Midfield,CM,100000.0,SG Wattenscheid 09,Germany,0.0,0
+2016,Bundesliga,Bayer 04 Leverkusen,summer,out,Dario Kresic,14219,32,Croatia,Goalkeeper,GK,300000.0,Omonia Nicosia,Cyprus,0.0,0
+2016,Bundesliga,Bayer 04 Leverkusen,summer,out,David Yelldell,4746,34,United States,Goalkeeper,GK,150000.0,SG Sonnenhof Großaspach,Germany,0.0,0
+2016,Bundesliga,Bayer 04 Leverkusen,summer,out,Marc Brasnic,170514,19,Germany,Centre-Forward,CF,250000.0,SC Fortuna Köln,Germany,0.0,1
+2016,Bundesliga,Bayer 04 Leverkusen,summer,out,Malcolm Cacutalua,123558,21,Germany,Centre-Back,CB,450000.0,Arminia Bielefeld,Germany,,0
+2016,Bundesliga,Bayer 04 Leverkusen,summer,out,Marlon Frey,182752,20,Germany,Defensive Midfield,DM,500000.0,1.FC Kaiserslautern,Germany,0.0,1
+2016,Bundesliga,Bayer 04 Leverkusen,summer,out,Patrik Dzalto,252088,19,Croatia,Attacking Midfield,AM,,SSV Jahn Regensburg,Germany,0.0,1
+2016,Bundesliga,Bayer 04 Leverkusen,summer,out,Robin Becker,237444,19,Germany,Right-Back,RB,100000.0,1.FC Heidenheim 1846,Germany,0.0,1
+2016,Bundesliga,Bayer 04 Leverkusen,summer,out,Andrejs Ciganiks,202659,19,Latvia,Left-Back,LB,,FC Viktoria Köln,Germany,0.0,1
+2016,Bundesliga,Bayer 04 Leverkusen,summer,out,Seung-woo Ryu,261406,22,"Korea, South",Attacking Midfield,AM,500000.0,Ferencvárosi TC,Hungary,0.0,1
+2016,Bundesliga,Bayer 04 Leverkusen,summer,out,Sebastian Boenisch,36914,29,Poland,Left-Back,LB,1000000.0,Without Club,,,0
+2016,Bundesliga,Bayer 04 Leverkusen,winter,out,Robbie Kruse,51972,28,Australia,Left Winger,LW,800000.0,Liaoning FC,China,500000.0,0
+2016,Bundesliga,Bayer 04 Leverkusen,winter,out,Kyriakos Papadopoulos,58489,24,Greece,Centre-Back,CB,6500000.0,Hamburger SV,Germany,500000.0,1
+2016,Bundesliga,Bayer 04 Leverkusen,winter,out,Lukas Boeder,227078,19,Germany,Centre-Back,CB,150000.0,SC Paderborn 07,Germany,0.0,1
+2016,Bundesliga,Bayern Munich,summer,in,Renato Sanches,258027,18,Portugal,Central Midfield,CM,20000000.0,SL Benfica,Portugal,35000000.0,0
+2016,Bundesliga,Bayern Munich,summer,in,Mats Hummels,39728,27,Germany,Centre-Back,CB,38000000.0,Borussia Dortmund,Germany,35000000.0,0
+2016,Bundesliga,Bayern Munich,summer,out,Mario Götze,74842,24,Germany,Attacking Midfield,AM,35000000.0,Borussia Dortmund,Germany,22000000.0,0
+2016,Bundesliga,Bayern Munich,summer,out,Pierre-Emile Højbjerg,167799,20,Denmark,Defensive Midfield,DM,6000000.0,Southampton FC,England,15000000.0,0
+2016,Bundesliga,Bayern Munich,summer,out,Sebastian Rode,44466,25,Germany,Central Midfield,CM,8000000.0,Borussia Dortmund,Germany,12000000.0,0
+2016,Bundesliga,Bayern Munich,summer,out,Medhi Benatia,45124,29,Morocco,Centre-Back,CB,16000000.0,Juventus FC,Italy,3000000.0,1
+2016,Bundesliga,Bayern Munich,summer,out,Ivan Lucic,164145,21,Austria,Goalkeeper,GK,250000.0,Bristol City,England,,0
+2016,Bundesliga,Bayern Munich,summer,out,Serdar Taşçı,34593,29,Germany,Centre-Back,CB,5000000.0,Spartak Moscow,Russia,0.0,1
+2016,Bundesliga,Bayern Munich,winter,out,Julian Green,161204,21,United States,Central Midfield,CM,500000.0,VfB Stuttgart,Germany,300000.0,0
+2016,Bundesliga,Bayern Munich,winter,out,Holger Badstuber,54659,27,Germany,Centre-Back,CB,3000000.0,FC Schalke 04,Germany,0.0,1
+2016,Bundesliga,Borussia Dortmund,summer,in,Ousmane Dembélé,288230,19,France,Centre-Forward,CF,12000000.0,Stade Rennais FC,France,35000000.0,0
+2016,Bundesliga,Borussia Dortmund,summer,in,André Schürrle,58205,25,Germany,Left Winger,LW,25000000.0,VfL Wolfsburg,Germany,30000000.0,0
+2016,Bundesliga,Borussia Dortmund,summer,in,Mario Götze,74842,24,Germany,Attacking Midfield,AM,35000000.0,Bayern Munich,Germany,22000000.0,0
+2016,Bundesliga,Borussia Dortmund,summer,in,Sebastian Rode,44466,25,Germany,Central Midfield,CM,8000000.0,Bayern Munich,Germany,12000000.0,0
+2016,Bundesliga,Borussia Dortmund,summer,in,Raphaël Guerreiro,170986,22,Portugal,Left-Back,LB,9000000.0,FC Lorient,France,12000000.0,0
+2016,Bundesliga,Borussia Dortmund,summer,in,Emre Mor,283223,18,Türkiye,Right Winger,RW,1000000.0,FC Nordsjaelland,Denmark,9750000.0,0
+2016,Bundesliga,Borussia Dortmund,summer,in,Marc Bartra,99922,25,Spain,Centre-Back,CB,8000000.0,FC Barcelona,Spain,8000000.0,0
+2016,Bundesliga,Borussia Dortmund,summer,in,Mikel Merino,338424,20,Spain,Central Midfield,CM,2000000.0,CA Osasuna,Spain,3750000.0,0
+2016,Bundesliga,Borussia Dortmund,winter,in,Alexander Isak,349066,17,Sweden,Centre-Forward,CF,1750000.0,AIK,Sweden,8600000.0,0
+2016,Bundesliga,Borussia Dortmund,summer,out,Henrikh Mkhitaryan,55735,27,Armenia,Central Midfield,CM,30000000.0,Manchester United,England,42000000.0,0
+2016,Bundesliga,Borussia Dortmund,summer,out,Mats Hummels,39728,27,Germany,Centre-Back,CB,38000000.0,Bayern Munich,Germany,35000000.0,0
+2016,Bundesliga,Borussia Dortmund,summer,out,İlkay Gündoğan,53622,25,Germany,Central Midfield,CM,30000000.0,Manchester City,England,27000000.0,0
+2016,Bundesliga,Borussia Dortmund,summer,out,Jakub Blaszczykowski,29835,30,Poland,Right Winger,RW,7000000.0,VfL Wolfsburg,Germany,5000000.0,0
+2016,Bundesliga,Borussia Dortmund,summer,out,Moritz Leitner,82243,23,Germany,Central Midfield,CM,1500000.0,SS Lazio,Italy,1500000.0,0
+2016,Bundesliga,Borussia Dortmund,summer,out,Jannik Bandowski,189691,22,Germany,Left-Back,LB,350000.0,VfL Bochum,Germany,0.0,0
+2016,Bundesliga,Borussia Dortmund,winter,out,Neven Subotic,40995,28,Germany,Centre-Back,CB,8000000.0,1.FC Köln,Germany,500000.0,1
+2016,Bundesliga,Borussia Dortmund,winter,out,Adrián Ramos,73782,31,Colombia,Centre-Forward,CF,5000000.0,Granada CF,Spain,0.0,1
+2016,Bundesliga,Borussia Mönchengladbach,summer,in,Christoph Kramer,82097,25,Germany,Defensive Midfield,DM,12000000.0,Bayer 04 Leverkusen,Germany,15000000.0,0
+2016,Bundesliga,Borussia Mönchengladbach,summer,in,Jannik Vestergaard,99331,23,Denmark,Centre-Back,CB,7000000.0,SV Werder Bremen,Germany,12500000.0,0
+2016,Bundesliga,Borussia Mönchengladbach,summer,in,László Bénes,243188,18,Slovakia,Central Midfield,CM,500000.0,MSK Zilina,Slovakia,5000000.0,0
+2016,Bundesliga,Borussia Mönchengladbach,summer,in,Tobias Strobl,57845,26,Germany,Defensive Midfield,DM,2000000.0,TSG 1899 Hoffenheim,Germany,0.0,0
+2016,Bundesliga,Borussia Mönchengladbach,summer,in,Mamadou Doucouré,340480,18,France,Centre-Back,CB,,Paris Saint-Germain B,France,0.0,0
+2016,Bundesliga,Borussia Mönchengladbach,winter,in,Timothée Kolodziejczak,84085,25,France,Centre-Back,CB,7000000.0,Sevilla FC,Spain,7500000.0,0
+2016,Bundesliga,Borussia Mönchengladbach,winter,in,Julio Villalba,401717,18,Paraguay,Centre-Forward,CF,,Club Cerro Porteño,Paraguay,1250000.0,0
+2016,Bundesliga,Borussia Mönchengladbach,summer,out,Granit Xhaka,111455,23,Switzerland,Defensive Midfield,DM,35000000.0,Arsenal FC,England,45000000.0,0
+2016,Bundesliga,Borussia Mönchengladbach,summer,out,Marlon Ritter,151636,21,Germany,Attacking Midfield,AM,200000.0,Fortuna Düsseldorf,Germany,100000.0,0
+2016,Bundesliga,Borussia Mönchengladbach,summer,out,Håvard Nordtveit,42234,26,Norway,Defensive Midfield,DM,6000000.0,West Ham United,England,0.0,0
+2016,Bundesliga,Borussia Mönchengladbach,summer,out,Branimir Hrgota,171209,23,Sweden,Centre-Forward,CF,2500000.0,Eintracht Frankfurt,Germany,0.0,0
+2016,Bundesliga,Borussia Mönchengladbach,summer,out,Roel Brouwers,4607,34,Netherlands,Centre-Back,CB,500000.0,Roda JC Kerkrade,Netherlands,0.0,0
+2016,Bundesliga,Borussia Mönchengladbach,summer,out,Martin Stranzl,568,36,Austria,Centre-Back,CB,,Retired,,,0
+2016,Bundesliga,Borussia Mönchengladbach,summer,out,Martin Hinteregger,85789,23,Austria,Centre-Back,CB,6000000.0,Red Bull Salzburg,Austria,0.0,1
+2016,Bundesliga,Borussia Mönchengladbach,winter,out,Julio Villalba,401717,18,Paraguay,Centre-Forward,CF,,Club Cerro Porteño,Paraguay,0.0,1
+2016,Bundesliga,Borussia Mönchengladbach,winter,out,Álvaro Domínguez,62915,27,Spain,Centre-Back,CB,,Retired,,,0
+2016,Bundesliga,Eintracht Frankfurt,summer,in,Taleb Tawatha,60761,24,Israel,Left-Back,LB,750000.0,Maccabi Haifa,Israel,1200000.0,0
+2016,Bundesliga,Eintracht Frankfurt,summer,in,Omar Mascarell,142031,23,Equatorial Guinea,Defensive Midfield,DM,1500000.0,Real Madrid,Spain,1000000.0,0
+2016,Bundesliga,Eintracht Frankfurt,summer,in,Branimir Hrgota,171209,23,Sweden,Centre-Forward,CF,2500000.0,Borussia Mönchengladbach,Germany,0.0,0
+2016,Bundesliga,Eintracht Frankfurt,summer,in,Danny Blum,41541,25,Germany,Left Winger,LW,800000.0,1.FC Nuremberg,Germany,0.0,0
+2016,Bundesliga,Eintracht Frankfurt,summer,in,Ante Rebić,187587,22,Croatia,Left Winger,LW,1000000.0,ACF Fiorentina,Italy,0.0,1
+2016,Bundesliga,Eintracht Frankfurt,summer,in,Shani Tarashaj,184381,21,Switzerland,Second Striker,SS,4000000.0,Everton FC,England,0.0,1
+2016,Bundesliga,Eintracht Frankfurt,summer,in,Jesús Vallejo,251896,19,Spain,Centre-Back,CB,3000000.0,Real Madrid,Spain,0.0,1
+2016,Bundesliga,Eintracht Frankfurt,summer,in,Guillermo Varela,188862,23,Uruguay,Right-Back,RB,750000.0,Manchester United,England,0.0,1
+2016,Bundesliga,Eintracht Frankfurt,summer,in,Michael Hector,157490,24,Jamaica,Centre-Back,CB,4000000.0,Chelsea FC,England,0.0,1
+2016,Bundesliga,Eintracht Frankfurt,winter,in,Andersson Ordóñez,234625,22,Ecuador,Centre-Back,CB,750000.0,Barcelona SC Guayaquil,Ecuador,1000000.0,0
+2016,Bundesliga,Eintracht Frankfurt,winter,in,Marius Wolf,193900,21,Germany,Right-Back,RB,350000.0,Hannover 96,Germany,500000.0,1
+2016,Bundesliga,Eintracht Frankfurt,winter,in,Max Besuschkow,207578,19,Germany,Central Midfield,CM,400000.0,VfB Stuttgart II,Germany,100000.0,0
+2016,Bundesliga,Eintracht Frankfurt,summer,out,Carlos Zambrano,53533,26,Peru,Centre-Back,CB,5000000.0,Rubin Kazan,Russia,3500000.0,0
+2016,Bundesliga,Eintracht Frankfurt,summer,out,Stefan Aigner,35183,28,Germany,Right Winger,RW,3750000.0,TSV 1860 Munich,Germany,3000000.0,0
+2016,Bundesliga,Eintracht Frankfurt,summer,out,Luc Castaignos,91915,23,Netherlands,Centre-Forward,CF,3000000.0,Sporting CP,Portugal,2500000.0,0
+2016,Bundesliga,Eintracht Frankfurt,summer,out,Luca Waldschmidt,196095,20,Germany,Centre-Forward,CF,1000000.0,Hamburger SV,Germany,1300000.0,0
+2016,Bundesliga,Eintracht Frankfurt,summer,out,Aleksandar Ignjovski,74295,25,Serbia,Defensive Midfield,DM,2000000.0,SC Freiburg,Germany,750000.0,0
+2016,Bundesliga,Eintracht Frankfurt,summer,out,Änis Ben-Hatira,35872,28,Tunisia,Right Winger,RW,1000000.0,SV Darmstadt 98,Germany,0.0,0
+2016,Bundesliga,Eintracht Frankfurt,summer,out,Sonny Kittel,78950,23,Germany,Attacking Midfield,AM,500000.0,FC Ingolstadt 04,Germany,0.0,0
+2016,Bundesliga,Eintracht Frankfurt,summer,out,Yannick Zummack,215784,20,Germany,Goalkeeper,GK,150000.0,Sportfreunde Lotte,Germany,0.0,0
+2016,Bundesliga,Eintracht Frankfurt,summer,out,Emil Balayev,236366,22,Azerbaijan,Goalkeeper,GK,150000.0,Without Club,,,0
+2016,Bundesliga,Eintracht Frankfurt,summer,out,Constant Djakpa,41866,29,Cote d'Ivoire,Left-Back,LB,1250000.0,Without Club,,,0
+2016,Bundesliga,Eintracht Frankfurt,summer,out,Kaan Ayhan,119031,21,Türkiye,Defensive Midfield,DM,3500000.0,FC Schalke 04,Germany,0.0,1
+2016,Bundesliga,Eintracht Frankfurt,winter,out,Szabolcs Huszti,18331,33,Hungary,Left Midfield,LM,1000000.0,Changchun Yatai,China,1000000.0,0
+2016,Bundesliga,Eintracht Frankfurt,winter,out,Johannes Flum,38415,29,Germany,Central Midfield,CM,1000000.0,FC St. Pauli,Germany,0.0,0
+2016,Bundesliga,Eintracht Frankfurt,winter,out,Enis Bunjaki,261943,19,Kosovo,Centre-Forward,CF,100000.0,Twente Enschede FC,Netherlands,0.0,0
+2016,Bundesliga,Eintracht Frankfurt,winter,out,Joel Gerezgiher,196770,21,Germany,Attacking Midfield,AM,350000.0,Holstein Kiel,Germany,,0
+2016,Bundesliga,Eintracht Frankfurt,winter,out,Bamba Anderson,78553,29,Brazil,Centre-Back,CB,,Retired,,,0
+2016,Bundesliga,FC Augsburg,summer,in,Martin Hinteregger,85789,23,Austria,Centre-Back,CB,6000000.0,Red Bull Salzburg,Austria,10500000.0,0
+2016,Bundesliga,FC Augsburg,summer,in,Jonathan Schmid,70285,26,France,Right Midfield,RM,2500000.0,TSG 1899 Hoffenheim,Germany,5200000.0,0
+2016,Bundesliga,FC Augsburg,summer,in,Alfred Finnbogason,90024,27,Iceland,Centre-Forward,CF,5000000.0,Real Sociedad,Spain,4000000.0,0
+2016,Bundesliga,FC Augsburg,summer,in,Takashi Usami,111881,24,Japan,Second Striker,SS,2500000.0,Gamba Osaka,Japan,1500000.0,0
+2016,Bundesliga,FC Augsburg,summer,in,Marvin Friedrich,196231,20,Germany,Centre-Back,CB,750000.0,FC Schalke 04,Germany,1000000.0,0
+2016,Bundesliga,FC Augsburg,summer,in,Andreas Luthe,41323,29,Germany,Goalkeeper,GK,500000.0,VfL Bochum,Germany,0.0,0
+2016,Bundesliga,FC Augsburg,summer,in,Gojko Kacar,28683,29,Serbia,Defensive Midfield,DM,1250000.0,Hamburger SV,Germany,0.0,0
+2016,Bundesliga,FC Augsburg,summer,in,Georg Teigl,81698,25,Austria,Right-Back,RB,750000.0,RB Leipzig,Germany,0.0,0
+2016,Bundesliga,FC Augsburg,winter,in,Moritz Leitner,82243,24,Germany,Central Midfield,CM,1400000.0,SS Lazio,Italy,1500000.0,0
+2016,Bundesliga,FC Augsburg,summer,out,Jeong-ho Hong,126638,26,"Korea, South",Centre-Back,CB,2500000.0,Jiangsu Suning,China,6000000.0,0
+2016,Bundesliga,FC Augsburg,summer,out,Ragnar Klavan,26669,30,Estonia,Centre-Back,CB,3500000.0,Liverpool FC,England,5000000.0,0
+2016,Bundesliga,FC Augsburg,summer,out,Alexander Esswein,45662,26,Germany,Centre-Forward,CF,2500000.0,Hertha BSC,Germany,2500000.0,0
+2016,Bundesliga,FC Augsburg,summer,out,Tobias Werner,26878,31,Germany,Left Winger,LW,1500000.0,VfB Stuttgart,Germany,1000000.0,0
+2016,Bundesliga,FC Augsburg,summer,out,Nikola Djurdjic,46162,30,Serbia,Centre-Forward,CF,700000.0,FK Partizan Belgrade,Serbia,400000.0,0
+2016,Bundesliga,FC Augsburg,summer,out,Sascha Mölders,17689,31,Germany,Centre-Forward,CF,750000.0,TSV 1860 Munich,Germany,150000.0,0
+2016,Bundesliga,FC Augsburg,summer,out,Maik Uhde,156781,22,Germany,Defensive Midfield,DM,,TSV Schwabmünchen,Germany,0.0,0
+2016,Bundesliga,FC Augsburg,summer,out,Alexander Manninger,5278,39,Austria,Goalkeeper,GK,200000.0,Liverpool FC,England,0.0,0
+2016,Bundesliga,FC Augsburg,summer,out,Shawn Parker,89659,23,Germany,Centre-Forward,CF,500000.0,1.FC Nuremberg,Germany,0.0,1
+2016,Bundesliga,FC Augsburg,summer,out,Tim Matavz,50303,27,Slovenia,Centre-Forward,CF,1500000.0,1.FC Nuremberg,Germany,0.0,1
+2016,Bundesliga,FC Augsburg,summer,out,Erik Thommy,156779,21,Germany,Attacking Midfield,AM,250000.0,SSV Jahn Regensburg,Germany,0.0,1
+2016,Bundesliga,FC Augsburg,summer,out,Albian Ajeti,195906,19,Switzerland,Centre-Forward,CF,1000000.0,FC St. Gallen 1879,Switzerland,0.0,1
+2016,Bundesliga,FC Augsburg,summer,out,Piotr Trochowski,2623,32,Germany,Attacking Midfield,AM,,Career break,,,0
+2016,Bundesliga,FC Augsburg,summer,out,Alfred Finnbogason,90024,27,Iceland,Centre-Forward,CF,5000000.0,Real Sociedad,Spain,0.0,1
+2016,Bundesliga,FC Augsburg,winter,out,Daniel Opare,65781,26,Ghana,Right-Back,RB,1500000.0,RC Lens,France,0.0,1
+2016,Bundesliga,FC Ingolstadt 04,summer,in,Marcel Tisserand,170463,23,DR Congo,Centre-Back,CB,2000000.0,AS Monaco,France,3500000.0,0
+2016,Bundesliga,FC Ingolstadt 04,summer,in,Florent Hadergjonaj,238809,22,Kosovo,Right-Back,RB,3000000.0,BSC Young Boys,Switzerland,2000000.0,0
+2016,Bundesliga,FC Ingolstadt 04,summer,in,Robert Leipertz,119120,23,Germany,Attacking Midfield,AM,1300000.0,FC Schalke 04,Germany,1500000.0,0
+2016,Bundesliga,FC Ingolstadt 04,summer,in,Martin Hansen,45601,26,Denmark,Goalkeeper,GK,1500000.0,ADO Den Haag,Netherlands,950000.0,0
+2016,Bundesliga,FC Ingolstadt 04,summer,in,Fabijan Buntic,248349,19,Croatia,Goalkeeper,GK,,VfB Stuttgart U19,Germany,0.0,0
+2016,Bundesliga,FC Ingolstadt 04,summer,in,Kerem Bülbül,192265,21,Germany,Attacking Midfield,AM,100000.0,Hertha BSC II,Germany,0.0,0
+2016,Bundesliga,FC Ingolstadt 04,summer,in,Nico Rinderknecht,279657,18,Germany,Defensive Midfield,DM,150000.0,Eintracht Frankfurt U19,Germany,0.0,0
+2016,Bundesliga,FC Ingolstadt 04,summer,in,Sonny Kittel,78950,23,Germany,Attacking Midfield,AM,500000.0,Eintracht Frankfurt,Germany,0.0,0
+2016,Bundesliga,FC Ingolstadt 04,summer,in,Hauke Wahl,154147,22,Germany,Centre-Back,CB,800000.0,SC Paderborn 07,Germany,0.0,0
+2016,Bundesliga,FC Ingolstadt 04,summer,in,Anthony Jung,58995,24,Germany,Centre-Back,CB,800000.0,RB Leipzig,Germany,0.0,1
+2016,Bundesliga,FC Ingolstadt 04,summer,out,Robert Bauer,179634,21,Germany,Centre-Back,CB,2000000.0,SV Werder Bremen,Germany,2500000.0,0
+2016,Bundesliga,FC Ingolstadt 04,summer,out,Benjamin Hübner,52348,26,Germany,Centre-Back,CB,2250000.0,TSG 1899 Hoffenheim,Germany,800000.0,0
+2016,Bundesliga,FC Ingolstadt 04,summer,out,Danny da Costa,85906,22,Germany,Centre-Back,CB,1000000.0,Bayer 04 Leverkusen,Germany,500000.0,0
+2016,Bundesliga,FC Ingolstadt 04,summer,out,Ramazan Özcan,16498,32,Austria,Goalkeeper,GK,1250000.0,Bayer 04 Leverkusen,Germany,500000.0,0
+2016,Bundesliga,FC Ingolstadt 04,summer,out,Elias Kachunga,49501,24,DR Congo,Centre-Forward,CF,1500000.0,Huddersfield Town,England,250000.0,1
+2016,Bundesliga,FC Ingolstadt 04,summer,out,Konstantin Engel,42318,28,Kazakhstan,Left-Back,LB,500000.0,FC Astana,Kazakhstan,0.0,0
+2016,Bundesliga,FC Ingolstadt 04,summer,out,Kerem Bülbül,192265,21,Germany,Attacking Midfield,AM,100000.0,FC Hansa Rostock,Germany,0.0,1
+2016,Bundesliga,FC Ingolstadt 04,summer,out,Danilo Soares,154396,24,Brazil,Left-Back,LB,1500000.0,Without Club,,,0
+2016,Bundesliga,FC Ingolstadt 04,winter,out,Hauke Wahl,154147,22,Germany,Centre-Back,CB,800000.0,1.FC Heidenheim 1846,Germany,0.0,1
+2016,Bundesliga,FC Schalke 04,summer,in,Breel Embolo,237662,19,Switzerland,Centre-Forward,CF,20000000.0,FC Basel 1893,Switzerland,26500000.0,0
+2016,Bundesliga,FC Schalke 04,summer,in,Benjamin Stambouli,127160,26,France,Defensive Midfield,DM,7000000.0,Paris Saint-Germain,France,8000000.0,0
+2016,Bundesliga,FC Schalke 04,summer,in,Coke,71905,29,Spain,Right-Back,RB,4000000.0,Sevilla FC,Spain,4000000.0,0
+2016,Bundesliga,FC Schalke 04,summer,in,Abdul Rahman Baba,224884,22,Ghana,Left-Back,LB,12000000.0,Chelsea FC,England,500000.0,1
+2016,Bundesliga,FC Schalke 04,summer,in,Robert Leipertz,119120,23,Germany,Attacking Midfield,AM,1300000.0,1.FC Heidenheim 1846,Germany,300000.0,0
+2016,Bundesliga,FC Schalke 04,summer,in,Naldo,32213,33,Brazil,Centre-Back,CB,4000000.0,VfL Wolfsburg,Germany,0.0,0
+2016,Bundesliga,FC Schalke 04,summer,in,Nabil Bentaleb,245537,21,Algeria,Defensive Midfield,DM,9000000.0,Tottenham Hotspur,England,0.0,1
+2016,Bundesliga,FC Schalke 04,summer,in,Yevgen Konoplyanka,58949,26,Ukraine,Left Winger,LW,25000000.0,Sevilla FC,Spain,0.0,1
+2016,Bundesliga,FC Schalke 04,winter,in,Daniel Caligiuri,38410,29,Italy,Right Winger,RW,6500000.0,VfL Wolfsburg,Germany,2500000.0,0
+2016,Bundesliga,FC Schalke 04,winter,in,Guido Burgstaller,49239,27,Austria,Centre-Forward,CF,2000000.0,1.FC Nuremberg,Germany,1500000.0,0
+2016,Bundesliga,FC Schalke 04,winter,in,Holger Badstuber,54659,27,Germany,Centre-Back,CB,3000000.0,Bayern Munich,Germany,0.0,1
+2016,Bundesliga,FC Schalke 04,summer,out,Leroy Sané,192565,20,Germany,Right Winger,RW,30000000.0,Manchester City,England,52000000.0,0
+2016,Bundesliga,FC Schalke 04,summer,out,Christian Clemens,44713,24,Germany,Right Winger,RW,2500000.0,1.FSV Mainz 05,Germany,2000000.0,0
+2016,Bundesliga,FC Schalke 04,summer,out,Robert Leipertz,119120,23,Germany,Attacking Midfield,AM,1300000.0,FC Ingolstadt 04,Germany,1500000.0,0
+2016,Bundesliga,FC Schalke 04,summer,out,Marco Höger,55510,26,Germany,Defensive Midfield,DM,4000000.0,1.FC Köln,Germany,1300000.0,0
+2016,Bundesliga,FC Schalke 04,summer,out,Marvin Friedrich,196231,20,Germany,Centre-Back,CB,750000.0,FC Augsburg,Germany,1000000.0,0
+2016,Bundesliga,FC Schalke 04,summer,out,Kaan Ayhan,119031,21,Türkiye,Defensive Midfield,DM,2000000.0,Fortuna Düsseldorf,Germany,500000.0,0
+2016,Bundesliga,FC Schalke 04,summer,out,Roman Neustädter,40478,28,Russia,Centre-Back,CB,7000000.0,Fenerbahce,Türkiye,0.0,0
+2016,Bundesliga,FC Schalke 04,summer,out,Michael Gspurning,17029,35,Austria,Goalkeeper,GK,200000.0,1.FC Union Berlin,Germany,0.0,0
+2016,Bundesliga,FC Schalke 04,summer,out,Joël Matip,82105,24,Cameroon,Centre-Back,CB,18000000.0,Liverpool FC,England,0.0,0
+2016,Bundesliga,FC Schalke 04,summer,out,Younès Belhanda,118022,26,Morocco,Attacking Midfield,AM,7500000.0,Dynamo Kyiv,Ukraine,0.0,1
+2016,Bundesliga,FC Schalke 04,summer,out,Pierre-Emile Højbjerg,167799,20,Denmark,Defensive Midfield,DM,6000000.0,Bayern Munich,Germany,0.0,1
+2016,Bundesliga,FC Schalke 04,winter,out,Júnior Caiçara,112062,27,Brazil,Right-Back,RB,3000000.0,Basaksehir FK,Türkiye,3000000.0,0
+2016,Bundesliga,FC Schalke 04,winter,out,Sidney Sam,39102,28,Germany,Right Winger,RW,500000.0,SV Darmstadt 98,Germany,0.0,1
+2016,Bundesliga,FC Schalke 04,winter,out,Fabian Giefer,53408,26,Germany,Goalkeeper,GK,500000.0,Bristol City,England,0.0,1
+2016,Bundesliga,FC Schalke 04,winter,out,Fabian Reese,227102,19,Germany,Left Winger,LW,500000.0,Karlsruher SC,Germany,0.0,1
+2016,Bundesliga,Hamburger SV,summer,in,Filip Kostić,161011,23,Serbia,Left Midfield,LM,10000000.0,VfB Stuttgart,Germany,14000000.0,0
+2016,Bundesliga,Hamburger SV,summer,in,Douglas Santos,220793,22,Brazil,Left-Back,LB,6000000.0,Clube Atlético Mineiro,Brazil,6500000.0,0
+2016,Bundesliga,Hamburger SV,summer,in,Alen Halilovic,226074,20,Croatia,Attacking Midfield,AM,10000000.0,FC Barcelona,Spain,5000000.0,0
+2016,Bundesliga,Hamburger SV,summer,in,Bobby Wood,72519,23,United States,Centre-Forward,CF,1500000.0,1.FC Union Berlin,Germany,4000000.0,0
+2016,Bundesliga,Hamburger SV,summer,in,Luca Waldschmidt,196095,20,Germany,Centre-Forward,CF,1000000.0,Eintracht Frankfurt,Germany,1300000.0,0
+2016,Bundesliga,Hamburger SV,summer,in,Arianit Ferati,247380,18,Kosovo,Attacking Midfield,AM,600000.0,VfB Stuttgart,Germany,850000.0,0
+2016,Bundesliga,Hamburger SV,summer,in,Christian Mathenia,82361,24,Germany,Goalkeeper,GK,2500000.0,SV Darmstadt 98,Germany,800000.0,0
+2016,Bundesliga,Hamburger SV,summer,in,Bakery Jatta,415194,18,The Gambia,Right Winger,RW,,Without Club,,,0
+2016,Bundesliga,Hamburger SV,winter,in,Walace,323954,21,Brazil,Defensive Midfield,DM,9000000.0,Grêmio Foot-Ball Porto Alegrense,Brazil,9200000.0,0
+2016,Bundesliga,Hamburger SV,winter,in,Mergim Mavraj,38267,30,Albania,Centre-Back,CB,1750000.0,1.FC Köln,Germany,1800000.0,0
+2016,Bundesliga,Hamburger SV,winter,in,Kyriakos Papadopoulos,58489,24,Greece,Centre-Back,CB,6500000.0,Bayer 04 Leverkusen,Germany,500000.0,1
+2016,Bundesliga,Hamburger SV,summer,out,Kerem Demirbay,125858,23,Germany,Central Midfield,CM,1300000.0,TSG 1899 Hoffenheim,Germany,4700000.0,0
+2016,Bundesliga,Hamburger SV,summer,out,Zoltán Stieber,61591,27,Hungary,Attacking Midfield,AM,800000.0,1.FC Kaiserslautern,Germany,250000.0,0
+2016,Bundesliga,Hamburger SV,summer,out,Batuhan Altıntaş,216597,20,Türkiye,Centre-Forward,CF,400000.0,Kasimpasa,Türkiye,100000.0,1
+2016,Bundesliga,Hamburger SV,summer,out,Mohamed Gouaida,192294,23,Tunisia,Midfielder,Midfielder,450000.0,FC St. Gallen 1879,Switzerland,50000.0,1
+2016,Bundesliga,Hamburger SV,summer,out,Arianit Ferati,247380,18,Kosovo,Attacking Midfield,AM,600000.0,Fortuna Düsseldorf,Germany,50000.0,1
+2016,Bundesliga,Hamburger SV,summer,out,Matti Steinmann,148209,21,Germany,Defensive Midfield,DM,250000.0,1.FSV Mainz 05 II,Germany,0.0,0
+2016,Bundesliga,Hamburger SV,summer,out,Jaroslav Drobný,12864,36,Czech Republic,Goalkeeper,GK,500000.0,SV Werder Bremen,Germany,0.0,0
+2016,Bundesliga,Hamburger SV,summer,out,Ivo Ilicevic,30308,29,Croatia,Left Winger,LW,1500000.0,Anzhi Makhachkala,Russia,0.0,0
+2016,Bundesliga,Hamburger SV,summer,out,Gojko Kacar,28683,29,Serbia,Defensive Midfield,DM,1250000.0,FC Augsburg,Germany,0.0,0
+2016,Bundesliga,Hamburger SV,summer,out,Philipp Müller,196570,21,Germany,Right Winger,RW,100000.0,SV Wehen Wiesbaden,Germany,0.0,0
+2016,Bundesliga,Hamburger SV,summer,out,Artjoms Rudnevs,103547,28,Latvia,Centre-Forward,CF,1000000.0,1.FC Köln,Germany,0.0,0
+2016,Bundesliga,Hamburger SV,summer,out,Ivica Olic,7427,36,Croatia,Centre-Forward,CF,500000.0,TSV 1860 Munich,Germany,0.0,0
+2016,Bundesliga,Hamburger SV,summer,out,Sven Schipplock,52530,27,Germany,Centre-Forward,CF,1250000.0,SV Darmstadt 98,Germany,0.0,1
+2016,Bundesliga,Hamburger SV,summer,out,Josip Drmic,140579,23,Switzerland,Centre-Forward,CF,6000000.0,Borussia Mönchengladbach,Germany,0.0,1
+2016,Bundesliga,Hamburger SV,winter,out,Cléber Reis,226009,26,Brazil,Centre-Back,CB,2500000.0,Santos FC,Brazil,3100000.0,0
+2016,Bundesliga,Hamburger SV,winter,out,Alen Halilovic,226074,20,Croatia,Attacking Midfield,AM,4000000.0,UD Las Palmas,Spain,500000.0,1
+2016,Bundesliga,Hamburger SV,winter,out,Emir Spahic,25812,36,Bosnia-Herzegovina,Centre-Back,CB,750000.0,Retired,,,0
+2016,Bundesliga,Hertha BSC,summer,in,Ondrej Duda,232418,21,Slovakia,Central Midfield,CM,3200000.0,Legia Warszawa,Poland,4200000.0,0
+2016,Bundesliga,Hertha BSC,summer,in,Alexander Esswein,45662,26,Germany,Centre-Forward,CF,2500000.0,FC Augsburg,Germany,2500000.0,0
+2016,Bundesliga,Hertha BSC,summer,in,Vedad Ibisevic,21175,31,Bosnia-Herzegovina,Centre-Forward,CF,2500000.0,VfB Stuttgart,Germany,0.0,0
+2016,Bundesliga,Hertha BSC,summer,in,Allan,385271,19,Brazil,Defensive Midfield,DM,800000.0,Liverpool FC U23,England,0.0,1
+2016,Bundesliga,Hertha BSC,summer,out,Tolga Ciğerci,94199,24,Türkiye,Defensive Midfield,DM,2500000.0,Galatasaray,Türkiye,3000000.0,0
+2016,Bundesliga,Hertha BSC,summer,out,Roy Beerens,25427,28,Netherlands,Right Winger,RW,2000000.0,Reading FC,England,1000000.0,0
+2016,Bundesliga,Hertha BSC,summer,out,Hajime Hosogai,79355,30,Japan,Defensive Midfield,DM,800000.0,VfB Stuttgart,Germany,700000.0,0
+2016,Bundesliga,Hertha BSC,summer,out,Sascha Burchert,36898,26,Germany,Goalkeeper,GK,200000.0,SpVgg Greuther Fürth,Germany,0.0,0
+2016,Bundesliga,Hertha BSC,summer,out,Johannes van den Bergh,31218,29,Germany,Left-Back,LB,600000.0,Getafe CF,Spain,0.0,0
+2016,Bundesliga,Hertha BSC,summer,out,Marius Gersbeck,196382,21,Germany,Goalkeeper,GK,200000.0,VfL Osnabrück,Germany,0.0,1
+2016,Bundesliga,Hertha BSC,summer,out,Ronny,43847,30,Brazil,Attacking Midfield,AM,400000.0,Without Club,,,0
+2016,Bundesliga,Hertha BSC,summer,out,Vedad Ibisevic,21175,31,Bosnia-Herzegovina,Centre-Forward,CF,2500000.0,VfB Stuttgart,Germany,0.0,1
+2016,Bundesliga,Hertha BSC,winter,out,Jens Hegeler,51168,28,Germany,Central Midfield,CM,1000000.0,Bristol City,England,300000.0,0
+2016,Bundesliga,RB Leipzig,summer,in,Naby Keïta,302215,21,Guinea,Central Midfield,CM,11000000.0,Red Bull Salzburg,Austria,29750000.0,0
+2016,Bundesliga,RB Leipzig,summer,in,Timo Werner,170527,20,Germany,Left Winger,LW,8000000.0,VfB Stuttgart,Germany,23000000.0,0
+2016,Bundesliga,RB Leipzig,summer,in,Oliver Burke,341317,19,Scotland,Centre-Forward,CF,250000.0,Nottingham Forest,England,15200000.0,0
+2016,Bundesliga,RB Leipzig,summer,in,Bernardo,364258,21,Brazil,Centre-Back,CB,1000000.0,Red Bull Salzburg,Austria,6000000.0,0
+2016,Bundesliga,RB Leipzig,summer,in,Marius Müller,118161,22,Germany,Goalkeeper,GK,1000000.0,1.FC Kaiserslautern,Germany,1700000.0,0
+2016,Bundesliga,RB Leipzig,summer,in,Kyriakos Papadopoulos,58489,24,Greece,Centre-Back,CB,6500000.0,Bayer 04 Leverkusen,Germany,1000000.0,1
+2016,Bundesliga,RB Leipzig,summer,in,Benno Schmitz,160968,21,Germany,Defensive Midfield,DM,900000.0,Red Bull Salzburg,Austria,800000.0,0
+2016,Bundesliga,RB Leipzig,winter,in,Dayot Upamecano,344695,18,France,Centre-Back,CB,5000000.0,Red Bull Salzburg,Austria,18500000.0,0
+2016,Bundesliga,RB Leipzig,summer,out,Atınç Nukan,149516,23,Türkiye,Centre-Back,CB,2000000.0,Besiktas JK,Türkiye,100000.0,1
+2016,Bundesliga,RB Leipzig,summer,out,Georg Teigl,81698,25,Austria,Right-Back,RB,750000.0,FC Augsburg,Germany,0.0,0
+2016,Bundesliga,RB Leipzig,summer,out,Stefan Hierländer,59053,25,Austria,Right Midfield,RM,300000.0,SK Sturm Graz,Austria,0.0,0
+2016,Bundesliga,RB Leipzig,summer,out,Omer Damari,112703,27,Israel,Centre-Forward,CF,1500000.0,New York Red Bulls,United States,0.0,1
+2016,Bundesliga,RB Leipzig,summer,out,Nils Quaschner,94559,22,Germany,Centre-Forward,CF,500000.0,VfL Bochum,Germany,0.0,1
+2016,Bundesliga,RB Leipzig,summer,out,Anthony Jung,58995,24,Germany,Centre-Back,CB,800000.0,FC Ingolstadt 04,Germany,0.0,1
+2016,Bundesliga,RB Leipzig,summer,out,Massimo Bruno,111376,22,Belgium,Right Winger,RW,1750000.0,RSC Anderlecht,Belgium,0.0,1
+2016,Bundesliga,RB Leipzig,winter,out,Terrence Boyd,103064,25,United States,Centre-Forward,CF,600000.0,SV Darmstadt 98,Germany,0.0,0
+2016,Bundesliga,RB Leipzig,winter,out,Zsolt Kalmár,199268,21,Hungary,Central Midfield,CM,500000.0,Bröndby IF,Denmark,0.0,1
+2016,Bundesliga,RB Leipzig,winter,out,Vitaly Janelt,270171,18,Germany,Defensive Midfield,DM,125000.0,VfL Bochum,Germany,0.0,1
+2016,Bundesliga,RB Leipzig,winter,out,Omer Damari,112703,27,Israel,Centre-Forward,CF,1000000.0,Maccabi Haifa,Israel,0.0,1
+2016,Bundesliga,RB Leipzig,winter,out,Kyriakos Papadopoulos,58489,24,Greece,Centre-Back,CB,6500000.0,Bayer 04 Leverkusen,Germany,0.0,1
+2016,Bundesliga,SC Freiburg,summer,in,Çağlar Söyüncü,320141,20,Türkiye,Centre-Back,CB,1000000.0,Altinordu FK,Türkiye,7930000.0,0
+2016,Bundesliga,SC Freiburg,summer,in,Janik Haberer,177779,22,Germany,Central Midfield,CM,1000000.0,TSG 1899 Hoffenheim,Germany,2000000.0,0
+2016,Bundesliga,SC Freiburg,summer,in,Manuel Gulde,45683,25,Germany,Centre-Back,CB,1000000.0,Karlsruher SC,Germany,1200000.0,0
+2016,Bundesliga,SC Freiburg,summer,in,Onur Bulut,152733,22,Türkiye,Right-Back,RB,700000.0,VfL Bochum,Germany,1200000.0,0
+2016,Bundesliga,SC Freiburg,summer,in,Jonas Meffert,107574,21,Germany,Defensive Midfield,DM,1500000.0,Bayer 04 Leverkusen,Germany,1200000.0,0
+2016,Bundesliga,SC Freiburg,summer,in,Rafal Gikiewicz,78339,28,Poland,Goalkeeper,GK,900000.0,Eintracht Braunschweig,Germany,1000000.0,0
+2016,Bundesliga,SC Freiburg,summer,in,Aleksandar Ignjovski,74295,25,Serbia,Defensive Midfield,DM,2000000.0,Eintracht Frankfurt,Germany,750000.0,0
+2016,Bundesliga,SC Freiburg,summer,in,Georg Niedermeier,31570,30,Germany,Centre-Back,CB,1250000.0,VfB Stuttgart,Germany,0.0,0
+2016,Bundesliga,SC Freiburg,winter,in,Vincent Sierro,280387,21,Switzerland,Central Midfield,CM,1000000.0,FC Sion,Switzerland,1500000.0,0
+2016,Bundesliga,SC Freiburg,summer,out,Christopher Jullien,201737,23,Guadeloupe,Centre-Back,CB,1000000.0,FC Toulouse,France,2800000.0,0
+2016,Bundesliga,SC Freiburg,summer,out,Stefan Mitrovic,143029,26,Serbia,Centre-Back,CB,2000000.0,KAA Gent,Belgium,1500000.0,0
+2016,Bundesliga,SC Freiburg,summer,out,Immanuel Höhn,77920,24,Germany,Centre-Back,CB,1300000.0,SV Darmstadt 98,Germany,750000.0,0
+2016,Bundesliga,SC Freiburg,summer,out,Tim Kleindienst,193033,20,Germany,Centre-Forward,CF,500000.0,1.FC Heidenheim 1846,Germany,100000.0,1
+2016,Bundesliga,SC Freiburg,summer,out,Philipp Zulechner,59196,26,Austria,Centre-Forward,CF,500000.0,SK Sturm Graz,Austria,0.0,0
+2016,Bundesliga,SC Freiburg,summer,out,Mensur Mujdza,27900,32,Bosnia-Herzegovina,Right-Back,RB,700000.0,1.FC Kaiserslautern,Germany,0.0,0
+2016,Bundesliga,SC Freiburg,summer,out,Zack Steffen,221624,21,United States,Goalkeeper,GK,100000.0,Columbus Crew SC,United States,0.0,0
+2016,Bundesliga,SC Freiburg,summer,out,Marco Hingerl,195056,20,Germany,Central Midfield,CM,150000.0,FC Bayern Munich II,Germany,0.0,0
+2016,Bundesliga,SC Freiburg,summer,out,Konstantin Fuhry,124456,21,Germany,Goalkeeper,GK,100000.0,SV 07 Elversberg,Germany,0.0,0
+2016,Bundesliga,SC Freiburg,summer,out,Vegar Hedenstad,73333,25,Norway,Right-Back,RB,650000.0,FC St. Pauli,Germany,0.0,0
+2016,Bundesliga,SC Freiburg,summer,out,Caleb Stanko,190269,23,United States,Defensive Midfield,DM,175000.0,FC Vaduz,Switzerland,0.0,1
+2016,Bundesliga,SC Freiburg,summer,out,Florian Kath,218011,21,Germany,Left Winger,LW,150000.0,1.FC Magdeburg,Germany,0.0,1
+2016,Bundesliga,SC Freiburg,summer,out,Fabian Schleusener,229176,24,Germany,Centre-Forward,CF,100000.0,FSV Frankfurt,Germany,0.0,1
+2016,Bundesliga,SC Freiburg,summer,out,Sebastian Kerk,124517,22,Germany,Attacking Midfield,AM,1000000.0,1.FC Kaiserslautern,Germany,0.0,1
+2016,Bundesliga,SC Freiburg,summer,out,Joshua Mees,196815,20,Germany,Left Winger,LW,200000.0,TSG 1899 Hoffenheim,Germany,0.0,1
+2016,Bundesliga,SC Freiburg,winter,out,Charles-Élie Laprevotte,192886,24,France,Defensive Midfield,DM,250000.0,1.FC Magdeburg,Germany,0.0,0
+2016,Bundesliga,SC Freiburg,winter,out,Mats Møller Dæhli,190831,21,Norway,Central Midfield,CM,750000.0,FC St. Pauli,Germany,0.0,1
+2016,Bundesliga,SC Freiburg,winter,out,Jonas Meffert,107574,22,Germany,Defensive Midfield,DM,1500000.0,Karlsruher SC,Germany,0.0,1
+2016,Bundesliga,SC Freiburg,winter,out,Lucas Hufnagel,168741,23,Georgia,Central Midfield,CM,500000.0,1.FC Nuremberg,Germany,0.0,1
+2016,Bundesliga,SV Darmstadt 98,summer,in,Roman Bezjak,80672,27,Slovenia,Centre-Forward,CF,2500000.0,HNK Rijeka,Croatia,2000000.0,0
+2016,Bundesliga,SV Darmstadt 98,summer,in,Immanuel Höhn,77920,24,Germany,Centre-Back,CB,1300000.0,SC Freiburg,Germany,750000.0,0
+2016,Bundesliga,SV Darmstadt 98,summer,in,Michael Esser,61989,28,Germany,Goalkeeper,GK,900000.0,SK Sturm Graz,Austria,350000.0,0
+2016,Bundesliga,SV Darmstadt 98,summer,in,Alexander Milosevic,171376,24,Sweden,Centre-Back,CB,1000000.0,Besiktas JK,Türkiye,200000.0,1
+2016,Bundesliga,SV Darmstadt 98,summer,in,Antonio Colak,160668,22,Croatia,Centre-Forward,CF,500000.0,TSG 1899 Hoffenheim,Germany,150000.0,1
+2016,Bundesliga,SV Darmstadt 98,summer,in,Leon Guwara,201135,20,The Gambia,Left-Back,LB,350000.0,SV Werder Bremen,Germany,50000.0,1
+2016,Bundesliga,SV Darmstadt 98,summer,in,Igor Berezovskyi,181763,25,Ukraine,Goalkeeper,GK,350000.0,Lierse SK (-2018),Belgium,0.0,0
+2016,Bundesliga,SV Darmstadt 98,summer,in,Artem Fedetskyi,58000,31,Ukraine,Right-Back,RB,2500000.0,Dnipro Dnipropetrovsk (- 2020),Ukraine,0.0,0
+2016,Bundesliga,SV Darmstadt 98,summer,in,Änis Ben-Hatira,35872,28,Tunisia,Right Winger,RW,1000000.0,Eintracht Frankfurt,Germany,0.0,0
+2016,Bundesliga,SV Darmstadt 98,summer,in,Daniel Heuer Fernandes,84993,23,Portugal,Goalkeeper,GK,400000.0,SC Paderborn 07,Germany,0.0,0
+2016,Bundesliga,SV Darmstadt 98,summer,in,Victor Obinna,35852,29,Nigeria,Second Striker,SS,500000.0,MSV Duisburg,Germany,0.0,0
+2016,Bundesliga,SV Darmstadt 98,summer,in,Denys Oliynyk,57895,29,Ukraine,Left Winger,LW,900000.0,Vitesse Arnhem,Netherlands,0.0,0
+2016,Bundesliga,SV Darmstadt 98,summer,in,László Kleinheisler,220656,22,Hungary,Attacking Midfield,AM,1000000.0,SV Werder Bremen,Germany,0.0,1
+2016,Bundesliga,SV Darmstadt 98,summer,in,Sven Schipplock,52530,27,Germany,Centre-Forward,CF,1250000.0,Hamburger SV,Germany,0.0,1
+2016,Bundesliga,SV Darmstadt 98,winter,in,Patrick Banggaard,186557,22,Denmark,Centre-Back,CB,700000.0,FC Midtjylland,Denmark,600000.0,0
+2016,Bundesliga,SV Darmstadt 98,winter,in,Hamit Altıntop,1792,34,Türkiye,Right Midfield,RM,300000.0,Galatasaray,Türkiye,0.0,0
+2016,Bundesliga,SV Darmstadt 98,winter,in,Terrence Boyd,103064,25,United States,Centre-Forward,CF,600000.0,RB Leipzig,Germany,0.0,0
+2016,Bundesliga,SV Darmstadt 98,winter,in,Wilson Kamavuaka,55512,26,DR Congo,Centre-Back,CB,700000.0,Panetolikos GFS,Greece,0.0,0
+2016,Bundesliga,SV Darmstadt 98,winter,in,Sidney Sam,39102,28,Germany,Right Winger,RW,500000.0,FC Schalke 04,Germany,0.0,1
+2016,Bundesliga,SV Darmstadt 98,winter,in,Markus Steinhöfer,16726,30,Germany,Right-Back,RB,300000.0,Without Club,,,0
+2016,Bundesliga,SV Darmstadt 98,summer,out,Sandro Wagner,39743,28,Germany,Centre-Forward,CF,2000000.0,TSG 1899 Hoffenheim,Germany,2800000.0,0
+2016,Bundesliga,SV Darmstadt 98,summer,out,Slobodan Rajković,35934,27,Serbia,Centre-Back,CB,1500000.0,US Palermo,Italy,1500000.0,0
+2016,Bundesliga,SV Darmstadt 98,summer,out,Christian Mathenia,82361,24,Germany,Goalkeeper,GK,2500000.0,Hamburger SV,Germany,800000.0,0
+2016,Bundesliga,SV Darmstadt 98,summer,out,Ali Kazimi,335636,19,Germany,Left Midfield,LM,,TS Ober-Roden,Germany,0.0,0
+2016,Bundesliga,SV Darmstadt 98,summer,out,Júnior Díaz,35383,32,Costa Rica,Centre-Back,CB,500000.0,Würzburger Kickers,Germany,0.0,0
+2016,Bundesliga,SV Darmstadt 98,summer,out,Nick Volk,335646,18,Germany,Attacking Midfield,AM,,Rot-Weiß Darmstadt,Germany,0.0,0
+2016,Bundesliga,SV Darmstadt 98,summer,out,Jan Finger,335635,19,Germany,Centre-Back,CB,,VfB Ginsheim,Germany,0.0,0
+2016,Bundesliga,SV Darmstadt 98,summer,out,Lukasz Zaluska,32273,34,Poland,Goalkeeper,GK,300000.0,Wisla Kraków,Poland,0.0,0
+2016,Bundesliga,SV Darmstadt 98,summer,out,Marco Sailer,18277,30,Germany,Second Striker,SS,200000.0,FSV Wacker Nordhausen,Germany,0.0,0
+2016,Bundesliga,SV Darmstadt 98,summer,out,Milan Ivana,21039,32,Slovakia,Right Midfield,RM,300000.0,SV 07 Elversberg,Germany,0.0,0
+2016,Bundesliga,SV Darmstadt 98,summer,out,Tobias Kempe,42072,27,Germany,Central Midfield,CM,1000000.0,1.FC Nuremberg,Germany,0.0,0
+2016,Bundesliga,SV Darmstadt 98,summer,out,Konstantin Rausch,45668,26,Russia,Left-Back,LB,1500000.0,1.FC Köln,Germany,0.0,0
+2016,Bundesliga,SV Darmstadt 98,summer,out,Yannick Stark,49737,25,Germany,Defensive Midfield,DM,300000.0,FSV Frankfurt,Germany,0.0,1
+2016,Bundesliga,SV Darmstadt 98,summer,out,Patrick Platins,1743,33,Germany,Goalkeeper,GK,,Without Club,,,0
+2016,Bundesliga,SV Darmstadt 98,summer,out,György Garics,2926,32,Austria,Right-Back,RB,750000.0,Without Club,,,0
+2016,Bundesliga,SV Darmstadt 98,summer,out,Michael Stegmayer,16628,31,Germany,Left-Back,LB,,Retired,,,0
+2016,Bundesliga,SV Darmstadt 98,summer,out,Noel Wembacher,335633,19,Germany,Attacking Midfield,AM,,Without Club,,,0
+2016,Bundesliga,SV Darmstadt 98,summer,out,Alexander Milosevic,171376,25,Sweden,Centre-Back,CB,1000000.0,Besiktas JK,Türkiye,0.0,1
+2016,Bundesliga,SV Darmstadt 98,summer,out,Luca Caldirola,88680,25,Italy,Centre-Back,CB,2500000.0,SV Werder Bremen,Germany,0.0,1
+2016,Bundesliga,SV Darmstadt 98,winter,out,Florian Jungwirth,33078,28,Germany,Centre-Back,CB,1000000.0,San Jose Earthquakes,United States,100000.0,0
+2016,Bundesliga,SV Darmstadt 98,winter,out,Änis Ben-Hatira,35872,28,Tunisia,Right Winger,RW,500000.0,Gaziantepspor,Türkiye,0.0,0
+2016,Bundesliga,SV Darmstadt 98,winter,out,Roman Bezjak,80672,27,Slovenia,Centre-Forward,CF,2000000.0,HNK Rijeka,Croatia,0.0,1
+2016,Bundesliga,SV Darmstadt 98,winter,out,Victor Obinna,35852,29,Nigeria,Second Striker,SS,250000.0,Without Club,,,0
+2016,Bundesliga,SV Darmstadt 98,winter,out,László Kleinheisler,220656,22,Hungary,Attacking Midfield,AM,1000000.0,SV Werder Bremen,Germany,0.0,1
+2016,Bundesliga,SV Werder Bremen,summer,in,Max Kruse,36182,28,Germany,Second Striker,SS,8000000.0,VfL Wolfsburg,Germany,7500000.0,0
+2016,Bundesliga,SV Werder Bremen,summer,in,Serge Gnabry,159471,21,Germany,Left Winger,LW,2500000.0,Arsenal FC,England,5000000.0,0
+2016,Bundesliga,SV Werder Bremen,summer,in,Florian Kainz,106270,23,Austria,Attacking Midfield,AM,4500000.0,Rapid Vienna,Austria,3500000.0,0
+2016,Bundesliga,SV Werder Bremen,summer,in,Robert Bauer,179634,21,Germany,Centre-Back,CB,2000000.0,FC Ingolstadt 04,Germany,2500000.0,0
+2016,Bundesliga,SV Werder Bremen,summer,in,Niklas Moisander,5017,30,Finland,Centre-Back,CB,3000000.0,UC Sampdoria,Italy,1700000.0,0
+2016,Bundesliga,SV Werder Bremen,summer,in,Fallou Diagne,82389,26,Senegal,Centre-Back,CB,2000000.0,Stade Rennais FC,France,1500000.0,0
+2016,Bundesliga,SV Werder Bremen,summer,in,Justin Eilers,50782,28,Germany,Centre-Forward,CF,550000.0,SG Dynamo Dresden,Germany,0.0,0
+2016,Bundesliga,SV Werder Bremen,summer,in,Thanos Petsos,82110,25,Greece,Defensive Midfield,DM,1500000.0,Rapid Vienna,Austria,0.0,0
+2016,Bundesliga,SV Werder Bremen,summer,in,Lamine Sané,93758,29,Senegal,Centre-Back,CB,4000000.0,FC Girondins Bordeaux,France,0.0,0
+2016,Bundesliga,SV Werder Bremen,summer,in,Lennart Thy,23553,24,Germany,Centre-Forward,CF,1000000.0,FC St. Pauli,Germany,0.0,0
+2016,Bundesliga,SV Werder Bremen,summer,in,Jaroslav Drobný,12864,36,Czech Republic,Goalkeeper,GK,500000.0,Hamburger SV,Germany,0.0,0
+2016,Bundesliga,SV Werder Bremen,winter,in,Thomas Delaney,91849,25,Denmark,Central Midfield,CM,3500000.0,FC Copenhagen,Denmark,2000000.0,0
+2016,Bundesliga,SV Werder Bremen,summer,out,Jannik Vestergaard,99331,23,Denmark,Centre-Back,CB,7000000.0,Borussia Mönchengladbach,Germany,12500000.0,0
+2016,Bundesliga,SV Werder Bremen,summer,out,Anthony Ujah,142281,25,Nigeria,Centre-Forward,CF,5500000.0,Liaoning FC,China,11500000.0,0
+2016,Bundesliga,SV Werder Bremen,summer,out,Alejandro Gálvez,128488,27,Spain,Centre-Back,CB,2500000.0,SD Eibar,Spain,1500000.0,0
+2016,Bundesliga,SV Werder Bremen,summer,out,Felix Kroos,31910,25,Germany,Central Midfield,CM,1300000.0,1.FC Union Berlin,Germany,500000.0,0
+2016,Bundesliga,SV Werder Bremen,summer,out,Oliver Hüsing,109436,23,Germany,Centre-Back,CB,350000.0,Ferencvárosi TC,Hungary,300000.0,0
+2016,Bundesliga,SV Werder Bremen,summer,out,Julian von Haacke,117484,22,Germany,Central Midfield,CM,250000.0,NEC Nijmegen,Netherlands,100000.0,0
+2016,Bundesliga,SV Werder Bremen,summer,out,Leon Guwara,201135,20,The Gambia,Left-Back,LB,350000.0,SV Darmstadt 98,Germany,50000.0,1
+2016,Bundesliga,SV Werder Bremen,summer,out,Marnon Busch,117478,21,Germany,Right-Back,RB,350000.0,TSV 1860 Munich,Germany,50000.0,1
+2016,Bundesliga,SV Werder Bremen,summer,out,Özkan Yıldırım,83256,23,Germany,Attacking Midfield,AM,250000.0,Fortuna Düsseldorf,Germany,0.0,0
+2016,Bundesliga,SV Werder Bremen,summer,out,Mateo Pavlovic,69436,26,Croatia,Centre-Back,CB,250000.0,Angers SCO,France,0.0,0
+2016,Bundesliga,SV Werder Bremen,summer,out,László Kleinheisler,220656,22,Hungary,Attacking Midfield,AM,1000000.0,SV Darmstadt 98,Germany,0.0,1
+2016,Bundesliga,SV Werder Bremen,summer,out,Papy Djilobodji,136610,27,Senegal,Centre-Back,CB,3500000.0,Chelsea FC,England,0.0,1
+2016,Bundesliga,SV Werder Bremen,summer,out,Levin Öztunali,168543,20,Germany,Left Winger,LW,3000000.0,Bayer 04 Leverkusen,Germany,0.0,1
+2016,Bundesliga,SV Werder Bremen,summer,out,Gerhard Tremmel,488,37,Germany,Goalkeeper,GK,500000.0,Swansea City,England,0.0,1
+2016,Bundesliga,SV Werder Bremen,winter,out,Fallou Diagne,82389,27,Senegal,Centre-Back,CB,2000000.0,FC Metz,France,400000.0,1
+2016,Bundesliga,SV Werder Bremen,winter,out,Lukas Fröde,153628,21,Germany,Defensive Midfield,DM,400000.0,Würzburger Kickers,Germany,200000.0,0
+2016,Bundesliga,SV Werder Bremen,winter,out,Janek Sternberg,89542,24,Germany,Left-Back,LB,300000.0,Ferencvárosi TC,Hungary,100000.0,0
+2016,Bundesliga,SV Werder Bremen,winter,out,Lennart Thy,23553,24,Germany,Centre-Forward,CF,1000000.0,FC St. Pauli,Germany,0.0,1
+2016,Bundesliga,SV Werder Bremen,winter,out,László Kleinheisler,220656,22,Hungary,Attacking Midfield,AM,750000.0,Ferencvárosi TC,Hungary,0.0,1
+2016,Bundesliga,SV Werder Bremen,winter,out,Thanos Petsos,82110,25,Greece,Defensive Midfield,DM,1000000.0,Fulham FC,England,0.0,1
+2016,Bundesliga,TSG 1899 Hoffenheim,summer,in,Andrej Kramaric,46580,25,Croatia,Attacking Midfield,AM,7500000.0,Leicester City,England,11000000.0,0
+2016,Bundesliga,TSG 1899 Hoffenheim,summer,in,Lukas Rupp,82863,25,Germany,Attacking Midfield,AM,4000000.0,VfB Stuttgart,Germany,5000000.0,0
+2016,Bundesliga,TSG 1899 Hoffenheim,summer,in,Kerem Demirbay,125858,23,Germany,Central Midfield,CM,1300000.0,Hamburger SV,Germany,4700000.0,0
+2016,Bundesliga,TSG 1899 Hoffenheim,summer,in,Kevin Vogt,84435,24,Germany,Centre-Back,CB,4000000.0,1.FC Köln,Germany,3000000.0,0
+2016,Bundesliga,TSG 1899 Hoffenheim,summer,in,Sandro Wagner,39743,28,Germany,Centre-Forward,CF,2000000.0,SV Darmstadt 98,Germany,2800000.0,0
+2016,Bundesliga,TSG 1899 Hoffenheim,summer,in,Benjamin Hübner,52348,26,Germany,Centre-Back,CB,2250000.0,FC Ingolstadt 04,Germany,800000.0,0
+2016,Bundesliga,TSG 1899 Hoffenheim,summer,in,Gregor Kobel,257814,18,Switzerland,Goalkeeper,GK,25000.0,Grasshopper Club Zürich U18,Switzerland,138000.0,0
+2016,Bundesliga,TSG 1899 Hoffenheim,summer,in,Marco Terrazzino,67869,25,Germany,Second Striker,SS,1000000.0,VfL Bochum,Germany,0.0,0
+2016,Bundesliga,TSG 1899 Hoffenheim,winter,in,Danilo Soares,154396,25,Brazil,Left-Back,LB,500000.0,Without Club,,,0
+2016,Bundesliga,TSG 1899 Hoffenheim,summer,out,Kevin Volland,82009,23,Germany,Attacking Midfield,AM,17000000.0,Bayer 04 Leverkusen,Germany,20000000.0,0
+2016,Bundesliga,TSG 1899 Hoffenheim,summer,out,Jonathan Schmid,70285,26,France,Right Midfield,RM,2500000.0,FC Augsburg,Germany,5200000.0,0
+2016,Bundesliga,TSG 1899 Hoffenheim,summer,out,Janik Haberer,177779,22,Germany,Central Midfield,CM,1000000.0,SC Freiburg,Germany,2000000.0,0
+2016,Bundesliga,TSG 1899 Hoffenheim,summer,out,Tarik Elyounoussi,37287,28,Norway,Centre-Forward,CF,1250000.0,Olympiacos Piraeus,Greece,1000000.0,0
+2016,Bundesliga,TSG 1899 Hoffenheim,summer,out,Joelinton,333241,19,Brazil,Central Midfield,CM,1250000.0,Rapid Vienna,Austria,600000.0,1
+2016,Bundesliga,TSG 1899 Hoffenheim,summer,out,Christoph Martschinko,120191,22,Austria,Left-Back,LB,1500000.0,Austria Vienna,Austria,500000.0,0
+2016,Bundesliga,TSG 1899 Hoffenheim,summer,out,Antonio Colak,160668,22,Croatia,Centre-Forward,CF,500000.0,SV Darmstadt 98,Germany,150000.0,1
+2016,Bundesliga,TSG 1899 Hoffenheim,summer,out,Felipe Pires,327911,21,Brazil,Attacking Midfield,AM,800000.0,Austria Vienna,Austria,150000.0,1
+2016,Bundesliga,TSG 1899 Hoffenheim,summer,out,Tobias Strobl,57845,26,Germany,Defensive Midfield,DM,2000000.0,Borussia Mönchengladbach,Germany,0.0,0
+2016,Bundesliga,TSG 1899 Hoffenheim,summer,out,Jens Grahl,40034,27,Germany,Goalkeeper,GK,750000.0,VfB Stuttgart,Germany,0.0,0
+2016,Bundesliga,TSG 1899 Hoffenheim,summer,out,Marvin Schwäbe,160929,21,Germany,Goalkeeper,GK,450000.0,SG Dynamo Dresden,Germany,0.0,1
+2016,Bundesliga,TSG 1899 Hoffenheim,summer,out,Benedikt Gimber,227084,19,Germany,Centre-Back,CB,250000.0,SV Sandhausen,Germany,0.0,1
+2016,Bundesliga,TSG 1899 Hoffenheim,summer,out,Russell Canouse,184133,21,United States,Central Midfield,CM,75000.0,VfL Bochum,Germany,0.0,1
+2016,Bundesliga,TSG 1899 Hoffenheim,summer,out,In-hyeok Park,292269,20,"Korea, South",Centre-Forward,CF,200000.0,FC Koper,Slovenia,0.0,1
+2016,Bundesliga,TSG 1899 Hoffenheim,summer,out,Kevin Kuranyi,1331,34,Germany,Centre-Forward,CF,,Retired,,,0
+2016,Bundesliga,TSG 1899 Hoffenheim,summer,out,Kai Herdling,6791,32,Germany,Left Winger,LW,,Career break,,,0
+2016,Bundesliga,TSG 1899 Hoffenheim,summer,out,Andrej Kramaric,46580,25,Croatia,Attacking Midfield,AM,7500000.0,Leicester City,England,0.0,1
+2016,Bundesliga,TSG 1899 Hoffenheim,winter,out,Eduardo Vargas,89718,27,Chile,Centre-Forward,CF,6000000.0,Tigres UANL,Mexico,6000000.0,0
+2016,Bundesliga,TSG 1899 Hoffenheim,winter,out,Jin-su Kim,132529,24,"Korea, South",Left-Back,LB,1500000.0,Jeonbuk Hyundai Motors,"Korea, South",1400000.0,0
+2016,Bundesliga,TSG 1899 Hoffenheim,winter,out,Jiloan Hamad,63833,26,Iraq,Attacking Midfield,AM,500000.0,Hammarby IF,Sweden,0.0,0
+2016,Bundesliga,TSG 1899 Hoffenheim,winter,out,Bruno Nazário,250010,21,Brazil,Attacking Midfield,AM,250000.0,Guarani Futebol Clube (SP),Brazil,0.0,1
+2016,Bundesliga,TSG 1899 Hoffenheim,winter,out,Junior Ponce,214654,22,Peru,Right Winger,RW,350000.0,Universidad San Martín de Porres,Peru,,0
+2016,Bundesliga,TSG 1899 Hoffenheim,winter,out,Baris Atik,161072,22,Germany,Left Winger,LW,250000.0,SK Sturm Graz,Austria,0.0,1
+2016,Bundesliga,TSG 1899 Hoffenheim,winter,out,Benedikt Gimber,227084,19,Germany,Centre-Back,CB,200000.0,Karlsruher SC,Germany,0.0,1
+2016,Bundesliga,VfL Wolfsburg,summer,in,Yannick Gerhardt,119277,22,Germany,Central Midfield,CM,4500000.0,1.FC Köln,Germany,13000000.0,0
+2016,Bundesliga,VfL Wolfsburg,summer,in,Jeffrey Bruma,88721,24,Netherlands,Centre-Back,CB,7750000.0,PSV Eindhoven,Netherlands,11500000.0,0
+2016,Bundesliga,VfL Wolfsburg,summer,in,Josip Brekalo,293169,18,Croatia,Left Winger,LW,1000000.0,GNK Dinamo Zagreb,Croatia,10000000.0,0
+2016,Bundesliga,VfL Wolfsburg,summer,in,Jakub Blaszczykowski,29835,30,Poland,Right Winger,RW,7000000.0,Borussia Dortmund,Germany,5000000.0,0
+2016,Bundesliga,VfL Wolfsburg,summer,in,Josuha Guilavogui,93704,25,France,Defensive Midfield,DM,12000000.0,Atlético de Madrid,Spain,3000000.0,0
+2016,Bundesliga,VfL Wolfsburg,summer,in,Borja Mayoral,298976,19,Spain,Centre-Forward,CF,2500000.0,Real Madrid,Spain,3000000.0,1
+2016,Bundesliga,VfL Wolfsburg,summer,in,Philipp Wollscheid,53173,27,Germany,Centre-Back,CB,7500000.0,Stoke City,England,1500000.0,1
+2016,Bundesliga,VfL Wolfsburg,summer,in,Mario Gómez,6288,31,Germany,Centre-Forward,CF,12000000.0,ACF Fiorentina,Italy,1050000.0,0
+2016,Bundesliga,VfL Wolfsburg,summer,in,Daniel Didavi,57995,26,Germany,Attacking Midfield,AM,7000000.0,VfB Stuttgart,Germany,0.0,0
+2016,Bundesliga,VfL Wolfsburg,winter,in,Yunus Mallı,85352,24,Türkiye,Central Midfield,CM,10000000.0,1.FSV Mainz 05,Germany,12500000.0,0
+2016,Bundesliga,VfL Wolfsburg,winter,in,Riechedly Bazoer,216443,20,Curacao,Centre-Back,CB,15000000.0,Ajax Amsterdam,Netherlands,12000000.0,0
+2016,Bundesliga,VfL Wolfsburg,winter,in,Paul-Georges Ntep,148955,24,Cameroon,Left Winger,LW,10000000.0,Stade Rennais FC,France,5000000.0,0
+2016,Bundesliga,VfL Wolfsburg,winter,in,Victor Osimhen,401923,18,Nigeria,Centre-Forward,CF,,Ultimate Strikers Academy,Nigeria,3500000.0,0
+2016,Bundesliga,VfL Wolfsburg,winter,in,Ashkan Dejagah,13979,30,Iran,Right Winger,RW,2300000.0,Al-Arabi SC,Qatar,0.0,0
+2016,Bundesliga,VfL Wolfsburg,summer,out,André Schürrle,58205,25,Germany,Left Winger,LW,25000000.0,Borussia Dortmund,Germany,30000000.0,0
+2016,Bundesliga,VfL Wolfsburg,summer,out,Bas Dost,56331,27,Netherlands,Centre-Forward,CF,7500000.0,Sporting CP,Portugal,11850000.0,0
+2016,Bundesliga,VfL Wolfsburg,summer,out,Max Kruse,36182,28,Germany,Second Striker,SS,8000000.0,SV Werder Bremen,Germany,7500000.0,0
+2016,Bundesliga,VfL Wolfsburg,summer,out,Dante,16136,32,Brazil,Centre-Back,CB,2000000.0,OGC Nice,France,2500000.0,0
+2016,Bundesliga,VfL Wolfsburg,summer,out,Patrick Drewes,94192,23,Germany,Goalkeeper,GK,250000.0,Preußen Münster,Germany,50000.0,1
+2016,Bundesliga,VfL Wolfsburg,summer,out,Moritz Sprenger,158055,21,Germany,Centre-Back,CB,100000.0,1.FC Magdeburg,Germany,50000.0,1
+2016,Bundesliga,VfL Wolfsburg,summer,out,Felipe Lopes,45448,28,Brazil,Centre-Back,CB,750000.0,GD Chaves,Portugal,0.0,0
+2016,Bundesliga,VfL Wolfsburg,summer,out,Naldo,32213,33,Brazil,Centre-Back,CB,4000000.0,FC Schalke 04,Germany,0.0,0
+2016,Bundesliga,VfL Wolfsburg,summer,out,Leandro Putaro,237732,19,Germany,Centre-Forward,CF,300000.0,Arminia Bielefeld,Germany,0.0,1
+2016,Bundesliga,VfL Wolfsburg,summer,out,Francisco Rodríguez,227967,20,Switzerland,Attacking Midfield,AM,700000.0,FC Luzern,Switzerland,0.0,1
+2016,Bundesliga,VfL Wolfsburg,summer,out,Josuha Guilavogui,93704,25,France,Defensive Midfield,DM,12000000.0,Atlético de Madrid,Spain,0.0,1
+2016,Bundesliga,VfL Wolfsburg,winter,out,Julian Draxler,85148,23,Germany,Left Winger,LW,28000000.0,Paris Saint-Germain,France,36000000.0,0
+2016,Bundesliga,VfL Wolfsburg,winter,out,Bruno Henrique,353108,26,Brazil,Centre-Forward,CF,2000000.0,Santos FC,Brazil,4000000.0,0
+2016,Bundesliga,VfL Wolfsburg,winter,out,Daniel Caligiuri,38410,29,Italy,Right Winger,RW,6500000.0,FC Schalke 04,Germany,2500000.0,0
+2016,Bundesliga,VfL Wolfsburg,winter,out,Marcel Schäfer,8317,32,Germany,Left-Back,LB,1000000.0,Tampa Bay Rowdies,United States,,0
+2016,Bundesliga,VfL Wolfsburg,winter,out,Carlos Ascues,189283,24,Peru,Centre-Back,CB,500000.0,FBC Melgar,Peru,0.0,1
+2016,Bundesliga,VfL Wolfsburg,winter,out,Josip Brekalo,293169,18,Croatia,Left Winger,LW,4000000.0,VfB Stuttgart,Germany,0.0,1

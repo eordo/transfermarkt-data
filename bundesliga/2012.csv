@@ -1,0 +1,444 @@
+season,league,club,window,movement,player_name,player_id,age,nationality,position,pos,market_value,dealing_club,dealing_country,fee,is_loan
+2012,Bundesliga,1.FC Nuremberg,summer,in,Timo Gebhart,42463,23,Germany,Attacking Midfield,AM,2500000.0,VfB Stuttgart,Germany,1000000.0,0
+2012,Bundesliga,1.FC Nuremberg,summer,in,Hiroshi Kiyotake,86175,22,Japan,Attacking Midfield,AM,2250000.0,Cerezo Osaka,Japan,1000000.0,0
+2012,Bundesliga,1.FC Nuremberg,summer,in,Sebastian Polter,60957,21,Germany,Centre-Forward,CF,800000.0,VfL Wolfsburg,Germany,200000.0,1
+2012,Bundesliga,1.FC Nuremberg,summer,in,Noah Korczowski,119194,18,Germany,Centre-Back,CB,150000.0,FC Schalke 04 U19,Germany,0.0,0
+2012,Bundesliga,1.FC Nuremberg,summer,in,Roussel Ngankam,85866,18,Germany,Centre-Forward,CF,100000.0,Hertha BSC U19,Germany,0.0,0
+2012,Bundesliga,1.FC Nuremberg,summer,in,Marcos António,14334,29,Brazil,Centre-Back,CB,1500000.0,Rapid Bucharest ,Romania,0.0,0
+2012,Bundesliga,1.FC Nuremberg,winter,in,Muhammed Ildiz,59059,21,Austria,Central Midfield,CM,700000.0,Rapid Vienna,Austria,500000.0,0
+2012,Bundesliga,1.FC Nuremberg,winter,in,Berkay Dabanlı,121528,22,Türkiye,Centre-Back,CB,500000.0,Kayserispor,Türkiye,0.0,0
+2012,Bundesliga,1.FC Nuremberg,winter,in,Mu Kanazaki,86172,23,Japan,Centre-Forward,CF,1200000.0,Nagoya Grampus,Japan,0.0,0
+2012,Bundesliga,1.FC Nuremberg,summer,out,Philipp Wollscheid,53173,23,Germany,Centre-Back,CB,7500000.0,Bayer 04 Leverkusen,Germany,7000000.0,0
+2012,Bundesliga,1.FC Nuremberg,summer,out,Christian Eigler,4089,28,Germany,Right Winger,RW,1250000.0,FC Ingolstadt 04,Germany,0.0,0
+2012,Bundesliga,1.FC Nuremberg,summer,out,Albert Bunjaku,19194,28,Kosovo,Centre-Forward,CF,1250000.0,1.FC Kaiserslautern,Germany,0.0,0
+2012,Bundesliga,1.FC Nuremberg,summer,out,Rubin Okotie,31493,25,Austria,Centre-Forward,CF,600000.0,SK Sturm Graz,Austria,0.0,0
+2012,Bundesliga,1.FC Nuremberg,summer,out,Christoph Sauter,74785,20,Germany,Right Winger,RW,150000.0,Karlsruher SC,Germany,0.0,0
+2012,Bundesliga,1.FC Nuremberg,summer,out,Dominic Maroh,41023,25,Slovenia,Centre-Back,CB,2000000.0,1.FC Köln,Germany,0.0,0
+2012,Bundesliga,1.FC Nuremberg,summer,out,Juri Judt,31446,25,Germany,Defensive Midfield,DM,350000.0,RB Leipzig,Germany,0.0,0
+2012,Bundesliga,1.FC Nuremberg,summer,out,Wilson Kamavuaka,55512,22,DR Congo,Centre-Back,CB,250000.0,SSV Jahn Regensburg,Germany,0.0,1
+2012,Bundesliga,1.FC Nuremberg,summer,out,Julian Wießmeier,93559,19,Germany,Attacking Midfield,AM,800000.0,SSV Jahn Regensburg,Germany,0.0,1
+2012,Bundesliga,1.FC Nuremberg,summer,out,Manuel Zeitz,85960,21,Germany,Defensive Midfield,DM,400000.0,SC Paderborn 07,Germany,0.0,1
+2012,Bundesliga,1.FC Nuremberg,summer,out,Daniel Didavi,57995,22,Germany,Attacking Midfield,AM,2500000.0,VfB Stuttgart,Germany,0.0,1
+2012,Bundesliga,1.FC Nuremberg,summer,out,Jens Hegeler,51168,24,Germany,Central Midfield,CM,2000000.0,Bayer 04 Leverkusen,Germany,0.0,1
+2012,Bundesliga,1.FC Nuremberg,winter,out,Philipp Klement,60394,20,Germany,Attacking Midfield,AM,100000.0,FC Hansa Rostock,Germany,0.0,1
+2012,Bundesliga,1.FC Nuremberg,winter,out,Almog Cohen,56711,24,Israel,Central Midfield,CM,1750000.0,Hapoel Tel Aviv,Israel,0.0,1
+2012,Bundesliga,1.FSV Mainz 05,summer,in,Chinedu Ede,26486,25,Germany,Right Winger,RW,900000.0,1.FC Union Berlin,Germany,1200000.0,0
+2012,Bundesliga,1.FSV Mainz 05,summer,in,Nikita Rukavytsya,50135,25,Australia,Centre-Forward,CF,1750000.0,Hertha BSC,Germany,900000.0,0
+2012,Bundesliga,1.FSV Mainz 05,summer,in,Júnior Díaz,35383,28,Costa Rica,Centre-Back,CB,950000.0,Club Brugge KV,Belgium,80000.0,0
+2012,Bundesliga,1.FSV Mainz 05,summer,in,Ivan Klasnic,690,32,Croatia,Centre-Forward,CF,1250000.0,Without Club,,,0
+2012,Bundesliga,1.FSV Mainz 05,winter,in,Niki Zimling,15045,27,Denmark,Defensive Midfield,DM,3000000.0,Club Brugge KV,Belgium,2000000.0,0
+2012,Bundesliga,1.FSV Mainz 05,summer,out,Sami Allagui,37013,26,Tunisia,Centre-Forward,CF,2500000.0,Hertha BSC,Germany,1600000.0,0
+2012,Bundesliga,1.FSV Mainz 05,summer,out,Zoltán Stieber,61591,23,Hungary,Attacking Midfield,AM,1250000.0,SpVgg Greuther Fürth,Germany,900000.0,0
+2012,Bundesliga,1.FSV Mainz 05,summer,out,Malik Fathi,3817,28,Germany,Left-Back,LB,1500000.0,Kayserispor,Türkiye,200000.0,1
+2012,Bundesliga,1.FSV Mainz 05,summer,out,Anthony Ujah,142281,21,Nigeria,Centre-Forward,CF,1750000.0,1.FC Köln,Germany,100000.0,1
+2012,Bundesliga,1.FSV Mainz 05,summer,out,Fabian Schönheim,31652,25,Germany,Centre-Back,CB,500000.0,1.FC Union Berlin,Germany,50000.0,1
+2012,Bundesliga,1.FSV Mainz 05,summer,out,Deniz Yılmaz,34753,24,Azerbaijan,Centre-Forward,CF,300000.0,SC Paderborn 07,Germany,50000.0,1
+2012,Bundesliga,1.FSV Mainz 05,summer,out,Petar Sliskovic,82367,21,Croatia,Centre-Forward,CF,400000.0,SG Dynamo Dresden,Germany,50000.0,1
+2012,Bundesliga,1.FSV Mainz 05,summer,out,Mohamed Zidan,17275,30,Egypt,Second Striker,SS,2500000.0,FC Baniyas,United Arab Emirates,0.0,0
+2012,Bundesliga,1.FSV Mainz 05,summer,out,Eugen Gopko,82354,21,Germany,Right-Back,RB,100000.0,Without Club,,,0
+2012,Bundesliga,1.FSV Mainz 05,summer,out,Mario Gavranovic,61380,22,Switzerland,Centre-Forward,CF,800000.0,FC Schalke 04,Germany,0.0,1
+2012,Bundesliga,1.FSV Mainz 05,winter,out,Eugen Polanski,19548,26,Poland,Defensive Midfield,DM,3500000.0,TSG 1899 Hoffenheim,Germany,3000000.0,0
+2012,Bundesliga,1.FSV Mainz 05,winter,out,Malik Fathi,3817,29,Germany,Left-Back,LB,1500000.0,TSV 1860 Munich,Germany,0.0,1
+2012,Bundesliga,Bayer 04 Leverkusen,summer,in,Philipp Wollscheid,53173,23,Germany,Centre-Back,CB,7500000.0,1.FC Nuremberg,Germany,7000000.0,0
+2012,Bundesliga,Bayer 04 Leverkusen,summer,in,Daniel Carvajal,138927,20,Spain,Right-Back,RB,,Real Madrid Castilla,Spain,5000000.0,0
+2012,Bundesliga,Bayer 04 Leverkusen,summer,in,Junior Fernandes,89708,24,Chile,Left Winger,LW,800000.0,Club Universidad de Chile,Chile,4700000.0,0
+2012,Bundesliga,Bayer 04 Leverkusen,summer,in,Konstantinos Stafylidis,148967,18,Greece,Left-Back,LB,600000.0,PAOK Thessaloniki,Greece,1500000.0,0
+2012,Bundesliga,Bayer 04 Leverkusen,summer,in,Carlinhos,226155,18,Brazil,Attacking Midfield,AM,,Desportivo Brasil Ltda (SP),Brazil,100000.0,1
+2012,Bundesliga,Bayer 04 Leverkusen,summer,in,Michael Rensing,2421,28,Germany,Goalkeeper,GK,1750000.0,1.FC Köln,Germany,0.0,0
+2012,Bundesliga,Bayer 04 Leverkusen,winter,in,Arkadiusz Milik,191891,18,Poland,Centre-Forward,CF,2500000.0,Górnik Zabrze,Poland,2600000.0,0
+2012,Bundesliga,Bayer 04 Leverkusen,winter,in,Sebastian Boenisch,36914,25,Poland,Left-Back,LB,1250000.0,Without Club,,,0
+2012,Bundesliga,Bayer 04 Leverkusen,summer,out,Eren Derdiyok,47543,24,Switzerland,Centre-Forward,CF,7500000.0,TSG 1899 Hoffenheim,Germany,5500000.0,0
+2012,Bundesliga,Bayer 04 Leverkusen,summer,out,Samed Yesil,95295,18,Germany,Centre-Forward,CF,600000.0,Liverpool FC,England,1300000.0,0
+2012,Bundesliga,Bayer 04 Leverkusen,summer,out,Bastian Oczipka,53437,23,Germany,Left-Back,LB,1500000.0,Eintracht Frankfurt,Germany,500000.0,0
+2012,Bundesliga,Bayer 04 Leverkusen,summer,out,Fabian Giefer,53408,22,Germany,Goalkeeper,GK,500000.0,Fortuna Düsseldorf,Germany,400000.0,0
+2012,Bundesliga,Bayer 04 Leverkusen,summer,out,Thanos Petsos,82110,21,Greece,Defensive Midfield,DM,1250000.0,SpVgg Greuther Fürth,Germany,50000.0,0
+2012,Bundesliga,Bayer 04 Leverkusen,summer,out,René Adler,1784,27,Germany,Goalkeeper,GK,6000000.0,Hamburger SV,Germany,0.0,0
+2012,Bundesliga,Bayer 04 Leverkusen,summer,out,Tranquillo Barnetta,6645,27,Switzerland,Attacking Midfield,AM,5500000.0,FC Schalke 04,Germany,0.0,0
+2012,Bundesliga,Bayer 04 Leverkusen,summer,out,Lucão,143794,21,Brazil,Centre-Back,CB,100000.0,Vasas SC,Hungary,0.0,0
+2012,Bundesliga,Bayer 04 Leverkusen,summer,out,Danny da Costa,85906,18,Germany,Centre-Back,CB,1000000.0,FC Ingolstadt 04,Germany,0.0,1
+2012,Bundesliga,Bayer 04 Leverkusen,summer,out,Konstantinos Stafylidis,148967,18,Greece,Left-Back,LB,600000.0,PAOK Thessaloniki,Greece,0.0,1
+2012,Bundesliga,Bayer 04 Leverkusen,summer,out,Zvonko Pamic,47624,21,Croatia,Central Midfield,CM,500000.0,MSV Duisburg,Germany,0.0,1
+2012,Bundesliga,Bayer 04 Leverkusen,summer,out,Nicolai Jørgensen,100399,21,Denmark,Centre-Forward,CF,500000.0,FC Copenhagen,Denmark,0.0,1
+2012,Bundesliga,Bayer 04 Leverkusen,summer,out,Michael Ballack,63,35,Germany,Central Midfield,CM,3000000.0,Retired,,,0
+2012,Bundesliga,Bayer 04 Leverkusen,summer,out,Michael Ortega,119988,21,Colombia,Attacking Midfield,AM,1000000.0,Atlas Guadalajara,Mexico,0.0,1
+2012,Bundesliga,Bayer 04 Leverkusen,summer,out,Vedran Corluka,34393,26,Croatia,Centre-Back,CB,7500000.0,Tottenham Hotspur,England,0.0,1
+2012,Bundesliga,Bayer 04 Leverkusen,winter,out,Renato Augusto,53058,24,Brazil,Central Midfield,CM,7000000.0,Sport Club Corinthians Paulista,Brazil,6700000.0,0
+2012,Bundesliga,Bayer 04 Leverkusen,winter,out,Zvonko Pamic,47624,21,Croatia,Central Midfield,CM,400000.0,GNK Dinamo Zagreb,Croatia,230000.0,0
+2012,Bundesliga,Bayer 04 Leverkusen,winter,out,Carlinhos,226155,18,Brazil,Attacking Midfield,AM,300000.0,SSV Jahn Regensburg,Germany,0.0,1
+2012,Bundesliga,Bayern Munich,summer,in,Javi Martínez,44017,23,Spain,Centre-Back,CB,30000000.0,Athletic Bilbao,Spain,40000000.0,0
+2012,Bundesliga,Bayern Munich,summer,in,Mario Mandžukić,34572,26,Croatia,Centre-Forward,CF,14000000.0,VfL Wolfsburg,Germany,13000000.0,0
+2012,Bundesliga,Bayern Munich,summer,in,Xherdan Shaqiri,86792,20,Switzerland,Attacking Midfield,AM,12500000.0,FC Basel 1893,Switzerland,11800000.0,0
+2012,Bundesliga,Bayern Munich,summer,in,Dante,16136,28,Brazil,Centre-Back,CB,8000000.0,Borussia Mönchengladbach,Germany,4700000.0,0
+2012,Bundesliga,Bayern Munich,summer,in,Mitchell Weiser,119211,18,Germany,Right-Back,RB,1000000.0,1.FC Köln U19,Germany,800000.0,0
+2012,Bundesliga,Bayern Munich,summer,in,Lukas Raeder,125172,18,Germany,Goalkeeper,GK,,FC Schalke 04 U19,Germany,0.0,0
+2012,Bundesliga,Bayern Munich,summer,in,Tom Starke,80,31,Germany,Goalkeeper,GK,1500000.0,TSG 1899 Hoffenheim,Germany,0.0,0
+2012,Bundesliga,Bayern Munich,summer,in,Claudio Pizarro,532,33,Peru,Centre-Forward,CF,5000000.0,SV Werder Bremen,Germany,0.0,0
+2012,Bundesliga,Bayern Munich,summer,out,Nils Petersen,42936,23,Germany,Centre-Forward,CF,3000000.0,SV Werder Bremen,Germany,500000.0,1
+2012,Bundesliga,Bayern Munich,summer,out,Ivica Olic,7427,32,Croatia,Centre-Forward,CF,3500000.0,VfL Wolfsburg,Germany,0.0,0
+2012,Bundesliga,Bayern Munich,summer,out,Danijel Pranjic,25617,30,Croatia,Left-Back,LB,2500000.0,Sporting CP,Portugal,0.0,0
+2012,Bundesliga,Bayern Munich,summer,out,Hans Jörg Butt,294,38,Germany,Goalkeeper,GK,1000000.0,Retired,,,0
+2012,Bundesliga,Bayern Munich,summer,out,Breno,52947,22,Brazil,Centre-Back,CB,1000000.0,Career break,,,0
+2012,Bundesliga,Bayern Munich,summer,out,Takashi Usami,111881,20,Japan,Second Striker,SS,1500000.0,Gamba Osaka,Japan,0.0,1
+2012,Bundesliga,Bayern Munich,winter,out,Mitchell Weiser,119211,18,Germany,Right-Back,RB,1000000.0,1.FC Kaiserslautern,Germany,0.0,1
+2012,Bundesliga,Borussia Dortmund,summer,in,Marco Reus,35207,23,Germany,Attacking Midfield,AM,20000000.0,Borussia Mönchengladbach,Germany,17100000.0,0
+2012,Bundesliga,Borussia Dortmund,summer,in,Julian Schieber,58124,23,Germany,Centre-Forward,CF,8000000.0,VfB Stuttgart,Germany,5500000.0,0
+2012,Bundesliga,Borussia Dortmund,summer,in,Leonardo Bittencourt,93844,18,Germany,Central Midfield,CM,2500000.0,FC Energie Cottbus,Germany,2700000.0,0
+2012,Bundesliga,Borussia Dortmund,summer,in,Oliver Kirch,2150,29,Germany,Defensive Midfield,DM,1000000.0,1.FC Kaiserslautern,Germany,350000.0,0
+2012,Bundesliga,Borussia Dortmund,winter,in,Nuri Şahin,31095,24,Türkiye,Defensive Midfield,DM,15000000.0,Real Madrid,Spain,1000000.0,1
+2012,Bundesliga,Borussia Dortmund,summer,out,Shinji Kagawa,81785,23,Japan,Attacking Midfield,AM,22000000.0,Manchester United,England,16000000.0,0
+2012,Bundesliga,Borussia Dortmund,summer,out,Lucas Barrios,58516,27,Paraguay,Centre-Forward,CF,10000000.0,Guangzhou Evergrande,China,8500000.0,0
+2012,Bundesliga,Borussia Dortmund,summer,out,Dimitar Rangelov,39912,29,Bulgaria,Centre-Forward,CF,1500000.0,FC Luzern,Switzerland,500000.0,0
+2012,Bundesliga,Borussia Dortmund,summer,out,Marco Stiepermann,45760,21,Germany,Attacking Midfield,AM,400000.0,FC Energie Cottbus,Germany,200000.0,0
+2012,Bundesliga,Borussia Dortmund,summer,out,Julian Koch,53534,21,Germany,Defensive Midfield,DM,1500000.0,MSV Duisburg,Germany,100000.0,1
+2012,Bundesliga,Borussia Dortmund,summer,out,Lasse Sobiech,79503,21,Germany,Centre-Back,CB,1000000.0,SpVgg Greuther Fürth,Germany,100000.0,1
+2012,Bundesliga,Borussia Dortmund,summer,out,Daniel Ginczek,79501,21,Germany,Centre-Forward,CF,800000.0,FC St. Pauli,Germany,100000.0,1
+2012,Bundesliga,Borussia Dortmund,summer,out,Johannes Focher,47597,22,Germany,Goalkeeper,GK,150000.0,SK Sturm Graz,Austria,0.0,0
+2012,Bundesliga,Borussia Dortmund,summer,out,Antônio da Silva,1919,34,Brazil,Attacking Midfield,AM,400000.0,MSV Duisburg,Germany,0.0,0
+2012,Bundesliga,Borussia Dortmund,summer,out,Florian Kringe,1270,29,Germany,Central Midfield,CM,600000.0,FC St. Pauli,Germany,0.0,0
+2012,Bundesliga,Borussia Dortmund,winter,out,Ivan Perišić,42460,23,Croatia,Left Winger,LW,7000000.0,VfL Wolfsburg,Germany,8000000.0,0
+2012,Bundesliga,Borussia Dortmund,winter,out,Chris Löwe,55125,23,Germany,Left-Back,LB,500000.0,1.FC Kaiserslautern,Germany,500000.0,0
+2012,Bundesliga,Borussia Mönchengladbach,summer,in,Luuk de Jong,72522,21,Netherlands,Centre-Forward,CF,12000000.0,Twente Enschede FC,Netherlands,12000000.0,0
+2012,Bundesliga,Borussia Mönchengladbach,summer,in,Álvaro Domínguez,62915,23,Spain,Centre-Back,CB,8000000.0,Atlético de Madrid,Spain,10000000.0,0
+2012,Bundesliga,Borussia Mönchengladbach,summer,in,Granit Xhaka,111455,19,Switzerland,Defensive Midfield,DM,8500000.0,FC Basel 1893,Switzerland,8500000.0,0
+2012,Bundesliga,Borussia Mönchengladbach,summer,in,Peniel Mlapa,70280,21,Togo,Centre-Forward,CF,3000000.0,TSG 1899 Hoffenheim,Germany,2500000.0,0
+2012,Bundesliga,Borussia Mönchengladbach,summer,in,Branimir Hrgota,171209,19,Sweden,Centre-Forward,CF,200000.0,Jönköpings Södra IF,Sweden,400000.0,0
+2012,Bundesliga,Borussia Mönchengladbach,summer,out,Marco Reus,35207,23,Germany,Attacking Midfield,AM,20000000.0,Borussia Dortmund,Germany,17100000.0,0
+2012,Bundesliga,Borussia Mönchengladbach,summer,out,Dante,16136,28,Brazil,Centre-Back,CB,8000000.0,Bayern Munich,Germany,4700000.0,0
+2012,Bundesliga,Borussia Mönchengladbach,summer,out,Bamba Anderson,78553,24,Brazil,Centre-Back,CB,1750000.0,Eintracht Frankfurt,Germany,800000.0,0
+2012,Bundesliga,Borussia Mönchengladbach,summer,out,Yuki Otsu,82999,22,Japan,Attacking Midfield,AM,800000.0,VVV-Venlo,Netherlands,400000.0,0
+2012,Bundesliga,Borussia Mönchengladbach,summer,out,Tobias Levels,31216,25,Germany,Right-Back,RB,1000000.0,Fortuna Düsseldorf,Germany,200000.0,0
+2012,Bundesliga,Borussia Mönchengladbach,summer,out,Elias Kachunga,49501,20,DR Congo,Centre-Forward,CF,350000.0,Hertha BSC,Germany,100000.0,1
+2012,Bundesliga,Borussia Mönchengladbach,summer,out,Mathew Leckie,126214,21,Australia,Left Winger,LW,700000.0,FSV Frankfurt,Germany,50000.0,1
+2012,Bundesliga,Borussia Mönchengladbach,summer,out,Roman Neustädter,40478,24,Russia,Centre-Back,CB,3500000.0,FC Schalke 04,Germany,0.0,0
+2012,Bundesliga,Borussia Mönchengladbach,summer,out,Logan Bailly,13021,26,Belgium,Goalkeeper,GK,600000.0,Oud-Heverlee Leuven,Belgium,0.0,0
+2012,Bundesliga,Borussia Mönchengladbach,winter,out,Igor de Camargo,13023,29,Belgium,Centre-Forward,CF,2500000.0,TSG 1899 Hoffenheim,Germany,600000.0,1
+2012,Bundesliga,Borussia Mönchengladbach,winter,out,Matthias Zimmermann,86848,20,Germany,Right-Back,RB,500000.0,SpVgg Greuther Fürth,Germany,100000.0,1
+2012,Bundesliga,Borussia Mönchengladbach,winter,out,Elias Kachunga,49501,20,DR Congo,Centre-Forward,CF,350000.0,SC Paderborn 07,Germany,0.0,1
+2012,Bundesliga,Eintracht Frankfurt,summer,in,Kevin Trapp,45672,21,Germany,Goalkeeper,GK,3000000.0,1.FC Kaiserslautern,Germany,1500000.0,0
+2012,Bundesliga,Eintracht Frankfurt,summer,in,Takashi Inui,98249,24,Japan,Left Winger,LW,2250000.0,VfL Bochum,Germany,1450000.0,0
+2012,Bundesliga,Eintracht Frankfurt,summer,in,Olivier Occéan,24155,30,Canada,Centre-Forward,CF,1500000.0,SpVgg Greuther Fürth,Germany,1300000.0,0
+2012,Bundesliga,Eintracht Frankfurt,summer,in,Carlos Zambrano,53533,23,Peru,Centre-Back,CB,1750000.0,FC St. Pauli,Germany,1200000.0,0
+2012,Bundesliga,Eintracht Frankfurt,summer,in,Bamba Anderson,78553,24,Brazil,Centre-Back,CB,1750000.0,Borussia Mönchengladbach,Germany,800000.0,0
+2012,Bundesliga,Eintracht Frankfurt,summer,in,Vadim Demidov,37247,25,Norway,Centre-Back,CB,3500000.0,Real Sociedad,Spain,500000.0,0
+2012,Bundesliga,Eintracht Frankfurt,summer,in,Bastian Oczipka,53437,23,Germany,Left-Back,LB,1500000.0,Bayer 04 Leverkusen,Germany,500000.0,0
+2012,Bundesliga,Eintracht Frankfurt,summer,in,Dorge Kouemaha,29220,29,Cameroon,Centre-Forward,CF,1500000.0,Club Brugge KV,Belgium,200000.0,1
+2012,Bundesliga,Eintracht Frankfurt,summer,in,Erwin Hoffer,25785,25,Austria,Centre-Forward,CF,2000000.0,SSC Napoli,Italy,200000.0,1
+2012,Bundesliga,Eintracht Frankfurt,summer,in,Martin Lanig,3942,27,Germany,Defensive Midfield,DM,1500000.0,1.FC Köln,Germany,0.0,0
+2012,Bundesliga,Eintracht Frankfurt,summer,in,Stefano Celozzi,33729,23,Germany,Right-Back,RB,800000.0,VfB Stuttgart,Germany,0.0,0
+2012,Bundesliga,Eintracht Frankfurt,summer,in,Stefan Aigner,35183,24,Germany,Right Winger,RW,2000000.0,TSV 1860 Munich,Germany,0.0,0
+2012,Bundesliga,Eintracht Frankfurt,winter,in,Marco Russ,16520,27,Germany,Centre-Back,CB,2500000.0,VfL Wolfsburg,Germany,500000.0,1
+2012,Bundesliga,Eintracht Frankfurt,winter,in,Srdjan Lakic,34579,29,Croatia,Centre-Forward,CF,1500000.0,VfL Wolfsburg,Germany,0.0,1
+2012,Bundesliga,Eintracht Frankfurt,summer,out,Gordon Schildenfeld,38870,27,Croatia,Centre-Back,CB,3000000.0,Dinamo Moscow,Russia,2000000.0,0
+2012,Bundesliga,Eintracht Frankfurt,summer,out,Mohamadou Idrissou,1574,32,Cameroon,Centre-Forward,CF,1250000.0,1.FC Kaiserslautern,Germany,450000.0,0
+2012,Bundesliga,Eintracht Frankfurt,summer,out,Georgios Tzavellas,42942,24,Greece,Centre-Back,CB,1750000.0,AS Monaco,France,250000.0,0
+2012,Bundesliga,Eintracht Frankfurt,summer,out,Matthias Lehmann,1126,29,Germany,Defensive Midfield,DM,1250000.0,1.FC Köln,Germany,0.0,0
+2012,Bundesliga,Eintracht Frankfurt,summer,out,Ricardo Clark,39840,29,United States,Central Midfield,CM,500000.0,Houston Dynamo,United States,0.0,0
+2012,Bundesliga,Eintracht Frankfurt,summer,out,Marcos Álvarez,47944,20,Germany,Centre-Forward,CF,150000.0,Stuttgarter Kickers,Germany,0.0,0
+2012,Bundesliga,Eintracht Frankfurt,summer,out,Marcel Titsch Rivero,49669,22,Germany,Central Midfield,CM,150000.0,1.FC Heidenheim 1846,Germany,0.0,0
+2012,Bundesliga,Eintracht Frankfurt,summer,out,Dominik Schmidt,17443,25,Germany,Centre-Back,CB,200000.0,Preußen Münster,Germany,0.0,0
+2012,Bundesliga,Eintracht Frankfurt,summer,out,Habib Bellaïd,27385,26,Algeria,Centre-Back,CB,300000.0,CS Sedan-Ardennes,France,0.0,0
+2012,Bundesliga,Eintracht Frankfurt,summer,out,Ümit Korkmaz,37977,26,Austria,Left Winger,LW,600000.0,FC Ingolstadt 04,Germany,0.0,0
+2012,Bundesliga,Eintracht Frankfurt,summer,out,Caio,27410,26,Brazil,Attacking Midfield,AM,400000.0,Esporte Clube Bahia,Brazil,0.0,0
+2012,Bundesliga,Eintracht Frankfurt,summer,out,Thomas Kessler,5072,26,Germany,Goalkeeper,GK,400000.0,1.FC Köln,Germany,0.0,1
+2012,Bundesliga,Eintracht Frankfurt,summer,out,Bamba Anderson,78553,24,Brazil,Centre-Back,CB,1750000.0,Borussia Mönchengladbach,Germany,0.0,1
+2012,Bundesliga,Eintracht Frankfurt,summer,out,Erwin Hoffer,25785,25,Austria,Centre-Forward,CF,2000000.0,SSC Napoli,Italy,0.0,1
+2012,Bundesliga,Eintracht Frankfurt,winter,out,Benjamin Köhler,332,32,Germany,Left Midfield,LM,1000000.0,1.FC Kaiserslautern,Germany,300000.0,0
+2012,Bundesliga,Eintracht Frankfurt,winter,out,Rob Friend,37176,32,Canada,Centre-Forward,CF,500000.0,TSV 1860 Munich,Germany,0.0,1
+2012,Bundesliga,Eintracht Frankfurt,winter,out,Vadim Demidov,37247,26,Norway,Centre-Back,CB,2000000.0,Celta de Vigo,Spain,0.0,1
+2012,Bundesliga,Eintracht Frankfurt,winter,out,Erwin Hoffer,25785,25,Austria,Centre-Forward,CF,1500000.0,SSC Napoli,Italy,0.0,1
+2012,Bundesliga,Eintracht Frankfurt,winter,out,Dorge Kouemaha,29220,29,Cameroon,Centre-Forward,CF,1000000.0,Club Brugge KV,Belgium,0.0,1
+2012,Bundesliga,FC Augsburg,summer,in,Jan Moravek,63022,22,Czech Republic,Central Midfield,CM,1750000.0,FC Schalke 04,Germany,700000.0,0
+2012,Bundesliga,FC Augsburg,summer,in,Kevin Vogt,84435,20,Germany,Centre-Back,CB,1000000.0,VfL Bochum,Germany,600000.0,0
+2012,Bundesliga,FC Augsburg,summer,in,Aristide Bancé,15486,27,Burkina Faso,Centre-Forward,CF,1000000.0,Al-Ahli Dubai Club (- 2017),United Arab Emirates,500000.0,0
+2012,Bundesliga,FC Augsburg,summer,in,Milan Petrzela,21101,29,Czech Republic,Right Midfield,RM,1700000.0,FC Viktoria Plzen,Czech Republic,300000.0,0
+2012,Bundesliga,FC Augsburg,summer,in,Ragnar Klavan,26669,26,Estonia,Centre-Back,CB,1500000.0,AZ Alkmaar,Netherlands,250000.0,0
+2012,Bundesliga,FC Augsburg,summer,in,Giovanni Sio,76293,23,Cote d'Ivoire,Centre-Forward,CF,6000000.0,VfL Wolfsburg,Germany,100000.0,1
+2012,Bundesliga,FC Augsburg,summer,in,Knowledge Musona,120785,22,Zimbabwe,Attacking Midfield,AM,1500000.0,TSG 1899 Hoffenheim,Germany,100000.0,1
+2012,Bundesliga,FC Augsburg,summer,in,Andreas Ottl,14856,27,Germany,Defensive Midfield,DM,1500000.0,Hertha BSC,Germany,0.0,0
+2012,Bundesliga,FC Augsburg,summer,in,Ronny Philp,60026,23,Romania,Right-Back,RB,500000.0,SSV Jahn Regensburg,Germany,0.0,0
+2012,Bundesliga,FC Augsburg,winter,in,André Hahn,42783,22,Germany,Right Winger,RW,300000.0,Kickers Offenbach,Germany,250000.0,0
+2012,Bundesliga,FC Augsburg,winter,in,Dong-won Ji,164265,21,"Korea, South",Centre-Forward,CF,2500000.0,Sunderland AFC,England,50000.0,1
+2012,Bundesliga,FC Augsburg,winter,in,Michael Parkhurst,39897,28,United States,Centre-Back,CB,850000.0,FC Nordsjaelland,Denmark,0.0,0
+2012,Bundesliga,FC Augsburg,winter,in,Alexander Manninger,5278,35,Austria,Goalkeeper,GK,400000.0,Without Club,,,0
+2012,Bundesliga,FC Augsburg,winter,in,Somen Tchoyi,37058,29,Cameroon,Attacking Midfield,AM,1000000.0,Without Club,,,0
+2012,Bundesliga,FC Augsburg,summer,out,Dominic Peitz,6522,27,Germany,Defensive Midfield,DM,500000.0,Karlsruher SC,Germany,150000.0,0
+2012,Bundesliga,FC Augsburg,summer,out,Lorenzo Davids,34377,25,Netherlands,Defensive Midfield,DM,1000000.0,AFC Bournemouth,England,0.0,0
+2012,Bundesliga,FC Augsburg,summer,out,Jonas De Roeck,13051,32,Belgium,Centre-Back,CB,350000.0,Oud-Heverlee Leuven,Belgium,0.0,0
+2012,Bundesliga,FC Augsburg,summer,out,Marcel Ndjeng,2334,30,Cameroon,Right Midfield,RM,900000.0,Hertha BSC,Germany,0.0,0
+2012,Bundesliga,FC Augsburg,summer,out,Patrick Mayer,47942,24,Germany,Centre-Forward,CF,500000.0,1.FC Heidenheim 1846,Germany,0.0,0
+2012,Bundesliga,FC Augsburg,summer,out,Nando Rafael,2712,28,Angola,Centre-Forward,CF,1500000.0,Fortuna Düsseldorf,Germany,0.0,0
+2012,Bundesliga,FC Augsburg,summer,out,Daniel Brinkmann,18654,26,Germany,Central Midfield,CM,500000.0,FC Energie Cottbus,Germany,0.0,0
+2012,Bundesliga,FC Augsburg,summer,out,Edmond Kapllani,18248,30,Albania,Centre-Forward,CF,400000.0,FSV Frankfurt,Germany,0.0,0
+2012,Bundesliga,FC Augsburg,summer,out,Axel Bellinghausen,6457,29,Germany,Left Midfield,LM,2000000.0,Fortuna Düsseldorf,Germany,0.0,0
+2012,Bundesliga,FC Augsburg,summer,out,Andrew Sinkala,684,33,Zambia,Centre-Back,CB,300000.0,Without Club,,,0
+2012,Bundesliga,FC Augsburg,summer,out,Jan Moravek,63022,22,Czech Republic,Central Midfield,CM,1750000.0,FC Schalke 04,Germany,0.0,1
+2012,Bundesliga,FC Augsburg,summer,out,Akaki Gogia,92472,20,Germany,Left Winger,LW,600000.0,VfL Wolfsburg,Germany,0.0,1
+2012,Bundesliga,FC Augsburg,summer,out,Hajime Hosogai,79355,26,Japan,Defensive Midfield,DM,3000000.0,Bayer 04 Leverkusen,Germany,0.0,1
+2012,Bundesliga,FC Augsburg,winter,out,Gibril Sankoh,21590,29,Sierra Leone,Centre-Back,CB,1250000.0,Henan Jianye,China,0.0,0
+2012,Bundesliga,FC Augsburg,winter,out,Dawda Bah,49270,29,The Gambia,Left Winger,LW,300000.0,Without Club,,,0
+2012,Bundesliga,FC Augsburg,winter,out,Giovanni Sio,76293,23,Cote d'Ivoire,Centre-Forward,CF,2500000.0,VfL Wolfsburg,Germany,0.0,1
+2012,Bundesliga,FC Schalke 04,summer,in,Chinedu Obasi,41663,26,Nigeria,Centre-Forward,CF,4500000.0,TSG 1899 Hoffenheim,Germany,4000000.0,0
+2012,Bundesliga,FC Schalke 04,summer,in,Ibrahim Afellay,15760,26,Netherlands,Attacking Midfield,AM,9000000.0,FC Barcelona,Spain,500000.0,1
+2012,Bundesliga,FC Schalke 04,summer,in,Tranquillo Barnetta,6645,27,Switzerland,Attacking Midfield,AM,5500000.0,Bayer 04 Leverkusen,Germany,0.0,0
+2012,Bundesliga,FC Schalke 04,summer,in,Roman Neustädter,40478,24,Russia,Centre-Back,CB,3500000.0,Borussia Mönchengladbach,Germany,0.0,0
+2012,Bundesliga,FC Schalke 04,winter,in,Raffael,19819,27,Brazil,Second Striker,SS,9000000.0,Dynamo Kyiv,Ukraine,1000000.0,1
+2012,Bundesliga,FC Schalke 04,winter,in,Michel Bastos,12142,29,Brazil,Left Midfield,LM,7000000.0,Olympique Lyon,France,1000000.0,1
+2012,Bundesliga,FC Schalke 04,summer,out,José Manuel Jurado,28261,26,Spain,Attacking Midfield,AM,6000000.0,Spartak Moscow,Russia,1500000.0,1
+2012,Bundesliga,FC Schalke 04,summer,out,Carlos Zambrano,53533,22,Peru,Centre-Back,CB,1750000.0,FC St. Pauli,Germany,750000.0,0
+2012,Bundesliga,FC Schalke 04,summer,out,Ciprian Deac,43300,26,Romania,Right Winger,RW,2000000.0,CFR Cluj,Romania,700000.0,0
+2012,Bundesliga,FC Schalke 04,summer,out,Jan Moravek,63022,22,Czech Republic,Central Midfield,CM,1750000.0,FC Augsburg,Germany,700000.0,0
+2012,Bundesliga,FC Schalke 04,summer,out,Tim Hoogland,18833,27,Germany,Right-Back,RB,1500000.0,VfB Stuttgart,Germany,300000.0,1
+2012,Bundesliga,FC Schalke 04,summer,out,Anthony Annan,29122,26,Ghana,Defensive Midfield,DM,2500000.0,CA Osasuna,Spain,300000.0,1
+2012,Bundesliga,FC Schalke 04,summer,out,Edú,9543,30,Brazil,Centre-Forward,CF,1000000.0,SpVgg Greuther Fürth,Germany,300000.0,1
+2012,Bundesliga,FC Schalke 04,summer,out,Peer Kluge,1095,31,Germany,Defensive Midfield,DM,1000000.0,Hertha BSC,Germany,250000.0,0
+2012,Bundesliga,FC Schalke 04,summer,out,Philipp Hofmann,119037,19,Germany,Centre-Forward,CF,200000.0,SC Paderborn 07,Germany,100000.0,1
+2012,Bundesliga,FC Schalke 04,summer,out,Raúl,7349,35,Spain,Second Striker,SS,5000000.0,Al-Sadd SC,Qatar,0.0,0
+2012,Bundesliga,FC Schalke 04,summer,out,Levan Kenia,30732,21,Georgia,Attacking Midfield,AM,300000.0,Karpaty Lviv,Ukraine,0.0,0
+2012,Bundesliga,FC Schalke 04,summer,out,Mario Gavranovic,61380,22,Switzerland,Centre-Forward,CF,800000.0,FC Zürich,Switzerland,0.0,0
+2012,Bundesliga,FC Schalke 04,summer,out,Andreas Wiegel,45698,21,Germany,Right-Back,RB,200000.0,FC Erzgebirge Aue,Germany,0.0,0
+2012,Bundesliga,FC Schalke 04,summer,out,Alexander Baumjohann,16474,25,Germany,Attacking Midfield,AM,1250000.0,1.FC Kaiserslautern,Germany,0.0,0
+2012,Bundesliga,FC Schalke 04,summer,out,Mathias Schober,322,36,Germany,Goalkeeper,GK,200000.0,Retired,,,0
+2012,Bundesliga,FC Schalke 04,summer,out,Hans Sarpei,707,36,Ghana,Left-Back,LB,300000.0,Retired,,,0
+2012,Bundesliga,FC Schalke 04,summer,out,Chinedu Obasi,41663,26,Nigeria,Centre-Forward,CF,4500000.0,TSG 1899 Hoffenheim,Germany,0.0,1
+2012,Bundesliga,FC Schalke 04,winter,out,Lewis Holtby,55508,22,Germany,Central Midfield,CM,11000000.0,Tottenham Hotspur,England,1750000.0,0
+2012,Bundesliga,FC Schalke 04,winter,out,Sergio Escudero,93935,23,Spain,Left-Back,LB,1000000.0,Getafe CF,Spain,200000.0,1
+2012,Bundesliga,FC Schalke 04,winter,out,Edú,9543,31,Brazil,Centre-Forward,CF,800000.0,Liaoning FC,China,0.0,0
+2012,Bundesliga,Fortuna Düsseldorf,summer,in,Andriy Voronin,1075,33,Ukraine,Second Striker,SS,4200000.0,Dinamo Moscow,Russia,500000.0,1
+2012,Bundesliga,Fortuna Düsseldorf,summer,in,Stelios Malezas,34285,27,Greece,Centre-Back,CB,2750000.0,PAOK Thessaloniki,Greece,450000.0,0
+2012,Bundesliga,Fortuna Düsseldorf,summer,in,Fabian Giefer,53408,22,Germany,Goalkeeper,GK,500000.0,Bayer 04 Leverkusen,Germany,400000.0,0
+2012,Bundesliga,Fortuna Düsseldorf,summer,in,Gerrit Wegkamp,136308,19,Germany,Centre-Forward,CF,250000.0,VfL Osnabrück,Germany,250000.0,0
+2012,Bundesliga,Fortuna Düsseldorf,summer,in,Tobias Levels,31216,25,Germany,Right-Back,RB,1000000.0,Borussia Mönchengladbach,Germany,200000.0,0
+2012,Bundesliga,Fortuna Düsseldorf,summer,in,Stefan Reisinger,1568,30,Germany,Centre-Forward,CF,1000000.0,SC Freiburg,Germany,200000.0,0
+2012,Bundesliga,Fortuna Düsseldorf,summer,in,Nikolaos Papadopoulos,169687,22,Greece,Goalkeeper,GK,250000.0,Olympiacos Piraeus,Greece,50000.0,0
+2012,Bundesliga,Fortuna Düsseldorf,summer,in,Dani Schahin,58437,22,Germany,Centre-Forward,CF,400000.0,SpVgg Greuther Fürth,Germany,0.0,0
+2012,Bundesliga,Fortuna Düsseldorf,summer,in,Bastian Müller,103577,20,Germany,Defensive Midfield,DM,150000.0,FC Bayern Munich II,Germany,0.0,0
+2012,Bundesliga,Fortuna Düsseldorf,summer,in,André Fomitschow,56510,21,Germany,Left-Back,LB,125000.0,VfL Wolfsburg II,Germany,0.0,0
+2012,Bundesliga,Fortuna Düsseldorf,summer,in,Du-ri Cha,1772,31,"Korea, South",Right-Back,RB,500000.0,Celtic FC,Scotland,0.0,0
+2012,Bundesliga,Fortuna Düsseldorf,summer,in,Nando Rafael,2712,28,Angola,Centre-Forward,CF,1500000.0,FC Augsburg,Germany,0.0,0
+2012,Bundesliga,Fortuna Düsseldorf,summer,in,Ronny Garbuschewski,24232,26,Germany,Attacking Midfield,AM,750000.0,Chemnitzer FC,Germany,0.0,0
+2012,Bundesliga,Fortuna Düsseldorf,summer,in,Leon Balogun,56100,24,Nigeria,Centre-Back,CB,150000.0,SV Werder Bremen II,Germany,0.0,0
+2012,Bundesliga,Fortuna Düsseldorf,summer,in,Axel Bellinghausen,6457,29,Germany,Left Midfield,LM,2000000.0,FC Augsburg,Germany,0.0,0
+2012,Bundesliga,Fortuna Düsseldorf,summer,in,Bruno Soares,104545,23,Brazil,Centre-Back,CB,1000000.0,MSV Duisburg,Germany,0.0,0
+2012,Bundesliga,Fortuna Düsseldorf,summer,in,Ivan Paurevic,31868,21,Croatia,Defensive Midfield,DM,100000.0,Borussia Dortmund II,Germany,0.0,0
+2012,Bundesliga,Fortuna Düsseldorf,winter,in,Mathis Bolly,85611,22,Cote d'Ivoire,Centre-Forward,CF,300000.0,Lillestrøm SK,Norway,500000.0,0
+2012,Bundesliga,Fortuna Düsseldorf,winter,in,Cristian Ramírez,189485,18,Ecuador,Left-Back,LB,,Independiente del Valle,Ecuador,500000.0,0
+2012,Bundesliga,Fortuna Düsseldorf,winter,in,Martin Latka,21060,28,Czech Republic,Centre-Back,CB,850000.0,SK Slavia Prague,Czech Republic,0.0,0
+2012,Bundesliga,Fortuna Düsseldorf,winter,in,Robert Tesche,41458,25,Germany,Central Midfield,CM,800000.0,Hamburger SV,Germany,0.0,1
+2012,Bundesliga,Fortuna Düsseldorf,winter,in,Genki Omae,79643,23,Japan,Second Striker,SS,1100000.0,Shimizu S-Pulse,Japan,,0
+2012,Bundesliga,Fortuna Düsseldorf,summer,out,Ranisav Jovanovic,2125,31,Germany,Centre-Forward,CF,300000.0,MSV Duisburg,Germany,0.0,0
+2012,Bundesliga,Fortuna Düsseldorf,summer,out,Kai Schwertfeger,52728,23,Germany,Defensive Midfield,DM,200000.0,Alemannia Aachen,Germany,0.0,0
+2012,Bundesliga,Fortuna Düsseldorf,summer,out,Adriano Grimaldi,69392,21,Germany,Centre-Forward,CF,250000.0,VfL Osnabrück,Germany,0.0,0
+2012,Bundesliga,Fortuna Düsseldorf,summer,out,Thomas Bröker,13686,27,Germany,Centre-Forward,CF,1000000.0,1.FC Köln,Germany,0.0,0
+2012,Bundesliga,Fortuna Düsseldorf,summer,out,Assani Lukimya,32618,26,DR Congo,Centre-Back,CB,2000000.0,SV Werder Bremen,Germany,0.0,0
+2012,Bundesliga,Fortuna Düsseldorf,summer,out,Markus Krauss,41021,24,Germany,Goalkeeper,GK,100000.0,Stuttgarter Kickers,Germany,0.0,0
+2012,Bundesliga,Fortuna Düsseldorf,summer,out,Sascha Rösler,505,34,Germany,Second Striker,SS,300000.0,Alemannia Aachen,Germany,0.0,0
+2012,Bundesliga,Fortuna Düsseldorf,summer,out,Christian Weber,992,28,Germany,Right-Back,RB,600000.0,Without Club,,,0
+2012,Bundesliga,Fortuna Düsseldorf,summer,out,Sascha Dum,20551,25,Germany,Left Midfield,LM,600000.0,Without Club,,,0
+2012,Bundesliga,Fortuna Düsseldorf,summer,out,Michael Ratajczak,1257,30,Germany,Goalkeeper,GK,450000.0,Without Club,,,0
+2012,Bundesliga,Fortuna Düsseldorf,summer,out,Adam Matuszczyk,52830,23,Poland,Defensive Midfield,DM,2000000.0,1.FC Köln,Germany,0.0,1
+2012,Bundesliga,Fortuna Düsseldorf,summer,out,Villyan Bijev,198220,19,Bulgaria,Centre-Forward,CF,100000.0,Liverpool FC U21,England,0.0,1
+2012,Bundesliga,Fortuna Düsseldorf,summer,out,Tobias Levels,31216,25,Germany,Right-Back,RB,1000000.0,Borussia Mönchengladbach,Germany,0.0,1
+2012,Bundesliga,Fortuna Düsseldorf,summer,out,Maximilian Beister,58379,21,Germany,Right Winger,RW,3000000.0,Hamburger SV,Germany,0.0,1
+2012,Bundesliga,Fortuna Düsseldorf,winter,out,Jeron Al-Hazaimeh,123395,20,Germany,Left-Back,LB,100000.0,Chemnitzer FC,Germany,0.0,0
+2012,Bundesliga,Fortuna Düsseldorf,winter,out,Timo Furuholm,49278,25,Finland,Centre-Forward,CF,350000.0,Hallescher FC,Germany,0.0,1
+2012,Bundesliga,Fortuna Düsseldorf,winter,out,André Fomitschow,56510,22,Germany,Left-Back,LB,250000.0,FC Energie Cottbus,Germany,0.0,1
+2012,Bundesliga,Fortuna Düsseldorf,winter,out,Du-ri Cha,1772,32,"Korea, South",Right-Back,RB,500000.0,Without Club,,,0
+2012,Bundesliga,Fortuna Düsseldorf,winter,out,Mazin Ahmed Al-Huthayfi,231001,27,Saudi Arabia,Left Winger,LW,100000.0,Al-Ittihad Club,Saudi Arabia,0.0,1
+2012,Bundesliga,Hamburger SV,summer,in,Rafael van der Vaart,4192,29,Netherlands,Attacking Midfield,AM,24500000.0,Tottenham Hotspur,England,13000000.0,0
+2012,Bundesliga,Hamburger SV,summer,in,Petr Jiracek,63737,26,Czech Republic,Central Midfield,CM,6000000.0,VfL Wolfsburg,Germany,4000000.0,0
+2012,Bundesliga,Hamburger SV,summer,in,Milan Badelj,40633,23,Croatia,Defensive Midfield,DM,4500000.0,GNK Dinamo Zagreb,Croatia,4000000.0,0
+2012,Bundesliga,Hamburger SV,summer,in,Artjoms Rudnevs,103547,24,Latvia,Centre-Forward,CF,5500000.0,Lech Poznan,Poland,3500000.0,0
+2012,Bundesliga,Hamburger SV,summer,in,Hakan Çalhanoğlu,126414,18,Türkiye,Defensive Midfield,DM,1000000.0,Karlsruher SC,Germany,2500000.0,0
+2012,Bundesliga,Hamburger SV,summer,in,René Adler,1784,27,Germany,Goalkeeper,GK,6000000.0,Bayer 04 Leverkusen,Germany,0.0,0
+2012,Bundesliga,Hamburger SV,summer,in,Paul Scharner,2953,32,Austria,Defensive Midfield,DM,2000000.0,West Bromwich Albion,England,0.0,0
+2012,Bundesliga,Hamburger SV,summer,out,Gökhan Töre,82130,20,Türkiye,Right Winger,RW,6000000.0,Rubin Kazan,Russia,6000000.0,0
+2012,Bundesliga,Hamburger SV,summer,out,Paolo Guerrero,2989,28,Peru,Centre-Forward,CF,6000000.0,Sport Club Corinthians Paulista,Brazil,3500000.0,0
+2012,Bundesliga,Hamburger SV,summer,out,Mladen Petric,2874,31,Croatia,Centre-Forward,CF,5000000.0,Fulham FC,England,0.0,0
+2012,Bundesliga,Hamburger SV,summer,out,Muhamed Besic,93905,19,Bosnia-Herzegovina,Defensive Midfield,DM,500000.0,Ferencvárosi TC,Hungary,0.0,0
+2012,Bundesliga,Hamburger SV,summer,out,Macauley Chrisantus,62552,21,Nigeria,Centre-Forward,CF,1250000.0,UD Las Palmas,Spain,0.0,0
+2012,Bundesliga,Hamburger SV,summer,out,Dániel Nagy,69377,21,Hungary,Attacking Midfield,AM,150000.0,VfL Osnabrück,Germany,0.0,0
+2012,Bundesliga,Hamburger SV,summer,out,Miroslav Stepanek,45144,22,Czech Republic,Centre-Back,CB,200000.0,FK Senica (- 2022),Slovakia,0.0,0
+2012,Bundesliga,Hamburger SV,summer,out,Sören Bertram,76143,21,Germany,Right Winger,RW,400000.0,VfL Bochum,Germany,0.0,0
+2012,Bundesliga,Hamburger SV,summer,out,David Jarolím,773,33,Czech Republic,Central Midfield,CM,900000.0,FC Évian Thonon Gaillard,France,0.0,0
+2012,Bundesliga,Hamburger SV,summer,out,Hakan Çalhanoğlu,126414,18,Türkiye,Defensive Midfield,DM,1000000.0,Karlsruher SC,Germany,0.0,1
+2012,Bundesliga,Hamburger SV,summer,out,Romeo Castelen,6764,29,Netherlands,Right Winger,RW,400000.0,Without Club,,,0
+2012,Bundesliga,Hamburger SV,summer,out,Mickaël Tavares,45139,29,Senegal,Defensive Midfield,DM,200000.0,Without Club,,,0
+2012,Bundesliga,Hamburger SV,winter,out,Paul Scharner,2953,32,Austria,Defensive Midfield,DM,1500000.0,Wigan Athletic,England,100000.0,1
+2012,Bundesliga,Hamburger SV,winter,out,Tom Mickel,44607,23,Germany,Goalkeeper,GK,300000.0,SpVgg Greuther Fürth,Germany,0.0,0
+2012,Bundesliga,Hamburger SV,winter,out,Robert Tesche,41458,25,Germany,Central Midfield,CM,800000.0,Fortuna Düsseldorf,Germany,0.0,1
+2012,Bundesliga,Hannover 96,summer,in,Felipe Trevizan,68815,25,Brazil,Centre-Back,CB,3000000.0,Standard Liège,Belgium,2500000.0,0
+2012,Bundesliga,Hannover 96,summer,in,Hiroki Sakai,83002,22,Japan,Right-Back,RB,2000000.0,Kashiwa Reysol,Japan,1200000.0,0
+2012,Bundesliga,Hannover 96,summer,in,Szabolcs Huszti,18331,29,Hungary,Left Midfield,LM,2000000.0,Zenit St. Petersburg,Russia,750000.0,0
+2012,Bundesliga,Hannover 96,summer,in,Adrian Nikci,63384,22,Switzerland,Left Winger,LW,750000.0,FC Zürich,Switzerland,600000.0,0
+2012,Bundesliga,Hannover 96,winter,in,Sébastien Pocognoli,17804,25,Belgium,Left-Back,LB,3200000.0,Standard Liège,Belgium,2000000.0,0
+2012,Bundesliga,Hannover 96,winter,in,França,225408,21,Brazil,Defensive Midfield,DM,,Mirassol Futebol Clube (SP),Brazil,1300000.0,0
+2012,Bundesliga,Hannover 96,winter,in,Andre Hoffmann,85164,19,Germany,Centre-Back,CB,800000.0,MSV Duisburg,Germany,800000.0,0
+2012,Bundesliga,Hannover 96,winter,in,Johan Djourou,34561,25,Switzerland,Centre-Back,CB,6000000.0,Arsenal FC,England,400000.0,1
+2012,Bundesliga,Hannover 96,summer,out,Emanuel Pogatetz,1094,29,Austria,Centre-Back,CB,3500000.0,VfL Wolfsburg,Germany,2500000.0,0
+2012,Bundesliga,Hannover 96,summer,out,Moritz Stoppelkamp,32845,25,Germany,Attacking Midfield,AM,1000000.0,TSV 1860 Munich,Germany,250000.0,0
+2012,Bundesliga,Hannover 96,summer,out,Daniel Royer,74762,22,Austria,Left Winger,LW,800000.0,1.FC Köln,Germany,120000.0,1
+2012,Bundesliga,Hannover 96,summer,out,Christopher Avevor,94174,20,Germany,Centre-Back,CB,300000.0,FC St. Pauli,Germany,100000.0,1
+2012,Bundesliga,Hannover 96,summer,out,Altin Lala,902,36,Albania,Defensive Midfield,DM,200000.0,FC Bayern Munich II,Germany,0.0,0
+2012,Bundesliga,Hannover 96,summer,out,Carlitos,17352,29,Portugal,Left Winger,LW,300000.0,GD Estoril Praia,Portugal,0.0,0
+2012,Bundesliga,Hannover 96,summer,out,Erdal Akdarı,121271,19,Türkiye,Centre-Back,CB,100000.0,Kayserispor,Türkiye,0.0,0
+2012,Bundesliga,Hannover 96,summer,out,Henning Hauger,41344,27,Norway,Defensive Midfield,DM,1000000.0,Lillestrøm SK,Norway,0.0,1
+2012,Bundesliga,Hannover 96,winter,out,Henning Hauger,41344,27,Norway,Defensive Midfield,DM,800000.0,IF Elfsborg,Sweden,200000.0,0
+2012,Bundesliga,SC Freiburg,summer,in,Max Kruse,36182,24,Germany,Second Striker,SS,2500000.0,FC St. Pauli,Germany,500000.0,0
+2012,Bundesliga,SC Freiburg,summer,in,Vegar Hedenstad,73333,21,Norway,Right-Back,RB,1250000.0,Stabæk Fotball,Norway,500000.0,0
+2012,Bundesliga,SC Freiburg,summer,in,Marco Terrazzino,67869,21,Germany,Second Striker,SS,600000.0,Karlsruher SC,Germany,0.0,0
+2012,Bundesliga,SC Freiburg,summer,in,Ezequiel Calvente,153739,21,Spain,Right Winger,RW,1000000.0,Real Betis Balompié,Spain,0.0,1
+2012,Bundesliga,SC Freiburg,winter,in,Hendrick Zuck,82018,22,Germany,Left-Back,LB,900000.0,1.FC Kaiserslautern,Germany,500000.0,0
+2012,Bundesliga,SC Freiburg,summer,out,Stefan Reisinger,1568,30,Germany,Centre-Forward,CF,1000000.0,Fortuna Düsseldorf,Germany,200000.0,0
+2012,Bundesliga,SC Freiburg,summer,out,Oliver Barth,1811,32,Germany,Centre-Back,CB,600000.0,VfR Aalen,Germany,0.0,0
+2012,Bundesliga,SC Freiburg,summer,out,Simon Brandstetter,57977,22,Germany,Centre-Forward,CF,200000.0,Karlsruher SC,Germany,0.0,1
+2012,Bundesliga,SC Freiburg,summer,out,Erich Sautner,83191,20,Germany,Attacking Midfield,AM,100000.0,Hallescher FC,Germany,0.0,1
+2012,Bundesliga,SC Freiburg,summer,out,Andreas Hinkel,599,30,Germany,Right-Back,RB,800000.0,Retired,,,0
+2012,Bundesliga,SC Freiburg,summer,out,Michael Lumb,48867,24,Denmark,Left-Back,LB,600000.0,Zenit St. Petersburg,Russia,0.0,1
+2012,Bundesliga,SC Freiburg,winter,out,Anton Putilo,59491,25,Belarus,Attacking Midfield,AM,1000000.0,Volga Nizhniy Novgorod,Russia,0.0,0
+2012,Bundesliga,SC Freiburg,winter,out,Garra Dembélé,61375,26,Mali,Centre-Forward,CF,750000.0,Wuhan Zall,China,0.0,1
+2012,Bundesliga,SC Freiburg,winter,out,Beg Ferati,53808,26,Switzerland,Centre-Back,CB,500000.0,FC Winterthur,Switzerland,0.0,1
+2012,Bundesliga,SV Werder Bremen,summer,in,Eljero Elia,27805,25,Netherlands,Left Winger,LW,5000000.0,Juventus FC,Italy,5500000.0,0
+2012,Bundesliga,SV Werder Bremen,summer,in,Sokratis Papastathopoulos,34322,24,Greece,Centre-Back,CB,10000000.0,Genoa CFC,Italy,3500000.0,0
+2012,Bundesliga,SV Werder Bremen,summer,in,Theodor Gebre Selassie,60632,25,Czech Republic,Right-Back,RB,1500000.0,FC Slovan Liberec,Czech Republic,1800000.0,0
+2012,Bundesliga,SV Werder Bremen,summer,in,Joseph Akpala,38000,25,Nigeria,Centre-Forward,CF,4000000.0,Club Brugge KV,Belgium,1500000.0,0
+2012,Bundesliga,SV Werder Bremen,summer,in,Nils Petersen,42936,23,Germany,Centre-Forward,CF,3000000.0,Bayern Munich,Germany,500000.0,1
+2012,Bundesliga,SV Werder Bremen,summer,in,Kevin De Bruyne,88755,21,Belgium,Attacking Midfield,AM,9000000.0,Chelsea FC,England,450000.0,1
+2012,Bundesliga,SV Werder Bremen,summer,in,Raphael Wolf,39306,24,Germany,Goalkeeper,GK,1000000.0,SV Kapfenberg,Austria,200000.0,0
+2012,Bundesliga,SV Werder Bremen,summer,in,Assani Lukimya,32618,26,DR Congo,Centre-Back,CB,2000000.0,Fortuna Düsseldorf,Germany,0.0,0
+2012,Bundesliga,SV Werder Bremen,summer,in,Richard Strebinger,93768,19,Austria,Goalkeeper,GK,150000.0,Hertha BSC II,Germany,0.0,0
+2012,Bundesliga,SV Werder Bremen,winter,in,Mateo Pavlovic,69436,22,Croatia,Centre-Back,CB,650000.0,NK Zagreb,Croatia,1280000.0,0
+2012,Bundesliga,SV Werder Bremen,summer,out,Marko Marin,35251,23,Germany,Attacking Midfield,AM,13000000.0,Chelsea FC,England,8000000.0,0
+2012,Bundesliga,SV Werder Bremen,summer,out,Naldo,32213,29,Brazil,Centre-Back,CB,6500000.0,VfL Wolfsburg,Germany,4800000.0,0
+2012,Bundesliga,SV Werder Bremen,summer,out,Sandro Wagner,39743,24,Germany,Centre-Forward,CF,800000.0,Hertha BSC,Germany,250000.0,0
+2012,Bundesliga,SV Werder Bremen,summer,out,Tim Wiese,1474,30,Germany,Goalkeeper,GK,5500000.0,TSG 1899 Hoffenheim,Germany,0.0,0
+2012,Bundesliga,SV Werder Bremen,summer,out,Lennart Thy,23553,20,Germany,Centre-Forward,CF,600000.0,FC St. Pauli,Germany,0.0,0
+2012,Bundesliga,SV Werder Bremen,summer,out,Claudio Pizarro,532,33,Peru,Centre-Forward,CF,5000000.0,Bayern Munich,Germany,0.0,0
+2012,Bundesliga,SV Werder Bremen,summer,out,Markus Rosenberg,27505,29,Sweden,Centre-Forward,CF,3000000.0,West Bromwich Albion,England,0.0,0
+2012,Bundesliga,SV Werder Bremen,summer,out,Denni Avdic,41511,23,Sweden,Centre-Forward,CF,800000.0,PEC Zwolle,Netherlands,0.0,1
+2012,Bundesliga,SV Werder Bremen,summer,out,Sebastian Boenisch,36914,25,Poland,Left-Back,LB,1250000.0,Without Club,,,0
+2012,Bundesliga,SV Werder Bremen,summer,out,Onur Ayık,52006,22,Türkiye,Right Winger,RW,200000.0,Without Club,,,0
+2012,Bundesliga,SV Werder Bremen,summer,out,Mikaël Silvestre,3393,34,France,Left-Back,LB,1000000.0,Without Club,,,0
+2012,Bundesliga,SV Werder Bremen,summer,out,Tim Borowski,692,32,Germany,Central Midfield,CM,1000000.0,Retired,,,0
+2012,Bundesliga,SV Werder Bremen,summer,out,Sokratis Papastathopoulos,34322,24,Greece,Centre-Back,CB,10000000.0,Genoa CFC,Italy,0.0,1
+2012,Bundesliga,SV Werder Bremen,winter,out,Florian Trinks,64248,20,Germany,Attacking Midfield,AM,500000.0,SpVgg Greuther Fürth,Germany,50000.0,0
+2012,Bundesliga,SV Werder Bremen,winter,out,François Affolter,87268,21,Switzerland,Centre-Back,CB,1250000.0,BSC Young Boys,Switzerland,0.0,1
+2012,Bundesliga,SpVgg Greuther Fürth,summer,in,Zoltán Stieber,61591,23,Hungary,Attacking Midfield,AM,1250000.0,1.FSV Mainz 05,Germany,900000.0,0
+2012,Bundesliga,SpVgg Greuther Fürth,summer,in,Djiby Fall,43012,27,Senegal,Centre-Forward,CF,1500000.0,KSC Lokeren (-2020),Belgium,800000.0,0
+2012,Bundesliga,SpVgg Greuther Fürth,summer,in,Tobias Mikkelsen,44567,25,Denmark,Right Winger,RW,1250000.0,FC Nordsjaelland,Denmark,500000.0,0
+2012,Bundesliga,SpVgg Greuther Fürth,summer,in,Edú,9543,30,Brazil,Centre-Forward,CF,1000000.0,FC Schalke 04,Germany,300000.0,1
+2012,Bundesliga,SpVgg Greuther Fürth,summer,in,Lasse Sobiech,79503,21,Germany,Centre-Back,CB,1000000.0,Borussia Dortmund,Germany,100000.0,1
+2012,Bundesliga,SpVgg Greuther Fürth,summer,in,Thanos Petsos,82110,21,Greece,Defensive Midfield,DM,1250000.0,Bayer 04 Leverkusen,Germany,50000.0,0
+2012,Bundesliga,SpVgg Greuther Fürth,summer,in,Franck Ohandza,184921,20,Cameroon,Centre-Forward,CF,150000.0,Buriram United,Thailand,50000.0,1
+2012,Bundesliga,SpVgg Greuther Fürth,summer,in,Issa Ndoye,116461,26,Senegal,Goalkeeper,GK,400000.0,Volyn Lutsk,Ukraine,0.0,0
+2012,Bundesliga,SpVgg Greuther Fürth,summer,in,Abdul Rahman Baba,224884,17,Ghana,Left-Back,LB,150000.0,Dreams FC,Ghana,0.0,0
+2012,Bundesliga,SpVgg Greuther Fürth,summer,in,Michael Hefele,102382,21,Germany,Centre-Back,CB,100000.0,SpVgg Unterhaching,Germany,0.0,0
+2012,Bundesliga,SpVgg Greuther Fürth,summer,in,Wolfgang Hesl,16843,26,Germany,Goalkeeper,GK,800000.0,SG Dynamo Dresden,Germany,0.0,0
+2012,Bundesliga,SpVgg Greuther Fürth,summer,in,Thomas Pledl,131561,18,Germany,Attacking Midfield,AM,200000.0,TSV 1860 München U19,Germany,0.0,0
+2012,Bundesliga,SpVgg Greuther Fürth,winter,in,Nikola Djurdjic,46162,26,Serbia,Centre-Forward,CF,1750000.0,FK Haugesund,Norway,1000000.0,0
+2012,Bundesliga,SpVgg Greuther Fürth,winter,in,Matthias Zimmermann,86848,20,Germany,Right-Back,RB,500000.0,Borussia Mönchengladbach,Germany,100000.0,1
+2012,Bundesliga,SpVgg Greuther Fürth,winter,in,Florian Trinks,64248,20,Germany,Attacking Midfield,AM,500000.0,SV Werder Bremen,Germany,50000.0,0
+2012,Bundesliga,SpVgg Greuther Fürth,winter,in,Stefan Lex,116792,23,Germany,Right Winger,RW,100000.0,TSV Buchbach,Germany,0.0,0
+2012,Bundesliga,SpVgg Greuther Fürth,winter,in,Tom Mickel,44607,23,Germany,Goalkeeper,GK,300000.0,Hamburger SV,Germany,0.0,0
+2012,Bundesliga,SpVgg Greuther Fürth,winter,in,Jung-bin Park,217684,18,"Korea, South",Left Winger,LW,75000.0,VfL Wolfsburg II,Germany,0.0,1
+2012,Bundesliga,SpVgg Greuther Fürth,winter,in,József Varga,74602,24,Hungary,Defensive Midfield,DM,1000000.0,Debreceni VSC,Hungary,0.0,1
+2012,Bundesliga,SpVgg Greuther Fürth,summer,out,Olivier Occéan,24155,30,Canada,Centre-Forward,CF,1500000.0,Eintracht Frankfurt,Germany,1300000.0,0
+2012,Bundesliga,SpVgg Greuther Fürth,summer,out,Kingsley Onuegbu,45986,26,Nigeria,Centre-Forward,CF,600000.0,SV Sandhausen,Germany,40000.0,1
+2012,Bundesliga,SpVgg Greuther Fürth,summer,out,Stephan Schröck,27611,25,Philippines,Left Midfield,LM,2000000.0,TSG 1899 Hoffenheim,Germany,0.0,0
+2012,Bundesliga,SpVgg Greuther Fürth,summer,out,Asen Karaslavov,42770,32,Bulgaria,Centre-Back,CB,350000.0,Botev Plovdiv,Bulgaria,0.0,0
+2012,Bundesliga,SpVgg Greuther Fürth,summer,out,Jasmin Fejzic,19471,26,Bosnia-Herzegovina,Goalkeeper,GK,150000.0,VfR Aalen,Germany,0.0,0
+2012,Bundesliga,SpVgg Greuther Fürth,summer,out,Franco Flückiger,59818,21,Germany,Goalkeeper,GK,50000.0,Hallescher FC,Germany,0.0,0
+2012,Bundesliga,SpVgg Greuther Fürth,summer,out,Christian Rahn,746,33,Germany,Left-Back,LB,150000.0,SSV Jahn Regensburg,Germany,0.0,0
+2012,Bundesliga,SpVgg Greuther Fürth,summer,out,Christian Dorda,36189,23,Germany,Left-Back,LB,150000.0,Heracles Almelo,Netherlands,0.0,0
+2012,Bundesliga,SpVgg Greuther Fürth,summer,out,Dani Schahin,58437,22,Germany,Centre-Forward,CF,400000.0,Fortuna Düsseldorf,Germany,0.0,0
+2012,Bundesliga,SpVgg Greuther Fürth,summer,out,Fabian Baumgärtel,59994,22,Germany,Left-Back,LB,150000.0,Alemannia Aachen,Germany,0.0,1
+2012,Bundesliga,SpVgg Greuther Fürth,summer,out,Leon Vollmuth,369686,16,Germany,Striker,Striker,,1.FC Schweinfurt 05 U17,Germany,,0
+2012,Bundesliga,SpVgg Greuther Fürth,winter,out,Tayfun Pektürk,39027,24,Germany,Right Winger,RW,400000.0,Istanbul Büyüksehir Belediyespor,Türkiye,500000.0,0
+2012,Bundesliga,SpVgg Greuther Fürth,winter,out,Tobias Mikkelsen,44567,26,Denmark,Right Winger,RW,1000000.0,Rosenborg BK,Norway,500000.0,0
+2012,Bundesliga,SpVgg Greuther Fürth,winter,out,Kevin Kraus,58996,20,Germany,Centre-Back,CB,150000.0,1.FC Heidenheim 1846,Germany,0.0,1
+2012,Bundesliga,SpVgg Greuther Fürth,winter,out,Fabian Baumgärtel,59994,23,Germany,Left-Back,LB,200000.0,Stuttgarter Kickers,Germany,0.0,1
+2012,Bundesliga,SpVgg Greuther Fürth,winter,out,Edú,9543,31,Brazil,Centre-Forward,CF,1000000.0,FC Schalke 04,Germany,0.0,1
+2012,Bundesliga,TSG 1899 Hoffenheim,summer,in,Joselu,81999,22,Spain,Centre-Forward,CF,,Real Madrid Castilla,Spain,6000000.0,0
+2012,Bundesliga,TSG 1899 Hoffenheim,summer,in,Eren Derdiyok,47543,24,Switzerland,Centre-Forward,CF,7500000.0,Bayer 04 Leverkusen,Germany,5500000.0,0
+2012,Bundesliga,TSG 1899 Hoffenheim,summer,in,Filip Malbasic,162652,19,Serbia,Right Winger,RW,500000.0,FK Rad,Serbia,1200000.0,0
+2012,Bundesliga,TSG 1899 Hoffenheim,summer,in,Takashi Usami,111881,20,Japan,Second Striker,SS,1500000.0,Gamba Osaka,Japan,300000.0,1
+2012,Bundesliga,TSG 1899 Hoffenheim,summer,in,Patrick Ochs,2358,28,Germany,Right-Back,RB,2500000.0,VfL Wolfsburg,Germany,100000.0,1
+2012,Bundesliga,TSG 1899 Hoffenheim,summer,in,Chris,3233,33,Brazil,Centre-Back,CB,500000.0,VfL Wolfsburg,Germany,0.0,0
+2012,Bundesliga,TSG 1899 Hoffenheim,summer,in,Matthieu Delpierre,5636,31,France,Centre-Back,CB,1750000.0,VfB Stuttgart,Germany,0.0,0
+2012,Bundesliga,TSG 1899 Hoffenheim,summer,in,Tim Wiese,1474,30,Germany,Goalkeeper,GK,5500000.0,SV Werder Bremen,Germany,0.0,0
+2012,Bundesliga,TSG 1899 Hoffenheim,summer,in,Stephan Schröck,27611,25,Philippines,Left Midfield,LM,2000000.0,SpVgg Greuther Fürth,Germany,0.0,0
+2012,Bundesliga,TSG 1899 Hoffenheim,winter,in,David Abraham,58178,26,Argentina,Centre-Back,CB,3000000.0,Getafe CF,Spain,4000000.0,0
+2012,Bundesliga,TSG 1899 Hoffenheim,winter,in,Eugen Polanski,19548,26,Poland,Defensive Midfield,DM,3500000.0,1.FSV Mainz 05,Germany,3000000.0,0
+2012,Bundesliga,TSG 1899 Hoffenheim,winter,in,Afriyie Acquah,145581,21,Ghana,Central Midfield,CM,2000000.0,US Palermo,Italy,2500000.0,0
+2012,Bundesliga,TSG 1899 Hoffenheim,winter,in,Guilherme Biteco,212902,18,Brazil,Attacking Midfield,AM,150000.0,Grêmio Foot-Ball Porto Alegrense,Brazil,1500000.0,0
+2012,Bundesliga,TSG 1899 Hoffenheim,winter,in,Luis Advíncula,103890,22,Peru,Right-Back,RB,250000.0,SC Tavriya Simferopol (-2022),Ukraine,900000.0,0
+2012,Bundesliga,TSG 1899 Hoffenheim,winter,in,Igor de Camargo,13023,29,Belgium,Centre-Forward,CF,2500000.0,Borussia Mönchengladbach,Germany,600000.0,1
+2012,Bundesliga,TSG 1899 Hoffenheim,winter,in,Heurelho Gomes,19059,31,Brazil,Goalkeeper,GK,1000000.0,Tottenham Hotspur,England,400000.0,1
+2012,Bundesliga,TSG 1899 Hoffenheim,winter,in,Junior Ponce,214654,18,Peru,Right Winger,RW,,Club Alianza Lima,Peru,300000.0,0
+2012,Bundesliga,TSG 1899 Hoffenheim,summer,out,Gylfi Sigurdsson,90466,22,Iceland,Attacking Midfield,AM,8500000.0,Tottenham Hotspur,England,10000000.0,0
+2012,Bundesliga,TSG 1899 Hoffenheim,summer,out,Chinedu Obasi,41663,26,Nigeria,Centre-Forward,CF,4500000.0,FC Schalke 04,Germany,4000000.0,0
+2012,Bundesliga,TSG 1899 Hoffenheim,summer,out,Peniel Mlapa,70280,21,Togo,Centre-Forward,CF,3000000.0,Borussia Mönchengladbach,Germany,2500000.0,0
+2012,Bundesliga,TSG 1899 Hoffenheim,summer,out,Isaac Vorsah,52151,24,Ghana,Centre-Back,CB,5000000.0,Red Bull Salzburg,Austria,2000000.0,0
+2012,Bundesliga,TSG 1899 Hoffenheim,summer,out,Jukka Raitala,47785,23,Finland,Centre-Back,CB,1200000.0,SC Heerenveen,Netherlands,800000.0,0
+2012,Bundesliga,TSG 1899 Hoffenheim,summer,out,Dominik Kaiser,52200,23,Germany,Central Midfield,CM,400000.0,RB Leipzig,Germany,600000.0,0
+2012,Bundesliga,TSG 1899 Hoffenheim,summer,out,Knowledge Musona,120785,22,Zimbabwe,Attacking Midfield,AM,1500000.0,FC Augsburg,Germany,100000.0,1
+2012,Bundesliga,TSG 1899 Hoffenheim,summer,out,Joe Gyau,160670,19,United States,Left Winger,LW,200000.0,FC St. Pauli,Germany,50000.0,1
+2012,Bundesliga,TSG 1899 Hoffenheim,summer,out,Manuel Gulde,45683,21,Germany,Centre-Back,CB,200000.0,SC Paderborn 07,Germany,0.0,0
+2012,Bundesliga,TSG 1899 Hoffenheim,summer,out,Franco Zuculini,73083,21,Argentina,Central Midfield,CM,3000000.0,Real Zaragoza,Spain,0.0,0
+2012,Bundesliga,TSG 1899 Hoffenheim,summer,out,Tom Starke,80,31,Germany,Goalkeeper,GK,1500000.0,Bayern Munich,Germany,0.0,0
+2012,Bundesliga,TSG 1899 Hoffenheim,summer,out,Daniel Haas,1464,28,Germany,Goalkeeper,GK,500000.0,1.FC Union Berlin,Germany,0.0,0
+2012,Bundesliga,TSG 1899 Hoffenheim,summer,out,Ryan Babel,16135,25,Netherlands,Left Winger,LW,4500000.0,Ajax Amsterdam,Netherlands,0.0,0
+2012,Bundesliga,TSG 1899 Hoffenheim,summer,out,Edson Braafheid,16731,29,Netherlands,Left-Back,LB,2000000.0,Twente Enschede FC,Netherlands,0.0,1
+2012,Bundesliga,TSG 1899 Hoffenheim,summer,out,Andreas Ibertsberger,2970,29,Austria,Left-Back,LB,600000.0,Without Club,,,0
+2012,Bundesliga,TSG 1899 Hoffenheim,summer,out,Wellington,67207,24,Brazil,Centre-Forward,CF,,Without Club,,,0
+2012,Bundesliga,TSG 1899 Hoffenheim,summer,out,Srdjan Lakic,34579,28,Croatia,Centre-Forward,CF,2000000.0,VfL Wolfsburg,Germany,0.0,1
+2012,Bundesliga,TSG 1899 Hoffenheim,winter,out,Marvin Compper,9340,27,Germany,Centre-Back,CB,2500000.0,ACF Fiorentina,Italy,200000.0,0
+2012,Bundesliga,TSG 1899 Hoffenheim,winter,out,Junior Ponce,214654,18,Peru,Right Winger,RW,,EC Pelotas,Brazil,0.0,1
+2012,Bundesliga,TSG 1899 Hoffenheim,winter,out,Guilherme Biteco,212902,18,Brazil,Attacking Midfield,AM,150000.0,Grêmio Foot-Ball Porto Alegrense,Brazil,0.0,1
+2012,Bundesliga,VfB Stuttgart,summer,in,Tim Hoogland,18833,27,Germany,Right-Back,RB,1500000.0,FC Schalke 04,Germany,300000.0,1
+2012,Bundesliga,VfB Stuttgart,summer,in,Tunay Torun,39247,22,Türkiye,Right Winger,RW,1250000.0,Hertha BSC,Germany,0.0,0
+2012,Bundesliga,VfB Stuttgart,winter,in,Alexandru Maxim,129513,22,Romania,Attacking Midfield,AM,2000000.0,Pandurii Targu Jiu (- 2022),Romania,1500000.0,0
+2012,Bundesliga,VfB Stuttgart,winter,in,Felipe Lopes,45448,25,Brazil,Centre-Back,CB,3000000.0,VfL Wolfsburg,Germany,300000.0,1
+2012,Bundesliga,VfB Stuttgart,winter,in,Federico Macheda,61887,21,Italy,Centre-Forward,CF,2500000.0,Manchester United,England,300000.0,1
+2012,Bundesliga,VfB Stuttgart,summer,out,Julian Schieber,58124,23,Germany,Centre-Forward,CF,8000000.0,Borussia Dortmund,Germany,5500000.0,0
+2012,Bundesliga,VfB Stuttgart,summer,out,Timo Gebhart,42463,23,Germany,Attacking Midfield,AM,2500000.0,1.FC Nuremberg,Germany,1000000.0,0
+2012,Bundesliga,VfB Stuttgart,summer,out,Matthieu Delpierre,5636,31,France,Centre-Back,CB,1750000.0,TSG 1899 Hoffenheim,Germany,0.0,0
+2012,Bundesliga,VfB Stuttgart,summer,out,Khalid Boulahrouz,4489,30,Netherlands,Centre-Back,CB,3000000.0,Sporting CP,Portugal,0.0,0
+2012,Bundesliga,VfB Stuttgart,summer,out,Stefano Celozzi,33729,23,Germany,Right-Back,RB,800000.0,Eintracht Frankfurt,Germany,0.0,0
+2012,Bundesliga,VfB Stuttgart,winter,out,Francisco Rodríguez,28163,31,Mexico,Centre-Back,CB,3000000.0,CF América,Mexico,2000000.0,0
+2012,Bundesliga,VfB Stuttgart,winter,out,Zdravko Kuzmanovic,25441,25,Serbia,Central Midfield,CM,5500000.0,Inter Milan,Italy,1200000.0,0
+2012,Bundesliga,VfL Wolfsburg,summer,in,Bas Dost,56331,23,Netherlands,Centre-Forward,CF,8000000.0,SC Heerenveen,Netherlands,7000000.0,0
+2012,Bundesliga,VfL Wolfsburg,summer,in,Naldo,32213,29,Brazil,Centre-Back,CB,6500000.0,SV Werder Bremen,Germany,4800000.0,0
+2012,Bundesliga,VfL Wolfsburg,summer,in,Fagner,47592,23,Brazil,Right-Back,RB,2000000.0,Clube de Regatas Vasco da Gama,Brazil,3000000.0,0
+2012,Bundesliga,VfL Wolfsburg,summer,in,Emanuel Pogatetz,1094,29,Austria,Centre-Back,CB,3500000.0,Hannover 96,Germany,2500000.0,0
+2012,Bundesliga,VfL Wolfsburg,summer,in,Vaclav Pilar,63955,23,Czech Republic,Left Midfield,LM,2000000.0,FC Hradec Kralove,Czech Republic,1500000.0,0
+2012,Bundesliga,VfL Wolfsburg,summer,in,Kevin Pannewitz,64431,20,Germany,Defensive Midfield,DM,800000.0,FC Hansa Rostock,Germany,300000.0,0
+2012,Bundesliga,VfL Wolfsburg,summer,in,Ivica Olic,7427,32,Croatia,Centre-Forward,CF,3500000.0,Bayern Munich,Germany,0.0,0
+2012,Bundesliga,VfL Wolfsburg,winter,in,Ivan Perišić,42460,23,Croatia,Left Winger,LW,7000000.0,Borussia Dortmund,Germany,8000000.0,0
+2012,Bundesliga,VfL Wolfsburg,summer,out,Mario Mandžukić,34572,26,Croatia,Centre-Forward,CF,14000000.0,Bayern Munich,Germany,13000000.0,0
+2012,Bundesliga,VfL Wolfsburg,summer,out,Petr Jiracek,63737,26,Czech Republic,Central Midfield,CM,6000000.0,Hamburger SV,Germany,4000000.0,0
+2012,Bundesliga,VfL Wolfsburg,summer,out,Ashkan Dejagah,13979,26,Iran,Right Winger,RW,5000000.0,Fulham FC,England,2500000.0,0
+2012,Bundesliga,VfL Wolfsburg,summer,out,Sebastian Polter,60957,21,Germany,Centre-Forward,CF,800000.0,1.FC Nuremberg,Germany,200000.0,1
+2012,Bundesliga,VfL Wolfsburg,summer,out,Kevin Scheidhauer,94205,20,Germany,Second Striker,SS,250000.0,VfL Bochum,Germany,100000.0,1
+2012,Bundesliga,VfL Wolfsburg,summer,out,Patrick Ochs,2358,28,Germany,Right-Back,RB,2500000.0,TSG 1899 Hoffenheim,Germany,100000.0,1
+2012,Bundesliga,VfL Wolfsburg,summer,out,Ibrahim Sissoko,157058,20,Cote d'Ivoire,Attacking Midfield,AM,1500000.0,Panathinaikos FC,Greece,100000.0,1
+2012,Bundesliga,VfL Wolfsburg,summer,out,Giovanni Sio,76293,23,Cote d'Ivoire,Centre-Forward,CF,6000000.0,FC Augsburg,Germany,100000.0,1
+2012,Bundesliga,VfL Wolfsburg,summer,out,Bjarne Thoelke,94210,20,Germany,Centre-Back,CB,700000.0,SG Dynamo Dresden,Germany,50000.0,1
+2012,Bundesliga,VfL Wolfsburg,summer,out,Akaki Gogia,92472,20,Germany,Left Winger,LW,600000.0,FC St. Pauli,Germany,50000.0,1
+2012,Bundesliga,VfL Wolfsburg,summer,out,Caiuby,54137,23,Brazil,Left Winger,LW,800000.0,FC Ingolstadt 04,Germany,0.0,0
+2012,Bundesliga,VfL Wolfsburg,summer,out,Peter Pekarík,51100,25,Slovakia,Right-Back,RB,2250000.0,Hertha BSC,Germany,0.0,0
+2012,Bundesliga,VfL Wolfsburg,summer,out,Tuncay Şanlı,6934,30,Türkiye,Left Winger,LW,1250000.0,Bursaspor,Türkiye,0.0,0
+2012,Bundesliga,VfL Wolfsburg,summer,out,Chris,3233,33,Brazil,Centre-Back,CB,500000.0,TSG 1899 Hoffenheim,Germany,0.0,0
+2012,Bundesliga,VfL Wolfsburg,summer,out,Nassim Ben Khalifa,74288,20,Switzerland,Second Striker,SS,500000.0,Grasshopper Club Zurich,Switzerland,0.0,1
+2012,Bundesliga,VfL Wolfsburg,summer,out,Thomas Hitzlsperger,1573,30,Germany,Central Midfield,CM,1250000.0,Without Club,,,0
+2012,Bundesliga,VfL Wolfsburg,summer,out,Hasan Salihamidzic,214,35,Bosnia-Herzegovina,Right Midfield,RM,600000.0,Retired,,,0
+2012,Bundesliga,VfL Wolfsburg,summer,out,André Lenz,921,38,Germany,Goalkeeper,GK,200000.0,Retired,,,0
+2012,Bundesliga,VfL Wolfsburg,winter,out,Marco Russ,16520,27,Germany,Centre-Back,CB,2500000.0,Eintracht Frankfurt,Germany,500000.0,1
+2012,Bundesliga,VfL Wolfsburg,winter,out,Felipe Lopes,45448,25,Brazil,Centre-Back,CB,3000000.0,VfB Stuttgart,Germany,300000.0,1
+2012,Bundesliga,VfL Wolfsburg,winter,out,Emanuel Pogatetz,1094,30,Austria,Centre-Back,CB,2500000.0,West Ham United,England,300000.0,1
+2012,Bundesliga,VfL Wolfsburg,winter,out,Rasmus Jönsson,72457,23,Sweden,Centre-Forward,CF,1500000.0,FSV Frankfurt,Germany,200000.0,1
+2012,Bundesliga,VfL Wolfsburg,winter,out,Giovanni Sio,76293,23,Cote d'Ivoire,Centre-Forward,CF,2500000.0,FC Sochaux-Montbéliard,France,200000.0,1
+2012,Bundesliga,VfL Wolfsburg,winter,out,Mateusz Klich,92738,22,Poland,Central Midfield,CM,500000.0,PEC Zwolle,Netherlands,100000.0,1
+2012,Bundesliga,VfL Wolfsburg,winter,out,Michael Schulze,45758,24,Germany,Right-Back,RB,200000.0,FC Energie Cottbus,Germany,50000.0,1
+2012,Bundesliga,VfL Wolfsburg,winter,out,Josué,52910,33,Brazil,Defensive Midfield,DM,1500000.0,Clube Atlético Mineiro,Brazil,0.0,0
+2012,Bundesliga,VfL Wolfsburg,winter,out,Srdjan Lakic,34579,29,Croatia,Centre-Forward,CF,1500000.0,Eintracht Frankfurt,Germany,0.0,1
+2012,Bundesliga,VfL Wolfsburg,winter,out,Hrvoje Cale,24609,27,Croatia,Left-Back,LB,400000.0,Without Club,,,0

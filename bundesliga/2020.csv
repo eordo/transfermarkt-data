@@ -1,0 +1,394 @@
+season,league,club,window,movement,player_name,player_id,age,nationality,position,pos,market_value,dealing_club,dealing_country,fee,is_loan
+2020,Bundesliga,1.FC Köln,summer,in,Ondrej Duda,232418,25,Slovakia,Central Midfield,CM,7000000.0,Hertha BSC,Germany,7000000.0,0
+2020,Bundesliga,1.FC Köln,summer,in,Sebastian Andersson,147573,29,Sweden,Centre-Forward,CF,7000000.0,1.FC Union Berlin,Germany,6500000.0,0
+2020,Bundesliga,1.FC Köln,summer,in,Dimitrios Limnios,324344,22,Greece,Right Winger,RW,4000000.0,PAOK Thessaloniki,Greece,3300000.0,0
+2020,Bundesliga,1.FC Köln,summer,in,Tolu Arokodare,683571,19,Nigeria,Centre-Forward,CF,225000.0,Valmiera FC,Latvia,500000.0,1
+2020,Bundesliga,1.FC Köln,summer,in,Ron-Robert Zieler,21327,31,Germany,Goalkeeper,GK,2000000.0,Hannover 96,Germany,0.0,1
+2020,Bundesliga,1.FC Köln,summer,in,Marius Wolf,193900,25,Germany,Right-Back,RB,6500000.0,Borussia Dortmund,Germany,0.0,1
+2020,Bundesliga,1.FC Köln,winter,in,Emmanuel Dennis,448854,23,Nigeria,Centre-Forward,CF,11000000.0,Club Brugge KV,Belgium,1200000.0,1
+2020,Bundesliga,1.FC Köln,winter,in,Max Meyer,146164,25,Germany,Central Midfield,CM,3000000.0,Crystal Palace,England,0.0,0
+2020,Bundesliga,1.FC Köln,summer,out,Jhon Córdoba,185245,27,Colombia,Centre-Forward,CF,12000000.0,Hertha BSC,Germany,15000000.0,0
+2020,Bundesliga,1.FC Köln,summer,out,Jan-Christoph Bartels,296346,21,Germany,Goalkeeper,GK,150000.0,SV Waldhof Mannheim,Germany,0.0,0
+2020,Bundesliga,1.FC Köln,summer,out,Simon Terodde,36284,32,Germany,Centre-Forward,CF,2400000.0,Hamburger SV,Germany,0.0,0
+2020,Bundesliga,1.FC Köln,summer,out,Brady Scott,370844,21,United States,Goalkeeper,GK,100000.0,Nashville SC,United States,0.0,0
+2020,Bundesliga,1.FC Köln,summer,out,Louis Schaub,147485,25,Austria,Right Midfield,RM,2000000.0,FC Luzern,Switzerland,0.0,1
+2020,Bundesliga,1.FC Köln,summer,out,Lasse Sobiech,79503,29,Germany,Centre-Back,CB,950000.0,FC Zürich,Switzerland,0.0,1
+2020,Bundesliga,1.FC Köln,summer,out,Marcel Risse,51176,30,Germany,Right Midfield,RM,1200000.0,FC Viktoria Köln,Germany,0.0,1
+2020,Bundesliga,1.FC Köln,summer,out,Vincent Koziello,290551,24,France,Central Midfield,CM,1200000.0,CD Nacional,Portugal,0.0,1
+2020,Bundesliga,1.FC Köln,summer,out,Tomas Ostrák,428189,20,Czech Republic,Attacking Midfield,AM,200000.0,MFK Karvina,Czech Republic,0.0,1
+2020,Bundesliga,1.FC Köln,summer,out,Kingsley Schindler,153678,27,Ghana,Right Winger,RW,1600000.0,Hannover 96,Germany,0.0,1
+2020,Bundesliga,1.FC Köln,summer,out,Yann Bisseck,441986,19,Germany,Centre-Back,CB,325000.0,Vitória Guimarães SC,Portugal,0.0,1
+2020,Bundesliga,1.FC Köln,summer,out,Niklas Hauptmann,205544,24,Germany,Central Midfield,CM,800000.0,Holstein Kiel,Germany,0.0,1
+2020,Bundesliga,1.FC Köln,summer,out,Birger Verstraete,234193,26,Belgium,Defensive Midfield,DM,3200000.0,Royal Antwerp FC,Belgium,0.0,1
+2020,Bundesliga,1.FC Köln,summer,out,Thomas Kessler,5072,34,Germany,Goalkeeper,GK,,Retired,,,0
+2020,Bundesliga,1.FC Köln,summer,out,Toni Leistner,86916,29,Germany,Centre-Back,CB,2000000.0,Queens Park Rangers,England,0.0,1
+2020,Bundesliga,1.FC Köln,summer,out,Mark Uth,112935,28,Germany,Centre-Forward,CF,6000000.0,FC Schalke 04,Germany,0.0,1
+2020,Bundesliga,1.FC Köln,winter,out,Christian Clemens,44713,29,Germany,Right Winger,RW,1000000.0,SV Darmstadt 98,Germany,0.0,0
+2020,Bundesliga,1.FC Köln,winter,out,Frederik Sørensen,91716,28,Denmark,Centre-Back,CB,1200000.0,Delfino Pescara 1936,Italy,0.0,0
+2020,Bundesliga,1.FC Köln,winter,out,Anthony Modeste,50512,32,France,Centre-Forward,CF,2800000.0,AS Saint-Étienne,France,0.0,1
+2020,Bundesliga,1.FC Union Berlin,summer,in,Marius Bülter,116088,27,Germany,Left Winger,LW,2400000.0,1.FC Magdeburg,Germany,1500000.0,0
+2020,Bundesliga,1.FC Union Berlin,summer,in,Sebastian Griesbeck,153555,29,Germany,Centre-Back,CB,1000000.0,1.FC Heidenheim 1846,Germany,0.0,0
+2020,Bundesliga,1.FC Union Berlin,summer,in,Max Kruse,36182,32,Germany,Second Striker,SS,8500000.0,Fenerbahce,Türkiye,0.0,0
+2020,Bundesliga,1.FC Union Berlin,summer,in,Andreas Luthe,41323,33,Germany,Goalkeeper,GK,400000.0,FC Augsburg,Germany,0.0,0
+2020,Bundesliga,1.FC Union Berlin,summer,in,Cedric Teuchert,207597,23,Germany,Centre-Forward,CF,1200000.0,FC Schalke 04,Germany,0.0,0
+2020,Bundesliga,1.FC Union Berlin,summer,in,Niko Gießelmann,72792,28,Germany,Left-Back,LB,2800000.0,Fortuna Düsseldorf,Germany,0.0,0
+2020,Bundesliga,1.FC Union Berlin,summer,in,Robin Knoche,94201,28,Germany,Centre-Back,CB,6500000.0,VfL Wolfsburg,Germany,0.0,0
+2020,Bundesliga,1.FC Union Berlin,summer,in,Taiwo Awoniyi,295313,23,Nigeria,Centre-Forward,CF,3200000.0,Liverpool FC,England,0.0,1
+2020,Bundesliga,1.FC Union Berlin,summer,in,Loris Karius,85864,27,Germany,Goalkeeper,GK,3200000.0,Liverpool FC,England,0.0,1
+2020,Bundesliga,1.FC Union Berlin,summer,in,Joel Pohjanpalo,173491,26,Finland,Centre-Forward,CF,2000000.0,Bayer 04 Leverkusen,Germany,0.0,1
+2020,Bundesliga,1.FC Union Berlin,summer,in,Keita Endo,421726,22,Japan,Left Winger,LW,1300000.0,Yokohama F. Marinos,Japan,0.0,1
+2020,Bundesliga,1.FC Union Berlin,summer,in,Nico Schlotterbeck,388198,20,Germany,Centre-Back,CB,4000000.0,SC Freiburg,Germany,0.0,1
+2020,Bundesliga,1.FC Union Berlin,winter,in,Petar Musa,387110,22,Croatia,Centre-Forward,CF,1700000.0,SK Slavia Prague,Czech Republic,200000.0,1
+2020,Bundesliga,1.FC Union Berlin,winter,in,Leon Dajaku,483974,19,Germany,Left Winger,LW,2300000.0,FC Bayern Munich II,Germany,0.0,1
+2020,Bundesliga,1.FC Union Berlin,summer,out,Sebastian Andersson,147573,29,Sweden,Centre-Forward,CF,7000000.0,1.FC Köln,Germany,6500000.0,0
+2020,Bundesliga,1.FC Union Berlin,summer,out,Joshua Mees,196815,24,Germany,Left Winger,LW,700000.0,Holstein Kiel,Germany,300000.0,0
+2020,Bundesliga,1.FC Union Berlin,summer,out,Lars Dietz,224513,23,Germany,Centre-Back,CB,225000.0,Würzburger Kickers,Germany,70000.0,0
+2020,Bundesliga,1.FC Union Berlin,summer,out,Florian Flecker,272159,24,Austria,Right Midfield,RM,600000.0,Würzburger Kickers,Germany,0.0,0
+2020,Bundesliga,1.FC Union Berlin,summer,out,Felix Kroos,31910,29,Germany,Central Midfield,CM,650000.0,Eintracht Braunschweig,Germany,0.0,0
+2020,Bundesliga,1.FC Union Berlin,summer,out,Leo Oppermann,489343,18,Germany,Goalkeeper,GK,50000.0,Hamburger SV II,Germany,0.0,0
+2020,Bundesliga,1.FC Union Berlin,summer,out,Neven Subotic,40995,31,Germany,Centre-Back,CB,2000000.0,Denizlispor,Türkiye,0.0,0
+2020,Bundesliga,1.FC Union Berlin,summer,out,Rafal Gikiewicz,78339,32,Poland,Goalkeeper,GK,1200000.0,FC Augsburg,Germany,0.0,0
+2020,Bundesliga,1.FC Union Berlin,summer,out,Ken Reichel,16831,33,Germany,Left-Back,LB,400000.0,VfL Osnabrück,Germany,0.0,0
+2020,Bundesliga,1.FC Union Berlin,summer,out,Sebastian Polter,60957,29,Germany,Centre-Forward,CF,1600000.0,Fortuna Sittard,Netherlands,0.0,0
+2020,Bundesliga,1.FC Union Berlin,summer,out,Berkan Taz,451380,21,Germany,Attacking Midfield,AM,200000.0,SC Verl,Germany,0.0,0
+2020,Bundesliga,1.FC Union Berlin,summer,out,Julius Kade,317735,21,Germany,Central Midfield,CM,350000.0,SG Dynamo Dresden,Germany,,0
+2020,Bundesliga,1.FC Union Berlin,summer,out,Lennard Maloney,392710,20,United States,Defensive Midfield,DM,150000.0,Borussia Dortmund II,Germany,,0
+2020,Bundesliga,1.FC Union Berlin,summer,out,Laurenz Dehl,451403,18,Germany,Left Winger,LW,200000.0,Hallescher FC,Germany,0.0,1
+2020,Bundesliga,1.FC Union Berlin,summer,out,Suleiman Abdullahi,356118,23,Nigeria,Centre-Forward,CF,1400000.0,Eintracht Braunschweig,Germany,0.0,1
+2020,Bundesliga,1.FC Union Berlin,summer,out,Nicolai Rapp,185427,23,Germany,Defensive Midfield,DM,600000.0,SV Darmstadt 98,Germany,0.0,1
+2020,Bundesliga,1.FC Union Berlin,summer,out,Maurice Opfermann Arcones,393304,20,Germany,Defensive Midfield,DM,150000.0,Without Club,,,0
+2020,Bundesliga,1.FC Union Berlin,summer,out,Manuel Schmiedebach,41507,31,Germany,Defensive Midfield,DM,650000.0,Without Club,,,0
+2020,Bundesliga,1.FC Union Berlin,summer,out,Michael Parensen,18533,34,Germany,Left-Back,LB,250000.0,Retired,,,0
+2020,Bundesliga,1.FC Union Berlin,summer,out,Moritz Nicolas,284270,22,Germany,Goalkeeper,GK,250000.0,Borussia Mönchengladbach,Germany,0.0,1
+2020,Bundesliga,1.FC Union Berlin,summer,out,Yunus Mallı,85352,28,Türkiye,Central Midfield,CM,2800000.0,VfL Wolfsburg,Germany,0.0,1
+2020,Bundesliga,1.FC Union Berlin,summer,out,Marius Bülter,116088,27,Germany,Left Winger,LW,2400000.0,1.FC Magdeburg,Germany,0.0,1
+2020,Bundesliga,1.FC Union Berlin,summer,out,Keven Schlotterbeck,413843,23,Germany,Centre-Back,CB,2800000.0,SC Freiburg,Germany,0.0,1
+2020,Bundesliga,1.FC Union Berlin,winter,out,Lennart Moser,392717,21,Germany,Goalkeeper,GK,525000.0,SK Austria Klagenfurt,Austria,25000.0,1
+2020,Bundesliga,1.FC Union Berlin,winter,out,Tim Maciejewski,392156,19,Germany,Attacking Midfield,AM,200000.0,SK Austria Klagenfurt,Austria,25000.0,1
+2020,Bundesliga,1.FSV Mainz 05,summer,in,Luca Kilian,384553,20,Germany,Centre-Back,CB,1300000.0,SC Paderborn 07,Germany,2000000.0,0
+2020,Bundesliga,1.FSV Mainz 05,summer,in,Dimitri Lavalée,420890,23,Belgium,Centre-Back,CB,800000.0,Standard Liège,Belgium,0.0,0
+2020,Bundesliga,1.FSV Mainz 05,summer,in,Kevin Stöger,106872,27,Austria,Attacking Midfield,AM,6000000.0,Without Club,,,0
+2020,Bundesliga,1.FSV Mainz 05,winter,in,Dominik Kohr,118847,26,Germany,Centre-Back,CB,6800000.0,Eintracht Frankfurt,Germany,0.0,1
+2020,Bundesliga,1.FSV Mainz 05,winter,in,Danny da Costa,85906,27,Germany,Centre-Back,CB,7000000.0,Eintracht Frankfurt,Germany,0.0,1
+2020,Bundesliga,1.FSV Mainz 05,winter,in,Robert Glatzel,196139,27,Germany,Centre-Forward,CF,2000000.0,Cardiff City,England,0.0,1
+2020,Bundesliga,1.FSV Mainz 05,summer,out,Ridle Baku,327251,22,Germany,Right-Back,RB,7000000.0,VfL Wolfsburg,Germany,10000000.0,0
+2020,Bundesliga,1.FSV Mainz 05,summer,out,Florian Müller,284769,22,Germany,Goalkeeper,GK,4000000.0,SC Freiburg,Germany,200000.0,1
+2020,Bundesliga,1.FSV Mainz 05,summer,out,Aaron Seydel,187499,24,Germany,Centre-Forward,CF,325000.0,SV Darmstadt 98,Germany,0.0,0
+2020,Bundesliga,1.FSV Mainz 05,summer,out,Alexandru Maxim,129513,30,Romania,Attacking Midfield,AM,2300000.0,Gaziantep FK,Türkiye,0.0,0
+2020,Bundesliga,1.FSV Mainz 05,summer,out,Gerrit Holtmann,190289,25,Philippines,Left Winger,LW,1200000.0,VfL Bochum,Germany,0.0,0
+2020,Bundesliga,1.FSV Mainz 05,summer,out,Ronaël Pierre-Gabriel,410185,22,France,Right-Back,RB,3600000.0,Stade Brestois 29,France,0.0,1
+2020,Bundesliga,1.FSV Mainz 05,summer,out,Jonathan Meier,379989,20,Germany,Left-Back,LB,625000.0,SG Dynamo Dresden,Germany,0.0,1
+2020,Bundesliga,1.FSV Mainz 05,summer,out,Taiwo Awoniyi,295313,22,Nigeria,Centre-Forward,CF,3200000.0,Liverpool FC,England,0.0,1
+2020,Bundesliga,1.FSV Mainz 05,summer,out,Jeffrey Bruma,88721,28,Netherlands,Centre-Back,CB,3200000.0,VfL Wolfsburg,Germany,0.0,1
+2020,Bundesliga,1.FSV Mainz 05,winter,out,Jean-Philippe Mateta,420002,23,France,Centre-Forward,CF,15000000.0,Crystal Palace,England,3500000.0,1
+2020,Bundesliga,1.FSV Mainz 05,winter,out,Issah Abass,482145,22,Ghana,Left Winger,LW,1000000.0,Twente Enschede FC,Netherlands,0.0,1
+2020,Bundesliga,1.FSV Mainz 05,winter,out,Dimitri Lavalée,420890,24,Belgium,Centre-Back,CB,800000.0,Sint-Truidense VV,Belgium,0.0,1
+2020,Bundesliga,1.FSV Mainz 05,winter,out,Dong-won Ji,164265,29,"Korea, South",Centre-Forward,CF,1000000.0,Eintracht Braunschweig,Germany,0.0,1
+2020,Bundesliga,1.FSV Mainz 05,winter,out,Aarón Martín,251878,23,Spain,Left-Back,LB,4500000.0,Celta de Vigo,Spain,0.0,1
+2020,Bundesliga,Arminia Bielefeld,summer,in,Arne Maier,296397,21,Germany,Central Midfield,CM,13500000.0,Hertha BSC,Germany,500000.0,1
+2020,Bundesliga,Arminia Bielefeld,summer,in,Christian Gebauer,275423,26,Austria,Right Winger,RW,550000.0,SCR Altach,Austria,0.0,0
+2020,Bundesliga,Arminia Bielefeld,summer,in,Mike van der Hoorn,187105,27,Netherlands,Centre-Back,CB,2800000.0,Swansea City,England,0.0,0
+2020,Bundesliga,Arminia Bielefeld,summer,in,Noel Niemann,519414,20,Germany,Attacking Midfield,AM,300000.0,TSV 1860 Munich,Germany,0.0,0
+2020,Bundesliga,Arminia Bielefeld,summer,in,Nathan de Medina,285951,22,Belgium,Centre-Back,CB,650000.0,Royal Excel Mouscron (-2022),Belgium,0.0,0
+2020,Bundesliga,Arminia Bielefeld,summer,in,Jacob Barrett Laursen,185164,25,Denmark,Left-Back,LB,550000.0,Odense Boldklub,Denmark,0.0,0
+2020,Bundesliga,Arminia Bielefeld,summer,in,Ritsu Doan,358504,22,Japan,Right Winger,RW,6300000.0,PSV Eindhoven,Netherlands,0.0,1
+2020,Bundesliga,Arminia Bielefeld,summer,in,Sergio Córdova,377387,23,Venezuela,Centre-Forward,CF,1600000.0,FC Augsburg,Germany,0.0,1
+2020,Bundesliga,Arminia Bielefeld,winter,in,Masaya Okugawa,307052,24,Japan,Left Winger,LW,3500000.0,Red Bull Salzburg,Austria,0.0,1
+2020,Bundesliga,Arminia Bielefeld,winter,in,Michel Vlap,342702,23,Netherlands,Attacking Midfield,AM,4000000.0,RSC Anderlecht,Belgium,0.0,1
+2020,Bundesliga,Arminia Bielefeld,summer,out,Stephan Salger,45707,30,Germany,Centre-Back,CB,350000.0,TSV 1860 Munich,Germany,0.0,0
+2020,Bundesliga,Arminia Bielefeld,summer,out,Álex Pérez,167830,29,Spain,Centre-Back,CB,400000.0,UD Logroñés,Spain,0.0,0
+2020,Bundesliga,Arminia Bielefeld,summer,out,Philipp Klewin,94120,26,Germany,Goalkeeper,GK,275000.0,FC Erzgebirge Aue,Germany,0.0,0
+2020,Bundesliga,Arminia Bielefeld,summer,out,Florian Hartherz,93571,27,Germany,Left-Back,LB,725000.0,Fortuna Düsseldorf,Germany,0.0,0
+2020,Bundesliga,Arminia Bielefeld,summer,out,Patrick Weihrauch,125105,26,Germany,Attacking Midfield,AM,450000.0,SG Dynamo Dresden,Germany,0.0,0
+2020,Bundesliga,Arminia Bielefeld,summer,out,Keanu Staude,264310,23,Germany,Left Winger,LW,450000.0,Würzburger Kickers,Germany,0.0,0
+2020,Bundesliga,Arminia Bielefeld,summer,out,Jonathan Clauss,175639,27,France,Right-Back,RB,1200000.0,RC Lens,France,0.0,0
+2020,Bundesliga,Arminia Bielefeld,summer,out,Mervin Kalac,517404,19,Germany,Centre-Forward,CF,25000.0,SV Lippstadt 08,Germany,0.0,1
+2020,Bundesliga,Arminia Bielefeld,summer,out,Prince Owusu,207593,23,Germany,Centre-Forward,CF,250000.0,SC Paderborn 07,Germany,,0
+2020,Bundesliga,Arminia Bielefeld,summer,out,Can Özkan,388001,20,Germany,Defensive Midfield,DM,100000.0,Naestved Boldklub,Denmark,0.0,1
+2020,Bundesliga,Arminia Bielefeld,summer,out,Nils Quaschner,94559,26,Germany,Centre-Forward,CF,,Retired,,,0
+2020,Bundesliga,Arminia Bielefeld,summer,out,Tom Schütz,39105,32,Germany,Defensive Midfield,DM,325000.0,Without Club,,,0
+2020,Bundesliga,Arminia Bielefeld,summer,out,Ágoston Kiss,501179,19,Hungary,Goalkeeper,GK,100000.0,Szombathelyi Haladás,Hungary,0.0,1
+2020,Bundesliga,Arminia Bielefeld,winter,out,Brian Behrendt,85660,29,Germany,Centre-Back,CB,600000.0,Eintracht Braunschweig,Germany,100000.0,0
+2020,Bundesliga,Arminia Bielefeld,winter,out,Sebastian Müller,392139,20,Germany,Right Winger,RW,300000.0,VfL Osnabrück,Germany,0.0,1
+2020,Bundesliga,Arminia Bielefeld,winter,out,Noel Niemann,519414,21,Germany,Attacking Midfield,AM,300000.0,Türkgücü München,Germany,0.0,1
+2020,Bundesliga,Bayer 04 Leverkusen,summer,in,Patrik Schick,242086,24,Czech Republic,Centre-Forward,CF,25000000.0,AS Roma,Italy,26500000.0,0
+2020,Bundesliga,Bayer 04 Leverkusen,summer,in,Santiago Arias,120443,28,Colombia,Right-Back,RB,12000000.0,Atlético de Madrid,Spain,3000000.0,1
+2020,Bundesliga,Bayer 04 Leverkusen,summer,in,Lennart Grill,309397,21,Germany,Goalkeeper,GK,1500000.0,1.FC Kaiserslautern,Germany,2000000.0,0
+2020,Bundesliga,Bayer 04 Leverkusen,winter,in,Jeremie Frimpong,484547,20,Netherlands,Right-Back,RB,4000000.0,Celtic FC,Scotland,11000000.0,0
+2020,Bundesliga,Bayer 04 Leverkusen,winter,in,Demarai Gray,292417,24,Jamaica,Left Winger,LW,12000000.0,Leicester City,England,2000000.0,0
+2020,Bundesliga,Bayer 04 Leverkusen,winter,in,Timothy Fosu-Mensah,315131,23,Netherlands,Right-Back,RB,4000000.0,Manchester United,England,1700000.0,0
+2020,Bundesliga,Bayer 04 Leverkusen,summer,out,Kai Havertz,309400,21,Germany,Centre-Forward,CF,81000000.0,Chelsea FC,England,100000000.0,0
+2020,Bundesliga,Bayer 04 Leverkusen,summer,out,Kevin Volland,82009,28,Germany,Attacking Midfield,AM,28000000.0,AS Monaco,France,11000000.0,0
+2020,Bundesliga,Bayer 04 Leverkusen,summer,out,Adrian Stanilewicz,389078,20,Poland,Defensive Midfield,DM,200000.0,SV Darmstadt 98,Germany,0.0,0
+2020,Bundesliga,Bayer 04 Leverkusen,summer,out,Panagiotis Retsos,324351,22,Greece,Centre-Back,CB,8000000.0,AS Saint-Étienne,France,0.0,1
+2020,Bundesliga,Bayer 04 Leverkusen,summer,out,Ayman Azhil,452068,19,Morocco,Defensive Midfield,DM,,RKC Waalwijk,Netherlands,0.0,1
+2020,Bundesliga,Bayer 04 Leverkusen,summer,out,Joel Pohjanpalo,173491,26,Finland,Centre-Forward,CF,2000000.0,1.FC Union Berlin,Germany,0.0,1
+2020,Bundesliga,Bayer 04 Leverkusen,summer,out,Ramazan Özcan,16498,36,Austria,Goalkeeper,GK,,Retired,,,0
+2020,Bundesliga,Bayern Munich,summer,in,Leroy Sané,192565,24,Germany,Right Winger,RW,80000000.0,Manchester City,England,49000000.0,0
+2020,Bundesliga,Bayern Munich,summer,in,Marc Roca,336869,23,Spain,Defensive Midfield,DM,16000000.0,RCD Espanyol Barcelona,Spain,9000000.0,0
+2020,Bundesliga,Bayern Munich,summer,in,Bouna Sarr,190685,28,Senegal,Right-Back,RB,9000000.0,Olympique Marseille,France,8000000.0,0
+2020,Bundesliga,Bayern Munich,summer,in,Alexander Nübel,195778,23,Germany,Goalkeeper,GK,9500000.0,FC Schalke 04,Germany,0.0,0
+2020,Bundesliga,Bayern Munich,summer,in,Eric-Maxim Choupo-Moting,45660,31,Cameroon,Centre-Forward,CF,4000000.0,Paris Saint-Germain,France,0.0,0
+2020,Bundesliga,Bayern Munich,summer,in,Tanguy Nianzou,538996,18,France,Centre-Back,CB,11000000.0,Paris Saint-Germain,France,0.0,0
+2020,Bundesliga,Bayern Munich,summer,in,Douglas Costa,75615,30,Brazil,Right Winger,RW,20000000.0,Juventus FC,Italy,0.0,1
+2020,Bundesliga,Bayern Munich,summer,in,Tiago Dantas,429987,19,Portugal,Central Midfield,CM,1300000.0,SL Benfica,Portugal,0.0,1
+2020,Bundesliga,Bayern Munich,summer,out,Thiago Alcántara,60444,29,Spain,Central Midfield,CM,48000000.0,Liverpool FC,England,22000000.0,0
+2020,Bundesliga,Bayern Munich,summer,out,Sven Ulreich,40680,32,Germany,Goalkeeper,GK,3000000.0,Hamburger SV,Germany,0.0,0
+2020,Bundesliga,Bayern Munich,summer,out,Christian Früchtl,336307,20,Germany,Goalkeeper,GK,700000.0,1.FC Nuremberg,Germany,0.0,1
+2020,Bundesliga,Bayern Munich,summer,out,Lukas Mai,345780,20,Germany,Centre-Back,CB,1800000.0,SV Darmstadt 98,Germany,0.0,1
+2020,Bundesliga,Bayern Munich,summer,out,Michaël Cuisance,344600,21,France,Central Midfield,CM,10000000.0,Olympique Marseille,France,0.0,1
+2020,Bundesliga,Bayern Munich,summer,out,Adrian Fein,379979,21,Germany,Central Midfield,CM,5000000.0,PSV Eindhoven,Netherlands,0.0,1
+2020,Bundesliga,Bayern Munich,summer,out,Álvaro Odriozola,280730,24,Spain,Right-Back,RB,16000000.0,Real Madrid,Spain,0.0,1
+2020,Bundesliga,Bayern Munich,summer,out,Douglas Costa,75615,30,Brazil,Right Winger,RW,12000000.0,Juventus FC,Italy,0.0,1
+2020,Bundesliga,Bayern Munich,summer,out,Philippe Coutinho,80444,28,Brazil,Attacking Midfield,AM,56000000.0,FC Barcelona,Spain,0.0,1
+2020,Bundesliga,Bayern Munich,summer,out,Ivan Perišić,42460,31,Croatia,Left Winger,LW,17500000.0,Inter Milan,Italy,0.0,1
+2020,Bundesliga,Bayern Munich,winter,out,Chris Richards,578539,20,United States,Centre-Back,CB,5000000.0,TSG 1899 Hoffenheim,Germany,250000.0,1
+2020,Bundesliga,Bayern Munich,winter,out,Joshua Zirkzee,435648,19,Netherlands,Centre-Forward,CF,9000000.0,Parma Calcio 1913,Italy,0.0,1
+2020,Bundesliga,Borussia Dortmund,summer,in,Jude Bellingham,581678,17,England,Attacking Midfield,AM,11000000.0,Birmingham City,England,30150000.0,0
+2020,Bundesliga,Borussia Dortmund,summer,in,Emre Can,119296,26,Germany,Centre-Back,CB,24000000.0,Juventus FC,Italy,25000000.0,0
+2020,Bundesliga,Borussia Dortmund,summer,in,Thomas Meunier,100986,28,Belgium,Right-Back,RB,24000000.0,Paris Saint-Germain,France,0.0,0
+2020,Bundesliga,Borussia Dortmund,summer,in,Reinier,627226,18,Brazil,Attacking Midfield,AM,22500000.0,Real Madrid,Spain,0.0,1
+2020,Bundesliga,Borussia Dortmund,summer,out,Ömer Toprak,43512,30,Türkiye,Centre-Back,CB,3500000.0,SV Werder Bremen,Germany,4000000.0,0
+2020,Bundesliga,Borussia Dortmund,summer,out,Leonardo Balerdi,575998,21,Argentina,Centre-Back,CB,7200000.0,Olympique Marseille,France,1000000.0,1
+2020,Bundesliga,Borussia Dortmund,summer,out,Dzenis Burnic,251295,22,Bosnia-Herzegovina,Right Midfield,RM,900000.0,1.FC Heidenheim 1846,Germany,500000.0,0
+2020,Bundesliga,Borussia Dortmund,summer,out,Eric Oelschlägel,152460,25,Germany,Goalkeeper,GK,250000.0,FC Utrecht,Netherlands,0.0,0
+2020,Bundesliga,Borussia Dortmund,summer,out,Mario Götze,74842,28,Germany,Attacking Midfield,AM,10500000.0,PSV Eindhoven,Netherlands,0.0,0
+2020,Bundesliga,Borussia Dortmund,summer,out,Immanuel Pherai,412935,19,Suriname,Attacking Midfield,AM,800000.0,PEC Zwolle,Netherlands,0.0,1
+2020,Bundesliga,Borussia Dortmund,summer,out,Marius Wolf,193900,25,Germany,Right-Back,RB,6500000.0,1.FC Köln,Germany,0.0,1
+2020,Bundesliga,Borussia Dortmund,summer,out,André Schürrle,58205,29,Germany,Left Winger,LW,,Retired,,,0
+2020,Bundesliga,Borussia Dortmund,summer,out,Achraf Hakimi,398073,21,Morocco,Right-Back,RB,54000000.0,Real Madrid,Spain,0.0,1
+2020,Bundesliga,Borussia Dortmund,summer,out,Emre Can,119296,26,Germany,Centre-Back,CB,24000000.0,Juventus FC,Italy,0.0,1
+2020,Bundesliga,Borussia Mönchengladbach,summer,in,Hannes Wolf,321070,21,Austria,Right Winger,RW,11000000.0,RB Leipzig,Germany,1500000.0,1
+2020,Bundesliga,Borussia Mönchengladbach,summer,in,Valentino Lazaro,186368,24,Austria,Right-Back,RB,15000000.0,Inter Milan,Italy,1200000.0,1
+2020,Bundesliga,Borussia Mönchengladbach,winter,in,Manu Koné,624690,19,France,Central Midfield,CM,5000000.0,FC Toulouse,France,9000000.0,0
+2020,Bundesliga,Borussia Mönchengladbach,winter,in,Joe Scally,504153,18,United States,Right-Back,RB,2000000.0,New York City FC,United States,1800000.0,0
+2020,Bundesliga,Borussia Mönchengladbach,summer,out,Tobias Strobl,57845,30,Germany,Defensive Midfield,DM,3500000.0,FC Augsburg,Germany,0.0,0
+2020,Bundesliga,Borussia Mönchengladbach,summer,out,Moritz Nicolas,284270,22,Germany,Goalkeeper,GK,250000.0,VfL Osnabrück,Germany,0.0,1
+2020,Bundesliga,Borussia Mönchengladbach,summer,out,Keanan Bennetts,321096,21,Germany,Left Midfield,LM,1300000.0,Ipswich Town,England,0.0,1
+2020,Bundesliga,Borussia Mönchengladbach,summer,out,Fabian Johnson,31041,32,United States,Left Midfield,LM,1600000.0,Retired,,,0
+2020,Bundesliga,Borussia Mönchengladbach,summer,out,Raffael,19819,35,Brazil,Second Striker,SS,,Without Club,,,0
+2020,Bundesliga,Borussia Mönchengladbach,winter,out,Manu Koné,624690,19,France,Central Midfield,CM,5000000.0,FC Toulouse,France,0.0,1
+2020,Bundesliga,Borussia Mönchengladbach,winter,out,László Bénes,243188,23,Slovakia,Central Midfield,CM,6000000.0,FC Augsburg,Germany,0.0,1
+2020,Bundesliga,Borussia Mönchengladbach,winter,out,Andreas Poulsen,345746,21,Denmark,Left-Back,LB,1000000.0,Austria Vienna,Austria,0.0,1
+2020,Bundesliga,Eintracht Frankfurt,summer,in,Steven Zuber,68033,28,Switzerland,Attacking Midfield,AM,4500000.0,TSG 1899 Hoffenheim,Germany,3000000.0,0
+2020,Bundesliga,Eintracht Frankfurt,summer,in,André Silva,198008,24,Portugal,Centre-Forward,CF,24000000.0,AC Milan,Italy,3000000.0,0
+2020,Bundesliga,Eintracht Frankfurt,summer,in,Ragnar Ache,416380,21,Germany,Centre-Forward,CF,900000.0,Sparta Rotterdam,Netherlands,2000000.0,0
+2020,Bundesliga,Eintracht Frankfurt,summer,in,Ajdin Hrustic,265625,24,Australia,Attacking Midfield,AM,650000.0,FC Groningen,Netherlands,1000000.0,0
+2020,Bundesliga,Eintracht Frankfurt,summer,in,Amin Younes,96167,27,Germany,Left Winger,LW,5000000.0,SSC Napoli,Italy,750000.0,1
+2020,Bundesliga,Eintracht Frankfurt,summer,in,Markus Schubert,296741,22,Germany,Goalkeeper,GK,1800000.0,FC Schalke 04,Germany,0.0,1
+2020,Bundesliga,Eintracht Frankfurt,winter,in,Luka Jović,257462,23,Serbia,Centre-Forward,CF,20000000.0,Real Madrid,Spain,1000000.0,1
+2020,Bundesliga,Eintracht Frankfurt,winter,in,Ali Akman,555719,18,Türkiye,Centre-Forward,CF,1500000.0,Without Club,,,0
+2020,Bundesliga,Eintracht Frankfurt,summer,out,Ante Rebić,187587,26,Croatia,Left Winger,LW,32000000.0,AC Milan,Italy,6700000.0,0
+2020,Bundesliga,Eintracht Frankfurt,summer,out,Mijat Gacinovic,215864,25,Serbia,Attacking Midfield,AM,7000000.0,TSG 1899 Hoffenheim,Germany,3000000.0,0
+2020,Bundesliga,Eintracht Frankfurt,summer,out,Lucas Torró,213670,26,Spain,Defensive Midfield,DM,2400000.0,CA Osasuna,Spain,2000000.0,0
+2020,Bundesliga,Eintracht Frankfurt,summer,out,Gonçalo Paciência,181547,26,Portugal,Centre-Forward,CF,12000000.0,FC Schalke 04,Germany,2000000.0,1
+2020,Bundesliga,Eintracht Frankfurt,summer,out,Simon Falette,170927,28,Guinea,Centre-Back,CB,1800000.0,Hannover 96,Germany,0.0,0
+2020,Bundesliga,Eintracht Frankfurt,summer,out,Felix Wiedwald,44594,30,Germany,Goalkeeper,GK,475000.0,FC Emmen,Netherlands,0.0,0
+2020,Bundesliga,Eintracht Frankfurt,summer,out,Patrick Finger,406604,19,Germany,Attacking Midfield,AM,,Olympia Biebesheim,Germany,0.0,0
+2020,Bundesliga,Eintracht Frankfurt,summer,out,Şahverdi Çetin,342100,19,Türkiye,Central Midfield,CM,200000.0,MKE Ankaragücü,Türkiye,0.0,0
+2020,Bundesliga,Eintracht Frankfurt,summer,out,Dejan Joveljić,336382,21,Serbia,Centre-Forward,CF,3600000.0,Wolfsberger AC,Austria,0.0,1
+2020,Bundesliga,Eintracht Frankfurt,summer,out,Nils Stendera,336329,19,Germany,Central Midfield,CM,200000.0,1. FC Lokomotive Leipzig,Germany,0.0,1
+2020,Bundesliga,Eintracht Frankfurt,summer,out,Rodrigo Zalazar,606752,20,Uruguay,Central Midfield,CM,250000.0,FC St. Pauli,Germany,0.0,1
+2020,Bundesliga,Eintracht Frankfurt,summer,out,Frederik Rönnow,107775,28,Denmark,Goalkeeper,GK,2400000.0,FC Schalke 04,Germany,0.0,1
+2020,Bundesliga,Eintracht Frankfurt,summer,out,Jan Zimmermann,10917,35,Germany,Goalkeeper,GK,,Retired,,,0
+2020,Bundesliga,Eintracht Frankfurt,summer,out,Jonathan de Guzmán,31067,32,Netherlands,Central Midfield,CM,1200000.0,Without Club,,,0
+2020,Bundesliga,Eintracht Frankfurt,summer,out,Marco Russ,16520,34,Germany,Centre-Back,CB,,Retired,,,0
+2020,Bundesliga,Eintracht Frankfurt,summer,out,Gelson Fernandes,20081,33,Switzerland,Defensive Midfield,DM,,Retired,,,0
+2020,Bundesliga,Eintracht Frankfurt,summer,out,André Silva,198008,24,Portugal,Centre-Forward,CF,24000000.0,AC Milan,Italy,0.0,1
+2020,Bundesliga,Eintracht Frankfurt,winter,out,Bas Dost,56331,31,Netherlands,Centre-Forward,CF,5500000.0,Club Brugge KV,Belgium,4000000.0,0
+2020,Bundesliga,Eintracht Frankfurt,winter,out,David Abraham,58178,34,Argentina,Centre-Back,CB,,Club Atlético Huracán de Chabás,Argentina,0.0,0
+2020,Bundesliga,Eintracht Frankfurt,winter,out,Marijan Cavar,419255,22,Bosnia-Herzegovina,Central Midfield,CM,350000.0,SpVgg Greuther Fürth,Germany,0.0,0
+2020,Bundesliga,Eintracht Frankfurt,winter,out,Dominik Kohr,118847,26,Germany,Centre-Back,CB,6800000.0,1.FSV Mainz 05,Germany,0.0,1
+2020,Bundesliga,Eintracht Frankfurt,winter,out,Danny da Costa,85906,27,Germany,Centre-Back,CB,7000000.0,1.FSV Mainz 05,Germany,0.0,1
+2020,Bundesliga,FC Augsburg,summer,in,Felix Uduokhai,278343,22,Germany,Centre-Back,CB,6800000.0,VfL Wolfsburg,Germany,7000000.0,0
+2020,Bundesliga,FC Augsburg,summer,in,Robert Gumny,353826,22,Poland,Right-Back,RB,3500000.0,Lech Poznan,Poland,2000000.0,0
+2020,Bundesliga,FC Augsburg,summer,in,Frederik Winther,569349,19,Denmark,Centre-Back,CB,700000.0,Lyngby Boldklub,Denmark,1300000.0,0
+2020,Bundesliga,FC Augsburg,summer,in,Rafal Gikiewicz,78339,32,Poland,Goalkeeper,GK,1200000.0,1.FC Union Berlin,Germany,0.0,0
+2020,Bundesliga,FC Augsburg,summer,in,Tobias Strobl,57845,30,Germany,Defensive Midfield,DM,3500000.0,Borussia Mönchengladbach,Germany,0.0,0
+2020,Bundesliga,FC Augsburg,summer,in,Daniel Caligiuri,38410,32,Italy,Right Winger,RW,4000000.0,FC Schalke 04,Germany,0.0,0
+2020,Bundesliga,FC Augsburg,winter,in,László Bénes,243188,23,Slovakia,Central Midfield,CM,6000000.0,Borussia Mönchengladbach,Germany,0.0,1
+2020,Bundesliga,FC Augsburg,summer,out,Philipp Max,111275,26,Germany,Left-Back,LB,15000000.0,PSV Eindhoven,Netherlands,10000000.0,0
+2020,Bundesliga,FC Augsburg,summer,out,Kevin Danso,263236,21,Austria,Centre-Back,CB,6300000.0,Fortuna Düsseldorf,Germany,500000.0,1
+2020,Bundesliga,FC Augsburg,summer,out,Tim Rieder,111277,26,Germany,Defensive Midfield,DM,350000.0,1.FC Kaiserslautern,Germany,50000.0,0
+2020,Bundesliga,FC Augsburg,summer,out,Maurice Malone,405568,19,Germany,Centre-Forward,CF,325000.0,SV Wehen Wiesbaden,Germany,50000.0,1
+2020,Bundesliga,FC Augsburg,summer,out,Georg Teigl,81698,29,Austria,Right-Back,RB,550000.0,Austria Vienna,Austria,0.0,0
+2020,Bundesliga,FC Augsburg,summer,out,Fabian Giefer,53408,30,Germany,Goalkeeper,GK,300000.0,Würzburger Kickers,Germany,0.0,0
+2020,Bundesliga,FC Augsburg,summer,out,Andreas Luthe,41323,33,Germany,Goalkeeper,GK,400000.0,1.FC Union Berlin,Germany,0.0,0
+2020,Bundesliga,FC Augsburg,summer,out,Frederik Winther,569349,19,Denmark,Centre-Back,CB,700000.0,Lyngby Boldklub,Denmark,0.0,1
+2020,Bundesliga,FC Augsburg,summer,out,Jozo Stanic,333450,21,Croatia,Centre-Back,CB,200000.0,FSV Zwickau,Germany,0.0,1
+2020,Bundesliga,FC Augsburg,summer,out,Sergio Córdova,377387,23,Venezuela,Centre-Forward,CF,1600000.0,Arminia Bielefeld,Germany,0.0,1
+2020,Bundesliga,FC Augsburg,summer,out,Daniel Baier,4018,36,Germany,Defensive Midfield,DM,,Retired,,,0
+2020,Bundesliga,FC Augsburg,summer,out,Stephan Lichtsteiner,2865,36,Switzerland,Right-Back,RB,,Retired,,,0
+2020,Bundesliga,FC Augsburg,summer,out,Eduard Löwen,260655,23,Germany,Central Midfield,CM,5500000.0,Hertha BSC,Germany,0.0,1
+2020,Bundesliga,FC Augsburg,summer,out,Felix Uduokhai,278343,22,Germany,Centre-Back,CB,6800000.0,VfL Wolfsburg,Germany,0.0,1
+2020,Bundesliga,FC Augsburg,summer,out,Tin Jedvaj,206386,24,Croatia,Centre-Back,CB,7000000.0,Bayer 04 Leverkusen,Germany,0.0,1
+2020,Bundesliga,FC Augsburg,winter,out,Felix Götze,330635,22,Germany,Centre-Back,CB,725000.0,1.FC Kaiserslautern,Germany,100000.0,1
+2020,Bundesliga,FC Schalke 04,summer,in,Gonçalo Paciência,181547,26,Portugal,Centre-Forward,CF,12000000.0,Eintracht Frankfurt,Germany,2000000.0,1
+2020,Bundesliga,FC Schalke 04,summer,in,Vedad Ibisevic,21175,36,Bosnia-Herzegovina,Centre-Forward,CF,1200000.0,Hertha BSC,Germany,0.0,0
+2020,Bundesliga,FC Schalke 04,summer,in,Kilian Ludewig,361516,20,Germany,Right-Back,RB,750000.0,Red Bull Salzburg,Austria,0.0,1
+2020,Bundesliga,FC Schalke 04,summer,in,Frederik Rönnow,107775,28,Denmark,Goalkeeper,GK,2400000.0,Eintracht Frankfurt,Germany,0.0,1
+2020,Bundesliga,FC Schalke 04,winter,in,Klaas-Jan Huntelaar,4357,37,Netherlands,Centre-Forward,CF,800000.0,Ajax Amsterdam,Netherlands,0.0,0
+2020,Bundesliga,FC Schalke 04,winter,in,Shkodran Mustafi,88590,28,Germany,Centre-Back,CB,12000000.0,Arsenal FC,England,0.0,0
+2020,Bundesliga,FC Schalke 04,winter,in,Sead Kolasinac,94005,27,Bosnia-Herzegovina,Centre-Back,CB,8000000.0,Arsenal FC,England,0.0,1
+2020,Bundesliga,FC Schalke 04,winter,in,William,341710,25,Brazil,Right-Back,RB,10000000.0,VfL Wolfsburg,Germany,0.0,1
+2020,Bundesliga,FC Schalke 04,summer,out,Weston McKennie,332697,22,United States,Central Midfield,CM,20000000.0,Juventus FC,Italy,4500000.0,1
+2020,Bundesliga,FC Schalke 04,summer,out,Pablo Insua,171362,26,Spain,Centre-Back,CB,950000.0,SD Huesca,Spain,1000000.0,0
+2020,Bundesliga,FC Schalke 04,summer,out,Alexander Nübel,195778,23,Germany,Goalkeeper,GK,9500000.0,Bayern Munich,Germany,0.0,0
+2020,Bundesliga,FC Schalke 04,summer,out,Daniel Caligiuri,38410,32,Italy,Right Winger,RW,4000000.0,FC Augsburg,Germany,0.0,0
+2020,Bundesliga,FC Schalke 04,summer,out,Guido Burgstaller,49239,31,Austria,Centre-Forward,CF,1500000.0,FC St. Pauli,Germany,0.0,0
+2020,Bundesliga,FC Schalke 04,summer,out,Cedric Teuchert,207597,23,Germany,Centre-Forward,CF,1200000.0,1.FC Union Berlin,Germany,0.0,0
+2020,Bundesliga,FC Schalke 04,summer,out,Sebastian Rudy,57051,30,Germany,Defensive Midfield,DM,4500000.0,TSG 1899 Hoffenheim,Germany,0.0,1
+2020,Bundesliga,FC Schalke 04,summer,out,Markus Schubert,296741,22,Germany,Goalkeeper,GK,1800000.0,Eintracht Frankfurt,Germany,0.0,1
+2020,Bundesliga,FC Schalke 04,summer,out,Bernard Tekpetey,422380,22,Ghana,Right Winger,RW,1600000.0,Ludogorets Razgrad,Bulgaria,0.0,1
+2020,Bundesliga,FC Schalke 04,summer,out,Jonas Carls,239972,23,Germany,Left-Back,LB,400000.0,Vitória Guimarães SC,Portugal,0.0,1
+2020,Bundesliga,FC Schalke 04,summer,out,Juan Miranda,341227,20,Spain,Left-Back,LB,4000000.0,FC Barcelona,Spain,0.0,1
+2020,Bundesliga,FC Schalke 04,summer,out,Jean-Clair Todibo,605184,20,France,Centre-Back,CB,9000000.0,FC Barcelona,Spain,0.0,1
+2020,Bundesliga,FC Schalke 04,summer,out,Michael Gregoritsch,120205,26,Austria,Centre-Forward,CF,5500000.0,FC Augsburg,Germany,0.0,1
+2020,Bundesliga,FC Schalke 04,summer,out,Jonjoe Kenny,258883,23,England,Right-Back,RB,9500000.0,Everton FC,England,0.0,1
+2020,Bundesliga,FC Schalke 04,winter,out,Ozan Kabak,361260,20,Türkiye,Centre-Back,CB,25000000.0,Liverpool FC,England,2500000.0,1
+2020,Bundesliga,FC Schalke 04,winter,out,Rabbi Matondo,404384,20,Wales,Right Winger,RW,8000000.0,Stoke City,England,0.0,1
+2020,Bundesliga,FC Schalke 04,winter,out,Ahmed Kutucu,452084,20,Türkiye,Left Winger,LW,3500000.0,Heracles Almelo,Netherlands,0.0,1
+2020,Bundesliga,FC Schalke 04,winter,out,Vedad Ibisevic,21175,36,Bosnia-Herzegovina,Centre-Forward,CF,750000.0,Retired,,,0
+2020,Bundesliga,FC Schalke 04,winter,out,Nick Taitague,354313,21,United States,Attacking Midfield,AM,100000.0,Without Club,,,0
+2020,Bundesliga,Hertha BSC,summer,in,Jhon Córdoba,185245,27,Colombia,Centre-Forward,CF,12000000.0,1.FC Köln,Germany,15000000.0,0
+2020,Bundesliga,Hertha BSC,summer,in,Alexander Schwolow,93763,28,Germany,Goalkeeper,GK,7000000.0,SC Freiburg,Germany,7000000.0,0
+2020,Bundesliga,Hertha BSC,summer,in,Omar Alderete,353032,23,Paraguay,Centre-Back,CB,3000000.0,FC Basel 1893,Switzerland,4000000.0,0
+2020,Bundesliga,Hertha BSC,summer,in,Deyovaisio Zeefuik,338032,22,Suriname,Right-Back,RB,2700000.0,FC Groningen,Netherlands,4000000.0,0
+2020,Bundesliga,Hertha BSC,summer,in,Mattéo Guendouzi,465830,21,France,Central Midfield,CM,32000000.0,Arsenal FC,England,1000000.0,1
+2020,Bundesliga,Hertha BSC,winter,in,Nemanja Radonjić,245078,24,Serbia,Left Winger,LW,4500000.0,Olympique Marseille,France,250000.0,1
+2020,Bundesliga,Hertha BSC,winter,in,Sami Khedira,29401,33,Germany,Central Midfield,CM,2000000.0,Juventus FC,Italy,0.0,0
+2020,Bundesliga,Hertha BSC,summer,out,Ondrej Duda,232418,25,Slovakia,Central Midfield,CM,7000000.0,1.FC Köln,Germany,7000000.0,0
+2020,Bundesliga,Hertha BSC,summer,out,Karim Rekik,182579,25,Netherlands,Centre-Back,CB,8500000.0,Sevilla FC,Spain,2000000.0,0
+2020,Bundesliga,Hertha BSC,summer,out,Pascal Köpke,193877,24,Germany,Centre-Forward,CF,650000.0,1.FC Nuremberg,Germany,800000.0,0
+2020,Bundesliga,Hertha BSC,summer,out,Arne Maier,296397,21,Germany,Central Midfield,CM,13500000.0,Arminia Bielefeld,Germany,500000.0,1
+2020,Bundesliga,Hertha BSC,summer,out,Dennis Smarsch,342966,21,Germany,Goalkeeper,GK,350000.0,FC St. Pauli,Germany,150000.0,0
+2020,Bundesliga,Hertha BSC,summer,out,Vedad Ibisevic,21175,36,Bosnia-Herzegovina,Centre-Forward,CF,1200000.0,FC Schalke 04,Germany,0.0,0
+2020,Bundesliga,Hertha BSC,summer,out,Muhammed Kiprit,362746,21,Türkiye,Centre-Forward,CF,350000.0,KFC Uerdingen 05,Germany,0.0,0
+2020,Bundesliga,Hertha BSC,summer,out,Salomon Kalou,7971,34,Cote d'Ivoire,Left Winger,LW,1600000.0,Botafogo de Futebol e Regatas,Brazil,0.0,0
+2020,Bundesliga,Hertha BSC,summer,out,Per Ciljan Skjelbred,18918,33,Norway,Central Midfield,CM,1400000.0,Rosenborg BK,Norway,0.0,0
+2020,Bundesliga,Hertha BSC,summer,out,Alexander Esswein,45662,30,Germany,Centre-Forward,CF,800000.0,Without Club,,,0
+2020,Bundesliga,Hertha BSC,summer,out,Thomas Kraft,39732,31,Germany,Goalkeeper,GK,,Retired,,,0
+2020,Bundesliga,Hertha BSC,summer,out,Marius Wolf,193900,25,Germany,Right-Back,RB,6500000.0,Borussia Dortmund,Germany,0.0,1
+2020,Bundesliga,Hertha BSC,summer,out,Marko Grujić,222813,24,Serbia,Defensive Midfield,DM,14500000.0,Liverpool FC,England,0.0,1
+2020,Bundesliga,Hertha BSC,winter,out,Dennis Jastrzembski,358870,20,Germany,Centre-Forward,CF,600000.0,SV Waldhof Mannheim,Germany,0.0,1
+2020,Bundesliga,RB Leipzig,summer,in,Alexander Sørloth,238407,24,Norway,Centre-Forward,CF,20000000.0,Crystal Palace,England,20000000.0,0
+2020,Bundesliga,RB Leipzig,summer,in,Hee-chan Hwang,292246,24,"Korea, South",Centre-Forward,CF,10000000.0,Red Bull Salzburg,Austria,12000000.0,0
+2020,Bundesliga,RB Leipzig,summer,in,Josep Martínez,388516,22,Spain,Goalkeeper,GK,2300000.0,UD Las Palmas,Spain,2500000.0,0
+2020,Bundesliga,RB Leipzig,summer,in,Justin Kluivert,330659,21,Netherlands,Attacking Midfield,AM,20000000.0,AS Roma,Italy,1000000.0,1
+2020,Bundesliga,RB Leipzig,summer,in,Lazar Samardžić,528833,18,Serbia,Attacking Midfield,AM,1500000.0,Hertha BSC U19,Germany,500000.0,0
+2020,Bundesliga,RB Leipzig,summer,in,Benjamin Henrichs,202591,23,Germany,Right-Back,RB,12000000.0,AS Monaco,France,0.0,1
+2020,Bundesliga,RB Leipzig,winter,in,Dominik Szoboszlai,451276,20,Hungary,Attacking Midfield,AM,25000000.0,Red Bull Salzburg,Austria,36000000.0,0
+2020,Bundesliga,RB Leipzig,summer,out,Timo Werner,170527,24,Germany,Left Winger,LW,64000000.0,Chelsea FC,England,53000000.0,0
+2020,Bundesliga,RB Leipzig,summer,out,Jean-Kévin Augustin,264956,23,France,Centre-Forward,CF,9500000.0,Leeds United,England,21000000.0,0
+2020,Bundesliga,RB Leipzig,summer,out,Ademola Lookman,406040,22,Nigeria,Second Striker,SS,10000000.0,Fulham FC,England,2000000.0,1
+2020,Bundesliga,RB Leipzig,summer,out,Hannes Wolf,321070,21,Austria,Right Winger,RW,11000000.0,Borussia Mönchengladbach,Germany,1500000.0,1
+2020,Bundesliga,RB Leipzig,summer,out,Malik Talabidi,508961,19,Germany,Centre-Back,CB,150000.0,FC Wil 1900,Switzerland,,0
+2020,Bundesliga,RB Leipzig,summer,out,Frederik Jäkel,405679,19,Germany,Centre-Back,CB,150000.0,KV Oostende (-2024),Belgium,0.0,1
+2020,Bundesliga,RB Leipzig,summer,out,Tom Krauß,405687,19,Germany,Central Midfield,CM,300000.0,1.FC Nuremberg,Germany,0.0,1
+2020,Bundesliga,RB Leipzig,summer,out,Yvon Mvogo,147051,26,Switzerland,Goalkeeper,GK,2400000.0,PSV Eindhoven,Netherlands,0.0,1
+2020,Bundesliga,RB Leipzig,summer,out,Ethan Ampadu,392771,19,Wales,Defensive Midfield,DM,9000000.0,Chelsea FC,England,0.0,1
+2020,Bundesliga,RB Leipzig,summer,out,Patrik Schick,242086,24,Czech Republic,Centre-Forward,CF,25000000.0,AS Roma,Italy,0.0,1
+2020,Bundesliga,RB Leipzig,winter,out,Eric Martel,597000,18,Germany,Defensive Midfield,DM,,Austria Vienna,Austria,0.0,1
+2020,Bundesliga,RB Leipzig,winter,out,Dennis Borkowski,467426,19,Germany,Right Winger,RW,300000.0,1.FC Nuremberg,Germany,0.0,1
+2020,Bundesliga,RB Leipzig,winter,out,Tim Schreiber,426685,18,Germany,Goalkeeper,GK,100000.0,Hallescher FC,Germany,0.0,1
+2020,Bundesliga,SC Freiburg,summer,in,Baptiste Santamaria,285323,25,France,Defensive Midfield,DM,7000000.0,Angers SCO,France,10000000.0,0
+2020,Bundesliga,SC Freiburg,summer,in,Ermedin Demirovic,335457,22,Bosnia-Herzegovina,Centre-Forward,CF,3000000.0,Deportivo Alavés,Spain,3700000.0,0
+2020,Bundesliga,SC Freiburg,summer,in,Guus Til,372267,22,Netherlands,Attacking Midfield,AM,8500000.0,Spartak Moscow,Russia,450000.0,1
+2020,Bundesliga,SC Freiburg,summer,in,Florian Müller,284769,22,Germany,Goalkeeper,GK,4000000.0,1.FSV Mainz 05,Germany,200000.0,1
+2020,Bundesliga,SC Freiburg,summer,in,Benjamin Uphoff,120296,26,Germany,Goalkeeper,GK,475000.0,Karlsruher SC,Germany,0.0,0
+2020,Bundesliga,SC Freiburg,summer,out,Luca Waldschmidt,196095,24,Germany,Centre-Forward,CF,16000000.0,SL Benfica,Portugal,15000000.0,0
+2020,Bundesliga,SC Freiburg,summer,out,Robin Koch,328784,24,Germany,Centre-Back,CB,17000000.0,Leeds United,England,13000000.0,0
+2020,Bundesliga,SC Freiburg,summer,out,Alexander Schwolow,93763,28,Germany,Goalkeeper,GK,7000000.0,Hertha BSC,Germany,7000000.0,0
+2020,Bundesliga,SC Freiburg,summer,out,Pascal Stenzel,195246,24,Germany,Right-Back,RB,2400000.0,VfB Stuttgart,Germany,1300000.0,0
+2020,Bundesliga,SC Freiburg,summer,out,Mohamed Dräger,192167,24,Tunisia,Right-Back,RB,1600000.0,Olympiacos Piraeus,Greece,1000000.0,0
+2020,Bundesliga,SC Freiburg,summer,out,Jérôme Gondorf,77108,32,Germany,Defensive Midfield,DM,600000.0,Karlsruher SC,Germany,500000.0,0
+2020,Bundesliga,SC Freiburg,summer,out,Christoph Daferner,324851,22,Germany,Centre-Forward,CF,300000.0,SG Dynamo Dresden,Germany,150000.0,0
+2020,Bundesliga,SC Freiburg,summer,out,Yoric Ravet,82461,30,France,Right Winger,RW,725000.0,Grenoble Foot 38,France,0.0,0
+2020,Bundesliga,SC Freiburg,summer,out,Mike Frantz,30942,33,Germany,Defensive Midfield,DM,650000.0,Hannover 96,Germany,0.0,0
+2020,Bundesliga,SC Freiburg,summer,out,Chima Okoroji,284035,23,Germany,Left-Back,LB,1000000.0,SC Paderborn 07,Germany,0.0,1
+2020,Bundesliga,SC Freiburg,summer,out,Marco Terrazzino,67869,29,Germany,Second Striker,SS,750000.0,Without Club,,,0
+2020,Bundesliga,SC Freiburg,summer,out,Constantin Frommann,274989,22,Germany,Goalkeeper,GK,150000.0,Without Club,,,0
+2020,Bundesliga,SC Freiburg,summer,out,Brandon Borrello,293592,25,Australia,Centre-Forward,CF,950000.0,Fortuna Düsseldorf,Germany,0.0,1
+2020,Bundesliga,SC Freiburg,summer,out,Nico Schlotterbeck,388198,20,Germany,Centre-Back,CB,4000000.0,1.FC Union Berlin,Germany,0.0,1
+2020,Bundesliga,SC Freiburg,summer,out,Florian Kath,218011,25,Germany,Left Winger,LW,400000.0,1.FC Magdeburg,Germany,0.0,1
+2020,Bundesliga,SC Freiburg,winter,out,Luca Itter,296378,22,Germany,Centre-Back,CB,1800000.0,SpVgg Greuther Fürth,Germany,0.0,1
+2020,Bundesliga,SC Freiburg,winter,out,Amir Abrashi,66005,30,Albania,Defensive Midfield,DM,1000000.0,FC Basel 1893,Switzerland,0.0,1
+2020,Bundesliga,SV Werder Bremen,summer,in,Leonardo Bittencourt,93844,26,Germany,Central Midfield,CM,4800000.0,TSG 1899 Hoffenheim,Germany,7000000.0,0
+2020,Bundesliga,SV Werder Bremen,summer,in,Ömer Toprak,43512,30,Türkiye,Centre-Back,CB,3500000.0,Borussia Dortmund,Germany,4000000.0,0
+2020,Bundesliga,SV Werder Bremen,summer,in,Felix Agu,393512,20,Nigeria,Left-Back,LB,1800000.0,VfL Osnabrück,Germany,0.0,0
+2020,Bundesliga,SV Werder Bremen,summer,in,Oscar Schönfelder,455933,19,Germany,Left-Back,LB,,1.FSV Mainz 05 U19,Germany,0.0,0
+2020,Bundesliga,SV Werder Bremen,summer,in,Patrick Erras,193859,25,Germany,Centre-Back,CB,1200000.0,1.FC Nuremberg,Germany,0.0,0
+2020,Bundesliga,SV Werder Bremen,summer,in,Tahith Chong,344830,20,Curacao,Attacking Midfield,AM,6300000.0,Manchester United,England,0.0,1
+2020,Bundesliga,SV Werder Bremen,summer,out,Davy Klaassen,182932,27,Netherlands,Central Midfield,CM,12000000.0,Ajax Amsterdam,Netherlands,11700000.0,0
+2020,Bundesliga,SV Werder Bremen,summer,out,Martin Harnik,31159,33,Austria,Centre-Forward,CF,,TuS Dassendorf,Germany,0.0,0
+2020,Bundesliga,SV Werder Bremen,summer,out,Nuri Şahin,31095,31,Türkiye,Defensive Midfield,DM,1200000.0,Antalyaspor,Türkiye,0.0,0
+2020,Bundesliga,SV Werder Bremen,summer,out,Fin Bartels,36207,33,Germany,Right Winger,RW,800000.0,Holstein Kiel,Germany,0.0,0
+2020,Bundesliga,SV Werder Bremen,summer,out,Felix Beijmo,322293,22,Sweden,Right Midfield,RM,1000000.0,Malmö FF,Sweden,,0
+2020,Bundesliga,SV Werder Bremen,summer,out,Benjamin Goller,388058,21,Germany,Right Winger,RW,725000.0,Karlsruher SC,Germany,0.0,1
+2020,Bundesliga,SV Werder Bremen,summer,out,Johannes Eggestein,251303,22,Germany,Centre-Forward,CF,2000000.0,LASK,Austria,0.0,1
+2020,Bundesliga,SV Werder Bremen,summer,out,Thore Jacobsen,236986,23,Germany,Defensive Midfield,DM,275000.0,1.FC Magdeburg,Germany,0.0,1
+2020,Bundesliga,SV Werder Bremen,summer,out,Luca Plogmann,335997,20,Germany,Goalkeeper,GK,450000.0,SV Meppen,Germany,0.0,1
+2020,Bundesliga,SV Werder Bremen,summer,out,Niklas Beste,342967,21,Germany,Right Winger,RW,350000.0,SSV Jahn Regensburg,Germany,0.0,1
+2020,Bundesliga,SV Werder Bremen,summer,out,Philipp Bargfrede,42033,31,Germany,Defensive Midfield,DM,1200000.0,Without Club,,,0
+2020,Bundesliga,SV Werder Bremen,summer,out,Sebastian Langkamp,39094,32,Germany,Centre-Back,CB,800000.0,Without Club,,,0
+2020,Bundesliga,SV Werder Bremen,summer,out,Claudio Pizarro,532,41,Peru,Centre-Forward,CF,400000.0,Retired,,,0
+2020,Bundesliga,SV Werder Bremen,summer,out,Simon Straudi,379879,21,Italy,Right-Back,RB,200000.0,SK Austria Klagenfurt,Austria,0.0,1
+2020,Bundesliga,SV Werder Bremen,summer,out,Kevin Vogt,84435,28,Germany,Centre-Back,CB,8000000.0,TSG 1899 Hoffenheim,Germany,0.0,1
+2020,Bundesliga,SV Werder Bremen,summer,out,Leonardo Bittencourt,93844,26,Germany,Central Midfield,CM,4800000.0,TSG 1899 Hoffenheim,Germany,0.0,1
+2020,Bundesliga,SV Werder Bremen,summer,out,Michael Lang,51346,29,Switzerland,Right-Back,RB,950000.0,Borussia Mönchengladbach,Germany,0.0,1
+2020,Bundesliga,SV Werder Bremen,summer,out,Ömer Toprak,43512,30,Türkiye,Centre-Back,CB,3500000.0,Borussia Dortmund,Germany,0.0,1
+2020,Bundesliga,SV Werder Bremen,winter,out,Stefanos Kapino,68410,26,Greece,Goalkeeper,GK,800000.0,SV Sandhausen,Germany,0.0,1
+2020,Bundesliga,SV Werder Bremen,winter,out,Maik Nawrocki,407745,20,Poland,Centre-Back,CB,175000.0,Warta Poznan,Poland,0.0,1
+2020,Bundesliga,SV Werder Bremen,winter,out,Tahith Chong,344830,21,Curacao,Attacking Midfield,AM,6300000.0,Manchester United,England,0.0,1
+2020,Bundesliga,TSG 1899 Hoffenheim,summer,in,Mijat Gacinovic,215864,25,Serbia,Attacking Midfield,AM,7000000.0,Eintracht Frankfurt,Germany,3000000.0,0
+2020,Bundesliga,TSG 1899 Hoffenheim,summer,in,Sebastian Rudy,57051,30,Germany,Defensive Midfield,DM,4500000.0,FC Schalke 04,Germany,0.0,1
+2020,Bundesliga,TSG 1899 Hoffenheim,summer,in,Ryan Sessegnon,392775,20,England,Left-Back,LB,25000000.0,Tottenham Hotspur,England,0.0,1
+2020,Bundesliga,TSG 1899 Hoffenheim,winter,in,Georginio Rutter,538977,18,France,Centre-Forward,CF,1500000.0,Stade Rennais FC,France,750000.0,0
+2020,Bundesliga,TSG 1899 Hoffenheim,winter,in,Chris Richards,578539,20,United States,Centre-Back,CB,5000000.0,Bayern Munich,Germany,250000.0,1
+2020,Bundesliga,TSG 1899 Hoffenheim,summer,out,Gregor Kobel,257814,22,Switzerland,Goalkeeper,GK,4000000.0,VfB Stuttgart,Germany,7200000.0,0
+2020,Bundesliga,TSG 1899 Hoffenheim,summer,out,Leonardo Bittencourt,93844,26,Germany,Central Midfield,CM,4800000.0,SV Werder Bremen,Germany,7000000.0,0
+2020,Bundesliga,TSG 1899 Hoffenheim,summer,out,Steven Zuber,68033,28,Switzerland,Attacking Midfield,AM,4500000.0,Eintracht Frankfurt,Germany,3000000.0,0
+2020,Bundesliga,TSG 1899 Hoffenheim,summer,out,Michael Esser,61989,32,Germany,Goalkeeper,GK,400000.0,Hannover 96,Germany,0.0,0
+2020,Bundesliga,TSG 1899 Hoffenheim,summer,out,Felipe Pires,327911,25,Brazil,Attacking Midfield,AM,725000.0,Moreirense FC,Portugal,,0
+2020,Bundesliga,TSG 1899 Hoffenheim,summer,out,Lucas Ribeiro,605893,21,Brazil,Centre-Back,CB,2300000.0,Sport Club Internacional,Brazil,0.0,1
+2020,Bundesliga,TSG 1899 Hoffenheim,summer,out,Sebastian Rudy,57051,30,Germany,Defensive Midfield,DM,5200000.0,FC Schalke 04,Germany,0.0,1
+2020,Bundesliga,TSG 1899 Hoffenheim,winter,out,João Klauss,498862,23,Brazil,Centre-Forward,CF,2000000.0,Standard Liège,Belgium,550000.0,1
+2020,Bundesliga,TSG 1899 Hoffenheim,winter,out,David Otto,362184,21,Germany,Centre-Forward,CF,800000.0,SSV Jahn Regensburg,Germany,0.0,1
+2020,Bundesliga,TSG 1899 Hoffenheim,winter,out,Jacob Bruun Larsen,293281,22,Denmark,Left Winger,LW,8000000.0,RSC Anderlecht,Belgium,0.0,1
+2020,Bundesliga,TSG 1899 Hoffenheim,winter,out,Bruno Nazário,250010,26,Brazil,Attacking Midfield,AM,750000.0,América Futebol Clube (MG),Brazil,0.0,1
+2020,Bundesliga,VfB Stuttgart,summer,in,Gregor Kobel,257814,22,Switzerland,Goalkeeper,GK,4000000.0,TSG 1899 Hoffenheim,Germany,7200000.0,0
+2020,Bundesliga,VfB Stuttgart,summer,in,Waldemar Anton,193004,24,Germany,Centre-Back,CB,5500000.0,Hannover 96,Germany,4000000.0,0
+2020,Bundesliga,VfB Stuttgart,summer,in,Wataru Endo,146310,27,Japan,Defensive Midfield,DM,1600000.0,Sint-Truidense VV,Belgium,1700000.0,0
+2020,Bundesliga,VfB Stuttgart,summer,in,Pascal Stenzel,195246,24,Germany,Right-Back,RB,2400000.0,SC Freiburg,Germany,1300000.0,0
+2020,Bundesliga,VfB Stuttgart,summer,in,Konstantinos Mavropanos,415912,22,Greece,Centre-Back,CB,2400000.0,Arsenal FC,England,750000.0,1
+2020,Bundesliga,VfB Stuttgart,summer,in,Momo Cissé,768384,17,Guinea,Left Winger,LW,,AC Le Havre B,France,0.0,0
+2020,Bundesliga,VfB Stuttgart,summer,in,Naouirou Ahamada,538971,18,France,Central Midfield,CM,,Juventus U23,Italy,0.0,1
+2020,Bundesliga,VfB Stuttgart,summer,out,Anastasios Donis,243606,23,Greece,Left Winger,LW,2000000.0,Stade Reims,France,4000000.0,0
+2020,Bundesliga,VfB Stuttgart,summer,out,Chadrac Akolo,247459,25,DR Congo,Centre-Forward,CF,1600000.0,Amiens SC,France,3500000.0,0
+2020,Bundesliga,VfB Stuttgart,summer,out,David Kopacz,317739,21,Poland,Attacking Midfield,AM,250000.0,Würzburger Kickers,Germany,0.0,0
+2020,Bundesliga,VfB Stuttgart,summer,out,Pablo Maffeo,251876,23,Argentina,Right-Back,RB,2400000.0,SD Huesca,Spain,0.0,1
+2020,Bundesliga,VfB Stuttgart,summer,out,Nikolas Nartey,400546,20,Denmark,Central Midfield,CM,450000.0,SV Sandhausen,Germany,0.0,1
+2020,Bundesliga,VfB Stuttgart,summer,out,Mario Gómez,6288,34,Germany,Centre-Forward,CF,,Retired,,,0
+2020,Bundesliga,VfB Stuttgart,summer,out,Nat Phillips,371814,23,England,Centre-Back,CB,800000.0,Liverpool FC,England,0.0,1
+2020,Bundesliga,VfB Stuttgart,summer,out,Wataru Endo,146310,27,Japan,Defensive Midfield,DM,1600000.0,Sint-Truidense VV,Belgium,0.0,1
+2020,Bundesliga,VfB Stuttgart,summer,out,Gregor Kobel,257814,22,Switzerland,Goalkeeper,GK,4000000.0,TSG 1899 Hoffenheim,Germany,0.0,1
+2020,Bundesliga,VfB Stuttgart,summer,out,Pascal Stenzel,195246,24,Germany,Right-Back,RB,2400000.0,SC Freiburg,Germany,0.0,1
+2020,Bundesliga,VfB Stuttgart,winter,out,Aílton,283863,25,Brazil,Left-Back,LB,900000.0,FC Midtjylland,Denmark,0.0,0
+2020,Bundesliga,VfB Stuttgart,winter,out,Maxime Awoudja,312218,22,Germany,Centre-Back,CB,500000.0,Türkgücü München,Germany,0.0,1
+2020,Bundesliga,VfL Wolfsburg,summer,in,Ridle Baku,327251,22,Germany,Right-Back,RB,7000000.0,1.FSV Mainz 05,Germany,10000000.0,0
+2020,Bundesliga,VfL Wolfsburg,summer,in,Bartosz Bialek,535551,18,Poland,Centre-Forward,CF,3000000.0,Zaglebie Lubin,Poland,5000000.0,0
+2020,Bundesliga,VfL Wolfsburg,summer,in,Maxence Lacroix,434224,20,France,Centre-Back,CB,1000000.0,FC Sochaux-Montbéliard,France,5000000.0,0
+2020,Bundesliga,VfL Wolfsburg,summer,in,Maximilian Philipp,143891,26,Germany,Second Striker,SS,11000000.0,Dynamo Moscow,Russia,2000000.0,1
+2020,Bundesliga,VfL Wolfsburg,summer,out,Felix Uduokhai,278343,22,Germany,Centre-Back,CB,6800000.0,FC Augsburg,Germany,7000000.0,0
+2020,Bundesliga,VfL Wolfsburg,summer,out,Marcel Tisserand,170463,27,DR Congo,Centre-Back,CB,6000000.0,Fenerbahce,Türkiye,4000000.0,0
+2020,Bundesliga,VfL Wolfsburg,summer,out,Paul-Georges Ntep,148955,27,Cameroon,Left Winger,LW,475000.0,EA Guingamp,France,0.0,0
+2020,Bundesliga,VfL Wolfsburg,summer,out,Robin Knoche,94201,28,Germany,Centre-Back,CB,6500000.0,1.FC Union Berlin,Germany,0.0,0
+2020,Bundesliga,VfL Wolfsburg,summer,out,Phillip Menzel,284346,21,Germany,Goalkeeper,GK,150000.0,SK Austria Klagenfurt,Austria,,0
+2020,Bundesliga,VfL Wolfsburg,summer,out,John Yeboah,439914,20,Ecuador,Attacking Midfield,AM,575000.0,Willem II Tilburg,Netherlands,,0
+2020,Bundesliga,VfL Wolfsburg,summer,out,Marvin Stefaniak,196421,25,Germany,Left Winger,LW,400000.0,SG Dynamo Dresden,Germany,0.0,1
+2020,Bundesliga,VfL Wolfsburg,summer,out,Ismail Azzaoui,289507,22,Belgium,Attacking Midfield,AM,350000.0,Without Club,,,0
+2020,Bundesliga,VfL Wolfsburg,summer,out,Ignacio Camacho,58874,30,Spain,Defensive Midfield,DM,,Retired,,,0
+2020,Bundesliga,VfL Wolfsburg,winter,out,Omar Marmoush,445939,21,Egypt,Centre-Forward,CF,400000.0,FC St. Pauli,Germany,100000.0,1
+2020,Bundesliga,VfL Wolfsburg,winter,out,Yunus Mallı,85352,28,Türkiye,Central Midfield,CM,2800000.0,Trabzonspor,Türkiye,0.0,0
+2020,Bundesliga,VfL Wolfsburg,winter,out,Felix Klaus,89591,28,Germany,Right Midfield,RM,2000000.0,Fortuna Düsseldorf,Germany,0.0,1
+2020,Bundesliga,VfL Wolfsburg,winter,out,William,341710,25,Brazil,Right-Back,RB,10000000.0,FC Schalke 04,Germany,0.0,1
