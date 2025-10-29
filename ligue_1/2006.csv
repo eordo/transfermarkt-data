@@ -1,0 +1,510 @@
+season,league,club,window,movement,player_name,player_id,age,nationality,position,pos,market_value,dealing_club,dealing_country,fee,is_loan
+2006,Ligue 1,AJ Auxerre,summer,in,Benoît Pedretti,5406,25,France,Defensive Midfield,DM,6000000.0,Olympique Lyon,France,5000000.0,0
+2006,Ligue 1,AJ Auxerre,summer,in,Frédéric Thomas,23979,25,France,Central Midfield,CM,4000000.0,Le Mans Union Club 72,France,4000000.0,0
+2006,Ligue 1,AJ Auxerre,summer,in,Daniel Niculae,34512,23,Romania,Centre-Forward,CF,3300000.0,Rapid Bucharest ,Romania,3300000.0,0
+2006,Ligue 1,AJ Auxerre,summer,in,Ireneusz Jeleń,16951,25,Poland,Centre-Forward,CF,2300000.0,Wisla Plock,Poland,900000.0,0
+2006,Ligue 1,AJ Auxerre,summer,in,Anthony Basso,26749,26,France,Goalkeeper,GK,,Viking FK,Norway,0.0,0
+2006,Ligue 1,AJ Auxerre,summer,in,Issa Ba,21160,24,Senegal,Central Midfield,CM,1200000.0,LB Châteauroux,France,0.0,0
+2006,Ligue 1,AJ Auxerre,summer,in,Moussa N'Diaye,17690,27,Senegal,Right Winger,RW,1500000.0,FC Istres Ouest Provence ,France,,0
+2006,Ligue 1,AJ Auxerre,winter,in,Olivier Sorin,28348,25,France,Goalkeeper,GK,200000.0,AS Nancy-Lorraine,France,1300000.0,0
+2006,Ligue 1,AJ Auxerre,summer,out,Yann Lachuer,5429,33,France,Attacking Midfield,AM,2000000.0,ESTAC Troyes,France,0.0,0
+2006,Ligue 1,AJ Auxerre,summer,out,Baptiste Chabert,5414,23,France,Goalkeeper,GK,350000.0,FC Béziers Méditerranée,France,0.0,0
+2006,Ligue 1,AJ Auxerre,summer,out,Richard Suriano,26765,24,France,Right-Back,RB,250000.0,FC Istres Ouest Provence ,France,0.0,0
+2006,Ligue 1,AJ Auxerre,summer,out,Sébastien Hamel,5416,30,France,Goalkeeper,GK,500000.0,Olympique Marseille,France,0.0,0
+2006,Ligue 1,AJ Auxerre,summer,out,Pierre Vignaud,26762,23,France,Left-Back,LB,300000.0,FC Rouen 1899,France,0.0,0
+2006,Ligue 1,AJ Auxerre,summer,out,Mamoutou Coulibaly,12183,22,Mali,Centre-Back,CB,250000.0,FC Istres Ouest Provence ,France,0.0,0
+2006,Ligue 1,AJ Auxerre,summer,out,Romain Poyet,5440,25,France,Right Winger,RW,500000.0,Dijon FCO,France,0.0,0
+2006,Ligue 1,AJ Auxerre,summer,out,Michaël Ciani,12906,22,France,Centre-Back,CB,500000.0,FC Lorient,France,0.0,1
+2006,Ligue 1,AJ Auxerre,summer,out,Benoît Tardieu,11944,20,Benin,Goalkeeper,GK,100000.0,Clermont Foot Auvergne,France,0.0,1
+2006,Ligue 1,AJ Auxerre,summer,out,Philippe Violeau,5355,35,France,Defensive Midfield,DM,400000.0,Retired,,,0
+2006,Ligue 1,AJ Auxerre,summer,out,Péguy Luyindula,3916,27,France,Centre-Forward,CF,8000000.0,Olympique Marseille,France,0.0,1
+2006,Ligue 1,AJ Auxerre,summer,out,Mathieu Berson,5508,26,France,Defensive Midfield,DM,3500000.0,Aston Villa,England,0.0,1
+2006,Ligue 1,AJ Auxerre,winter,out,Luigi Pieroni,13349,26,Belgium,Centre-Forward,CF,4000000.0,FC Nantes,France,2500000.0,0
+2006,Ligue 1,AJ Auxerre,winter,out,Oumar Kalabane,31758,25,Guinea,Centre-Back,CB,850000.0,Manisaspor,Türkiye,2000000.0,0
+2006,Ligue 1,AJ Auxerre,winter,out,Rene Bolf,15314,32,Czech Republic,Centre-Back,CB,1500000.0,FC Banik Ostrava,Czech Republic,0.0,0
+2006,Ligue 1,AJ Auxerre,winter,out,Hassan Yebda,12351,22,Algeria,Central Midfield,CM,250000.0,Le Mans Union Club 72,France,0.0,0
+2006,Ligue 1,AJ Auxerre,winter,out,Krisztián Vadócz,34116,21,Hungary,Central Midfield,CM,350000.0,Motherwell FC,Scotland,0.0,1
+2006,Ligue 1,AS Monaco,summer,in,Yaya Touré,13091,23,Cote d'Ivoire,Central Midfield,CM,8000000.0,Olympiacos Piraeus,Greece,5500000.0,0
+2006,Ligue 1,AS Monaco,summer,in,Jérémy Ménez,16993,19,France,Centre-Forward,CF,3500000.0,FC Sochaux-Montbéliard,France,3500000.0,0
+2006,Ligue 1,AS Monaco,summer,in,Gonzalo Vargas,30830,24,Uruguay,Centre-Forward,CF,450000.0,Club de Gimnasia y Esgrima La Plata,Argentina,3000000.0,0
+2006,Ligue 1,AS Monaco,summer,in,Bolívar,27366,25,Brazil,Centre-Back,CB,,Sport Club Internacional,Brazil,3000000.0,0
+2006,Ligue 1,AS Monaco,summer,in,Leandro Cufré,5945,28,Argentina,Left-Back,LB,4000000.0,AS Roma,Italy,2100000.0,0
+2006,Ligue 1,AS Monaco,summer,in,Sylvain Monsoreau,5393,25,France,Centre-Back,CB,4000000.0,Olympique Lyon,France,1500000.0,0
+2006,Ligue 1,AS Monaco,summer,in,Yannick Quesnel,14360,32,France,Goalkeeper,GK,300000.0,SL Benfica,Portugal,0.0,0
+2006,Ligue 1,AS Monaco,summer,in,Marco Di Vaio,4170,29,Italy,Centre-Forward,CF,8000000.0,Valencia CF,Spain,0.0,0
+2006,Ligue 1,AS Monaco,summer,in,Jan Koller,1157,33,Czech Republic,Centre-Forward,CF,6500000.0,Borussia Dortmund,Germany,0.0,0
+2006,Ligue 1,AS Monaco,summer,in,Jerko Leko,9799,26,Croatia,Defensive Midfield,DM,5000000.0,Dynamo Kyiv,Ukraine,0.0,0
+2006,Ligue 1,AS Monaco,winter,in,Juan Pablo Pino,46809,19,Colombia,Right Winger,RW,,Independiente Medellín,Colombia,3000000.0,0
+2006,Ligue 1,AS Monaco,winter,in,Frédéric Piquionne,5683,28,Martinique,Centre-Forward,CF,8000000.0,AS Saint-Étienne,France,1000000.0,1
+2006,Ligue 1,AS Monaco,summer,out,Javier Chevantón,6420,25,Uruguay,Centre-Forward,CF,7000000.0,Sevilla FC,Spain,8900000.0,0
+2006,Ligue 1,AS Monaco,summer,out,Maicon,18301,24,Brazil,Right-Back,RB,7000000.0,Inter Milan,Italy,6800000.0,0
+2006,Ligue 1,AS Monaco,summer,out,Sébastien Squillaci,5293,25,France,Centre-Back,CB,7500000.0,Olympique Lyon,France,4500000.0,0
+2006,Ligue 1,AS Monaco,summer,out,Toifilou Maoulida,5680,27,France,Centre-Forward,CF,2500000.0,Olympique Marseille,France,1000000.0,0
+2006,Ligue 1,AS Monaco,summer,out,Jimmy Juan,14849,23,France,Central Midfield,CM,750000.0,Grenoble Foot 38,France,750000.0,0
+2006,Ligue 1,AS Monaco,summer,out,David Gigliotti,28511,21,France,Centre-Forward,CF,800000.0,ESTAC Troyes,France,300000.0,1
+2006,Ligue 1,AS Monaco,summer,out,Nicolas Maurice-Belay,16591,21,France,Left Midfield,LM,600000.0,CS Sedan-Ardennes,France,150000.0,1
+2006,Ligue 1,AS Monaco,summer,out,Olivier Veigneau,31773,21,France,Left-Back,LB,1500000.0,OGC Nice,France,150000.0,1
+2006,Ligue 1,AS Monaco,summer,out,Akis Zikos,5302,32,Greece,Defensive Midfield,DM,3000000.0,AEK Athens,Greece,0.0,0
+2006,Ligue 1,AS Monaco,summer,out,Christian Vieri,5797,32,Italy,Centre-Forward,CF,8000000.0,UC Sampdoria,Italy,0.0,0
+2006,Ligue 1,AS Monaco,summer,out,Marko Muslin,19717,21,France,Defensive Midfield,DM,150000.0,Lierse SK (-2018),Belgium,0.0,0
+2006,Ligue 1,AS Monaco,summer,out,Éric Cubilier,5284,26,France,Right-Back,RB,1000000.0,FC Nantes,France,0.0,0
+2006,Ligue 1,AS Monaco,summer,out,Laurent Lanteri,14850,21,France,Right Winger,RW,75000.0,FC Metz,France,0.0,1
+2006,Ligue 1,AS Monaco,summer,out,Arnaud Lescure,16590,20,France,Centre-Back,CB,400000.0,Sporting Toulon Var,France,0.0,1
+2006,Ligue 1,AS Monaco,summer,out,André Biancarelli,9092,36,France,Goalkeeper,GK,,Retired,,,0
+2006,Ligue 1,AS Monaco,summer,out,Marco Di Vaio,4170,29,Italy,Centre-Forward,CF,8000000.0,Valencia CF,Spain,0.0,1
+2006,Ligue 1,AS Monaco,summer,out,Olivier Kapo,5438,25,France,Attacking Midfield,AM,4000000.0,Juventus FC,Italy,0.0,1
+2006,Ligue 1,AS Monaco,winter,out,Marco Di Vaio,4170,30,Italy,Centre-Forward,CF,4500000.0,Genoa CFC,Italy,2000000.0,0
+2006,Ligue 1,AS Monaco,winter,out,Yannick Quesnel,14360,33,France,Goalkeeper,GK,300000.0,California Vulcans (University of Pennsylvania),United States,0.0,0
+2006,Ligue 1,AS Monaco,winter,out,Thomas Mangani,18934,19,France,Central Midfield,CM,200000.0,Stade Brestois 29,France,0.0,1
+2006,Ligue 1,AS Monaco,winter,out,Alexandre Licata,37810,22,France,Centre-Forward,CF,200000.0,FC Gueugnon,France,0.0,1
+2006,Ligue 1,AS Monaco,winter,out,Sébastien Grax,9239,22,France,Centre-Forward,CF,1200000.0,FC Sochaux-Montbéliard,France,0.0,1
+2006,Ligue 1,AS Nancy-Lorraine,summer,in,Tosin Dosunmu,13303,25,Nigeria,Right Winger,RW,2500000.0,Austria Vienna,Austria,1500000.0,0
+2006,Ligue 1,AS Nancy-Lorraine,summer,in,Issiar Dia,43942,19,Senegal,Right Winger,RW,,Amiens SC,France,1300000.0,0
+2006,Ligue 1,AS Nancy-Lorraine,summer,in,Damián Macaluso,25498,26,Uruguay,Centre-Back,CB,300000.0,US Sambenedettese,Italy,300000.0,0
+2006,Ligue 1,AS Nancy-Lorraine,summer,in,David Sauget,19045,26,France,Left-Back,LB,500000.0,SC Bastia,France,0.0,0
+2006,Ligue 1,AS Nancy-Lorraine,winter,in,Marc-Antoine Fortuné,5652,25,French Guiana,Centre-Forward,CF,450000.0,FC Utrecht,Netherlands,2300000.0,0
+2006,Ligue 1,AS Nancy-Lorraine,winter,in,Youssouf Hadji,5345,26,Morocco,Centre-Forward,CF,1800000.0,Stade Rennais FC,France,1600000.0,0
+2006,Ligue 1,AS Nancy-Lorraine,winter,in,Damien Grégorini,5309,27,France,Goalkeeper,GK,1000000.0,OGC Nice,France,800000.0,0
+2006,Ligue 1,AS Nancy-Lorraine,summer,out,Manuel da Costa,37398,20,Morocco,Centre-Back,CB,500000.0,PSV Eindhoven,Netherlands,1500000.0,0
+2006,Ligue 1,AS Nancy-Lorraine,summer,out,Thomas Hym,90858,18,France,Goalkeeper,GK,,CSO Amnéville,France,0.0,0
+2006,Ligue 1,AS Nancy-Lorraine,summer,out,Elie Kroupi,16232,26,Cote d'Ivoire,Centre-Forward,CF,1900000.0,Al-Wahda FC,United Arab Emirates,0.0,1
+2006,Ligue 1,AS Nancy-Lorraine,winter,out,Olivier Sorin,28348,25,France,Goalkeeper,GK,200000.0,AJ Auxerre,France,1300000.0,0
+2006,Ligue 1,AS Nancy-Lorraine,winter,out,Tosin Dosunmu,13303,26,Nigeria,Right Winger,RW,1700000.0,Zulte Waregem,Belgium,0.0,1
+2006,Ligue 1,AS Saint-Étienne,summer,in,Ilan,17244,25,Brazil,Centre-Forward,CF,5000000.0,FC Sochaux-Montbéliard,France,6000000.0,0
+2006,Ligue 1,AS Saint-Étienne,summer,in,Yohan Hautcoeur,16989,24,France,Central Midfield,CM,3000000.0,Le Mans Union Club 72,France,3000000.0,0
+2006,Ligue 1,AS Saint-Étienne,summer,in,Daniel Bilos,30752,25,Argentina,Left Midfield,LM,2000000.0,CA Boca Juniors,Argentina,1500000.0,0
+2006,Ligue 1,AS Saint-Étienne,summer,in,Moustapha Sall,43886,20,Senegal,Centre-Back,CB,,IK Start,Norway,110000.0,0
+2006,Ligue 1,AS Saint-Étienne,summer,in,Fredy Guarín,39090,20,Colombia,Central Midfield,CM,600000.0,Envigado FC,Colombia,100000.0,1
+2006,Ligue 1,AS Saint-Étienne,summer,in,Marek Heinz,306,29,Czech Republic,Centre-Forward,CF,2000000.0,Galatasaray,Türkiye,0.0,0
+2006,Ligue 1,AS Saint-Étienne,summer,in,Lamine Diatta,3907,31,Senegal,Centre-Back,CB,1500000.0,Olympique Lyon,France,0.0,0
+2006,Ligue 1,AS Saint-Étienne,summer,in,Geoffrey Dernis,15275,25,France,Left Winger,LW,2500000.0,LOSC Lille,France,0.0,0
+2006,Ligue 1,AS Saint-Étienne,summer,in,Christophe Landrin,5647,29,France,Central Midfield,CM,3800000.0,Paris Saint-Germain,France,,0
+2006,Ligue 1,AS Saint-Étienne,summer,in,Ignacio Piatti,37433,21,Argentina,Left Winger,LW,800000.0,CA Chacarita Juniors,Argentina,,0
+2006,Ligue 1,AS Saint-Étienne,winter,in,Matt Moussilou,5654,24,Congo,Centre-Forward,CF,2400000.0,OGC Nice,France,0.0,1
+2006,Ligue 1,AS Saint-Étienne,summer,out,Didier Zokora,13389,25,Cote d'Ivoire,Defensive Midfield,DM,12500000.0,Tottenham Hotspur,England,12350000.0,0
+2006,Ligue 1,AS Saint-Étienne,summer,out,Eddy Falcon,1098461,18,France,Defender,Defender,,CS Louhans-Cuiseaux 71,France,0.0,0
+2006,Ligue 1,AS Saint-Étienne,summer,out,Bruno Basto,5368,28,Portugal,Left-Back,LB,1000000.0,CD Nacional,Portugal,0.0,0
+2006,Ligue 1,AS Saint-Étienne,summer,out,Alaeddine Yahia,5451,24,Tunisia,Centre-Back,CB,1400000.0,CS Sedan-Ardennes,France,0.0,0
+2006,Ligue 1,AS Saint-Étienne,summer,out,Frédéric Mendy,17434,24,Senegal,Left Winger,LW,1750000.0,SC Bastia,France,0.0,0
+2006,Ligue 1,AS Saint-Étienne,summer,out,Nicolas Marin,5439,25,France,Right Midfield,RM,1300000.0,CS Sedan-Ardennes,France,0.0,0
+2006,Ligue 1,AS Saint-Étienne,summer,out,Samy Houri,33920,21,France,Attacking Midfield,AM,350000.0,US Raon-l'Étape,France,0.0,1
+2006,Ligue 1,AS Saint-Étienne,summer,out,Siaka Tiéné,34026,24,Cote d'Ivoire,Left-Back,LB,750000.0,Stade Reims,France,0.0,1
+2006,Ligue 1,AS Saint-Étienne,summer,out,Stéphen Vincent,57559,19,France,Left Midfield,LM,,US Raon-l'Étape,France,0.0,1
+2006,Ligue 1,AS Saint-Étienne,summer,out,Sébastien Mazure,22638,27,France,Centre-Forward,CF,2000000.0,SM Caen,France,,0
+2006,Ligue 1,AS Saint-Étienne,summer,out,David Hellebuyck,17429,27,France,Central Midfield,CM,4000000.0,Paris Saint-Germain,France,,0
+2006,Ligue 1,AS Saint-Étienne,summer,out,Abdelaziz Kamara,22389,22,Mauritania,Left-Back,LB,350000.0,LB Châteauroux,France,,0
+2006,Ligue 1,AS Saint-Étienne,summer,out,Ousmane Sarr,33931,19,Senegal,Left Midfield,LM,150000.0,Grenoble Foot 38,France,0.0,1
+2006,Ligue 1,AS Saint-Étienne,summer,out,Hélder Postiga,5169,23,Portugal,Centre-Forward,CF,4500000.0,FC Porto,Portugal,0.0,1
+2006,Ligue 1,AS Saint-Étienne,winter,out,Frédéric Piquionne,5683,28,Martinique,Centre-Forward,CF,8000000.0,AS Monaco,France,1000000.0,1
+2006,Ligue 1,AS Saint-Étienne,winter,out,Lamine Sakho,8318,29,Senegal,Left Winger,LW,500000.0,Montpellier HSC,France,0.0,0
+2006,Ligue 1,AS Saint-Étienne,winter,out,Ignacio Piatti,37433,21,Argentina,Left Winger,LW,800000.0,Unión San Felipe,Chile,,0
+2006,Ligue 1,AS Saint-Étienne,winter,out,Daniel Bilos,30752,26,Argentina,Left Midfield,LM,2500000.0,CF América,Mexico,0.0,1
+2006,Ligue 1,AS Saint-Étienne,winter,out,Fousseni Diawara,17422,26,Mali,Right-Back,RB,2000000.0,FC Sochaux-Montbéliard,France,0.0,1
+2006,Ligue 1,CS Sedan-Ardennes,summer,in,Nicolas Maurice-Belay,16591,21,France,Left Midfield,LM,600000.0,AS Monaco,France,150000.0,1
+2006,Ligue 1,CS Sedan-Ardennes,summer,in,Joseph-Désiré Job,3650,28,Cameroon,Centre-Forward,CF,2750000.0,Middlesbrough FC,England,0.0,0
+2006,Ligue 1,CS Sedan-Ardennes,summer,in,Jérôme Le Moigne,39893,23,France,Defensive Midfield,DM,,Sporting Toulon Var,France,0.0,0
+2006,Ligue 1,CS Sedan-Ardennes,summer,in,David Hamed,22404,32,France,Right-Back,RB,500000.0,FC Istres Ouest Provence ,France,0.0,0
+2006,Ligue 1,CS Sedan-Ardennes,summer,in,Jean-Michel Badiane,12147,23,France,Centre-Back,CB,400000.0,Paris Saint-Germain,France,0.0,0
+2006,Ligue 1,CS Sedan-Ardennes,summer,in,Abdelnasser Ouadah,5733,30,Algeria,Left Winger,LW,2000000.0,FC Metz,France,0.0,0
+2006,Ligue 1,CS Sedan-Ardennes,summer,in,Alaeddine Yahia,5451,24,Tunisia,Centre-Back,CB,1400000.0,AS Saint-Étienne,France,0.0,0
+2006,Ligue 1,CS Sedan-Ardennes,summer,in,Stéphane Trévisan,5716,33,France,Goalkeeper,GK,500000.0,AC Ajaccio,France,0.0,0
+2006,Ligue 1,CS Sedan-Ardennes,summer,in,Fabrice Jau,5591,27,France,Right Midfield,RM,2000000.0,SC Bastia,France,0.0,0
+2006,Ligue 1,CS Sedan-Ardennes,summer,in,Yoann Lachor,5479,30,France,Left-Back,LB,750000.0,RC Lens,France,0.0,0
+2006,Ligue 1,CS Sedan-Ardennes,summer,in,Aliou Cissé,3796,30,Senegal,Defensive Midfield,DM,1800000.0,Portsmouth FC,England,0.0,0
+2006,Ligue 1,CS Sedan-Ardennes,summer,in,Nicolas Marin,5439,25,France,Right Midfield,RM,1300000.0,AS Saint-Étienne,France,0.0,0
+2006,Ligue 1,CS Sedan-Ardennes,summer,in,Grégory Pujol,5521,26,France,Centre-Forward,CF,1500000.0,FC Nantes,France,,0
+2006,Ligue 1,CS Sedan-Ardennes,summer,in,Steven Thicot,18945,19,France,Centre-Back,CB,150000.0,FC Nantes,France,0.0,1
+2006,Ligue 1,CS Sedan-Ardennes,winter,in,Samir Henaini,46692,22,France,Centre-Forward,CF,,ÉFC Fréjus Saint-Raphaël,France,,0
+2006,Ligue 1,CS Sedan-Ardennes,summer,out,Laurent Gagnier,5537,27,France,Centre-Forward,CF,250000.0,Chamois Niortais FC,France,0.0,0
+2006,Ligue 1,CS Sedan-Ardennes,summer,out,Marc-Éric Gueï,21173,25,Cote d'Ivoire,Centre-Forward,CF,,Sporting Toulon Var,France,0.0,0
+2006,Ligue 1,CS Sedan-Ardennes,summer,out,Cédric Sabin,23973,26,Martinique,Centre-Forward,CF,,Al-Ahli SC,Qatar,0.0,0
+2006,Ligue 1,CS Sedan-Ardennes,summer,out,Pius N'Diefi,27446,30,Cameroon,Centre-Forward,CF,750000.0,Paris FC,France,0.0,0
+2006,Ligue 1,CS Sedan-Ardennes,summer,out,Didier Neumann,23962,29,France,Central Midfield,CM,,Montpellier HSC,France,0.0,0
+2006,Ligue 1,CS Sedan-Ardennes,summer,out,Frédéric Binye Minka,23896,21,Cameroon,Defender,Defender,,Fogape Yaounde,Cameroon,,0
+2006,Ligue 1,CS Sedan-Ardennes,summer,out,Laurent Mendy,129884,24,Senegal,Midfielder,Midfielder,,Unknown,,,0
+2006,Ligue 1,CS Sedan-Ardennes,summer,out,Hamada Jambay,23935,31,Madagascar,Right-Back,RB,,Retired,,,0
+2006,Ligue 1,CS Sedan-Ardennes,summer,out,Georgios Ikonomou,27045,38,Greece,Defensive Midfield,DM,,Retired,,,0
+2006,Ligue 1,CS Sedan-Ardennes,summer,out,Dame Traoré,51227,20,Qatar,Centre-Back,CB,,Valenciennes FC,France,0.0,1
+2006,Ligue 1,CS Sedan-Ardennes,summer,out,Nicolas Marin,5439,25,France,Right Midfield,RM,1300000.0,AS Saint-Étienne,France,0.0,1
+2006,Ligue 1,CS Sedan-Ardennes,summer,out,Michaël Ciani,12906,22,France,Centre-Back,CB,500000.0,AJ Auxerre,France,0.0,1
+2006,Ligue 1,CS Sedan-Ardennes,winter,out,David Hamed,22404,32,France,Right-Back,RB,250000.0,Amiens SC,France,0.0,0
+2006,Ligue 1,CS Sedan-Ardennes,winter,out,Jérémy Hénin,23933,29,France,Centre-Back,CB,1000000.0,Le Havre AC,France,0.0,0
+2006,Ligue 1,ESTAC Troyes,summer,in,Florian Boucansaud,31219,25,France,Centre-Back,CB,1000000.0,OGC Nice,France,2000000.0,0
+2006,Ligue 1,ESTAC Troyes,summer,in,Marek Saganowski,3084,27,Poland,Centre-Forward,CF,1600000.0,Vitória Guimarães SC,Portugal,1600000.0,0
+2006,Ligue 1,ESTAC Troyes,summer,in,David Gigliotti,28511,21,France,Centre-Forward,CF,800000.0,AS Monaco,France,300000.0,1
+2006,Ligue 1,ESTAC Troyes,summer,in,Ronan Le Crom,5444,31,France,Goalkeeper,GK,1800000.0,EA Guingamp,France,0.0,0
+2006,Ligue 1,ESTAC Troyes,summer,in,Kevin Grau,45563,26,France,Goalkeeper,GK,,Grenoble Foot 38,France,0.0,0
+2006,Ligue 1,ESTAC Troyes,summer,in,Demetrius Ferreira,5579,32,Brazil,Right-Back,RB,1600000.0,Olympique Marseille,France,0.0,0
+2006,Ligue 1,ESTAC Troyes,summer,in,Yann Lachuer,5429,33,France,Attacking Midfield,AM,2000000.0,AJ Auxerre,France,0.0,0
+2006,Ligue 1,ESTAC Troyes,summer,in,Cédric Barbosa,5698,30,France,Left Midfield,LM,600000.0,Stade Rennais FC,France,0.0,0
+2006,Ligue 1,ESTAC Troyes,summer,in,Mounir Obbadi,29311,23,Morocco,Central Midfield,CM,,Angers SCO,France,0.0,0
+2006,Ligue 1,ESTAC Troyes,summer,in,Weldon,37775,25,Brazil,Centre-Forward,CF,1000000.0,Cruzeiro Esporte Clube,Brazil,0.0,1
+2006,Ligue 1,ESTAC Troyes,summer,in,Jonathan Lacourt,33819,20,France,Central Midfield,CM,800000.0,RC Lens,France,0.0,1
+2006,Ligue 1,ESTAC Troyes,summer,in,Ibrahima Faye,13741,26,Senegal,Centre-Back,CB,1000000.0,SM Caen,France,,0
+2006,Ligue 1,ESTAC Troyes,summer,in,Stéphen Drouin,12391,22,France,Left-Back,LB,500000.0,FC Nantes,France,,0
+2006,Ligue 1,ESTAC Troyes,summer,out,Blaise Kouassi,5450,32,Cote d'Ivoire,Centre-Back,CB,1500000.0,Al-Rayyan SC,Qatar,0.0,0
+2006,Ligue 1,ESTAC Troyes,summer,out,Frank Boudard,33913,24,France,Centre-Forward,CF,150000.0,Stade Reims B,France,0.0,0
+2006,Ligue 1,ESTAC Troyes,summer,out,Christian Nadé,33926,21,France,Centre-Forward,CF,600000.0,Sheffield United,England,0.0,0
+2006,Ligue 1,ESTAC Troyes,summer,out,Romuald Peiser,2726,26,France,Goalkeeper,GK,75000.0,FC Gueugnon,France,0.0,0
+2006,Ligue 1,ESTAC Troyes,summer,out,Frédéric Adam,33908,32,France,Defensive Midfield,DM,650000.0,FC Gueugnon,France,0.0,0
+2006,Ligue 1,ESTAC Troyes,summer,out,Alexandre Dujeux,23920,30,France,Centre-Back,CB,1000000.0,AC Ajaccio,France,0.0,0
+2006,Ligue 1,ESTAC Troyes,summer,out,Carl Tourenne,33933,34,France,Centre-Back,CB,1000000.0,Stade Reims,France,0.0,0
+2006,Ligue 1,ESTAC Troyes,summer,out,Sylvain Meslien,17435,25,France,Centre-Back,CB,200000.0,Without Club,,,0
+2006,Ligue 1,ESTAC Troyes,summer,out,Ibrahima Faye,13741,26,Senegal,Centre-Back,CB,1000000.0,SM Caen,France,0.0,1
+2006,Ligue 1,ESTAC Troyes,summer,out,Branko Boskovic,9090,26,Montenegro,Central Midfield,CM,1500000.0,Paris Saint-Germain,France,0.0,1
+2006,Ligue 1,ESTAC Troyes,summer,out,Ali Zitouni,37858,25,Tunisia,Right Winger,RW,250000.0,Esperance Tunis,Tunisia,0.0,1
+2006,Ligue 1,ESTAC Troyes,summer,out,Stéphen Drouin,12391,22,France,Left-Back,LB,500000.0,FC Nantes,France,0.0,1
+2006,Ligue 1,ESTAC Troyes,summer,out,Florian Boucansaud,31219,25,France,Centre-Back,CB,1000000.0,OGC Nice,France,0.0,1
+2006,Ligue 1,ESTAC Troyes,summer,out,Sébastien Grax,9239,22,France,Centre-Forward,CF,3000000.0,AS Monaco,France,0.0,1
+2006,Ligue 1,ESTAC Troyes,summer,out,Ronan Le Crom,5444,31,France,Goalkeeper,GK,1800000.0,EA Guingamp,France,0.0,1
+2006,Ligue 1,ESTAC Troyes,winter,out,Marek Saganowski,3084,28,Poland,Centre-Forward,CF,1800000.0,Southampton FC,England,1600000.0,0
+2006,Ligue 1,ESTAC Troyes,winter,out,Mounir Obbadi,29311,23,Morocco,Central Midfield,CM,200000.0,Angers SCO,France,0.0,1
+2006,Ligue 1,ESTAC Troyes,winter,out,Weldon,37775,26,Brazil,Centre-Forward,CF,1000000.0,Cruzeiro Esporte Clube,Brazil,0.0,1
+2006,Ligue 1,FC Girondins Bordeaux,summer,in,Johan Micoud,2713,32,France,Attacking Midfield,AM,8500000.0,SV Werder Bremen,Germany,3000000.0,0
+2006,Ligue 1,FC Girondins Bordeaux,summer,in,Stéphane Dalmat,7259,27,France,Central Midfield,CM,7000000.0,Racing Santander,Spain,0.0,0
+2006,Ligue 1,FC Girondins Bordeaux,summer,in,Fernando,15338,25,Brazil,Defensive Midfield,DM,3000000.0,AC Siena,Italy,,0
+2006,Ligue 1,FC Girondins Bordeaux,summer,in,Wendel,20405,24,Brazil,Left Midfield,LM,2500000.0,Santos FC,Brazil,,0
+2006,Ligue 1,FC Girondins Bordeaux,summer,in,Joseph Enakarhire,13458,23,Nigeria,Centre-Back,CB,2250000.0,Dinamo Moscow,Russia,0.0,1
+2006,Ligue 1,FC Girondins Bordeaux,winter,in,Fernando Cavenaghi,3852,23,Argentina,Centre-Forward,CF,6500000.0,Spartak Moscow,Russia,9000000.0,0
+2006,Ligue 1,FC Girondins Bordeaux,winter,in,Jussiê,20410,23,Brazil,Attacking Midfield,AM,4000000.0,RC Lens,France,0.0,1
+2006,Ligue 1,FC Girondins Bordeaux,winter,in,Christian Peruchini,45634,21,Argentina,Attacking Midfield,AM,,Sangiovannese 1927,Italy,,0
+2006,Ligue 1,FC Girondins Bordeaux,summer,out,Mamadou Baldé,42392,20,Equatorial Guinea,Centre-Back,CB,,Legia Warszawa,Poland,100000.0,1
+2006,Ligue 1,FC Girondins Bordeaux,summer,out,Frédéric Roux,5365,33,France,Goalkeeper,GK,800000.0,AC Ajaccio,France,0.0,0
+2006,Ligue 1,FC Girondins Bordeaux,summer,out,Renaud Cohade,18955,21,France,Central Midfield,CM,1000000.0,RC Strasbourg Alsace,France,0.0,0
+2006,Ligue 1,FC Girondins Bordeaux,summer,out,Denilson,7660,29,Brazil,Left Winger,LW,6000000.0,Al-Nassr FC,Saudi Arabia,0.0,0
+2006,Ligue 1,FC Girondins Bordeaux,summer,out,Romain Brégerie,43257,19,France,Centre-Back,CB,,FC Sète 34,France,0.0,1
+2006,Ligue 1,FC Girondins Bordeaux,summer,out,Beto,13819,30,Portugal,Centre-Back,CB,3500000.0,Recreativo Huelva,Spain,0.0,1
+2006,Ligue 1,FC Girondins Bordeaux,summer,out,Bruno Cheyrou,3602,28,France,Central Midfield,CM,3900000.0,Liverpool FC,England,0.0,1
+2006,Ligue 1,FC Girondins Bordeaux,summer,out,Fernando,15338,25,Brazil,Defensive Midfield,DM,3000000.0,AC Siena,Italy,0.0,1
+2006,Ligue 1,FC Girondins Bordeaux,summer,out,Vasco Fernandes,24202,19,Portugal,Centre-Back,CB,,SC Olhanense,Portugal,0.0,1
+2006,Ligue 1,FC Girondins Bordeaux,winter,out,Lilian Laslandes,1450,35,France,Centre-Forward,CF,1000000.0,OGC Nice,France,,0
+2006,Ligue 1,FC Lorient,summer,in,Hamed Namouchi,11492,22,Tunisia,Attacking Midfield,AM,1500000.0,Rangers FC,Scotland,750000.0,0
+2006,Ligue 1,FC Lorient,summer,in,Anis Ayari,25479,24,Tunisia,Left-Back,LB,1000000.0,Samsunspor,Türkiye,400000.0,0
+2006,Ligue 1,FC Lorient,summer,in,Ulrich Le Pen,13244,32,France,Left Midfield,LM,1200000.0,Ipswich Town,England,200000.0,0
+2006,Ligue 1,FC Lorient,summer,in,Fabrice Abriel,40688,26,France,Central Midfield,CM,,EA Guingamp,France,0.0,0
+2006,Ligue 1,FC Lorient,summer,in,Rafik Saïfi,24114,31,Algeria,Centre-Forward,CF,1200000.0,AC Ajaccio,France,0.0,0
+2006,Ligue 1,FC Lorient,summer,in,Carl Medjani,8060,21,Algeria,Centre-Back,CB,1000000.0,Liverpool FC,England,0.0,0
+2006,Ligue 1,FC Lorient,summer,in,Yazid Mansouri,10024,28,Algeria,Central Midfield,CM,50000.0,LB Châteauroux,France,0.0,0
+2006,Ligue 1,FC Lorient,summer,in,Lionel Cappone,31064,27,France,Goalkeeper,GK,100000.0,Angers SCO,France,0.0,0
+2006,Ligue 1,FC Lorient,summer,in,Christophe Jallet,28335,22,France,Right-Back,RB,,Chamois Niortais FC,France,0.0,0
+2006,Ligue 1,FC Lorient,summer,in,Papis M'Bodji,37156,21,Senegal,Centre-Forward,CF,,US Créteil-Lusitanos,France,0.0,0
+2006,Ligue 1,FC Lorient,summer,in,Steve Marlet,3240,32,France,Centre-Forward,CF,750000.0,VfL Wolfsburg,Germany,0.0,0
+2006,Ligue 1,FC Lorient,summer,in,Kemal Bourhani,5465,24,Comoros,Centre-Forward,CF,500000.0,EA Guingamp,France,0.0,0
+2006,Ligue 1,FC Lorient,summer,in,Fabrice Fiorèse,5572,31,France,Right Winger,RW,1000000.0,Olympique Marseille,France,0.0,1
+2006,Ligue 1,FC Lorient,summer,in,Michaël Ciani,12906,22,France,Centre-Back,CB,500000.0,AJ Auxerre,France,0.0,1
+2006,Ligue 1,FC Lorient,summer,in,Rémy Riou,18940,18,France,Goalkeeper,GK,100000.0,Olympique Lyon,France,0.0,1
+2006,Ligue 1,FC Lorient,summer,in,Nabil Taïder,7019,23,Tunisia,Central Midfield,CM,1000000.0,FC Toulouse,France,0.0,1
+2006,Ligue 1,FC Lorient,winter,in,Farid Talhaoui,5468,24,Morocco,Striker,Striker,50000.0,EA Guingamp,France,0.0,1
+2006,Ligue 1,FC Lorient,summer,out,Karim Ziani,25976,23,Algeria,Attacking Midfield,AM,2000000.0,FC Sochaux-Montbéliard,France,2000000.0,0
+2006,Ligue 1,FC Lorient,summer,out,Nicolas Flégeau,110129,20,France,Centre-Back,CB,,Vendée Les Herbiers Football,France,0.0,0
+2006,Ligue 1,FC Lorient,summer,out,Vincent Gragnic,23932,23,France,Attacking Midfield,AM,,FC Libourne-Saint-Seurin,France,0.0,0
+2006,Ligue 1,FC Lorient,summer,out,Tchiressoua Guel,26013,30,Cote d'Ivoire,Attacking Midfield,AM,850000.0,Ironi Kiryat Shmona,Israel,0.0,0
+2006,Ligue 1,FC Lorient,summer,out,Garry Franchi,23926,22,France,Defensive Midfield,DM,,Entente Sannois Saint-Gratien,France,0.0,0
+2006,Ligue 1,FC Lorient,summer,out,Joris Marveaux,23955,23,Martinique,Central Midfield,CM,,Clermont Foot Auvergne,France,0.0,0
+2006,Ligue 1,FC Lorient,summer,out,Christophe Coué,23908,24,France,Defensive Midfield,DM,,Clermont Foot Auvergne,France,0.0,0
+2006,Ligue 1,FC Lorient,summer,out,Romain Salin,23974,21,France,Goalkeeper,GK,,FC Libourne-Saint-Seurin,France,0.0,1
+2006,Ligue 1,FC Lorient,summer,out,Sylvain Macé,23950,22,France,Attacking Midfield,AM,,Vannes OC,France,0.0,1
+2006,Ligue 1,FC Lorient,summer,out,Virgile Reset,23970,20,France,Right Winger,RW,,FC Sion,Switzerland,,0
+2006,Ligue 1,FC Lorient,summer,out,Abdoulaye Koulibaly,23942,24,Guinea,Centre-Forward,CF,,Retired,,,0
+2006,Ligue 1,FC Lorient,summer,out,Abdoulaye Koulibaly,23942,24,Guinea,Centre-Forward,CF,,Without Club,,,0
+2006,Ligue 1,FC Lorient,summer,out,Stéphane N'Guéma,26327,21,Gabon,Right Winger,RW,600000.0,Stade Rennais FC,France,0.0,1
+2006,Ligue 1,FC Lorient,summer,out,Gaël Danic,5457,24,France,Left Winger,LW,,ESTAC Troyes,France,0.0,1
+2006,Ligue 1,FC Lorient,summer,out,Djamel Mesbah,17735,21,Algeria,Left-Back,LB,300000.0,FC Basel 1893,Switzerland,0.0,1
+2006,Ligue 1,FC Lorient,summer,out,Johan Audel,5544,22,Martinique,Left Winger,LW,900000.0,LOSC Lille,France,0.0,1
+2006,Ligue 1,FC Lorient,winter,out,Sébastien Le Toux,23944,23,France,Centre-Forward,CF,,Seattle Sounders,United States,0.0,0
+2006,Ligue 1,FC Lorient,winter,out,David Le Bras,13070,23,France,Attacking Midfield,AM,,Tampereen Peli-Pojat-70,Finland,0.0,0
+2006,Ligue 1,FC Lorient,winter,out,Papis M'Bodji,37156,22,Senegal,Centre-Forward,CF,375000.0,RC Strasbourg Alsace,France,0.0,1
+2006,Ligue 1,FC Lorient,winter,out,Anis Ayari,25479,24,Tunisia,Left-Back,LB,75000.0,Etoile Sportive du Sahel,Tunisia,,0
+2006,Ligue 1,FC Nantes,summer,in,Christian Wilhelmsson,9611,26,Sweden,Right Winger,RW,7000000.0,RSC Anderlecht,Belgium,3300000.0,0
+2006,Ligue 1,FC Nantes,summer,in,Vladimir Stojkovic,34400,22,Serbia,Goalkeeper,GK,2000000.0,Red Star Belgrade,Serbia,1000000.0,0
+2006,Ligue 1,FC Nantes,summer,in,Adriano Duarte,32819,26,Brazil,Centre-Back,CB,,Esporte Clube Juventude,Brazil,0.0,0
+2006,Ligue 1,FC Nantes,summer,in,Alioum Saidou,7160,28,Cameroon,Defensive Midfield,DM,3500000.0,Galatasaray,Türkiye,0.0,0
+2006,Ligue 1,FC Nantes,summer,in,Éric Cubilier,5284,26,France,Right-Back,RB,1000000.0,AS Monaco,France,0.0,0
+2006,Ligue 1,FC Nantes,summer,in,Nourdin Boukhari,4327,26,Morocco,Attacking Midfield,AM,2000000.0,Ajax Amsterdam,Netherlands,0.0,0
+2006,Ligue 1,FC Nantes,winter,in,Luigi Pieroni,13349,26,Belgium,Centre-Forward,CF,4000000.0,AJ Auxerre,France,2500000.0,0
+2006,Ligue 1,FC Nantes,winter,in,Jaouad Zairi,5413,24,Morocco,Right Midfield,RM,1800000.0,Boavista FC,Portugal,0.0,1
+2006,Ligue 1,FC Nantes,winter,in,Fabien Barthez,3289,35,France,Goalkeeper,GK,,Career break,,,0
+2006,Ligue 1,FC Nantes,summer,out,Jérémy Toulalan,5513,22,France,Defensive Midfield,DM,7000000.0,Olympique Lyon,France,7000000.0,0
+2006,Ligue 1,FC Nantes,summer,out,Florin Bratu,9710,26,Romania,Centre-Forward,CF,1500000.0,Valenciennes FC,France,500000.0,1
+2006,Ligue 1,FC Nantes,summer,out,David Leray,17682,22,France,Right-Back,RB,1000000.0,Tours FC,France,0.0,0
+2006,Ligue 1,FC Nantes,summer,out,Luigi Glombard,12393,21,France,Right Winger,RW,800000.0,Cardiff City,England,0.0,0
+2006,Ligue 1,FC Nantes,summer,out,Fouad Bouguerra,33882,25,Algeria,Centre-Forward,CF,200000.0,Club Africain,Tunisia,0.0,0
+2006,Ligue 1,FC Nantes,summer,out,Pascal Delhommeau,5502,27,France,Centre-Back,CB,2000000.0,FC Metz,France,0.0,0
+2006,Ligue 1,FC Nantes,summer,out,Perica Radic,12396,22,Serbia,Goalkeeper,GK,200000.0,AC Ajaccio,France,0.0,0
+2006,Ligue 1,FC Nantes,summer,out,Guillaume Rippert,26328,21,France,Left-Back,LB,250000.0,Valenciennes FC,France,0.0,0
+2006,Ligue 1,FC Nantes,summer,out,Mickaël Landreau,3575,27,France,Goalkeeper,GK,6500000.0,Paris Saint-Germain,France,0.0,0
+2006,Ligue 1,FC Nantes,summer,out,Antar Bouzidi,595536,19,Algeria,Midfielder,Midfielder,,1.FC Saarbrücken,Germany,,0
+2006,Ligue 1,FC Nantes,summer,out,Julio Cáceres,18733,26,Paraguay,Centre-Back,CB,1750000.0,Gimnàstic de Tarragona,Spain,,0
+2006,Ligue 1,FC Nantes,summer,out,Alexander Viveros,13170,28,Colombia,Left-Back,LB,600000.0,Deportivo Cali,Colombia,,0
+2006,Ligue 1,FC Nantes,summer,out,Gilles Yapi,13105,24,Cote d'Ivoire,Defensive Midfield,DM,2000000.0,BSC Young Boys,Switzerland,,0
+2006,Ligue 1,FC Nantes,summer,out,Denis Stinat,17247,23,France,Left-Back,LB,150000.0,Stade Brestois 29,France,,0
+2006,Ligue 1,FC Nantes,summer,out,Stéphen Drouin,12391,22,France,Left-Back,LB,500000.0,ESTAC Troyes,France,,0
+2006,Ligue 1,FC Nantes,summer,out,Grégory Pujol,5521,26,France,Centre-Forward,CF,1500000.0,CS Sedan-Ardennes,France,,0
+2006,Ligue 1,FC Nantes,summer,out,Steven Thicot,18945,19,France,Centre-Back,CB,150000.0,CS Sedan-Ardennes,France,0.0,1
+2006,Ligue 1,FC Nantes,summer,out,Mamadou Bagayoko,3002,27,Mali,Centre-Forward,CF,2000000.0,Al-Wahda FC,United Arab Emirates,0.0,1
+2006,Ligue 1,FC Nantes,summer,out,Olivier Quint,5511,34,France,Left Midfield,LM,,Retired,,,0
+2006,Ligue 1,FC Nantes,summer,out,Habib Bamogo,3912,24,Burkina Faso,Second Striker,SS,3500000.0,Olympique Marseille,France,0.0,1
+2006,Ligue 1,FC Nantes,winter,out,Christian Wilhelmsson,9611,27,Sweden,Right Winger,RW,3000000.0,AS Roma,Italy,500000.0,1
+2006,Ligue 1,FC Nantes,winter,out,Adriano Duarte,32819,26,Brazil,Centre-Back,CB,300000.0,RAEC Mons (-2015),Belgium,0.0,0
+2006,Ligue 1,FC Nantes,winter,out,Alexis Thébaux,22396,21,France,Goalkeeper,GK,150000.0,Dijon FCO,France,0.0,0
+2006,Ligue 1,FC Nantes,winter,out,Nourdin Boukhari,4327,26,Morocco,Attacking Midfield,AM,2000000.0,AZ Alkmaar,Netherlands,0.0,1
+2006,Ligue 1,FC Nantes,winter,out,Vladimir Stojkovic,34400,23,Serbia,Goalkeeper,GK,1500000.0,Vitesse Arnhem,Netherlands,0.0,1
+2006,Ligue 1,FC Nantes,winter,out,Fabien Barthez,3289,35,France,Goalkeeper,GK,1000000.0,Retired,,,0
+2006,Ligue 1,FC Sochaux-Montbéliard,summer,in,Karim Ziani,25976,23,Algeria,Attacking Midfield,AM,2000000.0,FC Lorient,France,2000000.0,0
+2006,Ligue 1,FC Sochaux-Montbéliard,summer,in,Álvaro Santos,7904,26,Brazil,Centre-Forward,CF,2000000.0,FC Copenhagen,Denmark,2000000.0,0
+2006,Ligue 1,FC Sochaux-Montbéliard,summer,in,Valter Birsa,26105,19,Slovenia,Attacking Midfield,AM,,ND Gorica,Slovenia,1300000.0,0
+2006,Ligue 1,FC Sochaux-Montbéliard,summer,in,Jérémie Bréchet,5339,26,France,Centre-Back,CB,3000000.0,Real Sociedad,Spain,0.0,0
+2006,Ligue 1,FC Sochaux-Montbéliard,summer,in,Jérôme Leroy,5563,31,France,Attacking Midfield,AM,2500000.0,Beitar Jerusalem,Israel,0.0,0
+2006,Ligue 1,FC Sochaux-Montbéliard,summer,in,Jérémy Gavanon,7338,22,France,Goalkeeper,GK,600000.0,Olympique Marseille,France,0.0,0
+2006,Ligue 1,FC Sochaux-Montbéliard,summer,in,Anthony Le Tallec,4217,21,France,Centre-Forward,CF,1600000.0,Liverpool FC,England,0.0,1
+2006,Ligue 1,FC Sochaux-Montbéliard,summer,in,Stéphane Pichot,5638,29,France,Right-Back,RB,1000000.0,Paris Saint-Germain,France,,0
+2006,Ligue 1,FC Sochaux-Montbéliard,winter,in,Fousseni Diawara,17422,26,Mali,Right-Back,RB,2000000.0,AS Saint-Étienne,France,0.0,1
+2006,Ligue 1,FC Sochaux-Montbéliard,winter,in,Sébastien Grax,9239,22,France,Centre-Forward,CF,1200000.0,AS Monaco,France,0.0,1
+2006,Ligue 1,FC Sochaux-Montbéliard,summer,out,Ilan,17244,25,Brazil,Centre-Forward,CF,5000000.0,AS Saint-Étienne,France,6000000.0,0
+2006,Ligue 1,FC Sochaux-Montbéliard,summer,out,Souleymane Diawara,12503,27,Senegal,Centre-Back,CB,4000000.0,Charlton Athletic,England,5400000.0,0
+2006,Ligue 1,FC Sochaux-Montbéliard,summer,out,Jérémy Ménez,16993,19,France,Centre-Forward,CF,3500000.0,AS Monaco,France,3500000.0,0
+2006,Ligue 1,FC Sochaux-Montbéliard,summer,out,Jean Calvé,35650,22,France,Right-Back,RB,1300000.0,Le Mans Union Club 72,France,1000000.0,0
+2006,Ligue 1,FC Sochaux-Montbéliard,summer,out,Thomas Régnier,121085,22,France,Centre-Forward,CF,,SO Châtellerault,France,0.0,0
+2006,Ligue 1,FC Sochaux-Montbéliard,summer,out,Pape Sow,20623,20,Senegal,Centre-Back,CB,100000.0,Entente Sannois Saint-Gratien,France,0.0,0
+2006,Ligue 1,FC Sochaux-Montbéliard,summer,out,Aimé Lavie,19504,21,France,Defender,Defender,300000.0,AS Cannes,France,0.0,0
+2006,Ligue 1,FC Sochaux-Montbéliard,summer,out,Alexandre Martinovic,12513,21,France,Goalkeeper,GK,300000.0,KAA Gent,Belgium,0.0,0
+2006,Ligue 1,FC Sochaux-Montbéliard,summer,out,Fabien Boudarène,5398,27,France,Defensive Midfield,DM,1600000.0,Dijon FCO,France,0.0,0
+2006,Ligue 1,FC Sochaux-Montbéliard,summer,out,Miranda,33357,21,Brazil,Centre-Back,CB,2500000.0,São Paulo Futebol Clube,Brazil,0.0,1
+2006,Ligue 1,FC Sochaux-Montbéliard,summer,out,Maxime Josse,33921,19,France,Centre-Back,CB,750000.0,Stade Brestois 29,France,0.0,1
+2006,Ligue 1,FC Sochaux-Montbéliard,summer,out,Benjamin Genghini,33919,20,France,Central Midfield,CM,250000.0,US Raon-l'Étape,France,0.0,1
+2006,Ligue 1,FC Sochaux-Montbéliard,summer,out,Steve Bernardet,33912,21,France,Defensive Midfield,DM,200000.0,Pau FC,France,,0
+2006,Ligue 1,FC Sochaux-Montbéliard,summer,out,Jaouad Zairi,5413,24,Morocco,Right Midfield,RM,1800000.0,Boavista FC,Portugal,,0
+2006,Ligue 1,FC Sochaux-Montbéliard,summer,out,Cédric Rey,33929,21,France,Left-Back,LB,500000.0,AS Beauvais Oise,France,0.0,1
+2006,Ligue 1,FC Sochaux-Montbéliard,summer,out,Arnaud Bühler,10058,21,Switzerland,Centre-Back,CB,1500000.0,FC Sion,Switzerland,0.0,1
+2006,Ligue 1,FC Sochaux-Montbéliard,summer,out,Won-kwang Jo,20040,20,"Korea, South",Central Midfield,CM,200000.0,Without Club,,,0
+2006,Ligue 1,FC Sochaux-Montbéliard,summer,out,Weldon,37775,25,Brazil,Centre-Forward,CF,1000000.0,Cruzeiro Esporte Clube,Brazil,0.0,1
+2006,Ligue 1,FC Sochaux-Montbéliard,summer,out,Mourad Meghni,6003,22,Algeria,Attacking Midfield,AM,2500000.0,Bologna FC 1909,Italy,0.0,1
+2006,Ligue 1,FC Sochaux-Montbéliard,winter,out,Miranda,33357,22,Brazil,Centre-Back,CB,2500000.0,São Paulo Futebol Clube,Brazil,1200000.0,0
+2006,Ligue 1,FC Toulouse,summer,in,Johan Elmander,4383,25,Sweden,Centre-Forward,CF,3500000.0,Bröndby IF,Denmark,5000000.0,0
+2006,Ligue 1,FC Toulouse,summer,in,Laurent Batlles,5669,30,France,Central Midfield,CM,4000000.0,Olympique Marseille,France,900000.0,0
+2006,Ligue 1,FC Toulouse,summer,in,Fabinho,42028,26,Brazil,Defensive Midfield,DM,,Santos FC,Brazil,,0
+2006,Ligue 1,FC Toulouse,winter,in,Pavel Fort,21023,23,Czech Republic,Centre-Forward,CF,,SK Slavia Prague,Czech Republic,1000000.0,0
+2006,Ligue 1,FC Toulouse,winter,in,Paulo César,5557,28,Brazil,Right Midfield,RM,1500000.0,Paris Saint-Germain,France,0.0,0
+2006,Ligue 1,FC Toulouse,summer,out,Daniel Moreira,5494,28,France,Second Striker,SS,7000000.0,Stade Rennais FC,France,4500000.0,0
+2006,Ligue 1,FC Toulouse,summer,out,Julien Cardy,6980,24,France,Defensive Midfield,DM,850000.0,FC Metz,France,300000.0,0
+2006,Ligue 1,FC Toulouse,summer,out,Henri Bedimo,6803,22,Cameroon,Left-Back,LB,800000.0,Le Havre AC,France,0.0,0
+2006,Ligue 1,FC Toulouse,summer,out,Thibault Giresse,6986,25,France,Left Midfield,LM,800000.0,Amiens SC,France,0.0,0
+2006,Ligue 1,FC Toulouse,summer,out,Christophe Revault,6805,34,France,Goalkeeper,GK,1750000.0,Stade Rennais FC,France,0.0,0
+2006,Ligue 1,FC Toulouse,summer,out,Benjamin Psaume,27116,21,France,Right Winger,RW,1250000.0,Nîmes Olympique,France,0.0,1
+2006,Ligue 1,FC Toulouse,summer,out,Nabil Taïder,7019,23,Tunisia,Central Midfield,CM,1000000.0,FC Lorient,France,0.0,1
+2006,Ligue 1,FC Toulouse,summer,out,Stéphane Lièvre,6975,33,France,Left-Back,LB,450000.0,Retired,,,0
+2006,Ligue 1,FC Toulouse,summer,out,Laurent Batlles,5669,30,France,Central Midfield,CM,4000000.0,Olympique Marseille,France,0.0,1
+2006,Ligue 1,FC Toulouse,winter,out,Jean-Louis Akpa Akpro,28239,22,France,Centre-Forward,CF,700000.0,Stade Brestois 29,France,0.0,1
+2006,Ligue 1,FC Toulouse,winter,out,Santos,5412,27,Tunisia,Centre-Forward,CF,3000000.0,FC Zürich,Switzerland,0.0,1
+2006,Ligue 1,LOSC Lille,summer,in,Michel Bastos,12142,22,Brazil,Left Midfield,LM,1000000.0,Atlético Paranaense,Brazil,3000000.0,0
+2006,Ligue 1,LOSC Lille,summer,in,Souleymane Youla,1081,24,Guinea,Centre-Forward,CF,2000000.0,Besiktas JK,Türkiye,1600000.0,0
+2006,Ligue 1,LOSC Lille,winter,in,Ludovic Obraniak,12106,22,Poland,Attacking Midfield,AM,1200000.0,FC Metz,France,1200000.0,0
+2006,Ligue 1,LOSC Lille,winter,in,Émerson Conceição,39073,20,Brazil,Left-Back,LB,,J.Malucelli Futebol S/A  (-2017),Brazil,450000.0,0
+2006,Ligue 1,LOSC Lille,summer,out,Matt Moussilou,5654,24,Congo,Centre-Forward,CF,5000000.0,OGC Nice,France,4000000.0,0
+2006,Ligue 1,LOSC Lille,summer,out,Dante,16136,22,Brazil,Centre-Back,CB,250000.0,Royal Charleroi SC,Belgium,100000.0,0
+2006,Ligue 1,LOSC Lille,summer,out,Geoffrey Dernis,15275,25,France,Left Winger,LW,2500000.0,AS Saint-Étienne,France,0.0,0
+2006,Ligue 1,LOSC Lille,summer,out,Milenko Acimovic,3261,29,Slovenia,Left Midfield,LM,3000000.0,Al-Ittihad Club,Saudi Arabia,0.0,0
+2006,Ligue 1,LOSC Lille,summer,out,Larsen Touré,37516,21,Guinea,Right Winger,RW,200000.0,FC Gueugnon,France,0.0,1
+2006,Ligue 1,LOSC Lille,summer,out,Yohann Lacroix,21668,21,France,Goalkeeper,GK,200000.0,Entente Sannois Saint-Gratien,France,0.0,1
+2006,Ligue 1,LOSC Lille,summer,out,Hicham Aboucherouane,33636,25,Morocco,Left Winger,LW,1500000.0,Raja Club Athletic,Morocco,0.0,1
+2006,Ligue 1,LOSC Lille,winter,out,Flavien Le Postollec,38399,22,France,Defensive Midfield,DM,200000.0,FC Molenbeek Brüssel,Belgium,0.0,1
+2006,Ligue 1,LOSC Lille,winter,out,Dieudonné Owona,39916,20,France,Left-Back,LB,100000.0,FC Molenbeek Brüssel,Belgium,0.0,1
+2006,Ligue 1,LOSC Lille,winter,out,Daniel Gygax,4951,25,Switzerland,Attacking Midfield,AM,2000000.0,FC Metz,France,0.0,1
+2006,Ligue 1,LOSC Lille,winter,out,Samuel Robail,33641,21,France,Attacking Midfield,AM,150000.0,US Boulogne,France,0.0,1
+2006,Ligue 1,LOSC Lille,winter,out,Alexis Zywiecki,57485,22,France,Centre-Back,CB,,Dijon FCO,France,0.0,1
+2006,Ligue 1,Le Mans Union Club 72,summer,in,Paulo André,32802,22,Brazil,Centre-Back,CB,6000000.0,Atlético Paranaense,Brazil,4500000.0,0
+2006,Ligue 1,Le Mans Union Club 72,summer,in,Jean Calvé,35650,22,France,Right-Back,RB,1300000.0,FC Sochaux-Montbéliard,France,1000000.0,0
+2006,Ligue 1,Le Mans Union Club 72,summer,in,Cyriaque Louvion,45187,18,France,Centre-Back,CB,,AS Cannes,France,0.0,0
+2006,Ligue 1,Le Mans Union Club 72,summer,in,Stéphane Sessègnon,37157,22,Benin,Attacking Midfield,AM,,US Créteil-Lusitanos,France,0.0,0
+2006,Ligue 1,Le Mans Union Club 72,summer,in,Ibrahima Camara,25315,21,Guinea,Left-Back,LB,750000.0,Parma FC,Italy,0.0,1
+2006,Ligue 1,Le Mans Union Club 72,winter,in,Hassan Yebda,12351,22,Algeria,Central Midfield,CM,250000.0,AJ Auxerre,France,0.0,0
+2006,Ligue 1,Le Mans Union Club 72,winter,in,Modibo Maïga,46831,19,Mali,Centre-Forward,CF,,Raja Club Athletic,Morocco,0.0,1
+2006,Ligue 1,Le Mans Union Club 72,summer,out,Frédéric Thomas,23979,25,France,Central Midfield,CM,4000000.0,AJ Auxerre,France,4000000.0,0
+2006,Ligue 1,Le Mans Union Club 72,summer,out,Yohan Hautcoeur,16989,24,France,Central Midfield,CM,3000000.0,AS Saint-Étienne,France,3000000.0,0
+2006,Ligue 1,Le Mans Union Club 72,summer,out,Yoann Poulard,6278,30,France,Centre-Back,CB,1500000.0,Stade Brestois 29,France,0.0,0
+2006,Ligue 1,Le Mans Union Club 72,summer,out,Sébastien Gormond,34888,24,France,Defensive Midfield,DM,200000.0,Rodez AF,France,0.0,0
+2006,Ligue 1,Le Mans Union Club 72,summer,out,Jacques-Désiré Périatambée,6256,30,Mauritius,Defensive Midfield,DM,500000.0,Chamois Niortais FC,France,0.0,0
+2006,Ligue 1,Le Mans Union Club 72,summer,out,Arnaud Lisembart,35007,21,France,Right-Back,RB,150000.0,Oud-Heverlee Leuven,Belgium,0.0,0
+2006,Ligue 1,Le Mans Union Club 72,summer,out,Clément Pinault,35010,21,France,Centre-Back,CB,350000.0,Angers SCO,France,0.0,1
+2006,Ligue 1,Le Mans Union Club 72,summer,out,Edo Ekhosuehi,34533,22,Nigeria,Centre-Forward,CF,500000.0,AS Livorno,Italy,0.0,1
+2006,Ligue 1,Le Mans Union Club 72,summer,out,Jérémy Choplin,34532,21,France,Centre-Back,CB,,Entente Sannois Saint-Gratien,France,0.0,1
+2006,Ligue 1,Le Mans Union Club 72,summer,out,Luigi Lavecchia,19244,24,Italy,Right Midfield,RM,500000.0,Juventus FC,Italy,0.0,1
+2006,Ligue 1,Le Mans Union Club 72,summer,out,Davide Chiumiento,17332,21,Switzerland,Attacking Midfield,AM,1250000.0,Juventus FC,Italy,0.0,1
+2006,Ligue 1,Le Mans Union Club 72,summer,out,Cédric Fauré,6970,27,France,Centre-Forward,CF,750000.0,FC Istres Ouest Provence ,France,0.0,1
+2006,Ligue 1,Le Mans Union Club 72,winter,out,Edo Ekhosuehi,34533,22,Nigeria,Centre-Forward,CF,500000.0,Yverdon Sport FC,Switzerland,0.0,0
+2006,Ligue 1,OGC Nice,summer,in,Ederson,29035,20,Brazil,Attacking Midfield,AM,1500000.0,Esporte Clube Juventude,Brazil,7500000.0,0
+2006,Ligue 1,OGC Nice,summer,in,Matt Moussilou,5654,24,Congo,Centre-Forward,CF,5000000.0,LOSC Lille,France,4000000.0,0
+2006,Ligue 1,OGC Nice,summer,in,Cédric Kanté,5614,26,Mali,Centre-Back,CB,2750000.0,RC Strasbourg Alsace,France,1000000.0,0
+2006,Ligue 1,OGC Nice,summer,in,David Bellion,3115,23,France,Centre-Forward,CF,2250000.0,Manchester United,England,500000.0,0
+2006,Ligue 1,OGC Nice,summer,in,Olivier Veigneau,31773,21,France,Left-Back,LB,1500000.0,AS Monaco,France,150000.0,1
+2006,Ligue 1,OGC Nice,winter,in,Lionel Létizi,5550,33,France,Goalkeeper,GK,1500000.0,Rangers FC,Scotland,0.0,0
+2006,Ligue 1,OGC Nice,winter,in,Lilian Laslandes,1450,35,France,Centre-Forward,CF,1000000.0,FC Girondins Bordeaux,France,,0
+2006,Ligue 1,OGC Nice,summer,out,Florian Boucansaud,31219,25,France,Centre-Back,CB,1000000.0,ESTAC Troyes,France,2000000.0,0
+2006,Ligue 1,OGC Nice,summer,out,Sammy Traoré,13843,30,Mali,Centre-Back,CB,2100000.0,Paris Saint-Germain,France,1500000.0,0
+2006,Ligue 1,OGC Nice,summer,out,Sébastien Roudet,17693,25,France,Attacking Midfield,AM,1800000.0,Valenciennes FC,France,900000.0,0
+2006,Ligue 1,OGC Nice,summer,out,Florian Jarjat,17675,26,France,Centre-Back,CB,1000000.0,SC Bastia,France,100000.0,0
+2006,Ligue 1,OGC Nice,summer,out,Franck Padovani,23833,21,France,Centre-Forward,CF,350000.0,Entente Sannois Saint-Gratien,France,0.0,0
+2006,Ligue 1,OGC Nice,summer,out,François Grenet,8506,31,France,Right-Back,RB,400000.0,Aviron Bayonnais,France,0.0,0
+2006,Ligue 1,OGC Nice,summer,out,Yoann Bigné,5670,28,France,Central Midfield,CM,650000.0,Stade Brestois 29,France,0.0,0
+2006,Ligue 1,OGC Nice,summer,out,Bill Tchato,3004,31,Cameroon,Left-Back,LB,1500000.0,Qatar SC,Qatar,0.0,0
+2006,Ligue 1,OGC Nice,summer,out,Anthony Scaramozzino,17976,21,France,Centre-Back,CB,350000.0,AS Cannes,France,0.0,1
+2006,Ligue 1,OGC Nice,summer,out,Franco Dolci,18639,22,Argentina,Defensive Midfield,DM,400000.0,SC Bastia,France,0.0,1
+2006,Ligue 1,OGC Nice,summer,out,Roberto Bisconti,13438,32,Belgium,Defensive Midfield,DM,1000000.0,Without Club,,,0
+2006,Ligue 1,OGC Nice,summer,out,David Bellion,3115,23,France,Centre-Forward,CF,2250000.0,Manchester United,England,0.0,1
+2006,Ligue 1,OGC Nice,summer,out,Mamadou Bagayoko,3002,27,Mali,Centre-Forward,CF,2000000.0,FC Nantes,France,0.0,1
+2006,Ligue 1,OGC Nice,summer,out,Ederson,29035,20,Brazil,Attacking Midfield,AM,1500000.0,Esporte Clube Juventude,Brazil,0.0,1
+2006,Ligue 1,OGC Nice,winter,out,Damien Grégorini,5309,27,France,Goalkeeper,GK,1000000.0,AS Nancy-Lorraine,France,800000.0,0
+2006,Ligue 1,OGC Nice,winter,out,Anthar Yahia,5586,24,Algeria,Centre-Back,CB,1750000.0,VfL Bochum,Germany,50000.0,1
+2006,Ligue 1,OGC Nice,winter,out,Matt Moussilou,5654,24,Congo,Centre-Forward,CF,2400000.0,AS Saint-Étienne,France,0.0,1
+2006,Ligue 1,Olympique Lyon,summer,in,Kim Källström,3730,23,Sweden,Central Midfield,CM,7500000.0,Stade Rennais FC,France,8000000.0,0
+2006,Ligue 1,Olympique Lyon,summer,in,Jérémy Toulalan,5513,22,France,Defensive Midfield,DM,7000000.0,FC Nantes,France,7000000.0,0
+2006,Ligue 1,Olympique Lyon,summer,in,Alou Diarra,1327,25,France,Defensive Midfield,DM,5000000.0,RC Lens,France,6250000.0,0
+2006,Ligue 1,Olympique Lyon,summer,in,Sébastien Squillaci,5293,25,France,Centre-Back,CB,7500000.0,AS Monaco,France,4500000.0,0
+2006,Ligue 1,Olympique Lyon,winter,in,Fábio Santos,25121,26,Brazil,Defensive Midfield,DM,,Cruzeiro Esporte Clube,Brazil,4200000.0,0
+2006,Ligue 1,Olympique Lyon,winter,in,Milan Baros,3216,25,Czech Republic,Centre-Forward,CF,9000000.0,Aston Villa,England,2500000.0,0
+2006,Ligue 1,Olympique Lyon,summer,out,Mahamadou Diarra,5352,25,Mali,Defensive Midfield,DM,20000000.0,Real Madrid,Spain,26000000.0,0
+2006,Ligue 1,Olympique Lyon,summer,out,Nilmar,22750,21,Brazil,Centre-Forward,CF,6000000.0,Sport Club Corinthians Paulista,Brazil,8000000.0,0
+2006,Ligue 1,Olympique Lyon,summer,out,Pierre-Alain Frau,3901,26,France,Centre-Forward,CF,4500000.0,Paris Saint-Germain,France,5000000.0,0
+2006,Ligue 1,Olympique Lyon,summer,out,Benoît Pedretti,5406,25,France,Defensive Midfield,DM,6000000.0,AJ Auxerre,France,5000000.0,0
+2006,Ligue 1,Olympique Lyon,summer,out,Sylvain Monsoreau,5393,25,France,Centre-Back,CB,4000000.0,AS Monaco,France,1500000.0,0
+2006,Ligue 1,Olympique Lyon,summer,out,Jérémy Clément,18901,21,France,Defensive Midfield,DM,1750000.0,Rangers FC,Scotland,1500000.0,0
+2006,Ligue 1,Olympique Lyon,summer,out,Julien Viale,12135,24,France,Centre-Forward,CF,500000.0,FC Istres Ouest Provence ,France,200000.0,0
+2006,Ligue 1,Olympique Lyon,summer,out,Johann Truchet,18907,22,France,Right-Back,RB,100000.0,EA Guingamp,France,0.0,0
+2006,Ligue 1,Olympique Lyon,summer,out,Lamine Diatta,3907,31,Senegal,Centre-Back,CB,1500000.0,AS Saint-Étienne,France,0.0,0
+2006,Ligue 1,Olympique Lyon,summer,out,Rémy Riou,18940,18,France,Goalkeeper,GK,100000.0,FC Lorient,France,0.0,1
+2006,Ligue 1,Olympique Lyon,winter,out,Yacine Hima,18903,22,Algeria,Central Midfield,CM,100000.0,FC Aarau,Switzerland,125000.0,1
+2006,Ligue 1,Olympique Lyon,winter,out,John Carew,3570,27,Norway,Centre-Forward,CF,6000000.0,Aston Villa,England,,0
+2006,Ligue 1,Olympique Marseille,summer,in,Ronald Zubar,22645,20,Guadeloupe,Centre-Back,CB,3750000.0,SM Caen,France,3500000.0,0
+2006,Ligue 1,Olympique Marseille,summer,in,Modeste M'Bami,6631,23,Cameroon,Defensive Midfield,DM,5000000.0,Paris Saint-Germain,France,2500000.0,0
+2006,Ligue 1,Olympique Marseille,summer,in,Renato Civelli,30757,22,Argentina,Centre-Back,CB,2500000.0,CA Banfield,Argentina,1750000.0,0
+2006,Ligue 1,Olympique Marseille,summer,in,Djibril Cissé,3966,24,France,Centre-Forward,CF,13500000.0,Liverpool FC,England,1500000.0,1
+2006,Ligue 1,Olympique Marseille,summer,in,Toifilou Maoulida,5680,27,France,Centre-Forward,CF,2500000.0,AS Monaco,France,1000000.0,0
+2006,Ligue 1,Olympique Marseille,summer,in,Mathieu Valbuena,40687,21,France,Attacking Midfield,AM,,FC Libourne-Saint-Seurin,France,800000.0,0
+2006,Ligue 1,Olympique Marseille,summer,in,Hassoun Camara,41045,22,France,Right-Back,RB,,Olympique Noisy-le-Sec,France,0.0,0
+2006,Ligue 1,Olympique Marseille,summer,in,Mehdi Sennaoui,33955,20,Algeria,Goalkeeper,GK,150000.0,RC Strasbourg Alsace,France,0.0,0
+2006,Ligue 1,Olympique Marseille,summer,in,Sébastien Hamel,5416,30,France,Goalkeeper,GK,500000.0,AJ Auxerre,France,0.0,0
+2006,Ligue 1,Olympique Marseille,winter,in,Sébastien Maté,46770,35,France,Goalkeeper,GK,,Entente Sannois Saint-Gratien,France,375000.0,0
+2006,Ligue 1,Olympique Marseille,winter,in,Julien Rodriguez,5292,28,France,Centre-Back,CB,3000000.0,Rangers FC,Scotland,0.0,0
+2006,Ligue 1,Olympique Marseille,winter,in,Salim Arrache,18397,24,Algeria,Left Winger,LW,1500000.0,Without Club,,,0
+2006,Ligue 1,Olympique Marseille,summer,out,Rudi Skacel,9524,26,Czech Republic,Left Midfield,LM,2500000.0,Southampton FC,England,2200000.0,0
+2006,Ligue 1,Olympique Marseille,summer,out,Abdoulaye Méïté,5315,25,Cote d'Ivoire,Centre-Back,CB,4000000.0,Bolton Wanderers,England,1500000.0,0
+2006,Ligue 1,Olympique Marseille,summer,out,Koke,16132,23,Spain,Centre-Forward,CF,2300000.0,Aris Thessaloniki,Greece,1000000.0,0
+2006,Ligue 1,Olympique Marseille,summer,out,Laurent Batlles,5669,30,France,Central Midfield,CM,4000000.0,FC Toulouse,France,900000.0,0
+2006,Ligue 1,Olympique Marseille,summer,out,Frédéric Déhu,5552,33,France,Centre-Back,CB,2000000.0,Levante UD,Spain,0.0,0
+2006,Ligue 1,Olympique Marseille,summer,out,Lamine Tamba,632589,20,Senegal,Defender,Defender,,Wasquehal Football,France,0.0,0
+2006,Ligue 1,Olympique Marseille,summer,out,Vincent Gastine,38477,24,France,Defensive Midfield,DM,,Ethnikos Piraeus,Greece,0.0,0
+2006,Ligue 1,Olympique Marseille,summer,out,Anthony Flachi,38476,20,France,Central Midfield,CM,,ÉFC Fréjus Saint-Raphaël,France,0.0,0
+2006,Ligue 1,Olympique Marseille,summer,out,Sabri Lamouchi,5872,34,France,Central Midfield,CM,1200000.0,Al-Rayyan SC,Qatar,0.0,0
+2006,Ligue 1,Olympique Marseille,summer,out,Demetrius Ferreira,5579,32,Brazil,Right-Back,RB,1600000.0,ESTAC Troyes,France,0.0,0
+2006,Ligue 1,Olympique Marseille,summer,out,Jérémy Gavanon,7338,22,France,Goalkeeper,GK,600000.0,FC Sochaux-Montbéliard,France,0.0,0
+2006,Ligue 1,Olympique Marseille,summer,out,Delfim,5322,29,Portugal,Defensive Midfield,DM,1000000.0,BSC Young Boys,Switzerland,0.0,0
+2006,Ligue 1,Olympique Marseille,summer,out,Leyti N'Diaye,18894,20,Senegal,Centre-Back,CB,450000.0,RC Strasbourg Alsace,France,0.0,1
+2006,Ligue 1,Olympique Marseille,summer,out,Fabrice Begeorgi,36911,19,France,Left-Back,LB,150000.0,FC Libourne-Saint-Seurin,France,0.0,1
+2006,Ligue 1,Olympique Marseille,summer,out,Fabrice Fiorèse,5572,31,France,Right Winger,RW,1000000.0,FC Lorient,France,0.0,1
+2006,Ligue 1,Olympique Marseille,summer,out,Christian Giménez,2898,31,Argentina,Centre-Forward,CF,1000000.0,Hertha BSC,Germany,0.0,1
+2006,Ligue 1,Olympique Marseille,summer,out,Péguy Luyindula,3916,27,France,Centre-Forward,CF,8000000.0,Levante UD,Spain,0.0,1
+2006,Ligue 1,Olympique Marseille,summer,out,Medhi Benatia,45124,19,Morocco,Centre-Back,CB,,Tours FC,France,0.0,1
+2006,Ligue 1,Olympique Marseille,summer,out,Alexis Pradie,38480,19,France,Centre-Back,CB,,Unknown,,,0
+2006,Ligue 1,Olympique Marseille,summer,out,Fabien Barthez,3289,35,France,Goalkeeper,GK,3000000.0,Career break,,,0
+2006,Ligue 1,Olympique Marseille,summer,out,Jérôme Bonnissel,3911,33,France,Left-Back,LB,750000.0,Retired,,,0
+2006,Ligue 1,Olympique Marseille,summer,out,Yannick Quesnel,14360,32,France,Goalkeeper,GK,300000.0,SL Benfica,Portugal,0.0,1
+2006,Ligue 1,Olympique Marseille,summer,out,Toifilou Maoulida,5680,27,France,Centre-Forward,CF,2500000.0,AS Monaco,France,0.0,1
+2006,Ligue 1,Olympique Marseille,summer,out,Renato Civelli,30757,22,Argentina,Centre-Back,CB,2500000.0,CA Banfield,Argentina,0.0,1
+2006,Ligue 1,Olympique Marseille,summer,out,André Luis,18730,26,Brazil,Centre-Back,CB,1800000.0,SL Benfica,Portugal,0.0,1
+2006,Ligue 1,Olympique Marseille,winter,out,Péguy Luyindula,3916,27,France,Centre-Forward,CF,5000000.0,Paris Saint-Germain,France,4000000.0,0
+2006,Ligue 1,Olympique Marseille,winter,out,Léo Matos,22378,20,Brazil,Right-Back,RB,1000000.0,Tombense Futebol Clube (MG),Brazil,275000.0,0
+2006,Ligue 1,Olympique Marseille,winter,out,Thomas Deruda,38357,20,France,Central Midfield,CM,500000.0,FC Libourne-Saint-Seurin,France,0.0,1
+2006,Ligue 1,Olympique Marseille,winter,out,Habib Bamogo,3912,24,Burkina Faso,Second Striker,SS,2800000.0,Celta de Vigo,Spain,0.0,1
+2006,Ligue 1,Paris Saint-Germain,summer,in,Pierre-Alain Frau,3901,26,France,Centre-Forward,CF,4500000.0,Olympique Lyon,France,5000000.0,0
+2006,Ligue 1,Paris Saint-Germain,summer,in,Amara Diané,29287,23,Cote d'Ivoire,Right Winger,RW,3000000.0,RC Strasbourg Alsace,France,3000000.0,0
+2006,Ligue 1,Paris Saint-Germain,summer,in,Sammy Traoré,13843,30,Mali,Centre-Back,CB,2100000.0,OGC Nice,France,1500000.0,0
+2006,Ligue 1,Paris Saint-Germain,summer,in,Albert Baning,37846,21,Cameroon,Defensive Midfield,DM,400000.0,FC Aarau,Switzerland,1200000.0,0
+2006,Ligue 1,Paris Saint-Germain,summer,in,Mickaël Landreau,3575,27,France,Goalkeeper,GK,6500000.0,FC Nantes,France,0.0,0
+2006,Ligue 1,Paris Saint-Germain,summer,in,David Hellebuyck,17429,27,France,Central Midfield,CM,4000000.0,AS Saint-Étienne,France,,0
+2006,Ligue 1,Paris Saint-Germain,winter,in,Péguy Luyindula,3916,27,France,Centre-Forward,CF,5000000.0,Olympique Marseille,France,4000000.0,0
+2006,Ligue 1,Paris Saint-Germain,winter,in,Jérémy Clément,18901,22,France,Defensive Midfield,DM,3500000.0,Rangers FC,Scotland,2000000.0,0
+2006,Ligue 1,Paris Saint-Germain,winter,in,Marcelo Gallardo,5298,30,Argentina,Attacking Midfield,AM,10000000.0,CA River Plate,Argentina,0.0,0
+2006,Ligue 1,Paris Saint-Germain,summer,out,Modeste M'Bami,6631,23,Cameroon,Defensive Midfield,DM,5000000.0,Olympique Marseille,France,2500000.0,0
+2006,Ligue 1,Paris Saint-Germain,summer,out,Danijel Ljuboja,5630,27,Serbia,Centre-Forward,CF,3750000.0,VfB Stuttgart,Germany,2000000.0,0
+2006,Ligue 1,Paris Saint-Germain,summer,out,Branko Boskovic,9090,26,Montenegro,Central Midfield,CM,1500000.0,FK Rad,Serbia,0.0,0
+2006,Ligue 1,Paris Saint-Germain,summer,out,Mohamed Benhamou,12141,26,Algeria,Goalkeeper,GK,150000.0,AS Cannes,France,0.0,0
+2006,Ligue 1,Paris Saint-Germain,summer,out,Jean-Michel Badiane,12147,23,France,Centre-Back,CB,400000.0,CS Sedan-Ardennes,France,0.0,0
+2006,Ligue 1,Paris Saint-Germain,summer,out,Hocine Ragued,25705,23,Tunisia,Defensive Midfield,DM,250000.0,RAEC Mons (-2015),Belgium,0.0,0
+2006,Ligue 1,Paris Saint-Germain,summer,out,Ahmed Kantari,33447,21,Morocco,Centre-Back,CB,100000.0,RC Strasbourg Alsace,France,0.0,0
+2006,Ligue 1,Paris Saint-Germain,summer,out,Lionel Létizi,5550,33,France,Goalkeeper,GK,1500000.0,Rangers FC,Scotland,0.0,0
+2006,Ligue 1,Paris Saint-Germain,summer,out,Vedad Ibisevic,21175,21,Bosnia-Herzegovina,Centre-Forward,CF,250000.0,Alemannia Aachen,Germany,0.0,0
+2006,Ligue 1,Paris Saint-Germain,summer,out,Rudy Haddad,32198,21,Israel,Attacking Midfield,AM,500000.0,Valenciennes FC,France,0.0,1
+2006,Ligue 1,Paris Saint-Germain,summer,out,Christophe Landrin,5647,29,France,Central Midfield,CM,3800000.0,AS Saint-Étienne,France,,0
+2006,Ligue 1,Paris Saint-Germain,summer,out,Stéphane Pichot,5638,29,France,Right-Back,RB,1000000.0,FC Sochaux-Montbéliard,France,,0
+2006,Ligue 1,Paris Saint-Germain,summer,out,Jean-Hugues Ateba,5500,24,Cameroon,Left-Back,LB,500000.0,LB Châteauroux,France,,0
+2006,Ligue 1,Paris Saint-Germain,summer,out,Carlos Bueno,33439,26,Uruguay,Centre-Forward,CF,1500000.0,Sporting CP,Portugal,0.0,1
+2006,Ligue 1,Paris Saint-Germain,summer,out,Franck Dja Djédjé,18860,20,Cote d'Ivoire,Right Winger,RW,400000.0,Grenoble Foot 38,France,0.0,1
+2006,Ligue 1,Paris Saint-Germain,summer,out,Vikash Dhorasoo,5351,33,France,Central Midfield,CM,1500000.0,Without Club,,,0
+2006,Ligue 1,Paris Saint-Germain,winter,out,Paulo César,5557,28,Brazil,Right Midfield,RM,1500000.0,FC Toulouse,France,0.0,0
+2006,Ligue 1,Paris Saint-Germain,winter,out,Fabrice Pancrate,6267,26,France,Right Winger,RW,2000000.0,Real Betis Balompié,Spain,0.0,1
+2006,Ligue 1,RC Lens,summer,in,Sidi Keita,27391,21,Mali,Defensive Midfield,DM,1000000.0,RC Strasbourg Alsace,France,6000000.0,0
+2006,Ligue 1,RC Lens,summer,in,Nenad Kovačević,19709,25,Serbia,Defensive Midfield,DM,2000000.0,Red Star Belgrade,Serbia,3000000.0,0
+2006,Ligue 1,RC Lens,summer,in,Razak Boukari,38536,19,Togo,Right Winger,RW,1250000.0,LB Châteauroux,France,1000000.0,0
+2006,Ligue 1,RC Lens,summer,in,Marco Ramos,16477,23,Portugal,Left-Back,LB,1000000.0,LB Châteauroux,France,500000.0,0
+2006,Ligue 1,RC Lens,summer,in,Grégory Vignal,4755,24,France,Left-Back,LB,2000000.0,Portsmouth FC,England,0.0,0
+2006,Ligue 1,RC Lens,winter,in,Milan Bisevac,24661,23,Serbia,Centre-Back,CB,1000000.0,Red Star Belgrade,Serbia,4099999.9999999995,0
+2006,Ligue 1,RC Lens,winter,in,Olivier Monterrubio,5681,30,France,Left Winger,LW,6500000.0,Stade Rennais FC,France,1500000.0,0
+2006,Ligue 1,RC Lens,winter,in,Damian Tixier,13869,25,France,Left-Back,LB,50000.0,UD Leiria,Portugal,200000.0,0
+2006,Ligue 1,RC Lens,summer,out,Alou Diarra,1327,25,France,Defensive Midfield,DM,5000000.0,Olympique Lyon,France,6250000.0,0
+2006,Ligue 1,RC Lens,summer,out,Benoît Assou-Ekotto,18310,22,Cameroon,Left-Back,LB,2800000.0,Tottenham Hotspur,England,5000000.0,0
+2006,Ligue 1,RC Lens,summer,out,Abdoulaye Faye,6107,28,Senegal,Centre-Back,CB,2400000.0,Bolton Wanderers,England,3000000.0,0
+2006,Ligue 1,RC Lens,summer,out,Yoann Lachor,5479,30,France,Left-Back,LB,750000.0,CS Sedan-Ardennes,France,0.0,0
+2006,Ligue 1,RC Lens,summer,out,Daouda Jabi,5478,25,Guinea,Right-Back,RB,1000000.0,Grenoble Foot 38,France,0.0,0
+2006,Ligue 1,RC Lens,summer,out,Seïd Khiter,27006,21,France,Right Winger,RW,750000.0,AC Ajaccio,France,0.0,1
+2006,Ligue 1,RC Lens,summer,out,Jonathan Lacourt,33819,20,France,Central Midfield,CM,800000.0,ESTAC Troyes,France,0.0,1
+2006,Ligue 1,RC Lens,summer,out,Jonathan Martins Pereira,30698,20,France,Right-Back,RB,300000.0,Amiens SC,France,0.0,1
+2006,Ligue 1,RC Lens,summer,out,Pierre-Alain Frau,3901,26,France,Centre-Forward,CF,4500000.0,Olympique Lyon,France,0.0,1
+2006,Ligue 1,RC Lens,summer,out,Guillermo Rodríguez,37633,22,Uruguay,Centre-Back,CB,500000.0,Danubio FC,Uruguay,0.0,1
+2006,Ligue 1,RC Lens,winter,out,Olivier Thomert,5490,26,Martinique,Left Midfield,LM,6500000.0,Stade Rennais FC,France,4500000.0,0
+2006,Ligue 1,RC Lens,winter,out,Simon Feindouno,27118,20,Guinea,Attacking Midfield,AM,,FC Istres Ouest Provence ,France,0.0,1
+2006,Ligue 1,RC Lens,winter,out,Jussiê,20410,23,Brazil,Attacking Midfield,AM,4000000.0,FC Girondins Bordeaux,France,0.0,1
+2006,Ligue 1,RC Lens,winter,out,Kamil Zayatte,33820,21,Guinea,Centre-Back,CB,150000.0,BSC Young Boys,Switzerland,,0
+2006,Ligue 1,RC Lens,winter,out,Adel Taarabt,45287,17,Morocco,Central Midfield,CM,50000.0,Tottenham Hotspur,England,0.0,1
+2006,Ligue 1,RC Lens,winter,out,Grégory Vignal,4755,25,France,Left-Back,LB,2000000.0,1.FC Kaiserslautern,Germany,0.0,1
+2006,Ligue 1,Stade Rennais FC,summer,in,Daniel Moreira,5494,28,France,Second Striker,SS,7000000.0,FC Toulouse,France,4500000.0,0
+2006,Ligue 1,Stade Rennais FC,summer,in,Bruno Cheyrou,3602,28,France,Central Midfield,CM,3900000.0,Liverpool FC,England,1000000.0,0
+2006,Ligue 1,Stade Rennais FC,summer,in,Mario Melchiot,3158,29,Netherlands,Right-Back,RB,3830000.0,Birmingham City,England,0.0,0
+2006,Ligue 1,Stade Rennais FC,summer,in,Christophe Revault,6805,34,France,Goalkeeper,GK,1750000.0,FC Toulouse,France,0.0,0
+2006,Ligue 1,Stade Rennais FC,winter,in,Olivier Thomert,5490,26,Martinique,Left Midfield,LM,6500000.0,RC Lens,France,4500000.0,0
+2006,Ligue 1,Stade Rennais FC,winter,in,Julian Esteban,35543,20,Switzerland,Centre-Forward,CF,2000000.0,Servette FC,Switzerland,2000000.0,0
+2006,Ligue 1,Stade Rennais FC,summer,out,Kim Källström,3730,23,Sweden,Central Midfield,CM,7500000.0,Olympique Lyon,France,8000000.0,0
+2006,Ligue 1,Stade Rennais FC,summer,out,Yoann Gourcuff,18912,19,France,Attacking Midfield,AM,3500000.0,AC Milan,Italy,4500000.0,0
+2006,Ligue 1,Stade Rennais FC,summer,out,Alex Frei,4977,26,Switzerland,Centre-Forward,CF,10000000.0,Borussia Dortmund,Germany,4099999.9999999995,0
+2006,Ligue 1,Stade Rennais FC,summer,out,Andreas Isaksson,6590,24,Sweden,Goalkeeper,GK,6000000.0,Manchester City,England,3000000.0,0
+2006,Ligue 1,Stade Rennais FC,summer,out,Alain Rochat,4843,23,Switzerland,Centre-Back,CB,1000000.0,FC Zürich,Switzerland,200000.0,1
+2006,Ligue 1,Stade Rennais FC,summer,out,Abdeslam Ouaddou,4002,27,France,Centre-Back,CB,2500000.0,Olympiacos Piraeus,Greece,0.0,0
+2006,Ligue 1,Stade Rennais FC,summer,out,Jonathan Bru,18910,21,Mauritius,Defensive Midfield,DM,250000.0,FC Istres Ouest Provence ,France,0.0,0
+2006,Ligue 1,Stade Rennais FC,summer,out,Cédric Barbosa,5698,30,France,Left Midfield,LM,600000.0,ESTAC Troyes,France,0.0,0
+2006,Ligue 1,Stade Rennais FC,summer,out,Grégory Tanagro,22383,22,France,Centre-Back,CB,300000.0,RCO Agde,France,0.0,0
+2006,Ligue 1,Stade Rennais FC,summer,out,Florent Chaigneau,8498,22,France,Goalkeeper,GK,,Sporting Toulon Var,France,0.0,1
+2006,Ligue 1,Stade Rennais FC,summer,out,Pape Diop,39907,20,Senegal,Defensive Midfield,DM,50000.0,Tours FC,France,0.0,1
+2006,Ligue 1,Stade Rennais FC,summer,out,Arthur Sorin,30699,20,France,Centre-Back,CB,50000.0,Without Club,,,0
+2006,Ligue 1,Stade Rennais FC,winter,out,Youssouf Hadji,5345,26,Morocco,Centre-Forward,CF,1800000.0,AS Nancy-Lorraine,France,1600000.0,0
+2006,Ligue 1,Stade Rennais FC,winter,out,Adailton,18699,23,Brazil,Centre-Back,CB,3000000.0,Santos FC,Brazil,1500000.0,0
+2006,Ligue 1,Stade Rennais FC,winter,out,Olivier Monterrubio,5681,30,France,Left Winger,LW,6500000.0,RC Lens,France,1500000.0,0
+2006,Ligue 1,Stade Rennais FC,winter,out,Jean-Joël Perrier-Doumbé,5423,28,Cameroon,Right-Back,RB,800000.0,Celtic FC,Scotland,210000.0,1
+2006,Ligue 1,Stade Rennais FC,winter,out,Arnold Mvuemba,20622,21,DR Congo,Defensive Midfield,DM,750000.0,Portsmouth FC,England,200000.0,1
+2006,Ligue 1,Valenciennes FC,summer,in,Nicolas Penneteau,5578,25,France,Goalkeeper,GK,2000000.0,SC Bastia,France,1500000.0,0
+2006,Ligue 1,Valenciennes FC,summer,in,Sébastien Roudet,17693,25,France,Attacking Midfield,AM,1800000.0,OGC Nice,France,900000.0,0
+2006,Ligue 1,Valenciennes FC,summer,in,Eric Hassli,12031,25,France,Centre-Forward,CF,1100000.0,FC St. Gallen 1879,Switzerland,800000.0,0
+2006,Ligue 1,Valenciennes FC,summer,in,Florin Bratu,9710,26,Romania,Centre-Forward,CF,1500000.0,FC Nantes,France,500000.0,1
+2006,Ligue 1,Valenciennes FC,summer,in,Patrick Paauwe,4372,30,Netherlands,Centre-Back,CB,1400000.0,Feyenoord Rotterdam,Netherlands,0.0,0
+2006,Ligue 1,Valenciennes FC,summer,in,Guillaume Rippert,26328,21,France,Left-Back,LB,250000.0,FC Nantes,France,0.0,0
+2006,Ligue 1,Valenciennes FC,summer,in,Rudy Haddad,32198,21,Israel,Attacking Midfield,AM,500000.0,Paris Saint-Germain,France,0.0,1
+2006,Ligue 1,Valenciennes FC,winter,in,Abdeslam Ouaddou,4002,28,France,Centre-Back,CB,2500000.0,Olympiacos Piraeus,Greece,0.0,0
+2006,Ligue 1,Valenciennes FC,winter,in,Jeovânio,45635,29,Brazil,Defensive Midfield,DM,,Grêmio Foot-Ball Porto Alegrense,Brazil,,0
+2006,Ligue 1,Valenciennes FC,summer,out,Alexandre Danset,1080299,21,France,Centre-Forward,CF,,Olympique Saint-Quentin,France,0.0,0
+2006,Ligue 1,Valenciennes FC,summer,out,Philippe Burle,57363,32,France,Centre-Back,CB,,Stade Reims,France,0.0,0
+2006,Ligue 1,Valenciennes FC,summer,out,David Klein,45105,32,France,Goalkeeper,GK,,Chamois Niortais FC,France,0.0,0
+2006,Ligue 1,Valenciennes FC,summer,out,Sébastien Heitzmann,31076,26,France,Centre-Forward,CF,125000.0,Amiens SC,France,,0
+2006,Ligue 1,Valenciennes FC,summer,out,Gloria Muntubila,89634,26,France,Defender,Defender,,SC Feignies,France,,0
+2006,Ligue 1,Valenciennes FC,summer,out,Anthony Savigny,90144,31,France,Right-Back,RB,,Unknown,,,0
+2006,Ligue 1,Valenciennes FC,summer,out,Olivier Bogaczyk,129869,29,France,Centre-Forward,CF,,FC Sète 34,France,,0
+2006,Ligue 1,Valenciennes FC,summer,out,Tidiane Dia,56779,21,Senegal,Centre-Forward,CF,100000.0,Pau FC,France,0.0,1
+2006,Ligue 1,Valenciennes FC,summer,out,Sylvain Idangar,18904,22,Chad,Left Winger,LW,400000.0,Olympique Lyon,France,0.0,1
+2006,Ligue 1,Valenciennes FC,summer,out,Guillaume Rippert,26328,21,France,Left-Back,LB,250000.0,FC Nantes,France,0.0,1

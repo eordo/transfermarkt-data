@@ -14,6 +14,7 @@ All league data span the 1992&ndash;93 season through the current season unless 
 - La Liga (Spain)
 - Bundesliga (Germany)
 - Serie A (Italy)
+- Ligue 1 (France)
 
 More leagues and seasons are to come!
 

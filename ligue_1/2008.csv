@@ -1,0 +1,482 @@
+season,league,club,window,movement,player_name,player_id,age,nationality,position,pos,market_value,dealing_club,dealing_country,fee,is_loan
+2008,Ligue 1,AJ Auxerre,summer,in,Dariusz Dudka,24502,24,Poland,Defensive Midfield,DM,3300000.0,Wisla Kraków,Poland,2500000.0,0
+2008,Ligue 1,AJ Auxerre,summer,in,Adama Coulibaly,3886,27,Mali,Centre-Back,CB,4000000.0,RC Lens,France,2000000.0,0
+2008,Ligue 1,AJ Auxerre,summer,in,Dennis Oliech,35748,23,Kenya,Right Winger,RW,2000000.0,FC Nantes,France,1000000.0,0
+2008,Ligue 1,AJ Auxerre,summer,in,Jérémy Berthod,12133,24,France,Left-Back,LB,1400000.0,AS Monaco,France,1000000.0,0
+2008,Ligue 1,AJ Auxerre,summer,in,Moussa Narry,63476,22,Ghana,Defensive Midfield,DM,1500000.0,Etoile Sportive du Sahel,Tunisia,950000.0,0
+2008,Ligue 1,AJ Auxerre,summer,in,Cédric Hengbart,22632,27,France,Right-Back,RB,2000000.0,SM Caen,France,700000.0,0
+2008,Ligue 1,AJ Auxerre,summer,in,Maurice Dalé,75645,22,France,Centre-Forward,CF,,FC Martigues,France,0.0,0
+2008,Ligue 1,AJ Auxerre,summer,in,Amadou Sidibé,65670,22,Mali,Left-Back,LB,250000.0,Djoliba AC,Mali,,0
+2008,Ligue 1,AJ Auxerre,summer,in,Jérémy Huyghebaert,55616,19,Belgium,Left-Back,LB,100000.0,Excelsior Mouscron (-2009),Belgium,,0
+2008,Ligue 1,AJ Auxerre,winter,in,Valter Birsa,26105,22,Slovenia,Attacking Midfield,AM,1300000.0,FC Sochaux-Montbéliard,France,250000.0,1
+2008,Ligue 1,AJ Auxerre,summer,out,Frédéric Thomas,23979,27,France,Central Midfield,CM,2000000.0,Le Mans Union Club 72,France,3000000.0,0
+2008,Ligue 1,AJ Auxerre,summer,out,Gabriel Tamaș,6893,24,Romania,Centre-Back,CB,3000000.0,FC Dinamo 1948,Romania,400000.0,1
+2008,Ligue 1,AJ Auxerre,summer,out,Jean-Sébastien Jaurès,3903,30,France,Left-Back,LB,2000000.0,Borussia Mönchengladbach,Germany,0.0,0
+2008,Ligue 1,AJ Auxerre,summer,out,Marcos António,14334,25,Brazil,Centre-Back,CB,900000.0,PAOK Thessaloniki,Greece,0.0,1
+2008,Ligue 1,AJ Auxerre,summer,out,Ludovic Genest,37511,20,France,Attacking Midfield,AM,250000.0,SC Bastia,France,0.0,1
+2008,Ligue 1,AJ Auxerre,summer,out,Baptiste Martin,33848,23,France,Centre-Back,CB,800000.0,Clermont Foot Auvergne 63,France,0.0,1
+2008,Ligue 1,AJ Auxerre,summer,out,Vlad Munteanu,26041,27,Romania,Left Midfield,LM,1200000.0,VfL Wolfsburg,Germany,0.0,1
+2008,Ligue 1,AJ Auxerre,summer,out,Sammy Traoré,13843,32,Mali,Centre-Back,CB,2500000.0,Paris Saint-Germain,France,0.0,1
+2008,Ligue 1,AJ Auxerre,summer,out,Dennis Oliech,35748,23,Kenya,Right Winger,RW,2000000.0,FC Nantes,France,0.0,1
+2008,Ligue 1,AJ Auxerre,winter,out,Alain Traoré,43242,20,Burkina Faso,Attacking Midfield,AM,300000.0,Stade Brestois 29,France,0.0,1
+2008,Ligue 1,AJ Auxerre,winter,out,Jérémy Huyghebaert,55616,19,Belgium,Left-Back,LB,150000.0,KSV Roeselare (-2020),Belgium,0.0,1
+2008,Ligue 1,AS Monaco,summer,in,Alejandro Alonso,33935,26,Argentina,Right Midfield,RM,6000000.0,FC Girondins Bordeaux,France,2500000.0,0
+2008,Ligue 1,AS Monaco,summer,in,Chu-young Park,30982,23,"Korea, South",Centre-Forward,CF,1000000.0,FC Seoul,"Korea, South",2000000.0,0
+2008,Ligue 1,AS Monaco,summer,in,Jean-Jacques Gosso,80696,25,Cote d'Ivoire,Defensive Midfield,DM,,FC Ashdod,Israel,700000.0,0
+2008,Ligue 1,AS Monaco,summer,in,Sani Kaita,34183,22,Nigeria,Defensive Midfield,DM,700000.0,Sparta Rotterdam,Netherlands,0.0,0
+2008,Ligue 1,AS Monaco,summer,in,Patrick Müller,5347,31,Switzerland,Centre-Back,CB,800000.0,Olympique Lyon,France,0.0,0
+2008,Ligue 1,AS Monaco,summer,in,Dario Simic,2540,32,Croatia,Centre-Back,CB,1500000.0,AC Milan,Italy,0.0,0
+2008,Ligue 1,AS Monaco,summer,in,Freddy Adu,8518,19,United States,Attacking Midfield,AM,1500000.0,SL Benfica,Portugal,0.0,1
+2008,Ligue 1,AS Monaco,summer,in,Elia Legati,77970,22,Italy,Centre-Back,CB,,AC Milan,Italy,0.0,1
+2008,Ligue 1,AS Monaco,winter,in,Igor Lolo,15796,26,Cote d'Ivoire,Right-Back,RB,800000.0,Dnipro Dnipropetrovsk (- 2020),Ukraine,0.0,0
+2008,Ligue 1,AS Monaco,summer,out,Jérémy Ménez,16993,21,France,Centre-Forward,CF,7500000.0,AS Roma,Italy,12000000.0,0
+2008,Ligue 1,AS Monaco,summer,out,Frédéric Piquionne,5683,29,Martinique,Centre-Forward,CF,7000000.0,Olympique Lyon,France,4500000.0,0
+2008,Ligue 1,AS Monaco,summer,out,Sylvain Monsoreau,5393,27,France,Centre-Back,CB,4000000.0,AS Saint-Étienne,France,4000000.0,0
+2008,Ligue 1,AS Monaco,summer,out,Jérémy Berthod,12133,24,France,Left-Back,LB,1400000.0,AJ Auxerre,France,1000000.0,0
+2008,Ligue 1,AS Monaco,summer,out,Nenê,29091,27,Brazil,Attacking Midfield,AM,7000000.0,RCD Espanyol Barcelona,Spain,700000.0,1
+2008,Ligue 1,AS Monaco,summer,out,Bolívar,27366,27,Brazil,Centre-Back,CB,2500000.0,Sport Club Internacional,Brazil,300000.0,1
+2008,Ligue 1,AS Monaco,summer,out,Gonzalo Vargas,30830,26,Uruguay,Centre-Forward,CF,500000.0,Atlas Guadalajara,Mexico,150000.0,1
+2008,Ligue 1,AS Monaco,summer,out,Malaury Martin,40875,20,France,Defensive Midfield,DM,600000.0,Nîmes Olympique,France,0.0,1
+2008,Ligue 1,AS Monaco,summer,out,Arnaud Lescure,16590,22,France,Centre-Back,CB,200000.0,Rodez AF,France,0.0,1
+2008,Ligue 1,AS Monaco,summer,out,Vincent Ramaël,60586,20,France,Centre-Forward,CF,50000.0,AFC Tubize,Belgium,0.0,1
+2008,Ligue 1,AS Monaco,summer,out,Manuel Vallaurio,57128,21,Monaco,Goalkeeper,GK,100000.0,Olympique Croix de Savoie 74,France,0.0,1
+2008,Ligue 1,AS Monaco,summer,out,Massamba Sambou,39911,21,Senegal,Centre-Back,CB,1000000.0,Le Havre AC,France,0.0,1
+2008,Ligue 1,AS Monaco,summer,out,Sergio Almirón,5890,27,Argentina,Central Midfield,CM,6000000.0,Juventus FC,Italy,0.0,1
+2008,Ligue 1,AS Monaco,summer,out,Fábio Santos,13835,22,Brazil,Left-Back,LB,500000.0,São Paulo Futebol Clube,Brazil,0.0,1
+2008,Ligue 1,AS Monaco,summer,out,Ignacio González,67648,26,Uruguay,Attacking Midfield,AM,750000.0,Danubio FC,Uruguay,0.0,1
+2008,Ligue 1,AS Monaco,winter,out,Lucas Bernardi,5294,31,Argentina,Central Midfield,CM,2400000.0,CA Newell's Old Boys,Argentina,0.0,0
+2008,Ligue 1,AS Monaco,winter,out,Leandro Cufré,5945,30,Argentina,Left-Back,LB,3000000.0,Hertha BSC,Germany,0.0,1
+2008,Ligue 1,AS Monaco,winter,out,Torben Joneleit,42989,21,Germany,Centre-Back,CB,50000.0,Royal Charleroi SC,Belgium,0.0,1
+2008,Ligue 1,AS Monaco,winter,out,Sani Kaita,34183,22,Nigeria,Defensive Midfield,DM,700000.0,Kuban Krasnodar (-2018),Russia,0.0,1
+2008,Ligue 1,AS Monaco,winter,out,Elia Legati,77970,22,Italy,Centre-Back,CB,50000.0,AC Milan,Italy,0.0,1
+2008,Ligue 1,AS Nancy-Lorraine,summer,in,Abdeslam Ouaddou,4002,29,France,Centre-Back,CB,4000000.0,Valenciennes FC,France,3200000.0,0
+2008,Ligue 1,AS Nancy-Lorraine,summer,in,Paul Alo'o Efoulou,57342,24,Cameroon,Centre-Forward,CF,1200000.0,Angers SCO,France,2500000.0,0
+2008,Ligue 1,AS Nancy-Lorraine,summer,in,Julien Féret,28328,25,France,Attacking Midfield,AM,1500000.0,Stade Reims,France,1600000.0,0
+2008,Ligue 1,AS Nancy-Lorraine,summer,in,Hélder,75096,20,Brazil,Right-Back,RB,50000.0,Esporte Clube Juventude,Brazil,1500000.0,0
+2008,Ligue 1,AS Nancy-Lorraine,summer,in,Geoffrey Adjet,83335,20,France,Left Midfield,LM,,Toulouse Fontaines Club,France,0.0,0
+2008,Ligue 1,AS Nancy-Lorraine,summer,in,Joël Sami,45166,23,DR Congo,Centre-Back,CB,1200000.0,Amiens SC,France,0.0,0
+2008,Ligue 1,AS Nancy-Lorraine,summer,in,Jean Calvé,35650,24,France,Right-Back,RB,2500000.0,Le Mans Union Club 72,France,0.0,0
+2008,Ligue 1,AS Nancy-Lorraine,winter,in,Veigar Páll Gunnarsson,24134,28,Iceland,Second Striker,SS,1000000.0,Stabæk Fotball,Norway,1700000.0,0
+2008,Ligue 1,AS Nancy-Lorraine,summer,out,Kim,33505,28,Brazil,Centre-Forward,CF,4500000.0,Al-Arabi SC,Qatar,9000000.0,0
+2008,Ligue 1,AS Nancy-Lorraine,summer,out,Sébastien Puygrenier,5667,26,France,Centre-Back,CB,7500000.0,Zenit St. Petersburg,Russia,6000000.0,0
+2008,Ligue 1,AS Nancy-Lorraine,summer,out,Tosin Dosunmu,13303,27,Nigeria,Right Winger,RW,1700000.0,Germinal Beerschot Antwerpen,Belgium,400000.0,0
+2008,Ligue 1,AS Nancy-Lorraine,summer,out,Rachid Hamdani,40795,23,Morocco,Defensive Midfield,DM,800000.0,Clermont Foot Auvergne 63,France,0.0,0
+2008,Ligue 1,AS Nancy-Lorraine,summer,out,Damien Mozika,80105,21,France,Attacking Midfield,AM,,Chester City (- 2010),England,0.0,0
+2008,Ligue 1,AS Nancy-Lorraine,summer,out,Ludovic Guerriero,28332,23,France,Defensive Midfield,DM,600000.0,AC Ajaccio,France,0.0,0
+2008,Ligue 1,AS Nancy-Lorraine,summer,out,David Sauget,19045,28,France,Left-Back,LB,2500000.0,AS Saint-Étienne,France,0.0,0
+2008,Ligue 1,AS Nancy-Lorraine,summer,out,Johan Lapeyre,45446,22,France,Goalkeeper,GK,200000.0,Entente Sannois Saint-Gratien,France,0.0,1
+2008,Ligue 1,AS Nancy-Lorraine,summer,out,Paul Alo'o Efoulou,57342,24,Cameroon,Centre-Forward,CF,1200000.0,Angers SCO,France,0.0,1
+2008,Ligue 1,AS Nancy-Lorraine,summer,out,Emmanuel Duchemin,28321,29,France,Defensive Midfield,DM,800000.0,Retired,,,0
+2008,Ligue 1,AS Nancy-Lorraine,summer,out,Adailton,34371,28,Brazil,Right-Back,RB,200000.0,Retired,,,0
+2008,Ligue 1,AS Nancy-Lorraine,summer,out,Adrián Sarkisian,34373,29,Uruguay,Left Midfield,LM,400000.0,Retired,,,0
+2008,Ligue 1,AS Nancy-Lorraine,winter,out,Basile Camerling,38398,21,France,Centre-Forward,CF,300000.0,Clermont Foot Auvergne 63,France,0.0,1
+2008,Ligue 1,AS Nancy-Lorraine,winter,out,Jean Calvé,35650,24,France,Right-Back,RB,2200000.0,FC Lorient,France,0.0,1
+2008,Ligue 1,AS Nancy-Lorraine,winter,out,Marc-Antoine Fortuné,5652,27,French Guiana,Centre-Forward,CF,3600000.0,West Bromwich Albion,England,0.0,1
+2008,Ligue 1,AS Saint-Étienne,summer,in,Sylvain Monsoreau,5393,27,France,Centre-Back,CB,4000000.0,AS Monaco,France,4000000.0,0
+2008,Ligue 1,AS Saint-Étienne,summer,in,Kevin Mirallas,33639,20,Belgium,Right Winger,RW,3000000.0,LOSC Lille,France,3500000.0,0
+2008,Ligue 1,AS Saint-Étienne,summer,in,Sébastien Grax,9239,24,France,Centre-Forward,CF,1700000.0,FC Sochaux-Montbéliard,France,2000000.0,0
+2008,Ligue 1,AS Saint-Étienne,summer,in,Helton Dos Reis,70136,20,France,Centre-Back,CB,,FC Gueugnon,France,0.0,0
+2008,Ligue 1,AS Saint-Étienne,summer,in,Daisuke Matsui,25905,27,Japan,Left Midfield,LM,4500000.0,Le Mans Union Club 72,France,0.0,0
+2008,Ligue 1,AS Saint-Étienne,summer,in,David Sauget,19045,28,France,Left-Back,LB,2500000.0,AS Nancy-Lorraine,France,0.0,0
+2008,Ligue 1,AS Saint-Étienne,summer,in,Paulo Machado,29039,22,Portugal,Central Midfield,CM,900000.0,FC Porto,Portugal,0.0,1
+2008,Ligue 1,AS Saint-Étienne,summer,out,Pascal Feindouno,3914,27,Guinea,Right Winger,RW,7500000.0,Al-Sadd SC,Qatar,5000000.0,0
+2008,Ligue 1,AS Saint-Étienne,summer,out,Nivaldo,43076,28,Brazil,Centre-Back,CB,1800000.0,Al-Sadd SC,Qatar,3000000.0,0
+2008,Ligue 1,AS Saint-Étienne,summer,out,Damien Perquis,31050,24,Poland,Centre-Back,CB,2500000.0,FC Sochaux-Montbéliard,France,1000000.0,0
+2008,Ligue 1,AS Saint-Étienne,summer,out,Fredy Guarín,39090,22,Colombia,Central Midfield,CM,1500000.0,FC Porto,Portugal,1000000.0,0
+2008,Ligue 1,AS Saint-Étienne,summer,out,Siaka Tiéné,34026,26,Cote d'Ivoire,Left-Back,LB,1000000.0,Valenciennes FC,France,1000000.0,0
+2008,Ligue 1,AS Saint-Étienne,summer,out,Roudolphe Douala,14103,29,Cameroon,Left Winger,LW,1300000.0,Asteras Tripolis,Greece,0.0,0
+2008,Ligue 1,AS Saint-Étienne,summer,out,Maodomalick Faye,47311,20,Senegal,Centre-Forward,CF,300000.0,Tours FC,France,0.0,1
+2008,Ligue 1,AS Saint-Étienne,summer,out,Jessy Moulin,33925,22,France,Goalkeeper,GK,150000.0,AC Arles-Avignon,France,0.0,1
+2008,Ligue 1,AS Saint-Étienne,summer,out,Samy Houri,33920,23,France,Attacking Midfield,AM,100000.0,AC Arles-Avignon,France,0.0,1
+2008,Ligue 1,AS Saint-Étienne,summer,out,Lasse Nilsson,24391,26,Sweden,Centre-Forward,CF,1750000.0,IF Elfsborg,Sweden,0.0,1
+2008,Ligue 1,AS Saint-Étienne,summer,out,Daniel Bilos,30752,27,Argentina,Left Midfield,LM,1500000.0,Without Club,,,0
+2008,Ligue 1,AS Saint-Étienne,winter,out,Stéphen Vincent,57559,22,France,Left Midfield,LM,300000.0,AS Cannes,France,0.0,0
+2008,Ligue 1,AS Saint-Étienne,winter,out,Lasse Nilsson,24391,26,Sweden,Centre-Forward,CF,900000.0,Vitesse Arnhem,Netherlands,0.0,1
+2008,Ligue 1,FC Girondins Bordeaux,summer,in,Yoan Gouffran,23825,22,France,Left Winger,LW,6000000.0,SM Caen,France,6500000.0,0
+2008,Ligue 1,FC Girondins Bordeaux,summer,in,Yoann Gourcuff,18912,21,France,Attacking Midfield,AM,5500000.0,AC Milan,Italy,1400000.0,1
+2008,Ligue 1,FC Girondins Bordeaux,summer,in,Diego Placente,76,31,Argentina,Left-Back,LB,850000.0,CA San Lorenzo de Almagro,Argentina,0.0,0
+2008,Ligue 1,FC Girondins Bordeaux,summer,out,Alejandro Alonso,33935,26,Argentina,Right Midfield,RM,6000000.0,AS Monaco,France,2500000.0,0
+2008,Ligue 1,FC Girondins Bordeaux,summer,out,David Jemmali,5370,33,Tunisia,Right-Back,RB,1300000.0,Grenoble Foot 38,France,0.0,0
+2008,Ligue 1,FC Girondins Bordeaux,summer,out,Bruno Ecuele Manga,60990,19,Gabon,Centre-Back,CB,100000.0,Angers SCO,France,0.0,0
+2008,Ligue 1,FC Girondins Bordeaux,summer,out,Youssef Sekour,51094,20,Morocco,Defensive Midfield,DM,400000.0,CS Sedan-Ardennes,France,0.0,0
+2008,Ligue 1,FC Girondins Bordeaux,summer,out,Romain Brégerie,43257,21,France,Centre-Back,CB,400000.0,FC Metz,France,0.0,0
+2008,Ligue 1,FC Girondins Bordeaux,summer,out,Kevin Tunani,51376,21,France,Centre-Back,CB,100000.0,US Saint-Malo,France,0.0,0
+2008,Ligue 1,FC Girondins Bordeaux,summer,out,Wilfried Moimbé,66398,19,France,Left-Back,LB,100000.0,Stade Reims,France,0.0,1
+2008,Ligue 1,FC Girondins Bordeaux,summer,out,Floyd Ayité,77974,19,Togo,Left Winger,LW,,Angers SCO,France,0.0,1
+2008,Ligue 1,FC Girondins Bordeaux,summer,out,Juan Pablo Francia,19089,23,Argentina,Attacking Midfield,AM,200000.0,Sportivo Belgrano (San Francisco),Argentina,,0
+2008,Ligue 1,FC Girondins Bordeaux,summer,out,Paul Baysse,43256,20,France,Centre-Back,CB,800000.0,CS Sedan-Ardennes,France,,0
+2008,Ligue 1,FC Girondins Bordeaux,summer,out,Cheick Diabaté,78082,20,Mali,Centre-Forward,CF,,AC Ajaccio,France,0.0,1
+2008,Ligue 1,FC Girondins Bordeaux,summer,out,Johan Micoud,2713,34,France,Attacking Midfield,AM,4000000.0,Retired,,,0
+2008,Ligue 1,FC Girondins Bordeaux,winter,out,Florian Marange,33942,22,France,Left-Back,LB,600000.0,Le Havre AC,France,0.0,1
+2008,Ligue 1,FC Girondins Bordeaux,winter,out,Gabriel Obertan,43261,19,France,Right Winger,RW,3000000.0,FC Lorient,France,0.0,1
+2008,Ligue 1,FC Lorient,summer,in,Kévin Gameiro,27389,21,France,Centre-Forward,CF,1800000.0,RC Strasbourg Alsace,France,3000000.0,0
+2008,Ligue 1,FC Lorient,summer,in,Arnaud Le Lan,5664,30,France,Left-Back,LB,1300000.0,EA Guingamp,France,0.0,0
+2008,Ligue 1,FC Lorient,summer,in,Antoine Buron,45152,24,France,Right Winger,RW,750000.0,Amiens SC,France,0.0,0
+2008,Ligue 1,FC Lorient,summer,in,Alban Joinel,75283,28,France,Goalkeeper,GK,,US Jeanne d'Arc Carquefou,France,0.0,0
+2008,Ligue 1,FC Lorient,summer,in,Morgan Amalfitano,39883,23,France,Right Midfield,RM,1700000.0,CS Sedan-Ardennes,France,0.0,0
+2008,Ligue 1,FC Lorient,summer,in,André Ayew,45403,18,Ghana,Centre-Forward,CF,1000000.0,Olympique Marseille,France,0.0,1
+2008,Ligue 1,FC Lorient,summer,in,Bakary Soro,39194,22,Cote d'Ivoire,Centre-Back,CB,350000.0,Charlton Athletic U21,England,0.0,1
+2008,Ligue 1,FC Lorient,winter,in,Jean Calvé,35650,24,France,Right-Back,RB,2200000.0,AS Nancy-Lorraine,France,0.0,1
+2008,Ligue 1,FC Lorient,winter,in,Gabriel Obertan,43261,19,France,Right Winger,RW,3000000.0,FC Girondins Bordeaux,France,0.0,1
+2008,Ligue 1,FC Lorient,summer,out,Rafael Moura,53256,25,Brazil,Centre-Forward,CF,250000.0,FC Locarno,Switzerland,0.0,0
+2008,Ligue 1,FC Lorient,summer,out,Carl Medjani,8060,23,Algeria,Centre-Back,CB,1200000.0,AC Ajaccio,France,0.0,0
+2008,Ligue 1,FC Lorient,summer,out,Kemal Bourhani,5465,26,Comoros,Centre-Forward,CF,600000.0,Vannes OC,France,0.0,0
+2008,Ligue 1,FC Lorient,summer,out,Papis M'Bodji,37156,24,Senegal,Centre-Forward,CF,400000.0,AS Cannes,France,0.0,0
+2008,Ligue 1,FC Lorient,summer,out,Alain Cantareil,33458,24,France,Left-Back,LB,900000.0,AC Ajaccio,France,0.0,1
+2008,Ligue 1,FC Lorient,summer,out,Nicolas Marin,5439,28,France,Right Midfield,RM,1700000.0,Plymouth Argyle,England,0.0,1
+2008,Ligue 1,FC Lorient,summer,out,Pierre-Yves Offredo,111769,18,France,Defender,Defender,,GSI Pontivy,France,,0
+2008,Ligue 1,FC Lorient,summer,out,Romain Salin,23974,23,France,Goalkeeper,GK,100000.0,Without Club,,,0
+2008,Ligue 1,FC Lorient,summer,out,Medhi Benatia,45124,21,Morocco,Centre-Back,CB,100000.0,Olympique Marseille,France,0.0,1
+2008,Ligue 1,FC Lorient,summer,out,Yohan Hautcoeur,16989,26,France,Central Midfield,CM,3000000.0,AS Saint-Étienne,France,0.0,1
+2008,Ligue 1,FC Lorient,winter,out,Andrew Jacobson,67651,23,United States,Defensive Midfield,DM,100000.0,D.C. United,United States,0.0,0
+2008,Ligue 1,FC Lorient,winter,out,Nicolas Marin,5439,28,France,Right Midfield,RM,1700000.0,SC Bastia,France,0.0,1
+2008,Ligue 1,FC Lorient,winter,out,Antoine Buron,45152,25,France,Right Winger,RW,600000.0,Amiens SC,France,0.0,1
+2008,Ligue 1,FC Lorient,winter,out,Ricardo Sophie,77838,20,France,Central Midfield,CM,50000.0,CS Louhans-Cuiseaux 71,France,0.0,1
+2008,Ligue 1,FC Nantes,summer,in,Michael Gravgaard,22172,30,Denmark,Centre-Back,CB,2750000.0,FC Copenhagen,Denmark,3900000.0,0
+2008,Ligue 1,FC Nantes,summer,in,Guirane N'Daw,12515,24,Senegal,Defensive Midfield,DM,4000000.0,FC Sochaux-Montbéliard,France,2700000.0,0
+2008,Ligue 1,FC Nantes,summer,in,Filip Djordjevic,47065,20,Serbia,Centre-Forward,CF,1000000.0,Red Star Belgrade,Serbia,2000000.0,0
+2008,Ligue 1,FC Nantes,summer,in,Douglão,55255,22,Brazil,Centre-Back,CB,150000.0,Coritiba Foot Ball Club,Brazil,0.0,0
+2008,Ligue 1,FC Nantes,summer,in,Ibrahim Tall,5397,27,Senegal,Centre-Back,CB,1250000.0,Heart of Midlothian FC,Scotland,0.0,0
+2008,Ligue 1,FC Nantes,summer,in,Ronny Rodelin,76055,18,France,Right Winger,RW,,Rodez AF,France,0.0,0
+2008,Ligue 1,FC Nantes,summer,in,Jérôme Alonzo,5548,35,France,Goalkeeper,GK,500000.0,Paris Saint-Germain,France,0.0,0
+2008,Ligue 1,FC Nantes,summer,in,Ivan Klasnic,690,28,Croatia,Centre-Forward,CF,5000000.0,SV Werder Bremen,Germany,0.0,0
+2008,Ligue 1,FC Nantes,summer,in,Djamel Abdoun,34226,22,Algeria,Right Winger,RW,800000.0,AC Ajaccio,France,0.0,0
+2008,Ligue 1,FC Nantes,summer,out,Christian Wilhelmsson,9611,28,Sweden,Right Winger,RW,3400000.0,Al-Hilal SFC,Saudi Arabia,3500000.0,0
+2008,Ligue 1,FC Nantes,summer,out,Mauro Cetto,5501,26,Argentina,Centre-Back,CB,3000000.0,FC Toulouse,France,1300000.0,0
+2008,Ligue 1,FC Nantes,summer,out,Dennis Oliech,35748,23,Kenya,Right Winger,RW,2000000.0,AJ Auxerre,France,1000000.0,0
+2008,Ligue 1,FC Nantes,summer,out,Luigi Pieroni,13349,27,Belgium,Centre-Forward,CF,2500000.0,Valenciennes FC,France,500000.0,0
+2008,Ligue 1,FC Nantes,summer,out,Marek Heinz,306,31,Czech Republic,Centre-Forward,CF,600000.0,1. FC Brno,Czech Republic,0.0,0
+2008,Ligue 1,FC Nantes,summer,out,Vincent Briant,43258,21,France,Goalkeeper,GK,200000.0,CS Sedan-Ardennes,France,0.0,0
+2008,Ligue 1,FC Nantes,summer,out,Guillaume Norbert,29310,27,France,Right Midfield,RM,250000.0,Le Havre AC,France,0.0,0
+2008,Ligue 1,FC Nantes,summer,out,Steven Thicot,18945,21,France,Centre-Back,CB,100000.0,Hibernian FC,Scotland,0.0,0
+2008,Ligue 1,FC Nantes,summer,out,Bocundji Ca,29351,21,Guinea-Bissau,Defensive Midfield,DM,450000.0,Tours FC,France,0.0,0
+2008,Ligue 1,FC Nantes,summer,out,Ima Andriatsima,60770,24,Madagascar,Centre-Forward,CF,350000.0,US Boulogne,France,0.0,1
+2008,Ligue 1,FC Nantes,summer,out,Harlington Shereni,4203,33,Zimbabwe,Central Midfield,CM,1600000.0,RC Strasbourg Alsace,France,0.0,1
+2008,Ligue 1,FC Nantes,summer,out,Mathias Coureur,84438,20,Martinique,Left Winger,LW,50000.0,FC Gueugnon,France,0.0,1
+2008,Ligue 1,FC Nantes,summer,out,Éric Cubilier,5284,29,France,Right-Back,RB,500000.0,Without Club,,,0
+2008,Ligue 1,FC Nantes,summer,out,Filip Djordjevic,47065,20,Serbia,Centre-Forward,CF,1000000.0,Red Star Belgrade,Serbia,0.0,1
+2008,Ligue 1,FC Nantes,summer,out,Youssef Sekour,51094,20,Morocco,Defensive Midfield,DM,400000.0,FC Girondins Bordeaux,France,0.0,1
+2008,Ligue 1,FC Nantes,winter,out,Michael Gravgaard,22172,30,Denmark,Centre-Back,CB,2300000.0,Hamburger SV,Germany,300000.0,1
+2008,Ligue 1,FC Nantes,winter,out,Olivier Thomas,6279,34,France,Left-Back,LB,600000.0,FC Sochaux-Montbéliard,France,0.0,0
+2008,Ligue 1,FC Nantes,winter,out,Nicolas Goussé,6245,32,France,Centre-Forward,CF,1000000.0,Olympique Croix de Savoie 74,France,0.0,0
+2008,Ligue 1,FC Nantes,winter,out,Khassimirou Diop,44600,22,Senegal,Midfielder,Midfielder,150000.0,Aviron Bayonnais,France,0.0,1
+2008,Ligue 1,FC Nantes,winter,out,Claudiu Keșerü,25115,22,Romania,Centre-Forward,CF,1000000.0,Tours FC,France,0.0,1
+2008,Ligue 1,FC Sochaux-Montbéliard,summer,in,Damien Perquis,31050,24,Poland,Centre-Back,CB,2500000.0,AS Saint-Étienne,France,1000000.0,0
+2008,Ligue 1,FC Sochaux-Montbéliard,summer,in,Carlão,52893,22,Brazil,Centre-Back,CB,1000000.0,Sport Club Corinthians Paulista,Brazil,800000.0,0
+2008,Ligue 1,FC Sochaux-Montbéliard,summer,in,Jacques Faty,12387,24,Senegal,Centre-Back,CB,1800000.0,Olympique Marseille,France,750000.0,0
+2008,Ligue 1,FC Sochaux-Montbéliard,summer,in,Santos,5412,29,Tunisia,Centre-Forward,CF,600000.0,FC Toulouse,France,0.0,0
+2008,Ligue 1,FC Sochaux-Montbéliard,winter,in,Vaclav Sverkos,3528,25,Czech Republic,Centre-Forward,CF,1800000.0,FC Banik Ostrava,Czech Republic,2500000.0,0
+2008,Ligue 1,FC Sochaux-Montbéliard,winter,in,Yassin Mikari,2878,25,Tunisia,Left-Back,LB,750000.0,Grasshopper Club Zurich,Switzerland,1500000.0,0
+2008,Ligue 1,FC Sochaux-Montbéliard,winter,in,Olivier Thomas,6279,34,France,Left-Back,LB,600000.0,FC Nantes,France,0.0,0
+2008,Ligue 1,FC Sochaux-Montbéliard,summer,out,Guirane N'Daw,12515,24,Senegal,Defensive Midfield,DM,4000000.0,FC Nantes,France,2700000.0,0
+2008,Ligue 1,FC Sochaux-Montbéliard,summer,out,Sébastien Grax,9239,24,France,Centre-Forward,CF,1700000.0,AS Saint-Étienne,France,2000000.0,0
+2008,Ligue 1,FC Sochaux-Montbéliard,summer,out,Moumouni Dagano,6839,27,Burkina Faso,Centre-Forward,CF,1600000.0,Al-Khor SC,Qatar,850000.0,0
+2008,Ligue 1,FC Sochaux-Montbéliard,summer,out,Jérémie Bréchet,5339,28,France,Centre-Back,CB,4000000.0,PSV Eindhoven,Netherlands,0.0,0
+2008,Ligue 1,FC Sochaux-Montbéliard,summer,out,Robin Previtali,47313,21,France,Attacking Midfield,AM,150000.0,CS Louhans-Cuiseaux 71,France,0.0,1
+2008,Ligue 1,FC Sochaux-Montbéliard,summer,out,Lionel Mathis,5430,26,France,Defensive Midfield,DM,1000000.0,EA Guingamp,France,0.0,1
+2008,Ligue 1,FC Sochaux-Montbéliard,summer,out,Maxime Josse,33921,21,France,Centre-Back,CB,1300000.0,Angers SCO,France,0.0,1
+2008,Ligue 1,FC Sochaux-Montbéliard,summer,out,Badara Sène,33932,23,Senegal,Defensive Midfield,DM,1800000.0,EA Guingamp,France,0.0,1
+2008,Ligue 1,FC Sochaux-Montbéliard,summer,out,Kandia Traoré,38816,28,Cote d'Ivoire,Centre-Forward,CF,1700000.0,RC Strasbourg Alsace,France,0.0,1
+2008,Ligue 1,FC Sochaux-Montbéliard,summer,out,Boukary Dramé,33442,23,Senegal,Left-Back,LB,1200000.0,Real Sociedad,Spain,0.0,1
+2008,Ligue 1,FC Sochaux-Montbéliard,summer,out,Santos,5412,30,Tunisia,Centre-Forward,CF,800000.0,Without Club,,,0
+2008,Ligue 1,FC Sochaux-Montbéliard,summer,out,Gonzalo Vargas,30830,26,Uruguay,Centre-Forward,CF,500000.0,AS Monaco,France,0.0,1
+2008,Ligue 1,FC Sochaux-Montbéliard,summer,out,Fabrice Pancrate,6267,28,France,Right Winger,RW,1000000.0,Paris Saint-Germain,France,0.0,1
+2008,Ligue 1,FC Sochaux-Montbéliard,summer,out,Damien Perquis,31050,24,Poland,Centre-Back,CB,2500000.0,AS Saint-Étienne,France,0.0,1
+2008,Ligue 1,FC Sochaux-Montbéliard,winter,out,Valter Birsa,26105,22,Slovenia,Attacking Midfield,AM,1300000.0,AJ Auxerre,France,250000.0,1
+2008,Ligue 1,FC Sochaux-Montbéliard,winter,out,Álvaro Santos,7904,29,Brazil,Centre-Forward,CF,800000.0,Örgryte IS,Sweden,0.0,0
+2008,Ligue 1,FC Sochaux-Montbéliard,winter,out,Ivan Perišić,42460,19,Croatia,Left Winger,LW,100000.0,KSV Roeselare (-2020),Belgium,0.0,1
+2008,Ligue 1,FC Sochaux-Montbéliard,winter,out,Valéry Mézague,5703,25,Cameroon,Attacking Midfield,AM,900000.0,LB Châteauroux,France,0.0,1
+2008,Ligue 1,FC Toulouse,summer,in,Søren Larsen,24282,26,Denmark,Centre-Forward,CF,2000000.0,FC Schalke 04,Germany,3000000.0,0
+2008,Ligue 1,FC Toulouse,summer,in,Étienne Didot,5672,24,France,Central Midfield,CM,3500000.0,Stade Rennais FC,France,3000000.0,0
+2008,Ligue 1,FC Toulouse,summer,in,Cédric Carrasso,5308,26,France,Goalkeeper,GK,3000000.0,Olympique Marseille,France,2500000.0,0
+2008,Ligue 1,FC Toulouse,summer,in,Mauro Cetto,5501,26,Argentina,Centre-Back,CB,3000000.0,FC Nantes,France,1300000.0,0
+2008,Ligue 1,FC Toulouse,summer,in,Sébastien Hamel,5416,32,France,Goalkeeper,GK,400000.0,Olympique Marseille,France,0.0,0
+2008,Ligue 1,FC Toulouse,summer,in,Olivier Blondel,23897,29,France,Goalkeeper,GK,150000.0,Le Havre AC,France,0.0,0
+2008,Ligue 1,FC Toulouse,summer,in,Daniel Braaten,26407,26,Norway,Right Winger,RW,1000000.0,Bolton Wanderers,England,0.0,0
+2008,Ligue 1,FC Toulouse,summer,in,Mathieu Berson,5508,28,France,Defensive Midfield,DM,2000000.0,Levante UD,Spain,0.0,0
+2008,Ligue 1,FC Toulouse,summer,out,Johan Elmander,4383,27,Sweden,Centre-Forward,CF,10000000.0,Bolton Wanderers,England,12600000.0,0
+2008,Ligue 1,FC Toulouse,summer,out,Achille Emaná,7020,26,Cameroon,Attacking Midfield,AM,10000000.0,Real Betis Balompié,Spain,7000000.0,0
+2008,Ligue 1,FC Toulouse,summer,out,Nicolas Douchez,18036,28,France,Goalkeeper,GK,4000000.0,Stade Rennais FC,France,2000000.0,0
+2008,Ligue 1,FC Toulouse,summer,out,Jon Jönsson,18779,24,Sweden,Centre-Back,CB,1300000.0,Bröndby IF,Denmark,500000.0,0
+2008,Ligue 1,FC Toulouse,summer,out,Nicolas Dieuze,5598,29,France,Central Midfield,CM,4000000.0,Le Havre AC,France,400000.0,0
+2008,Ligue 1,FC Toulouse,summer,out,Rudy Riou,5687,28,France,Goalkeeper,GK,600000.0,Olympique Marseille,France,200000.0,0
+2008,Ligue 1,FC Toulouse,summer,out,Issoumaila Dao,22387,24,Cote d'Ivoire,Centre-Back,CB,400000.0,SC Bastia,France,0.0,0
+2008,Ligue 1,FC Toulouse,summer,out,Alan Mermillod,33924,20,France,Goalkeeper,GK,100000.0,ESTAC Troyes,France,0.0,0
+2008,Ligue 1,FC Toulouse,summer,out,Laurent Batlles,5669,32,France,Central Midfield,CM,2000000.0,Grenoble Foot 38,France,0.0,0
+2008,Ligue 1,FC Toulouse,summer,out,Santos,5412,29,Tunisia,Centre-Forward,CF,600000.0,FC Sochaux-Montbéliard,France,0.0,0
+2008,Ligue 1,FC Toulouse,summer,out,Walid Cherfa,45908,22,Algeria,Left-Back,LB,300000.0,Gimnàstic de Tarragona,Spain,0.0,0
+2008,Ligue 1,FC Toulouse,summer,out,Alsény Camara,35786,21,Guinea,Centre-Back,CB,300000.0,LB Châteauroux,France,0.0,0
+2008,Ligue 1,FC Toulouse,summer,out,Kévin Dupuis,56780,21,France,Centre-Forward,CF,100000.0,Rodez AF,France,0.0,1
+2008,Ligue 1,FC Toulouse,summer,out,Fabinho,42028,29,Brazil,Defensive Midfield,DM,800000.0,Cruzeiro Esporte Clube,Brazil,,0
+2008,Ligue 1,FC Toulouse,summer,out,Hérita Ilunga,17432,26,DR Congo,Left-Back,LB,3500000.0,West Ham United,England,0.0,1
+2008,Ligue 1,FC Toulouse,summer,out,Dominique Arribagé,5661,37,France,Centre-Back,CB,550000.0,Retired,,,0
+2008,Ligue 1,FC Toulouse,summer,out,Eduardo Ratinho,17904,20,Brazil,Right-Back,RB,1000000.0,Sport Club Corinthians Paulista,Brazil,0.0,1
+2008,Ligue 1,FC Toulouse,summer,out,Salim Arrache,18397,25,Algeria,Left Winger,LW,1700000.0,Olympique Marseille,France,0.0,1
+2008,Ligue 1,FC Toulouse,summer,out,Mauro Cetto,5501,26,Argentina,Centre-Back,CB,3000000.0,FC Nantes,France,0.0,1
+2008,Ligue 1,FC Toulouse,winter,out,Pavel Fort,21023,25,Czech Republic,Centre-Forward,CF,600000.0,SK Slavia Prague,Czech Republic,0.0,1
+2008,Ligue 1,Grenoble Foot 38,summer,in,David Jemmali,5370,33,Tunisia,Right-Back,RB,1300000.0,FC Girondins Bordeaux,France,0.0,0
+2008,Ligue 1,Grenoble Foot 38,summer,in,Zoran Rendulic,36058,24,Serbia,Centre-Back,CB,200000.0,FK Borac Cacak,Serbia,0.0,0
+2008,Ligue 1,Grenoble Foot 38,summer,in,Laurent Batlles,5669,32,France,Central Midfield,CM,2000000.0,FC Toulouse,France,0.0,0
+2008,Ligue 1,Grenoble Foot 38,summer,in,Ronan Le Crom,5444,34,France,Goalkeeper,GK,600000.0,RC Lens,France,0.0,0
+2008,Ligue 1,Grenoble Foot 38,summer,in,Laurent Courtois,22403,29,France,Left Midfield,LM,1400000.0,Levante UD,Spain,0.0,0
+2008,Ligue 1,Grenoble Foot 38,summer,in,Daniel Moreira,5494,30,France,Second Striker,SS,1000000.0,Stade Rennais FC,France,0.0,1
+2008,Ligue 1,Grenoble Foot 38,summer,in,Albert Baning,37846,23,Cameroon,Defensive Midfield,DM,1000000.0,Paris Saint-Germain,France,0.0,1
+2008,Ligue 1,Grenoble Foot 38,summer,in,Larsen Touré,37516,24,Guinea,Right Winger,RW,900000.0,LOSC Lille,France,0.0,1
+2008,Ligue 1,Grenoble Foot 38,winter,in,Pierre Boya,14879,24,Cameroon,Centre-Forward,CF,1400000.0,Rapid Bucharest ,Romania,1000000.0,0
+2008,Ligue 1,Grenoble Foot 38,winter,in,Bostjan Cesar,24606,26,Slovenia,Centre-Back,CB,900000.0,Olympique Marseille,France,400000.0,0
+2008,Ligue 1,Grenoble Foot 38,winter,in,Mustafa Kucukovic,16830,22,Germany,Centre-Forward,CF,250000.0,TSV 1860 Munich,Germany,75000.0,0
+2008,Ligue 1,Grenoble Foot 38,winter,in,Elliot Grandin,56785,21,France,Attacking Midfield,AM,1300000.0,Olympique Marseille,France,0.0,1
+2008,Ligue 1,Grenoble Foot 38,summer,out,Olivier Giroud,82442,21,France,Centre-Forward,CF,50000.0,Tours FC,France,150000.0,0
+2008,Ligue 1,Grenoble Foot 38,summer,out,Luigi Glombard,12393,23,France,Right Winger,RW,650000.0,Chamois Niortais FC,France,0.0,0
+2008,Ligue 1,Grenoble Foot 38,summer,out,Logan Alphant,57141,25,France,Right-Back,RB,350000.0,CS Louhans-Cuiseaux 71,France,0.0,1
+2008,Ligue 1,Grenoble Foot 38,summer,out,Jimmy Juan,14849,25,France,Central Midfield,CM,150000.0,LB Châteauroux,France,0.0,1
+2008,Ligue 1,Grenoble Foot 38,summer,out,Amadou Coulibaly,45079,23,Burkina Faso,Centre-Back,CB,50000.0,Without Club,,,0
+2008,Ligue 1,Grenoble Foot 38,summer,out,Larsen Touré,37516,23,Guinea,Right Winger,RW,900000.0,LOSC Lille,France,0.0,1
+2008,Ligue 1,Grenoble Foot 38,winter,out,Franck Dja Djédjé,18860,22,Cote d'Ivoire,Right Winger,RW,1600000.0,RC Strasbourg Alsace,France,200000.0,0
+2008,Ligue 1,Grenoble Foot 38,winter,out,Biagui Kamissoko,57179,25,France,Right-Back,RB,900000.0,Stade Reims,France,,0
+2008,Ligue 1,LOSC Lille,summer,in,Rio Mavuba,14949,24,France,Defensive Midfield,DM,6000000.0,Villarreal CF,Spain,7000000.0,0
+2008,Ligue 1,LOSC Lille,summer,in,Túlio de Melo,22820,23,Brazil,Centre-Forward,CF,7000000.0,US Palermo,Italy,4000000.0,0
+2008,Ligue 1,LOSC Lille,summer,in,Róbert Vittek,3531,26,Slovakia,Centre-Forward,CF,3500000.0,1.FC Nuremberg,Germany,4000000.0,0
+2008,Ligue 1,LOSC Lille,summer,in,Florent Balmont,5348,28,France,Central Midfield,CM,6000000.0,OGC Nice,France,3000000.0,0
+2008,Ligue 1,LOSC Lille,summer,in,Emil Lyng,69905,18,Denmark,Left Winger,LW,100000.0,Aarhus GF,Denmark,500000.0,0
+2008,Ligue 1,LOSC Lille,summer,in,Cédric Baseya,54706,20,DR Congo,Centre-Forward,CF,50000.0,Southampton FC,England,0.0,0
+2008,Ligue 1,LOSC Lille,summer,in,Ludovic Butelle,12029,25,France,Goalkeeper,GK,900000.0,Valencia CF,Spain,0.0,1
+2008,Ligue 1,LOSC Lille,summer,out,Jean Makoun,5648,25,Cameroon,Defensive Midfield,DM,12500000.0,Olympique Lyon,France,14000000.0,0
+2008,Ligue 1,LOSC Lille,summer,out,Kevin Mirallas,33639,20,Belgium,Right Winger,RW,3000000.0,AS Saint-Étienne,France,3500000.0,0
+2008,Ligue 1,LOSC Lille,summer,out,Stephan Lichtsteiner,2865,24,Switzerland,Right-Back,RB,5000000.0,SS Lazio,Italy,1200000.0,0
+2008,Ligue 1,LOSC Lille,summer,out,Rafael,5640,27,Brazil,Centre-Back,CB,3500000.0,Valenciennes FC,France,1000000.0,0
+2008,Ligue 1,LOSC Lille,summer,out,Tony Sylva,5282,33,Senegal,Goalkeeper,GK,4000000.0,Trabzonspor,Türkiye,600000.0,0
+2008,Ligue 1,LOSC Lille,summer,out,Samuel Robail,33641,23,France,Attacking Midfield,AM,150000.0,FC Gueugnon,France,0.0,0
+2008,Ligue 1,LOSC Lille,summer,out,Yohann Lacroix,21668,23,France,Goalkeeper,GK,100000.0,Thrasyvoulos Fylis,Greece,0.0,0
+2008,Ligue 1,LOSC Lille,summer,out,Chris Makiese,47312,20,France,Centre-Forward,CF,150000.0,Royal Charleroi SC,Belgium,0.0,1
+2008,Ligue 1,LOSC Lille,summer,out,Emra Tahirovic,36228,20,Sweden,Centre-Forward,CF,700000.0,FC Zürich,Switzerland,,0
+2008,Ligue 1,LOSC Lille,summer,out,Luis Yanes,51605,25,Colombia,Centre-Forward,CF,400000.0,Junior FC,Colombia,0.0,1
+2008,Ligue 1,LOSC Lille,summer,out,Souleymane Youla,1081,26,Guinea,Centre-Forward,CF,1300000.0,Eskisehirspor,Türkiye,0.0,1
+2008,Ligue 1,LOSC Lille,summer,out,Larsen Touré,37516,24,Guinea,Right Winger,RW,900000.0,Grenoble Foot 38,France,0.0,1
+2008,Ligue 1,LOSC Lille,summer,out,Patrick Kluivert,4385,32,Netherlands,Centre-Forward,CF,1000000.0,Retired,,,0
+2008,Ligue 1,LOSC Lille,summer,out,Rio Mavuba,14949,24,France,Defensive Midfield,DM,6000000.0,Villarreal CF,Spain,0.0,1
+2008,Ligue 1,LOSC Lille,winter,out,Jérémy Taravel,56821,21,France,Centre-Back,CB,150000.0,Zulte Waregem,Belgium,0.0,1
+2008,Ligue 1,LOSC Lille,winter,out,Peter Franquart,21666,23,France,Centre-Back,CB,1000000.0,Le Havre AC,France,0.0,1
+2008,Ligue 1,LOSC Lille,winter,out,Chris Makiese,47312,21,France,Centre-Forward,CF,250000.0,Zulte Waregem,Belgium,0.0,1
+2008,Ligue 1,Le Havre AC,summer,in,Nicolas Dieuze,5598,29,France,Central Midfield,CM,4000000.0,FC Toulouse,France,400000.0,0
+2008,Ligue 1,Le Havre AC,summer,in,Stéphane Noro,15988,28,France,Attacking Midfield,AM,2800000.0,ESTAC Troyes,France,0.0,0
+2008,Ligue 1,Le Havre AC,summer,in,Guillaume Norbert,29310,27,France,Right Midfield,RM,250000.0,FC Nantes,France,0.0,0
+2008,Ligue 1,Le Havre AC,summer,in,Mahamane Traoré,80885,20,Mali,Defensive Midfield,DM,,JS Centre Salif Keita,Mali,0.0,0
+2008,Ligue 1,Le Havre AC,summer,in,Yannick Boli,60979,20,Cote d'Ivoire,Centre-Forward,CF,200000.0,Paris Saint-Germain,France,0.0,1
+2008,Ligue 1,Le Havre AC,summer,in,Cédric Fauré,6970,29,France,Centre-Forward,CF,2000000.0,Stade Reims,France,,0
+2008,Ligue 1,Le Havre AC,summer,in,Massamba Sambou,39911,21,Senegal,Centre-Back,CB,1000000.0,AS Monaco,France,0.0,1
+2008,Ligue 1,Le Havre AC,winter,in,Mamadou Diallo,28319,26,Mali,Centre-Forward,CF,1750000.0,Al-Jazira Club,United Arab Emirates,0.0,0
+2008,Ligue 1,Le Havre AC,winter,in,Peter Franquart,21666,23,France,Centre-Back,CB,1000000.0,LOSC Lille,France,0.0,1
+2008,Ligue 1,Le Havre AC,winter,in,Florian Marange,33942,22,France,Left-Back,LB,600000.0,FC Girondins Bordeaux,France,0.0,1
+2008,Ligue 1,Le Havre AC,summer,out,Steve Mandanda,23951,23,France,Goalkeeper,GK,6000000.0,Olympique Marseille,France,2500000.0,0
+2008,Ligue 1,Le Havre AC,summer,out,Mahamadou Cissé,58212,20,France,Defensive Midfield,DM,,Unknown,,0.0,0
+2008,Ligue 1,Le Havre AC,summer,out,Antoine Devaux,57376,23,France,Central Midfield,CM,200000.0,US Boulogne,France,0.0,0
+2008,Ligue 1,Le Havre AC,summer,out,Olivier Blondel,23897,29,France,Goalkeeper,GK,150000.0,FC Toulouse,France,0.0,0
+2008,Ligue 1,Le Havre AC,summer,out,David Martot,23954,27,France,Right-Back,RB,250000.0,Vannes OC,France,0.0,0
+2008,Ligue 1,Le Havre AC,summer,out,Albert Milambo,57439,23,DR Congo,Defensive Midfield,DM,100000.0,AS Beauvais Oise,France,0.0,0
+2008,Ligue 1,Le Havre AC,summer,out,Andé Dona Ndoh,58213,22,Cameroon,Centre-Forward,CF,100000.0,Luzenac Ariège Pyrénées,France,0.0,1
+2008,Ligue 1,Le Havre AC,summer,out,Yacine Si Salem,183204,20,France,Right Winger,RW,,Thrasyvoulos Fylis,Greece,,0
+2008,Ligue 1,Le Havre AC,summer,out,Benjamin Laurant,57427,21,France,Attacking Midfield,AM,500000.0,Amiens SC,France,0.0,1
+2008,Ligue 1,Le Havre AC,summer,out,Cheikh Oumar Dabo,57371,27,Mali,Striker,Striker,400000.0,Chamois Niortais FC,France,0.0,1
+2008,Ligue 1,Le Havre AC,summer,out,Fabrice Fernandes,4116,28,France,Left Winger,LW,150000.0,Retired,,,0
+2008,Ligue 1,Le Havre AC,summer,out,Guillaume Hoarau,23934,24,France,Centre-Forward,CF,4000000.0,Paris Saint-Germain,France,0.0,1
+2008,Ligue 1,Le Havre AC,summer,out,Valéry Mézague,5703,24,Cameroon,Attacking Midfield,AM,900000.0,FC Sochaux-Montbéliard,France,0.0,1
+2008,Ligue 1,Le Havre AC,winter,out,Cédric Fauré,6970,29,France,Centre-Forward,CF,1300000.0,Stade Reims,France,500000.0,0
+2008,Ligue 1,Le Havre AC,winter,out,Abdellah Kharbouchi,57412,28,Morocco,Left Winger,LW,200000.0,AS Cannes,France,0.0,0
+2008,Ligue 1,Le Havre AC,winter,out,Selim Bouadla,58455,20,France,Attacking Midfield,AM,800000.0,Paris FC,France,0.0,1
+2008,Ligue 1,Le Havre AC,winter,out,Abasse Ba,31055,32,Senegal,Centre-Back,CB,700000.0,Al-Rayyan SC,Qatar,,0
+2008,Ligue 1,Le Havre AC,winter,out,Adame Soumaré,23977,26,France,Centre-Back,CB,500000.0,Vannes OC,France,0.0,1
+2008,Ligue 1,Le Mans Union Club 72,summer,in,Roland Lamah,35035,20,Belgium,Left Winger,LW,1500000.0,RSC Anderlecht,Belgium,3500000.0,0
+2008,Ligue 1,Le Mans Union Club 72,summer,in,Marcelo Estigarribia,76329,20,Paraguay,Central Midfield,CM,,Club Cerro Porteño,Paraguay,3000000.0,0
+2008,Ligue 1,Le Mans Union Club 72,summer,in,Frédéric Thomas,23979,27,France,Central Midfield,CM,2000000.0,AJ Auxerre,France,3000000.0,0
+2008,Ligue 1,Le Mans Union Club 72,summer,in,Thorstein Helstad,2955,31,Norway,Centre-Forward,CF,2500000.0,SK Brann,Norway,2000000.0,0
+2008,Ligue 1,Le Mans Union Club 72,summer,in,Anthony Le Tallec,4217,23,France,Centre-Forward,CF,1800000.0,Liverpool FC,England,1500000.0,0
+2008,Ligue 1,Le Mans Union Club 72,summer,in,Zito,21447,22,Cote d'Ivoire,Central Midfield,CM,350000.0,KSK Beveren (-2010),Belgium,700000.0,0
+2008,Ligue 1,Le Mans Union Club 72,summer,in,Fredrik Strømstad,26790,26,Norway,Attacking Midfield,AM,1000000.0,IK Start,Norway,600000.0,0
+2008,Ligue 1,Le Mans Union Club 72,winter,in,Hérold Goulon,41978,20,France,Centre-Back,CB,100000.0,Middlesbrough FC Reserves,England,0.0,0
+2008,Ligue 1,Le Mans Union Club 72,summer,out,Romaric,15808,25,Cote d'Ivoire,Defensive Midfield,DM,7000000.0,Sevilla FC,Spain,8500000.0,0
+2008,Ligue 1,Le Mans Union Club 72,summer,out,Stéphane Sessègnon,37157,24,Benin,Attacking Midfield,AM,5000000.0,Paris Saint-Germain,France,8000000.0,0
+2008,Ligue 1,Le Mans Union Club 72,summer,out,Marko Basa,17179,25,Montenegro,Centre-Back,CB,6500000.0,Lokomotiv Moskau,Russia,5500000.0,0
+2008,Ligue 1,Le Mans Union Club 72,summer,out,Túlio de Melo,22820,23,Brazil,Centre-Forward,CF,6000000.0,US Palermo,Italy,3800000.0,0
+2008,Ligue 1,Le Mans Union Club 72,summer,out,Mamadou Samassa,39917,22,Mali,Centre-Forward,CF,1000000.0,Olympique Marseille,France,600000.0,0
+2008,Ligue 1,Le Mans Union Club 72,summer,out,Mouhamed Alassani,240974,19,Togo,Striker,Striker,,AS Togo Port,Togo,0.0,0
+2008,Ligue 1,Le Mans Union Club 72,summer,out,Sekou Ouattara,21446,22,Cote d'Ivoire,Right-Back,RB,350000.0,KSV Roeselare (-2020),Belgium,0.0,0
+2008,Ligue 1,Le Mans Union Club 72,summer,out,Clément Pinault,35010,23,France,Centre-Back,CB,400000.0,Clermont Foot Auvergne 63,France,0.0,0
+2008,Ligue 1,Le Mans Union Club 72,summer,out,Martin Douillard,35003,23,France,Left Winger,LW,1000000.0,Clermont Foot Auvergne 63,France,0.0,0
+2008,Ligue 1,Le Mans Union Club 72,summer,out,Hassan Yebda,12351,24,Algeria,Central Midfield,CM,1200000.0,SL Benfica,Portugal,0.0,0
+2008,Ligue 1,Le Mans Union Club 72,summer,out,Jean Calvé,35650,24,France,Right-Back,RB,2500000.0,AS Nancy-Lorraine,France,0.0,0
+2008,Ligue 1,Le Mans Union Club 72,summer,out,Daisuke Matsui,25905,27,Japan,Left Midfield,LM,4500000.0,AS Saint-Étienne,France,0.0,0
+2008,Ligue 1,Le Mans Union Club 72,summer,out,Zito,21447,22,Cote d'Ivoire,Central Midfield,CM,350000.0,Stade Lavallois,France,0.0,1
+2008,Ligue 1,Le Mans Union Club 72,summer,out,Guillaume Loriot,38387,22,France,Central Midfield,CM,900000.0,Clermont Foot Auvergne 63,France,0.0,1
+2008,Ligue 1,Le Mans Union Club 72,summer,out,Anthony Le Tallec,4217,23,France,Centre-Forward,CF,1800000.0,Liverpool FC,England,0.0,1
+2008,Ligue 1,Le Mans Union Club 72,winter,out,Brahim El Bahri,53373,22,Morocco,Left Winger,LW,500000.0,FC Istres Ouest Provence ,France,,0
+2008,Ligue 1,Le Mans Union Club 72,winter,out,Alphousseyni Keita,51853,23,Mali,Defensive Midfield,DM,400000.0,Nîmes Olympique,France,0.0,1
+2008,Ligue 1,OGC Nice,summer,in,Loïc Rémy,45121,21,France,Centre-Forward,CF,6000000.0,Olympique Lyon,France,8000000.0,0
+2008,Ligue 1,OGC Nice,summer,in,Éric Mouloungui,12551,24,Gabon,Centre-Forward,CF,2500000.0,RC Strasbourg Alsace,France,2000000.0,0
+2008,Ligue 1,OGC Nice,summer,in,David Ospina,73396,19,Colombia,Goalkeeper,GK,1500000.0,Atlético Nacional,Colombia,2000000.0,0
+2008,Ligue 1,OGC Nice,summer,in,Habib Bamogo,3912,26,Burkina Faso,Second Striker,SS,1700000.0,Olympique Marseille,France,1500000.0,0
+2008,Ligue 1,OGC Nice,summer,in,Chaouki Ben Saada,5597,24,Tunisia,Right Winger,RW,1700000.0,SC Bastia,France,1500000.0,0
+2008,Ligue 1,OGC Nice,summer,in,Kafoumba Coulibaly,66788,22,Cote d'Ivoire,Defensive Midfield,DM,750000.0,SC Bastia,France,750000.0,0
+2008,Ligue 1,OGC Nice,summer,in,Enoch Kofi Adu,88239,17,Ghana,Defensive Midfield,DM,,Liberty Professionals FC,Ghana,0.0,0
+2008,Ligue 1,OGC Nice,summer,in,Emerse Faé,12392,24,Cote d'Ivoire,Central Midfield,CM,2750000.0,Reading FC,England,0.0,1
+2008,Ligue 1,OGC Nice,winter,in,Emerse Faé,12392,24,Cote d'Ivoire,Central Midfield,CM,4000000.0,Reading FC,England,2500000.0,0
+2008,Ligue 1,OGC Nice,winter,in,Adeílson,67962,23,Brazil,Centre-Forward,CF,1800000.0,Tombense Futebol Clube (MG),Brazil,1000000.0,0
+2008,Ligue 1,OGC Nice,winter,in,Julien Sablé,17441,28,France,Defensive Midfield,DM,800000.0,RC Lens,France,1000000.0,0
+2008,Ligue 1,OGC Nice,winter,in,Abeiku Quansah,92158,17,Ghana,Defensive Midfield,DM,,Unknown,,0.0,0
+2008,Ligue 1,OGC Nice,summer,out,Ederson,29035,22,Brazil,Attacking Midfield,AM,11000000.0,Olympique Lyon,France,14900000.0,0
+2008,Ligue 1,OGC Nice,summer,out,Bakari Koné,23941,26,Cote d'Ivoire,Right Winger,RW,7500000.0,Olympique Marseille,France,9000000.0,0
+2008,Ligue 1,OGC Nice,summer,out,Hugo Lloris,17965,21,France,Goalkeeper,GK,8500000.0,Olympique Lyon,France,8500000.0,0
+2008,Ligue 1,OGC Nice,summer,out,Florent Balmont,5348,28,France,Central Midfield,CM,6000000.0,LOSC Lille,France,3000000.0,0
+2008,Ligue 1,OGC Nice,summer,out,Souleymane Camara,5303,25,Senegal,Right Winger,RW,1200000.0,Montpellier HSC,France,500000.0,0
+2008,Ligue 1,OGC Nice,summer,out,Anthony Scaramozzino,17976,23,France,Centre-Back,CB,200000.0,CS Sedan-Ardennes,France,0.0,0
+2008,Ligue 1,OGC Nice,summer,out,Joseph-Désiré Job,3650,30,Cameroon,Centre-Forward,CF,800000.0,Al-Kharaitiyat SC,Qatar,0.0,0
+2008,Ligue 1,OGC Nice,summer,out,Alaeddine Yahia,5451,26,Tunisia,Centre-Back,CB,600000.0,RC Lens,France,0.0,1
+2008,Ligue 1,OGC Nice,summer,out,Lilian Laslandes,1450,36,France,Centre-Forward,CF,1000000.0,Retired,,,0
+2008,Ligue 1,OGC Nice,summer,out,Kamel Larbi,17940,23,Algeria,Centre-Forward,CF,150000.0,Without Club,,,0
+2008,Ligue 1,OGC Nice,summer,out,Habib Bamogo,3912,26,Burkina Faso,Second Striker,SS,1700000.0,Olympique Marseille,France,0.0,1
+2008,Ligue 1,OGC Nice,winter,out,Derek Asamoah,45675,27,Ghana,Second Striker,SS,100000.0,Hamilton Academical FC,Scotland,0.0,1
+2008,Ligue 1,OGC Nice,winter,out,Ismaël Gace,40447,22,France,Centre-Back,CB,400000.0,Rodez AF,France,0.0,1
+2008,Ligue 1,OGC Nice,winter,out,Emerse Faé,12392,24,Cote d'Ivoire,Central Midfield,CM,3500000.0,Reading FC,England,0.0,1
+2008,Ligue 1,Olympique Lyon,summer,in,Ederson,29035,22,Brazil,Attacking Midfield,AM,11000000.0,OGC Nice,France,14900000.0,0
+2008,Ligue 1,Olympique Lyon,summer,in,Jean Makoun,5648,25,Cameroon,Defensive Midfield,DM,12500000.0,LOSC Lille,France,14000000.0,0
+2008,Ligue 1,Olympique Lyon,summer,in,Hugo Lloris,17965,21,France,Goalkeeper,GK,8500000.0,OGC Nice,France,8500000.0,0
+2008,Ligue 1,Olympique Lyon,summer,in,John Mensah,5917,25,Ghana,Centre-Back,CB,7500000.0,Stade Rennais FC,France,8400000.0,0
+2008,Ligue 1,Olympique Lyon,summer,in,Miralem Pjanić,44162,18,Bosnia-Herzegovina,Central Midfield,CM,5500000.0,FC Metz,France,7500000.0,0
+2008,Ligue 1,Olympique Lyon,summer,in,Frédéric Piquionne,5683,29,Martinique,Centre-Forward,CF,7000000.0,AS Monaco,France,4500000.0,0
+2008,Ligue 1,Olympique Lyon,summer,in,Timothée Kolodziejczak,84085,16,France,Centre-Back,CB,,RC Lens,France,0.0,1
+2008,Ligue 1,Olympique Lyon,summer,out,Hatem Ben Arfa,18900,21,France,Attacking Midfield,AM,10000000.0,Olympique Marseille,France,12000000.0,0
+2008,Ligue 1,Olympique Lyon,summer,out,Loïc Rémy,45121,21,France,Centre-Forward,CF,6000000.0,OGC Nice,France,8000000.0,0
+2008,Ligue 1,Olympique Lyon,summer,out,Sébastien Squillaci,5293,27,France,Centre-Back,CB,15000000.0,Sevilla FC,Spain,6500000.0,0
+2008,Ligue 1,Olympique Lyon,summer,out,Milan Baros,3216,26,Czech Republic,Centre-Forward,CF,4500000.0,Galatasaray,Türkiye,5500000.0,0
+2008,Ligue 1,Olympique Lyon,summer,out,Grégory Coupet,3910,35,France,Goalkeeper,GK,6000000.0,Atlético de Madrid,Spain,2000000.0,0
+2008,Ligue 1,Olympique Lyon,summer,out,Fábio Santos,25121,28,Brazil,Defensive Midfield,DM,2000000.0,Fluminense Football Club,Brazil,0.0,0
+2008,Ligue 1,Olympique Lyon,summer,out,Patrick Müller,5347,31,Switzerland,Centre-Back,CB,800000.0,AS Monaco,France,0.0,0
+2008,Ligue 1,Olympique Lyon,summer,out,Anderson,30083,28,Brazil,Centre-Back,CB,4750000.0,São Paulo Futebol Clube,Brazil,0.0,1
+2008,Ligue 1,Olympique Lyon,summer,out,Romain Beynié,36354,21,France,Defensive Midfield,DM,250000.0,AFC Tubize,Belgium,0.0,1
+2008,Ligue 1,Olympique Lyon,summer,out,Mickaël Charvet,60521,20,France,Centre-Back,CB,50000.0,Without Club,,,0
+2008,Ligue 1,Olympique Lyon,summer,out,Frédéric Roux,5365,35,France,Goalkeeper,GK,300000.0,Retired,,,0
+2008,Ligue 1,Olympique Lyon,summer,out,Marc Crosas,54164,20,Spain,Defensive Midfield,DM,800000.0,FC Barcelona,Spain,0.0,1
+2008,Ligue 1,Olympique Lyon,winter,out,Fred,31005,25,Brazil,Centre-Forward,CF,5500000.0,Fluminense Football Club,Brazil,0.0,0
+2008,Ligue 1,Olympique Lyon,winter,out,Anderson,30083,28,Brazil,Centre-Back,CB,1500000.0,Cruzeiro Esporte Clube,Brazil,0.0,1
+2008,Ligue 1,Olympique Marseille,summer,in,Hatem Ben Arfa,18900,21,France,Attacking Midfield,AM,10000000.0,Olympique Lyon,France,12000000.0,0
+2008,Ligue 1,Olympique Marseille,summer,in,Bakari Koné,23941,26,Cote d'Ivoire,Right Winger,RW,7500000.0,OGC Nice,France,9000000.0,0
+2008,Ligue 1,Olympique Marseille,summer,in,Hilton,4811,30,Brazil,Centre-Back,CB,4500000.0,RC Lens,France,5000000.0,0
+2008,Ligue 1,Olympique Marseille,summer,in,Steve Mandanda,23951,23,France,Goalkeeper,GK,6000000.0,Le Havre AC,France,2500000.0,0
+2008,Ligue 1,Olympique Marseille,summer,in,Mamadou Samassa,39917,22,Mali,Centre-Forward,CF,1000000.0,Le Mans Union Club 72,France,600000.0,0
+2008,Ligue 1,Olympique Marseille,summer,in,Elamine Erbate,65832,27,Morocco,Centre-Back,CB,1000000.0,Raja Club Athletic,Morocco,500000.0,0
+2008,Ligue 1,Olympique Marseille,summer,in,Rudy Riou,5687,28,France,Goalkeeper,GK,600000.0,FC Toulouse,France,200000.0,0
+2008,Ligue 1,Olympique Marseille,summer,in,Tyrone Mears,14050,25,England,Right-Back,RB,1200000.0,Derby County,England,200000.0,1
+2008,Ligue 1,Olympique Marseille,summer,in,Hilaire Muñoz,5523,25,France,Goalkeeper,GK,500000.0,SO Cassis Carnoux,France,120000.0,0
+2008,Ligue 1,Olympique Marseille,winter,in,Brandão,14948,28,Brazil,Centre-Forward,CF,5000000.0,Shakhtar Donetsk,Ukraine,6000000.0,0
+2008,Ligue 1,Olympique Marseille,winter,in,Sylvain Wiltord,3188,34,France,Second Striker,SS,1500000.0,Stade Rennais FC,France,0.0,0
+2008,Ligue 1,Olympique Marseille,summer,out,Samir Nasri,18935,21,France,Attacking Midfield,AM,15000000.0,Arsenal FC,England,16000000.0,0
+2008,Ligue 1,Olympique Marseille,summer,out,Cédric Carrasso,5308,26,France,Goalkeeper,GK,3000000.0,FC Toulouse,France,2500000.0,0
+2008,Ligue 1,Olympique Marseille,summer,out,Habib Bamogo,3912,26,Burkina Faso,Second Striker,SS,1700000.0,OGC Nice,France,1500000.0,0
+2008,Ligue 1,Olympique Marseille,summer,out,Djibril Cissé,3966,27,France,Centre-Forward,CF,11000000.0,Sunderland AFC,England,1500000.0,1
+2008,Ligue 1,Olympique Marseille,summer,out,Jacques Faty,12387,24,Senegal,Centre-Back,CB,1800000.0,FC Sochaux-Montbéliard,France,750000.0,0
+2008,Ligue 1,Olympique Marseille,summer,out,Vincent Gragnic,23932,25,France,Attacking Midfield,AM,900000.0,Stade Reims,France,100000.0,0
+2008,Ligue 1,Olympique Marseille,summer,out,Medhi Benatia,45124,21,Morocco,Centre-Back,CB,100000.0,Clermont Foot Auvergne 63,France,0.0,0
+2008,Ligue 1,Olympique Marseille,summer,out,Wilson Oruma,3915,31,Nigeria,Attacking Midfield,AM,800000.0,EA Guingamp,France,0.0,0
+2008,Ligue 1,Olympique Marseille,summer,out,Sébastien Hamel,5416,32,France,Goalkeeper,GK,400000.0,FC Toulouse,France,0.0,0
+2008,Ligue 1,Olympique Marseille,summer,out,Fabrice Begeorgi,36911,21,France,Left-Back,LB,150000.0,TuS Koblenz,Germany,0.0,1
+2008,Ligue 1,Olympique Marseille,summer,out,André Ayew,45403,18,Ghana,Centre-Forward,CF,1000000.0,FC Lorient,France,0.0,1
+2008,Ligue 1,Olympique Marseille,summer,out,Salim Arrache,18397,26,Algeria,Left Winger,LW,1700000.0,Stade Reims,France,0.0,1
+2008,Ligue 1,Olympique Marseille,summer,out,Thomas Deruda,38357,21,France,Central Midfield,CM,100000.0,Montpellier HSC,France,0.0,1
+2008,Ligue 1,Olympique Marseille,summer,out,Garry Bocaly,38473,20,Martinique,Right-Back,RB,800000.0,Montpellier HSC,France,0.0,1
+2008,Ligue 1,Olympique Marseille,summer,out,Jean-Philippe Sabo,66947,21,France,Left-Back,LB,100000.0,Montpellier HSC,France,0.0,1
+2008,Ligue 1,Olympique Marseille,summer,out,Sébastien Maté,46770,36,France,Goalkeeper,GK,100000.0,Retired,,,0
+2008,Ligue 1,Olympique Marseille,summer,out,Kanga Akalé,12060,27,Cote d'Ivoire,Left Winger,LW,5000000.0,RC Lens,France,0.0,1
+2008,Ligue 1,Olympique Marseille,summer,out,Juan Krupoviesa,20132,29,Argentina,Left-Back,LB,1000000.0,CA Boca Juniors,Argentina,0.0,1
+2008,Ligue 1,Olympique Marseille,summer,out,Steve Mandanda,23951,23,France,Goalkeeper,GK,6000000.0,Le Havre AC,France,0.0,1
+2008,Ligue 1,Olympique Marseille,winter,out,Elamine Erbate,65832,27,Morocco,Centre-Back,CB,700000.0,Al-Wahda FC,United Arab Emirates,900000.0,0
+2008,Ligue 1,Olympique Marseille,winter,out,Bostjan Cesar,24606,26,Slovenia,Centre-Back,CB,900000.0,Grenoble Foot 38,France,400000.0,0
+2008,Ligue 1,Olympique Marseille,winter,out,Leyti N'Diaye,18894,23,Senegal,Centre-Back,CB,450000.0,AC Ajaccio,France,0.0,1
+2008,Ligue 1,Olympique Marseille,winter,out,Fabrice Begeorgi,36911,21,France,Left-Back,LB,300000.0,SV Werder Bremen II,Germany,0.0,1
+2008,Ligue 1,Olympique Marseille,winter,out,Elliot Grandin,56785,21,France,Attacking Midfield,AM,1300000.0,Grenoble Foot 38,France,0.0,1
+2008,Ligue 1,Olympique Marseille,winter,out,Milos Krstic,46865,21,Serbia,Attacking Midfield,AM,100000.0,AC Ajaccio,France,0.0,1
+2008,Ligue 1,Olympique Marseille,winter,out,Pape M'Bow,56796,20,Senegal,Centre-Back,CB,100000.0,AS Cannes,France,0.0,1
+2008,Ligue 1,Olympique Marseille,winter,out,Gaël Givet,5286,27,France,Centre-Back,CB,2700000.0,Blackburn Rovers,England,0.0,1
+2008,Ligue 1,Paris Saint-Germain,summer,in,Stéphane Sessègnon,37157,24,Benin,Attacking Midfield,AM,5000000.0,Le Mans Union Club 72,France,8000000.0,0
+2008,Ligue 1,Paris Saint-Germain,summer,in,Ludovic Giuly,5299,32,France,Right Winger,RW,5000000.0,AS Roma,Italy,2500000.0,0
+2008,Ligue 1,Paris Saint-Germain,summer,in,Stéphane Véron,7873,22,France,Goalkeeper,GK,50000.0,AJ Auxerre B,France,0.0,0
+2008,Ligue 1,Paris Saint-Germain,summer,in,Claude Makélélé,4182,35,France,Defensive Midfield,DM,6000000.0,Chelsea FC,England,0.0,0
+2008,Ligue 1,Paris Saint-Germain,summer,in,Mateja Kežman,4358,29,Serbia,Centre-Forward,CF,6000000.0,Fenerbahce,Türkiye,0.0,1
+2008,Ligue 1,Paris Saint-Germain,summer,out,Amara Diané,29287,25,Cote d'Ivoire,Right Winger,RW,5000000.0,Al-Rayyan SC,Qatar,8000000.0,0
+2008,Ligue 1,Paris Saint-Germain,summer,out,Cristian Rodríguez,33448,22,Uruguay,Left Midfield,LM,3500000.0,FC Porto,Portugal,7000000.0,0
+2008,Ligue 1,Paris Saint-Germain,summer,out,Didier Digard,52345,21,France,Defensive Midfield,DM,3000000.0,Middlesbrough FC,England,5000000.0,0
+2008,Ligue 1,Paris Saint-Germain,summer,out,David N'Gog,41242,19,France,Centre-Forward,CF,1000000.0,Liverpool FC,England,1500000.0,0
+2008,Ligue 1,Paris Saint-Germain,summer,out,Mario Yepes,5507,32,Colombia,Centre-Back,CB,2500000.0,Chievo Verona,Italy,0.0,0
+2008,Ligue 1,Paris Saint-Germain,summer,out,Jérôme Alonzo,5548,35,France,Goalkeeper,GK,500000.0,FC Nantes,France,0.0,0
+2008,Ligue 1,Paris Saint-Germain,summer,out,Bernard Mendy,3707,26,France,Right-Back,RB,2000000.0,Hull City,England,0.0,0
+2008,Ligue 1,Paris Saint-Germain,summer,out,Éverton Santos,52820,21,Brazil,Centre-Forward,CF,1000000.0,Fluminense Football Club,Brazil,0.0,1
+2008,Ligue 1,Paris Saint-Germain,summer,out,Albert Baning,37846,23,Cameroon,Defensive Midfield,DM,1000000.0,Grenoble Foot 38,France,0.0,1
+2008,Ligue 1,Paris Saint-Germain,summer,out,Yannick Boli,60979,20,Cote d'Ivoire,Centre-Forward,CF,200000.0,Le Havre AC,France,0.0,1
+2008,Ligue 1,Paris Saint-Germain,summer,out,Idriss Pongo,533896,20,France,Midfielder,Midfielder,,Noicattaro Calcio,Italy,,0
+2008,Ligue 1,Paris Saint-Germain,summer,out,Souza,50792,29,Brazil,Attacking Midfield,AM,2500000.0,Grêmio Foot-Ball Porto Alegrense,Brazil,0.0,1
+2008,Ligue 1,Paris Saint-Germain,summer,out,Pauleta,3623,35,Portugal,Centre-Forward,CF,4750000.0,Career break,,,0
+2008,Ligue 1,Paris Saint-Germain,winter,out,Youssouf Mulumbu,45272,22,DR Congo,Defensive Midfield,DM,800000.0,West Bromwich Albion,England,250000.0,1
+2008,Ligue 1,Paris Saint-Germain,winter,out,Granddi N'Goyi,55385,20,DR Congo,Defensive Midfield,DM,300000.0,Clermont Foot Auvergne 63,France,0.0,1
+2008,Ligue 1,Paris Saint-Germain,winter,out,Younousse Sankharé,55409,19,Senegal,Central Midfield,CM,1000000.0,Stade Reims,France,0.0,1
+2008,Ligue 1,SM Caen,summer,in,Steve Savidan,43970,30,France,Centre-Forward,CF,5000000.0,Valenciennes FC,France,5000000.0,0
+2008,Ligue 1,SM Caen,summer,in,Fahid Ben Khalfallah,57355,25,Tunisia,Right Winger,RW,1800000.0,Angers SCO,France,2000000.0,0
+2008,Ligue 1,SM Caen,summer,in,Pablo Barzola,26232,24,Argentina,Right-Back,RB,1850000.0,AA Argentinos Juniors,Argentina,640000.0,0
+2008,Ligue 1,SM Caen,summer,in,Rajiv van La Parra,77001,17,Netherlands,Left Winger,LW,,Feyenoord U17,Netherlands,0.0,0
+2008,Ligue 1,SM Caen,summer,in,Damien Perquis,45247,22,France,Goalkeeper,GK,50000.0,AS Beauvais Oise,France,0.0,0
+2008,Ligue 1,SM Caen,summer,out,Yoan Gouffran,23825,22,France,Left Winger,LW,6000000.0,FC Girondins Bordeaux,France,6500000.0,0
+2008,Ligue 1,SM Caen,summer,out,Cédric Hengbart,22632,27,France,Right-Back,RB,2000000.0,AJ Auxerre,France,700000.0,0
+2008,Ligue 1,SM Caen,summer,out,Stéphane Samson,23975,33,France,Centre-Forward,CF,500000.0,Stade Reims,France,115000.0,0
+2008,Ligue 1,SM Caen,summer,out,Lilian Compan,17420,31,France,Centre-Forward,CF,1700000.0,Montpellier HSC,France,0.0,0
+2008,Ligue 1,SM Caen,summer,out,Guillaume Quellier,56813,22,France,Left Midfield,LM,250000.0,Stade Reims,France,0.0,1
+2008,Ligue 1,SM Caen,summer,out,Benoît Costil,22628,20,France,Goalkeeper,GK,500000.0,Vannes OC,France,0.0,1
+2008,Ligue 1,SM Caen,summer,out,Thomas Heurtaux,109598,19,France,Centre-Back,CB,,AS Cherbourg,France,0.0,1
+2008,Ligue 1,SM Caen,summer,out,Romain Inez,109599,20,France,Centre-Back,CB,,AS Cherbourg,France,0.0,1
+2008,Ligue 1,SM Caen,summer,out,Oumar N'Diaye,56804,23,Mauritania,Centre-Back,CB,300000.0,Vannes OC,France,0.0,1
+2008,Ligue 1,SM Caen,winter,out,Karl Svensson,19292,24,Sweden,Centre-Back,CB,700000.0,IFK Göteborg,Sweden,300000.0,0
+2008,Ligue 1,SM Caen,winter,out,Stéphane Zubar,56829,22,Guadeloupe,Centre-Back,CB,250000.0,FC Vaslui,Romania,200000.0,0
+2008,Ligue 1,SM Caen,winter,out,Brahim Thiam,22409,34,Mali,Centre-Back,CB,650000.0,Stade Reims,France,0.0,0
+2008,Ligue 1,Stade Rennais FC,summer,in,Asamoah Gyan,26802,22,Ghana,Centre-Forward,CF,6000000.0,Udinese Calcio,Italy,8000000.0,0
+2008,Ligue 1,Stade Rennais FC,summer,in,Lucien Aubey,6976,24,Congo,Centre-Back,CB,2750000.0,RC Lens,France,2000000.0,0
+2008,Ligue 1,Stade Rennais FC,summer,in,Kader Mangane,4796,25,Senegal,Centre-Back,CB,2000000.0,RC Lens,France,2000000.0,0
+2008,Ligue 1,Stade Rennais FC,summer,in,Nicolas Douchez,18036,28,France,Goalkeeper,GK,4000000.0,FC Toulouse,France,2000000.0,0
+2008,Ligue 1,Stade Rennais FC,summer,in,Carlos Bocanegra,15829,29,United States,Centre-Back,CB,4000000.0,Fulham FC,England,0.0,0
+2008,Ligue 1,Stade Rennais FC,summer,in,John Boye,85585,21,Ghana,Centre-Back,CB,,Heart of Lions FC,Ghana,0.0,1
+2008,Ligue 1,Stade Rennais FC,summer,out,John Mensah,5917,25,Ghana,Centre-Back,CB,7500000.0,Olympique Lyon,France,8400000.0,0
+2008,Ligue 1,Stade Rennais FC,summer,out,Étienne Didot,5672,24,France,Central Midfield,CM,3500000.0,FC Toulouse,France,3000000.0,0
+2008,Ligue 1,Stade Rennais FC,summer,out,Simon Pouplin,24105,23,France,Goalkeeper,GK,4000000.0,SC Freiburg,Germany,400000.0,0
+2008,Ligue 1,Stade Rennais FC,summer,out,Fabrice Catherine,45125,35,France,Goalkeeper,GK,250000.0,AS Cherbourg,France,0.0,0
+2008,Ligue 1,Stade Rennais FC,summer,out,Fabrice Ondama,59958,20,Congo,Centre-Forward,CF,,US Créteil-Lusitanos,France,0.0,1
+2008,Ligue 1,Stade Rennais FC,summer,out,Kévin Bru,46009,19,Mauritius,Central Midfield,CM,400000.0,Clermont Foot Auvergne 63,France,0.0,1
+2008,Ligue 1,Stade Rennais FC,summer,out,Lhadji Badiane,51309,21,France,Right Winger,RW,600000.0,Clermont Foot Auvergne 63,France,0.0,1
+2008,Ligue 1,Stade Rennais FC,summer,out,Daniel Moreira,5494,30,France,Second Striker,SS,1000000.0,Grenoble Foot 38,France,0.0,1
+2008,Ligue 1,Stade Rennais FC,summer,out,Guillaume Borne,45408,20,France,Right-Back,RB,800000.0,Stade Brestois 29,France,0.0,1
+2008,Ligue 1,Stade Rennais FC,summer,out,Benjamin Moukandjo,59957,19,Cameroon,Centre-Forward,CF,,Entente Sannois Saint-Gratien,France,0.0,1
+2008,Ligue 1,Stade Rennais FC,summer,out,Felix Katongo,66346,24,Zambia,Attacking Midfield,AM,500000.0,LB Châteauroux,France,0.0,1
+2008,Ligue 1,Stade Rennais FC,summer,out,Djimi Traoré,3598,28,Mali,Centre-Back,CB,3000000.0,Portsmouth FC,England,0.0,1
+2008,Ligue 1,Stade Rennais FC,winter,out,Olivier Sorlin,5676,29,France,Defensive Midfield,DM,1800000.0,PAOK Thessaloniki,Greece,150000.0,1
+2008,Ligue 1,Stade Rennais FC,winter,out,Sylvain Wiltord,3188,34,France,Second Striker,SS,1500000.0,Olympique Marseille,France,0.0,0
+2008,Ligue 1,Valenciennes FC,summer,in,Milan Bisevac,24661,24,Serbia,Centre-Back,CB,2750000.0,RC Lens,France,3000000.0,0
+2008,Ligue 1,Valenciennes FC,summer,in,Filip Sebo,2518,24,Slovakia,Centre-Forward,CF,1600000.0,Rangers FC,Scotland,1200000.0,0
+2008,Ligue 1,Valenciennes FC,summer,in,Siaka Tiéné,34026,26,Cote d'Ivoire,Left-Back,LB,1000000.0,AS Saint-Étienne,France,1000000.0,0
+2008,Ligue 1,Valenciennes FC,summer,in,Rafael,5640,27,Brazil,Centre-Back,CB,3500000.0,LOSC Lille,France,1000000.0,0
+2008,Ligue 1,Valenciennes FC,summer,in,Jonathan Lacourt,33819,21,France,Central Midfield,CM,1700000.0,RC Lens,France,600000.0,0
+2008,Ligue 1,Valenciennes FC,summer,in,Luigi Pieroni,13349,27,Belgium,Centre-Forward,CF,2500000.0,FC Nantes,France,500000.0,0
+2008,Ligue 1,Valenciennes FC,summer,in,Seïd Khiter,27006,23,France,Right Winger,RW,800000.0,RC Lens,France,500000.0,0
+2008,Ligue 1,Valenciennes FC,summer,in,Amara Bangoura,80406,22,Guinea,Right Midfield,RM,,Olympique Khouribga,Morocco,0.0,0
+2008,Ligue 1,Valenciennes FC,summer,in,Jean-Louis Leca,27490,22,France,Goalkeeper,GK,300000.0,SC Bastia,France,0.0,0
+2008,Ligue 1,Valenciennes FC,summer,in,Jacques Abardonado,5320,30,France,Centre-Back,CB,1000000.0,1.FC Nuremberg,Germany,0.0,0
+2008,Ligue 1,Valenciennes FC,summer,in,Gaël Danic,5457,26,France,Left Winger,LW,2000000.0,ESTAC Troyes,France,0.0,0
+2008,Ligue 1,Valenciennes FC,winter,in,Jean-Claude Darcheville,5382,33,French Guiana,Centre-Forward,CF,2000000.0,Rangers FC,Scotland,0.0,0
+2008,Ligue 1,Valenciennes FC,summer,out,Steve Savidan,43970,30,France,Centre-Forward,CF,5000000.0,SM Caen,France,5000000.0,0
+2008,Ligue 1,Valenciennes FC,summer,out,Abdeslam Ouaddou,4002,29,France,Centre-Back,CB,4000000.0,AS Nancy-Lorraine,France,3200000.0,0
+2008,Ligue 1,Valenciennes FC,summer,out,Geoffrey Doumeng,5699,27,France,Central Midfield,CM,1800000.0,RC Lens,France,1000000.0,0
+2008,Ligue 1,Valenciennes FC,summer,out,Éric Chelle,43937,30,Mali,Centre-Back,CB,1800000.0,RC Lens,France,500000.0,0
+2008,Ligue 1,Valenciennes FC,summer,out,Sébastien Roudet,17693,27,France,Attacking Midfield,AM,3000000.0,RC Lens,France,500000.0,0
+2008,Ligue 1,Valenciennes FC,summer,out,Guillaume Rippert,26328,23,France,Left-Back,LB,1200000.0,FC Metz,France,0.0,0
+2008,Ligue 1,Valenciennes FC,summer,out,Stéphane Coqu,43939,26,France,Goalkeeper,GK,200000.0,Royal Boussu Dour Borinage,Belgium,0.0,0
+2008,Ligue 1,Valenciennes FC,summer,out,Khaled Kharroubi,43954,24,Algeria,Defensive Midfield,DM,300000.0,FCV Dender EH,Belgium,0.0,0
+2008,Ligue 1,Valenciennes FC,summer,out,Williams Martínez,38065,25,Uruguay,Centre-Back,CB,1000000.0,Stade Reims,France,0.0,1
+2008,Ligue 1,Valenciennes FC,summer,out,David Sommeil,3803,34,Guadeloupe,Centre-Back,CB,1500000.0,Retired,,,0
+2008,Ligue 1,Valenciennes FC,summer,out,Filip Sebo,2518,24,Slovakia,Centre-Forward,CF,1600000.0,Rangers FC,Scotland,0.0,1
+2008,Ligue 1,Valenciennes FC,winter,out,Yacine Bezzaz,13763,27,Algeria,Left Midfield,LM,1300000.0,RC Strasbourg Alsace,France,0.0,0
+2008,Ligue 1,Valenciennes FC,winter,out,Seïd Khiter,27006,23,France,Right Winger,RW,800000.0,Vannes OC,France,0.0,1
+2008,Ligue 1,Valenciennes FC,winter,out,Tidiane Dia,56779,22,Senegal,Centre-Forward,CF,100000.0,Paris FC,France,,0

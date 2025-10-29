@@ -1,0 +1,538 @@
+season,league,club,window,movement,player_name,player_id,age,nationality,position,pos,market_value,dealing_club,dealing_country,fee,is_loan
+2024,Ligue 1,AJ Auxerre,summer,in,Lasso Coulibaly,658534,21,Cote d'Ivoire,Right Winger,RW,1500000.0,FC Nordsjaelland,Denmark,2000000.0,0
+2024,Ligue 1,AJ Auxerre,summer,in,Theo Bair,501709,24,Canada,Centre-Forward,CF,1000000.0,Motherwell FC,Scotland,1900000.0,0
+2024,Ligue 1,AJ Auxerre,summer,in,Sinaly Diomandé,702441,23,Cote d'Ivoire,Centre-Back,CB,4000000.0,Olympique Lyon,France,0.0,0
+2024,Ligue 1,AJ Auxerre,summer,in,Tom Negrel,866916,21,France,Goalkeeper,GK,,LOSC Lille B,France,0.0,0
+2024,Ligue 1,AJ Auxerre,summer,in,Gabriel Osho,364409,25,Nigeria,Centre-Back,CB,3000000.0,Luton Town,England,0.0,0
+2024,Ligue 1,AJ Auxerre,summer,in,Nathan Buayi-Kiala,743523,20,France,Defensive Midfield,DM,200000.0,Parma Calcio 1913,Italy,,0
+2024,Ligue 1,AJ Auxerre,summer,in,Ki-Jana Hoever,485583,22,Netherlands,Right-Back,RB,4500000.0,Wolverhampton Wanderers,England,0.0,1
+2024,Ligue 1,AJ Auxerre,summer,in,Hamed Traoré,391065,24,Cote d'Ivoire,Left Winger,LW,17000000.0,AFC Bournemouth,England,0.0,1
+2024,Ligue 1,AJ Auxerre,winter,in,Fredrik Oppegård,539665,22,Norway,Left-Back,LB,600000.0,PSV Eindhoven,Netherlands,500000.0,0
+2024,Ligue 1,AJ Auxerre,winter,in,Han-Noah Massengo,536508,23,France,Central Midfield,CM,3000000.0,Burnley FC,England,0.0,1
+2024,Ligue 1,AJ Auxerre,summer,out,Gauthier Hein,344892,28,France,Right Winger,RW,3000000.0,FC Metz,France,3000000.0,0
+2024,Ligue 1,AJ Auxerre,summer,out,Ousmane Camara,827950,22,Guinea,Centre-Forward,CF,700000.0,CD Castellón,Spain,500000.0,0
+2024,Ligue 1,AJ Auxerre,summer,out,Brayann Pereira,620317,21,France,Centre-Back,CB,700000.0,NEC Nijmegen,Netherlands,400000.0,0
+2024,Ligue 1,AJ Auxerre,summer,out,Nicolas Mercier,627363,21,France,Left Winger,LW,300000.0,Paris 13 Atletico,France,0.0,1
+2024,Ligue 1,AJ Auxerre,summer,out,Victor Mayela,950727,20,France,Centre-Back,CB,,FC Sochaux-Montbéliard,France,0.0,1
+2024,Ligue 1,AJ Auxerre,summer,out,Sonny Laiton,427689,24,Madagascar,Goalkeeper,GK,150000.0,Without Club,,,0
+2024,Ligue 1,AJ Auxerre,summer,out,Issa Soumaré,568698,23,Senegal,Left Winger,LW,800000.0,Le Havre AC,France,0.0,1
+2024,Ligue 1,AJ Auxerre,summer,out,Colin Dagba,460629,25,France,Right-Back,RB,1200000.0,Paris Saint-Germain,France,0.0,1
+2024,Ligue 1,AJ Auxerre,summer,out,Nathan Buayi-Kiala,743523,20,France,Defensive Midfield,DM,200000.0,Parma Calcio 1913,Italy,0.0,1
+2024,Ligue 1,AJ Auxerre,winter,out,Rayan Raveloson,344576,28,Madagascar,Central Midfield,CM,2000000.0,BSC Young Boys,Switzerland,1500000.0,0
+2024,Ligue 1,AJ Auxerre,winter,out,Théo Pellenard,238716,30,France,Centre-Back,CB,800000.0,Stade Lavallois,France,0.0,0
+2024,Ligue 1,AJ Auxerre,winter,out,Saad Agouzoul,556865,27,Morocco,Centre-Back,CB,500000.0,Radomiak Radom,Poland,0.0,1
+2024,Ligue 1,AS Monaco,summer,in,George Ilenikhena,1004834,17,Nigeria,Centre-Forward,CF,10000000.0,Royal Antwerp FC,Belgium,18750000.0,0
+2024,Ligue 1,AS Monaco,summer,in,Christian Mawissa,1005240,19,France,Centre-Back,CB,9000000.0,FC Toulouse,France,16000000.0,0
+2024,Ligue 1,AS Monaco,summer,in,Lamine Camara,918969,20,Senegal,Central Midfield,CM,10000000.0,FC Metz,France,15000000.0,0
+2024,Ligue 1,AS Monaco,summer,in,Thilo Kehrer,228948,27,Germany,Centre-Back,CB,10000000.0,West Ham United,England,11000000.0,0
+2024,Ligue 1,AS Monaco,summer,in,Jordan Teze,364245,24,Netherlands,Right-Back,RB,18000000.0,PSV Eindhoven,Netherlands,10000000.0,0
+2024,Ligue 1,AS Monaco,summer,in,Paris Brunner,918414,18,Germany,Centre-Forward,CF,,Borussia Dortmund U19,Germany,4000000.0,0
+2024,Ligue 1,AS Monaco,winter,in,Mika Biereth,565821,21,Denmark,Centre-Forward,CF,13000000.0,SK Sturm Graz,Austria,13000000.0,0
+2024,Ligue 1,AS Monaco,winter,in,Moatasem Al-Musrati,377641,28,Libya,Defensive Midfield,DM,11000000.0,Besiktas JK,Türkiye,1000000.0,1
+2024,Ligue 1,AS Monaco,summer,out,Youssouf Fofana,569598,25,France,Defensive Midfield,DM,30000000.0,AC Milan,Italy,20000000.0,0
+2024,Ligue 1,AS Monaco,summer,out,Mohamed Camara,543382,24,Mali,Defensive Midfield,DM,20000000.0,Al-Sadd SC,Qatar,16500000.0,0
+2024,Ligue 1,AS Monaco,summer,out,Félix Lemaréchal,659518,21,France,Attacking Midfield,AM,5000000.0,RC Strasbourg Alsace,France,6000000.0,0
+2024,Ligue 1,AS Monaco,summer,out,Guillermo Maripán,249730,30,Chile,Centre-Back,CB,10000000.0,Torino FC,Italy,4600000.0,0
+2024,Ligue 1,AS Monaco,summer,out,Ismail Jakobs,375137,25,Senegal,Left-Back,LB,8000000.0,Galatasaray,Türkiye,1000000.0,1
+2024,Ligue 1,AS Monaco,summer,out,Paris Brunner,918414,18,Germany,Centre-Forward,CF,,Cercle Brugge ,Belgium,0.0,1
+2024,Ligue 1,AS Monaco,summer,out,Myron Boadu,412932,23,Netherlands,Centre-Forward,CF,5000000.0,VfL Bochum,Germany,0.0,1
+2024,Ligue 1,AS Monaco,summer,out,Chrislain Matsima,569383,22,France,Centre-Back,CB,7000000.0,FC Augsburg,Germany,0.0,1
+2024,Ligue 1,AS Monaco,summer,out,Wissam Ben Yedder,146854,33,France,Centre-Forward,CF,8000000.0,Without Club,,,0
+2024,Ligue 1,AS Monaco,summer,out,Thilo Kehrer,228948,27,Germany,Centre-Back,CB,10000000.0,West Ham United,England,0.0,1
+2024,Ligue 1,AS Monaco,winter,out,Eliot Matazo,535834,22,Belgium,Central Midfield,CM,3000000.0,Hull City,England,2000000.0,0
+2024,Ligue 1,AS Saint-Étienne,summer,in,Lucas Stassin,655012,19,Belgium,Centre-Forward,CF,3000000.0,KVC Westerlo,Belgium,10000000.0,0
+2024,Ligue 1,AS Saint-Étienne,summer,in,Zuriko Davitashvili,427572,23,Georgia,Left Winger,LW,3000000.0,FC Girondins Bordeaux,France,6000000.0,0
+2024,Ligue 1,AS Saint-Étienne,summer,in,Igor Miladinovic,729872,21,Serbia,Attacking Midfield,AM,3200000.0,FK Cukaricki,Serbia,3000000.0,0
+2024,Ligue 1,AS Saint-Étienne,summer,in,Augustine Boakye,579263,23,Ghana,Right Winger,RW,3000000.0,Wolfsberger AC,Austria,3000000.0,0
+2024,Ligue 1,AS Saint-Étienne,summer,in,Pierre Cornud,536156,27,France,Left-Back,LB,1200000.0,Maccabi Haifa,Israel,1100000.0,0
+2024,Ligue 1,AS Saint-Étienne,summer,in,Yunis Abdelhamid,199704,36,Morocco,Centre-Back,CB,600000.0,Stade Reims,France,0.0,0
+2024,Ligue 1,AS Saint-Étienne,summer,in,Ben Old,617021,21,New Zealand,Left Winger,LW,400000.0,Wellington Phoenix,Australia,0.0,0
+2024,Ligue 1,AS Saint-Étienne,summer,in,Brice Maubleu,78047,34,France,Goalkeeper,GK,350000.0,Grenoble Foot 38,France,,0
+2024,Ligue 1,AS Saint-Étienne,summer,in,Pierre Ekwah,538994,22,France,Defensive Midfield,DM,2800000.0,Sunderland AFC,England,0.0,1
+2024,Ligue 1,AS Saint-Étienne,winter,in,Irvin Cardona,342226,27,Malta,Centre-Forward,CF,2000000.0,FC Augsburg,Germany,0.0,1
+2024,Ligue 1,AS Saint-Étienne,winter,in,Maxime Bernauer,324819,26,France,Centre-Back,CB,2000000.0,GNK Dinamo Zagreb,Croatia,0.0,1
+2024,Ligue 1,AS Saint-Étienne,summer,out,Maxence Rivera,735700,22,France,Left Winger,LW,300000.0,USL Dunkerque,France,0.0,0
+2024,Ligue 1,AS Saint-Étienne,summer,out,Etienne Green,696849,24,England,Goalkeeper,GK,700000.0,Burnley FC,England,0.0,0
+2024,Ligue 1,AS Saint-Étienne,summer,out,Karim Cissé,1052288,19,Guinea,Attacking Midfield,AM,150000.0,FC Annecy,France,0.0,1
+2024,Ligue 1,AS Saint-Étienne,summer,out,Darling Bladi,1052283,20,France,Left-Back,LB,50000.0,Football Bourg-en-Bresse Péronnas 01,France,0.0,1
+2024,Ligue 1,AS Saint-Étienne,summer,out,Dylan Chambost,508941,26,France,Central Midfield,CM,2000000.0,Columbus Crew,United States,,0
+2024,Ligue 1,AS Saint-Étienne,summer,out,Mahmoud Bentayg,840920,24,Morocco,Left-Back,LB,400000.0,Zamalek SC,Egypt,0.0,1
+2024,Ligue 1,AS Saint-Étienne,summer,out,Beres Owusu,1052291,20,France,Centre-Back,CB,,Quevilly - Rouen Métropole,France,0.0,1
+2024,Ligue 1,AS Saint-Étienne,summer,out,Nathanaël Mbuku,557614,22,DR Congo,Left Winger,LW,2000000.0,FC Augsburg,Germany,0.0,1
+2024,Ligue 1,AS Saint-Étienne,summer,out,Irvin Cardona,342226,26,Malta,Centre-Forward,CF,2500000.0,FC Augsburg,Germany,0.0,1
+2024,Ligue 1,AS Saint-Étienne,summer,out,Stéphane Diarra,428954,25,Cote d'Ivoire,Right Winger,RW,1200000.0,FC Lorient,France,0.0,1
+2024,Ligue 1,AS Saint-Étienne,winter,out,Mathis Amougou,1010854,19,France,Central Midfield,CM,5000000.0,Chelsea FC,England,15000000.0,0
+2024,Ligue 1,AS Saint-Étienne,winter,out,Thomas Monconduit,127182,33,France,Defensive Midfield,DM,300000.0,Amiens SC,France,0.0,0
+2024,Ligue 1,AS Saint-Étienne,winter,out,Mathieu Cafaro,399383,27,France,Right Winger,RW,2000000.0,Paris FC,France,,0
+2024,Ligue 1,AS Saint-Étienne,winter,out,Ayman Aiki,986261,19,France,Right Winger,RW,500000.0,SC Bastia,France,0.0,1
+2024,Ligue 1,Angers SCO,summer,in,Jim Allevinah,646733,29,Gabon,Right Winger,RW,2000000.0,Clermont Foot 63,France,0.0,0
+2024,Ligue 1,Angers SCO,summer,in,Jean-Eudes Aholou,178313,30,Cote d'Ivoire,Defensive Midfield,DM,800000.0,RC Strasbourg Alsace,France,0.0,0
+2024,Ligue 1,Angers SCO,summer,in,Carlens Arcus,371686,28,Haiti,Right-Back,RB,700000.0,Vitesse Arnhem,Netherlands,0.0,0
+2024,Ligue 1,Angers SCO,summer,in,Emmanuel Biumla,1071956,19,France,Centre-Back,CB,400000.0,FC Girondins Bordeaux,France,0.0,0
+2024,Ligue 1,Angers SCO,summer,in,Jacques Ekomié,970279,20,Gabon,Left-Back,LB,700000.0,FC Girondins Bordeaux,France,0.0,0
+2024,Ligue 1,Angers SCO,summer,in,Haris Belkebla,138055,30,Algeria,Central Midfield,CM,1700000.0,Ohod Club,Saudi Arabia,0.0,0
+2024,Ligue 1,Angers SCO,summer,in,Bamba Dieng,822458,24,Senegal,Centre-Forward,CF,4000000.0,FC Lorient,France,0.0,1
+2024,Ligue 1,Angers SCO,summer,out,Yan Valery,406008,25,Tunisia,Right-Back,RB,2000000.0,Sheffield Wednesday,England,474000.0,0
+2024,Ligue 1,Angers SCO,summer,out,Marin Jakolis,261963,27,Croatia,Left Winger,LW,700000.0,Macarthur FC,Australia,0.0,0
+2024,Ligue 1,Angers SCO,summer,out,Guédé Nadje,855160,20,France,Centre-Forward,CF,50000.0,Football Bourg-en-Bresse Péronnas 01,France,0.0,1
+2024,Ligue 1,Angers SCO,winter,out,Joseph Lopy,204585,32,Senegal,Central Midfield,CM,400000.0,Pau FC,France,0.0,0
+2024,Ligue 1,Angers SCO,winter,out,Loïs Diony,126552,32,France,Centre-Forward,CF,1800000.0,Bandirmaspor,Türkiye,0.0,1
+2024,Ligue 1,FC Nantes,summer,in,Matthis Abline,659543,21,France,Centre-Forward,CF,6000000.0,Stade Rennais FC,France,10000000.0,0
+2024,Ligue 1,FC Nantes,summer,in,Tino Kadewere,384060,28,Zimbabwe,Centre-Forward,CF,2500000.0,Olympique Lyon,France,0.0,0
+2024,Ligue 1,FC Nantes,summer,in,Jean-Philippe Gbamin,182894,28,Cote d'Ivoire,Defensive Midfield,DM,2500000.0,USL Dunkerque,France,0.0,0
+2024,Ligue 1,FC Nantes,summer,in,Yassine Benhattab,796589,21,France,Right Winger,RW,,Aubagne Football Club,France,0.0,0
+2024,Ligue 1,FC Nantes,summer,in,Patrik Carlgren,190280,32,Sweden,Goalkeeper,GK,800000.0,Randers FC,Denmark,0.0,0
+2024,Ligue 1,FC Nantes,summer,in,Sorba Thomas,475416,25,Wales,Right Winger,RW,4200000.0,Huddersfield Town,England,0.0,1
+2024,Ligue 1,FC Nantes,summer,in,Nicolas Cozza,485965,25,France,Left-Back,LB,3500000.0,VfL Wolfsburg,Germany,0.0,1
+2024,Ligue 1,FC Nantes,summer,in,Johann Lepenant,585973,21,France,Defensive Midfield,DM,6000000.0,Olympique Lyon,France,0.0,1
+2024,Ligue 1,FC Nantes,winter,in,Meschack Elia,423678,27,DR Congo,Centre-Forward,CF,5000000.0,BSC Young Boys,Switzerland,250000.0,1
+2024,Ligue 1,FC Nantes,winter,in,Anthony Lopes,60561,34,Portugal,Goalkeeper,GK,1500000.0,Olympique Lyon,France,0.0,0
+2024,Ligue 1,FC Nantes,winter,in,Saïdou Sow,807128,22,Guinea,Centre-Back,CB,6000000.0,RC Strasbourg Alsace,France,0.0,1
+2024,Ligue 1,FC Nantes,winter,in,Francis Coquelin,74869,33,France,Defensive Midfield,DM,1000000.0,Without Club,,,0
+2024,Ligue 1,FC Nantes,summer,out,Bastien Meupiyou,955253,18,France,Centre-Back,CB,800000.0,Wolverhampton Wanderers,England,5000000.0,0
+2024,Ligue 1,FC Nantes,summer,out,Junior Diaz,1009596,21,Cote d'Ivoire,Centre-Back,CB,400000.0,ESTAC Troyes,France,2500000.0,0
+2024,Ligue 1,FC Nantes,summer,out,Matthis Abline,659543,21,France,Centre-Forward,CF,6000000.0,Stade Rennais FC,France,0.0,1
+2024,Ligue 1,FC Nantes,summer,out,Stredair Appuah,1004618,20,France,Right Winger,RW,500000.0,Palermo FC,Italy,1500000.0,0
+2024,Ligue 1,FC Nantes,summer,out,Lohann Doucet,830265,21,France,Defensive Midfield,DM,700000.0,Paris FC,France,300000.0,0
+2024,Ligue 1,FC Nantes,summer,out,Rémy Descamps,282028,28,France,Goalkeeper,GK,1500000.0,Olympique Lyon,France,0.0,0
+2024,Ligue 1,FC Nantes,summer,out,Denis Petric,28356,36,Slovenia,Goalkeeper,GK,100000.0,RC Lens,France,0.0,0
+2024,Ligue 1,FC Nantes,summer,out,Moussa Sissoko,46001,34,France,Central Midfield,CM,1200000.0,Watford FC,England,0.0,0
+2024,Ligue 1,FC Nantes,summer,out,Samuel Moutoussamy,353403,28,DR Congo,Central Midfield,CM,3000000.0,Sivasspor,Türkiye,0.0,0
+2024,Ligue 1,FC Nantes,summer,out,Yassine Benhattab,796589,21,France,Right Winger,RW,,Aubagne Football Club,France,0.0,1
+2024,Ligue 1,FC Nantes,summer,out,Lamine Diack,649024,23,Senegal,Defensive Midfield,DM,1200000.0,Hatayspor,Türkiye,0.0,1
+2024,Ligue 1,FC Nantes,summer,out,Abdoul Kader Bamba,560725,30,France,Right Winger,RW,900000.0,Without Club,,,0
+2024,Ligue 1,FC Nantes,summer,out,Nicolas Cozza,485965,25,France,Left-Back,LB,3500000.0,VfL Wolfsburg,Germany,0.0,1
+2024,Ligue 1,FC Nantes,summer,out,Bénie Traoré,852024,21,Cote d'Ivoire,Left Winger,LW,4000000.0,Sheffield United,England,0.0,1
+2024,Ligue 1,FC Nantes,summer,out,Tino Kadewere,384060,28,Zimbabwe,Centre-Forward,CF,2500000.0,Olympique Lyon,France,0.0,1
+2024,Ligue 1,FC Nantes,summer,out,Eray Cömert,298583,26,Switzerland,Centre-Back,CB,4000000.0,Valencia CF,Spain,0.0,1
+2024,Ligue 1,FC Nantes,winter,out,Jean-Philippe Gbamin,182894,29,Cote d'Ivoire,Defensive Midfield,DM,2000000.0,FC Zürich,Switzerland,0.0,0
+2024,Ligue 1,FC Nantes,winter,out,Ignatius Ganago,531949,25,Cameroon,Centre-Forward,CF,1800000.0,New England Revolution,United States,0.0,1
+2024,Ligue 1,FC Nantes,winter,out,Jean-Kévin Duverne,344864,27,Haiti,Centre-Back,CB,3000000.0,KV Kortrijk,Belgium,0.0,1
+2024,Ligue 1,FC Toulouse,summer,in,Charlie Cresswell,597659,21,England,Centre-Back,CB,4000000.0,Leeds United,England,4500000.0,0
+2024,Ligue 1,FC Toulouse,summer,in,Mark McKenzie,429259,25,United States,Centre-Back,CB,6000000.0,KRC Genk,Belgium,3000000.0,0
+2024,Ligue 1,FC Toulouse,summer,in,Joshua King,91059,32,Norway,Centre-Forward,CF,2300000.0,Fenerbahce,Türkiye,0.0,0
+2024,Ligue 1,FC Toulouse,summer,in,Djibril Sidibé,161869,32,France,Right-Back,RB,1500000.0,AEK Athens,Greece,0.0,0
+2024,Ligue 1,FC Toulouse,summer,in,Ümit Akdağ,958647,20,Romania,Centre-Back,CB,800000.0,Alanyaspor,Türkiye,0.0,1
+2024,Ligue 1,FC Toulouse,summer,in,Miha Zajc,149829,30,Slovenia,Central Midfield,CM,2400000.0,Fenerbahce,Türkiye,0.0,1
+2024,Ligue 1,FC Toulouse,summer,out,Logan Costa,484988,23,Cape Verde,Centre-Back,CB,12000000.0,Villarreal CF,Spain,18000000.0,0
+2024,Ligue 1,FC Toulouse,summer,out,Christian Mawissa,1005240,19,France,Centre-Back,CB,9000000.0,AS Monaco,France,16000000.0,0
+2024,Ligue 1,FC Toulouse,summer,out,Thijs Dallinga,538964,23,Netherlands,Centre-Forward,CF,18000000.0,Bologna FC 1909,Italy,15000000.0,0
+2024,Ligue 1,FC Toulouse,summer,out,Anthony Rouault,690799,23,France,Centre-Back,CB,7000000.0,VfB Stuttgart,Germany,3000000.0,0
+2024,Ligue 1,FC Toulouse,summer,out,Veljko Birmancevic,419648,26,Serbia,Left Winger,LW,9000000.0,AC Sparta Prague,Czech Republic,2300000.0,0
+2024,Ligue 1,FC Toulouse,summer,out,Kévin Keben,855014,20,Cameroon,Centre-Back,CB,500000.0,Watford FC,England,1000000.0,0
+2024,Ligue 1,FC Toulouse,summer,out,Kléri Serber,395697,26,France,Central Midfield,CM,250000.0,Septemvri Sofia,Bulgaria,0.0,0
+2024,Ligue 1,FC Toulouse,summer,out,Thomas Himeur,835136,23,France,Goalkeeper,GK,50000.0,Paris FC,France,0.0,0
+2024,Ligue 1,FC Toulouse,summer,out,Junior Flemmings,354664,28,Jamaica,Left Winger,LW,700000.0,Ajman Club,United Arab Emirates,0.0,0
+2024,Ligue 1,FC Toulouse,summer,out,Moussa Diarra,694509,23,Mali,Centre-Back,CB,2000000.0,Deportivo Alavés,Spain,0.0,0
+2024,Ligue 1,FC Toulouse,summer,out,Mikkel Desler,221873,29,Denmark,Right-Back,RB,3000000.0,Austin FC,United States,0.0,0
+2024,Ligue 1,FC Toulouse,summer,out,Mamady Bangré,817180,23,Burkina Faso,Right Winger,RW,800000.0,Grenoble Foot 38,France,,0
+2024,Ligue 1,FC Toulouse,summer,out,Naatan Skyttä,567309,22,Finland,Attacking Midfield,AM,400000.0,USL Dunkerque,France,,0
+2024,Ligue 1,FC Toulouse,summer,out,Yanis Begraoui,569376,22,Morocco,Centre-Forward,CF,900000.0,GD Estoril Praia,Portugal,,0
+2024,Ligue 1,FC Toulouse,summer,out,Said Hamulic,652996,23,Bosnia-Herzegovina,Centre-Forward,CF,800000.0,Widzew Lodz,Poland,0.0,1
+2024,Ligue 1,FC Toulouse,summer,out,César Gelabert,505308,23,Spain,Attacking Midfield,AM,1500000.0,Sporting Gijón,Spain,0.0,1
+2024,Ligue 1,FC Toulouse,summer,out,Ibrahim Cissoko,575693,21,Netherlands,Left Winger,LW,1500000.0,Plymouth Argyle,England,0.0,1
+2024,Ligue 1,FC Toulouse,summer,out,Kjetil Haug,328770,26,Norway,Goalkeeper,GK,450000.0,Odds BK,Norway,0.0,1
+2024,Ligue 1,FC Toulouse,summer,out,Stijn Spierings,241501,28,Netherlands,Central Midfield,CM,4500000.0,RC Lens,France,0.0,1
+2024,Ligue 1,FC Toulouse,winter,out,Denis Genreau,470618,25,Australia,Attacking Midfield,AM,800000.0,Deportivo de La Coruña,Spain,0.0,0
+2024,Ligue 1,FC Toulouse,winter,out,Oliver Zandén,611195,23,Sweden,Left-Back,LB,700000.0,IF Brommapojkarna,Sweden,,0
+2024,Ligue 1,FC Toulouse,winter,out,Álex Domínguez,524937,26,Spain,Goalkeeper,GK,300000.0,SD Eibar,Spain,0.0,1
+2024,Ligue 1,FC Toulouse,winter,out,Ibrahim Cissoko,575693,21,Netherlands,Left Winger,LW,1500000.0,Sheffield Wednesday,England,0.0,1
+2024,Ligue 1,LOSC Lille,summer,in,Matías Fernández-Pardo,724129,19,Spain,Left Winger,LW,3000000.0,KAA Gent,Belgium,10000000.0,0
+2024,Ligue 1,LOSC Lille,summer,in,Osame Sahraoui,580657,23,Morocco,Left Winger,LW,8500000.0,SC Heerenveen,Netherlands,8000000.0,0
+2024,Ligue 1,LOSC Lille,summer,in,Ngal'ayel Mukau,1016015,19,DR Congo,Defensive Midfield,DM,3000000.0,KV Mechelen,Belgium,5000000.0,0
+2024,Ligue 1,LOSC Lille,summer,in,Mitchel Bakker,361065,24,Netherlands,Left Midfield,LM,6500000.0,Atalanta BC,Italy,840000.0,1
+2024,Ligue 1,LOSC Lille,summer,in,Ethan Mbappé,903666,17,France,Central Midfield,CM,1500000.0,Paris Saint-Germain U19,France,0.0,0
+2024,Ligue 1,LOSC Lille,summer,in,Thomas Meunier,100986,32,Belgium,Right-Back,RB,2500000.0,Trabzonspor,Türkiye,0.0,0
+2024,Ligue 1,LOSC Lille,summer,in,Aïssa Mandi,80293,32,Algeria,Centre-Back,CB,1800000.0,Villarreal CF,Spain,0.0,0
+2024,Ligue 1,LOSC Lille,summer,in,Marc-Aurèle Caillard,205465,30,France,Goalkeeper,GK,200000.0,FC Metz,France,0.0,0
+2024,Ligue 1,LOSC Lille,summer,in,André Gomes,221025,31,Portugal,Central Midfield,CM,10000000.0,Without Club,,,0
+2024,Ligue 1,LOSC Lille,winter,in,Chuba Akpom,197642,29,England,Centre-Forward,CF,8000000.0,Ajax Amsterdam,Netherlands,0.0,1
+2024,Ligue 1,LOSC Lille,summer,out,Leny Yoro,923831,18,France,Centre-Back,CB,50000000.0,Manchester United,England,62000000.0,0
+2024,Ligue 1,LOSC Lille,summer,out,Vincent Burlet,920939,18,Belgium,Left-Back,LB,,Le Mans FC,France,0.0,1
+2024,Ligue 1,LOSC Lille,summer,out,Tiago Morais,815652,20,Portugal,Left Winger,LW,3000000.0,Rio Ave FC,Portugal,0.0,1
+2024,Ligue 1,LOSC Lille,summer,out,Alan Virginius,654415,21,France,Left Midfield,LM,3500000.0,BSC Young Boys,Switzerland,0.0,1
+2024,Ligue 1,LOSC Lille,summer,out,Ugo Raghouber,707230,21,France,Defensive Midfield,DM,400000.0,USL Dunkerque,France,0.0,1
+2024,Ligue 1,LOSC Lille,summer,out,Adam Ounas,400485,27,Algeria,Right Winger,RW,4000000.0,Without Club,,,0
+2024,Ligue 1,LOSC Lille,summer,out,Adam Jakubech,258267,27,Slovakia,Goalkeeper,GK,200000.0,Without Club,,,0
+2024,Ligue 1,LOSC Lille,summer,out,Ivan Cavaleiro,149716,30,Angola,Left Winger,LW,2000000.0,Without Club,,,0
+2024,Ligue 1,LOSC Lille,summer,out,Yusuf Yazıcı,386726,27,Türkiye,Attacking Midfield,AM,10000000.0,Without Club,,,0
+2024,Ligue 1,LOSC Lille,summer,out,Andrej Ilic,583699,24,Serbia,Centre-Forward,CF,3000000.0,1.FC Union Berlin,Germany,0.0,1
+2024,Ligue 1,LOSC Lille,summer,out,Ignacio Miramón,836518,21,Argentina,Defensive Midfield,DM,2500000.0,CA Boca Juniors,Argentina,0.0,1
+2024,Ligue 1,LOSC Lille,winter,out,Akim Zedadka,327863,29,Algeria,Right-Back,RB,1500000.0,Piast Gliwice,Poland,0.0,0
+2024,Ligue 1,LOSC Lille,winter,out,Ousmane Touré,990732,19,France,Centre-Back,CB,200000.0,Valenciennes FC,France,0.0,1
+2024,Ligue 1,LOSC Lille,winter,out,Rafael Fernandes,744074,22,Portugal,Centre-Back,CB,1000000.0,Rangers FC,Scotland,0.0,1
+2024,Ligue 1,LOSC Lille,winter,out,Mohamed Bayo,594991,26,Guinea,Centre-Forward,CF,4000000.0,Royal Antwerp FC,Belgium,0.0,1
+2024,Ligue 1,Le Havre AC,summer,in,Ismaïl Bouneb,986286,18,France,Attacking Midfield,AM,50000.0,Valenciennes FC U19,France,0.0,0
+2024,Ligue 1,Le Havre AC,summer,in,Ruben Londja,927369,18,Switzerland,Right Winger,RW,,FC Lausanne-Sport II,Switzerland,0.0,0
+2024,Ligue 1,Le Havre AC,summer,in,Yanis Zouaoui,691841,26,France,Left-Back,LB,600000.0,FC Martigues,France,0.0,0
+2024,Ligue 1,Le Havre AC,summer,in,Timothée Pembélé,538998,21,France,Right-Back,RB,2500000.0,Sunderland AFC,England,0.0,1
+2024,Ligue 1,Le Havre AC,summer,in,Antoine Joujou,1028162,21,France,Left Winger,LW,1500000.0,Parma Calcio 1913,Italy,0.0,1
+2024,Ligue 1,Le Havre AC,summer,in,André Ayew,45403,34,Ghana,Centre-Forward,CF,1000000.0,Without Club,,,0
+2024,Ligue 1,Le Havre AC,summer,in,Ilyes Housni,825437,19,Morocco,Centre-Forward,CF,2800000.0,Paris Saint-Germain,France,0.0,1
+2024,Ligue 1,Le Havre AC,winter,in,Ahmed Hassan,184816,31,Egypt,Centre-Forward,CF,900000.0,Rio Ave FC,Portugal,0.0,0
+2024,Ligue 1,Le Havre AC,winter,in,Fodé Ballo-Touré,296422,28,Senegal,Left-Back,LB,1500000.0,Milan Futuro,Italy,0.0,0
+2024,Ligue 1,Le Havre AC,winter,in,Mahamadou Diawara,1053147,19,France,Central Midfield,CM,2500000.0,Olympique Lyon,France,0.0,1
+2024,Ligue 1,Le Havre AC,winter,in,Junior Mwanga,1011200,21,France,Defensive Midfield,DM,6000000.0,RC Strasbourg Alsace,France,0.0,1
+2024,Ligue 1,Le Havre AC,summer,out,Antoine Joujou,1028162,21,France,Left Winger,LW,1500000.0,Parma Calcio 1913,Italy,2700000.0,0
+2024,Ligue 1,Le Havre AC,summer,out,Yoni Gomis,988272,18,France,Centre-Back,CB,50000.0,RC Strasbourg Alsace,France,2000000.0,0
+2024,Ligue 1,Le Havre AC,summer,out,Djamal Moussadek,855021,22,Morocco,Centre-Back,CB,350000.0,FC Versailles 78,France,,0
+2024,Ligue 1,Le Havre AC,summer,out,Mohamed Koné,911985,22,Cote d'Ivoire,Goalkeeper,GK,500000.0,Royal Charleroi SC,Belgium,,0
+2024,Ligue 1,Le Havre AC,summer,out,Cheick Doumbia,918302,19,Mali,Left-Back,LB,50000.0,Rodez AF,France,,0
+2024,Ligue 1,Le Havre AC,summer,out,Nassim Chadli,721746,23,Morocco,Right Winger,RW,600000.0,Wydad Casablanca,Morocco,,0
+2024,Ligue 1,Le Havre AC,summer,out,Mokrane Bentoumi,789091,19,France,Attacking Midfield,AM,50000.0,FC Villefranche-Beaujolais,France,0.0,1
+2024,Ligue 1,Le Havre AC,summer,out,Simon Ebonog,770436,20,France,Central Midfield,CM,100000.0,AS Nancy-Lorraine,France,0.0,1
+2024,Ligue 1,Le Havre AC,summer,out,Aliou Thiaré,949111,20,Senegal,Centre-Back,CB,,AS Nancy-Lorraine,France,0.0,1
+2024,Ligue 1,Le Havre AC,summer,out,André Ayew,45403,34,Ghana,Centre-Forward,CF,1000000.0,Without Club,,,0
+2024,Ligue 1,Le Havre AC,summer,out,Kandet Diawara,575319,24,Guinea,Left Winger,LW,400000.0,Pau FC,France,0.0,1
+2024,Ligue 1,Le Havre AC,summer,out,Mohamed Bayo,594991,26,Guinea,Centre-Forward,CF,5000000.0,LOSC Lille,France,0.0,1
+2024,Ligue 1,Le Havre AC,winter,out,Steve Ngoura,923838,19,France,Centre-Forward,CF,800000.0,Cercle Brugge ,Belgium,2300000.0,0
+2024,Ligue 1,Le Havre AC,winter,out,Christopher Operi,469976,27,Cote d'Ivoire,Left-Back,LB,4000000.0,Basaksehir FK,Türkiye,1300000.0,0
+2024,Ligue 1,Le Havre AC,winter,out,Emmanuel Sabbi,381187,27,United States,Right Winger,RW,2000000.0,Vancouver Whitecaps FC,United States,1000000.0,0
+2024,Ligue 1,Le Havre AC,winter,out,Oussama Targhalline,667965,22,Morocco,Defensive Midfield,DM,3000000.0,Feyenoord Rotterdam,Netherlands,450000.0,0
+2024,Ligue 1,Le Havre AC,winter,out,Samuel Grandsir,432772,28,France,Right Winger,RW,1200000.0,SM Caen,France,0.0,0
+2024,Ligue 1,Le Havre AC,winter,out,Yoann Salmier,351843,32,French Guiana,Centre-Back,CB,1200000.0,Clermont Foot 63,France,0.0,0
+2024,Ligue 1,Le Havre AC,winter,out,Paul Argney,988275,18,France,Goalkeeper,GK,100000.0,Francs Borains,Belgium,0.0,1
+2024,Ligue 1,Montpellier HSC,summer,in,Rabby Nzingoula,1068110,18,France,Defensive Midfield,DM,300000.0,RC Strasbourg Alsace,France,0.0,1
+2024,Ligue 1,Montpellier HSC,summer,in,Birama Touré,229853,32,Mali,Defensive Midfield,DM,1600000.0,Without Club,,,0
+2024,Ligue 1,Montpellier HSC,summer,in,Nikola Maksimović,124715,32,Serbia,Centre-Back,CB,350000.0,Without Club,,,0
+2024,Ligue 1,Montpellier HSC,winter,in,Nicolas Pays,1093482,21,France,Attacking Midfield,AM,,Le Puy Foot 43 Auvergne,France,0.0,0
+2024,Ligue 1,Montpellier HSC,winter,in,Andy Delort,122797,33,Algeria,Centre-Forward,CF,2000000.0,MC Algiers,Algeria,0.0,1
+2024,Ligue 1,Montpellier HSC,winter,in,Bamo Meïté,807165,23,Cote d'Ivoire,Centre-Back,CB,5000000.0,Olympique Marseille,France,0.0,1
+2024,Ligue 1,Montpellier HSC,summer,out,Maxime Estève,842341,22,France,Centre-Back,CB,7000000.0,Burnley FC,England,12000000.0,0
+2024,Ligue 1,Montpellier HSC,summer,out,Léo Leroy,650350,24,France,Central Midfield,CM,1000000.0,FC Basel 1893,Switzerland,500000.0,0
+2024,Ligue 1,Montpellier HSC,summer,out,Sacha Delaye,842425,22,France,Attacking Midfield,AM,300000.0,SC Austria Lustenau,Austria,0.0,0
+2024,Ligue 1,Montpellier HSC,summer,out,Silvan Hefti,237666,26,Switzerland,Right-Back,RB,2500000.0,Genoa CFC,Italy,0.0,1
+2024,Ligue 1,Montpellier HSC,summer,out,Yann Karamoh,324804,25,France,Left Winger,LW,2500000.0,Torino FC,Italy,0.0,1
+2024,Ligue 1,Montpellier HSC,winter,out,Mousa Tamari,551505,27,Jordan,Right Winger,RW,6000000.0,Stade Rennais FC,France,8000000.0,0
+2024,Ligue 1,Montpellier HSC,winter,out,Akor Adams,607034,24,Nigeria,Centre-Forward,CF,9000000.0,Sevilla FC,Spain,5500000.0,0
+2024,Ligue 1,Montpellier HSC,winter,out,Arnaud Nordin,324811,26,France,Right Winger,RW,8000000.0,1.FSV Mainz 05,Germany,1000000.0,0
+2024,Ligue 1,Montpellier HSC,winter,out,Gabriel Barès,484743,24,Switzerland,Defensive Midfield,DM,400000.0,Burgos CF,Spain,0.0,0
+2024,Ligue 1,Montpellier HSC,winter,out,Birama Touré,229853,32,Mali,Defensive Midfield,DM,1200000.0,Manisa FK,Türkiye,0.0,1
+2024,Ligue 1,OGC Nice,summer,in,Moïse Bombito,1089202,24,Canada,Centre-Back,CB,4500000.0,Colorado Rapids,United States,7000000.0,0
+2024,Ligue 1,OGC Nice,summer,in,Jonathan Clauss,175639,31,France,Right-Back,RB,12000000.0,Olympique Marseille,France,5000000.0,0
+2024,Ligue 1,OGC Nice,summer,in,Mohamed Abdelmonem,566025,25,Egypt,Centre-Back,CB,3000000.0,Al Ahly FC,Egypt,4200000.0,0
+2024,Ligue 1,OGC Nice,summer,in,Morgan Sanson,174094,29,France,Central Midfield,CM,8000000.0,Aston Villa,England,4000000.0,0
+2024,Ligue 1,OGC Nice,summer,in,Ali Abdi,211474,30,Tunisia,Left-Back,LB,1500000.0,SM Caen,France,500000.0,0
+2024,Ligue 1,OGC Nice,summer,in,Tanguy Ndombélé,450936,27,France,Central Midfield,CM,8000000.0,Tottenham Hotspur,England,0.0,0
+2024,Ligue 1,OGC Nice,summer,in,Youssoufa Moukoko,467720,19,Germany,Centre-Forward,CF,22000000.0,Borussia Dortmund,Germany,0.0,1
+2024,Ligue 1,OGC Nice,winter,in,Baptiste Santamaria,285323,29,France,Defensive Midfield,DM,7000000.0,Stade Rennais FC,France,0.0,1
+2024,Ligue 1,OGC Nice,summer,out,Khéphren Thuram,463618,23,France,Central Midfield,CM,35000000.0,Juventus FC,Italy,20600000.0,0
+2024,Ligue 1,OGC Nice,summer,out,Jordan Lotomba,313094,25,Switzerland,Right-Back,RB,8000000.0,Feyenoord Rotterdam,Netherlands,2200000.0,0
+2024,Ligue 1,OGC Nice,summer,out,Robson Bambu,458715,26,Brazil,Centre-Back,CB,3000000.0,SC Braga,Portugal,1200000.0,0
+2024,Ligue 1,OGC Nice,summer,out,Alexis Claude-Maurice,384593,26,France,Attacking Midfield,AM,3500000.0,FC Augsburg,Germany,0.0,0
+2024,Ligue 1,OGC Nice,summer,out,Jean-Clair Todibo,605184,24,France,Centre-Back,CB,35000000.0,West Ham United,England,0.0,1
+2024,Ligue 1,OGC Nice,summer,out,Billal Brahimi,543051,24,Algeria,Right Winger,RW,3000000.0,Sint-Truidense VV,Belgium,0.0,1
+2024,Ligue 1,OGC Nice,summer,out,Aliou Baldé,666977,21,Guinea,Left Winger,LW,800000.0,VfL Bochum,Germany,0.0,1
+2024,Ligue 1,OGC Nice,summer,out,Ayoub Amraoui,860051,20,Morocco,Left-Back,LB,1500000.0,FC Martigues,France,0.0,1
+2024,Ligue 1,OGC Nice,summer,out,Mattia Viti,493702,22,Italy,Centre-Back,CB,5000000.0,FC Empoli,Italy,0.0,1
+2024,Ligue 1,OGC Nice,summer,out,Alexis Beka Beka,539065,23,France,Defensive Midfield,DM,1500000.0,Without Club,,,0
+2024,Ligue 1,OGC Nice,summer,out,Morgan Sanson,174094,29,France,Central Midfield,CM,8000000.0,Aston Villa,England,0.0,1
+2024,Ligue 1,OGC Nice,summer,out,Valentin Rosier,441170,27,France,Right-Back,RB,4000000.0,Besiktas JK,Türkiye,0.0,1
+2024,Ligue 1,OGC Nice,summer,out,Romain Perraud,318523,26,France,Left-Back,LB,5000000.0,Southampton FC,England,0.0,1
+2024,Ligue 1,OGC Nice,winter,out,Aliou Baldé,666977,22,Guinea,Left Winger,LW,650000.0,FC Lausanne-Sport,Switzerland,0.0,1
+2024,Ligue 1,OGC Nice,winter,out,Rareș Ilie,812654,21,Romania,Attacking Midfield,AM,1500000.0,US Catanzaro,Italy,0.0,1
+2024,Ligue 1,OGC Nice,winter,out,Issiaga Camara,1180835,19,Guinea,Central Midfield,CM,300000.0,Dijon FCO,France,0.0,1
+2024,Ligue 1,Olympique Lyon,summer,in,Moussa Niakhaté,291200,28,Senegal,Centre-Back,CB,16000000.0,Nottingham Forest,England,31900000.0,0
+2024,Ligue 1,Olympique Lyon,summer,in,Ernest Nuamah,955070,20,Ghana,Right Winger,RW,18000000.0,RWD Molenbeek,Belgium,28500000.0,0
+2024,Ligue 1,Olympique Lyon,summer,in,Orel Mangala,289592,26,Belgium,Defensive Midfield,DM,20000000.0,Nottingham Forest,England,23400000.0,0
+2024,Ligue 1,Olympique Lyon,summer,in,Georges Mikautadze,729814,23,Georgia,Centre-Forward,CF,20000000.0,FC Metz,France,18500000.0,0
+2024,Ligue 1,Olympique Lyon,summer,in,Saïd Benrahma,290532,28,Algeria,Left Winger,LW,20000000.0,West Ham United,England,14400000.0,0
+2024,Ligue 1,Olympique Lyon,summer,in,Abner,646402,24,Brazil,Left-Back,LB,7000000.0,Real Betis Balompié,Spain,8000000.0,0
+2024,Ligue 1,Olympique Lyon,summer,in,Mama Baldé,325223,28,Guinea-Bissau,Centre-Forward,CF,4000000.0,ESTAC Troyes,France,6000000.0,0
+2024,Ligue 1,Olympique Lyon,summer,in,Tanner Tessmann,670096,22,United States,Defensive Midfield,DM,7000000.0,Venezia FC,Italy,6000000.0,0
+2024,Ligue 1,Olympique Lyon,summer,in,Jordan Veretout,164771,31,France,Central Midfield,CM,15000000.0,Olympique Marseille,France,4000000.0,0
+2024,Ligue 1,Olympique Lyon,summer,in,Duje Caleta-Car,238266,27,Croatia,Centre-Back,CB,7000000.0,Southampton FC,England,3590000.0,0
+2024,Ligue 1,Olympique Lyon,summer,in,Wilfried Zaha,145988,31,Cote d'Ivoire,Left Winger,LW,11000000.0,Galatasaray,Türkiye,3000000.0,1
+2024,Ligue 1,Olympique Lyon,summer,in,Warmed Omari,711996,24,Comoros,Centre-Back,CB,8000000.0,Stade Rennais FC,France,500000.0,1
+2024,Ligue 1,Olympique Lyon,summer,in,Rémy Descamps,282028,28,France,Goalkeeper,GK,1500000.0,FC Nantes,France,0.0,0
+2024,Ligue 1,Olympique Lyon,winter,in,Thiago Almada,576028,23,Argentina,Left Winger,LW,27000000.0,Botafogo de Futebol e Regatas,Brazil,0.0,1
+2024,Ligue 1,Olympique Lyon,summer,out,Jake O'Brien,711544,23,Ireland,Right-Back,RB,12000000.0,Everton FC,England,19500000.0,0
+2024,Ligue 1,Olympique Lyon,summer,out,Mamadou Sarr,910905,18,France,Centre-Back,CB,1000000.0,RC Strasbourg Alsace,France,10000000.0,0
+2024,Ligue 1,Olympique Lyon,summer,out,Skelly Alvero,855134,22,France,Defensive Midfield,DM,4000000.0,SV Werder Bremen,Germany,4750000.0,0
+2024,Ligue 1,Olympique Lyon,summer,out,Mama Baldé,325223,28,Guinea-Bissau,Centre-Forward,CF,4000000.0,Stade Brestois 29,France,4500000.0,0
+2024,Ligue 1,Olympique Lyon,summer,out,Sinaly Diomandé,702441,23,Cote d'Ivoire,Centre-Back,CB,4000000.0,AJ Auxerre,France,0.0,0
+2024,Ligue 1,Olympique Lyon,summer,out,Tino Kadewere,384060,28,Zimbabwe,Centre-Forward,CF,2500000.0,FC Nantes,France,0.0,0
+2024,Ligue 1,Olympique Lyon,summer,out,Dejan Lovren,37838,35,Croatia,Centre-Back,CB,1200000.0,PAOK Thessaloniki,Greece,0.0,0
+2024,Ligue 1,Olympique Lyon,summer,out,Mohamed El Arouch,743533,20,France,Central Midfield,CM,1500000.0,Botafogo de Futebol e Regatas,Brazil,0.0,0
+2024,Ligue 1,Olympique Lyon,summer,out,Achraf Laâziri,902862,21,Morocco,Left-Back,LB,300000.0,RWD Molenbeek,Belgium,0.0,1
+2024,Ligue 1,Olympique Lyon,summer,out,Johann Lepenant,585973,21,France,Defensive Midfield,DM,6000000.0,FC Nantes,France,0.0,1
+2024,Ligue 1,Olympique Lyon,summer,out,Amin Sarr,748382,23,Sweden,Centre-Forward,CF,4000000.0,Hellas Verona,Italy,0.0,1
+2024,Ligue 1,Olympique Lyon,summer,out,Orel Mangala,289592,26,Belgium,Defensive Midfield,DM,20000000.0,Everton FC,England,0.0,1
+2024,Ligue 1,Olympique Lyon,summer,out,Islamdine Halifa,902629,19,France,Defensive Midfield,DM,,RWD Molenbeek,Belgium,0.0,1
+2024,Ligue 1,Olympique Lyon,summer,out,Henrique Silva,204072,30,Brazil,Left-Back,LB,1000000.0,Without Club,,,0
+2024,Ligue 1,Olympique Lyon,summer,out,Adryelson,373433,26,Brazil,Centre-Back,CB,4000000.0,Botafogo de Futebol e Regatas,Brazil,0.0,1
+2024,Ligue 1,Olympique Lyon,summer,out,Duje Caleta-Car,238266,27,Croatia,Centre-Back,CB,7000000.0,Southampton FC,England,0.0,1
+2024,Ligue 1,Olympique Lyon,summer,out,Saïd Benrahma,290532,28,Algeria,Left Winger,LW,20000000.0,West Ham United,England,0.0,1
+2024,Ligue 1,Olympique Lyon,summer,out,Orel Mangala,289592,26,Belgium,Defensive Midfield,DM,20000000.0,Nottingham Forest,England,0.0,1
+2024,Ligue 1,Olympique Lyon,summer,out,Ernest Nuamah,955070,20,Ghana,Right Winger,RW,18000000.0,RWD Molenbeek,Belgium,0.0,1
+2024,Ligue 1,Olympique Lyon,summer,out,Mama Baldé,325223,28,Guinea-Bissau,Centre-Forward,CF,4000000.0,ESTAC Troyes,France,0.0,1
+2024,Ligue 1,Olympique Lyon,winter,out,Maxence Caqueret,395237,24,France,Central Midfield,CM,15000000.0,Como 1907,Italy,15000000.0,0
+2024,Ligue 1,Olympique Lyon,winter,out,Gift Orban,1018259,22,Nigeria,Centre-Forward,CF,10000000.0,TSG 1899 Hoffenheim,Germany,9000000.0,0
+2024,Ligue 1,Olympique Lyon,winter,out,Jeffinho,884072,25,Brazil,Left Winger,LW,5000000.0,Botafogo de Futebol e Regatas,Brazil,5300000.0,0
+2024,Ligue 1,Olympique Lyon,winter,out,Florent Sanchez,607225,21,France,Central Midfield,CM,350000.0,US Orléans,France,0.0,0
+2024,Ligue 1,Olympique Lyon,winter,out,Anthony Lopes,60561,34,Portugal,Goalkeeper,GK,1500000.0,FC Nantes,France,0.0,0
+2024,Ligue 1,Olympique Lyon,winter,out,Adryelson,373433,26,Brazil,Centre-Back,CB,4000000.0,RSC Anderlecht,Belgium,0.0,1
+2024,Ligue 1,Olympique Lyon,winter,out,Mahamadou Diawara,1053147,19,France,Central Midfield,CM,2500000.0,Le Havre AC,France,0.0,1
+2024,Ligue 1,Olympique Lyon,winter,out,Saïd Benrahma,290532,29,Algeria,Left Winger,LW,15000000.0,NEOM SC,Saudi Arabia,0.0,1
+2024,Ligue 1,Olympique Lyon,winter,out,Justin Bengui,802986,19,France,Goalkeeper,GK,300000.0,FK Jedinstvo Ub,Serbia,0.0,1
+2024,Ligue 1,Olympique Lyon,winter,out,Wilfried Zaha,145988,32,Cote d'Ivoire,Left Winger,LW,8000000.0,Galatasaray,Türkiye,0.0,1
+2024,Ligue 1,Olympique Marseille,summer,in,Elye Wahi,659542,21,France,Centre-Forward,CF,35000000.0,RC Lens,France,27000000.0,0
+2024,Ligue 1,Olympique Marseille,summer,in,Mason Greenwood,532826,22,England,Right Winger,RW,25000000.0,Manchester United,England,26000000.0,0
+2024,Ligue 1,Olympique Marseille,summer,in,Ismaël Koné,921655,22,Canada,Central Midfield,CM,11000000.0,Watford FC,England,12000000.0,0
+2024,Ligue 1,Olympique Marseille,summer,in,Bamo Meïté,807165,22,Cote d'Ivoire,Centre-Back,CB,6000000.0,FC Lorient,France,10500000.0,0
+2024,Ligue 1,Olympique Marseille,summer,in,Derek Cornelius,328609,26,Canada,Centre-Back,CB,2800000.0,Malmö FF,Sweden,4000000.0,0
+2024,Ligue 1,Olympique Marseille,summer,in,Gerónimo Rulli,229604,32,Argentina,Goalkeeper,GK,5000000.0,Ajax Amsterdam,Netherlands,4000000.0,0
+2024,Ligue 1,Olympique Marseille,summer,in,Jeffrey de Lange,315253,26,Netherlands,Goalkeeper,GK,3000000.0,Go Ahead Eagles,Netherlands,2000000.0,0
+2024,Ligue 1,Olympique Marseille,summer,in,Jonathan Rowe,672381,21,England,Left Winger,LW,9000000.0,Norwich City,England,2000000.0,1
+2024,Ligue 1,Olympique Marseille,summer,in,Valentín Carboni,787618,19,Argentina,Attacking Midfield,AM,15000000.0,Inter Milan,Italy,1000000.0,1
+2024,Ligue 1,Olympique Marseille,summer,in,Neal Maupay,217115,28,France,Centre-Forward,CF,12000000.0,Everton FC,England,500000.0,1
+2024,Ligue 1,Olympique Marseille,summer,in,Pierre-Emile Højbjerg,167799,28,Denmark,Defensive Midfield,DM,18000000.0,Tottenham Hotspur,England,0.0,1
+2024,Ligue 1,Olympique Marseille,summer,in,Lilian Brassier,485960,24,France,Centre-Back,CB,12000000.0,Stade Brestois 29,France,0.0,1
+2024,Ligue 1,Olympique Marseille,summer,in,Adrien Rabiot,182913,29,France,Central Midfield,CM,35000000.0,Without Club,,,0
+2024,Ligue 1,Olympique Marseille,winter,in,Amine Gouiri,418659,24,Algeria,Centre-Forward,CF,20000000.0,Stade Rennais FC,France,19000000.0,0
+2024,Ligue 1,Olympique Marseille,winter,in,Amar Dedić,519184,22,Bosnia-Herzegovina,Right-Back,RB,15000000.0,Red Bull Salzburg,Austria,1500000.0,0
+2024,Ligue 1,Olympique Marseille,winter,in,Ismaël Bennacer,351816,27,Algeria,Defensive Midfield,DM,14000000.0,AC Milan,Italy,1000000.0,1
+2024,Ligue 1,Olympique Marseille,winter,in,Luiz Felipe,457931,27,Italy,Centre-Back,CB,8000000.0,Al-Ittihad Club,Saudi Arabia,0.0,0
+2024,Ligue 1,Olympique Marseille,summer,out,Iliman Ndiaye,623570,24,Senegal,Right Winger,RW,15000000.0,Everton FC,England,18000000.0,0
+2024,Ligue 1,Olympique Marseille,summer,out,Ismaïla Sarr,410225,26,Senegal,Right Winger,RW,18000000.0,Crystal Palace,England,15000000.0,0
+2024,Ligue 1,Olympique Marseille,summer,out,Mattéo Guendouzi,465830,25,France,Central Midfield,CM,25000000.0,SS Lazio,Italy,13000000.0,0
+2024,Ligue 1,Olympique Marseille,summer,out,Pierre-Emerick Aubameyang,58864,35,Gabon,Centre-Forward,CF,5000000.0,Al-Qadsiah FC,Saudi Arabia,9000000.0,0
+2024,Ligue 1,Olympique Marseille,summer,out,Vitinha,586853,24,Portugal,Centre-Forward,CF,14000000.0,Genoa CFC,Italy,8300000.000000001,0
+2024,Ligue 1,Olympique Marseille,summer,out,Jonathan Clauss,175639,31,France,Right-Back,RB,12000000.0,OGC Nice,France,5000000.0,0
+2024,Ligue 1,Olympique Marseille,summer,out,Jordan Veretout,164771,31,France,Central Midfield,CM,15000000.0,Olympique Lyon,France,4000000.0,0
+2024,Ligue 1,Olympique Marseille,summer,out,Samuel Gigot,276896,30,France,Centre-Back,CB,9000000.0,SS Lazio,Italy,500000.0,1
+2024,Ligue 1,Olympique Marseille,summer,out,Azzedine Ounahi,593482,24,Morocco,Central Midfield,CM,12000000.0,Panathinaikos FC,Greece,500000.0,1
+2024,Ligue 1,Olympique Marseille,summer,out,Jordan Amavi,241229,30,France,Left-Back,LB,1200000.0,Stade Brestois 29,France,0.0,0
+2024,Ligue 1,Olympique Marseille,summer,out,Pape Gueye,485963,25,Senegal,Defensive Midfield,DM,6000000.0,Villarreal CF,Spain,0.0,0
+2024,Ligue 1,Olympique Marseille,summer,out,Konrad de la Fuente,466809,23,United States,Left Winger,LW,800000.0,FC Lausanne-Sport,Switzerland,,0
+2024,Ligue 1,Olympique Marseille,summer,out,Salim Ben Seghir,708681,21,France,Left Winger,LW,400000.0,Neuchâtel Xamax FCS,Switzerland,,0
+2024,Ligue 1,Olympique Marseille,summer,out,Simon Ngapandouetnbu,696600,21,Cameroon,Goalkeeper,GK,300000.0,Nîmes Olympique,France,0.0,1
+2024,Ligue 1,Olympique Marseille,summer,out,Pau López,286415,29,Spain,Goalkeeper,GK,10000000.0,Girona FC,Spain,0.0,1
+2024,Ligue 1,Olympique Marseille,summer,out,Jean Onana,656441,24,Cameroon,Defensive Midfield,DM,4000000.0,Besiktas JK,Türkiye,0.0,1
+2024,Ligue 1,Olympique Marseille,summer,out,Bamo Meïté,807165,22,Cote d'Ivoire,Centre-Back,CB,6000000.0,FC Lorient,France,0.0,1
+2024,Ligue 1,Olympique Marseille,summer,out,Joaquín Correa,227081,29,Argentina,Second Striker,SS,6000000.0,Inter Milan,Italy,0.0,1
+2024,Ligue 1,Olympique Marseille,winter,out,Elye Wahi,659542,22,France,Centre-Forward,CF,25000000.0,Eintracht Frankfurt,Germany,26000000.0,0
+2024,Ligue 1,Olympique Marseille,winter,out,Ismaël Koné,921655,22,Canada,Central Midfield,CM,12000000.0,Stade Rennais FC,France,1000000.0,1
+2024,Ligue 1,Olympique Marseille,winter,out,Enzo Sternal,1075589,17,France,Attacking Midfield,AM,1500000.0,RSCA Futures,Belgium,500000.0,0
+2024,Ligue 1,Olympique Marseille,winter,out,Emran Soglo,913495,19,England,Left-Back,LB,800000.0,SK Sturm Graz,Austria,,0
+2024,Ligue 1,Olympique Marseille,winter,out,François Mughe,1027216,20,Cameroon,Right Winger,RW,500000.0,Athens Kallithea,Greece,0.0,1
+2024,Ligue 1,Olympique Marseille,winter,out,Pau López,286415,30,Spain,Goalkeeper,GK,3500000.0,Deportivo Toluca,Mexico,0.0,1
+2024,Ligue 1,Olympique Marseille,winter,out,Bamo Meïté,807165,23,Cote d'Ivoire,Centre-Back,CB,5000000.0,Montpellier HSC,France,0.0,1
+2024,Ligue 1,Olympique Marseille,winter,out,Lilian Brassier,485960,25,France,Centre-Back,CB,10000000.0,Stade Brestois 29,France,0.0,1
+2024,Ligue 1,Olympique Marseille,winter,out,Valentín Carboni,787618,19,Argentina,Attacking Midfield,AM,12000000.0,Inter Milan,Italy,0.0,1
+2024,Ligue 1,Paris Saint-Germain,summer,in,João Neves,670681,19,Portugal,Central Midfield,CM,55000000.0,SL Benfica,Portugal,65920000.0,0
+2024,Ligue 1,Paris Saint-Germain,summer,in,Désiré Doué,914562,19,France,Right Winger,RW,30000000.0,Stade Rennais FC,France,50000000.0,0
+2024,Ligue 1,Paris Saint-Germain,summer,in,Willian Pacho,661171,22,Ecuador,Centre-Back,CB,35000000.0,Eintracht Frankfurt,Germany,40000000.0,0
+2024,Ligue 1,Paris Saint-Germain,summer,in,Matvey Safonov,318470,25,Russia,Goalkeeper,GK,20000000.0,FC Krasnodar,Russia,20000000.0,0
+2024,Ligue 1,Paris Saint-Germain,winter,in,Khvicha Kvaratskhelia,502670,23,Georgia,Left Winger,LW,85000000.0,SSC Napoli,Italy,70000000.0,0
+2024,Ligue 1,Paris Saint-Germain,summer,out,Manuel Ugarte,476701,23,Uruguay,Defensive Midfield,DM,45000000.0,Manchester United,England,50000000.0,0
+2024,Ligue 1,Paris Saint-Germain,summer,out,Hugo Ekitiké,709726,22,France,Centre-Forward,CF,20000000.0,Eintracht Frankfurt,Germany,31500000.0,0
+2024,Ligue 1,Paris Saint-Germain,summer,out,Danilo Pereira,141050,32,Portugal,Centre-Back,CB,8000000.0,Al-Ittihad Club,Saudi Arabia,5000000.0,0
+2024,Ligue 1,Paris Saint-Germain,summer,out,Colin Dagba,460629,25,France,Right-Back,RB,1200000.0,Beerschot VA,Belgium,0.0,0
+2024,Ligue 1,Paris Saint-Germain,summer,out,Kylian Mbappé,342229,25,France,Centre-Forward,CF,180000000.0,Real Madrid,Spain,0.0,0
+2024,Ligue 1,Paris Saint-Germain,summer,out,Ismaël Gharbi,810096,20,Tunisia,Left Winger,LW,7500000.0,SC Braga,Portugal,0.0,0
+2024,Ligue 1,Paris Saint-Germain,summer,out,Edouard Michut,659521,21,France,Central Midfield,CM,2500000.0,Adana Demirspor,Türkiye,0.0,0
+2024,Ligue 1,Paris Saint-Germain,summer,out,Noha Lemina,816124,19,Gabon,Attacking Midfield,AM,500000.0,FC Annecy,France,0.0,0
+2024,Ligue 1,Paris Saint-Germain,summer,out,Cher Ndour,651005,20,Italy,Central Midfield,CM,4000000.0,Besiktas JK,Türkiye,0.0,1
+2024,Ligue 1,Paris Saint-Germain,summer,out,Gabriel Moscardo,1086636,18,Brazil,Defensive Midfield,DM,15000000.0,Stade Reims,France,0.0,1
+2024,Ligue 1,Paris Saint-Germain,summer,out,Nordi Mukiele,348026,26,France,Right-Back,RB,10000000.0,Bayer 04 Leverkusen,Germany,0.0,1
+2024,Ligue 1,Paris Saint-Germain,summer,out,Juan Bernat,126719,31,Spain,Left-Back,LB,4000000.0,Villarreal CF,Spain,0.0,1
+2024,Ligue 1,Paris Saint-Germain,summer,out,Carlos Soler,372246,27,Spain,Central Midfield,CM,20000000.0,West Ham United,England,0.0,1
+2024,Ligue 1,Paris Saint-Germain,summer,out,Layvin Kurzawa,126710,31,France,Left-Back,LB,1800000.0,Without Club,,,0
+2024,Ligue 1,Paris Saint-Germain,summer,out,Keylor Navas,79422,37,Costa Rica,Goalkeeper,GK,1500000.0,Without Club,,,0
+2024,Ligue 1,Paris Saint-Germain,summer,out,Alexandre Letellier,93730,33,France,Goalkeeper,GK,250000.0,Without Club,,,0
+2024,Ligue 1,Paris Saint-Germain,summer,out,Sergio Rico,207302,30,Spain,Goalkeeper,GK,1500000.0,Without Club,,,0
+2024,Ligue 1,Paris Saint-Germain,summer,out,Ilyes Housni,825437,19,Morocco,Centre-Forward,CF,2800000.0,Le Havre AC,France,0.0,1
+2024,Ligue 1,Paris Saint-Germain,summer,out,Renato Sanches,258027,26,Portugal,Central Midfield,CM,6500000.0,SL Benfica,Portugal,0.0,1
+2024,Ligue 1,Paris Saint-Germain,winter,out,Xavi Simons,566931,21,Netherlands,Attacking Midfield,AM,80000000.0,RB Leipzig,Germany,50000000.0,0
+2024,Ligue 1,Paris Saint-Germain,winter,out,Cher Ndour,651005,20,Italy,Central Midfield,CM,4000000.0,ACF Fiorentina,Italy,5000000.0,0
+2024,Ligue 1,Paris Saint-Germain,winter,out,Randal Kolo Muani,487969,26,France,Centre-Forward,CF,30000000.0,Juventus FC,Italy,3600000.0,1
+2024,Ligue 1,Paris Saint-Germain,winter,out,Juan Bernat,126719,31,Spain,Left-Back,LB,2500000.0,Villarreal CF,Spain,0.0,0
+2024,Ligue 1,Paris Saint-Germain,winter,out,Milan Škriniar,204069,29,Slovakia,Centre-Back,CB,15000000.0,Fenerbahce,Türkiye,0.0,1
+2024,Ligue 1,Paris Saint-Germain,winter,out,Marco Asensio,296622,29,Spain,Attacking Midfield,AM,20000000.0,Aston Villa,England,0.0,1
+2024,Ligue 1,RC Lens,summer,in,Anass Zaroury,491296,23,Morocco,Left Winger,LW,9000000.0,Burnley FC,England,5000000.0,0
+2024,Ligue 1,RC Lens,summer,in,Jhoanner Chávez,713787,22,Ecuador,Left-Back,LB,2000000.0,Esporte Clube Bahia,Brazil,4500000.0,0
+2024,Ligue 1,RC Lens,summer,in,Hervé Koffi,415383,27,Burkina Faso,Goalkeeper,GK,2000000.0,Royal Charleroi SC,Belgium,2500000.0,0
+2024,Ligue 1,RC Lens,summer,in,M'Bala Nzola,354814,27,Angola,Centre-Forward,CF,7000000.0,ACF Fiorentina,Italy,2100000.0,1
+2024,Ligue 1,RC Lens,summer,in,Hamzat Ojediran,718312,20,Nigeria,Defensive Midfield,DM,400000.0,Debreceni VSC,Hungary,1350000.0,0
+2024,Ligue 1,RC Lens,summer,in,Martín Satriano,640109,23,Uruguay,Centre-Forward,CF,7000000.0,Inter Milan,Italy,1000000.0,1
+2024,Ligue 1,RC Lens,summer,in,Sidi Bane,1000828,20,Senegal,Centre-Back,CB,150000.0,BATE Borisov,Belarus,250000.0,0
+2024,Ligue 1,RC Lens,summer,in,Denis Petric,28356,36,Slovenia,Goalkeeper,GK,100000.0,FC Nantes,France,0.0,0
+2024,Ligue 1,RC Lens,summer,in,Malang Sarr,344596,25,France,Centre-Back,CB,4000000.0,Chelsea FC,England,0.0,0
+2024,Ligue 1,RC Lens,winter,in,Nidal Celik,819566,18,Bosnia-Herzegovina,Centre-Back,CB,1000000.0,FK Sarajevo,Bosnia-Herzegovina,2500000.0,0
+2024,Ligue 1,RC Lens,winter,in,Goduine Koyalipou,525140,24,Central African Republic,Centre-Forward,CF,1200000.0,CSKA Sofia,Bulgaria,2000000.0,0
+2024,Ligue 1,RC Lens,winter,in,Andrija Bulatovic,986291,18,Montenegro,Central Midfield,CM,400000.0,Buducnost Podgorica,Montenegro,1700000.0,0
+2024,Ligue 1,RC Lens,winter,in,Jeremy Agbonifo,1057820,19,Sweden,Right Winger,RW,3500000.0,BK Häcken,Sweden,1000000.0,1
+2024,Ligue 1,RC Lens,winter,in,Mathew Ryan,128969,32,Australia,Goalkeeper,GK,2500000.0,AS Roma,Italy,800000.0,0
+2024,Ligue 1,RC Lens,winter,in,Juma Bah,1121298,18,Sierra Leone,Centre-Back,CB,1000000.0,Manchester City,England,0.0,1
+2024,Ligue 1,RC Lens,summer,out,Elye Wahi,659542,21,France,Centre-Forward,CF,35000000.0,Olympique Marseille,France,27000000.0,0
+2024,Ligue 1,RC Lens,summer,out,Adam Buksa,267160,27,Poland,Centre-Forward,CF,6000000.0,FC Midtjylland,Denmark,4000000.0,0
+2024,Ligue 1,RC Lens,summer,out,Ayanda Sishuba,977877,19,Belgium,Attacking Midfield,AM,500000.0,Hellas Verona,Italy,2500000.0,0
+2024,Ligue 1,RC Lens,summer,out,Julien Le Cardinal,794349,26,France,Centre-Back,CB,1500000.0,Stade Brestois 29,France,1700000.0,0
+2024,Ligue 1,RC Lens,summer,out,Morgan Guilavogui,691786,26,Guinea,Right Winger,RW,3000000.0,FC St. Pauli,Germany,500000.0,1
+2024,Ligue 1,RC Lens,summer,out,Lukasz Poreba,532169,24,Poland,Central Midfield,CM,1200000.0,Hamburger SV,Germany,300000.0,0
+2024,Ligue 1,RC Lens,summer,out,Massadio Haïdara,170929,31,Mali,Left-Back,LB,2000000.0,Stade Brestois 29,France,0.0,0
+2024,Ligue 1,RC Lens,summer,out,Stijn Spierings,241501,28,Netherlands,Central Midfield,CM,4500000.0,Bröndby IF,Denmark,0.0,0
+2024,Ligue 1,RC Lens,summer,out,Ibrahima Baldé,804884,21,France,Centre-Forward,CF,300000.0,Rodez AF,France,0.0,0
+2024,Ligue 1,RC Lens,summer,out,Anthony Bermont,1088110,19,France,Left Winger,LW,,FC Annecy,France,0.0,1
+2024,Ligue 1,RC Lens,summer,out,Yannick Pandor,804829,23,Comoros,Goalkeeper,GK,100000.0,US Boulogne,France,0.0,1
+2024,Ligue 1,RC Lens,summer,out,Salis Abdul Samed,688707,24,Ghana,Defensive Midfield,DM,8000000.0,Sunderland AFC,England,0.0,1
+2024,Ligue 1,RC Lens,summer,out,Jean-Louis Leca,27490,38,France,Goalkeeper,GK,200000.0,Retired,,,0
+2024,Ligue 1,RC Lens,summer,out,Jhoanner Chávez,713787,22,Ecuador,Left-Back,LB,2000000.0,Esporte Clube Bahia,Brazil,0.0,1
+2024,Ligue 1,RC Lens,winter,out,Abdukodir Khusanov,763079,20,Uzbekistan,Centre-Back,CB,12000000.0,Manchester City,England,40000000.0,0
+2024,Ligue 1,RC Lens,winter,out,Brice Samba,191056,30,France,Goalkeeper,GK,15000000.0,Stade Rennais FC,France,14000000.0,0
+2024,Ligue 1,RC Lens,winter,out,David Da Costa,719442,24,Portugal,Attacking Midfield,AM,7000000.0,Portland Timbers,United States,5740000.0,0
+2024,Ligue 1,RC Lens,winter,out,Przemyslaw Frankowski,239743,29,Poland,Right-Back,RB,8000000.0,Galatasaray,Türkiye,1000000.0,1
+2024,Ligue 1,RC Lens,winter,out,Ismaëlo Ganiou,1020191,19,Burkina Faso,Centre-Back,CB,,Calcio Padova,Italy,,0
+2024,Ligue 1,RC Lens,winter,out,Sidi Bane,1000828,21,Senegal,Centre-Back,CB,300000.0,FC Annecy,France,0.0,1
+2024,Ligue 1,RC Lens,winter,out,Kevin Danso,263236,26,Austria,Centre-Back,CB,25000000.0,Tottenham Hotspur,England,0.0,1
+2024,Ligue 1,RC Lens,winter,out,Andrija Bulatovic,986291,18,Montenegro,Central Midfield,CM,400000.0,Buducnost Podgorica,Montenegro,0.0,1
+2024,Ligue 1,RC Lens,winter,out,Jimmy Cabot,206912,30,France,Right Midfield,RM,,Retired,,,0
+2024,Ligue 1,RC Strasbourg Alsace,summer,in,Sékou Mara,557612,22,France,Centre-Forward,CF,6000000.0,Southampton FC,England,12000000.0,0
+2024,Ligue 1,RC Strasbourg Alsace,summer,in,Sebastian Nanasi,579928,22,Sweden,Left Midfield,LM,8000000.0,Malmö FF,Sweden,11000000.0,0
+2024,Ligue 1,RC Strasbourg Alsace,summer,in,Mamadou Sarr,910905,18,France,Centre-Back,CB,1000000.0,Olympique Lyon,France,10000000.0,0
+2024,Ligue 1,RC Strasbourg Alsace,summer,in,Diego Moreira,655006,20,Belgium,Left Midfield,LM,3000000.0,Chelsea FC,England,8500000.0,0
+2024,Ligue 1,RC Strasbourg Alsace,summer,in,Félix Lemaréchal,659518,21,France,Attacking Midfield,AM,5000000.0,AS Monaco,France,6000000.0,0
+2024,Ligue 1,RC Strasbourg Alsace,summer,in,Guéla Doué,711980,21,Cote d'Ivoire,Right-Back,RB,7000000.0,Stade Rennais FC,France,6000000.0,0
+2024,Ligue 1,RC Strasbourg Alsace,summer,in,Óscar Perea,1015624,18,Colombia,Left Winger,LW,2000000.0,Atlético Nacional,Colombia,5200000.0,0
+2024,Ligue 1,RC Strasbourg Alsace,summer,in,Yoni Gomis,988272,18,France,Centre-Back,CB,50000.0,Le Havre AC,France,2000000.0,0
+2024,Ligue 1,RC Strasbourg Alsace,summer,in,Pape Diong,1183575,18,Senegal,Defensive Midfield,DM,,Académie Foot Darou Salam ,Senegal,1200000.0,0
+2024,Ligue 1,RC Strasbourg Alsace,summer,in,Karl-Johan Johnsson,112822,34,Sweden,Goalkeeper,GK,400000.0,FC Girondins Bordeaux,France,0.0,0
+2024,Ligue 1,RC Strasbourg Alsace,summer,in,Djordje Petrovic,465555,24,Serbia,Goalkeeper,GK,20000000.0,Chelsea FC,England,0.0,1
+2024,Ligue 1,RC Strasbourg Alsace,summer,in,Caleb Wiley,746833,19,United States,Left-Back,LB,5000000.0,Chelsea FC,England,0.0,1
+2024,Ligue 1,RC Strasbourg Alsace,winter,in,Andrew Omobamidele,621993,22,Ireland,Centre-Back,CB,11000000.0,Nottingham Forest,England,0.0,1
+2024,Ligue 1,RC Strasbourg Alsace,winter,in,Valentín Barco,849410,20,Argentina,Central Midfield,CM,6000000.0,Brighton & Hove Albion,England,0.0,1
+2024,Ligue 1,RC Strasbourg Alsace,winter,in,Samuel Amo-Ameyaw,933900,18,England,Right Winger,RW,300000.0,Southampton FC,England,0.0,1
+2024,Ligue 1,RC Strasbourg Alsace,summer,out,Lucas Perrin,352392,25,France,Centre-Back,CB,3000000.0,Hamburger SV,Germany,0.0,0
+2024,Ligue 1,RC Strasbourg Alsace,summer,out,Frédéric Guilbert,354352,29,France,Right-Back,RB,4000000.0,US Lecce,Italy,0.0,0
+2024,Ligue 1,RC Strasbourg Alsace,summer,out,Nordine Kandil,891379,22,Morocco,Left Winger,LW,1000000.0,Amiens SC,France,0.0,0
+2024,Ligue 1,RC Strasbourg Alsace,summer,out,Alexandre Pierre,838947,23,Haiti,Goalkeeper,GK,100000.0,FC Sochaux-Montbéliard,France,0.0,0
+2024,Ligue 1,RC Strasbourg Alsace,summer,out,Ibrahima Sissoko,372712,26,Mali,Defensive Midfield,DM,6000000.0,VfL Bochum,Germany,0.0,0
+2024,Ligue 1,RC Strasbourg Alsace,summer,out,Jean-Eudes Aholou,178313,30,Cote d'Ivoire,Defensive Midfield,DM,800000.0,Angers SCO,France,0.0,0
+2024,Ligue 1,RC Strasbourg Alsace,summer,out,Karol Fila,385817,26,Poland,Right-Back,RB,700000.0,FCV Dender EH,Belgium,0.0,0
+2024,Ligue 1,RC Strasbourg Alsace,summer,out,Patrick Ouotro,1099652,18,Cote d'Ivoire,Centre-Forward,CF,,FC Martigues,France,0.0,1
+2024,Ligue 1,RC Strasbourg Alsace,summer,out,Rabby Nzingoula,1068110,18,France,Defensive Midfield,DM,300000.0,Montpellier HSC,France,0.0,1
+2024,Ligue 1,RC Strasbourg Alsace,summer,out,Dany Jean,628835,21,Haiti,Left Winger,LW,350000.0,Rodez AF,France,0.0,1
+2024,Ligue 1,RC Strasbourg Alsace,summer,out,Jessy Deminguet,539232,26,France,Central Midfield,CM,1200000.0,FC Metz,France,0.0,1
+2024,Ligue 1,RC Strasbourg Alsace,summer,out,Lebo Mothiba,427161,28,South Africa,Centre-Forward,CF,1500000.0,Without Club,,,0
+2024,Ligue 1,RC Strasbourg Alsace,summer,out,Matthieu Dreyer,57134,35,France,Goalkeeper,GK,150000.0,Retired,,,0
+2024,Ligue 1,RC Strasbourg Alsace,summer,out,Kévin Gameiro,27389,37,France,Centre-Forward,CF,700000.0,Without Club,,,0
+2024,Ligue 1,RC Strasbourg Alsace,summer,out,Steven Baseya,988468,19,France,Centre-Back,CB,50000.0,FC Villefranche-Beaujolais,France,0.0,1
+2024,Ligue 1,RC Strasbourg Alsace,summer,out,Aboubacar Ali,1010855,18,Comoros,Centre-Forward,CF,150000.0,Nîmes Olympique,France,0.0,1
+2024,Ligue 1,RC Strasbourg Alsace,summer,out,Ângelo,743598,19,Brazil,Right Winger,RW,15000000.0,Chelsea FC,England,0.0,1
+2024,Ligue 1,RC Strasbourg Alsace,summer,out,Andrey Santos,743600,21,Brazil,Central Midfield,CM,25000000.0,Chelsea FC,England,0.0,1
+2024,Ligue 1,RC Strasbourg Alsace,winter,out,Robin Risser,743515,19,France,Goalkeeper,GK,500000.0,Red Star FC,France,0.0,1
+2024,Ligue 1,RC Strasbourg Alsace,winter,out,Dany Jean,628835,22,Haiti,Left Winger,LW,400000.0,SC União Torreense,Portugal,,0
+2024,Ligue 1,RC Strasbourg Alsace,winter,out,Milos Lukovic,845872,19,Serbia,Centre-Forward,CF,5000000.0,SC Heerenveen,Netherlands,0.0,1
+2024,Ligue 1,RC Strasbourg Alsace,winter,out,Aboubacar Ali,1010855,18,Comoros,Centre-Forward,CF,250000.0,SC União Torreense,Portugal,0.0,1
+2024,Ligue 1,RC Strasbourg Alsace,winter,out,Saïdou Sow,807128,22,Guinea,Centre-Back,CB,6000000.0,FC Nantes,France,0.0,1
+2024,Ligue 1,RC Strasbourg Alsace,winter,out,Junior Mwanga,1011200,21,France,Defensive Midfield,DM,6000000.0,Le Havre AC,France,0.0,1
+2024,Ligue 1,RC Strasbourg Alsace,winter,out,Jérémy Sebas,999229,21,Martinique,Left Winger,LW,800000.0,SC Bastia,France,0.0,1
+2024,Ligue 1,RC Strasbourg Alsace,winter,out,Patrick Ouotro,1099652,19,Cote d'Ivoire,Centre-Forward,CF,300000.0,RFC Seraing,Belgium,0.0,1
+2024,Ligue 1,RC Strasbourg Alsace,winter,out,Marvin Senaya,830890,24,France,Right-Back,RB,1800000.0,FC Lausanne-Sport,Switzerland,0.0,1
+2024,Ligue 1,RC Strasbourg Alsace,winter,out,Caleb Wiley,746833,20,United States,Left-Back,LB,8000000.0,Chelsea FC,England,0.0,1
+2024,Ligue 1,Stade Brestois 29,summer,in,Mama Baldé,325223,28,Guinea-Bissau,Centre-Forward,CF,4000000.0,Olympique Lyon,France,4500000.0,0
+2024,Ligue 1,Stade Brestois 29,summer,in,Kamory Doumbia,671594,21,Mali,Attacking Midfield,AM,5000000.0,Stade Reims,France,4000000.0,0
+2024,Ligue 1,Stade Brestois 29,summer,in,Ludovic Ajorque,283994,30,France,Centre-Forward,CF,3000000.0,1.FSV Mainz 05,Germany,2000000.0,1
+2024,Ligue 1,Stade Brestois 29,summer,in,Julien Le Cardinal,794349,26,France,Centre-Back,CB,1500000.0,RC Lens,France,1700000.0,0
+2024,Ligue 1,Stade Brestois 29,summer,in,Jordan Amavi,241229,30,France,Left-Back,LB,1200000.0,Olympique Marseille,France,0.0,0
+2024,Ligue 1,Stade Brestois 29,summer,in,Massadio Haïdara,170929,31,Mali,Left-Back,LB,2000000.0,RC Lens,France,0.0,0
+2024,Ligue 1,Stade Brestois 29,summer,in,Abdoulaye Ndiaye,673514,22,Senegal,Centre-Back,CB,2500000.0,ESTAC Troyes,France,0.0,1
+2024,Ligue 1,Stade Brestois 29,summer,in,Romain Faivre,555076,26,France,Attacking Midfield,AM,15000000.0,AFC Bournemouth,England,0.0,1
+2024,Ligue 1,Stade Brestois 29,summer,in,Abdallah Sima,776798,23,Senegal,Left Winger,LW,7500000.0,Brighton & Hove Albion,England,0.0,1
+2024,Ligue 1,Stade Brestois 29,summer,in,Soumaïla Coulibaly,659513,20,France,Centre-Back,CB,6000000.0,Borussia Dortmund,Germany,0.0,1
+2024,Ligue 1,Stade Brestois 29,summer,in,Ibrahim Salah,928323,23,Morocco,Left Winger,LW,4000000.0,Stade Rennais FC,France,0.0,1
+2024,Ligue 1,Stade Brestois 29,summer,in,Edimilson Fernandes,247555,28,Switzerland,Defensive Midfield,DM,3500000.0,1.FSV Mainz 05,Germany,0.0,1
+2024,Ligue 1,Stade Brestois 29,winter,in,Justin Bourgault,1030153,19,France,Left-Back,LB,150000.0,US Concarneau,France,0.0,0
+2024,Ligue 1,Stade Brestois 29,winter,in,Hamidou Makalou,1200289,18,Mali,Defensive Midfield,DM,,Guidars FC,Mali,,0
+2024,Ligue 1,Stade Brestois 29,summer,out,Jérémy Le Douaron,737781,26,France,Centre-Forward,CF,5000000.0,Palermo FC,Italy,4000000.0,0
+2024,Ligue 1,Stade Brestois 29,summer,out,Achraf Dari,566823,25,Morocco,Centre-Back,CB,2000000.0,Al Ahly FC,Egypt,1800000.0,0
+2024,Ligue 1,Stade Brestois 29,summer,out,Taïryk Arconte,855056,20,Guadeloupe,Centre-Forward,CF,700000.0,Pau FC,France,600000.0,0
+2024,Ligue 1,Stade Brestois 29,summer,out,Josué Escartin,862972,21,France,Centre-Back,CB,150000.0,Red Star FC,France,0.0,0
+2024,Ligue 1,Stade Brestois 29,summer,out,Steve Mounié,238639,29,Benin,Centre-Forward,CF,6000000.0,FC Augsburg,Germany,0.0,0
+2024,Ligue 1,Stade Brestois 29,summer,out,Adrien Lebeau,395674,24,France,Attacking Midfield,AM,300000.0,FC Hansa Rostock,Germany,0.0,0
+2024,Ligue 1,Stade Brestois 29,summer,out,Lilian Brassier,485960,24,France,Centre-Back,CB,12000000.0,Olympique Marseille,France,0.0,1
+2024,Ligue 1,Stade Brestois 29,summer,out,Karamoko Dembélé,466602,21,England,Attacking Midfield,AM,900000.0,Queens Park Rangers,England,0.0,1
+2024,Ligue 1,Stade Brestois 29,summer,out,Yan Marillat,454149,29,France,Goalkeeper,GK,150000.0,Without Club,,,0
+2024,Ligue 1,Stade Brestois 29,summer,out,Hianga'a Mbock,684062,24,France,Central Midfield,CM,700000.0,Red Star FC,France,0.0,1
+2024,Ligue 1,Stade Brestois 29,summer,out,Jordan Amavi,241229,30,France,Left-Back,LB,1200000.0,Olympique Marseille,France,0.0,1
+2024,Ligue 1,Stade Brestois 29,summer,out,Billal Brahimi,543051,24,Algeria,Right Winger,RW,3000000.0,OGC Nice,France,0.0,1
+2024,Ligue 1,Stade Brestois 29,summer,out,Julien Le Cardinal,794349,26,France,Centre-Back,CB,1500000.0,RC Lens,France,0.0,1
+2024,Ligue 1,Stade Brestois 29,summer,out,Kamory Doumbia,671594,21,Mali,Attacking Midfield,AM,5000000.0,Stade Reims,France,0.0,1
+2024,Ligue 1,Stade Brestois 29,summer,out,Antonin Cartillier,774772,20,France,Left-Back,LB,200000.0,AS Monaco U21,Monaco,0.0,1
+2024,Ligue 1,Stade Brestois 29,summer,out,Martín Satriano,640109,23,Uruguay,Centre-Forward,CF,7000000.0,Inter Milan,Italy,0.0,1
+2024,Ligue 1,Stade Brestois 29,winter,out,Axel Camblan,924800,21,France,Left Winger,LW,400000.0,Valenciennes FC,France,0.0,1
+2024,Ligue 1,Stade Brestois 29,winter,out,Lilian Brassier,485960,25,France,Centre-Back,CB,10000000.0,Stade Rennais FC,France,0.0,1
+2024,Ligue 1,Stade Reims,summer,in,Cédric Kipré,364827,27,Cote d'Ivoire,Centre-Back,CB,2500000.0,West Bromwich Albion,England,0.0,0
+2024,Ligue 1,Stade Reims,summer,in,Gabriel Moscardo,1086636,18,Brazil,Defensive Midfield,DM,15000000.0,Paris Saint-Germain,France,0.0,1
+2024,Ligue 1,Stade Reims,summer,in,Aurélio Buta,258039,27,Portugal,Right-Back,RB,5000000.0,Eintracht Frankfurt,Germany,0.0,1
+2024,Ligue 1,Stade Reims,winter,in,Mory Gbane,717585,24,Cote d'Ivoire,Defensive Midfield,DM,2500000.0,Gil Vicente FC,Portugal,5000000.0,0
+2024,Ligue 1,Stade Reims,winter,in,Jordan,355369,28,United States,Centre-Forward,CF,3000000.0,1.FC Union Berlin,Germany,4500000.0,0
+2024,Ligue 1,Stade Reims,winter,in,Malcolm Jeng,1126894,19,Sweden,Centre-Back,CB,1500000.0,IK Sirius,Sweden,2500000.0,0
+2024,Ligue 1,Stade Reims,winter,in,John Patrick,841121,21,Ireland,Central Midfield,CM,200000.0,Getafe CF B,Spain,1200000.0,0
+2024,Ligue 1,Stade Reims,winter,in,Hiroki Sekine,1137808,22,Japan,Right-Back,RB,800000.0,Kashiwa Reysol,Japan,650000.0,0
+2024,Ligue 1,Stade Reims,summer,out,Amir Richardson,893675,22,Morocco,Central Midfield,CM,6000000.0,ACF Fiorentina,Italy,9000000.0,0
+2024,Ligue 1,Stade Reims,summer,out,Kamory Doumbia,671594,21,Mali,Attacking Midfield,AM,5000000.0,Stade Brestois 29,France,4000000.0,0
+2024,Ligue 1,Stade Reims,summer,out,Ibrahim Diakité,919173,20,Guinea,Right-Back,RB,800000.0,Cercle Brugge ,Belgium,700000.0,0
+2024,Ligue 1,Stade Reims,summer,out,Martin Adeline,814976,20,France,Central Midfield,CM,1000000.0,ESTAC Troyes,France,600000.0,0
+2024,Ligue 1,Stade Reims,summer,out,Check Keita,820146,21,Mali,Centre-Back,CB,1500000.0,Royal Charleroi SC,Belgium,500000.0,0
+2024,Ligue 1,Stade Reims,summer,out,Thérence Koudou,910176,19,France,Right-Back,RB,800000.0,Pau FC,France,200000.0,0
+2024,Ligue 1,Stade Reims,summer,out,Yunis Abdelhamid,199704,36,Morocco,Centre-Back,CB,600000.0,AS Saint-Étienne,France,0.0,0
+2024,Ligue 1,Stade Reims,summer,out,Thomas Foket,215114,29,Belgium,Right-Back,RB,6000000.0,RSC Anderlecht,Belgium,0.0,0
+2024,Ligue 1,Stade Reims,summer,out,Fallou Fall,1038821,20,Senegal,Centre-Back,CB,100000.0,Fredrikstad FK,Norway,0.0,1
+2024,Ligue 1,Stade Reims,summer,out,Adama Bojang,1111912,20,The Gambia,Centre-Forward,CF,500000.0,Grasshopper Club Zurich,Switzerland,0.0,1
+2024,Ligue 1,Stade Reims,summer,out,Arthur Tchaptchet,955355,18,France,Centre-Back,CB,50000.0,US Concarneau,France,0.0,1
+2024,Ligue 1,Stade Reims,summer,out,Benjamin Stambouli,127160,33,France,Defensive Midfield,DM,700000.0,Without Club,,,0
+2024,Ligue 1,Stade Reims,summer,out,Ewen Jaouen,923757,18,France,Goalkeeper,GK,400000.0,USL Dunkerque,France,0.0,1
+2024,Ligue 1,Stade Reims,winter,out,Emmanuel Agbadou,683895,27,Cote d'Ivoire,Centre-Back,CB,10000000.0,Wolverhampton Wanderers,England,20000000.0,0
+2024,Ligue 1,Stade Reims,winter,out,Marshall Munetsi,414908,28,Zimbabwe,Central Midfield,CM,10000000.0,Wolverhampton Wanderers,England,18000000.0,0
+2024,Ligue 1,Stade Reims,winter,out,Amine Salama,980576,24,France,Centre-Forward,CF,1800000.0,Torino FC,Italy,200000.0,1
+2024,Ligue 1,Stade Reims,winter,out,Maxime Busi,570817,25,Belgium,Right-Back,RB,1200000.0,NAC Breda,Netherlands,0.0,1
+2024,Ligue 1,Stade Reims,winter,out,Thibault De Smet,340177,26,Belgium,Left-Back,LB,2500000.0,Paris FC,France,0.0,1
+2024,Ligue 1,Stade Rennais FC,summer,in,Albert Grønbæk,503866,23,Denmark,Attacking Midfield,AM,12000000.0,FK Bodø/Glimt,Norway,15000000.0,0
+2024,Ligue 1,Stade Rennais FC,summer,in,Mikayil Faye,666974,20,Senegal,Centre-Back,CB,10000000.0,FC Barcelona,Spain,10300000.0,0
+2024,Ligue 1,Stade Rennais FC,summer,in,Glen Kamara,242632,28,Finland,Central Midfield,CM,6000000.0,Leeds United,England,10000000.0,0
+2024,Ligue 1,Stade Rennais FC,summer,in,Andrés Gómez,957461,21,Colombia,Right Winger,RW,5000000.0,Real Salt Lake City,United States,10000000.0,0
+2024,Ligue 1,Stade Rennais FC,summer,in,Henrik Meister,914934,20,Denmark,Centre-Forward,CF,600000.0,Sarpsborg 08 FF,Norway,9000000.0,0
+2024,Ligue 1,Stade Rennais FC,summer,in,Jota,329812,25,Portugal,Left Winger,LW,9000000.0,Al-Ittihad Club,Saudi Arabia,8000000.0,0
+2024,Ligue 1,Stade Rennais FC,summer,in,Leo Østigård,367284,24,Norway,Centre-Back,CB,8000000.0,SSC Napoli,Italy,7000000.0,0
+2024,Ligue 1,Stade Rennais FC,summer,in,Jordan James,667517,20,Wales,Central Midfield,CM,4500000.0,Birmingham City,England,5000000.0,0
+2024,Ligue 1,Stade Rennais FC,summer,in,Hans Hateboer,275303,30,Netherlands,Right-Back,RB,3500000.0,Atalanta BC,Italy,2700000.0,0
+2024,Ligue 1,Stade Rennais FC,summer,in,Mohamed Jaouab,844299,22,Morocco,Centre-Back,CB,600000.0,Amiens SC,France,1000000.0,0
+2024,Ligue 1,Stade Rennais FC,summer,in,Abdelhamid Ait Boudlal,1134251,18,Morocco,Centre-Back,CB,,Mohammed VI Football Academy,Morocco,,0
+2024,Ligue 1,Stade Rennais FC,summer,in,Naouirou Ahamada,538971,22,France,Central Midfield,CM,8000000.0,Crystal Palace,England,0.0,1
+2024,Ligue 1,Stade Rennais FC,winter,in,Seko Fofana,182893,29,Cote d'Ivoire,Central Midfield,CM,12000000.0,Al-Nassr FC,Saudi Arabia,20000000.0,0
+2024,Ligue 1,Stade Rennais FC,winter,in,Brice Samba,191056,30,France,Goalkeeper,GK,15000000.0,RC Lens,France,14000000.0,0
+2024,Ligue 1,Stade Rennais FC,winter,in,Anthony Rouault,690799,23,France,Centre-Back,CB,10000000.0,VfB Stuttgart,Germany,13000000.0,0
+2024,Ligue 1,Stade Rennais FC,winter,in,Kyogo Furuhashi,489463,30,Japan,Centre-Forward,CF,14000000.0,Celtic FC,Scotland,12000000.0,0
+2024,Ligue 1,Stade Rennais FC,winter,in,Mousa Tamari,551505,27,Jordan,Right Winger,RW,6000000.0,Montpellier HSC,France,8000000.0,0
+2024,Ligue 1,Stade Rennais FC,winter,in,Kazeem Olaigbe,565406,22,Belgium,Left Winger,LW,1800000.0,Cercle Brugge ,Belgium,5250000.0,0
+2024,Ligue 1,Stade Rennais FC,winter,in,Ismaël Koné,921655,22,Canada,Central Midfield,CM,12000000.0,Olympique Marseille,France,1000000.0,1
+2024,Ligue 1,Stade Rennais FC,winter,in,Ayanda Sishuba,977877,20,Belgium,Attacking Midfield,AM,2000000.0,Hellas Verona,Italy,500000.0,0
+2024,Ligue 1,Stade Rennais FC,winter,in,Lilian Brassier,485960,25,France,Centre-Back,CB,10000000.0,Stade Brestois 29,France,0.0,1
+2024,Ligue 1,Stade Rennais FC,summer,out,Désiré Doué,914562,19,France,Right Winger,RW,30000000.0,Paris Saint-Germain,France,50000000.0,0
+2024,Ligue 1,Stade Rennais FC,summer,out,Enzo Le Fée,633992,24,France,Central Midfield,CM,18000000.0,AS Roma,Italy,23000000.0,0
+2024,Ligue 1,Stade Rennais FC,summer,out,Martin Terrier,442891,27,France,Left Winger,LW,20000000.0,Bayer 04 Leverkusen,Germany,20000000.0,0
+2024,Ligue 1,Stade Rennais FC,summer,out,Jeanuël Belocian,919515,19,France,Centre-Back,CB,10000000.0,Bayer 04 Leverkusen,Germany,15000000.0,0
+2024,Ligue 1,Stade Rennais FC,summer,out,Benjamin Bourigeaud,266359,30,France,Central Midfield,CM,18000000.0,Al-Duhail SC,Qatar,10000000.0,0
+2024,Ligue 1,Stade Rennais FC,summer,out,Matthis Abline,659543,21,France,Centre-Forward,CF,6000000.0,FC Nantes,France,10000000.0,0
+2024,Ligue 1,Stade Rennais FC,summer,out,Guéla Doué,711980,21,Cote d'Ivoire,Right-Back,RB,7000000.0,RC Strasbourg Alsace,France,6000000.0,0
+2024,Ligue 1,Stade Rennais FC,summer,out,Fabian Rieder,507341,22,Switzerland,Attacking Midfield,AM,8000000.0,VfB Stuttgart,Germany,800000.0,1
+2024,Ligue 1,Stade Rennais FC,summer,out,Warmed Omari,711996,24,Comoros,Centre-Back,CB,8000000.0,Olympique Lyon,France,500000.0,1
+2024,Ligue 1,Stade Rennais FC,summer,out,Mathis Lambourde,979766,18,France,Centre-Forward,CF,500000.0,Hellas Verona,Italy,0.0,0
+2024,Ligue 1,Stade Rennais FC,summer,out,Alfred Gomis,163568,30,Senegal,Goalkeeper,GK,1000000.0,Palermo FC,Italy,0.0,0
+2024,Ligue 1,Stade Rennais FC,summer,out,Arthur Theate,368891,24,Belgium,Centre-Back,CB,20000000.0,Eintracht Frankfurt,Germany,0.0,1
+2024,Ligue 1,Stade Rennais FC,summer,out,Bertuğ Yıldırım,672803,22,Türkiye,Centre-Forward,CF,3500000.0,Getafe CF,Spain,0.0,1
+2024,Ligue 1,Stade Rennais FC,summer,out,Rayan Bamba,979760,20,France,Right-Back,RB,,US Concarneau,France,0.0,1
+2024,Ligue 1,Stade Rennais FC,summer,out,Ibrahim Salah,928323,23,Morocco,Left Winger,LW,4000000.0,Stade Brestois 29,France,0.0,1
+2024,Ligue 1,Stade Rennais FC,summer,out,Mohamed Jaouab,844299,22,Morocco,Centre-Back,CB,600000.0,Amiens SC,France,0.0,1
+2024,Ligue 1,Stade Rennais FC,summer,out,Alan Do Marcolino,783635,22,Gabon,Centre-Forward,CF,200000.0,US Orléans,France,0.0,1
+2024,Ligue 1,Stade Rennais FC,winter,out,Amine Gouiri,418659,24,Algeria,Centre-Forward,CF,20000000.0,Olympique Marseille,France,19000000.0,0
+2024,Ligue 1,Stade Rennais FC,winter,out,Arthur Theate,368891,24,Belgium,Centre-Back,CB,20000000.0,Eintracht Frankfurt,Germany,13000000.0,0
+2024,Ligue 1,Stade Rennais FC,winter,out,Jota,329812,25,Portugal,Left Winger,LW,8000000.0,Celtic FC,Scotland,10000000.0,0
+2024,Ligue 1,Stade Rennais FC,winter,out,Glen Kamara,242632,29,Finland,Central Midfield,CM,6000000.0,Al-Shabab FC,Saudi Arabia,0.0,1
+2024,Ligue 1,Stade Rennais FC,winter,out,Baptiste Santamaria,285323,29,France,Defensive Midfield,DM,7000000.0,OGC Nice,France,0.0,1
+2024,Ligue 1,Stade Rennais FC,winter,out,Leo Østigård,367284,25,Norway,Centre-Back,CB,7000000.0,TSG 1899 Hoffenheim,Germany,0.0,1
+2024,Ligue 1,Stade Rennais FC,winter,out,Albert Grønbæk,503866,23,Denmark,Attacking Midfield,AM,15000000.0,Southampton FC,England,0.0,1
+2024,Ligue 1,Stade Rennais FC,winter,out,Abdelhamid Ait Boudlal,1134251,18,Morocco,Centre-Back,CB,,Amiens SC,France,0.0,1
+2024,Ligue 1,Stade Rennais FC,winter,out,Henrik Meister,914934,21,Denmark,Centre-Forward,CF,3000000.0,Pisa Sporting Club,Italy,0.0,1

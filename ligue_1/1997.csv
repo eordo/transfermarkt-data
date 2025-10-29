@@ -1,0 +1,378 @@
+season,league,club,window,movement,player_name,player_id,age,nationality,position,pos,market_value,dealing_club,dealing_country,fee,is_loan
+1997,Ligue 1,AJ Auxerre,summer,in,Teemu Tainio,4741,17,Finland,Defensive Midfield,DM,,FC Haka,Finland,760000.0,0
+1997,Ligue 1,AJ Auxerre,summer,in,Cyril Jeunechamp,5592,21,France,Defensive Midfield,DM,,Nîmes Olympique,France,0.0,0
+1997,Ligue 1,AJ Auxerre,summer,in,Lilian Compan,17420,20,France,Centre-Forward,CF,,AS Cannes,France,0.0,0
+1997,Ligue 1,AJ Auxerre,summer,in,Stéphane Guivarc'h,102753,26,France,Centre-Forward,CF,,Stade Rennais FC,France,,0
+1997,Ligue 1,AJ Auxerre,summer,in,Kwami Hodouto,173692,22,Togo,Right-Back,RB,,AS Cannes,France,,0
+1997,Ligue 1,AJ Auxerre,summer,in,Tarik Sektioui,4579,20,Morocco,Right Winger,RW,,MAS Fès,Morocco,,0
+1997,Ligue 1,AJ Auxerre,summer,out,Moussa Saïb,109496,28,Algeria,Left Midfield,LM,,Valencia CF,Spain,4300000.0,0
+1997,Ligue 1,AJ Auxerre,summer,out,Taribo West,1403,23,Nigeria,Centre-Back,CB,,Inter Milan,Italy,3000000.0,0
+1997,Ligue 1,AJ Auxerre,summer,out,Jean-Louis Valois,12608,23,France,Right Winger,RW,,FC Gueugnon,France,0.0,0
+1997,Ligue 1,AJ Auxerre,summer,out,Philippe Violeau,5355,26,France,Defensive Midfield,DM,,Olympique Lyon,France,0.0,0
+1997,Ligue 1,AJ Auxerre,summer,out,Jacques-Désiré Périatambée,6256,21,Mauritius,Defensive Midfield,DM,,Association Troyes Aube Champagne,France,0.0,1
+1997,Ligue 1,AJ Auxerre,summer,out,Ronan Le Crom,5444,23,France,Goalkeeper,GK,,Association sportive d'origine arménienne de Valence,France,0.0,1
+1997,Ligue 1,AJ Auxerre,summer,out,Alexandre Dujeux,23920,21,France,Centre-Back,CB,,AS Red Star 93,France,0.0,1
+1997,Ligue 1,AJ Auxerre,summer,out,Lilian Laslandes,1450,25,France,Centre-Forward,CF,,FC Girondins Bordeaux,France,,0
+1997,Ligue 1,AJ Auxerre,summer,out,Abdelhafid Tasfaout,155601,28,Algeria,Attacking Midfield,AM,,EA Guingamp,France,0.0,1
+1997,Ligue 1,AJ Auxerre,winter,out,Ned Zelic,573,26,Australia,Centre-Back,CB,,TSV 1860 Munich,Germany,400000.0,0
+1997,Ligue 1,AS Cannes,summer,in,Grégory Wimbée,5634,25,France,Goalkeeper,GK,,AS Nancy-Lorraine,France,0.0,0
+1997,Ligue 1,AS Cannes,summer,in,Lee-Roy Echteld,114366,28,Netherlands,Attacking Midfield,AM,,SC Heerenveen,Netherlands,,0
+1997,Ligue 1,AS Cannes,summer,in,Gilles Hampartzoumian,173644,28,France,Right-Back,RB,,LOSC Lille,France,,0
+1997,Ligue 1,AS Cannes,summer,in,José Bray,173634,32,France,Right-Back,RB,,Shanghai Shenhua,China,,0
+1997,Ligue 1,AS Cannes,summer,in,Brian Jensen,172122,29,Denmark,Left-Back,LB,,Stade Rennais FC,France,,0
+1997,Ligue 1,AS Cannes,summer,in,Stéphane Floiras,160033,16,France,Midfielder,Midfielder,,Unknown,,,0
+1997,Ligue 1,AS Cannes,summer,in,Marco Grassi,101904,29,Switzerland,Centre-Forward,CF,,FC Sion,Switzerland,,0
+1997,Ligue 1,AS Cannes,summer,in,Walter Kogler,4959,29,Austria,Centre-Back,CB,,SV Austria Salzburg,Austria,,0
+1997,Ligue 1,AS Cannes,summer,in,Brahim Hemdani,5324,19,Algeria,Defensive Midfield,DM,,Racing Club de France 92,France,,0
+1997,Ligue 1,AS Cannes,summer,in,Gerald Vanenburg,6668,33,Netherlands,Right Winger,RW,,FC Utrecht,Netherlands,,0
+1997,Ligue 1,AS Cannes,winter,in,Didier Frenay,134090,31,Belgium,Central Midfield,CM,,KSC Eendracht Aalst,Belgium,,0
+1997,Ligue 1,AS Cannes,winter,in,David Mazzoncini,171821,26,France,Defensive Midfield,DM,,Le Havre AC,France,,0
+1997,Ligue 1,AS Cannes,winter,in,Kamel Kaci-Saïd,173647,30,Algeria,Centre-Forward,CF,,USM Blida,Algeria,,0
+1997,Ligue 1,AS Cannes,summer,out,Samassi Abou,107822,24,France,Centre-Forward,CF,,West Ham United,England,375000.0,0
+1997,Ligue 1,AS Cannes,summer,out,David Jemmali,5370,22,Tunisia,Right-Back,RB,,FC Girondins Bordeaux,France,0.0,0
+1997,Ligue 1,AS Cannes,summer,out,Romain Ferrier,5447,21,France,Left-Back,LB,,FC Girondins Bordeaux,France,0.0,0
+1997,Ligue 1,AS Cannes,summer,out,Lilian Compan,17420,20,France,Centre-Forward,CF,,AJ Auxerre,France,0.0,0
+1997,Ligue 1,AS Cannes,summer,out,Sacha Opinel,69775,20,France,Left-Back,LB,,LOSC Lille,France,,0
+1997,Ligue 1,AS Cannes,summer,out,Sasa Person,175967,32,Croatia,Centre-Back,CB,,HNK Rijeka,Croatia,,0
+1997,Ligue 1,AS Cannes,summer,out,Jean-Jacques Etamé,173638,30,Cameroon,Midfielder,Midfielder,,SC Bastia,France,,0
+1997,Ligue 1,AS Cannes,summer,out,Sébastien Renaud,173712,21,France,Goalkeeper,GK,,FC Martigues,France,,0
+1997,Ligue 1,AS Cannes,summer,out,Kwami Hodouto,173692,22,Togo,Right-Back,RB,,AJ Auxerre,France,,0
+1997,Ligue 1,AS Cannes,summer,out,François Lemasson,160055,33,France,Goalkeeper,GK,,Olympique Marseille,France,,0
+1997,Ligue 1,AS Cannes,summer,out,Cédric Daury,160027,27,France,Central Midfield,CM,,Stade Lavallois,France,,0
+1997,Ligue 1,AS Cannes,summer,out,Pascal Bédrossian,29279,22,France,Left Midfield,LM,,Stade Rennais FC,France,,0
+1997,Ligue 1,AS Cannes,summer,out,Samir Beloufa,13266,17,Algeria,Centre-Back,CB,,AC Milan,Italy,,0
+1997,Ligue 1,AS Cannes,winter,out,Yannick Fischer,5613,23,France,Centre-Back,CB,,Olympique Marseille,France,,0
+1997,Ligue 1,AS Cannes,winter,out,Victor Konwlo,173650,22,Liberia,Striker,Striker,,AZ Alkmaar,Netherlands,,0
+1997,Ligue 1,AS Cannes,winter,out,Lee-Roy Echteld,114366,29,Netherlands,Attacking Midfield,AM,,AZ Alkmaar,Netherlands,,0
+1997,Ligue 1,AS Monaco,summer,in,Robert Spehar,15634,27,Croatia,Centre-Forward,CF,,Club Brugge KV,Belgium,4960000.0,0
+1997,Ligue 1,AS Monaco,summer,in,Costinha,9826,22,Portugal,Defensive Midfield,DM,,CD Nacional,Portugal,0.0,0
+1997,Ligue 1,AS Monaco,summer,in,Fabien Lefèvre,5701,25,France,Left Midfield,LM,,Montpellier HSC,France,0.0,0
+1997,Ligue 1,AS Monaco,summer,in,Julien Rodriguez,5292,19,France,Centre-Back,CB,,FC Istres Ville Nouvelle ,France,0.0,0
+1997,Ligue 1,AS Monaco,summer,in,Stéphane Carnot,5455,24,France,Attacking Midfield,AM,,EA Guingamp,France,,0
+1997,Ligue 1,AS Monaco,summer,in,Willy Sagnol,213,20,France,Right-Back,RB,,AS Saint-Étienne,France,,0
+1997,Ligue 1,AS Monaco,summer,in,Muhamed Konjic,10022,27,Bosnia-Herzegovina,Centre-Back,CB,,FC Zürich,Switzerland,,0
+1997,Ligue 1,AS Monaco,summer,in,Christophe Pignol,155749,27,France,Left-Back,LB,,FC Nantes,France,,0
+1997,Ligue 1,AS Monaco,summer,in,Djibril Diawara,171813,22,Senegal,Centre-Back,CB,,Le Havre AC,France,,0
+1997,Ligue 1,AS Monaco,summer,in,Japhet N'Doram,172539,31,Chad,Centre-Forward,CF,,FC Nantes,France,,0
+1997,Ligue 1,AS Monaco,summer,in,Ali Lukunku,6881,21,DR Congo,Centre-Forward,CF,,Association sportive d'origine arménienne de Valence,France,,0
+1997,Ligue 1,AS Monaco,winter,in,Ludovic Giuly,5299,21,France,Right Winger,RW,,Olympique Lyon,France,7500000.0,0
+1997,Ligue 1,AS Monaco,summer,out,Sonny Anderson,3500,26,Brazil,Centre-Forward,CF,,FC Barcelona,Spain,26250000.0,0
+1997,Ligue 1,AS Monaco,summer,out,Emmanuel Petit,3166,26,France,Defensive Midfield,DM,,Arsenal FC,England,3750000.0,0
+1997,Ligue 1,AS Monaco,summer,out,Gilles Grimandi,15297,26,France,Defensive Midfield,DM,,Arsenal FC,England,3750000.0,0
+1997,Ligue 1,AS Monaco,summer,out,Manuel dos Santos,5311,23,Cape Verde,Left-Back,LB,,Montpellier HSC,France,0.0,0
+1997,Ligue 1,AS Monaco,summer,out,Enzo Scifo,15547,31,Belgium,Attacking Midfield,AM,,RSC Anderlecht,Belgium,,0
+1997,Ligue 1,AS Monaco,summer,out,Dan Petersen,5601,25,Denmark,Centre-Forward,CF,,RSC Anderlecht,Belgium,,0
+1997,Ligue 1,AS Monaco,summer,out,Marco Grassi,101904,28,Switzerland,Centre-Forward,CF,,FC Sion,Switzerland,,0
+1997,Ligue 1,AS Monaco,summer,out,Laurent Viaud,8322,27,France,Defensive Midfield,DM,,Stade Rennais FC,France,,0
+1997,Ligue 1,AS Monaco,summer,out,Dado Prso,4178,22,Croatia,Centre-Forward,CF,,AC Ajaccio,France,0.0,1
+1997,Ligue 1,EA Guingamp,summer,in,Moussa Dabo,42353,15,France,Central Midfield,CM,,Stade Rennais FC,France,0.0,0
+1997,Ligue 1,EA Guingamp,summer,in,Fabrice Fiorèse,5572,21,France,Right Winger,RW,,Olympique Lyon,France,0.0,0
+1997,Ligue 1,EA Guingamp,summer,in,David Garcion,151307,23,France,Attacking Midfield,AM,,LOSC Lille,France,,0
+1997,Ligue 1,EA Guingamp,summer,in,Lilian Nalis,5923,25,France,Central Midfield,CM,,Stade Lavallois,France,,0
+1997,Ligue 1,EA Guingamp,summer,in,Anthony Bancarel,151266,26,France,Centre-Forward,CF,,FC Girondins Bordeaux,France,,0
+1997,Ligue 1,EA Guingamp,summer,in,Rudy Perron,168031,19,France,Defender,Defender,,AS Angoulême Charente 92,France,,0
+1997,Ligue 1,EA Guingamp,summer,in,Guillaume Bouisset,156908,24,France,Left-Back,LB,,FC Martigues,France,,0
+1997,Ligue 1,EA Guingamp,summer,in,Abdelhafid Tasfaout,155601,28,Algeria,Attacking Midfield,AM,,AJ Auxerre,France,0.0,1
+1997,Ligue 1,EA Guingamp,winter,in,Jean-Christophe Marquet,156975,23,France,Left-Back,LB,,Olympique Marseille,France,,0
+1997,Ligue 1,EA Guingamp,winter,in,Marc Libbra,21321,25,France,Centre-Forward,CF,,Olympique Marseille,France,,0
+1997,Ligue 1,EA Guingamp,summer,out,Sylvain Didot,6982,21,France,Attacking Midfield,AM,,GSI Pontivy,France,0.0,0
+1997,Ligue 1,EA Guingamp,summer,out,Stéphane Boulila,138056,22,France,Central Midfield,CM,,Le Mans Union Club 72,France,0.0,0
+1997,Ligue 1,EA Guingamp,summer,out,Christopher Wreh,15712,22,Liberia,Centre-Forward,CF,,Arsenal FC,England,,0
+1997,Ligue 1,EA Guingamp,summer,out,Richard Lecomte,173699,33,France,Defender,Defender,,Amiens SC,France,,0
+1997,Ligue 1,EA Guingamp,summer,out,Éric Assadourian,167999,30,Armenia,Right Winger,RW,,CS Louhans-Cuiseaux 71,France,,0
+1997,Ligue 1,EA Guingamp,summer,out,Jean-Marc Moulin,152822,23,France,Centre-Back,CB,,FC Martigues,France,,0
+1997,Ligue 1,EA Guingamp,summer,out,Christophe Horlaville,159994,28,France,Centre-Forward,CF,,Le Havre AC,France,,0
+1997,Ligue 1,EA Guingamp,summer,out,Stéphane Carnot,5455,24,France,Attacking Midfield,AM,,AS Monaco,France,,0
+1997,Ligue 1,EA Guingamp,summer,out,Philippe Celdran,28310,23,France,Left Midfield,LM,,Association sportive d'origine arménienne de Valence,France,0.0,1
+1997,Ligue 1,EA Guingamp,winter,out,Ryszard Czerwiec,29723,29,Poland,Midfielder,Midfielder,,Wisla Kraków,Poland,,0
+1997,Ligue 1,FC Girondins Bordeaux,summer,in,Sylvain Wiltord,3188,23,France,Second Striker,SS,,Deportivo de La Coruña,Spain,5400000.0,0
+1997,Ligue 1,FC Girondins Bordeaux,summer,in,Ricardinho,13833,21,Brazil,Attacking Midfield,AM,,Paraná Clube,Brazil,0.0,0
+1997,Ligue 1,FC Girondins Bordeaux,summer,in,Niša Saveljić,5396,27,Montenegro,Centre-Back,CB,,FK Partizan Belgrade,Serbia,0.0,0
+1997,Ligue 1,FC Girondins Bordeaux,summer,in,Romain Ferrier,5447,21,France,Left-Back,LB,,AS Cannes,France,0.0,0
+1997,Ligue 1,FC Girondins Bordeaux,summer,in,David Jemmali,5370,22,Tunisia,Right-Back,RB,,AS Cannes,France,0.0,0
+1997,Ligue 1,FC Girondins Bordeaux,summer,in,Louis Gomis,156963,25,France,Left-Back,LB,,OGC Nice,France,,0
+1997,Ligue 1,FC Girondins Bordeaux,summer,in,Steeve Epesse-Titi,158975,17,France,Defender,Defender,,Unknown,,,0
+1997,Ligue 1,FC Girondins Bordeaux,summer,in,Lassina Diabaté,5499,22,Cote d'Ivoire,Defensive Midfield,DM,,Sporting Perpignan Roussillon,France,,0
+1997,Ligue 1,FC Girondins Bordeaux,summer,in,Kiki Musampa,7787,19,Netherlands,Left Winger,LW,,Ajax Amsterdam,Netherlands,,0
+1997,Ligue 1,FC Girondins Bordeaux,summer,in,Ulrich Ramé,5364,24,France,Goalkeeper,GK,,Angers SCO,France,,0
+1997,Ligue 1,FC Girondins Bordeaux,summer,in,Lilian Laslandes,1450,25,France,Centre-Forward,CF,,AJ Auxerre,France,,0
+1997,Ligue 1,FC Girondins Bordeaux,summer,in,Stanley Menzo,101048,33,Netherlands,Goalkeeper,GK,,Lierse SK (-2018),Belgium,0.0,1
+1997,Ligue 1,FC Girondins Bordeaux,winter,in,Patrick Blondeau,25883,29,France,Right-Back,RB,,Sheffield Wednesday,England,1800000.0,0
+1997,Ligue 1,FC Girondins Bordeaux,winter,in,Marc Delaroche,152751,26,France,Goalkeeper,GK,,SM Caen,France,,0
+1997,Ligue 1,FC Girondins Bordeaux,summer,out,Ibrahim Bá,5815,23,France,Right Midfield,RM,,AC Milan,Italy,12000000.0,0
+1997,Ligue 1,FC Girondins Bordeaux,summer,out,Cyril Domoraud,6149,25,Cote d'Ivoire,Centre-Back,CB,,Olympique Marseille,France,2500000.0,0
+1997,Ligue 1,FC Girondins Bordeaux,summer,out,Geoffray Toyes,19295,24,France,Right-Back,RB,,FC Metz,France,0.0,0
+1997,Ligue 1,FC Girondins Bordeaux,summer,out,Gilbert Bodart,118144,34,Belgium,Goalkeeper,GK,,Standard Liège,Belgium,0.0,0
+1997,Ligue 1,FC Girondins Bordeaux,summer,out,Claudio Biaggio,173669,29,Argentina,Centre-Forward,CF,,CA San Lorenzo de Almagro,Argentina,,0
+1997,Ligue 1,FC Girondins Bordeaux,summer,out,Miklós Lendvai,12959,22,Hungary,Defensive Midfield,DM,,FC Lugano,Switzerland,,0
+1997,Ligue 1,FC Girondins Bordeaux,summer,out,Franck Histilloles,152786,24,France,Attacking Midfield,AM,,FC Metz,France,,0
+1997,Ligue 1,FC Girondins Bordeaux,summer,out,Patrick Colleter,107065,31,France,Left-Back,LB,,Olympique Marseille,France,,0
+1997,Ligue 1,FC Girondins Bordeaux,summer,out,Anthony Bancarel,151266,26,France,Centre-Forward,CF,,EA Guingamp,France,,0
+1997,Ligue 1,FC Girondins Bordeaux,summer,out,Didier Tholot,112543,33,France,Centre-Forward,CF,,FC Sion,Switzerland,,0
+1997,Ligue 1,FC Girondins Bordeaux,summer,out,Bernard Lambourde,5580,26,France,Centre-Back,CB,,Chelsea FC,England,,0
+1997,Ligue 1,FC Girondins Bordeaux,summer,out,Stéphane Ziani,5514,25,France,Attacking Midfield,AM,,RC Lens,France,,0
+1997,Ligue 1,FC Girondins Bordeaux,summer,out,Sylvain N'Diaye,5649,21,Senegal,Defensive Midfield,DM,,FC Martigues,France,0.0,1
+1997,Ligue 1,FC Girondins Bordeaux,summer,out,Franck Fontan,173687,23,France,Goalkeeper,GK,,Career break,,,0
+1997,Ligue 1,FC Girondins Bordeaux,winter,out,Kaba Diawara,5571,22,Guinea,Centre-Forward,CF,,Stade Rennais FC,France,0.0,1
+1997,Ligue 1,FC Girondins Bordeaux,winter,out,Stanley Menzo,101048,34,Netherlands,Goalkeeper,GK,,Lierse SK (-2018),Belgium,0.0,1
+1997,Ligue 1,FC Metz,summer,in,Mihály Tóth,37341,22,Hungary,Centre-Forward,CF,,Kispest–Honvéd FC,Hungary,550000.0,0
+1997,Ligue 1,FC Metz,summer,in,Geoffray Toyes,19295,24,France,Right-Back,RB,,FC Girondins Bordeaux,France,0.0,0
+1997,Ligue 1,FC Metz,summer,in,Danny Boffin,13272,31,Belgium,Left Midfield,LM,,RSC Anderlecht,Belgium,,0
+1997,Ligue 1,FC Metz,summer,in,Vladan Lukic,171753,27,Serbia,Centre-Forward,CF,,FC Sion,Switzerland,,0
+1997,Ligue 1,FC Metz,summer,in,Stéphane Rondelaere,168038,26,France,Defensive Midfield,DM,,Association sportive d'origine arménienne de Valence,France,,0
+1997,Ligue 1,FC Metz,summer,in,Franck Histilloles,152786,24,France,Attacking Midfield,AM,,FC Girondins Bordeaux,France,,0
+1997,Ligue 1,FC Metz,summer,in,Frédéric Meyrieu,151298,29,France,Attacking Midfield,AM,,FC Sion,Switzerland,,0
+1997,Ligue 1,FC Metz,summer,out,Anthony Baffoe,39162,32,Ghana,Defensive Midfield,DM,,Golden,Hongkong,0.0,0
+1997,Ligue 1,FC Metz,summer,out,Stéphane Adam,157670,28,France,Centre-Forward,CF,,Heart of Midlothian FC,Scotland,0.0,0
+1997,Ligue 1,FC Metz,summer,out,Isaias,144560,23,Brazil,Attacking Midfield,AM,,Gaziantepspor,Türkiye,,0
+1997,Ligue 1,FC Metz,summer,out,Thierry Pauk,173709,31,France,Defender,Defender,,CSO Amnéville,France,,0
+1997,Ligue 1,FC Metz,summer,out,Didier Lang,152798,26,France,Defensive Midfield,DM,,Sporting CP,Portugal,,0
+1997,Ligue 1,FC Metz,summer,out,Frédéric Arpinon,156993,28,France,Attacking Midfield,AM,,RC Strasbourg Alsace,France,,0
+1997,Ligue 1,FC Metz,summer,out,Sébastien Hoffmann,82330,15,France,Striker,Striker,,Unknown,,,0
+1997,Ligue 1,FC Metz,summer,out,Hassan Kachloul,4066,24,Morocco,Left Midfield,LM,,AS Saint-Étienne,France,,0
+1997,Ligue 1,FC Metz,summer,out,Frédéric Laurent,31084,21,France,Attacking Midfield,AM,,US Forbach,France,,0
+1997,Ligue 1,FC Metz,summer,out,David Terrier,5735,23,France,Centre-Back,CB,,West Ham United,England,,0
+1997,Ligue 1,FC Metz,summer,out,Mariano Bombarda,8020,24,Argentina,Centre-Forward,CF,,FC Groningen,Netherlands,,0
+1997,Ligue 1,FC Metz,summer,out,Mihály Tóth,37341,22,Hungary,Centre-Forward,CF,,Germinal Ekeren,Belgium,0.0,1
+1997,Ligue 1,FC Metz,summer,out,Djima Oyawolé,45654,20,Togo,Centre-Forward,CF,,FC Lorient,France,0.0,1
+1997,Ligue 1,FC Metz,winter,out,Amara Traoré,151355,32,Senegal,Centre-Forward,CF,,LB Châteauroux,France,,0
+1997,Ligue 1,FC Nantes,summer,in,Yao Aziawonou,4870,17,Togo,Defensive Midfield,DM,,AC Merlan Lome,Togo,0.0,0
+1997,Ligue 1,FC Nantes,summer,in,Stéphane Lièvre,6975,24,France,Left-Back,LB,,SM Caen,France,0.0,0
+1997,Ligue 1,FC Nantes,summer,in,Samba N'Diaye,152825,24,Senegal,Centre-Forward,CF,,AS Saint-Étienne,France,,0
+1997,Ligue 1,FC Nantes,summer,in,Fabrice Grange,151405,25,France,Goalkeeper,GK,,Olympique Charleville-Neufmanil-Aiglemont,France,,0
+1997,Ligue 1,FC Nantes,winter,in,Gaetano Giallanza,11521,23,Switzerland,Centre-Forward,CF,,FC Basel 1893,Switzerland,,0
+1997,Ligue 1,FC Nantes,summer,out,Dominique Casagrande,148105,26,France,Goalkeeper,GK,,Sevilla FC,Spain,600000.0,0
+1997,Ligue 1,FC Nantes,summer,out,Claude Makélélé,4182,24,France,Defensive Midfield,DM,,Olympique Marseille,France,0.0,0
+1997,Ligue 1,FC Nantes,summer,out,Eddy Capron,108879,26,France,Centre-Back,CB,,Stade Rennais FC,France,,0
+1997,Ligue 1,FC Nantes,summer,out,Christophe Pignol,155749,27,France,Left-Back,LB,,AS Monaco,France,,0
+1997,Ligue 1,FC Nantes,summer,out,Japhet N'Doram,172539,31,Chad,Centre-Forward,CF,,AS Monaco,France,,0
+1997,Ligue 1,FC Nantes,summer,out,Nenad Bjekovic,139645,23,Serbia,Centre-Forward,CF,,LB Châteauroux,France,,0
+1997,Ligue 1,FC Nantes,summer,out,Mickaël Garciau,1244443,20,France,Midfielder,Midfielder,,Olympique d'Alès en Cévennes,France,,0
+1997,Ligue 1,FC Nantes,summer,out,Eric Loussouarn,12510,22,France,Goalkeeper,GK,,LB Châteauroux,France,0.0,1
+1997,Ligue 1,FC Nantes,winter,out,Gaetano Giallanza,11521,23,Switzerland,Centre-Forward,CF,,Bolton Wanderers,England,,0
+1997,Ligue 1,FC Nantes,winter,out,Adel Sellimi,420,25,Tunisia,Centre-Forward,CF,,Real Jaén CF,Spain,0.0,1
+1997,Ligue 1,FC Toulouse,summer,in,Jean-Pierre La Placa,12955,24,Switzerland,Attacking Midfield,AM,,FC Basel 1893,Switzerland,,0
+1997,Ligue 1,FC Toulouse,summer,in,Didier Santini,156979,28,France,Left-Back,LB,,SC Bastia,France,,0
+1997,Ligue 1,FC Toulouse,summer,in,Frédéric Patouillard,149339,23,France,Midfielder,Midfielder,,Olympique Lyon,France,,0
+1997,Ligue 1,FC Toulouse,summer,in,José Manuel Galdames,154589,26,Spain,Centre-Back,CB,,SD Compostela,Spain,,0
+1997,Ligue 1,FC Toulouse,summer,in,Ernest Mtawali,171923,28,Malawi,Defensive Midfield,DM,,CA Talleres,Argentina,,0
+1997,Ligue 1,FC Toulouse,summer,in,Joël Tiéhi,173628,33,Cote d'Ivoire,Centre-Forward,CF,,Saint-Denis Saint-Leu FC,France,,0
+1997,Ligue 1,FC Toulouse,winter,in,David Klein,45105,24,France,Goalkeeper,GK,,RC Strasbourg Alsace,France,0.0,0
+1997,Ligue 1,FC Toulouse,summer,out,Cédric Pardeilhan,151415,21,France,Midfielder,Midfielder,,Le Mans Union Club 72,France,0.0,0
+1997,Ligue 1,FC Toulouse,summer,out,Erwan Manac'h,5392,25,France,Sweeper,SW,,FC Sochaux-Montbéliard,France,,0
+1997,Ligue 1,FC Toulouse,summer,out,Philippe Montanier,158109,32,France,Goalkeeper,GK,,FC Gueugnon,France,,0
+1997,Ligue 1,FC Toulouse,summer,out,Éric Garcin,173775,31,France,Defensive Midfield,DM,,Motherwell FC,Scotland,,0
+1997,Ligue 1,FC Toulouse,summer,out,Stéphane Guiraud,159992,21,France,Defensive Midfield,DM,,Stade Poitevin PEPP ,France,0.0,1
+1997,Ligue 1,FC Toulouse,summer,out,Mickaël Serreau,171924,22,France,Right Midfield,RM,,FC Martigues,France,0.0,1
+1997,Ligue 1,FC Toulouse,summer,out,Pierre Reynaud,466608,29,France,Defensive Midfield,DM,,Retired,,,0
+1997,Ligue 1,FC Toulouse,summer,out,Francois Calderaro,257753,33,France,Centre-Forward,CF,,Retired,,,0
+1997,Ligue 1,LB Châteauroux,summer,in,Ludovic Roy,14669,19,France,Goalkeeper,GK,,Stade Rennais FC B,France,0.0,0
+1997,Ligue 1,LB Châteauroux,summer,in,Stéphane Dedebant,160101,26,France,Central Midfield,CM,,SM Caen,France,,0
+1997,Ligue 1,LB Châteauroux,summer,in,Antoine Préget,168486,24,France,Defensive Midfield,DM,,Nîmes Olympique,France,,0
+1997,Ligue 1,LB Châteauroux,summer,in,Philippe Avenet,173632,30,France,Defensive Midfield,DM,,AS Nancy-Lorraine,France,,0
+1997,Ligue 1,LB Châteauroux,summer,in,Nenad Bjekovic,139645,23,Serbia,Centre-Forward,CF,,FC Nantes,France,,0
+1997,Ligue 1,LB Châteauroux,summer,in,Didier Martel,4431,25,France,Centre-Forward,CF,,Association sportive d'origine arménienne de Valence,France,,0
+1997,Ligue 1,LB Châteauroux,summer,in,Damir Cakar,10299,24,Montenegro,Attacking Midfield,AM,,FK Partizan Belgrade,Serbia,,0
+1997,Ligue 1,LB Châteauroux,summer,in,Mathieu Verschuère,13757,25,France,Defensive Midfield,DM,,AS Beauvais Oise,France,,0
+1997,Ligue 1,LB Châteauroux,summer,in,Eric Loussouarn,12510,22,France,Goalkeeper,GK,,FC Nantes,France,0.0,1
+1997,Ligue 1,LB Châteauroux,winter,in,Olivier Tébily,3931,22,Cote d'Ivoire,Centre-Back,CB,,Chamois Niortais FC,France,,0
+1997,Ligue 1,LB Châteauroux,winter,in,Amara Traoré,151355,32,Senegal,Centre-Forward,CF,,FC Metz,France,,0
+1997,Ligue 1,LB Châteauroux,summer,out,Frédéric Adam,33908,23,France,Defensive Midfield,DM,,Association Troyes Aube Champagne,France,,0
+1997,Ligue 1,LB Châteauroux,summer,out,Sada N'Diaye,149335,22,Senegal,Midfielder,Midfielder,,Association Troyes Aube Champagne,France,,0
+1997,Ligue 1,LB Châteauroux,summer,out,David Le Frapper,45089,26,France,Midfielder,Midfielder,,Chamois Niortais FC,France,,0
+1997,Ligue 1,LB Châteauroux,summer,out,Pascal Gastien,480818,33,France,Defensive Midfield,DM,,Niort Saint-Liguaire,France,,0
+1997,Ligue 1,LB Châteauroux,summer,out,André Basile,484241,27,France,Striker,Striker,,Tours FC,France,,0
+1997,Ligue 1,LB Châteauroux,summer,out,Yann Lachuer,5429,24,France,Attacking Midfield,AM,,AJ Auxerre,France,0.0,1
+1997,Ligue 1,LB Châteauroux,summer,out,Ronan Le Crom,5444,22,France,Goalkeeper,GK,,AJ Auxerre,France,0.0,1
+1997,Ligue 1,LB Châteauroux,winter,out,Didier Martel,4431,26,France,Centre-Forward,CF,,Paris Saint-Germain,France,1580000.0,0
+1997,Ligue 1,LB Châteauroux,winter,out,Nenad Bjekovic,139645,23,Serbia,Centre-Forward,CF,,FK Partizan Belgrade,Serbia,,0
+1997,Ligue 1,Le Havre AC,summer,in,Mohamed Camara,4236,22,Guinea,Left-Back,LB,,AS Beauvais Oise,France,0.0,0
+1997,Ligue 1,Le Havre AC,summer,in,Marinos Ouzounidis,106661,28,Greece,Centre-Back,CB,,Panathinaikos FC,Greece,0.0,0
+1997,Ligue 1,Le Havre AC,summer,in,Stéphane Cassard,18664,24,France,Goalkeeper,GK,,FC Sochaux-Montbéliard,France,0.0,0
+1997,Ligue 1,Le Havre AC,summer,in,Christophe Horlaville,159994,28,France,Centre-Forward,CF,,EA Guingamp,France,,0
+1997,Ligue 1,Le Havre AC,summer,in,Yann Soloy,158160,27,France,Right Midfield,RM,,CS Louhans-Cuiseaux 71,France,,0
+1997,Ligue 1,Le Havre AC,summer,in,Lionel Prat,149345,26,France,Centre-Forward,CF,,FC Lorient,France,,0
+1997,Ligue 1,Le Havre AC,summer,in,Cyrille Pouget,152462,24,France,Centre-Forward,CF,,Paris Saint-Germain,France,,0
+1997,Ligue 1,Le Havre AC,summer,in,Thierry De Neef,152749,30,French Guiana,Central Midfield,CM,,OGC Nice,France,,0
+1997,Ligue 1,Le Havre AC,winter,in,Miladin Becanovic,149387,24,Montenegro,Centre-Forward,CF,,Olympique Marseille,France,,0
+1997,Ligue 1,Le Havre AC,summer,out,Christophe Revault,6805,25,France,Goalkeeper,GK,,Paris Saint-Germain,France,2000000.0,0
+1997,Ligue 1,Le Havre AC,summer,out,Frédéric Brando,23903,23,France,Central Midfield,CM,,Olympique Marseille,France,0.0,0
+1997,Ligue 1,Le Havre AC,summer,out,Teddy Bertin,5607,27,France,Centre-Back,CB,,Olympique Marseille,France,,0
+1997,Ligue 1,Le Havre AC,summer,out,Roger Boli,76172,31,France,Centre-Forward,CF,,Walsall FC,England,,0
+1997,Ligue 1,Le Havre AC,summer,out,Djibril Diawara,171813,22,Senegal,Centre-Back,CB,,AS Monaco,France,,0
+1997,Ligue 1,Le Havre AC,summer,out,Olivier De Luca,173676,24,France,Defensive Midfield,DM,,AC Ajaccio,France,,0
+1997,Ligue 1,Le Havre AC,summer,out,Tomasz Wieszczycki,103244,25,Poland,Central Midfield,CM,,LKS Lodz,Poland,,0
+1997,Ligue 1,Le Havre AC,summer,out,Momo Sylla,9494,20,Guinea,Right Winger,RW,,Olympique Noisy-le-Sec,France,0.0,1
+1997,Ligue 1,Le Havre AC,summer,out,Abder Ramdane,416,23,France,Centre-Forward,CF,,Nîmes Olympique,France,0.0,1
+1997,Ligue 1,Le Havre AC,winter,out,David Mazzoncini,171821,26,France,Defensive Midfield,DM,,AS Cannes,France,,0
+1997,Ligue 1,Montpellier HSC,summer,in,Cédric Barbosa,5698,21,France,Left Midfield,LM,,Olympique d'Alès en Cévennes,France,0.0,0
+1997,Ligue 1,Montpellier HSC,summer,in,Nenad Dzodic,5693,20,Serbia,Centre-Back,CB,,FK Zemun,Serbia,0.0,0
+1997,Ligue 1,Montpellier HSC,summer,in,Manuel dos Santos,5311,23,Cape Verde,Left-Back,LB,,AS Monaco,France,0.0,0
+1997,Ligue 1,Montpellier HSC,summer,in,Marcel Mahouvé,35260,24,Cameroon,Defensive Midfield,DM,,Putra Samarinda FC,Indonesia,0.0,0
+1997,Ligue 1,Montpellier HSC,summer,in,Sylvain Deplace,154058,25,France,Defensive Midfield,DM,,Olympique Lyon,France,,0
+1997,Ligue 1,Montpellier HSC,summer,in,Frédéric Garny,148239,22,France,Right Winger,RW,,FC Sochaux-Montbéliard,France,,0
+1997,Ligue 1,Montpellier HSC,summer,in,Gérald Martin,152813,22,France,Defensive Midfield,DM,,Olympique d'Alès en Cévennes,France,,0
+1997,Ligue 1,Montpellier HSC,summer,in,Uche Agbo,173629,22,Nigeria,Centre-Forward,CF,,FK Obilic (- 2015),Serbia,,0
+1997,Ligue 1,Montpellier HSC,summer,out,William Prunier,6979,29,France,Centre-Back,CB,,SSC Napoli,Italy,2500000.0,0
+1997,Ligue 1,Montpellier HSC,summer,out,Jean-Manuel Thétis,173718,25,France,Centre-Back,CB,,Sevilla FC,Spain,300000.0,0
+1997,Ligue 1,Montpellier HSC,summer,out,Fabien Lefèvre,5701,25,France,Left Midfield,LM,,AS Monaco,France,0.0,0
+1997,Ligue 1,Montpellier HSC,summer,out,Serge Blanc,5690,24,France,Left-Back,LB,,Olympique Marseille,France,0.0,0
+1997,Ligue 1,Montpellier HSC,summer,out,Frédéric Martin,168518,28,France,Right-Back,RB,,OGC Nice,France,,0
+1997,Ligue 1,Montpellier HSC,summer,out,Roman Kosecki,91661,31,Poland,Centre-Forward,CF,,Legia Warszawa,Poland,,0
+1997,Ligue 1,Montpellier HSC,summer,out,Vincent Petit,160000,23,France,Centre-Forward,CF,,SM Caen,France,0.0,1
+1997,Ligue 1,Montpellier HSC,summer,out,Michel Der Zakarian,173678,34,Armenia,Centre-Back,CB,,Retired,,,0
+1997,Ligue 1,Olympique Lyon,summer,in,Philippe Violeau,5355,26,France,Defensive Midfield,DM,,AJ Auxerre,France,0.0,0
+1997,Ligue 1,Olympique Lyon,summer,in,Sébastien Socié,106216,20,France,Goalkeeper,GK,,Unknown,,,0
+1997,Ligue 1,Olympique Lyon,summer,in,Jean-Claude Nadon,173653,32,France,Goalkeeper,GK,,RC Lens,France,,0
+1997,Ligue 1,Olympique Lyon,summer,in,Stéphane Roche,168249,26,France,Central Midfield,CM,,SM Caen,France,,0
+1997,Ligue 1,Olympique Lyon,summer,in,Daniel Bravo,106846,34,France,Central Midfield,CM,,AC Parma,Italy,,0
+1997,Ligue 1,Olympique Lyon,summer,in,Patrice Carteron,17418,26,France,Centre-Back,CB,,Stade Rennais FC,France,,0
+1997,Ligue 1,Olympique Lyon,summer,in,Christophe Delmotte,5350,28,France,Left-Back,LB,,RC Lens,France,,0
+1997,Ligue 1,Olympique Lyon,winter,in,Reynald Pedros,5594,26,France,Left Midfield,LM,,AC Parma,Italy,0.0,1
+1997,Ligue 1,Olympique Lyon,summer,out,Florian Maurice,5600,23,France,Centre-Forward,CF,,Paris Saint-Germain,France,7000000.0,0
+1997,Ligue 1,Olympique Lyon,summer,out,Fabrice Fiorèse,5572,21,France,Right Winger,RW,,EA Guingamp,France,0.0,0
+1997,Ligue 1,Olympique Lyon,summer,out,Sylvain Deplace,154058,25,France,Defensive Midfield,DM,,Montpellier HSC,France,,0
+1997,Ligue 1,Olympique Lyon,summer,out,Yoan Loche,187463,18,France,Striker,Striker,,FC Sochaux-Montbéliard,France,,0
+1997,Ligue 1,Olympique Lyon,summer,out,Claude-Arnaud Rivenet,12984,24,France,Right Midfield,RM,,Association Troyes Aube Champagne,France,,0
+1997,Ligue 1,Olympique Lyon,summer,out,Christophe Breton,173671,31,France,Goalkeeper,GK,,FC Villefranche-Beaujolais,France,,0
+1997,Ligue 1,Olympique Lyon,summer,out,Marcelo Djian,173695,30,Brazil,Centre-Back,CB,,Cruzeiro Esporte Clube,Brazil,,0
+1997,Ligue 1,Olympique Lyon,summer,out,Franck Gava,158092,27,France,Left Midfield,LM,,Paris Saint-Germain,France,,0
+1997,Ligue 1,Olympique Lyon,summer,out,Christophe Deguerville,151342,27,France,Left-Back,LB,,SC Bastia,France,,0
+1997,Ligue 1,Olympique Lyon,summer,out,Frédéric Patouillard,149339,23,France,Midfielder,Midfielder,,FC Toulouse,France,,0
+1997,Ligue 1,Olympique Lyon,summer,out,Laurent Casanova,157169,25,France,Defensive Midfield,DM,,SC Bastia,France,,0
+1997,Ligue 1,Olympique Lyon,summer,out,Jean-Luc Sassus,173715,34,France,Right-Back,RB,,Without Club,,,0
+1997,Ligue 1,Olympique Lyon,winter,out,Ludovic Giuly,5299,21,France,Right Winger,RW,,AS Monaco,France,7500000.0,0
+1997,Ligue 1,Olympique Marseille,summer,in,Fabrizio Ravanelli,4226,28,Italy,Centre-Forward,CF,,Middlesbrough FC,England,7400000.0,0
+1997,Ligue 1,Olympique Marseille,summer,in,Laurent Blanc,3113,31,France,Centre-Back,CB,,FC Barcelona,Spain,2500000.0,0
+1997,Ligue 1,Olympique Marseille,summer,in,Cyril Domoraud,6149,25,Cote d'Ivoire,Centre-Back,CB,,FC Girondins Bordeaux,France,2500000.0,0
+1997,Ligue 1,Olympique Marseille,summer,in,Arthur Moses,106854,24,Ghana,Centre-Forward,CF,,Fortuna Düsseldorf,Germany,460000.0,1
+1997,Ligue 1,Olympique Marseille,summer,in,Serge Blanc,5690,24,France,Left-Back,LB,,Montpellier HSC,France,0.0,0
+1997,Ligue 1,Olympique Marseille,summer,in,Frédéric Brando,23903,23,France,Central Midfield,CM,,Le Havre AC,France,0.0,0
+1997,Ligue 1,Olympique Marseille,summer,in,Claude Makélélé,4182,24,France,Defensive Midfield,DM,,FC Nantes,France,0.0,0
+1997,Ligue 1,Olympique Marseille,summer,in,William Gallas,3156,19,France,Centre-Back,CB,,SM Caen,France,0.0,0
+1997,Ligue 1,Olympique Marseille,summer,in,Teddy Bertin,5607,27,France,Centre-Back,CB,,Le Havre AC,France,,0
+1997,Ligue 1,Olympique Marseille,summer,in,François Lemasson,160055,33,France,Goalkeeper,GK,,AS Cannes,France,,0
+1997,Ligue 1,Olympique Marseille,summer,in,Miladin Becanovic,149387,24,Montenegro,Centre-Forward,CF,,LOSC Lille,France,,0
+1997,Ligue 1,Olympique Marseille,summer,in,Patrick Colleter,107065,31,France,Left-Back,LB,,FC Girondins Bordeaux,France,,0
+1997,Ligue 1,Olympique Marseille,winter,in,Christophe Dugarry,3237,25,France,Centre-Forward,CF,,FC Barcelona,Spain,5500000.0,0
+1997,Ligue 1,Olympique Marseille,winter,in,Yannick Fischer,5613,23,France,Centre-Back,CB,,AS Cannes,France,,0
+1997,Ligue 1,Olympique Marseille,summer,out,Ivan Franceschini,6066,20,Italy,Centre-Back,CB,,US Salernitana,Italy,1000000.0,0
+1997,Ligue 1,Olympique Marseille,summer,out,Chris Makin,13248,24,England,Left-Back,LB,,Sunderland AFC,England,750000.0,0
+1997,Ligue 1,Olympique Marseille,summer,out,Victor Agali,228,18,Nigeria,Centre-Forward,CF,,Sporting Club de Toulon 83,France,0.0,0
+1997,Ligue 1,Olympique Marseille,summer,out,Christophe Galtier,173640,31,France,Centre-Back,CB,,Calcio Monza,Italy,0.0,0
+1997,Ligue 1,Olympique Marseille,summer,out,Jérôme Alonzo,5548,24,France,Goalkeeper,GK,,AS Saint-Étienne,France,0.0,0
+1997,Ligue 1,Olympique Marseille,summer,out,Andrew Tembo,22517,25,Zambia,Central Midfield,CM,,Odense Boldklub,Denmark,0.0,0
+1997,Ligue 1,Olympique Marseille,summer,out,Bobo Baldé,9488,21,Guinea,Centre-Back,CB,,FC Mulhouse Sud-Alsace,France,0.0,1
+1997,Ligue 1,Olympique Marseille,summer,out,Martial Robin,3927,19,France,Left-Back,LB,,FC Martigues,France,0.0,1
+1997,Ligue 1,Olympique Marseille,summer,out,Yordan Lechkov,83995,30,Bulgaria,Attacking Midfield,AM,,Besiktas JK,Türkiye,,0
+1997,Ligue 1,Olympique Marseille,summer,out,Olivier Deso,173679,21,France,Defender,Defender,,Association Troyes Aube Champagne,France,,0
+1997,Ligue 1,Olympique Marseille,summer,out,Mehdi Ben Slimane,395,23,Tunisia,Right Winger,RW,,SC Freiburg,Germany,,0
+1997,Ligue 1,Olympique Marseille,summer,out,Jean-Philippe Durand,101113,36,France,Central Midfield,CM,,Retired,,,0
+1997,Ligue 1,Olympique Marseille,summer,out,Bernard Ferrer,173686,33,France,Attacking Midfield,AM,,Retired,,,0
+1997,Ligue 1,Olympique Marseille,winter,out,Jean-Christophe Marquet,156975,23,France,Left-Back,LB,,EA Guingamp,France,,0
+1997,Ligue 1,Olympique Marseille,winter,out,Miladin Becanovic,149387,24,Montenegro,Centre-Forward,CF,,Le Havre AC,France,,0
+1997,Ligue 1,Olympique Marseille,winter,out,Marc Libbra,21321,25,France,Centre-Forward,CF,,EA Guingamp,France,,0
+1997,Ligue 1,Olympique Marseille,winter,out,Alberto Malusci,15538,25,Italy,Sweeper,SW,,Foggia Calcio,Italy,,0
+1997,Ligue 1,Paris Saint-Germain,summer,in,Florian Maurice,5600,23,France,Centre-Forward,CF,,Olympique Lyon,France,7000000.0,0
+1997,Ligue 1,Paris Saint-Germain,summer,in,Christophe Revault,6805,25,France,Goalkeeper,GK,,Le Havre AC,France,2000000.0,0
+1997,Ligue 1,Paris Saint-Germain,summer,in,Marco Simone,3524,28,Italy,Second Striker,SS,,AC Milan,Italy,1000000.0,0
+1997,Ligue 1,Paris Saint-Germain,summer,in,Marko Pantelic,19719,18,Serbia,Centre-Forward,CF,,Iraklis Thessaloniki,Greece,0.0,0
+1997,Ligue 1,Paris Saint-Germain,summer,in,Éric Rabésandratana,8527,24,Madagascar,Defensive Midfield,DM,,AS Nancy-Lorraine,France,,0
+1997,Ligue 1,Paris Saint-Germain,summer,in,Édouard Cissé,3800,19,France,Defensive Midfield,DM,,Pau FC,France,,0
+1997,Ligue 1,Paris Saint-Germain,summer,in,Franck Gava,158092,27,France,Left Midfield,LM,,Olympique Lyon,France,,0
+1997,Ligue 1,Paris Saint-Germain,summer,in,Edmílson,26717,25,Brazil,Right Winger,RW,,FC Porto,Portugal,,0
+1997,Ligue 1,Paris Saint-Germain,winter,in,James Debbah,173636,27,Liberia,Centre-Forward,CF,,RSC Anderlecht,Belgium,1880000.0,0
+1997,Ligue 1,Paris Saint-Germain,winter,in,Didier Martel,4431,26,France,Centre-Forward,CF,,LB Châteauroux,France,1580000.0,0
+1997,Ligue 1,Paris Saint-Germain,summer,out,Leonardo,102586,27,Brazil,Attacking Midfield,AM,,AC Milan,Italy,8500000.0,0
+1997,Ligue 1,Paris Saint-Germain,summer,out,Benoît Cauet,15882,28,France,Central Midfield,CM,,Inter Milan,Italy,4000000.0,0
+1997,Ligue 1,Paris Saint-Germain,summer,out,Julio Dely Valdés,7793,30,Panama,Centre-Forward,CF,,Real Oviedo,Spain,2100000.0,0
+1997,Ligue 1,Paris Saint-Germain,summer,out,Kenedy,14123,23,Portugal,Left-Back,LB,,FC Porto,Portugal,0.0,0
+1997,Ligue 1,Paris Saint-Germain,summer,out,Raí,102583,32,Brazil,Attacking Midfield,AM,,São Paulo Futebol Clube,Brazil,0.0,0
+1997,Ligue 1,Paris Saint-Germain,summer,out,Grégory Paisley,6246,20,France,Left-Back,LB,,Servette FC,Switzerland,0.0,1
+1997,Ligue 1,Paris Saint-Germain,summer,out,Cyrille Pouget,152462,24,France,Centre-Forward,CF,,Le Havre AC,France,,0
+1997,Ligue 1,Paris Saint-Germain,summer,out,Franck Mantaux,467161,32,France,Goalkeeper,GK,,Retired,,,0
+1997,Ligue 1,Paris Saint-Germain,winter,out,Bernard Lama,3736,34,France,Goalkeeper,GK,,West Ham United,England,,0
+1997,Ligue 1,Paris Saint-Germain,winter,out,Edmílson,26717,26,Brazil,Right Winger,RW,,Sporting CP,Portugal,,0
+1997,Ligue 1,Paris Saint-Germain,winter,out,Bernard Allou,140391,22,France,Right Winger,RW,,Nagoya Grampus,Japan,,0
+1997,Ligue 1,RC Lens,summer,in,José-Karl Pierre-Fanfan,3440,21,Martinique,Centre-Back,CB,,USL Dunkerque,France,0.0,0
+1997,Ligue 1,RC Lens,summer,in,Stéphane Ziani,5514,25,France,Attacking Midfield,AM,,FC Girondins Bordeaux,France,,0
+1997,Ligue 1,RC Lens,summer,in,Anto Drobnjak,152759,28,Montenegro,Centre-Forward,CF,,SC Bastia,France,,0
+1997,Ligue 1,RC Lens,summer,out,Anthony Colinet,103032,21,France,Central Midfield,CM,,US Fécamp,France,0.0,0
+1997,Ligue 1,RC Lens,summer,out,Cédric Vernier,98405,22,France,Centre-Back,CB,,Paris FC,France,0.0,1
+1997,Ligue 1,RC Lens,summer,out,Christophe Delmotte,5350,28,France,Left-Back,LB,,Olympique Lyon,France,,0
+1997,Ligue 1,RC Lens,summer,out,Sébastien Dallet,33915,23,France,Right Winger,RW,,FC Sochaux-Montbéliard,France,,0
+1997,Ligue 1,RC Lens,summer,out,David Régis,81292,28,United States,Centre-Back,CB,,Karlsruher SC,Germany,,0
+1997,Ligue 1,RC Lens,summer,out,Aleksandr Rychkov,143536,22,Russia,Attacking Midfield,AM,,Lokomotiv Moskau,Russia,,0
+1997,Ligue 1,RC Lens,summer,out,Jean-Marc Adjovi-Boco,173662,33,Benin,Centre-Back,CB,,Hibernian FC,Scotland,,0
+1997,Ligue 1,RC Lens,summer,out,Jean-Claude Nadon,173653,32,France,Goalkeeper,GK,,Olympique Lyon,France,,0
+1997,Ligue 1,RC Lens,summer,out,Philippe Vercruysse,117503,35,France,Attacking Midfield,AM,,Al-Hilal SFC,Saudi Arabia,,0
+1997,Ligue 1,RC Strasbourg Alsace,summer,in,Denni Conteh,22852,21,Denmark,Centre-Forward,CF,,Hvidovre IF,Denmark,0.0,0
+1997,Ligue 1,RC Strasbourg Alsace,summer,in,Christophe Kinet,17889,22,Belgium,Left Midfield,LM,,Germinal Ekeren,Belgium,,0
+1997,Ligue 1,RC Strasbourg Alsace,summer,in,Luciano Zavagno,13502,19,Argentina,Left-Back,LB,,CA Unión (Santa Fe),Argentina,,0
+1997,Ligue 1,RC Strasbourg Alsace,summer,in,Frédéric Arpinon,156993,28,France,Attacking Midfield,AM,,FC Metz,France,,0
+1997,Ligue 1,RC Strasbourg Alsace,summer,in,Raphaël Miceli,144787,21,Belgium,Left Midfield,LM,,Standard Liège,Belgium,,0
+1997,Ligue 1,RC Strasbourg Alsace,summer,in,Christophe Avril,173633,28,France,Midfielder,Midfielder,,Olympique Charleville-Neufmanil-Aiglemont,France,,0
+1997,Ligue 1,RC Strasbourg Alsace,summer,in,Kim Ekroos,172287,16,Finland,Goalkeeper,GK,,Turun Palloseura,Finland,,0
+1997,Ligue 1,RC Strasbourg Alsace,winter,in,Corentin Martins,5623,28,France,Attacking Midfield,AM,,Deportivo de La Coruña,Spain,4500000.0,0
+1997,Ligue 1,RC Strasbourg Alsace,winter,in,Jung-won Seo,29470,28,"Korea, South",Right Winger,RW,,Anyang LG Cheetahs,"Korea, South",950000.0,0
+1997,Ligue 1,RC Strasbourg Alsace,winter,in,Morten Nielsen,23720,26,Denmark,Right-Back,RB,,FC Copenhagen,Denmark,,0
+1997,Ligue 1,RC Strasbourg Alsace,summer,out,Yvon Pouliquen,313033,34,France,Defensive Midfield,DM,,Retired,,,0
+1997,Ligue 1,RC Strasbourg Alsace,summer,out,Francis Llacer,5556,25,France,Left-Back,LB,,Paris Saint-Germain,France,0.0,1
+1997,Ligue 1,RC Strasbourg Alsace,summer,out,Vincent Petit,160000,23,France,Centre-Forward,CF,,Montpellier HSC,France,0.0,1
+1997,Ligue 1,RC Strasbourg Alsace,winter,out,Valérien Ismaël,3574,22,France,Centre-Back,CB,,Crystal Palace,England,3800000.0,0
+1997,Ligue 1,RC Strasbourg Alsace,winter,out,David Klein,45105,24,France,Goalkeeper,GK,,FC Toulouse,France,0.0,0
+1997,Ligue 1,RC Strasbourg Alsace,winter,out,David Zitelli,79572,29,France,Centre-Forward,CF,,Karlsruher SC,Germany,,0
+1997,Ligue 1,SC Bastia,summer,in,Franck Jurietti,5288,22,France,Left-Back,LB,,FC Gueugnon,France,0.0,0
+1997,Ligue 1,SC Bastia,summer,in,Pierre-Yves André,3116,23,France,Centre-Forward,CF,,Stade Rennais FC,France,,0
+1997,Ligue 1,SC Bastia,summer,in,Eric Durand,5660,31,France,Goalkeeper,GK,,FC Martigues,France,,0
+1997,Ligue 1,SC Bastia,summer,in,Jean-Jacques Etamé,173638,30,Cameroon,Midfielder,Midfielder,,AS Cannes,France,,0
+1997,Ligue 1,SC Bastia,summer,in,Pascual Garrido,173641,22,Argentina,Defender,Defender,,CA Boca Juniors,Argentina,,0
+1997,Ligue 1,SC Bastia,summer,in,Christophe Deguerville,151342,27,France,Left-Back,LB,,Olympique Lyon,France,,0
+1997,Ligue 1,SC Bastia,summer,in,Laurent Casanova,157169,25,France,Defensive Midfield,DM,,Olympique Lyon,France,,0
+1997,Ligue 1,SC Bastia,summer,in,Nenad Jestrovic,9591,21,Serbia,Centre-Forward,CF,,OFK Beograd,Serbia,,0
+1997,Ligue 1,SC Bastia,summer,in,Ali Boumnijel,5577,31,Tunisia,Goalkeeper,GK,,FC Gueugnon,France,,0
+1997,Ligue 1,SC Bastia,summer,in,Frédéric Mendy,5582,23,France,Centre-Back,CB,,FC Martigues,France,,0
+1997,Ligue 1,SC Bastia,winter,in,Pierre Laurent,5629,27,France,Centre-Forward,CF,,Leeds United,England,0.0,0
+1997,Ligue 1,SC Bastia,summer,out,Laurent Moracchini,5732,29,France,Defensive Midfield,DM,,AS Nancy-Lorraine,France,0.0,0
+1997,Ligue 1,SC Bastia,summer,out,Hervé Sekli,5715,20,France,Goalkeeper,GK,,Gazélec Football Club Olympique Ajaccio,France,0.0,0
+1997,Ligue 1,SC Bastia,summer,out,Patrick Valéry,107238,27,France,Right-Back,RB,,Blackburn Rovers,England,0.0,0
+1997,Ligue 1,SC Bastia,summer,out,Laurent Weber,22400,24,France,Goalkeeper,GK,,Association Troyes Aube Champagne,France,,0
+1997,Ligue 1,SC Bastia,summer,out,Jean-Jacques Eydelie,173685,31,France,Defensive Midfield,DM,,FC Sion,Switzerland,,0
+1997,Ligue 1,SC Bastia,summer,out,Jamie Fullarton,173688,22,Scotland,Defensive Midfield,DM,,Crystal Palace,England,,0
+1997,Ligue 1,SC Bastia,summer,out,Franck Vandecasteele,168520,29,France,Centre-Forward,CF,,OGC Nice,France,,0
+1997,Ligue 1,SC Bastia,summer,out,Pierre Maroselli,167964,30,France,Defender,Defender,,Stade Rennais FC,France,,0
+1997,Ligue 1,SC Bastia,summer,out,Didier Santini,156979,28,France,Left-Back,LB,,FC Toulouse,France,,0
+1997,Ligue 1,SC Bastia,summer,out,Anto Drobnjak,152759,28,Montenegro,Centre-Forward,CF,,RC Lens,France,,0
+1997,Ligue 1,SC Bastia,summer,out,Pascal Camadini,5620,25,France,Central Midfield,CM,,FC Sion,Switzerland,,0
+1997,Ligue 1,SC Bastia,winter,out,Jean-Jacques Etamé,173638,31,Cameroon,Midfielder,Midfielder,,Unknown,,,0
+1997,Ligue 1,Stade Rennais FC,summer,in,Abdelkrim Jinani,173619,23,Morocco,Striker,Striker,,Raja Club Athletic,Morocco,1200000.0,0
+1997,Ligue 1,Stade Rennais FC,summer,in,Patrick Weiser,679,25,Germany,Left-Back,LB,,1.FC Köln,Germany,0.0,0
+1997,Ligue 1,Stade Rennais FC,summer,in,Stéphane Grégoire,5728,29,France,Defensive Midfield,DM,,Thouars Foot 79,France,0.0,0
+1997,Ligue 1,Stade Rennais FC,summer,in,Bernd Hobsch,759,29,Germany,Centre-Forward,CF,,SV Werder Bremen,Germany,0.0,0
+1997,Ligue 1,Stade Rennais FC,summer,in,Eddy Capron,108879,26,France,Centre-Back,CB,,FC Nantes,France,,0
+1997,Ligue 1,Stade Rennais FC,summer,in,Marco Di Costanzo,173616,23,Italy,Striker,Striker,,US Triestina,Italy,,0
+1997,Ligue 1,Stade Rennais FC,summer,in,Philippe Brinquin,13276,26,France,Centre-Back,CB,,FC Lorient,France,,0
+1997,Ligue 1,Stade Rennais FC,summer,in,Philippe Lévenard,173621,32,France,Left-Back,LB,,LOSC Lille,France,,0
+1997,Ligue 1,Stade Rennais FC,summer,in,Pierre Maroselli,167964,30,France,Defender,Defender,,SC Bastia,France,,0
+1997,Ligue 1,Stade Rennais FC,summer,in,Laurent Viaud,8322,27,France,Defensive Midfield,DM,,AS Monaco,France,,0
+1997,Ligue 1,Stade Rennais FC,summer,in,Youssef Rossi,12640,24,Morocco,Centre-Back,CB,,Raja Club Athletic,Morocco,,0
+1997,Ligue 1,Stade Rennais FC,summer,in,Pascal Bédrossian,29279,22,France,Left Midfield,LM,,AS Cannes,France,,0
+1997,Ligue 1,Stade Rennais FC,winter,in,Kaba Diawara,5571,22,Guinea,Centre-Forward,CF,,FC Girondins Bordeaux,France,0.0,1
+1997,Ligue 1,Stade Rennais FC,summer,out,Kjetil Rekdal,350,28,Norway,Defensive Midfield,DM,,Hertha BSC,Germany,900000.0,0
+1997,Ligue 1,Stade Rennais FC,summer,out,Gary Smith,12711,26,Scotland,Centre-Back,CB,,Aberdeen FC,Scotland,225000.0,0
+1997,Ligue 1,Stade Rennais FC,summer,out,Fritz Emeran,18213,21,Rwanda,Right-Back,RB,,Football Club de Saint-Leu,France,0.0,0
+1997,Ligue 1,Stade Rennais FC,summer,out,Ulrich Le Pen,13244,23,France,Left Midfield,LM,,Stade Lavallois,France,0.0,0
+1997,Ligue 1,Stade Rennais FC,summer,out,Moussa Dabo,42353,15,France,Central Midfield,CM,,EA Guingamp,France,0.0,0
+1997,Ligue 1,Stade Rennais FC,summer,out,François Denis,173677,33,France,Centre-Back,CB,,Le Mans Union Club 72,France,,0
+1997,Ligue 1,Stade Rennais FC,summer,out,Brian Jensen,172122,29,Denmark,Left-Back,LB,,AS Cannes,France,,0
+1997,Ligue 1,Stade Rennais FC,summer,out,Stéphane Mahé,170436,28,France,Left-Back,LB,,Celtic FC,Scotland,,0
+1997,Ligue 1,Stade Rennais FC,summer,out,Stéphane Guivarc'h,102753,26,France,Centre-Forward,CF,,AJ Auxerre,France,,0
+1997,Ligue 1,Stade Rennais FC,summer,out,Samuel Michel,28342,26,France,Centre-Forward,CF,,AS Red Star 93,France,,0
+1997,Ligue 1,Stade Rennais FC,summer,out,Patrice Carteron,17418,26,France,Centre-Back,CB,,Olympique Lyon,France,,0
+1997,Ligue 1,Stade Rennais FC,summer,out,Pierre-Yves André,3116,23,France,Centre-Forward,CF,,SC Bastia,France,,0
+1997,Ligue 1,Stade Rennais FC,summer,out,David Merdy,168505,23,France,Striker,Striker,,Association sportive d'origine arménienne de Valence,France,0.0,1
+1997,Ligue 1,Stade Rennais FC,summer,out,Sylvain Wiltord,3188,23,France,Second Striker,SS,,Deportivo de La Coruña,Spain,0.0,1
+1997,Ligue 1,Stade Rennais FC,winter,out,Bernd Hobsch,759,29,Germany,Centre-Forward,CF,,TSV 1860 Munich,Germany,100000.0,0
+1997,Ligue 1,Stade Rennais FC,winter,out,Abdelkrim Jinani,173619,24,Morocco,Striker,Striker,,Stade Lavallois,France,,0
+1997,Ligue 1,Stade Rennais FC,winter,out,Philippe Lévenard,173621,32,France,Left-Back,LB,,Borgo FC (- 2017),France,,0
+1997,Ligue 1,Stade Rennais FC,winter,out,Marco Di Costanzo,173616,24,Italy,Striker,Striker,,Hapoel Beer Sheva,Israel,,0
