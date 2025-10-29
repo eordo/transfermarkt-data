@@ -1,0 +1,487 @@
+season,league,club,window,movement,player_name,player_id,age,nationality,position,pos,market_value,dealing_club,dealing_country,fee,is_loan
+1996,Serie A,AC Fiorentina,summer,in,Luis Oliveira,22087,27,Belgium,Centre-Forward,CF,,Cagliari Calcio,Italy,7000000.0,0
+1996,Serie A,AC Fiorentina,summer,in,Giulio Falcone,5989,22,Italy,Centre-Back,CB,,Torino Calcio,Italy,1050000.0,0
+1996,Serie A,AC Fiorentina,summer,in,Aldo Firicano,160168,29,Italy,Centre-Back,CB,,Cagliari Calcio,Italy,,0
+1996,Serie A,AC Fiorentina,summer,in,Vittorio Pusceddu,223354,32,Italy,Left-Back,LB,,Cagliari Calcio,Italy,,0
+1996,Serie A,AC Fiorentina,summer,in,Danilo Stefani,254238,17,Italy,Central Midfield,CM,,AC Nuova Maceratese,Italy,,0
+1996,Serie A,AC Fiorentina,winter,in,Andrey Kanchelskis,3742,28,Russia,Right Midfield,RM,,Everton FC,England,8000000.0,0
+1996,Serie A,AC Fiorentina,summer,out,Lorenzo Amoruso,4288,25,Italy,Centre-Back,CB,,Rangers FC,Scotland,6000000.0,0
+1996,Serie A,AC Fiorentina,summer,out,Alberto Malusci,15538,24,Italy,Sweeper,SW,,Olympique Marseille,France,1200000.0,0
+1996,Serie A,AC Fiorentina,summer,out,Andrea Sottil,5886,22,Italy,Centre-Back,CB,,Atalanta BC,Italy,,0
+1996,Serie A,AC Fiorentina,summer,out,Cristiano Zanetti,5783,19,Italy,Defensive Midfield,DM,,AC Venezia 1907,Italy,,0
+1996,Serie A,AC Fiorentina,summer,out,Alessandro Orlando,177685,26,Italy,Left-Back,LB,,Udinese Calcio,Italy,,0
+1996,Serie A,AC Fiorentina,summer,out,Giacomo Banchelli,223333,23,Italy,Centre-Forward,CF,,Cagliari Calcio,Italy,,0
+1996,Serie A,AC Fiorentina,summer,out,Federico Bettoni,227272,24,Italy,Midfielder,Midfielder,,Foggia Calcio,Italy,,0
+1996,Serie A,AC Fiorentina,summer,out,Francesco Flachi,6781,21,Italy,Centre-Forward,CF,,AS Bari,Italy,0.0,1
+1996,Serie A,AC Fiorentina,summer,out,Luca Vigiani,21237,19,Italy,Right Midfield,RM,,US Fiorenzuola 1922,Italy,0.0,1
+1996,Serie A,AC Fiorentina,summer,out,Christian Amoroso,5995,19,Italy,Central Midfield,CM,,FC Empoli,Italy,0.0,1
+1996,Serie A,AC Fiorentina,winter,out,Daniele Beltrammi,227271,22,Italy,Second Striker,SS,,AC Pistoiese,Italy,,0
+1996,Serie A,AC Milan,summer,in,Christophe Dugarry,3237,24,France,Centre-Forward,CF,,FC Girondins Bordeaux,France,6500000.0,0
+1996,Serie A,AC Milan,summer,in,Michael Reiziger,4375,23,Netherlands,Right-Back,RB,,Ajax Amsterdam,Netherlands,0.0,0
+1996,Serie A,AC Milan,summer,in,Edgar Davids,5758,23,Netherlands,Central Midfield,CM,,Ajax Amsterdam,Netherlands,0.0,0
+1996,Serie A,AC Milan,summer,in,Pietro Vierchowod,116750,37,Italy,Centre-Back,CB,,AC Perugia,Italy,,0
+1996,Serie A,AC Milan,summer,in,Angelo Pagotto,23282,22,Italy,Goalkeeper,GK,,UC Sampdoria,Italy,,0
+1996,Serie A,AC Milan,winter,in,Jesper Blomqvist,3095,22,Sweden,Left Midfield,LM,,IFK Göteborg,Sweden,3000000.0,0
+1996,Serie A,AC Milan,winter,in,Miodrag Vukotić,819,23,Montenegro,Centre-Back,CB,,FK Vojvodina Novi Sad,Serbia,,0
+1996,Serie A,AC Milan,summer,out,Patrick Vieira,3183,20,France,Defensive Midfield,DM,,Arsenal FC,England,5350000.0,0
+1996,Serie A,AC Milan,summer,out,Christian Panucci,5940,23,Italy,Right-Back,RB,,Real Madrid,Spain,4130000.0,0
+1996,Serie A,AC Milan,summer,out,Massimo Oddo,5837,20,Italy,Right-Back,RB,,Calcio Monza,Italy,100000.0,1
+1996,Serie A,AC Milan,summer,out,Roberto Donadoni,102474,32,Italy,Right Midfield,RM,,New York/New Jersey MetroStars,United States,0.0,0
+1996,Serie A,AC Milan,summer,out,Futre,27705,30,Portugal,Left Winger,LW,,West Ham United,England,0.0,0
+1996,Serie A,AC Milan,summer,out,Tomas Locatelli,5996,20,Italy,Attacking Midfield,AM,,Udinese Calcio,Italy,,0
+1996,Serie A,AC Milan,summer,out,Giuseppe Cardone,16811,22,Italy,Right-Back,RB,,Bologna FC 1909,Italy,,0
+1996,Serie A,AC Milan,summer,out,Filippo Galli,106898,33,Italy,Centre-Back,CB,,AC Reggiana,Italy,,0
+1996,Serie A,AC Milan,summer,out,Gianluigi Lentini,171685,27,Italy,Right Winger,RW,,Atalanta BC,Italy,,0
+1996,Serie A,AC Milan,summer,out,Gianluca Sordo,142983,26,Italy,Right Midfield,RM,,AC Reggiana,Italy,,0
+1996,Serie A,AC Milan,summer,out,Mario Ielpo,177673,33,Italy,Goalkeeper,GK,,Genoa 1893,Italy,,0
+1996,Serie A,AC Milan,summer,out,Mario Stancanelli,339460,19,Italy,Left-Back,LB,,AC Prato,Italy,,0
+1996,Serie A,AC Milan,summer,out,Roberto Colombo,43411,20,Italy,Goalkeeper,GK,,US Fiorenzuola 1922,Italy,0.0,1
+1996,Serie A,AC Milan,summer,out,Francesco Cozza,6071,22,Italy,Attacking Midfield,AM,,Cagliari Calcio,Italy,0.0,1
+1996,Serie A,AC Milan,summer,out,Francesco De Francesco,226066,18,Italy,Second Striker,SS,,AC Prato,Italy,0.0,1
+1996,Serie A,AC Milan,winter,out,Luca Saudati,6029,18,Italy,Centre-Forward,CF,,FC Lugano,Switzerland,,0
+1996,Serie A,AC Milan,winter,out,Massimo Oddo,5837,20,Italy,Right-Back,RB,,AC Prato,Italy,0.0,1
+1996,Serie A,AC Parma,summer,in,Enrico Chiesa,7329,25,Italy,Centre-Forward,CF,,UC Sampdoria,Italy,12500000.0,0
+1996,Serie A,AC Parma,summer,in,Lilian Thuram,3521,24,France,Centre-Back,CB,,AS Monaco,France,5500000.0,0
+1996,Serie A,AC Parma,summer,in,Hernán Crespo,3410,21,Argentina,Centre-Forward,CF,,CA River Plate,Argentina,4130000.0,0
+1996,Serie A,AC Parma,summer,in,Pietro Strada,30660,26,Italy,Left Midfield,LM,,AC Reggiana,Italy,1800000.0,0
+1996,Serie A,AC Parma,summer,in,Amaral,17474,23,Brazil,Defensive Midfield,DM,,Sociedade Esportiva Palmeiras,Brazil,1000000.0,0
+1996,Serie A,AC Parma,summer,in,Zé Maria,6081,22,Brazil,Right-Back,RB,,CR Flamengo,Brazil,,0
+1996,Serie A,AC Parma,summer,in,Daniel Bravo,106846,33,France,Central Midfield,CM,,Paris Saint-Germain,France,,0
+1996,Serie A,AC Parma,summer,in,Gianluca Triuzzi,225437,17,Italy,Centre-Forward,CF,,Taranto SS,Italy,,0
+1996,Serie A,AC Parma,summer,in,Alberto Mantelli,288472,24,Italy,Defender,Defender,,Modena FC,Italy,,0
+1996,Serie A,AC Parma,winter,in,Mario Stanic,3164,24,Croatia,Right Winger,RW,,Club Brugge KV,Belgium,4000000.0,0
+1996,Serie A,AC Parma,winter,in,Reynald Pedros,5594,25,France,Left Midfield,LM,,Olympique Marseille,France,3300000.0,0
+1996,Serie A,AC Parma,winter,in,Tomas Brolin,101091,27,Sweden,Centre-Forward,CF,,Leeds United,England,0.0,1
+1996,Serie A,AC Parma,summer,out,Fernando Couto,5831,26,Portugal,Centre-Back,CB,,FC Barcelona,Spain,5500000.0,0
+1996,Serie A,AC Parma,summer,out,Hristo Stoichkov,7938,30,Bulgaria,Left Winger,LW,,FC Barcelona,Spain,2700000.0,0
+1996,Serie A,AC Parma,summer,out,Filippo Inzaghi,5821,22,Italy,Centre-Forward,CF,,Atalanta BC,Italy,2500000.0,0
+1996,Serie A,AC Parma,summer,out,Vasile Miriuta,179,27,Hungary,Attacking Midfield,AM,,Ferencvárosi TC,Hungary,100000.0,0
+1996,Serie A,AC Parma,summer,out,Marcello Castellini,5988,23,Italy,Centre-Back,CB,,AC Perugia,Italy,,0
+1996,Serie A,AC Parma,summer,out,Lorenzo Minotti,102481,29,Italy,Sweeper,SW,,Cagliari Calcio,Italy,,0
+1996,Serie A,AC Parma,summer,out,Gabriele Pin,120410,34,Italy,Central Midfield,CM,,Piacenza FC,Italy,,0
+1996,Serie A,AC Parma,summer,out,Alberto Di Chiara,120395,32,Italy,Left-Back,LB,,AC Perugia,Italy,,0
+1996,Serie A,AC Parma,summer,out,Precious Monye Onyeabor,255841,21,Nigeria,Defensive Midfield,DM,,AC Reggiana,Italy,,0
+1996,Serie A,AC Parma,summer,out,Massimo Susic,224597,29,Italy,Centre-Back,CB,,US Cremonese,Italy,,0
+1996,Serie A,AC Parma,summer,out,Alberto Mantelli,288472,24,Italy,Defender,Defender,,AC Pistoiese,Italy,,0
+1996,Serie A,AC Parma,summer,out,Ferdinando Piro,259146,19,Italy,Striker,Striker,,Pro Patria Gallaratese GB,Italy,,0
+1996,Serie A,AC Parma,winter,out,Gianfranco Zola,3177,30,Italy,Second Striker,SS,,Chelsea FC,England,6200000.0,0
+1996,Serie A,AC Parma,winter,out,Massimo Brambilla,20727,23,Italy,Central Midfield,CM,,Bologna FC 1909,Italy,,0
+1996,Serie A,AC Parma,winter,out,Tarcisio Catanese,227642,29,Italy,Attacking Midfield,AM,,Como Calcio,Italy,,0
+1996,Serie A,AC Parma,winter,out,Luca Bucci,6407,27,Italy,Goalkeeper,GK,,AC Perugia,Italy,0.0,1
+1996,Serie A,AC Parma,winter,out,Amaral,17474,23,Brazil,Defensive Midfield,DM,,SL Benfica,Portugal,0.0,1
+1996,Serie A,AC Perugia,summer,in,Milan Rapaic,12567,22,Croatia,Left Midfield,LM,,HNK Hajduk Split,Croatia,750000.0,0
+1996,Serie A,AC Perugia,summer,in,Fausto Pizzi,224590,28,Italy,Attacking Midfield,AM,,SSC Napoli,Italy,,0
+1996,Serie A,AC Perugia,summer,in,Gianpaolo Spagnulo,223490,31,Italy,Goalkeeper,GK,,Genoa 1893,Italy,,0
+1996,Serie A,AC Perugia,summer,in,Maurizio Baciocchi,270253,19,Italy,Striker,Striker,,Centese Calcio 1913,Italy,,0
+1996,Serie A,AC Perugia,summer,in,Martino Traversa,222786,22,Italy,Right-Back,RB,,Pescara Calcio,Italy,,0
+1996,Serie A,AC Perugia,summer,in,Salvatore Matrecano,224531,25,Italy,Centre-Back,CB,,Udinese Calcio,Italy,,0
+1996,Serie A,AC Perugia,summer,in,Aleksandar Kocic,135735,27,Serbia,Goalkeeper,GK,,FK Vojvodina Novi Sad,Serbia,,0
+1996,Serie A,AC Perugia,summer,in,Michel Kreek,9858,25,Netherlands,Left-Back,LB,,Calcio Padova,Italy,,0
+1996,Serie A,AC Perugia,summer,in,Carmine Gautieri,19440,25,Italy,Right Winger,RW,,AS Bari,Italy,,0
+1996,Serie A,AC Perugia,summer,in,Edoardo Artistico,29598,27,Italy,Centre-Forward,CF,,Ancona Calcio,Italy,,0
+1996,Serie A,AC Perugia,summer,in,Marcello Castellini,5988,23,Italy,Centre-Back,CB,,AC Parma,Italy,,0
+1996,Serie A,AC Perugia,summer,in,Alberto Di Chiara,120395,32,Italy,Left-Back,LB,,AC Parma,Italy,,0
+1996,Serie A,AC Perugia,summer,in,Pietro Vierchowod,116750,37,Italy,Centre-Back,CB,,Juventus FC,Italy,,0
+1996,Serie A,AC Perugia,summer,in,Antonio Manicone,223471,29,Italy,Defensive Midfield,DM,,Inter Milan,Italy,,0
+1996,Serie A,AC Perugia,winter,in,Petter Rudi,6641,23,Norway,Central Midfield,CM,,Molde FK,Norway,75000.0,1
+1996,Serie A,AC Perugia,winter,in,Müller,102587,30,Brazil,Second Striker,SS,,São Paulo Futebol Clube,Brazil,,0
+1996,Serie A,AC Perugia,winter,in,Bratislav Mijalkovic,46873,25,Serbia,Defender,Defender,,FK Partizan Belgrade,Serbia,,0
+1996,Serie A,AC Perugia,winter,in,Luca Bucci,6407,27,Italy,Goalkeeper,GK,,AC Parma,Italy,0.0,1
+1996,Serie A,AC Perugia,summer,out,Daniele Russo,22286,22,Italy,Attacking Midfield,AM,,AC Pistoiese,Italy,,0
+1996,Serie A,AC Perugia,summer,out,Adriano Meacci,372001,29,Germany,Striker,Striker,,Ancona Calcio,Italy,,0
+1996,Serie A,AC Perugia,summer,out,Davide Faieta,476946,20,Italy,Midfielder,Midfielder,,Calcio Catania,Italy,,0
+1996,Serie A,AC Perugia,summer,out,Paolo Fabbri,303215,29,Italy,Goalkeeper,GK,,US Fiorenzuola 1922,Italy,,0
+1996,Serie A,AC Perugia,summer,out,Pasquale Suppa,227701,28,Italy,Central Midfield,CM,,Calcio Padova,Italy,,0
+1996,Serie A,AC Perugia,summer,out,Claudio Lombardo,337937,33,Italy,Right-Back,RB,,AS Lucchese Libertas,Italy,,0
+1996,Serie A,AC Perugia,summer,out,Andrea Camplone,229093,29,Italy,Defender,Defender,,Ancona Calcio,Italy,,0
+1996,Serie A,AC Perugia,summer,out,Alberto Briaschi,256929,32,Italy,Centre-Forward,CF,,Ancona Calcio,Italy,,0
+1996,Serie A,AC Perugia,summer,out,Simone Braglia,223453,33,Italy,Goalkeeper,GK,,AS Lucchese Libertas,Italy,,0
+1996,Serie A,AC Perugia,summer,out,Rocco Pagano,228373,32,Italy,Right Midfield,RM,,Ancona Calcio,Italy,,0
+1996,Serie A,AC Perugia,summer,out,Davide Baiocco,5761,21,Italy,Defensive Midfield,DM,,Fano Calcio,Italy,,0
+1996,Serie A,AC Perugia,summer,out,Paolo Baldieri,226057,31,Italy,Left Winger,LW,,AC Savoia 1908,Italy,,0
+1996,Serie A,AC Perugia,summer,out,Pietro Vierchowod,116750,37,Italy,Centre-Back,CB,,AC Milan,Italy,,0
+1996,Serie A,AC Perugia,summer,out,Gianluca Atzori,6015,25,Italy,Centre-Back,CB,,Reggina Calcio,Italy,,0
+1996,Serie A,AC Perugia,summer,out,Massimo Beghetto,207385,27,Italy,Left-Back,LB,,Vicenza Calcio,Italy,,0
+1996,Serie A,AC Perugia,summer,out,Pasquale Rocco,223482,25,Italy,Defensive Midfield,DM,,Torino Calcio,Italy,0.0,1
+1996,Serie A,AC Perugia,summer,out,Marco Materazzi,5778,22,Italy,Centre-Back,CB,,AC Carpi,Italy,0.0,1
+1996,Serie A,AC Perugia,summer,out,Andrea Colombini,448005,22,Italy,Defender,Defender,,Retired,,,0
+1996,Serie A,AC Perugia,summer,out,Paolo Grossi,372869,27,Italy,Defender,Defender,,Fermana Calcio 1920,Italy,,0
+1996,Serie A,AC Perugia,winter,out,Edoardo Artistico,29598,27,Italy,Centre-Forward,CF,,US Salernitana,Italy,,0
+1996,Serie A,AC Perugia,winter,out,Massimiliano Allegri,163501,29,Italy,Central Midfield,CM,,Calcio Padova,Italy,,0
+1996,Serie A,AC Perugia,winter,out,Müller,102587,31,Brazil,Second Striker,SS,,Santos FC,Brazil,,0
+1996,Serie A,AC Perugia,winter,out,Aleksandar Kocic,135735,27,Serbia,Goalkeeper,GK,,Levante UD,Spain,0.0,1
+1996,Serie A,AC Reggiana,summer,in,Adolfo Valencia,84610,28,Colombia,Centre-Forward,CF,,Independiente Santa Fe,Colombia,500000.0,0
+1996,Serie A,AC Reggiana,summer,in,Dietmar Beiersdorfer,1528,32,Germany,Centre-Back,CB,,1.FC Köln,Germany,350000.0,0
+1996,Serie A,AC Reggiana,summer,in,Angelo Carbone,177667,28,Italy,Right Midfield,RM,,Piacenza FC,Italy,350000.0,0
+1996,Serie A,AC Reggiana,summer,in,Franz Carr,222286,30,England,Right Winger,RW,,Aston Villa,England,0.0,0
+1996,Serie A,AC Reggiana,summer,in,Massimo Minetti,23362,18,Italy,Second Striker,SS,,Milan Primavera,Italy,,0
+1996,Serie A,AC Reggiana,summer,in,Pietro Parente,44887,24,Italy,Attacking Midfield,AM,,AS Bari,Italy,,0
+1996,Serie A,AC Reggiana,summer,in,Damiano Longhi,227668,29,Italy,Right Midfield,RM,,Calcio Padova,Italy,,0
+1996,Serie A,AC Reggiana,summer,in,Nicoló Sciacca,226518,27,Italy,Central Midfield,CM,,Foggia Calcio,Italy,,0
+1996,Serie A,AC Reggiana,summer,in,Gianluca Cherubini,227643,22,Italy,Right-Back,RB,,AS Roma,Italy,,0
+1996,Serie A,AC Reggiana,summer,in,Gabriele Grossi,227658,24,Italy,Left-Back,LB,,AS Roma,Italy,,0
+1996,Serie A,AC Reggiana,summer,in,Precious Monye Onyeabor,255841,21,Nigeria,Defensive Midfield,DM,,AC Parma,Italy,,0
+1996,Serie A,AC Reggiana,summer,in,Pacheco,208417,29,Portugal,Left Winger,LW,,CF Os Belenenses,Portugal,,0
+1996,Serie A,AC Reggiana,summer,in,Gianluca Sordo,142983,26,Italy,Right Midfield,RM,,AC Milan,Italy,,0
+1996,Serie A,AC Reggiana,summer,in,Filippo Galli,106898,33,Italy,Centre-Back,CB,,AC Milan,Italy,,0
+1996,Serie A,AC Reggiana,summer,in,Dosu Joseph,134494,23,Nigeria,Goalkeeper,GK,,Julius Berger FC,Nigeria,,0
+1996,Serie A,AC Reggiana,summer,in,Georges Grün,101745,34,Belgium,Centre-Back,CB,,RSC Anderlecht,Belgium,,0
+1996,Serie A,AC Reggiana,summer,in,Ovidiu Sabău,104071,28,Romania,Central Midfield,CM,,Brescia Calcio,Italy,,0
+1996,Serie A,AC Reggiana,summer,in,Michael Hatz,2849,25,Austria,Centre-Back,CB,,Rapid Vienna,Austria,,0
+1996,Serie A,AC Reggiana,winter,in,Sebastiano Vecchiola,227708,26,Italy,Right Winger,RW,,Pescara Calcio,Italy,,0
+1996,Serie A,AC Reggiana,summer,out,Sandro Mazzola,21867,28,Italy,Defensive Midfield,DM,,Piacenza FC,Italy,2000000.0,0
+1996,Serie A,AC Reggiana,summer,out,Pietro Strada,30660,26,Italy,Left Midfield,LM,,AC Parma,Italy,1800000.0,0
+1996,Serie A,AC Reggiana,summer,out,Antonio Rizzolo,223018,27,Italy,Striker,Striker,,Ascoli Calcio 1898,Italy,,0
+1996,Serie A,AC Reggiana,summer,out,Sandro Tovalieri,223115,31,Italy,Centre-Forward,CF,,Cagliari Calcio,Italy,,0
+1996,Serie A,AC Reggiana,summer,out,Roberto Paci,318450,31,Italy,Centre-Forward,CF,,AS Lucchese Libertas,Italy,,0
+1996,Serie A,AC Reggiana,summer,out,Paolo Ziliani,228303,25,Italy,Sweeper,SW,,AS Cosenza Calcio,Italy,,0
+1996,Serie A,AC Reggiana,summer,out,Eugenio Sgarbossa,227700,32,Italy,Defensive Midfield,DM,,SP Ars et Labor,Italy,,0
+1996,Serie A,AC Reggiana,summer,out,Massimiliano Tangorra,104847,26,Italy,Right-Back,RB,,Foggia Calcio,Italy,,0
+1996,Serie A,AC Reggiana,summer,out,Michele Pietranera,227691,21,Italy,Second Striker,SS,,AS Cosenza Calcio,Italy,,0
+1996,Serie A,AC Reggiana,summer,out,Adriano Alex Taribello,227703,19,Italy,Striker,Striker,,US Triestina,Italy,,0
+1996,Serie A,AC Reggiana,summer,out,Marco Di Costanzo,173616,22,Italy,Striker,Striker,,US Triestina,Italy,,0
+1996,Serie A,AC Reggiana,summer,out,Jero Shakpoke,125160,16,Nigeria,Centre-Back,CB,,Vardar Skopje,North Macedonia,,0
+1996,Serie A,AC Reggiana,summer,out,Leonardo Colucci,6000,23,Italy,Central Midfield,CM,,Hellas Verona,Italy,,0
+1996,Serie A,AC Reggiana,summer,out,Prince Ikpe Ekong,16610,17,Nigeria,Defensive Midfield,DM,,Tecos de la UAG,Mexico,0.0,1
+1996,Serie A,AC Reggiana,summer,out,Fabrizio Di Mauro,224932,31,Italy,Defensive Midfield,DM,,Retired,,,0
+1996,Serie A,AC Reggiana,summer,out,Fabio Mencuccini,376006,26,Italy,Midfielder,Midfielder,,Retired,,,0
+1996,Serie A,AC Reggiana,winter,out,Angelo Carbone,177667,28,Italy,Right Midfield,RM,,Atalanta BC,Italy,,0
+1996,Serie A,AC Reggiana,winter,out,Marco Schenardi,6814,28,Italy,Right Midfield,RM,,Bologna FC 1909,Italy,,0
+1996,Serie A,AC Reggiana,winter,out,Paolo Mozzini,259683,20,Italy,Defender,Defender,,Como Calcio,Italy,,0
+1996,Serie A,AC Reggiana,winter,out,Carmelo La Spada,371333,26,Italy,Defender,Defender,,AS Gualdo Calcio,Italy,,0
+1996,Serie A,AC Reggiana,winter,out,Giovanni Orfei,6048,20,Italy,Centre-Back,CB,,Ascoli Calcio 1898,Italy,,0
+1996,Serie A,AC Reggiana,winter,out,Precious Monye Onyeabor,255841,22,Nigeria,Defensive Midfield,DM,,AS Cosenza Calcio,Italy,0.0,1
+1996,Serie A,AC Reggiana,winter,out,Precious Monye Onyeabor,255841,22,Nigeria,Defensive Midfield,DM,,Videoton Fehérvár,Hungary,0.0,1
+1996,Serie A,AS Roma,summer,in,Roberto Trotta,223151,27,Argentina,Centre-Back,CB,,CA Vélez Sarsfield,Argentina,7750000.0,0
+1996,Serie A,AS Roma,summer,in,Damiano Tommasi,5951,22,Italy,Central Midfield,CM,,Hellas Verona,Italy,3500000.0,0
+1996,Serie A,AS Roma,summer,in,Martin Dahlin,21654,28,Sweden,Centre-Forward,CF,,Borussia Mönchengladbach,Germany,2500000.0,0
+1996,Serie A,AS Roma,winter,in,Vincent Candela,5939,23,France,Left-Back,LB,,EA Guingamp,France,9600000.0,0
+1996,Serie A,AS Roma,winter,in,Omari Tetradze,25043,27,Russia,Right-Back,RB,,Spartak Vladikavkaz,Russia,0.0,0
+1996,Serie A,AS Roma,winter,in,Gianluca Berti,6010,29,Italy,Goalkeeper,GK,,Genoa 1893,Italy,0.0,0
+1996,Serie A,AS Roma,winter,in,Matteo Pivotto,17150,22,Italy,Right-Back,RB,,AC Carpi,Italy,,0
+1996,Serie A,AS Roma,summer,out,Alessio Scarchilli,16572,23,Italy,Attacking Midfield,AM,,Torino Calcio,Italy,,0
+1996,Serie A,AS Roma,summer,out,Andrea Cupi,6016,20,Italy,Centre-Back,CB,,AS Lodigiani Calcio 1972,Italy,,0
+1996,Serie A,AS Roma,summer,out,Giuseppe Giannini,118254,31,Italy,Attacking Midfield,AM,,SK Sturm Graz,Austria,,0
+1996,Serie A,AS Roma,summer,out,Gabriele Grossi,227658,24,Italy,Left-Back,LB,,AC Reggiana,Italy,,0
+1996,Serie A,AS Roma,summer,out,Gianluca Cherubini,227643,22,Italy,Right-Back,RB,,AC Reggiana,Italy,,0
+1996,Serie A,AS Roma,summer,out,Franco Florio,227746,20,Italy,Central Midfield,CM,,AS Cosenza Calcio,Italy,,0
+1996,Serie A,AS Roma,winter,out,Martin Dahlin,21654,28,Sweden,Centre-Forward,CF,,Borussia Mönchengladbach,Germany,750000.0,1
+1996,Serie A,AS Roma,winter,out,Daniele Berretta,6716,24,Italy,Defensive Midfield,DM,,Cagliari Calcio,Italy,,0
+1996,Serie A,AS Roma,winter,out,Enrico Annoni,170356,30,Italy,Right-Back,RB,,Celtic FC,Scotland,,0
+1996,Serie A,AS Roma,winter,out,Massimiliano Cappioli,160859,28,Italy,Central Midfield,CM,,Udinese Calcio,Italy,,0
+1996,Serie A,AS Roma,winter,out,Giorgio Sterchele,22214,27,Italy,Goalkeeper,GK,,Cagliari Calcio,Italy,,0
+1996,Serie A,AS Roma,winter,out,Roberto Trotta,223151,27,Argentina,Centre-Back,CB,,CA River Plate,Argentina,0.0,1
+1996,Serie A,Atalanta BC,summer,in,Federico Magallanes,16266,19,Uruguay,Centre-Forward,CF,,CA Peñarol,Uruguay,4000000.0,0
+1996,Serie A,Atalanta BC,summer,in,Filippo Inzaghi,5821,22,Italy,Centre-Forward,CF,,AC Parma,Italy,2500000.0,0
+1996,Serie A,Atalanta BC,summer,in,Joakim Persson,1561,21,Sweden,Centre-Back,CB,,Malmö FF,Sweden,0.0,0
+1996,Serie A,Atalanta BC,summer,in,Fabio Rustico,19449,20,Italy,Right-Back,RB,,AS Solbiatese,Italy,0.0,0
+1996,Serie A,Atalanta BC,summer,in,Emanuele Tresoldi,223021,22,Italy,Left-Back,LB,,AC Pistoiese,Italy,,0
+1996,Serie A,Atalanta BC,summer,in,Massimo Carrera,23348,32,Italy,Centre-Back,CB,,Juventus FC,Italy,,0
+1996,Serie A,Atalanta BC,summer,in,Gianluigi Lentini,171685,27,Italy,Right Winger,RW,,AC Milan,Italy,,0
+1996,Serie A,Atalanta BC,summer,in,Stefano Rossini,30656,25,Italy,Left-Back,LB,,Piacenza FC,Italy,,0
+1996,Serie A,Atalanta BC,summer,in,Paolo Foglio,15337,20,Italy,Right-Back,RB,,US Fiorenzuola 1922,Italy,,0
+1996,Serie A,Atalanta BC,summer,in,Davide Micillo,5965,25,Italy,Goalkeeper,GK,,AC Cesena,Italy,,0
+1996,Serie A,Atalanta BC,summer,in,Zoran Mirkovic,7076,24,Serbia,Right-Back,RB,,FK Partizan Belgrade,Serbia,,0
+1996,Serie A,Atalanta BC,summer,in,Andrea Sottil,5886,22,Italy,Centre-Back,CB,,AC Fiorentina,Italy,,0
+1996,Serie A,Atalanta BC,winter,in,Angelo Carbone,177667,28,Italy,Right Midfield,RM,,AC Reggiana,Italy,,0
+1996,Serie A,Atalanta BC,summer,out,Christian Vieri,5797,22,Italy,Centre-Forward,CF,,Juventus FC,Italy,3770000.0,0
+1996,Serie A,Atalanta BC,summer,out,Paolo Montero,5747,24,Uruguay,Centre-Back,CB,,Juventus FC,Italy,,0
+1996,Serie A,Atalanta BC,summer,out,Mauro Valentini,257397,32,Italy,Centre-Back,CB,,AS Lucchese Libertas,Italy,,0
+1996,Serie A,Atalanta BC,summer,out,Filippo Zani,223116,21,Italy,Goalkeeper,GK,,Società Calcio Leffe,Italy,,0
+1996,Serie A,Atalanta BC,summer,out,Antonio Paganin,223109,30,Italy,Right-Back,RB,,Hellas Verona,Italy,,0
+1996,Serie A,Atalanta BC,summer,out,Gianluca Luppi,222791,29,Italy,Centre-Back,CB,,US Ravenna,Italy,,0
+1996,Serie A,Atalanta BC,summer,out,Cristiano Pavone,199923,24,Italy,Left-Back,LB,,Bologna FC 1909,Italy,,0
+1996,Serie A,Atalanta BC,summer,out,Stefano Salvatori,169010,28,Italy,Defensive Midfield,DM,,Heart of Midlothian FC,Scotland,,0
+1996,Serie A,Atalanta BC,summer,out,Fabrizio Ferron,3523,30,Italy,Goalkeeper,GK,,UC Sampdoria,Italy,,0
+1996,Serie A,Atalanta BC,summer,out,William Viali,6082,21,Italy,Centre-Back,CB,,Ascoli Calcio 1898,Italy,,0
+1996,Serie A,Atalanta BC,summer,out,Marco Zanchi,5991,19,Italy,Centre-Back,CB,,Chievo Verona,Italy,0.0,1
+1996,Serie A,Atalanta BC,summer,out,Vincenzo Chianese,57793,20,Italy,Centre-Forward,CF,,Foggia Calcio,Italy,0.0,1
+1996,Serie A,Atalanta BC,summer,out,Damiano Zenoni,19451,19,Italy,Right-Back,RB,,AC Pistoiese,Italy,0.0,1
+1996,Serie A,Atalanta BC,summer,out,Marco Zanchi,5991,19,Italy,Centre-Back,CB,,AS Bari,Italy,0.0,1
+1996,Serie A,Atalanta BC,winter,out,José Herrera,223107,31,Uruguay,Right-Back,RB,,CD Cruz Azul,Mexico,,0
+1996,Serie A,Atalanta BC,winter,out,Emanuele Tresoldi,223021,22,Italy,Left-Back,LB,,Novara Calcio 1908,Italy,,0
+1996,Serie A,Bologna FC 1909,summer,in,Igor Shalimov,88150,27,Russia,Attacking Midfield,AM,,Udinese Calcio,Italy,4000000.0,0
+1996,Serie A,Bologna FC 1909,summer,in,Kennet Andersson,3429,28,Sweden,Centre-Forward,CF,,AS Bari,Italy,3360000.0,0
+1996,Serie A,Bologna FC 1909,summer,in,Giancarlo Marocchi,173739,30,Italy,Central Midfield,CM,,Juventus FC,Italy,0.0,0
+1996,Serie A,Bologna FC 1909,summer,in,Andrea Seno,199794,30,Italy,Central Midfield,CM,,Inter Milan,Italy,,0
+1996,Serie A,Bologna FC 1909,summer,in,Francesco Gnudi,454092,24,Italy,Goalkeeper,GK,,USC Baracca Lugo 1909,Italy,,0
+1996,Serie A,Bologna FC 1909,summer,in,Oscar Magoni,216814,28,Italy,Defensive Midfield,DM,,Genoa 1893,Italy,,0
+1996,Serie A,Bologna FC 1909,summer,in,Pierpaolo Bresciani,167856,25,Italy,Right Winger,RW,,Foggia Calcio,Italy,,0
+1996,Serie A,Bologna FC 1909,summer,in,Cristiano Pavone,199923,24,Italy,Left-Back,LB,,Atalanta BC,Italy,,0
+1996,Serie A,Bologna FC 1909,summer,in,Davide Fontolan,163317,30,Italy,Left Midfield,LM,,Inter Milan,Italy,,0
+1996,Serie A,Bologna FC 1909,summer,in,Giuseppe Anaclerio,43204,22,Italy,Defensive Midfield,DM,,SP Ars et Labor,Italy,,0
+1996,Serie A,Bologna FC 1909,summer,in,Alex Brunner,102530,22,Italy,Goalkeeper,GK,,Foggia Calcio,Italy,,0
+1996,Serie A,Bologna FC 1909,summer,in,Igor Kolyvanov,88141,28,Russia,Left Winger,LW,,Foggia Calcio,Italy,,0
+1996,Serie A,Bologna FC 1909,summer,in,Giuseppe Cardone,16811,22,Italy,Right-Back,RB,,AC Milan,Italy,,0
+1996,Serie A,Bologna FC 1909,winter,in,Massimo Brambilla,20727,23,Italy,Central Midfield,CM,,AC Parma,Italy,,0
+1996,Serie A,Bologna FC 1909,winter,in,Amedeo Mangone,21793,28,Italy,Centre-Back,CB,,AS Bari,Italy,,0
+1996,Serie A,Bologna FC 1909,winter,in,Marco Schenardi,6814,28,Italy,Right Midfield,RM,,AC Reggiana,Italy,,0
+1996,Serie A,Bologna FC 1909,summer,out,Claudio Gallicchio,255312,19,Italy,Striker,Striker,,AC Carpi,Italy,,0
+1996,Serie A,Bologna FC 1909,summer,out,Roberto Savi,195292,32,Italy,Central Midfield,CM,,US Fiorenzuola 1922,Italy,,0
+1996,Serie A,Bologna FC 1909,summer,out,Gian Luca Presicci,478308,31,Italy,Centre-Back,CB,,US Fiorenzuola 1922,Italy,,0
+1996,Serie A,Bologna FC 1909,summer,out,Dario Morello,214679,28,Italy,Centre-Forward,CF,,Genoa 1893,Italy,,0
+1996,Serie A,Bologna FC 1909,summer,out,Giorgio Bresciani,222747,27,Italy,Centre-Forward,CF,,US Cremonese,Italy,,0
+1996,Serie A,Bologna FC 1909,summer,out,Rosario Pergolizzi,222728,27,Italy,Left-Back,LB,,Brescia Calcio,Italy,,0
+1996,Serie A,Bologna FC 1909,summer,out,Giovanni Cornacchini,168196,30,Italy,Centre-Forward,CF,,Vicenza Calcio,Italy,,0
+1996,Serie A,Bologna FC 1909,summer,out,Fabio Marchioro,55770,28,Italy,Goalkeeper,GK,,AC Pavia,Italy,,0
+1996,Serie A,Bologna FC 1909,summer,out,Giovanni Bosi,195352,26,Italy,Defensive Midfield,DM,,AC Cesena,Italy,,0
+1996,Serie A,Bologna FC 1909,summer,out,Fabian Natale Valtolina,16907,25,Italy,Left Winger,LW,,Piacenza FC,Italy,,0
+1996,Serie A,Bologna FC 1909,summer,out,Cristiano Doni,6195,23,Italy,Attacking Midfield,AM,,Brescia Calcio,Italy,,0
+1996,Serie A,Bologna FC 1909,summer,out,Guido Delcogliano,375582,19,Italy,Midfielder,Midfielder,,Retired,,,0
+1996,Serie A,Bologna FC 1909,summer,out,Stefano Lombardi,15462,19,Italy,Centre-Back,CB,,Treviso FBC 1993,Italy,0.0,1
+1996,Serie A,Bologna FC 1909,winter,out,Davide Olivares,216816,25,Italy,Attacking Midfield,AM,,AS Bari,Italy,,0
+1996,Serie A,Cagliari Calcio,summer,in,Ramon Vega,103731,25,Switzerland,Centre-Back,CB,,Grasshopper Club Zurich,Switzerland,3500000.0,0
+1996,Serie A,Cagliari Calcio,summer,in,Gianluca Grassadonia,21833,24,Italy,Centre-Back,CB,,US Salernitana,Italy,0.0,0
+1996,Serie A,Cagliari Calcio,summer,in,Stefano Bettarini,6746,24,Italy,Left-Back,LB,,AS Lucchese Libertas,Italy,,0
+1996,Serie A,Cagliari Calcio,summer,in,Christian Lønstrup,14970,25,Denmark,Central Midfield,CM,,FC Copenhagen,Denmark,,0
+1996,Serie A,Cagliari Calcio,summer,in,Sandro Tovalieri,223115,31,Italy,Centre-Forward,CF,,AC Reggiana,Italy,,0
+1996,Serie A,Cagliari Calcio,summer,in,Giacomo Banchelli,223333,23,Italy,Centre-Forward,CF,,AC Fiorentina,Italy,,0
+1996,Serie A,Cagliari Calcio,summer,in,Gianbattista Scugugia,223359,25,Italy,Centre-Back,CB,,AC Cesena,Italy,,0
+1996,Serie A,Cagliari Calcio,summer,in,Eric Tinkler,129635,25,South Africa,Defensive Midfield,DM,,Vitória Setúbal FC,Portugal,,0
+1996,Serie A,Cagliari Calcio,summer,in,Lorenzo Minotti,102481,29,Italy,Sweeper,SW,,AC Parma,Italy,,0
+1996,Serie A,Cagliari Calcio,summer,in,Marco Pascolo,4807,30,Switzerland,Goalkeeper,GK,,Servette FC,Switzerland,,0
+1996,Serie A,Cagliari Calcio,summer,in,Francesco Cozza,6071,22,Italy,Attacking Midfield,AM,,AC Milan,Italy,0.0,1
+1996,Serie A,Cagliari Calcio,summer,in,Luis Romero,253903,28,Uruguay,Centre-Forward,CF,,CA Peñarol,Uruguay,0.0,1
+1996,Serie A,Cagliari Calcio,summer,in,Mirko Taccola,102646,25,Italy,Centre-Back,CB,,SSC Napoli,Italy,0.0,1
+1996,Serie A,Cagliari Calcio,winter,in,Daniele Berretta,6716,24,Italy,Defensive Midfield,DM,,AS Roma,Italy,,0
+1996,Serie A,Cagliari Calcio,winter,in,Giorgio Sterchele,22214,27,Italy,Goalkeeper,GK,,AS Roma,Italy,,0
+1996,Serie A,Cagliari Calcio,summer,out,Luis Oliveira,22087,27,Belgium,Centre-Forward,CF,,AC Fiorentina,Italy,7000000.0,0
+1996,Serie A,Cagliari Calcio,summer,out,Francesco Paolo Tribuna,105019,19,Italy,Striker,Striker,,ASG Nocerina,Italy,,0
+1996,Serie A,Cagliari Calcio,summer,out,Antonio Bitetti,223335,21,Italy,Attacking Midfield,AM,,Reggina Calcio,Italy,,0
+1996,Serie A,Cagliari Calcio,summer,out,Vittorio Pusceddu,223354,32,Italy,Left-Back,LB,,AC Fiorentina,Italy,,0
+1996,Serie A,Cagliari Calcio,summer,out,Nicolò Napoli,223352,34,Italy,Right-Back,RB,,Reggina Calcio,Italy,,0
+1996,Serie A,Cagliari Calcio,summer,out,Simone Veronese,223363,21,Italy,Right-Back,RB,,AC Savoia 1908,Italy,,0
+1996,Serie A,Cagliari Calcio,summer,out,Christian Lantignotti,214768,26,Italy,Attacking Midfield,AM,,Calcio Padova,Italy,,0
+1996,Serie A,Cagliari Calcio,summer,out,Aldo Firicano,160168,29,Italy,Centre-Back,CB,,AC Fiorentina,Italy,,0
+1996,Serie A,Cagliari Calcio,summer,out,Massimo Perra,43227,20,Italy,Right Midfield,RM,,Giulianova Calcio,Italy,,0
+1996,Serie A,Cagliari Calcio,summer,out,Valerio Fiori,5799,27,Italy,Goalkeeper,GK,,AC Cesena,Italy,,0
+1996,Serie A,Cagliari Calcio,summer,out,Giovanni Sulcis,151892,21,Italy,Midfielder,Midfielder,,Polisportiva Sassari Torres,Italy,0.0,1
+1996,Serie A,Cagliari Calcio,summer,out,Marco De Laurentis,258016,20,Italy,Goalkeeper,GK,,Retired,,,0
+1996,Serie A,Cagliari Calcio,summer,out,Giorgio Venturin,180554,27,Italy,Central Midfield,CM,,SS Lazio,Italy,0.0,1
+1996,Serie A,Cagliari Calcio,winter,out,Ramon Vega,103731,25,Switzerland,Centre-Back,CB,,Tottenham Hotspur,England,5000000.0,0
+1996,Serie A,Cagliari Calcio,winter,out,Sandro Tovalieri,223115,31,Italy,Centre-Forward,CF,,UC Sampdoria,Italy,850000.0,0
+1996,Serie A,Cagliari Calcio,winter,out,Mirko Taccola,102646,26,Italy,Centre-Back,CB,,SSC Napoli,Italy,0.0,1
+1996,Serie A,Cagliari Calcio,winter,out,Luis Romero,253903,28,Uruguay,Centre-Forward,CF,,CA Peñarol,Uruguay,0.0,1
+1996,Serie A,Hellas Verona,summer,in,Reinaldo,227512,20,Brazil,Centre-Forward,CF,,Sociedade Esportiva Palmeiras,Brazil,,0
+1996,Serie A,Hellas Verona,summer,in,Attilio Gregori,223467,30,Italy,Goalkeeper,GK,,Udinese Calcio,Italy,,0
+1996,Serie A,Hellas Verona,summer,in,Andrea Da Rold,288466,23,Italy,Defender,Defender,,US Fiorenzuola 1922,Italy,,0
+1996,Serie A,Hellas Verona,summer,in,Antonio Paganin,223109,30,Italy,Right-Back,RB,,Atalanta BC,Italy,,0
+1996,Serie A,Hellas Verona,summer,in,Salvatore Giunta,173778,29,Italy,Central Midfield,CM,,Brescia Calcio,Italy,,0
+1996,Serie A,Hellas Verona,summer,in,Pierluigi Orlandini,160215,23,Italy,Right Midfield,RM,,Inter Milan,Italy,,0
+1996,Serie A,Hellas Verona,summer,in,Filippo Maniero,7275,23,Italy,Centre-Forward,CF,,UC Sampdoria,Italy,,0
+1996,Serie A,Hellas Verona,summer,in,Sebastiano Siviglia,5864,23,Italy,Centre-Back,CB,,ASG Nocerina,Italy,,0
+1996,Serie A,Hellas Verona,summer,in,Leonardo Colucci,6000,23,Italy,Central Midfield,CM,,AC Reggiana,Italy,,0
+1996,Serie A,Hellas Verona,summer,in,Vincenzo Italiano,21865,18,Italy,Central Midfield,CM,,Trapani Calcio,Italy,,0
+1996,Serie A,Hellas Verona,summer,in,Eugenio Corini,5921,25,Italy,Defensive Midfield,DM,,Piacenza FC,Italy,,0
+1996,Serie A,Hellas Verona,summer,in,Roberto Bacci,224927,29,Italy,Centre-Back,CB,,Torino Calcio,Italy,0.0,1
+1996,Serie A,Hellas Verona,summer,in,Jonatan Binotto,28009,21,Italy,Right Winger,RW,,Juventus FC,Italy,0.0,1
+1996,Serie A,Hellas Verona,summer,in,Nicola Zanini,22218,22,Italy,Attacking Midfield,AM,,UC Sampdoria,Italy,0.0,1
+1996,Serie A,Hellas Verona,winter,in,Marco Landucci,120404,32,Italy,Goalkeeper,GK,,AC Venezia 1907,Italy,,0
+1996,Serie A,Hellas Verona,winter,in,Raffaele Ametrano,20896,23,Italy,Right Midfield,RM,,Juventus FC,Italy,0.0,1
+1996,Serie A,Hellas Verona,summer,out,Damiano Tommasi,5951,22,Italy,Central Midfield,CM,,AS Roma,Italy,3500000.0,0
+1996,Serie A,Hellas Verona,summer,out,Attilio Gregori,223467,30,Italy,Goalkeeper,GK,,AC Venezia 1907,Italy,,0
+1996,Serie A,Hellas Verona,summer,out,Mauro Salvagno,100801,19,Italy,Central Midfield,CM,,Ascoli Calcio 1898,Italy,,0
+1996,Serie A,Hellas Verona,summer,out,Sirio Andrea Manganotti,371192,19,Italy,Striker,Striker,,Unknown,,,0
+1996,Serie A,Hellas Verona,summer,out,Aladino Valoti,227707,30,Italy,Central Midfield,CM,,Piacenza FC,Italy,,0
+1996,Serie A,Hellas Verona,summer,out,Gianluca De Angelis,336671,28,Italy,Midfielder,Midfielder,,Foggia Calcio,Italy,,0
+1996,Serie A,Hellas Verona,summer,out,Nicola Marangon,222792,25,Italy,Right-Back,RB,,AC Venezia 1907,Italy,,0
+1996,Serie A,Hellas Verona,summer,out,Onofrio Barone,226403,31,Italy,Central Midfield,CM,,AS Lucchese Libertas,Italy,,0
+1996,Serie A,Hellas Verona,summer,out,Fabrizio Cammarata,16890,21,Italy,Centre-Forward,CF,,Torino Calcio,Italy,,0
+1996,Serie A,Hellas Verona,summer,out,Nicola Zanini,22218,22,Italy,Attacking Midfield,AM,,UC Sampdoria,Italy,,0
+1996,Serie A,Hellas Verona,summer,out,Fabrizio Casazza,16855,25,Italy,Goalkeeper,GK,,Torino Calcio,Italy,,0
+1996,Serie A,Hellas Verona,summer,out,Andrea Da Rold,288466,24,Italy,Defender,Defender,,AS Lucchese Libertas,Italy,0.0,1
+1996,Serie A,Hellas Verona,summer,out,Raffaele Ametrano,20896,24,Italy,Right Midfield,RM,,Juventus FC,Italy,0.0,1
+1996,Serie A,Hellas Verona,summer,out,Marco Di Vaio,4170,19,Italy,Centre-Forward,CF,,SS Lazio,Italy,0.0,1
+1996,Serie A,Hellas Verona,winter,out,Reinaldo,227512,20,Brazil,Centre-Forward,CF,,Cruzeiro Esporte Clube,Brazil,,0
+1996,Serie A,Inter Milan,summer,in,Diego Simeone,5841,26,Argentina,Central Midfield,CM,,Atlético de Madrid,Spain,6000000.0,0
+1996,Serie A,Inter Milan,summer,in,Fabio Galante,21886,22,Italy,Centre-Back,CB,,Genoa 1893,Italy,4500000.0,0
+1996,Serie A,Inter Milan,summer,in,Nwankwo Kanu,3133,20,Nigeria,Centre-Forward,CF,,Ajax Amsterdam,Netherlands,3930000.0,0
+1996,Serie A,Inter Milan,summer,in,Youri Djorkaeff,4,28,France,Attacking Midfield,AM,,Paris Saint-Germain,France,3870000.0,0
+1996,Serie A,Inter Milan,summer,in,Ciriaco Sforza,219,26,Switzerland,Central Midfield,CM,,Bayern Munich,Germany,3100000.0,0
+1996,Serie A,Inter Milan,summer,in,Iván Zamorano,129083,29,Chile,Centre-Forward,CF,,Real Madrid,Spain,2100000.0,0
+1996,Serie A,Inter Milan,summer,in,Jocelyn Angloma,51776,30,Guadeloupe,Right-Back,RB,,Torino Calcio,Italy,1250000.0,0
+1996,Serie A,Inter Milan,summer,in,Samuel Ipoua,1074,23,Cameroon,Centre-Forward,CF,,OGC Nice,France,0.0,0
+1996,Serie A,Inter Milan,summer,in,Aron Winter,4324,29,Netherlands,Central Midfield,CM,,SS Lazio,Italy,0.0,0
+1996,Serie A,Inter Milan,summer,in,Giammarco Frezza,22255,20,Italy,Left Midfield,LM,,US Salernitana,Italy,,0
+1996,Serie A,Inter Milan,summer,in,Massimo Tarantino,28873,25,Italy,Left-Back,LB,,SSC Napoli,Italy,,0
+1996,Serie A,Inter Milan,summer,in,Misha Djorkaeff,283160,22,France,Midfielder,Midfielder,,Olympique d'Alès en Cévennes,France,,0
+1996,Serie A,Inter Milan,summer,in,Andrea Mazzantini,192722,27,Italy,Goalkeeper,GK,,AC Venezia 1907,Italy,,0
+1996,Serie A,Inter Milan,summer,in,Armando Pantanelli,20745,25,Italy,Goalkeeper,GK,,AC Carpi,Italy,,0
+1996,Serie A,Inter Milan,winter,in,Arturo Di Napoli,19123,22,Italy,Centre-Forward,CF,,SSC Napoli,Italy,,0
+1996,Serie A,Inter Milan,summer,out,Benny Carbone,3389,25,Italy,Second Striker,SS,,Sheffield Wednesday,England,5120000.0,0
+1996,Serie A,Inter Milan,summer,out,Caio Ribeiro,3758,20,Brazil,Centre-Forward,CF,,SSC Napoli,Italy,5000000.0,0
+1996,Serie A,Inter Milan,summer,out,Roberto Carlos,7518,23,Brazil,Left-Back,LB,,Real Madrid,Spain,3600000.0,0
+1996,Serie A,Inter Milan,summer,out,Samuel Ipoua,1074,23,Cameroon,Centre-Forward,CF,,Torino Calcio,Italy,0.0,1
+1996,Serie A,Inter Milan,summer,out,Paolo Tramezzani,6406,25,Italy,Left-Back,LB,,Piacenza FC,Italy,,0
+1996,Serie A,Inter Milan,summer,out,Alessandro Pedroni,227684,25,Italy,Left-Back,LB,,Torino Calcio,Italy,,0
+1996,Serie A,Inter Milan,summer,out,Francesco Dell'Anno,224554,29,Italy,Attacking Midfield,AM,,US Salernitana,Italy,,0
+1996,Serie A,Inter Milan,summer,out,Fabio Cinetti,5535,22,Italy,Central Midfield,CM,,Torino Calcio,Italy,,0
+1996,Serie A,Inter Milan,summer,out,Felice Centofanti,227800,27,Italy,Left-Back,LB,,Genoa 1893,Italy,,0
+1996,Serie A,Inter Milan,summer,out,Antonio Manicone,223471,29,Italy,Defensive Midfield,DM,,AC Perugia,Italy,,0
+1996,Serie A,Inter Milan,summer,out,Andrea Seno,199794,30,Italy,Central Midfield,CM,,Bologna FC 1909,Italy,,0
+1996,Serie A,Inter Milan,summer,out,Davide Fontolan,163317,30,Italy,Left Midfield,LM,,Bologna FC 1909,Italy,,0
+1996,Serie A,Inter Milan,summer,out,Alessandro Bianchi,214677,30,Italy,Right Midfield,RM,,AC Cesena,Italy,,0
+1996,Serie A,Inter Milan,summer,out,Pierluigi Orlandini,160215,23,Italy,Right Midfield,RM,,Hellas Verona,Italy,,0
+1996,Serie A,Inter Milan,summer,out,Marco Landucci,120404,32,Italy,Goalkeeper,GK,,AC Venezia 1907,Italy,,0
+1996,Serie A,Inter Milan,summer,out,Giammarco Frezza,22255,21,Italy,Left Midfield,LM,,AS Fidelis Andria,Italy,,0
+1996,Serie A,Inter Milan,summer,out,Sebastián Rambert,184504,22,Argentina,Centre-Forward,CF,,CA Boca Juniors,Argentina,0.0,1
+1996,Serie A,Inter Milan,summer,out,Paolo Orlandoni,21797,23,Italy,Goalkeeper,GK,,Foggia Calcio,Italy,0.0,1
+1996,Serie A,Inter Milan,winter,out,Samuel Ipoua,1074,23,Cameroon,Centre-Forward,CF,,Rapid Vienna,Austria,0.0,0
+1996,Serie A,Inter Milan,winter,out,Misha Djorkaeff,283160,22,France,Midfielder,Midfielder,,US Fiorenzuola 1922,Italy,0.0,1
+1996,Serie A,Juventus FC,summer,in,Alen Bokšić,3571,26,Croatia,Centre-Forward,CF,,SS Lazio,Italy,4500000.0,0
+1996,Serie A,Juventus FC,summer,in,Christian Vieri,5797,22,Italy,Centre-Forward,CF,,Atalanta BC,Italy,3770000.0,0
+1996,Serie A,Juventus FC,summer,in,Nicola Amoruso,4150,21,Italy,Centre-Forward,CF,,Calcio Padova,Italy,3620000.0,0
+1996,Serie A,Juventus FC,summer,in,Zinédine Zidane,3111,24,France,Attacking Midfield,AM,,FC Girondins Bordeaux,France,3500000.0,0
+1996,Serie A,Juventus FC,summer,in,Davide Falcioni,164738,21,Italy,Goalkeeper,GK,,Olbia Calcio,Italy,,0
+1996,Serie A,Juventus FC,summer,in,Salvatore Aronica,19182,18,Italy,Centre-Back,CB,,Bagheria Calcio 1919,Italy,,0
+1996,Serie A,Juventus FC,summer,in,Raffaele Ametrano,20896,23,Italy,Right Midfield,RM,,Udinese Calcio,Italy,,0
+1996,Serie A,Juventus FC,summer,in,Mark Iuliano,5750,22,Italy,Centre-Back,CB,,US Salernitana,Italy,,0
+1996,Serie A,Juventus FC,summer,in,Paolo Montero,5747,24,Uruguay,Centre-Back,CB,,Atalanta BC,Italy,,0
+1996,Serie A,Juventus FC,winter,in,Dimas,17563,27,Portugal,Left-Back,LB,,SL Benfica,Portugal,775000.0,0
+1996,Serie A,Juventus FC,summer,out,Fabrizio Ravanelli,4226,27,Italy,Centre-Forward,CF,,Middlesbrough FC,England,9780000.0,0
+1996,Serie A,Juventus FC,summer,out,Paulo Sousa,1536,25,Portugal,Defensive Midfield,DM,,Borussia Dortmund,Germany,3600000.0,0
+1996,Serie A,Juventus FC,summer,out,Enrico Fantini,21149,20,Italy,Centre-Forward,CF,,AC Venezia 1907,Italy,142000.0,0
+1996,Serie A,Juventus FC,summer,out,Gianluca Vialli,16036,31,Italy,Centre-Forward,CF,,Chelsea FC,England,0.0,0
+1996,Serie A,Juventus FC,summer,out,Giancarlo Marocchi,173739,30,Italy,Central Midfield,CM,,Bologna FC 1909,Italy,0.0,0
+1996,Serie A,Juventus FC,summer,out,Nicola Visentin,259584,19,Italy,Goalkeeper,GK,,US Viterbese,Italy,,0
+1996,Serie A,Juventus FC,summer,out,Massimo Carrera,23348,32,Italy,Centre-Back,CB,,Atalanta BC,Italy,,0
+1996,Serie A,Juventus FC,summer,out,Pietro Vierchowod,116750,37,Italy,Centre-Back,CB,,AC Perugia,Italy,,0
+1996,Serie A,Juventus FC,summer,out,Christian Manfredini,5850,21,Cote d'Ivoire,Left Winger,LW,,Avezzano Calcio,Italy,0.0,1
+1996,Serie A,Juventus FC,summer,out,Jonatan Binotto,28009,21,Italy,Right Winger,RW,,Hellas Verona,Italy,0.0,1
+1996,Serie A,Juventus FC,summer,out,Tommaso Rocchi,6026,18,Italy,Centre-Forward,CF,,Pro Patria Gallaratese GB,Italy,0.0,1
+1996,Serie A,Juventus FC,winter,out,Juan Pablo Sorín,7925,20,Argentina,Left-Back,LB,,CA River Plate,Argentina,1000000.0,0
+1996,Serie A,Juventus FC,winter,out,Raffaele Ametrano,20896,23,Italy,Right Midfield,RM,,Hellas Verona,Italy,0.0,1
+1996,Serie A,Piacenza FC,summer,in,Sandro Mazzola,21867,28,Italy,Defensive Midfield,DM,,AC Reggiana,Italy,2000000.0,0
+1996,Serie A,Piacenza FC,summer,in,Daniele Delli Carri,15336,24,Italy,Centre-Back,CB,,Genoa 1893,Italy,0.0,0
+1996,Serie A,Piacenza FC,summer,in,Fausto Pari,181052,33,Italy,Defensive Midfield,DM,,SSC Napoli,Italy,,0
+1996,Serie A,Piacenza FC,summer,in,Paolo Tramezzani,6406,25,Italy,Left-Back,LB,,Inter Milan,Italy,,0
+1996,Serie A,Piacenza FC,summer,in,Sergio Marcon,16852,25,Italy,Goalkeeper,GK,,AS Fidelis Andria,Italy,,0
+1996,Serie A,Piacenza FC,summer,in,Aladino Valoti,227707,30,Italy,Central Midfield,CM,,Hellas Verona,Italy,,0
+1996,Serie A,Piacenza FC,summer,in,Andrea Tentoni,227605,27,Italy,Centre-Forward,CF,,US Cremonese,Italy,,0
+1996,Serie A,Piacenza FC,summer,in,Giuseppe Scienza,227516,29,Italy,Defensive Midfield,DM,,AC Venezia 1907,Italy,,0
+1996,Serie A,Piacenza FC,summer,in,Pasquale Luiso,24326,26,Italy,Centre-Forward,CF,,Chievo Verona,Italy,,0
+1996,Serie A,Piacenza FC,summer,in,Stefano Sacchetti,6753,23,Italy,Centre-Back,CB,,UC Sampdoria,Italy,,0
+1996,Serie A,Piacenza FC,summer,in,Gabriele Pin,120410,34,Italy,Central Midfield,CM,,AC Parma,Italy,,0
+1996,Serie A,Piacenza FC,summer,in,Gianluca Lamacchi,22200,24,Italy,Centre-Back,CB,,AS Fidelis Andria,Italy,,0
+1996,Serie A,Piacenza FC,summer,in,Fabian Natale Valtolina,16907,25,Italy,Left Winger,LW,,Bologna FC 1909,Italy,,0
+1996,Serie A,Piacenza FC,summer,out,Angelo Carbone,177667,28,Italy,Right Midfield,RM,,AC Reggiana,Italy,350000.0,0
+1996,Serie A,Piacenza FC,summer,out,Nicola Caccia,21912,26,Italy,Centre-Forward,CF,,SSC Napoli,Italy,0.0,1
+1996,Serie A,Piacenza FC,summer,out,Simone Inzaghi,5849,20,Italy,Centre-Forward,CF,,AC Lumezzane,Italy,0.0,1
+1996,Serie A,Piacenza FC,summer,out,Luigi Simoni,255759,31,Italy,Goalkeeper,GK,,Reggina Calcio,Italy,,0
+1996,Serie A,Piacenza FC,summer,out,Francesco Turrini,227705,30,Italy,Right Midfield,RM,,SSC Napoli,Italy,,0
+1996,Serie A,Piacenza FC,summer,out,Roberto Lorenzini,223470,29,Italy,Left-Back,LB,,AS Lucchese Libertas,Italy,,0
+1996,Serie A,Piacenza FC,summer,out,Stefano Rossini,30656,25,Italy,Left-Back,LB,,Atalanta BC,Italy,,0
+1996,Serie A,Piacenza FC,summer,out,Eugenio Corini,5921,25,Italy,Defensive Midfield,DM,,Hellas Verona,Italy,,0
+1996,Serie A,Piacenza FC,summer,out,Massimiliano Cappellini,6030,25,Italy,Centre-Forward,CF,,FC Empoli,Italy,,0
+1996,Serie A,Piacenza FC,summer,out,Giuseppe Toscano,257260,17,Italy,Midfielder,Midfielder,,Retired,,,0
+1996,Serie A,Piacenza FC,summer,out,Michele Marseglia,257156,19,Italy,Goalkeeper,GK,,Retired,,,0
+1996,Serie A,SS Lazio,summer,in,Pavel Nedved,3603,23,Czech Republic,Left Midfield,LM,,1.FC Kosice (1951 - 2004),Slovakia,4650000.0,0
+1996,Serie A,SS Lazio,summer,in,Igor Protti,21235,28,Italy,Centre-Forward,CF,,AS Bari,Italy,3600000.0,0
+1996,Serie A,SS Lazio,summer,in,Roberto Baronio,6089,18,Italy,Defensive Midfield,DM,,Brescia Calcio,Italy,3250000.0,0
+1996,Serie A,SS Lazio,summer,in,Renato Buso,120392,26,Italy,Right Midfield,RM,,SSC Napoli,Italy,3100000.0,0
+1996,Serie A,SS Lazio,summer,in,Mark Fish,3087,22,South Africa,Centre-Back,CB,,Orlando Pirates,South Africa,1300000.0,0
+1996,Serie A,SS Lazio,summer,in,Carlo Cudicini,3151,22,Italy,Goalkeeper,GK,,AC Prato,Italy,0.0,0
+1996,Serie A,SS Lazio,summer,in,Paul Okon,4092,24,Australia,Defensive Midfield,DM,,Club Brugge KV,Belgium,,0
+1996,Serie A,SS Lazio,summer,in,Andrea Cano,85857,20,Italy,Goalkeeper,GK,,Narnese Calcio,Italy,,0
+1996,Serie A,SS Lazio,summer,out,Roberto Di Matteo,103679,26,Italy,Central Midfield,CM,,Chelsea FC,England,5500000.0,0
+1996,Serie A,SS Lazio,summer,out,Alen Bokšić,3571,26,Croatia,Centre-Forward,CF,,Juventus FC,Italy,4500000.0,0
+1996,Serie A,SS Lazio,summer,out,Aron Winter,4324,29,Netherlands,Central Midfield,CM,,Inter Milan,Italy,0.0,0
+1996,Serie A,SS Lazio,summer,out,Alessandro Romano,224945,26,Italy,Defensive Midfield,DM,,Brescia Calcio,Italy,,0
+1996,Serie A,SS Lazio,summer,out,Stefano Bellè,22266,19,Italy,Left Winger,LW,,AS Lodigiani Calcio 1972,Italy,,0
+1996,Serie A,SS Lazio,summer,out,Francesco Mancini,224936,27,Italy,Goalkeeper,GK,,Foggia Calcio,Italy,,0
+1996,Serie A,SS Lazio,summer,out,Cristiano Bergodi,166544,31,Italy,Centre-Back,CB,,Calcio Padova,Italy,,0
+1996,Serie A,SS Lazio,summer,out,Massimiliano Esposito,21817,24,Italy,Right Winger,RW,,SSC Napoli,Italy,,0
+1996,Serie A,SS Lazio,summer,out,Marco Di Vaio,4170,19,Italy,Centre-Forward,CF,,AS Bari,Italy,0.0,1
+1996,Serie A,SS Lazio,summer,out,Ivano Della Morte,5926,21,Italy,Central Midfield,CM,,US Alessandria Calcio,Italy,0.0,1
+1996,Serie A,SS Lazio,summer,out,Rocco Mattia,257175,19,Italy,Goalkeeper,GK,,Udinese Primavera,Italy,,0
+1996,Serie A,SS Lazio,winter,out,Daniele Franceschini,5927,20,Italy,Left Midfield,LM,,ASD Castel di Sangro,Italy,,0
+1996,Serie A,SSC Napoli,summer,in,Caio Ribeiro,3758,20,Brazil,Centre-Forward,CF,,Inter Milan,Italy,5000000.0,0
+1996,Serie A,SSC Napoli,summer,in,Beto,65220,21,Brazil,Attacking Midfield,AM,,Botafogo de Futebol e Regatas,Brazil,2600000.0,0
+1996,Serie A,SSC Napoli,summer,in,Bertrand Crasson,13046,24,Belgium,Right-Back,RB,,RSC Anderlecht,Belgium,2000000.0,0
+1996,Serie A,SSC Napoli,summer,in,Nicola Caccia,21912,26,Italy,Centre-Forward,CF,,Piacenza FC,Italy,0.0,1
+1996,Serie A,SSC Napoli,summer,in,Antonio Pietropaolo,278366,19,Italy,Goalkeeper,GK,,Pozzuoli Calcio,Italy,,0
+1996,Serie A,SSC Napoli,summer,in,Francesco Turrini,227705,30,Italy,Right Midfield,RM,,Piacenza FC,Italy,,0
+1996,Serie A,SSC Napoli,summer,in,Antonio Amita,487706,20,Italy,Defensive Midfield,DM,,US Battipagliese,Italy,,0
+1996,Serie A,SSC Napoli,summer,in,Luigi Morgante,110571,18,Italy,Left-Back,LB,,L'Aquila 1927,Italy,,0
+1996,Serie A,SSC Napoli,summer,in,Alfredo Aglietti,166879,25,Italy,Centre-Forward,CF,,Reggina Calcio,Italy,,0
+1996,Serie A,SSC Napoli,summer,in,Luigi Panarelli,102633,20,Italy,Right-Back,RB,,Taranto SS,Italy,,0
+1996,Serie A,SSC Napoli,summer,in,Mauro Milanese,6086,24,Italy,Left-Back,LB,,Torino Calcio,Italy,,0
+1996,Serie A,SSC Napoli,summer,in,Massimiliano Esposito,21817,24,Italy,Right Winger,RW,,SS Lazio,Italy,,0
+1996,Serie A,SSC Napoli,summer,out,Renato Buso,120392,26,Italy,Right Midfield,RM,,SS Lazio,Italy,3100000.0,0
+1996,Serie A,SSC Napoli,summer,out,Federico Infanti,256923,20,Italy,Goalkeeper,GK,,US Battipagliese,Italy,,0
+1996,Serie A,SSC Napoli,summer,out,Massimo Tarantino,28873,25,Italy,Left-Back,LB,,Inter Milan,Italy,,0
+1996,Serie A,SSC Napoli,summer,out,Ciro Caruso,228852,22,Italy,Centre-Back,CB,,AC Carpi,Italy,,0
+1996,Serie A,SSC Napoli,summer,out,Fausto Pizzi,224590,28,Italy,Attacking Midfield,AM,,AC Perugia,Italy,,0
+1996,Serie A,SSC Napoli,summer,out,Fausto Pari,181052,33,Italy,Defensive Midfield,DM,,Piacenza FC,Italy,,0
+1996,Serie A,SSC Napoli,summer,out,Massimo Agostini,180478,32,Italy,Centre-Forward,CF,,AC Cesena,Italy,,0
+1996,Serie A,SSC Napoli,summer,out,Mirko Taccola,102646,25,Italy,Centre-Back,CB,,Cagliari Calcio,Italy,0.0,1
+1996,Serie A,SSC Napoli,summer,out,Carmelo Imbriani,85271,20,Italy,Second Striker,SS,,AC Pistoiese,Italy,0.0,1
+1996,Serie A,SSC Napoli,summer,out,Alessandro Sbrizzo,22288,21,Italy,Centre-Back,CB,,Reggina Calcio,Italy,0.0,1
+1996,Serie A,SSC Napoli,winter,out,Arturo Di Napoli,19123,22,Italy,Centre-Forward,CF,,Inter Milan,Italy,,0
+1996,Serie A,UC Sampdoria,summer,in,Juan Sebastián Verón,3143,21,Argentina,Central Midfield,CM,,CA Boca Juniors,Argentina,5700000.0,0
+1996,Serie A,UC Sampdoria,summer,in,Vincenzo Montella,5960,22,Italy,Centre-Forward,CF,,Genoa 1893,Italy,4390000.0,0
+1996,Serie A,UC Sampdoria,summer,in,Oumar Dieng,6923,23,France,Centre-Back,CB,,Paris Saint-Germain,France,2000000.0,0
+1996,Serie A,UC Sampdoria,summer,in,Pierre Laigle,5700,25,France,Left Midfield,LM,,RC Lens,France,1800000.0,0
+1996,Serie A,UC Sampdoria,summer,in,Danny Dichio,3651,21,England,Centre-Forward,CF,,Queens Park Rangers,England,0.0,0
+1996,Serie A,UC Sampdoria,summer,in,Alessandro Giovinazzo,269863,18,Italy,Goalkeeper,GK,,Rapallo Ruentes Rivarolese,Italy,,0
+1996,Serie A,UC Sampdoria,summer,in,Mattia Biso,22309,19,Italy,Central Midfield,CM,,Derthona FBC,Italy,,0
+1996,Serie A,UC Sampdoria,summer,in,Simone Vergassola,21701,20,Italy,Defensive Midfield,DM,,Carrarese Calcio 1908,Italy,,0
+1996,Serie A,UC Sampdoria,summer,in,Nicola Zanini,22218,22,Italy,Attacking Midfield,AM,,Hellas Verona,Italy,,0
+1996,Serie A,UC Sampdoria,summer,in,Fabrizio Ferron,3523,30,Italy,Goalkeeper,GK,,Atalanta BC,Italy,,0
+1996,Serie A,UC Sampdoria,winter,in,Sandro Tovalieri,223115,31,Italy,Centre-Forward,CF,,Cagliari Calcio,Italy,850000.0,0
+1996,Serie A,UC Sampdoria,winter,in,Alessandro Lamonica,229136,23,Italy,Centre-Back,CB,,AC Venezia 1907,Italy,,0
+1996,Serie A,UC Sampdoria,winter,in,Kurnia Sandy,1008786,21,Indonesia,Goalkeeper,GK,,Pelita Jaya FC,Indonesia,,0
+1996,Serie A,UC Sampdoria,summer,out,Enrico Chiesa,7329,25,Italy,Centre-Forward,CF,,AC Parma,Italy,12500000.0,0
+1996,Serie A,UC Sampdoria,summer,out,Clarence Seedorf,4168,20,Netherlands,Central Midfield,CM,,Real Madrid,Spain,8600000.0,0
+1996,Serie A,UC Sampdoria,summer,out,Stefano Sacchetti,6753,23,Italy,Centre-Back,CB,,Piacenza FC,Italy,,0
+1996,Serie A,UC Sampdoria,summer,out,Davide Di Terlizzi,229097,20,Italy,Midfielder,Midfielder,,Carrarese Calcio 1908,Italy,,0
+1996,Serie A,UC Sampdoria,summer,out,Alessandro Lamonica,229136,23,Italy,Centre-Back,CB,,AC Venezia 1907,Italy,,0
+1996,Serie A,UC Sampdoria,summer,out,Giovanni Abate,258003,20,Italy,Right Midfield,RM,,AC Prato,Italy,,0
+1996,Serie A,UC Sampdoria,summer,out,Angelo Pagotto,23282,22,Italy,Goalkeeper,GK,,AC Milan,Italy,,0
+1996,Serie A,UC Sampdoria,summer,out,Filippo Maniero,7275,23,Italy,Centre-Forward,CF,,Hellas Verona,Italy,,0
+1996,Serie A,UC Sampdoria,summer,out,Walter Zenga,116754,36,Italy,Goalkeeper,GK,,Calcio Padova,Italy,,0
+1996,Serie A,UC Sampdoria,summer,out,Claudio Bellucci,6008,21,Italy,Centre-Forward,CF,,AC Venezia 1907,Italy,0.0,1
+1996,Serie A,UC Sampdoria,summer,out,Mauro Bertarelli,229085,25,Italy,Second Striker,SS,,FC Empoli,Italy,0.0,1
+1996,Serie A,UC Sampdoria,summer,out,Nicola Zanini,22218,22,Italy,Attacking Midfield,AM,,Hellas Verona,Italy,0.0,1
+1996,Serie A,UC Sampdoria,summer,out,Riccardo Ferri,118251,32,Italy,Centre-Back,CB,,Retired,,,0
+1996,Serie A,UC Sampdoria,summer,out,Christian Cabella,257362,18,Italy,Goalkeeper,GK,,Retired,,,0
+1996,Serie A,UC Sampdoria,summer,out,Fabrizio Marchesotti,256983,19,Italy,Goalkeeper,GK,,Retired,,,0
+1996,Serie A,UC Sampdoria,winter,out,Alessandro Zito,257240,20,Italy,Defender,Defender,,Carrarese Calcio 1908,Italy,,0
+1996,Serie A,Udinese Calcio,summer,in,Márcio Amoroso,1263,21,Brazil,Centre-Forward,CF,,CR Flamengo,Brazil,4000000.0,0
+1996,Serie A,Udinese Calcio,summer,in,Hazem Emam,55533,21,Egypt,Attacking Midfield,AM,,Zamalek SC,Egypt,220000.0,0
+1996,Serie A,Udinese Calcio,summer,in,Luigi Turci,6745,26,Italy,Goalkeeper,GK,,US Cremonese,Italy,,0
+1996,Serie A,Udinese Calcio,summer,in,Claudio Clementi,223008,27,Italy,Centre-Forward,CF,,US Fiorenzuola 1922,Italy,,0
+1996,Serie A,Udinese Calcio,summer,in,Pier Luigi Nicoli,224534,30,Italy,Right-Back,RB,,Foggia Calcio,Italy,,0
+1996,Serie A,Udinese Calcio,summer,in,Luca Compagnon,224528,23,Italy,Right-Back,RB,,AC Savoia 1908,Italy,,0
+1996,Serie A,Udinese Calcio,summer,in,Massimiliano Caniato,224527,28,Italy,Goalkeeper,GK,,Torino Calcio,Italy,,0
+1996,Serie A,Udinese Calcio,summer,in,Alessandro Orlando,177685,26,Italy,Left-Back,LB,,AC Fiorentina,Italy,,0
+1996,Serie A,Udinese Calcio,summer,in,Tomas Locatelli,5996,20,Italy,Attacking Midfield,AM,,AC Milan,Italy,,0
+1996,Serie A,Udinese Calcio,winter,in,Régis Genaux,5891,23,Belgium,Right-Back,RB,,Coventry City,England,1150000.0,0
+1996,Serie A,Udinese Calcio,winter,in,Massimiliano Cappioli,160859,28,Italy,Central Midfield,CM,,AS Roma,Italy,,0
+1996,Serie A,Udinese Calcio,summer,out,Igor Shalimov,88150,27,Russia,Attacking Midfield,AM,,Bologna FC 1909,Italy,4000000.0,0
+1996,Serie A,Udinese Calcio,summer,out,Stefano Pellegrini,224536,28,Italy,Right-Back,RB,,AC Carpi,Italy,15000.0,0
+1996,Serie A,Udinese Calcio,summer,out,Alessandro Testaferrata,224599,22,Italy,Goalkeeper,GK,,Olbia Calcio,Italy,,0
+1996,Serie A,Udinese Calcio,summer,out,Attilio Gregori,223467,30,Italy,Goalkeeper,GK,,Hellas Verona,Italy,,0
+1996,Serie A,Udinese Calcio,summer,out,Cristian Mauro,224532,21,Italy,Left Midfield,LM,,Reggina Calcio,Italy,,0
+1996,Serie A,Udinese Calcio,summer,out,Tiziano Zampieri,399239,19,Italy,Striker,Striker,,AC Marzotto Valdagno,Italy,,0
+1996,Serie A,Udinese Calcio,summer,out,Vincenzo Montalbano,224581,27,Italy,Centre-Back,CB,,Reggina Calcio,Italy,,0
+1996,Serie A,Udinese Calcio,summer,out,Salvatore Matrecano,224531,25,Italy,Centre-Back,CB,,AC Perugia,Italy,,0
+1996,Serie A,Udinese Calcio,summer,out,Raffaele Ametrano,20896,23,Italy,Right Midfield,RM,,Juventus FC,Italy,,0
+1996,Serie A,Udinese Calcio,summer,out,Francesco Marino,22991,25,Italy,Second Striker,SS,,Reggina Calcio,Italy,,0
+1996,Serie A,Udinese Calcio,summer,out,Stefano Borgonovo,192594,32,Italy,Centre-Forward,CF,,Retired,,,0
+1996,Serie A,Udinese Calcio,winter,out,David Stefani,224540,21,Italy,Central Midfield,CM,,AC Savoia 1908,Italy,0.0,1
+1996,Serie A,Vicenza Calcio,summer,in,Pierre Womé,3329,17,Cameroon,Left-Back,LB,,Canon Sportif de Yaoundé,Cameroon,,0
+1996,Serie A,Vicenza Calcio,summer,in,Alessandro Dal Canto,24320,21,Italy,Left-Back,LB,,Torino Calcio,Italy,,0
+1996,Serie A,Vicenza Calcio,summer,in,Fabio Firmani,22083,18,Italy,Central Midfield,CM,,AS Lodigiani Calcio 1972,Italy,,0
+1996,Serie A,Vicenza Calcio,summer,in,Mariano Sotgia,192067,26,Italy,Right Winger,RW,,AS Cosenza Calcio,Italy,,0
+1996,Serie A,Vicenza Calcio,summer,in,Massimo Beghetto,207385,27,Italy,Left-Back,LB,,AC Perugia,Italy,,0
+1996,Serie A,Vicenza Calcio,summer,in,Giovanni Cornacchini,168196,30,Italy,Centre-Forward,CF,,Bologna FC 1909,Italy,,0
+1996,Serie A,Vicenza Calcio,winter,in,Giuliano Gentilini,133958,26,Italy,Central Midfield,CM,,Calcio Padova,Italy,,0
+1996,Serie A,Vicenza Calcio,summer,out,Joachim Björklund,3642,25,Sweden,Centre-Back,CB,,Rangers FC,Scotland,2600000.0,0
+1996,Serie A,Vicenza Calcio,summer,out,Willi Pittana,224589,24,Italy,Midfielder,Midfielder,,AC Carpi,Italy,,0
+1996,Serie A,Vicenza Calcio,summer,out,Massimo Lombardini,227667,24,Italy,Left Midfield,LM,,Torino Calcio,Italy,,0
+1996,Serie A,Vicenza Calcio,summer,out,Alessandro Zerman,742429,21,Italy,Goalkeeper,GK,,US Brescello,Italy,,0
+1996,Serie A,Vicenza Calcio,summer,out,Federico Balasso,259548,19,Italy,Defender,Defender,,Retired,,,0
+1996,Serie A,Vicenza Calcio,winter,out,Alessandro Dal Canto,24320,21,Italy,Left-Back,LB,,AC Venezia 1907,Italy,,0
+1996,Serie A,Vicenza Calcio,winter,out,Mariano Sotgia,192067,27,Italy,Right Winger,RW,,Calcio Padova,Italy,,0
+1996,Serie A,Vicenza Calcio,winter,out,Ferdinando Gasparini,227471,27,Italy,Striker,Striker,,US Ravenna,Italy,,0

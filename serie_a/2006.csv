@@ -1,0 +1,797 @@
+season,league,club,window,movement,player_name,player_id,age,nationality,position,pos,market_value,dealing_club,dealing_country,fee,is_loan
+2006,Serie A,AC Milan,summer,in,Ricardo Oliveira,15468,26,Brazil,Centre-Forward,CF,6000000.0,Real Betis Balompié,Spain,15000000.0,0
+2006,Serie A,AC Milan,summer,in,Yoann Gourcuff,18912,19,France,Attacking Midfield,AM,3500000.0,Stade Rennais FC,France,4500000.0,0
+2006,Serie A,AC Milan,summer,in,Daniele Bonera,5856,25,Italy,Centre-Back,CB,6000000.0,Parma FC,Italy,3300000.0,0
+2006,Serie A,AC Milan,summer,in,Ferdinando Coppola,5986,28,Italy,Goalkeeper,GK,1500000.0,Ascoli Calcio 1898,Italy,200000.0,0
+2006,Serie A,AC Milan,summer,in,Giuseppe Favalli,5832,34,Italy,Left-Back,LB,1500000.0,Inter Milan,Italy,0.0,0
+2006,Serie A,AC Milan,summer,in,Pasquale Foggia,17175,23,Italy,Attacking Midfield,AM,2500000.0,FC Empoli,Italy,,0
+2006,Serie A,AC Milan,winter,in,Massimo Oddo,5837,30,Italy,Right-Back,RB,10000000.0,SS Lazio,Italy,7750000.0,0
+2006,Serie A,AC Milan,winter,in,Ronaldo,3140,30,Brazil,Centre-Forward,CF,27500000.0,Real Madrid,Spain,7500000.0,0
+2006,Serie A,AC Milan,winter,in,Leandro Grimi,45317,21,Argentina,Left-Back,LB,2000000.0,Racing Club,Argentina,2500000.0,0
+2006,Serie A,AC Milan,winter,in,Marco Storari,19136,30,Italy,Goalkeeper,GK,1200000.0,FC Messina Peloro,Italy,850000.0,0
+2006,Serie A,AC Milan,summer,out,Andriy Shevchenko,3522,29,Ukraine,Centre-Forward,CF,51000000.0,Chelsea FC,England,43880000.0,0
+2006,Serie A,AC Milan,summer,out,Johann Vogel,4352,29,Switzerland,Defensive Midfield,DM,4500000.0,Real Betis Balompié,Spain,4500000.0,0
+2006,Serie A,AC Milan,summer,out,Pasquale Foggia,17175,23,Italy,Attacking Midfield,AM,2500000.0,SS Lazio,Italy,3150000.0,0
+2006,Serie A,AC Milan,summer,out,Jaap Stam,3557,33,Netherlands,Centre-Back,CB,5500000.0,Ajax Amsterdam,Netherlands,3000000.0,0
+2006,Serie A,AC Milan,summer,out,Nicola Pozzi,16117,20,Italy,Centre-Forward,CF,3000000.0,FC Empoli,Italy,2500000.0,0
+2006,Serie A,AC Milan,summer,out,Mattia Graffiedi,6395,26,Italy,Centre-Forward,CF,3200000.0,US Triestina,Italy,300000.0,0
+2006,Serie A,AC Milan,summer,out,Christian Abbiati,3507,29,Italy,Goalkeeper,GK,4500000.0,Torino FC,Italy,300000.0,1
+2006,Serie A,AC Milan,summer,out,Michele Piccolo,151314,20,Italy,Centre-Forward,CF,,AS Pizzighettone,Italy,1000.0,0
+2006,Serie A,AC Milan,summer,out,Samuele Dalla Bona,4291,25,Italy,Central Midfield,CM,2500000.0,SSC Napoli,Italy,0.0,0
+2006,Serie A,AC Milan,summer,out,Dimitrios Eleftheropoulos,9685,29,Greece,Goalkeeper,GK,600000.0,Ascoli Calcio 1898,Italy,0.0,0
+2006,Serie A,AC Milan,summer,out,Rui Costa,3624,34,Portugal,Attacking Midfield,AM,4000000.0,SL Benfica,Portugal,0.0,0
+2006,Serie A,AC Milan,summer,out,Márcio Amoroso,1263,32,Brazil,Centre-Forward,CF,1500000.0,Sport Club Corinthians Paulista,Brazil,0.0,0
+2006,Serie A,AC Milan,summer,out,Catilina Aubameyang,33324,22,Gabon,Left Midfield,LM,75000.0,Paris FC,France,0.0,0
+2006,Serie A,AC Milan,summer,out,Romano Perticone,44294,19,Italy,Centre-Back,CB,,Hellas Verona,Italy,0.0,1
+2006,Serie A,AC Milan,summer,out,Sandro Bloudek,31393,20,Slovenia,Attacking Midfield,AM,,AC Pistoiese,Italy,0.0,1
+2006,Serie A,AC Milan,summer,out,Filippo Porcari,61358,22,Italy,Defensive Midfield,DM,,US Avellino,Italy,0.0,1
+2006,Serie A,AC Milan,summer,out,Eros Favaretto,345548,19,Italy,Goalkeeper,GK,,AS Viterbese Calcio,Italy,,0
+2006,Serie A,AC Milan,summer,out,Patrick Kalambay,45113,22,Italy,Right Midfield,RM,,US Triestina,Italy,0.0,1
+2006,Serie A,AC Milan,summer,out,Alessandro Matri,40660,21,Italy,Centre-Forward,CF,,Rimini FC,Italy,0.0,1
+2006,Serie A,AC Milan,summer,out,Ignazio Abate,16631,19,Italy,Right-Back,RB,50000.0,Modena FC,Italy,0.0,1
+2006,Serie A,AC Milan,summer,out,Lino Marzorati,41935,19,Italy,Centre-Back,CB,,FC Empoli,Italy,0.0,1
+2006,Serie A,AC Milan,summer,out,Davide Astori,87210,19,Italy,Centre-Back,CB,,AS Pizzighettone,Italy,0.0,1
+2006,Serie A,AC Milan,summer,out,Ferdinando Coppola,5986,28,Italy,Goalkeeper,GK,1500000.0,Piacenza FC,Italy,0.0,1
+2006,Serie A,AC Milan,summer,out,Massimo Donati,5870,25,Italy,Defensive Midfield,DM,2500000.0,Atalanta BC,Italy,0.0,1
+2006,Serie A,AC Milan,winter,out,Sandro Bloudek,31393,20,Slovenia,Attacking Midfield,AM,,US Cremonese,Italy,0.0,1
+2006,Serie A,AC Siena,summer,in,Valerio Bertotto,5884,33,Italy,Centre-Back,CB,1250000.0,Udinese Calcio,Italy,2500000.0,0
+2006,Serie A,AC Siena,summer,in,Daniele Corvia,16863,21,Italy,Centre-Forward,CF,2000000.0,AS Roma,Italy,400000.0,0
+2006,Serie A,AC Siena,summer,in,Andrea Masiello,34198,20,Italy,Centre-Back,CB,50000.0,Juventus FC,Italy,350000.0,0
+2006,Serie A,AC Siena,summer,in,Paul Codrea,16138,25,Romania,Central Midfield,CM,500000.0,US Palermo,Italy,200000.0,0
+2006,Serie A,AC Siena,summer,in,Luca Antonini,6792,23,Italy,Left-Back,LB,400000.0,UC Sampdoria,Italy,200000.0,1
+2006,Serie A,AC Siena,summer,in,Mario Frick,21755,31,Liechtenstein,Centre-Forward,CF,150000.0,Ternana Calcio,Italy,0.0,0
+2006,Serie A,AC Siena,summer,in,Nicola Pavarini,28027,32,Italy,Goalkeeper,GK,600000.0,Reggina Calcio,Italy,0.0,0
+2006,Serie A,AC Siena,summer,in,Vincent Candela,5939,32,France,Left-Back,LB,1500000.0,Udinese Calcio,Italy,0.0,0
+2006,Serie A,AC Siena,summer,in,Abdoulay Konko,22139,22,France,Right-Back,RB,600000.0,Juventus FC,Italy,,0
+2006,Serie A,AC Siena,summer,in,Gorazd Zajc,38274,18,Slovenia,Centre-Forward,CF,,NK Maribor,Slovenia,,0
+2006,Serie A,AC Siena,summer,in,Marcin Siedlarz,24541,18,Poland,Central Midfield,CM,175000.0,Widzew Lodz,Poland,,0
+2006,Serie A,AC Siena,summer,in,Alessandro Bettega,56692,19,Italy,Central Midfield,CM,,Juventus Primavera,Italy,,0
+2006,Serie A,AC Siena,summer,in,Thomas Albanese,83401,18,Italy,Centre-Forward,CF,,Tolentino Calcio,Italy,,0
+2006,Serie A,AC Siena,summer,in,Ezio Brevi,22189,36,Italy,Defensive Midfield,DM,,Calcio Catania,Italy,,0
+2006,Serie A,AC Siena,summer,in,Giovanni Bartolucci,22132,22,Italy,Right-Back,RB,100000.0,Polisportiva Sassari Torres,Italy,,0
+2006,Serie A,AC Siena,summer,in,Leandro Rinaudo,21988,23,Italy,Centre-Back,CB,550000.0,US Palermo,Italy,0.0,1
+2006,Serie A,AC Siena,summer,in,Andrea Rossi,44280,19,Italy,Left-Back,LB,,Juventus FC,Italy,0.0,1
+2006,Serie A,AC Siena,summer,in,Alexander Manninger,5278,29,Austria,Goalkeeper,GK,1400000.0,Red Bull Salzburg,Austria,0.0,1
+2006,Serie A,AC Siena,winter,in,Roman Eremenko,44367,19,Finland,Attacking Midfield,AM,50000.0,Udinese Calcio,Italy,350000.0,1
+2006,Serie A,AC Siena,winter,in,Massimo Maccarone,3713,27,Italy,Centre-Forward,CF,3500000.0,Middlesbrough FC,England,0.0,0
+2006,Serie A,AC Siena,winter,in,Anssi Jaakkola,18223,19,Finland,Goalkeeper,GK,,Tornion Pallo -47,Finland,,0
+2006,Serie A,AC Siena,winter,in,Francesco Benussi,21829,25,Italy,Goalkeeper,GK,300000.0,US Lecce,Italy,0.0,1
+2006,Serie A,AC Siena,winter,in,Daniele Galloppa,22594,21,Italy,Central Midfield,CM,600000.0,AS Roma,Italy,0.0,1
+2006,Serie A,AC Siena,summer,out,Erjon Bogdani,6075,29,Albania,Centre-Forward,CF,3250000.0,Chievo Verona,Italy,3000000.0,0
+2006,Serie A,AC Siena,summer,out,Jacopo Piazzi,339864,19,Italy,Left-Back,LB,,US Forcoli 1921,Italy,0.0,0
+2006,Serie A,AC Siena,summer,out,Francesco Colonnese,5836,34,Italy,Centre-Back,CB,1000000.0,Potenza Sport Club,Italy,0.0,0
+2006,Serie A,AC Siena,summer,out,Pasquale Iadaresta,39800,20,Italy,Centre-Forward,CF,125000.0,US Poggibonsi,Italy,0.0,1
+2006,Serie A,AC Siena,summer,out,Gianluca Falsini,6063,30,Italy,Left-Back,LB,1000000.0,Calcio Catania,Italy,,0
+2006,Serie A,AC Siena,summer,out,Giuseppe Campisi,519552,19,Italy,Defender,Defender,,SSC Giugliano,Italy,,0
+2006,Serie A,AC Siena,summer,out,Tomás Guzmán,19228,24,Paraguay,Attacking Midfield,AM,500000.0,Juventus FC,Italy,,0
+2006,Serie A,AC Siena,summer,out,Fernando,15338,25,Brazil,Defensive Midfield,DM,3000000.0,FC Girondins Bordeaux,France,,0
+2006,Serie A,AC Siena,summer,out,Marco Fortin,6808,31,Italy,Goalkeeper,GK,400000.0,Cagliari Calcio,Italy,,0
+2006,Serie A,AC Siena,summer,out,Paolo Foglio,15337,30,Italy,Right-Back,RB,400000.0,Ascoli Calcio 1898,Italy,,0
+2006,Serie A,AC Siena,summer,out,Simone Bonomi,15334,25,Italy,Left-Back,LB,200000.0,FC Crotone,Italy,,0
+2006,Serie A,AC Siena,summer,out,Gennaro Esposito,22823,21,Italy,Defensive Midfield,DM,100000.0,SS Juve Stabia ,Italy,0.0,1
+2006,Serie A,AC Siena,summer,out,Leonardo Blanchard,119366,18,Italy,Centre-Back,CB,,US Poggibonsi,Italy,0.0,1
+2006,Serie A,AC Siena,summer,out,Matteo Paro,7100,23,Italy,Central Midfield,CM,350000.0,Juventus FC,Italy,0.0,1
+2006,Serie A,AC Siena,summer,out,Rey Volpato,35847,19,Italy,Centre-Forward,CF,100000.0,Juventus FC,Italy,0.0,1
+2006,Serie A,AC Siena,summer,out,Massimo Maccarone,3713,26,Italy,Centre-Forward,CF,3500000.0,Middlesbrough FC,England,0.0,1
+2006,Serie A,AC Siena,summer,out,Igor Tudor,5752,28,Croatia,Centre-Back,CB,3500000.0,Juventus FC,Italy,0.0,1
+2006,Serie A,AC Siena,summer,out,Nicola Legrottaglie,5925,29,Italy,Centre-Back,CB,1500000.0,Juventus FC,Italy,0.0,1
+2006,Serie A,AC Siena,winter,out,Andrea Masiello,34198,20,Italy,Centre-Back,CB,50000.0,Genoa CFC,Italy,1080000.0,0
+2006,Serie A,AC Siena,winter,out,Vincent Candela,5939,33,France,Left-Back,LB,1500000.0,FC Messina Peloro,Italy,0.0,0
+2006,Serie A,AC Siena,winter,out,Davide Zomer,21874,29,Italy,Goalkeeper,GK,100000.0,AC Ancona,Italy,,0
+2006,Serie A,AC Siena,winter,out,Gorazd Zajc,38274,19,Slovenia,Centre-Forward,CF,,NK Maribor,Slovenia,,0
+2006,Serie A,AC Siena,winter,out,Roberto D'Aversa,21685,31,Italy,Central Midfield,CM,1000000.0,FC Messina Peloro,Italy,,0
+2006,Serie A,AC Siena,winter,out,Nicola Pavarini,28027,32,Italy,Goalkeeper,GK,600000.0,US Lecce,Italy,0.0,1
+2006,Serie A,AC Siena,winter,out,Leonardo Blanchard,119366,18,Italy,Centre-Back,CB,,Sangimignano Sport,Italy,0.0,1
+2006,Serie A,ACF Fiorentina,summer,in,Adrian Mutu,5879,27,Romania,Left Winger,LW,11000000.0,Juventus FC,Italy,8000000.0,0
+2006,Serie A,ACF Fiorentina,summer,in,Sébastien Frey,5854,26,France,Goalkeeper,GK,15000000.0,Parma FC,Italy,5750000.0,0
+2006,Serie A,ACF Fiorentina,summer,in,Mario Santana,6721,24,Argentina,Right Winger,RW,6500000.0,US Palermo,Italy,5500000.0,0
+2006,Serie A,ACF Fiorentina,summer,in,Massimo Gobbi,28020,25,Italy,Left-Back,LB,2200000.0,Treviso FBC 1993,Italy,3800000.0,0
+2006,Serie A,ACF Fiorentina,summer,in,Francesco Parravicini,23364,24,Italy,Defensive Midfield,DM,900000.0,Treviso FBC 1993,Italy,2700000.0,0
+2006,Serie A,ACF Fiorentina,summer,in,Reginaldo,23365,22,Brazil,Centre-Forward,CF,1500000.0,Treviso FBC 1993,Italy,1500000.0,0
+2006,Serie A,ACF Fiorentina,summer,in,Vlada Avramov,22185,27,Serbia,Goalkeeper,GK,500000.0,Vicenza Calcio,Italy,1200000.0,0
+2006,Serie A,ACF Fiorentina,summer,in,Manuele Blasi,6090,25,Italy,Central Midfield,CM,6000000.0,Juventus FC,Italy,400000.0,1
+2006,Serie A,ACF Fiorentina,summer,in,Fabio Liverani,5846,30,Italy,Defensive Midfield,DM,7000000.0,SS Lazio,Italy,0.0,0
+2006,Serie A,ACF Fiorentina,summer,in,Alessandro Potenza,16828,22,Italy,Right-Back,RB,3000000.0,Inter Milan,Italy,,0
+2006,Serie A,ACF Fiorentina,summer,in,Stefano Del Sante,29608,20,Italy,Centre-Forward,CF,150000.0,AS Pizzighettone,Italy,,0
+2006,Serie A,ACF Fiorentina,winter,in,Zdravko Kuzmanovic,25441,19,Serbia,Central Midfield,CM,800000.0,FC Basel 1893,Switzerland,3000000.0,0
+2006,Serie A,ACF Fiorentina,winter,in,Henry Okoroji,514156,22,Nigeria,Centre-Back,CB,,FC Pro Vasto,Italy,,0
+2006,Serie A,ACF Fiorentina,summer,out,Francesco Parravicini,23364,24,Italy,Defensive Midfield,DM,900000.0,US Palermo,Italy,1500000.0,0
+2006,Serie A,ACF Fiorentina,summer,out,Enrico Fantini,21149,30,Italy,Centre-Forward,CF,500000.0,Bologna FC 1909,Italy,500000.0,0
+2006,Serie A,ACF Fiorentina,summer,out,Gianni Guigou,5954,31,Uruguay,Defensive Midfield,DM,800000.0,Treviso FBC 1993,Italy,500000.0,0
+2006,Serie A,ACF Fiorentina,summer,out,Marco Di Loreto,6083,31,Italy,Centre-Back,CB,1300000.0,Torino FC,Italy,500000.0,0
+2006,Serie A,ACF Fiorentina,summer,out,Christian Maggio,21151,24,Italy,Right-Back,RB,800000.0,UC Sampdoria,Italy,150000.0,1
+2006,Serie A,ACF Fiorentina,summer,out,Gianluca Berti,6010,39,Italy,Goalkeeper,GK,100000.0,UC Sampdoria,Italy,0.0,0
+2006,Serie A,ACF Fiorentina,summer,out,Marco Roccati,6817,31,Italy,Goalkeeper,GK,100000.0,US Ivrea Calcio,Italy,0.0,0
+2006,Serie A,ACF Fiorentina,summer,out,Christian Riganò,21153,32,Italy,Centre-Forward,CF,800000.0,FC Messina Peloro,Italy,,0
+2006,Serie A,ACF Fiorentina,summer,out,Federico Bini,435994,17,Italy,Goalkeeper,GK,,AC Pisa 1909,Italy,,0
+2006,Serie A,ACF Fiorentina,summer,out,Giuseppe Pancaro,5833,34,Italy,Right-Back,RB,1500000.0,Torino FC,Italy,,0
+2006,Serie A,ACF Fiorentina,summer,out,Valeri Bozhinov,4176,20,Bulgaria,Centre-Forward,CF,13000000.0,Juventus FC,Italy,0.0,1
+2006,Serie A,ACF Fiorentina,summer,out,Vlada Avramov,22185,27,Serbia,Goalkeeper,GK,500000.0,Treviso FBC 1993,Italy,0.0,1
+2006,Serie A,ACF Fiorentina,summer,out,Hidetoshi Nakata,5875,29,Japan,Attacking Midfield,AM,3500000.0,Retired,,,0
+2006,Serie A,ACF Fiorentina,summer,out,Luis Jiménez,21821,22,Chile,Attacking Midfield,AM,5000000.0,Ternana Calcio,Italy,0.0,1
+2006,Serie A,ACF Fiorentina,summer,out,Stefano Fiore,5842,31,Italy,Attacking Midfield,AM,8000000.0,Valencia CF,Spain,0.0,1
+2006,Serie A,ACF Fiorentina,summer,out,Sébastien Frey,5854,26,France,Goalkeeper,GK,15000000.0,Parma FC,Italy,0.0,1
+2006,Serie A,ACF Fiorentina,summer,out,Cristian Brocchi,5812,30,Italy,Central Midfield,CM,3000000.0,AC Milan,Italy,0.0,1
+2006,Serie A,ACF Fiorentina,winter,out,Bogdan Lobonț,4310,28,Romania,Goalkeeper,GK,1500000.0,FC Dinamo 1948,Romania,1100000.0,0
+2006,Serie A,ACF Fiorentina,winter,out,Guly,22801,25,Brazil,Attacking Midfield,AM,400000.0,Spezia Calcio 1906,Italy,75000.0,1
+2006,Serie A,ACF Fiorentina,winter,out,Henry Okoroji,514156,22,Nigeria,Centre-Back,CB,,Lokomotiv Plovdiv,Bulgaria,0.0,1
+2006,Serie A,AS Livorno,summer,in,Giovanni Pasquale,5793,24,Italy,Left Midfield,LM,1500000.0,Inter Milan,Italy,800000.0,0
+2006,Serie A,AS Livorno,summer,in,Samuel Kuffour,208,29,Ghana,Centre-Back,CB,2500000.0,AS Roma,Italy,550000.0,1
+2006,Serie A,AS Livorno,summer,in,Rahman Rezaei,5218,31,Iran,Centre-Back,CB,1000000.0,FC Messina Peloro,Italy,500000.0,0
+2006,Serie A,AS Livorno,summer,in,Dario Knezevic,27875,24,Croatia,Centre-Back,CB,,HNK Rijeka,Croatia,500000.0,0
+2006,Serie A,AS Livorno,summer,in,José Luís Vidigal,17407,33,Portugal,Defensive Midfield,DM,1500000.0,Udinese Calcio,Italy,0.0,0
+2006,Serie A,AS Livorno,summer,in,Edo Ekhosuehi,34533,22,Nigeria,Centre-Forward,CF,500000.0,Le Mans Union Club 72,France,0.0,1
+2006,Serie A,AS Livorno,summer,in,Antonio Filippini,5973,33,Italy,Right Midfield,RM,1000000.0,Treviso FBC 1993,Italy,,0
+2006,Serie A,AS Livorno,summer,in,Emanuele Manitta,24327,29,Italy,Goalkeeper,GK,350000.0,Bologna FC 1909,Italy,,0
+2006,Serie A,AS Livorno,summer,in,Simone Pavan,17149,32,Italy,Centre-Back,CB,500000.0,UC Sampdoria,Italy,,0
+2006,Serie A,AS Livorno,summer,in,Niccolò Casini,48707,21,Italy,Goalkeeper,GK,,ASD Rondinella Marzocco,Italy,,0
+2006,Serie A,AS Livorno,summer,in,Nicola Iannotti,48724,21,Italy,Right Midfield,RM,,Novara Calcio 1908,Italy,,0
+2006,Serie A,AS Livorno,summer,in,Umberto Quistelli,1065538,27,Italy,Midfielder,Midfielder,,FC Sporting Genzano,Italy,,0
+2006,Serie A,AS Livorno,summer,in,Carmine Coppola,19203,27,Italy,Central Midfield,CM,2200000.0,FC Messina Peloro,Italy,0.0,1
+2006,Serie A,AS Livorno,winter,in,César,5839,32,Brazil,Left Midfield,LM,2000000.0,Inter Milan,Italy,0.0,1
+2006,Serie A,AS Livorno,winter,in,Martin Bergvold,14963,22,Denmark,Defensive Midfield,DM,375000.0,FC Copenhagen,Denmark,,0
+2006,Serie A,AS Livorno,winter,in,Stefano Fiore,5842,31,Italy,Attacking Midfield,AM,8000000.0,Valencia CF,Spain,0.0,1
+2006,Serie A,AS Livorno,summer,out,Nikola Lazetic,5919,28,Serbia,Right Midfield,RM,1500000.0,Torino FC,Italy,720000.0,0
+2006,Serie A,AS Livorno,summer,out,Jorge Vargas,6061,30,Chile,Centre-Back,CB,1000000.0,Red Bull Salzburg,Austria,0.0,0
+2006,Serie A,AS Livorno,summer,out,Gennaro Ruotolo,21236,39,Italy,Central Midfield,CM,100000.0,Sorrento Calcio,Italy,0.0,0
+2006,Serie A,AS Livorno,summer,out,Edoardo Grosso,144248,19,Italy,Striker,Striker,,US Città di Pontedera,Italy,0.0,0
+2006,Serie A,AS Livorno,summer,out,Emmanuel Osei,28025,23,Ghana,Defensive Midfield,DM,200000.0,ASV Cham,Germany,0.0,0
+2006,Serie A,AS Livorno,summer,out,Nicolás Córdova,21230,27,Chile,Central Midfield,CM,300000.0,FC Messina Peloro,Italy,0.0,0
+2006,Serie A,AS Livorno,summer,out,Paolo Ginestra,29565,27,Italy,Goalkeeper,GK,80000.0,Ternana Calcio,Italy,0.0,0
+2006,Serie A,AS Livorno,summer,out,Francesco De Iuliis,572101,17,Italy,Defender,Defender,,Unknown,,,0
+2006,Serie A,AS Livorno,summer,out,Luca Mazzoni,28023,22,Italy,Goalkeeper,GK,50000.0,Calcio Lecco 1912,Italy,,0
+2006,Serie A,AS Livorno,summer,out,Francesco Coco,3508,29,Italy,Left-Back,LB,1600000.0,Inter Milan,Italy,0.0,1
+2006,Serie A,AS Livorno,summer,out,Paolo Acerbis,22232,25,Italy,Goalkeeper,GK,500000.0,UC AlbinoLeffe,Italy,0.0,1
+2006,Serie A,AS Livorno,summer,out,Zé Rodolpho,32965,21,Brazil,Left Midfield,LM,100000.0,Esporte Clube Juventude,Brazil,0.0,1
+2006,Serie A,AS Livorno,summer,out,Raffaele Palladino,28855,22,Italy,Left Winger,LW,4200000.0,Juventus FC,Italy,0.0,1
+2006,Serie A,AS Livorno,summer,out,Diego De Ascentis,21880,29,Italy,Defensive Midfield,DM,900000.0,Torino FC,Italy,0.0,1
+2006,Serie A,AS Livorno,summer,out,Giuseppe Colucci,6717,25,Italy,Central Midfield,CM,2000000.0,Hellas Verona,Italy,0.0,1
+2006,Serie A,AS Livorno,winter,out,Tomas Danilevičius,4049,28,Lithuania,Centre-Forward,CF,700000.0,Bologna FC 1909,Italy,2000000.0,0
+2006,Serie A,AS Livorno,winter,out,César Prates,7206,31,Brazil,Right-Back,RB,3000000.0,Chievo Verona,Italy,0.0,0
+2006,Serie A,AS Livorno,winter,out,Gabriele Falchini,285497,20,Italy,Centre-Forward,CF,,San Francesco Loano,Italy,0.0,0
+2006,Serie A,AS Livorno,winter,out,Stefano Argilli,15333,33,Italy,Centre-Back,CB,300000.0,Frosinone Calcio,Italy,,0
+2006,Serie A,AS Livorno,winter,out,Luca Vigiani,21237,30,Italy,Right Midfield,RM,600000.0,Reggina Calcio,Italy,,0
+2006,Serie A,AS Livorno,winter,out,Alessandro Stefanini,196628,19,Italy,Midfielder,Midfielder,,AC Pavia,Italy,,0
+2006,Serie A,AS Livorno,winter,out,Andrea Giallombardo,21185,26,Italy,Left-Back,LB,750000.0,FC Messina Peloro,Italy,0.0,1
+2006,Serie A,AS Livorno,winter,out,Edo Ekhosuehi,34533,22,Nigeria,Centre-Forward,CF,500000.0,Le Mans Union Club 72,France,0.0,1
+2006,Serie A,AS Roma,summer,in,David Pizarro,5896,26,Chile,Central Midfield,CM,8000000.0,Inter Milan,Italy,12250000.0,0
+2006,Serie A,AS Roma,summer,in,Mirko Vucinić,6448,22,Montenegro,Centre-Forward,CF,12500000.0,US Lecce,Italy,3250000.0,1
+2006,Serie A,AS Roma,summer,in,Marco Cassetti,16975,29,Italy,Right-Back,RB,6000000.0,US Lecce,Italy,2350000.0,0
+2006,Serie A,AS Roma,summer,in,Valerio Virga,24062,20,Italy,Right-Back,RB,600000.0,US Palermo,Italy,500000.0,0
+2006,Serie A,AS Roma,summer,in,Édgar Álvarez,28006,26,Honduras,Right Midfield,RM,600000.0,CA Peñarol,Uruguay,400000.0,0
+2006,Serie A,AS Roma,summer,in,Júlio Sérgio,20052,27,Brazil,Goalkeeper,GK,,Esporte Clube Juventude,Brazil,400000.0,0
+2006,Serie A,AS Roma,summer,in,Rodrigo Defendi,18981,20,Brazil,Centre-Back,CB,700000.0,Tottenham Hotspur,England,375000.0,1
+2006,Serie A,AS Roma,summer,in,Ricardo Faty,33953,19,Senegal,Defensive Midfield,DM,300000.0,RC Strasbourg Alsace,France,360000.0,0
+2006,Serie A,AS Roma,summer,in,Gilberto Martínez,5969,26,Costa Rica,Centre-Back,CB,3000000.0,Brescia Calcio,Italy,250000.0,1
+2006,Serie A,AS Roma,summer,in,Max Tonetto,6447,31,Italy,Left-Back,LB,1700000.0,UC Sampdoria,Italy,0.0,0
+2006,Serie A,AS Roma,winter,in,Francesco Tavano,6020,27,Italy,Centre-Forward,CF,8500000.0,Valencia CF,Spain,580000.0,1
+2006,Serie A,AS Roma,winter,in,Christian Wilhelmsson,9611,27,Sweden,Right Winger,RW,3000000.0,FC Nantes,France,500000.0,1
+2006,Serie A,AS Roma,summer,out,Mido,4329,23,Egypt,Centre-Forward,CF,10500000.0,Tottenham Hotspur,England,6750000.0,0
+2006,Serie A,AS Roma,summer,out,Cesare Bovo,5946,23,Italy,Centre-Back,CB,4500000.0,US Palermo,Italy,3550000.0,0
+2006,Serie A,AS Roma,summer,out,Leandro Cufré,5945,28,Argentina,Left-Back,LB,4000000.0,AS Monaco,France,2100000.0,0
+2006,Serie A,AS Roma,summer,out,Ivan Pelizzoli,5936,25,Italy,Goalkeeper,GK,3000000.0,Reggina Calcio,Italy,2000000.0,0
+2006,Serie A,AS Roma,summer,out,Gaetano D'Agostino,6157,24,Italy,Central Midfield,CM,5000000.0,Udinese Calcio,Italy,1200000.0,0
+2006,Serie A,AS Roma,summer,out,Alessandro Tulli,21962,24,Italy,Centre-Forward,CF,700000.0,US Lecce,Italy,600000.0,0
+2006,Serie A,AS Roma,summer,out,Samuel Kuffour,208,29,Ghana,Centre-Back,CB,2500000.0,AS Livorno,Italy,550000.0,1
+2006,Serie A,AS Roma,summer,out,Daniele Corvia,16863,21,Italy,Centre-Forward,CF,2000000.0,AC Siena,Italy,400000.0,0
+2006,Serie A,AS Roma,summer,out,Édgar Álvarez,28006,26,Honduras,Right Midfield,RM,600000.0,FC Messina Peloro,Italy,300000.0,1
+2006,Serie A,AS Roma,summer,out,Gianluca Galasso,38648,22,Italy,Right-Back,RB,50000.0,Frosinone Calcio,Italy,250000.0,1
+2006,Serie A,AS Roma,summer,out,Daniele Galloppa,22594,21,Italy,Central Midfield,CM,600000.0,Ascoli Calcio 1898,Italy,150000.0,1
+2006,Serie A,AS Roma,summer,out,Damiano Tommasi,5951,32,Italy,Central Midfield,CM,750000.0,Levante UD,Spain,0.0,0
+2006,Serie A,AS Roma,summer,out,Olivier Dacourt,3572,31,France,Defensive Midfield,DM,5000000.0,Inter Milan,Italy,0.0,0
+2006,Serie A,AS Roma,summer,out,Alessio Cerci,21748,19,Italy,Right Winger,RW,800000.0,Brescia Calcio,Italy,0.0,1
+2006,Serie A,AS Roma,summer,out,Adewale Dauda Wahab,16864,21,Nigeria,Central Midfield,CM,200000.0,Catanzaro FC,Italy,0.0,1
+2006,Serie A,AS Roma,summer,out,Shabani Nonda,3499,29,DR Congo,Centre-Forward,CF,6000000.0,Blackburn Rovers,England,0.0,1
+2006,Serie A,AS Roma,summer,out,Édgar Álvarez,28006,26,Honduras,Right Midfield,RM,600000.0,CA Peñarol,Uruguay,0.0,1
+2006,Serie A,AS Roma,summer,out,Houssine Kharja,21822,23,Morocco,Central Midfield,CM,800000.0,Ternana Calcio,Italy,0.0,1
+2006,Serie A,AS Roma,summer,out,Dimitrios Eleftheropoulos,9685,29,Greece,Goalkeeper,GK,600000.0,AC Milan,Italy,0.0,1
+2006,Serie A,AS Roma,winter,out,Gianluca Comotto,16685,27,Italy,Right-Back,RB,600000.0,Torino FC,Italy,2200000.0,0
+2006,Serie A,AS Roma,winter,out,Carlo Zotti,16865,24,Italy,Goalkeeper,GK,200000.0,UC Sampdoria,Italy,165000.0,1
+2006,Serie A,AS Roma,winter,out,Vincenzo Montella,5960,32,Italy,Centre-Forward,CF,7000000.0,Fulham FC,England,0.0,1
+2006,Serie A,AS Roma,winter,out,Daniele Galloppa,22594,21,Italy,Central Midfield,CM,600000.0,AC Siena,Italy,0.0,1
+2006,Serie A,Ascoli Calcio 1898,summer,in,Stefano Guberti,41310,21,Italy,Left Winger,LW,,Polisportiva Sassari Torres,Italy,300000.0,0
+2006,Serie A,Ascoli Calcio 1898,summer,in,Daniele Galloppa,22594,21,Italy,Central Midfield,CM,600000.0,AS Roma,Italy,150000.0,1
+2006,Serie A,Ascoli Calcio 1898,summer,in,Valentin Năstase,28024,31,Romania,Centre-Back,CB,100000.0,Bologna FC 1909,Italy,0.0,0
+2006,Serie A,Ascoli Calcio 1898,summer,in,Simone Pesce,41312,23,Italy,Defensive Midfield,DM,,Polisportiva Sassari Torres,Italy,0.0,0
+2006,Serie A,Ascoli Calcio 1898,summer,in,Olivier N’Siabamfumu,41750,20,France,Centre-Back,CB,,Stade Rennais FC B,France,0.0,0
+2006,Serie A,Ascoli Calcio 1898,summer,in,Dimitrios Eleftheropoulos,9685,29,Greece,Goalkeeper,GK,600000.0,AC Milan,Italy,0.0,0
+2006,Serie A,Ascoli Calcio 1898,summer,in,Marco Delvecchio,5961,33,Italy,Centre-Forward,CF,750000.0,Parma FC,Italy,0.0,0
+2006,Serie A,Ascoli Calcio 1898,summer,in,Fabio Pecchia,16871,32,Italy,Central Midfield,CM,1000000.0,Bologna FC 1909,Italy,0.0,0
+2006,Serie A,Ascoli Calcio 1898,summer,in,Paolo Zanetti,6405,23,Italy,Defensive Midfield,DM,600000.0,FC Empoli,Italy,0.0,0
+2006,Serie A,Ascoli Calcio 1898,summer,in,Gianluca Pagliuca,5985,39,Italy,Goalkeeper,GK,300000.0,Bologna FC 1909,Italy,0.0,0
+2006,Serie A,Ascoli Calcio 1898,summer,in,Ervin Skela,1462,29,Albania,Attacking Midfield,AM,1100000.0,1.FC Kaiserslautern,Germany,0.0,0
+2006,Serie A,Ascoli Calcio 1898,summer,in,Michelangelo Minieri,21940,25,Italy,Centre-Back,CB,400000.0,US Triestina,Italy,,0
+2006,Serie A,Ascoli Calcio 1898,summer,in,Thomas Job,16897,21,Cameroon,Right Winger,RW,250000.0,UC Sampdoria,Italy,,0
+2006,Serie A,Ascoli Calcio 1898,summer,in,Marco Pecorari,21950,28,Italy,Centre-Back,CB,500000.0,US Lecce,Italy,,0
+2006,Serie A,Ascoli Calcio 1898,summer,in,Gaetano Fontana,21150,36,Italy,Defensive Midfield,DM,150000.0,SSC Napoli,Italy,,0
+2006,Serie A,Ascoli Calcio 1898,summer,in,Gaetano Vastola,32112,28,Italy,Right-Back,RB,150000.0,Salernitana Calcio 1919,Italy,,0
+2006,Serie A,Ascoli Calcio 1898,summer,in,Giampietro Perrulli,39985,21,Italy,Left Winger,LW,175000.0,US Sambenedettese,Italy,,0
+2006,Serie A,Ascoli Calcio 1898,summer,in,Paolo Foglio,15337,30,Italy,Right-Back,RB,400000.0,AC Siena,Italy,,0
+2006,Serie A,Ascoli Calcio 1898,summer,in,Viktor Budyanskiy,34194,22,Russia,Central Midfield,CM,100000.0,Juventus Primavera,Italy,0.0,1
+2006,Serie A,Ascoli Calcio 1898,summer,in,Michele Paolucci,41311,20,Italy,Centre-Forward,CF,,Juventus FC,Italy,0.0,1
+2006,Serie A,Ascoli Calcio 1898,summer,in,Aleksandar Lukovic,19712,23,Serbia,Centre-Back,CB,3000000.0,Udinese Calcio,Italy,0.0,1
+2006,Serie A,Ascoli Calcio 1898,winter,in,Luis Fernando Centi,28864,30,Italy,Central Midfield,CM,400000.0,Atalanta BC,Italy,725000.0,0
+2006,Serie A,Ascoli Calcio 1898,winter,in,Andrea Soncin,21157,28,Italy,Centre-Forward,CF,200000.0,Atalanta BC,Italy,,0
+2006,Serie A,Ascoli Calcio 1898,winter,in,Stefano Lombardi,15462,30,Italy,Centre-Back,CB,50000.0,AC Arezzo,Italy,,0
+2006,Serie A,Ascoli Calcio 1898,winter,in,Matteo Melara,21187,27,Italy,Right-Back,RB,800000.0,Torino FC,Italy,0.0,1
+2006,Serie A,Ascoli Calcio 1898,winter,in,Massimo Bonanni,22188,24,Italy,Left Midfield,LM,2000000.0,UC Sampdoria,Italy,0.0,1
+2006,Serie A,Ascoli Calcio 1898,winter,in,Luigi Di Biagio,7927,35,Italy,Defensive Midfield,DM,825000.0,Without Club,,,0
+2006,Serie A,Ascoli Calcio 1898,summer,out,Andrea Parola,21949,27,Italy,Defensive Midfield,DM,1000000.0,UC Sampdoria,Italy,900000.0,0
+2006,Serie A,Ascoli Calcio 1898,summer,out,Angelo Antonazzo,38577,24,Italy,Right-Back,RB,200000.0,Modena FC,Italy,300000.0,0
+2006,Serie A,Ascoli Calcio 1898,summer,out,Ferdinando Coppola,5986,28,Italy,Goalkeeper,GK,1500000.0,AC Milan,Italy,200000.0,0
+2006,Serie A,Ascoli Calcio 1898,summer,out,Domenico Cristiano,22314,30,Italy,Defensive Midfield,DM,500000.0,Rimini FC,Italy,0.0,0
+2006,Serie A,Ascoli Calcio 1898,summer,out,Marco Ferrante,21883,35,Italy,Centre-Forward,CF,800000.0,Pescara Calcio,Italy,0.0,0
+2006,Serie A,Ascoli Calcio 1898,summer,out,Alfredo Cariello,16981,26,Italy,Left Midfield,LM,100000.0,FC Crotone,Italy,0.0,0
+2006,Serie A,Ascoli Calcio 1898,summer,out,Ivano Della Morte,5926,31,Italy,Central Midfield,CM,50000.0,US Alessandria Calcio 1912,Italy,0.0,0
+2006,Serie A,Ascoli Calcio 1898,summer,out,Marco Pecorari,21950,28,Italy,Centre-Back,CB,500000.0,Spezia Calcio 1906,Italy,,0
+2006,Serie A,Ascoli Calcio 1898,summer,out,Massimo Paci,28026,28,Italy,Centre-Back,CB,400000.0,Parma FC,Italy,,0
+2006,Serie A,Ascoli Calcio 1898,summer,out,Daniele Adani,5774,32,Italy,Centre-Back,CB,450000.0,FC Empoli,Italy,,0
+2006,Serie A,Ascoli Calcio 1898,summer,out,Maurizio Lauro,28823,25,Italy,Centre-Back,CB,500000.0,AC Cesena,Italy,,0
+2006,Serie A,Ascoli Calcio 1898,summer,out,Michele Lestani,344374,20,Italy,Central Midfield,CM,,Alghero 1945,Italy,,0
+2006,Serie A,Ascoli Calcio 1898,summer,out,Cristiano Del Grosso,34211,23,Italy,Left-Back,LB,300000.0,Cagliari Calcio,Italy,,0
+2006,Serie A,Ascoli Calcio 1898,summer,out,Roberto Guana,5976,25,Italy,Central Midfield,CM,1500000.0,Brescia Calcio,Italy,,0
+2006,Serie A,Ascoli Calcio 1898,summer,out,Vincenzo Patrick Guglielmelli,342757,19,Italy,Striker,Striker,,AS Viterbese Calcio,Italy,,0
+2006,Serie A,Ascoli Calcio 1898,summer,out,Alessandro Moro,39849,21,Italy,Defensive Midfield,DM,200000.0,Treviso FBC 1993,Italy,,0
+2006,Serie A,Ascoli Calcio 1898,summer,out,Maurizio Domizzi,6750,25,Italy,Centre-Back,CB,800000.0,UC Sampdoria,Italy,0.0,1
+2006,Serie A,Ascoli Calcio 1898,summer,out,Fabio Quagliarella,22328,23,Italy,Centre-Forward,CF,1800000.0,Udinese Calcio,Italy,0.0,1
+2006,Serie A,Ascoli Calcio 1898,summer,out,Pasquale Foggia,17175,23,Italy,Attacking Midfield,AM,2500000.0,FC Empoli,Italy,0.0,1
+2006,Serie A,Ascoli Calcio 1898,summer,out,Paul Ramirez,84665,19,Venezuela,Centre-Forward,CF,,Udinese Calcio,Italy,0.0,1
+2006,Serie A,Ascoli Calcio 1898,summer,out,Francesco Carbone,7106,26,Italy,Right-Back,RB,100000.0,Chievo Verona,Italy,0.0,1
+2006,Serie A,Ascoli Calcio 1898,summer,out,Ivan Buonocunto,138392,20,Italy,Attacking Midfield,AM,,Udinese Calcio,Italy,0.0,1
+2006,Serie A,Ascoli Calcio 1898,summer,out,Valerio Virga,24062,20,Italy,Right-Back,RB,600000.0,US Palermo,Italy,0.0,1
+2006,Serie A,Ascoli Calcio 1898,summer,out,Schumacher,44662,19,Brazil,Centre-Forward,CF,,Atlético Paranaense,Brazil,0.0,1
+2006,Serie A,Ascoli Calcio 1898,summer,out,Nicolás Córdova,21230,27,Chile,Central Midfield,CM,300000.0,AS Livorno,Italy,0.0,1
+2006,Serie A,Ascoli Calcio 1898,summer,out,Carlo Zotti,16865,23,Italy,Goalkeeper,GK,200000.0,AS Roma,Italy,0.0,1
+2006,Serie A,Ascoli Calcio 1898,summer,out,Gianluca Comotto,16685,27,Italy,Right-Back,RB,600000.0,AS Roma,Italy,0.0,1
+2006,Serie A,Ascoli Calcio 1898,summer,out,Riccardo Bonetto,17173,27,Italy,Left-Back,LB,800000.0,FC Empoli,Italy,0.0,1
+2006,Serie A,Ascoli Calcio 1898,winter,out,Salvatore Bocchetti,42678,20,Italy,Centre-Back,CB,50000.0,Frosinone Calcio,Italy,1900000.0,0
+2006,Serie A,Ascoli Calcio 1898,winter,out,Ervin Skela,1462,30,Albania,Attacking Midfield,AM,1100000.0,FC Energie Cottbus,Germany,0.0,0
+2006,Serie A,Ascoli Calcio 1898,winter,out,Andrade,54703,27,Portugal,Goalkeeper,GK,,Duque de Caxias FC (RJ),Brazil,0.0,0
+2006,Serie A,Ascoli Calcio 1898,winter,out,Mirko Cudini,8551,33,Italy,Centre-Back,CB,200000.0,Vicenza Calcio,Italy,,0
+2006,Serie A,Ascoli Calcio 1898,winter,out,Fabio Pecchia,16871,33,Italy,Central Midfield,CM,1000000.0,US Foggia,Italy,,0
+2006,Serie A,Ascoli Calcio 1898,winter,out,Aleksandar Lukovic,19712,24,Serbia,Centre-Back,CB,3000000.0,Udinese Calcio,Italy,0.0,1
+2006,Serie A,Ascoli Calcio 1898,winter,out,Daniele Galloppa,22594,21,Italy,Central Midfield,CM,600000.0,AS Roma,Italy,0.0,1
+2006,Serie A,Atalanta BC,summer,in,Moris Carrozzieri,6747,25,Italy,Centre-Back,CB,100000.0,UC Sampdoria,Italy,1970000.0,0
+2006,Serie A,Atalanta BC,summer,in,Fernando Tissone,35871,20,Argentina,Defensive Midfield,DM,2000000.0,Udinese Calcio,Italy,1500000.0,0
+2006,Serie A,Atalanta BC,summer,in,Leonardo Talamonti,22960,24,Argentina,Centre-Back,CB,4000000.0,CA River Plate,Argentina,750000.0,1
+2006,Serie A,Atalanta BC,summer,in,Cristiano Doni,6195,33,Italy,Attacking Midfield,AM,800000.0,RCD Mallorca,Spain,0.0,0
+2006,Serie A,Atalanta BC,summer,in,Nelson Abeijón,20725,33,Uruguay,Defensive Midfield,DM,1000000.0,Cagliari Calcio,Italy,0.0,0
+2006,Serie A,Atalanta BC,summer,in,Christian Vieri,5797,33,Italy,Centre-Forward,CF,8000000.0,UC Sampdoria,Italy,0.0,0
+2006,Serie A,Atalanta BC,summer,in,Ferreira Pinto,22811,26,Brazil,Right Winger,RW,,AC Cesena,Italy,,0
+2006,Serie A,Atalanta BC,summer,in,Kewullay Conteh,20917,28,Sierra Leone,Centre-Back,CB,300000.0,US Palermo,Italy,0.0,1
+2006,Serie A,Atalanta BC,summer,in,Massimo Donati,5870,25,Italy,Defensive Midfield,DM,2500000.0,AC Milan,Italy,0.0,1
+2006,Serie A,Atalanta BC,summer,out,Christian Tiboni,44376,18,Italy,Centre-Forward,CF,,Udinese Calcio,Italy,1100000.0,0
+2006,Serie A,Atalanta BC,summer,out,Igor Budan,19437,26,Croatia,Centre-Forward,CF,3000000.0,US Palermo,Italy,1000000.0,0
+2006,Serie A,Atalanta BC,summer,out,Biagio Pagano,16899,23,Italy,Right Winger,RW,500000.0,UC Sampdoria,Italy,250000.0,0
+2006,Serie A,Atalanta BC,summer,out,Andrea Lombardo,19774,19,Canada,Striker,Striker,,FC Rieti,Italy,175000.0,1
+2006,Serie A,Atalanta BC,summer,out,Duccio Innocenti,6164,30,Italy,Centre-Back,CB,350000.0,UC AlbinoLeffe,Italy,0.0,0
+2006,Serie A,Atalanta BC,summer,out,Michele Marcolini,19443,30,Italy,Central Midfield,CM,900000.0,Chievo Verona,Italy,,0
+2006,Serie A,Atalanta BC,summer,out,Luca Saudati,6029,28,Italy,Centre-Forward,CF,600000.0,FC Empoli,Italy,,0
+2006,Serie A,Atalanta BC,summer,out,Ernesto Terra,22095,28,Italy,Centre-Back,CB,300000.0,AC Arezzo,Italy,,0
+2006,Serie A,Atalanta BC,summer,out,Daniele Capelli,30332,20,Italy,Centre-Back,CB,500000.0,AC Arezzo,Italy,0.0,1
+2006,Serie A,Atalanta BC,summer,out,Andrea Consigli,35865,19,Italy,Goalkeeper,GK,50000.0,US Sambenedettese,Italy,0.0,1
+2006,Serie A,Atalanta BC,summer,out,Daniel Osvaldo,37389,20,Italy,Centre-Forward,CF,,US Lecce,Italy,0.0,1
+2006,Serie A,Atalanta BC,summer,out,Thomas Manfredini,5889,26,Italy,Centre-Back,CB,400000.0,Bologna FC 1909,Italy,0.0,1
+2006,Serie A,Atalanta BC,summer,out,Andrea Lazzari,19442,21,Italy,Central Midfield,CM,2000000.0,AC Cesena,Italy,0.0,1
+2006,Serie A,Atalanta BC,summer,out,Antonino D'Agostino,23353,27,Italy,Right Midfield,RM,,Cagliari Calcio,Italy,0.0,1
+2006,Serie A,Atalanta BC,summer,out,Alberto Filippini,85009,19,Italy,Attacking Midfield,AM,,Salernitana Calcio 1919,Italy,0.0,1
+2006,Serie A,Atalanta BC,summer,out,Andrea Lombardo,19774,19,Canada,Striker,Striker,,Perugia Calcio,Italy,0.0,1
+2006,Serie A,Atalanta BC,winter,out,Luis Fernando Centi,28864,30,Italy,Central Midfield,CM,400000.0,Ascoli Calcio 1898,Italy,725000.0,0
+2006,Serie A,Atalanta BC,winter,out,Giovanni Pagnoni,585891,20,Italy,Midfielder,Midfielder,,ASD Nuova Vis Pesaro 2006,Italy,0.0,0
+2006,Serie A,Atalanta BC,winter,out,Andrea Soncin,21157,28,Italy,Centre-Forward,CF,200000.0,Ascoli Calcio 1898,Italy,,0
+2006,Serie A,Atalanta BC,winter,out,Michele Magrin,43013,21,Italy,Central Midfield,CM,150000.0,US Pro Vercelli,Italy,0.0,1
+2006,Serie A,Atalanta BC,winter,out,Alessio Manzoni,23022,19,Italy,Central Midfield,CM,50000.0,Calcio Padova,Italy,0.0,1
+2006,Serie A,Atalanta BC,winter,out,Alberto Filippini,85009,19,Italy,Attacking Midfield,AM,,US Sassuolo,Italy,0.0,1
+2006,Serie A,Atalanta BC,winter,out,Andrea Lazzari,19442,22,Italy,Central Midfield,CM,2000000.0,Piacenza FC,Italy,0.0,1
+2006,Serie A,Cagliari Calcio,summer,in,Paolo Bianco,22102,28,Italy,Centre-Back,CB,200000.0,Calcio Catania,Italy,700000.0,1
+2006,Serie A,Cagliari Calcio,summer,in,Semedo,33710,21,Portugal,Defensive Midfield,DM,300000.0,Sporting CP,Portugal,0.0,0
+2006,Serie A,Cagliari Calcio,summer,in,Marco Fortin,6808,31,Italy,Goalkeeper,GK,400000.0,AC Siena,Italy,,0
+2006,Serie A,Cagliari Calcio,summer,in,Leonardo Colucci,6000,33,Italy,Central Midfield,CM,200000.0,Bologna FC 1909,Italy,,0
+2006,Serie A,Cagliari Calcio,summer,in,Cristiano Del Grosso,34211,23,Italy,Left-Back,LB,300000.0,Ascoli Calcio 1898,Italy,,0
+2006,Serie A,Cagliari Calcio,summer,in,Davide Biondini,22186,23,Italy,Central Midfield,CM,700000.0,Reggina Calcio,Italy,0.0,1
+2006,Serie A,Cagliari Calcio,summer,in,Gabriel Peñalba,30929,21,Argentina,Central Midfield,CM,,Quilmes AC,Argentina,0.0,1
+2006,Serie A,Cagliari Calcio,summer,in,Simone Pepe,17249,22,Italy,Right Winger,RW,2800000.0,Udinese Calcio,Italy,0.0,1
+2006,Serie A,Cagliari Calcio,summer,in,Antonino D'Agostino,23353,27,Italy,Right Midfield,RM,,Atalanta BC,Italy,0.0,1
+2006,Serie A,Cagliari Calcio,winter,in,Davide Marchini,38596,25,Italy,Right Midfield,RM,50000.0,US Triestina,Italy,,0
+2006,Serie A,Cagliari Calcio,winter,in,Tiziano Bruzzone,48561,22,Italy,Centre-Forward,CF,,Cascina,Italy,,0
+2006,Serie A,Cagliari Calcio,summer,out,Nelson Abeijón,20725,33,Uruguay,Defensive Midfield,DM,1000000.0,Atalanta BC,Italy,0.0,0
+2006,Serie A,Cagliari Calcio,summer,out,Andrea Campagnolo,21913,28,Italy,Goalkeeper,GK,300000.0,Reggina Calcio,Italy,0.0,0
+2006,Serie A,Cagliari Calcio,summer,out,Nicola Lai,789739,20,Italy,Midfielder,Midfielder,,FC Rieti,Italy,,0
+2006,Serie A,Cagliari Calcio,summer,out,Luca Tomasig,35740,23,Italy,Goalkeeper,GK,50000.0,Catanzaro FC,Italy,,0
+2006,Serie A,Cagliari Calcio,summer,out,Jaime Penedo,43851,24,Panama,Goalkeeper,GK,,CA Osasuna Promesas,Spain,,0
+2006,Serie A,Cagliari Calcio,summer,out,Andrea Cossu,21861,26,Italy,Attacking Midfield,AM,1200000.0,Hellas Verona,Italy,,0
+2006,Serie A,Cagliari Calcio,summer,out,Fabio Vignati,35742,22,Italy,Centre-Back,CB,50000.0,AC Cesena,Italy,,0
+2006,Serie A,Cagliari Calcio,summer,out,Francesco Bega,21904,31,Italy,Centre-Back,CB,400000.0,Genoa CFC,Italy,,0
+2006,Serie A,Cagliari Calcio,summer,out,Claudio Pani,35730,20,Italy,Defensive Midfield,DM,50000.0,AC Pistoiese,Italy,0.0,1
+2006,Serie A,Cagliari Calcio,summer,out,Fabián Carini,13444,26,Uruguay,Goalkeeper,GK,900000.0,Inter Milan,Italy,0.0,1
+2006,Serie A,Cagliari Calcio,winter,out,Andrea Peana,35731,20,Italy,Centre-Back,CB,50000.0,US Triestina,Italy,0.0,0
+2006,Serie A,Cagliari Calcio,winter,out,Andrea Cocco,35719,20,Italy,Centre-Forward,CF,100000.0,SSC Venezia,Italy,0.0,1
+2006,Serie A,Calcio Catania,summer,in,Mark Edusei,21788,29,Ghana,Defensive Midfield,DM,600000.0,UC Sampdoria,Italy,270000.0,0
+2006,Serie A,Calcio Catania,summer,in,Mariano Izco,30853,23,Argentina,Central Midfield,CM,,Club Atlético Tigre,Argentina,60000.0,0
+2006,Serie A,Calcio Catania,summer,in,Juan Manuel Vargas,30584,22,Peru,Left-Back,LB,400000.0,CA Colón,Argentina,0.0,0
+2006,Serie A,Calcio Catania,summer,in,Fausto Rossini,16872,28,Italy,Centre-Forward,CF,1500000.0,Udinese Calcio,Italy,0.0,0
+2006,Serie A,Calcio Catania,summer,in,Giorgio Corona,24318,32,Italy,Centre-Forward,CF,250000.0,Catanzaro FC,Italy,0.0,0
+2006,Serie A,Calcio Catania,summer,in,Walter García,19972,22,Argentina,Centre-Back,CB,750000.0,Rubin Kazan,Russia,,0
+2006,Serie A,Calcio Catania,summer,in,Vincenzo Ferrante,44258,19,Italy,Goalkeeper,GK,,Paganese Calcio 1926,Italy,,0
+2006,Serie A,Calcio Catania,summer,in,Gennaro Sardo,21770,27,Italy,Right-Back,RB,300000.0,Piacenza FC,Italy,,0
+2006,Serie A,Calcio Catania,summer,in,Gianvito Plasmati,44116,23,Italy,Centre-Forward,CF,,AS Andria BAT,Italy,,0
+2006,Serie A,Calcio Catania,summer,in,Giuseppe Colucci,6717,25,Italy,Central Midfield,CM,2000000.0,Hellas Verona,Italy,,0
+2006,Serie A,Calcio Catania,summer,in,Mauro Minelli,21693,25,Italy,Centre-Back,CB,550000.0,UC AlbinoLeffe,Italy,,0
+2006,Serie A,Calcio Catania,summer,in,Francesco Millesi,32098,25,Italy,Left Winger,LW,800000.0,US Avellino,Italy,,0
+2006,Serie A,Calcio Catania,summer,in,Gianluca Falsini,6063,30,Italy,Left-Back,LB,1000000.0,AC Siena,Italy,,0
+2006,Serie A,Calcio Catania,summer,in,Lorenzo Stovini,6446,29,Italy,Centre-Back,CB,800000.0,US Lecce,Italy,,0
+2006,Serie A,Calcio Catania,summer,in,Takayuki Morimoto,42417,18,Japan,Centre-Forward,CF,,Tokyo Verdy 1969,Japan,0.0,1
+2006,Serie A,Calcio Catania,winter,in,Raffaele Ioime,57645,19,Italy,Goalkeeper,GK,,AS Cosenza Calcio,Italy,0.0,0
+2006,Serie A,Calcio Catania,winter,in,Marco Biagianti,47646,22,Italy,Defensive Midfield,DM,,FC Pro Vasto,Italy,,0
+2006,Serie A,Calcio Catania,summer,out,Roberto De Zerbi,23194,27,Italy,Attacking Midfield,AM,400000.0,SSC Napoli,Italy,2500000.0,0
+2006,Serie A,Calcio Catania,summer,out,Paolo Bianco,22102,28,Italy,Centre-Back,CB,200000.0,Cagliari Calcio,Italy,700000.0,1
+2006,Serie A,Calcio Catania,summer,out,Vito Laudicina,498040,17,Italy,Goalkeeper,GK,,Città di Carini,Italy,0.0,0
+2006,Serie A,Calcio Catania,summer,out,Antonino Cardinale,29591,30,Italy,Central Midfield,CM,250000.0,US Foggia,Italy,0.0,0
+2006,Serie A,Calcio Catania,summer,out,Matteo Gritti,102534,19,Italy,Centre-Back,CB,,AS Andria BAT,Italy,,0
+2006,Serie A,Calcio Catania,summer,out,Adriano Mezavilla,67500,23,Brazil,Defensive Midfield,DM,,AC Cesena,Italy,,0
+2006,Serie A,Calcio Catania,summer,out,Orazio Russo,22124,32,Italy,Right Winger,RW,100000.0,Calcio Padova,Italy,,0
+2006,Serie A,Calcio Catania,summer,out,Ezio Brevi,22189,36,Italy,Defensive Midfield,DM,,AC Siena,Italy,,0
+2006,Serie A,Calcio Catania,summer,out,Luciano Zavagno,13502,28,Argentina,Left-Back,LB,350000.0,Ionikos Nikeas,Greece,,0
+2006,Serie A,Calcio Catania,summer,out,Rocco Sabato,20747,24,Italy,Left-Back,LB,100000.0,AC Cesena,Italy,0.0,1
+2006,Serie A,Calcio Catania,summer,out,Gianvito Plasmati,44116,23,Italy,Centre-Forward,CF,,FC Crotone,Italy,0.0,1
+2006,Serie A,Calcio Catania,summer,out,Stefano Dall'Acqua,23352,24,Italy,Centre-Forward,CF,,Treviso FBC 1993,Italy,0.0,1
+2006,Serie A,Calcio Catania,summer,out,Giovanni Marchese,21887,21,Italy,Left-Back,LB,100000.0,Chievo Verona,Italy,0.0,1
+2006,Serie A,Calcio Catania,winter,out,Renato Olive,5998,35,Italy,Central Midfield,CM,400000.0,Bologna FC 1909,Italy,0.0,0
+2006,Serie A,Calcio Catania,winter,out,Umberto Del Core,23195,27,Italy,Centre-Forward,CF,400000.0,AC Cesena,Italy,0.0,1
+2006,Serie A,Calcio Catania,winter,out,Walter García,19972,22,Argentina,Centre-Back,CB,750000.0,Quilmes AC,Argentina,,0
+2006,Serie A,Calcio Catania,winter,out,Maurizio Anastasi,22098,29,Italy,Defensive Midfield,DM,200000.0,AC Cesena,Italy,0.0,1
+2006,Serie A,Calcio Catania,winter,out,Riccardo Nardini,38600,23,Italy,Central Midfield,CM,75000.0,Reggina Calcio,Italy,0.0,1
+2006,Serie A,Calcio Catania,winter,out,Ciro Polito,22123,27,Italy,Goalkeeper,GK,50000.0,Pescara Calcio,Italy,0.0,1
+2006,Serie A,Chievo Verona,summer,in,Erjon Bogdani,6075,29,Albania,Centre-Forward,CF,3250000.0,AC Siena,Italy,3000000.0,0
+2006,Serie A,Chievo Verona,summer,in,Denis Godeas,21926,31,Italy,Centre-Forward,CF,800000.0,US Palermo,Italy,700000.0,0
+2006,Serie A,Chievo Verona,summer,in,Kamil Kosowski,6255,28,Poland,Left Midfield,LM,1250000.0,Wisla Kraków,Poland,500000.0,1
+2006,Serie A,Chievo Verona,summer,in,Simone Bentivoglio,34909,21,Italy,Central Midfield,CM,50000.0,Juventus FC,Italy,220000.0,0
+2006,Serie A,Chievo Verona,summer,in,Carlo Ferrario,105676,19,Italy,Centre-Forward,CF,,Calcio Lecco 1912,Italy,1000.0,0
+2006,Serie A,Chievo Verona,summer,in,Diego Oliveira,82689,20,Brazil,Right Winger,RW,,Calcio Padova,Italy,,0
+2006,Serie A,Chievo Verona,summer,in,Mattia Passarini,41936,25,Italy,Goalkeeper,GK,,FC Vittoria,Italy,,0
+2006,Serie A,Chievo Verona,summer,in,Martino Olivetti,491803,21,Italy,Midfielder,Midfielder,,Milan Primavera,Italy,,0
+2006,Serie A,Chievo Verona,summer,in,Michele Marcolini,19443,30,Italy,Central Midfield,CM,900000.0,Atalanta BC,Italy,,0
+2006,Serie A,Chievo Verona,summer,in,Vincenzo Sicignano,16978,31,Italy,Goalkeeper,GK,600000.0,US Lecce,Italy,,0
+2006,Serie A,Chievo Verona,summer,in,Lorenzo Cecchi,144115,17,Italy,Defensive Midfield,DM,,AC Prato,Italy,0.0,1
+2006,Serie A,Chievo Verona,winter,in,Giuseppe Cozzolino,32963,21,Italy,Centre-Forward,CF,800000.0,US Lecce,Italy,300000.0,0
+2006,Serie A,Chievo Verona,winter,in,César Prates,7206,31,Brazil,Right-Back,RB,3000000.0,AS Livorno,Italy,0.0,0
+2006,Serie A,Chievo Verona,winter,in,Xhulian Rrudho,48746,19,Albania,Centre-Forward,CF,,AC Ancona,Italy,0.0,0
+2006,Serie A,Chievo Verona,winter,in,Vincenzo Italiano,21865,29,Italy,Central Midfield,CM,700000.0,Hellas Verona,Italy,,0
+2006,Serie A,Chievo Verona,winter,in,Michele Troiano,28849,21,Italy,Defensive Midfield,DM,200000.0,Modena FC,Italy,,0
+2006,Serie A,Chievo Verona,winter,in,Emanuele Concetti,5828,28,Italy,Goalkeeper,GK,70000.0,US Sambenedettese,Italy,,0
+2006,Serie A,Chievo Verona,winter,in,Alessandro Tamai,48754,18,Italy,Defender,Defender,,AC Monza Brianza,Italy,0.0,1
+2006,Serie A,Chievo Verona,summer,out,Amauri,6234,26,Italy,Centre-Forward,CF,4000000.0,US Palermo,Italy,8750000.0,0
+2006,Serie A,Chievo Verona,summer,out,Alberto Fontana,5770,39,Italy,Goalkeeper,GK,600000.0,US Palermo,Italy,0.0,0
+2006,Serie A,Chievo Verona,summer,out,Daniele Franceschini,5927,30,Italy,Left Midfield,LM,2300000.0,UC Sampdoria,Italy,0.0,0
+2006,Serie A,Chievo Verona,summer,out,Enrico Alfonso,34334,18,Italy,Goalkeeper,GK,100000.0,AS Pizzighettone,Italy,0.0,1
+2006,Serie A,Chievo Verona,summer,out,Emiliano Landolina,345226,19,Italy,Midfielder,Midfielder,,AC Prato,Italy,,0
+2006,Serie A,Chievo Verona,summer,out,Davide Succi,29208,24,Italy,Centre-Forward,CF,75000.0,Ravenna Calcio,Italy,,0
+2006,Serie A,Chievo Verona,summer,out,Francesco Carbone,7106,26,Italy,Right-Back,RB,100000.0,Frosinone Calcio,Italy,0.0,1
+2006,Serie A,Chievo Verona,summer,out,Martino Olivetti,491803,21,Italy,Midfielder,Midfielder,,AC Prato,Italy,0.0,1
+2006,Serie A,Chievo Verona,summer,out,Carlo Ferrario,105676,19,Italy,Centre-Forward,CF,,Varese 1910,Italy,0.0,1
+2006,Serie A,Chievo Verona,summer,out,Marcos De Paula,7103,22,Brazil,Centre-Forward,CF,200000.0,ASD Manfredonia Calcio,Italy,0.0,1
+2006,Serie A,Chievo Verona,summer,out,Andrea Mengoni,38657,22,Italy,Centre-Back,CB,,US Grosseto FC,Italy,0.0,1
+2006,Serie A,Chievo Verona,summer,out,Diego Silva Reis,41942,20,Brazil,Second Striker,SS,,US Cremonese,Italy,0.0,1
+2006,Serie A,Chievo Verona,summer,out,Filippo Antonelli Agomeri,22307,28,Italy,Right Winger,RW,350000.0,Pescara Calcio,Italy,0.0,1
+2006,Serie A,Chievo Verona,summer,out,Simone Bentivoglio,34909,21,Italy,Central Midfield,CM,50000.0,Modena FC,Italy,0.0,1
+2006,Serie A,Chievo Verona,summer,out,Giuseppe Gemiti,735,25,Germany,Left-Back,LB,500000.0,Modena FC,Italy,0.0,1
+2006,Serie A,Chievo Verona,winter,out,Andrea Zanchetta,7098,31,Italy,Central Midfield,CM,800000.0,US Lecce,Italy,0.0,0
+2006,Serie A,Chievo Verona,winter,out,Mattia Passarini,41936,26,Italy,Goalkeeper,GK,50000.0,US Cremonese,Italy,0.0,1
+2006,Serie A,Chievo Verona,winter,out,Denis Godeas,21926,31,Italy,Centre-Forward,CF,800000.0,AC Mantova 1911,Italy,,0
+2006,Serie A,Chievo Verona,winter,out,Simone Tiribocchi,21700,28,Italy,Centre-Forward,CF,3500000.0,US Lecce,Italy,,0
+2006,Serie A,Chievo Verona,winter,out,Salvatore Bruno,7108,27,Italy,Centre-Forward,CF,800000.0,Modena FC,Italy,,0
+2006,Serie A,Chievo Verona,winter,out,Stefano Garzon,28836,25,Italy,Defensive Midfield,DM,200000.0,US Avellino,Italy,0.0,1
+2006,Serie A,Chievo Verona,winter,out,Mattia Marchesetti,21691,23,Italy,Left Winger,LW,400000.0,US Triestina,Italy,0.0,1
+2006,Serie A,Chievo Verona,winter,out,Diego Silva Reis,41942,20,Brazil,Second Striker,SS,50000.0,AC Prato,Italy,0.0,1
+2006,Serie A,FC Empoli,summer,in,Nicola Pozzi,16117,20,Italy,Centre-Forward,CF,3000000.0,AC Milan,Italy,2500000.0,0
+2006,Serie A,FC Empoli,summer,in,Rincón,47653,19,Brazil,Centre-Back,CB,,Inter Milan,Italy,0.0,1
+2006,Serie A,FC Empoli,summer,in,Davide Matteini,29593,24,Italy,Left Winger,LW,200000.0,US Palermo,Italy,0.0,1
+2006,Serie A,FC Empoli,summer,in,Dezmon Giraldi,43096,20,Australia,Centre-Forward,CF,,Cuoiopelli Cappiano Romaiano,Italy,,0
+2006,Serie A,FC Empoli,summer,in,Daniele Adani,5774,32,Italy,Centre-Back,CB,450000.0,Ascoli Calcio 1898,Italy,,0
+2006,Serie A,FC Empoli,summer,in,Luca Saudati,6029,28,Italy,Centre-Forward,CF,600000.0,Atalanta BC,Italy,,0
+2006,Serie A,FC Empoli,summer,in,Francesco Marianini,21936,27,Italy,Central Midfield,CM,800000.0,US Lecce,Italy,,0
+2006,Serie A,FC Empoli,summer,in,Davide Bassi,41914,21,Italy,Goalkeeper,GK,,US Massese 1919,Italy,,0
+2006,Serie A,FC Empoli,summer,in,Lino Marzorati,41935,19,Italy,Centre-Back,CB,,AC Milan,Italy,0.0,1
+2006,Serie A,FC Empoli,summer,out,Francesco Tavano,6020,27,Italy,Centre-Forward,CF,8500000.0,Valencia CF,Spain,10000000.0,0
+2006,Serie A,FC Empoli,summer,out,Andrea Coda,28833,21,Italy,Centre-Back,CB,4200000.0,Udinese Calcio,Italy,2320000.0,0
+2006,Serie A,FC Empoli,summer,out,Riccardo Bonetto,17173,27,Italy,Left-Back,LB,800000.0,SS Lazio,Italy,0.0,0
+2006,Serie A,FC Empoli,summer,out,Claudio Sciannamè,139637,18,Italy,Left-Back,LB,,Rovigo Calcio,Italy,0.0,0
+2006,Serie A,FC Empoli,summer,out,Paolo Zanetti,6405,23,Italy,Defensive Midfield,DM,600000.0,Ascoli Calcio 1898,Italy,0.0,0
+2006,Serie A,FC Empoli,summer,out,Pasquale Foggia,17175,23,Italy,Attacking Midfield,AM,2500000.0,AC Milan,Italy,,0
+2006,Serie A,FC Empoli,summer,out,Tommaso Pieroni,122898,19,Italy,Right Midfield,RM,,AC Sporting Cecina,Italy,,0
+2006,Serie A,FC Empoli,summer,out,Matteo Serafini,21698,28,Italy,Centre-Forward,CF,500000.0,Brescia Calcio,Italy,,0
+2006,Serie A,FC Empoli,summer,out,Sebastián Cejas,21146,31,Argentina,Goalkeeper,GK,200000.0,CSD Colo-Colo,Chile,,0
+2006,Serie A,FC Empoli,summer,out,Francesco Lodi,6033,22,Italy,Defensive Midfield,DM,1000000.0,Frosinone Calcio,Italy,0.0,1
+2006,Serie A,FC Empoli,summer,out,Vincenzo Pellecchia,29618,20,Italy,Right Winger,RW,,Bologna FC 1909,Italy,0.0,1
+2006,Serie A,FC Empoli,summer,out,Claudio Coralli,47652,23,Italy,Centre-Forward,CF,,AS Lucchese Libertas,Italy,0.0,1
+2006,Serie A,FC Empoli,summer,out,Maxwell,4317,24,Brazil,Left-Back,LB,4000000.0,Inter Milan,Italy,0.0,1
+2006,Serie A,FC Empoli,summer,out,Christian Riganò,21153,32,Italy,Centre-Forward,CF,800000.0,ACF Fiorentina,Italy,0.0,1
+2006,Serie A,FC Empoli,summer,out,Nicola Pozzi,16117,20,Italy,Centre-Forward,CF,3000000.0,AC Milan,Italy,0.0,1
+2006,Serie A,FC Empoli,winter,out,Daniele Buzzegoli,35717,23,Italy,Defensive Midfield,DM,50000.0,AC Pisa 1909,Italy,0.0,0
+2006,Serie A,FC Empoli,winter,out,Mirco Gasparetto,22111,26,Italy,Centre-Forward,CF,1000000.0,Genoa CFC,Italy,,0
+2006,Serie A,FC Messina Peloro,summer,in,Angelo Rea,24314,24,Italy,Centre-Back,CB,50000.0,AC Cesena,Italy,500000.0,0
+2006,Serie A,FC Messina Peloro,summer,in,Édgar Álvarez,28006,26,Honduras,Right Midfield,RM,600000.0,AS Roma,Italy,300000.0,1
+2006,Serie A,FC Messina Peloro,summer,in,Mark Iuliano,5750,32,Italy,Centre-Back,CB,1000000.0,UC Sampdoria,Italy,0.0,0
+2006,Serie A,FC Messina Peloro,summer,in,Nicolás Córdova,21230,27,Chile,Central Midfield,CM,300000.0,AS Livorno,Italy,0.0,0
+2006,Serie A,FC Messina Peloro,summer,in,Daniele De Vezze,21147,26,Italy,Central Midfield,CM,400000.0,Genoa CFC,Italy,0.0,0
+2006,Serie A,FC Messina Peloro,summer,in,Saul Santarelli,22287,32,Italy,Goalkeeper,GK,100000.0,Forlì FC,Italy,0.0,0
+2006,Serie A,FC Messina Peloro,summer,in,Antonio Ghomsi,21924,20,Cameroon,Left-Back,LB,,Perugia Calcio,Italy,,0
+2006,Serie A,FC Messina Peloro,summer,in,Andrea Gaveglia,41064,22,Italy,Left-Back,LB,,SSC Giugliano,Italy,,0
+2006,Serie A,FC Messina Peloro,summer,in,Massimo Minetti,23362,28,Italy,Second Striker,SS,,Polisportiva Sassari Torres,Italy,,0
+2006,Serie A,FC Messina Peloro,summer,in,Luigi Lavecchia,19244,24,Italy,Right Midfield,RM,500000.0,Juventus FC,Italy,,0
+2006,Serie A,FC Messina Peloro,summer,in,Enrico Morello,42882,29,Italy,Centre-Back,CB,,Polisportiva Sassari Torres,Italy,,0
+2006,Serie A,FC Messina Peloro,summer,in,Christian Riganò,21153,32,Italy,Centre-Forward,CF,800000.0,ACF Fiorentina,Italy,,0
+2006,Serie A,FC Messina Peloro,summer,in,Gennaro Scafaro,765976,26,Italy,Defender,Defender,,ASD Città di Acri,Italy,,0
+2006,Serie A,FC Messina Peloro,summer,in,Mitsuo Ogasawara,27522,27,Japan,Central Midfield,CM,1500000.0,Kashima Antlers,Japan,0.0,1
+2006,Serie A,FC Messina Peloro,summer,in,Salvatore Masiello,21769,24,Italy,Left-Back,LB,800000.0,Udinese Calcio,Italy,0.0,1
+2006,Serie A,FC Messina Peloro,winter,in,Gabriele Paoletti,34339,28,Italy,Goalkeeper,GK,800000.0,Udinese Calcio,Italy,0.0,0
+2006,Serie A,FC Messina Peloro,winter,in,Vincent Candela,5939,33,France,Left-Back,LB,1500000.0,AC Siena,Italy,0.0,0
+2006,Serie A,FC Messina Peloro,winter,in,Manolo Pestrin,24312,28,Italy,Defensive Midfield,DM,150000.0,AC Cesena,Italy,,0
+2006,Serie A,FC Messina Peloro,winter,in,Roberto D'Aversa,21685,31,Italy,Central Midfield,CM,1000000.0,AC Siena,Italy,,0
+2006,Serie A,FC Messina Peloro,winter,in,Andrea Giallombardo,21185,26,Italy,Left-Back,LB,750000.0,AS Livorno,Italy,0.0,1
+2006,Serie A,FC Messina Peloro,winter,in,Alessandro Cesaretti,21336,38,Italy,Goalkeeper,GK,50000.0,Without Club,,,0
+2006,Serie A,FC Messina Peloro,summer,out,Salvatore Aronica,19182,28,Italy,Centre-Back,CB,1000000.0,Reggina Calcio,Italy,800000.0,0
+2006,Serie A,FC Messina Peloro,summer,out,Rahman Rezaei,5218,31,Iran,Centre-Back,CB,1000000.0,AS Livorno,Italy,500000.0,0
+2006,Serie A,FC Messina Peloro,summer,out,Filippo Cristante,21784,29,Italy,Centre-Back,CB,2000000.0,AC Mantova 1911,Italy,300000.0,0
+2006,Serie A,FC Messina Peloro,summer,out,Andrea Pansera,5987,26,Italy,Goalkeeper,GK,50000.0,Calcio Padova,Italy,0.0,0
+2006,Serie A,FC Messina Peloro,summer,out,Giuseppe Santoro,136132,18,Italy,Goalkeeper,GK,,SS Villacidrese,Italy,0.0,0
+2006,Serie A,FC Messina Peloro,summer,out,Andrea Gaveglia,41064,22,Italy,Left-Back,LB,50000.0,AC Martina 1947,Italy,0.0,1
+2006,Serie A,FC Messina Peloro,summer,out,Carmine Coppola,19203,27,Italy,Central Midfield,CM,2200000.0,AS Livorno,Italy,0.0,1
+2006,Serie A,FC Messina Peloro,summer,out,Andrea Gentile,19220,26,Italy,Central Midfield,CM,600000.0,FC Crotone,Italy,0.0,1
+2006,Serie A,FC Messina Peloro,summer,out,Vittorio Bernardo,27684,20,Italy,Centre-Forward,CF,300000.0,AC Martina 1947,Italy,0.0,1
+2006,Serie A,FC Messina Peloro,summer,out,Davide Arigò,41056,21,Italy,Right Winger,RW,50000.0,AC Martina 1947,Italy,0.0,1
+2006,Serie A,FC Messina Peloro,summer,out,Francesco Morga,33678,20,Italy,Centre-Forward,CF,50000.0,AS Biellese,Italy,0.0,1
+2006,Serie A,FC Messina Peloro,summer,out,Alessandro Cesaretti,21336,38,Italy,Goalkeeper,GK,,Retired,,,0
+2006,Serie A,FC Messina Peloro,summer,out,Giuseppe Sculli,6046,25,Italy,Left Winger,LW,2000000.0,Juventus FC,Italy,0.0,1
+2006,Serie A,FC Messina Peloro,summer,out,Antonio Nocerino,22203,21,Italy,Central Midfield,CM,500000.0,Genoa CFC,Italy,0.0,1
+2006,Serie A,FC Messina Peloro,summer,out,Duccio Innocenti,6164,30,Italy,Centre-Back,CB,350000.0,Atalanta BC,Italy,0.0,1
+2006,Serie A,FC Messina Peloro,summer,out,Gaetano D'Agostino,6157,24,Italy,Central Midfield,CM,5000000.0,AS Roma,Italy,0.0,1
+2006,Serie A,FC Messina Peloro,summer,out,Roberto Nanni,9801,24,Argentina,Centre-Forward,CF,3500000.0,Dynamo Kyiv,Ukraine,0.0,1
+2006,Serie A,FC Messina Peloro,summer,out,Zlatan Muslimovic,30650,25,Bosnia-Herzegovina,Centre-Forward,CF,1000000.0,Udinese Calcio,Italy,0.0,1
+2006,Serie A,FC Messina Peloro,summer,out,Filippo Antonelli Agomeri,22307,27,Italy,Right Winger,RW,350000.0,Chievo Verona,Italy,0.0,1
+2006,Serie A,FC Messina Peloro,summer,out,Renato Bondi,37721,25,Brazil,Attacking Midfield,AM,50000.0,Teramo Calcio,Italy,0.0,1
+2006,Serie A,FC Messina Peloro,summer,out,Massimo Donati,5870,25,Italy,Defensive Midfield,DM,2500000.0,AC Milan,Italy,0.0,1
+2006,Serie A,FC Messina Peloro,winter,out,Marco Storari,19136,30,Italy,Goalkeeper,GK,1200000.0,AC Milan,Italy,850000.0,0
+2006,Serie A,FC Messina Peloro,winter,out,Simone Eramo,27388,20,Italy,Centre-Back,CB,100000.0,AC Bellinzona,Switzerland,75000.0,0
+2006,Serie A,FC Messina Peloro,winter,out,Rafael,20342,26,Brazil,Right-Back,RB,400000.0,Fluminense Football Club,Brazil,0.0,0
+2006,Serie A,FC Messina Peloro,winter,out,Salvatore Sullo,19291,35,Italy,Attacking Midfield,AM,100000.0,US Avellino,Italy,,0
+2006,Serie A,FC Messina Peloro,winter,out,Francesco Girillo,33677,20,Italy,Central Midfield,CM,50000.0,AS Andria BAT,Italy,,0
+2006,Serie A,FC Messina Peloro,winter,out,Nicholas Caglioni,28010,24,Italy,Goalkeeper,GK,500000.0,Disqualification,,,0
+2006,Serie A,FC Messina Peloro,winter,out,Andrea Gentile,19220,26,Italy,Central Midfield,CM,600000.0,AC Monza Brianza,Italy,0.0,1
+2006,Serie A,Inter Milan,summer,in,Zlatan Ibrahimović,3455,24,Sweden,Centre-Forward,CF,25000000.0,Juventus FC,Italy,24800000.0,0
+2006,Serie A,Inter Milan,summer,in,Patrick Vieira,3183,30,France,Defensive Midfield,DM,28000000.0,Juventus FC,Italy,9500000.0,0
+2006,Serie A,Inter Milan,summer,in,Maicon,18301,24,Brazil,Right-Back,RB,7000000.0,AS Monaco,France,6800000.0,0
+2006,Serie A,Inter Milan,summer,in,Fabio Grosso,6091,28,Italy,Left-Back,LB,7000000.0,US Palermo,Italy,5500000.0,0
+2006,Serie A,Inter Milan,summer,in,Rincón,47653,19,Brazil,Centre-Back,CB,,São Paulo Futebol Clube,Brazil,1800000.0,0
+2006,Serie A,Inter Milan,summer,in,César,5839,31,Brazil,Left Midfield,LM,2000000.0,SS Lazio,Italy,0.0,0
+2006,Serie A,Inter Milan,summer,in,Olivier Dacourt,3572,31,France,Defensive Midfield,DM,5000000.0,AS Roma,Italy,0.0,0
+2006,Serie A,Inter Milan,summer,in,Hernán Crespo,3410,31,Argentina,Centre-Forward,CF,14000000.0,Chelsea FC,England,0.0,1
+2006,Serie A,Inter Milan,summer,in,Abdoulaye Diarra,45573,20,Cote d'Ivoire,Left Midfield,LM,,NK Maribor,Slovenia,,0
+2006,Serie A,Inter Milan,summer,in,Mariano González,21409,25,Argentina,Right Winger,RW,2600000.0,US Palermo,Italy,0.0,1
+2006,Serie A,Inter Milan,summer,out,Obafemi Martins,5794,21,Nigeria,Centre-Forward,CF,12000000.0,Newcastle United,England,16000000.0,0
+2006,Serie A,Inter Milan,summer,out,David Pizarro,5896,26,Chile,Central Midfield,CM,8000000.0,AS Roma,Italy,12250000.0,0
+2006,Serie A,Inter Milan,summer,out,Paolo Dellafiore,28935,21,Italy,Centre-Back,CB,1500000.0,US Palermo,Italy,1500000.0,0
+2006,Serie A,Inter Milan,summer,out,Giovanni Pasquale,5793,24,Italy,Left Midfield,LM,1500000.0,AS Livorno,Italy,800000.0,0
+2006,Serie A,Inter Milan,summer,out,Ianis Zicu,16909,22,Romania,Attacking Midfield,AM,2000000.0,Rapid Bucharest ,Romania,175000.0,1
+2006,Serie A,Inter Milan,summer,out,Daniel Maa Boumsong,36358,19,Cameroon,Defensive Midfield,DM,50000.0,Spezia Calcio 1906,Italy,100000.0,1
+2006,Serie A,Inter Milan,summer,out,Aco Stojkov,32042,23,North Macedonia,Left Winger,LW,600000.0,FK Partizan Belgrade,Serbia,85000.0,0
+2006,Serie A,Inter Milan,summer,out,Cristiano Zanetti,5783,29,Italy,Defensive Midfield,DM,5000000.0,Juventus FC,Italy,0.0,0
+2006,Serie A,Inter Milan,summer,out,Zé Maria,6081,32,Brazil,Right-Back,RB,1000000.0,Levante UD,Spain,0.0,0
+2006,Serie A,Inter Milan,summer,out,Kily González,7438,31,Argentina,Left Midfield,LM,4000000.0,CA Rosario Central,Argentina,0.0,0
+2006,Serie A,Inter Milan,summer,out,Pierre Womé,3329,27,Cameroon,Left-Back,LB,5000000.0,SV Werder Bremen,Germany,0.0,0
+2006,Serie A,Inter Milan,summer,out,Giuseppe Favalli,5832,34,Italy,Left-Back,LB,1500000.0,AC Milan,Italy,0.0,0
+2006,Serie A,Inter Milan,summer,out,César,5839,31,Brazil,Left Midfield,LM,2000000.0,Sport Club Corinthians Paulista,Brazil,0.0,1
+2006,Serie A,Inter Milan,summer,out,Rincón,47653,19,Brazil,Centre-Back,CB,,FC Empoli,Italy,0.0,1
+2006,Serie A,Inter Milan,summer,out,Jacopo Ravasi,45582,19,Italy,Centre-Forward,CF,,US Pergocrema 1932,Italy,,0
+2006,Serie A,Inter Milan,summer,out,Edoardo Soloni,550093,18,Italy,Defender,Defender,,AC Montichiari,Italy,,0
+2006,Serie A,Inter Milan,summer,out,Alberto Quadri,40482,23,Italy,Defensive Midfield,DM,,SS Lazio,Italy,,0
+2006,Serie A,Inter Milan,summer,out,Alessandro Potenza,16828,22,Italy,Right-Back,RB,3000000.0,ACF Fiorentina,Italy,,0
+2006,Serie A,Inter Milan,summer,out,Ilario Aloe,39981,19,Italy,Right Winger,RW,50000.0,Ravenna Calcio,Italy,,0
+2006,Serie A,Inter Milan,summer,out,Luca Ceccarelli,39675,23,Italy,Centre-Back,CB,,AS Lucchese Libertas,Italy,0.0,1
+2006,Serie A,Inter Milan,summer,out,Matteo Momentè,36359,19,Italy,Centre-Forward,CF,100000.0,US Sambenedettese,Italy,0.0,1
+2006,Serie A,Inter Milan,summer,out,Giacomo Bindi,45568,19,Italy,Goalkeeper,GK,,Varese 1910,Italy,0.0,1
+2006,Serie A,Inter Milan,summer,out,Matteo Lombardo,83404,21,Italy,Left Midfield,LM,,AC Pistoiese,Italy,0.0,1
+2006,Serie A,Inter Milan,summer,out,Nicola Napolitano,167278,23,Italy,Central Midfield,CM,,US Cremonese,Italy,0.0,1
+2006,Serie A,Inter Milan,summer,out,Mattia Altobelli,7332,22,Italy,Attacking Midfield,AM,100000.0,FC Chiasso,Switzerland,0.0,1
+2006,Serie A,Inter Milan,summer,out,Siniša Mihajlović,5834,37,Serbia,Centre-Back,CB,,Retired,,,0
+2006,Serie A,Inter Milan,summer,out,César,5839,31,Brazil,Left Midfield,LM,2000000.0,SS Lazio,Italy,0.0,1
+2006,Serie A,Inter Milan,summer,out,Juan Sebastián Verón,3143,31,Argentina,Central Midfield,CM,4000000.0,Chelsea FC,England,0.0,1
+2006,Serie A,Inter Milan,winter,out,Francesco Coco,3508,29,Italy,Left-Back,LB,1600000.0,Torino FC,Italy,450000.0,1
+2006,Serie A,Inter Milan,winter,out,Abdoulaye Diarra,45573,20,Cote d'Ivoire,Left Midfield,LM,,NK Maribor,Slovenia,175000.0,0
+2006,Serie A,Inter Milan,winter,out,Daniel Maa Boumsong,36358,19,Cameroon,Defensive Midfield,DM,100000.0,Treviso FBC 1993,Italy,175000.0,1
+2006,Serie A,Inter Milan,winter,out,Tijani Belaid,45566,19,Tunisia,Attacking Midfield,AM,,PSV Eindhoven,Netherlands,175000.0,1
+2006,Serie A,Inter Milan,winter,out,Matteo Momentè,36359,18,Italy,Centre-Forward,CF,100000.0,SSC Venezia,Italy,500.0,0
+2006,Serie A,Inter Milan,winter,out,César,5839,32,Brazil,Left Midfield,LM,2000000.0,AS Livorno,Italy,0.0,1
+2006,Serie A,Inter Milan,winter,out,Nicola Beati,5790,23,Italy,Defensive Midfield,DM,2000000.0,Perugia Calcio,Italy,0.0,1
+2006,Serie A,Inter Milan,winter,out,Nicola Napolitano,167278,23,Italy,Central Midfield,CM,,San Marino,Italy,0.0,1
+2006,Serie A,Parma FC,summer,in,Vitaliy Kutuzov,6506,26,Belarus,Centre-Forward,CF,3500000.0,UC Sampdoria,Italy,2000000.0,0
+2006,Serie A,Parma FC,summer,in,Antonio Bocchetti,21779,26,Italy,Left-Back,LB,200000.0,Piacenza FC,Italy,620000.0,0
+2006,Serie A,Parma FC,summer,in,Paolo Castellini,16891,27,Italy,Left-Back,LB,1500000.0,Real Betis Balompié,Spain,0.0,0
+2006,Serie A,Parma FC,summer,in,Massimo Paci,28026,28,Italy,Centre-Back,CB,400000.0,Ascoli Calcio 1898,Italy,,0
+2006,Serie A,Parma FC,summer,in,Andrea Gasbarroni,20967,24,Italy,Second Striker,SS,3500000.0,US Palermo,Italy,,0
+2006,Serie A,Parma FC,summer,in,Igor Budan,19437,26,Croatia,Centre-Forward,CF,3000000.0,US Palermo,Italy,0.0,1
+2006,Serie A,Parma FC,summer,in,Maurizio Ciaramitaro,24303,24,Italy,Central Midfield,CM,400000.0,US Palermo,Italy,0.0,1
+2006,Serie A,Parma FC,summer,in,Zlatan Muslimovic,30650,25,Bosnia-Herzegovina,Centre-Forward,CF,1000000.0,Udinese Calcio,Italy,0.0,1
+2006,Serie A,Parma FC,winter,in,Armando Perna,21188,25,Italy,Centre-Back,CB,500000.0,Modena FC,Italy,0.0,1
+2006,Serie A,Parma FC,winter,in,Giuseppe Rossi,19104,19,Italy,Centre-Forward,CF,1850000.0,Manchester United,England,0.0,1
+2006,Serie A,Parma FC,winter,in,Francesco Parravicini,23364,25,Italy,Defensive Midfield,DM,900000.0,US Palermo,Italy,0.0,1
+2006,Serie A,Parma FC,summer,out,Sébastien Frey,5854,26,France,Goalkeeper,GK,15000000.0,ACF Fiorentina,Italy,5750000.0,0
+2006,Serie A,Parma FC,summer,out,Fábio Simplício,24716,26,Brazil,Central Midfield,CM,6000000.0,US Palermo,Italy,5500000.0,0
+2006,Serie A,Parma FC,summer,out,Emiliano Bonazzoli,5877,27,Italy,Centre-Forward,CF,5000000.0,UC Sampdoria,Italy,5250000.0,0
+2006,Serie A,Parma FC,summer,out,Daniele Bonera,5856,25,Italy,Centre-Back,CB,6000000.0,AC Milan,Italy,3300000.0,0
+2006,Serie A,Parma FC,summer,out,Mark Bresciano,5867,26,Australia,Central Midfield,CM,4500000.0,US Palermo,Italy,2500000.0,0
+2006,Serie A,Parma FC,summer,out,Marco Marchionni,5873,25,Italy,Right Midfield,RM,10000000.0,Juventus FC,Italy,0.0,0
+2006,Serie A,Parma FC,summer,out,Marco Delvecchio,5961,33,Italy,Centre-Forward,CF,750000.0,Ascoli Calcio 1898,Italy,0.0,0
+2006,Serie A,Parma FC,summer,out,Ibrahima Camara,25315,21,Guinea,Left-Back,LB,750000.0,Le Mans Union Club 72,France,0.0,1
+2006,Serie A,Parma FC,summer,out,Francesco Ruopolo,25325,23,Italy,Centre-Forward,CF,350000.0,US Triestina,Italy,,0
+2006,Serie A,Parma FC,summer,out,Marco Fanna,562511,19,Italy,Left Midfield,LM,,AC Trento,Italy,,0
+2006,Serie A,Parma FC,summer,out,Paolo Cannavaro,5858,25,Italy,Centre-Back,CB,1500000.0,SSC Napoli,Italy,,0
+2006,Serie A,Parma FC,summer,out,Filippo Mattiuzzo,43823,19,Italy,Right-Back,RB,,US Cremonese,Italy,0.0,1
+2006,Serie A,Parma FC,summer,out,Alberto Galuppo,25320,20,Italy,Centre-Back,CB,50000.0,US Grosseto FC,Italy,0.0,1
+2006,Serie A,Parma FC,summer,out,Matteo Guardalben,21789,32,Italy,Goalkeeper,GK,1000000.0,US Palermo,Italy,0.0,1
+2006,Serie A,Parma FC,summer,out,Giovanni Pasquale,5793,24,Italy,Left Midfield,LM,1500000.0,Inter Milan,Italy,0.0,1
+2006,Serie A,Parma FC,summer,out,Bernardo Corradi,5851,30,Italy,Centre-Forward,CF,4000000.0,Valencia CF,Spain,0.0,1
+2006,Serie A,Parma FC,winter,out,Zlatko Dedic,28835,22,Slovenia,Centre-Forward,CF,400000.0,Frosinone Calcio,Italy,,0
+2006,Serie A,Parma FC,winter,out,Marco Rossi,33605,19,Italy,Centre-Back,CB,450000.0,Modena FC,Italy,0.0,1
+2006,Serie A,Parma FC,winter,out,Filippo Savi,25326,19,Italy,Central Midfield,CM,400000.0,AC Monza Brianza,Italy,0.0,1
+2006,Serie A,Parma FC,winter,out,Maurizio Ciaramitaro,24303,24,Italy,Central Midfield,CM,400000.0,US Palermo,Italy,0.0,1
+2006,Serie A,Reggina Calcio,summer,in,Ivan Pelizzoli,5936,25,Italy,Goalkeeper,GK,3000000.0,AS Roma,Italy,2000000.0,0
+2006,Serie A,Reggina Calcio,summer,in,Salvatore Aronica,19182,28,Italy,Centre-Back,CB,1000000.0,FC Messina Peloro,Italy,800000.0,0
+2006,Serie A,Reggina Calcio,summer,in,Nicki Bille,46006,18,Denmark,Centre-Forward,CF,,BK Frem,Denmark,250000.0,0
+2006,Serie A,Reggina Calcio,summer,in,Andrea Campagnolo,21913,28,Italy,Goalkeeper,GK,300000.0,Cagliari Calcio,Italy,0.0,0
+2006,Serie A,Reggina Calcio,summer,in,Daniele Amerini,22262,31,Italy,Central Midfield,CM,100000.0,Modena FC,Italy,0.0,0
+2006,Serie A,Reggina Calcio,summer,in,Julio de León,6074,26,Honduras,Attacking Midfield,AM,150000.0,Teramo Calcio,Italy,,0
+2006,Serie A,Reggina Calcio,summer,in,Luca Tognozzi,45288,28,Italy,Central Midfield,CM,,Pescara Calcio,Italy,,0
+2006,Serie A,Reggina Calcio,summer,in,Palmiro Di Dio,46029,20,Italy,Centre-Back,CB,,Ternana Calcio,Italy,,0
+2006,Serie A,Reggina Calcio,summer,in,Giovanni Morabito,6064,27,Italy,Left-Back,LB,100000.0,AC Cesena,Italy,,0
+2006,Serie A,Reggina Calcio,summer,in,Leonel Ríos,30889,23,Argentina,Right Midfield,RM,,Genoa CFC,Italy,0.0,1
+2006,Serie A,Reggina Calcio,winter,in,Nenad Novakovic,41906,24,Serbia,Goalkeeper,GK,,Odense Boldklub,Denmark,1600000.0,0
+2006,Serie A,Reggina Calcio,winter,in,Pasquale Foggia,17175,23,Italy,Attacking Midfield,AM,2500000.0,SS Lazio,Italy,250000.0,1
+2006,Serie A,Reggina Calcio,winter,in,Luca Vigiani,21237,30,Italy,Right Midfield,RM,600000.0,AS Livorno,Italy,,0
+2006,Serie A,Reggina Calcio,winter,in,Christian Puggioni,48003,25,Italy,Goalkeeper,GK,,AC Pisa 1909,Italy,,0
+2006,Serie A,Reggina Calcio,winter,in,Daniel Beichler,45405,18,Austria,Second Striker,SS,,SK Sturm Graz II,Austria,0.0,1
+2006,Serie A,Reggina Calcio,winter,in,Alessandro Gazzi,28827,23,Italy,Defensive Midfield,DM,250000.0,AS Bari,Italy,0.0,1
+2006,Serie A,Reggina Calcio,winter,in,Riccardo Nardini,38600,23,Italy,Central Midfield,CM,75000.0,Calcio Catania,Italy,0.0,1
+2006,Serie A,Reggina Calcio,summer,out,Luca Rigoni,22210,21,Italy,Central Midfield,CM,500000.0,Vicenza Calcio,Italy,1000000.0,0
+2006,Serie A,Reggina Calcio,summer,out,Ivan Franceschini,6066,29,Italy,Centre-Back,CB,1500000.0,Torino FC,Italy,800000.0,0
+2006,Serie A,Reggina Calcio,summer,out,Marco Zamboni,6036,28,Italy,Centre-Back,CB,500000.0,Spezia Calcio 1906,Italy,0.0,0
+2006,Serie A,Reggina Calcio,summer,out,Juriy Cannarsa,28011,30,Italy,Right-Back,RB,700000.0,Frosinone Calcio,Italy,0.0,0
+2006,Serie A,Reggina Calcio,summer,out,Carlos Paredes,6068,29,Paraguay,Defensive Midfield,DM,1500000.0,Sporting CP,Portugal,0.0,0
+2006,Serie A,Reggina Calcio,summer,out,Nicola Pavarini,28027,32,Italy,Goalkeeper,GK,600000.0,AC Siena,Italy,0.0,0
+2006,Serie A,Reggina Calcio,summer,out,Bruno Lança,26245,23,Brazil,Midfielder,Midfielder,500000.0,Hubei Wuhan (-2008),China,,0
+2006,Serie A,Reggina Calcio,summer,out,Francesco Cosenza,57794,20,Italy,Centre-Back,CB,,Taranto SS,Italy,,0
+2006,Serie A,Reggina Calcio,summer,out,Gaetano De Rosa,22106,33,Italy,Sweeper,SW,800000.0,Genoa CFC,Italy,,0
+2006,Serie A,Reggina Calcio,summer,out,Davide Dionigi,28015,32,Italy,Centre-Forward,CF,800000.0,Spezia Calcio 1906,Italy,,0
+2006,Serie A,Reggina Calcio,summer,out,Fabio Ceravolo,35743,19,Italy,Centre-Forward,CF,200000.0,FC Pro Vasto,Italy,0.0,1
+2006,Serie A,Reggina Calcio,summer,out,Gaetano Ungaro,37391,18,Italy,Centre-Back,CB,50000.0,AS Melfi,Italy,0.0,1
+2006,Serie A,Reggina Calcio,summer,out,Davide Biondini,22186,23,Italy,Central Midfield,CM,700000.0,Cagliari Calcio,Italy,0.0,1
+2006,Serie A,Reggina Calcio,summer,out,Emanuele Belardi,6060,28,Italy,Goalkeeper,GK,500000.0,Juventus FC,Italy,0.0,1
+2006,Serie A,Reggina Calcio,summer,out,Ilyas Zeytullaev,34345,23,Uzbekistan,Left Winger,LW,200000.0,Genoa CFC,Italy,0.0,1
+2006,Serie A,Reggina Calcio,summer,out,Ricardo Verón,6073,25,Argentina,Central Midfield,CM,50000.0,FC Crotone,Italy,0.0,1
+2006,Serie A,Reggina Calcio,summer,out,Ivan Castiglia,39519,18,Italy,Central Midfield,CM,75000.0,Vicenza Calcio,Italy,0.0,1
+2006,Serie A,Reggina Calcio,summer,out,Giovanni Lavrendi,146113,20,Italy,Central Midfield,CM,,Vigor Lamezia Calcio,Italy,0.0,1
+2006,Serie A,Reggina Calcio,summer,out,Luca Vigiani,21237,29,Italy,Right Midfield,RM,600000.0,AS Livorno,Italy,0.0,1
+2006,Serie A,Reggina Calcio,summer,out,Francesco Cozza,6071,32,Italy,Attacking Midfield,AM,2000000.0,AC Siena,Italy,0.0,1
+2006,Serie A,Reggina Calcio,summer,out,Lampros Choutos,9682,26,Greece,Centre-Forward,CF,1500000.0,Inter Milan,Italy,0.0,1
+2006,Serie A,Reggina Calcio,winter,out,Julio de León,6074,27,Honduras,Attacking Midfield,AM,150000.0,Genoa CFC,Italy,3200000.0,0
+2006,Serie A,Reggina Calcio,winter,out,Ivan Pelizzoli,5936,26,Italy,Goalkeeper,GK,3000000.0,Lokomotiv Moskau,Russia,3000000.0,0
+2006,Serie A,Reggina Calcio,winter,out,Filippo Carobbio,22235,27,Italy,Central Midfield,CM,450000.0,Genoa CFC,Italy,300000.0,0
+2006,Serie A,Reggina Calcio,winter,out,Antonio Saviano,38667,22,Italy,Goalkeeper,GK,150000.0,SSC Napoli,Italy,,0
+2006,Serie A,Reggina Calcio,winter,out,Giovanni Morabito,6064,28,Italy,Left-Back,LB,100000.0,FC Crotone,Italy,0.0,1
+2006,Serie A,Reggina Calcio,winter,out,Ilyas Zeytullaev,34345,24,Uzbekistan,Left Winger,LW,200000.0,Vicenza Calcio,Italy,0.0,1
+2006,Serie A,Reggina Calcio,winter,out,Fabio Ceravolo,35743,19,Italy,Centre-Forward,CF,200000.0,AC Pisa 1909,Italy,0.0,1
+2006,Serie A,Reggina Calcio,winter,out,Leonel Ríos,30889,24,Argentina,Right Midfield,RM,,Genoa CFC,Italy,0.0,1
+2006,Serie A,SS Lazio,summer,in,Stephen Makinwa,17146,22,Nigeria,Centre-Forward,CF,4000000.0,US Palermo,Italy,6300000.0,0
+2006,Serie A,SS Lazio,summer,in,Cristian Ledesma,6438,23,Italy,Defensive Midfield,DM,9000000.0,US Lecce,Italy,5300000.0,0
+2006,Serie A,SS Lazio,summer,in,Stefano Mauri,6043,26,Italy,Attacking Midfield,AM,3000000.0,Udinese Calcio,Italy,3500000.0,0
+2006,Serie A,SS Lazio,summer,in,Pasquale Foggia,17175,23,Italy,Attacking Midfield,AM,2500000.0,AC Milan,Italy,3150000.0,0
+2006,Serie A,SS Lazio,summer,in,Cribari,6017,26,Brazil,Centre-Back,CB,3000000.0,Udinese Calcio,Italy,3000000.0,0
+2006,Serie A,SS Lazio,summer,in,Libis Arenas,40110,19,Colombia,Goalkeeper,GK,,Envigado FC,Colombia,800000.0,0
+2006,Serie A,SS Lazio,summer,in,Modibo Diakité,41749,19,France,Centre-Back,CB,,Pescara Calcio,Italy,300000.0,0
+2006,Serie A,SS Lazio,summer,in,Lucas Correa,56901,22,Argentina,Defensive Midfield,DM,,SS Lanciano,Italy,0.0,0
+2006,Serie A,SS Lazio,summer,in,Massimo Mutarelli,20982,28,Italy,Central Midfield,CM,1600000.0,US Palermo,Italy,0.0,0
+2006,Serie A,SS Lazio,summer,in,Riccardo Bonetto,17173,27,Italy,Left-Back,LB,800000.0,FC Empoli,Italy,0.0,0
+2006,Serie A,SS Lazio,summer,in,Alberto Quadri,40482,23,Italy,Defensive Midfield,DM,,Inter Milan,Italy,,0
+2006,Serie A,SS Lazio,winter,in,Tommaso Berni,21752,23,Italy,Goalkeeper,GK,1500000.0,Ternana Calcio,Italy,1500000.0,0
+2006,Serie A,SS Lazio,winter,in,Luis Jiménez,21821,22,Chile,Attacking Midfield,AM,5000000.0,Ternana Calcio,Italy,311000.0,1
+2006,Serie A,SS Lazio,summer,out,Matías Lequi,7372,25,Argentina,Centre-Back,CB,2000000.0,Celta de Vigo,Spain,750000.0,0
+2006,Serie A,SS Lazio,summer,out,Alessio De Angelis,144351,21,Italy,Goalkeeper,GK,,ASD Morolo Calcio,Italy,0.0,0
+2006,Serie A,SS Lazio,summer,out,César,5839,31,Brazil,Left Midfield,LM,2000000.0,Inter Milan,Italy,0.0,0
+2006,Serie A,SS Lazio,summer,out,Fabio Liverani,5846,30,Italy,Defensive Midfield,DM,7000000.0,ACF Fiorentina,Italy,0.0,0
+2006,Serie A,SS Lazio,summer,out,Paolo Di Canio,3699,37,Italy,Centre-Forward,CF,500000.0,Cisco Roma,Italy,0.0,0
+2006,Serie A,SS Lazio,summer,out,Ousmane Dabo,3904,29,France,Defensive Midfield,DM,4200000.0,Manchester City,England,0.0,0
+2006,Serie A,SS Lazio,summer,out,Christian Keller,22176,25,Denmark,Defensive Midfield,DM,600000.0,Stabæk Fotball,Norway,,0
+2006,Serie A,SS Lazio,summer,out,Simone Sannibale,22623,20,Italy,Centre-Back,CB,300000.0,SS Juve Stabia ,Italy,0.0,1
+2006,Serie A,SS Lazio,summer,out,Lucas Correa,56901,22,Argentina,Defensive Midfield,DM,,AS Lucchese Libertas,Italy,0.0,1
+2006,Serie A,SS Lazio,summer,out,Fabio Zaccardi,22624,19,Italy,Defender,Defender,50000.0,Paganese Calcio 1926,Italy,0.0,1
+2006,Serie A,SS Lazio,summer,out,Francesco Torroni,343156,20,Italy,Midfielder,Midfielder,,Without Club,,,0
+2006,Serie A,SS Lazio,summer,out,Felice Piccolo,28029,22,Italy,Centre-Back,CB,400000.0,Juventus FC,Italy,0.0,1
+2006,Serie A,SS Lazio,summer,out,Samir Handanovič,28021,21,Slovenia,Goalkeeper,GK,400000.0,Udinese Calcio,Italy,0.0,1
+2006,Serie A,SS Lazio,summer,out,Andrea Giallombardo,21185,25,Italy,Left-Back,LB,750000.0,AS Livorno,Italy,0.0,1
+2006,Serie A,SS Lazio,summer,out,Cribari,6017,26,Brazil,Centre-Back,CB,3000000.0,Udinese Calcio,Italy,0.0,1
+2006,Serie A,SS Lazio,summer,out,Massimo Bonanni,22188,24,Italy,Left Midfield,LM,2000000.0,US Palermo,Italy,0.0,1
+2006,Serie A,SS Lazio,summer,out,Stefano Mauri,6043,26,Italy,Attacking Midfield,AM,3000000.0,Udinese Calcio,Italy,0.0,1
+2006,Serie A,SS Lazio,winter,out,Massimo Oddo,5837,30,Italy,Right-Back,RB,10000000.0,AC Milan,Italy,7750000.0,0
+2006,Serie A,SS Lazio,winter,out,Pasquale Foggia,17175,23,Italy,Attacking Midfield,AM,2500000.0,Reggina Calcio,Italy,250000.0,1
+2006,Serie A,SS Lazio,winter,out,Alberto Quadri,40482,23,Italy,Defensive Midfield,DM,200000.0,Spezia Calcio 1906,Italy,0.0,1
+2006,Serie A,SS Lazio,winter,out,Libis Arenas,40110,19,Colombia,Goalkeeper,GK,50000.0,Envigado FC,Colombia,0.0,1
+2006,Serie A,SS Lazio,winter,out,Lucas Correa,56901,22,Argentina,Defensive Midfield,DM,,Gallipoli Calcio,Italy,0.0,1
+2006,Serie A,SS Lazio,winter,out,Simone Sannibale,22623,20,Italy,Centre-Back,CB,300000.0,Polisportiva Sassari Torres,Italy,0.0,1
+2006,Serie A,Torino FC,summer,in,Simone Barone,5866,28,Italy,Central Midfield,CM,6000000.0,US Palermo,Italy,4099999.9999999995,0
+2006,Serie A,Torino FC,summer,in,Elvis Abbruscato,23163,25,Italy,Centre-Forward,CF,700000.0,AC Arezzo,Italy,3600000.0,0
+2006,Serie A,Torino FC,summer,in,Ivan Franceschini,6066,29,Italy,Centre-Back,CB,1500000.0,Reggina Calcio,Italy,800000.0,0
+2006,Serie A,Torino FC,summer,in,Nikola Lazetic,5919,28,Serbia,Right Midfield,RM,1500000.0,AS Livorno,Italy,720000.0,0
+2006,Serie A,Torino FC,summer,in,Marco Di Loreto,6083,31,Italy,Centre-Back,CB,1300000.0,ACF Fiorentina,Italy,500000.0,0
+2006,Serie A,Torino FC,summer,in,Christian Abbiati,3507,29,Italy,Goalkeeper,GK,4500000.0,AC Milan,Italy,300000.0,1
+2006,Serie A,Torino FC,summer,in,Giuseppe Pancaro,5833,34,Italy,Right-Back,RB,1500000.0,ACF Fiorentina,Italy,,0
+2006,Serie A,Torino FC,summer,in,Masashi Oguro,31353,26,Japan,Centre-Forward,CF,1250000.0,Grenoble Foot 38,France,,0
+2006,Serie A,Torino FC,summer,in,Gabriele Cioffi,32079,30,Italy,Centre-Back,CB,100000.0,AC Mantova 1911,Italy,,0
+2006,Serie A,Torino FC,summer,in,Stefano Fiore,5842,31,Italy,Attacking Midfield,AM,8000000.0,Valencia CF,Spain,0.0,1
+2006,Serie A,Torino FC,summer,in,Axel Konan,6429,23,Cote d'Ivoire,Left Winger,LW,1200000.0,US Lecce,Italy,0.0,1
+2006,Serie A,Torino FC,winter,in,Gianluca Comotto,16685,27,Italy,Right-Back,RB,600000.0,AS Roma,Italy,2200000.0,0
+2006,Serie A,Torino FC,winter,in,Francesco Coco,3508,29,Italy,Left-Back,LB,1600000.0,Inter Milan,Italy,450000.0,1
+2006,Serie A,Torino FC,winter,in,Cesare Bovo,5946,23,Italy,Centre-Back,CB,4500000.0,US Palermo,Italy,0.0,1
+2006,Serie A,Torino FC,summer,out,André Pinga,21889,25,Brazil,Attacking Midfield,AM,2500000.0,Sport Club Internacional,Brazil,900000.0,0
+2006,Serie A,Torino FC,summer,out,Zisis Vryzas,6095,32,Greece,Centre-Forward,CF,2000000.0,Skoda Xanthi,Greece,0.0,0
+2006,Serie A,Torino FC,summer,out,Davide Nicola,21826,33,Italy,Right-Back,RB,500000.0,Spezia Calcio 1906,Italy,,0
+2006,Serie A,Torino FC,summer,out,Luca Ungari,6041,31,Italy,Centre-Back,CB,600000.0,Modena FC,Italy,,0
+2006,Serie A,Torino FC,summer,out,Raffaele Longo,21986,28,Italy,Central Midfield,CM,200000.0,Genoa CFC,Italy,,0
+2006,Serie A,Torino FC,summer,out,Fabio Piroli,338971,21,Italy,Striker,Striker,,Taranto SS,Italy,,0
+2006,Serie A,Torino FC,summer,out,Angelo Pagotto,23282,32,Italy,Goalkeeper,GK,200000.0,US Grosseto FC,Italy,,0
+2006,Serie A,Torino FC,summer,out,Claudio Ferrarese,28852,27,Italy,Right Winger,RW,400000.0,Hellas Verona,Italy,,0
+2006,Serie A,Torino FC,summer,out,Martin Lejsal,6059,23,Czech Republic,Goalkeeper,GK,100000.0,1. FC Brno,Czech Republic,,0
+2006,Serie A,Torino FC,summer,out,Vito Falconieri,84589,20,Italy,Centre-Forward,CF,,SSD Città di Brindisi,Italy,0.0,1
+2006,Serie A,Torino FC,summer,out,Davide Bottone,54999,20,Italy,Central Midfield,CM,,AS Biellese,Italy,0.0,1
+2006,Serie A,Torino FC,summer,out,Tommaso Vailatti,28861,20,Italy,Right Midfield,RM,300000.0,Vicenza Calcio,Italy,0.0,1
+2006,Serie A,Torino FC,summer,out,Andrea Gentile,19220,26,Italy,Central Midfield,CM,600000.0,FC Messina Peloro,Italy,0.0,1
+2006,Serie A,Torino FC,summer,out,Elvis Abbruscato,23163,25,Italy,Centre-Forward,CF,700000.0,AC Arezzo,Italy,0.0,1
+2006,Serie A,Torino FC,summer,out,Mark Edusei,21788,29,Ghana,Defensive Midfield,DM,600000.0,UC Sampdoria,Italy,0.0,1
+2006,Serie A,Torino FC,summer,out,Enrico Fantini,21149,30,Italy,Centre-Forward,CF,500000.0,ACF Fiorentina,Italy,0.0,1
+2006,Serie A,Torino FC,winter,out,Giovanni Orfei,6048,30,Italy,Centre-Back,CB,100000.0,Salernitana Calcio 1919,Italy,,0
+2006,Serie A,Torino FC,winter,out,Matteo Melara,21187,27,Italy,Right-Back,RB,800000.0,Ascoli Calcio 1898,Italy,0.0,1
+2006,Serie A,Torino FC,winter,out,Stefano Fiore,5842,31,Italy,Attacking Midfield,AM,8000000.0,Valencia CF,Spain,0.0,1
+2006,Serie A,UC Sampdoria,summer,in,Emiliano Bonazzoli,5877,27,Italy,Centre-Forward,CF,5000000.0,Parma FC,Italy,5250000.0,0
+2006,Serie A,UC Sampdoria,summer,in,Pietro Accardi,17155,23,Italy,Centre-Back,CB,250000.0,US Palermo,Italy,2000000.0,0
+2006,Serie A,UC Sampdoria,summer,in,Massimo Bonanni,22188,24,Italy,Left Midfield,LM,2000000.0,US Palermo,Italy,2000000.0,0
+2006,Serie A,UC Sampdoria,summer,in,Fabio Quagliarella,22328,23,Italy,Centre-Forward,CF,1800000.0,Udinese Calcio,Italy,1500000.0,0
+2006,Serie A,UC Sampdoria,summer,in,Christian Terlizzi,20941,26,Italy,Centre-Back,CB,5600000.0,US Palermo,Italy,1500000.0,0
+2006,Serie A,UC Sampdoria,summer,in,Andrea Parola,21949,27,Italy,Defensive Midfield,DM,1000000.0,Ascoli Calcio 1898,Italy,900000.0,0
+2006,Serie A,UC Sampdoria,summer,in,Mirko Pieri,5894,27,Italy,Left-Back,LB,400000.0,Udinese Calcio,Italy,600000.0,0
+2006,Serie A,UC Sampdoria,summer,in,Biagio Pagano,16899,23,Italy,Right Winger,RW,500000.0,Atalanta BC,Italy,250000.0,0
+2006,Serie A,UC Sampdoria,summer,in,Christian Maggio,21151,24,Italy,Right-Back,RB,800000.0,ACF Fiorentina,Italy,150000.0,1
+2006,Serie A,UC Sampdoria,summer,in,Gianluca Berti,6010,39,Italy,Goalkeeper,GK,100000.0,ACF Fiorentina,Italy,0.0,0
+2006,Serie A,UC Sampdoria,summer,in,Daniele Franceschini,5927,30,Italy,Left Midfield,LM,2300000.0,Chievo Verona,Italy,0.0,0
+2006,Serie A,UC Sampdoria,summer,in,Christian Vieri,5797,32,Italy,Centre-Forward,CF,8000000.0,AS Monaco,France,0.0,0
+2006,Serie A,UC Sampdoria,summer,in,Ivan Zivanovic,26092,24,Serbia,Centre-Back,CB,100000.0,FK Smederevo 1924,Serbia,,0
+2006,Serie A,UC Sampdoria,summer,in,Saidi Oluseyi Adeshokan,33759,21,Nigeria,Centre-Forward,CF,50000.0,FC Chiasso,Switzerland,,0
+2006,Serie A,UC Sampdoria,summer,in,Rubén Olivera,5768,23,Uruguay,Central Midfield,CM,3000000.0,Juventus FC,Italy,0.0,1
+2006,Serie A,UC Sampdoria,winter,in,Al-Saadi Al Gaddafi,6193,33,Libya,Attacking Midfield,AM,200000.0,Al-Jamahiriyah,Libya,275000.0,0
+2006,Serie A,UC Sampdoria,winter,in,Carlo Zotti,16865,24,Italy,Goalkeeper,GK,200000.0,AS Roma,Italy,165000.0,1
+2006,Serie A,UC Sampdoria,winter,in,Reto Ziegler,9915,21,Switzerland,Centre-Back,CB,1450000.0,Tottenham Hotspur,England,0.0,1
+2006,Serie A,UC Sampdoria,summer,out,Aimo Diana,6749,28,Italy,Right Midfield,RM,7500000.0,US Palermo,Italy,5000000.0,0
+2006,Serie A,UC Sampdoria,summer,out,Marco Pisano,16901,24,Italy,Left-Back,LB,3500000.0,US Palermo,Italy,4000000.0,0
+2006,Serie A,UC Sampdoria,summer,out,Maurizio Domizzi,6750,26,Italy,Centre-Back,CB,800000.0,SSC Napoli,Italy,2750000.0,0
+2006,Serie A,UC Sampdoria,summer,out,Vitaliy Kutuzov,6506,26,Belarus,Centre-Forward,CF,3500000.0,Parma FC,Italy,2000000.0,0
+2006,Serie A,UC Sampdoria,summer,out,Moris Carrozzieri,6747,25,Italy,Centre-Back,CB,100000.0,Atalanta BC,Italy,1970000.0,0
+2006,Serie A,UC Sampdoria,summer,out,Biagio Pagano,16899,23,Italy,Right Winger,RW,500000.0,Rimini FC,Italy,620000.0,0
+2006,Serie A,UC Sampdoria,summer,out,Giampaolo Calzi,57784,20,Italy,Defensive Midfield,DM,,Ravenna Calcio,Italy,300000.0,0
+2006,Serie A,UC Sampdoria,summer,out,Mark Edusei,21788,29,Ghana,Defensive Midfield,DM,600000.0,Calcio Catania,Italy,270000.0,0
+2006,Serie A,UC Sampdoria,summer,out,Luca Antonini,6792,23,Italy,Left-Back,LB,400000.0,AC Siena,Italy,200000.0,1
+2006,Serie A,UC Sampdoria,summer,out,Corrado Colombo,21231,26,Italy,Centre-Forward,CF,1000000.0,Brescia Calcio,Italy,500.0,0
+2006,Serie A,UC Sampdoria,summer,out,Francesco Antonioli,5935,36,Italy,Goalkeeper,GK,850000.0,Bologna FC 1909,Italy,0.0,0
+2006,Serie A,UC Sampdoria,summer,out,Mark Iuliano,5750,32,Italy,Centre-Back,CB,1000000.0,FC Messina Peloro,Italy,0.0,0
+2006,Serie A,UC Sampdoria,summer,out,Marcello Castellini,5988,33,Italy,Centre-Back,CB,900000.0,Bologna FC 1909,Italy,0.0,0
+2006,Serie A,UC Sampdoria,summer,out,Max Tonetto,6447,31,Italy,Left-Back,LB,1700000.0,AS Roma,Italy,0.0,0
+2006,Serie A,UC Sampdoria,summer,out,Christian Vieri,5797,33,Italy,Centre-Forward,CF,8000000.0,Atalanta BC,Italy,0.0,0
+2006,Serie A,UC Sampdoria,summer,out,Fabrizio Cacciatore,85605,19,Italy,Right-Back,RB,,AC Reggiana 1919,Italy,0.0,1
+2006,Serie A,UC Sampdoria,summer,out,Francesco Virdis,42814,21,Italy,Centre-Forward,CF,,AC Cesena,Italy,0.0,1
+2006,Serie A,UC Sampdoria,summer,out,Thomas Job,16897,21,Cameroon,Right Winger,RW,250000.0,Ascoli Calcio 1898,Italy,,0
+2006,Serie A,UC Sampdoria,summer,out,Gionata Mingozzi,29614,21,Italy,Central Midfield,CM,50000.0,US Lecce,Italy,,0
+2006,Serie A,UC Sampdoria,summer,out,Simone Pavan,17149,32,Italy,Centre-Back,CB,500000.0,AS Livorno,Italy,,0
+2006,Serie A,UC Sampdoria,summer,out,Daniele Padelli,27807,20,Italy,Goalkeeper,GK,50000.0,FC Crotone,Italy,0.0,1
+2006,Serie A,UC Sampdoria,summer,out,Giovanni Taormina,61793,18,Italy,Left Midfield,LM,,US Alessandria Calcio 1912,Italy,0.0,1
+2006,Serie A,UC Sampdoria,summer,out,Francesco Flachi,6781,32,Italy,Centre-Forward,CF,4500000.0,Without Club,,,0
+2006,Serie A,UC Sampdoria,summer,out,Marco Zamboni,6036,28,Italy,Centre-Back,CB,500000.0,Reggina Calcio,Italy,0.0,1
+2006,Serie A,UC Sampdoria,summer,out,Emiliano Bonazzoli,5877,27,Italy,Centre-Forward,CF,5000000.0,Parma FC,Italy,0.0,1
+2006,Serie A,UC Sampdoria,summer,out,Andrea Gasbarroni,20967,24,Italy,Second Striker,SS,3500000.0,US Palermo,Italy,0.0,1
+2006,Serie A,UC Sampdoria,summer,out,Mattia Marchesetti,21691,22,Italy,Left Winger,LW,400000.0,Chievo Verona,Italy,0.0,1
+2006,Serie A,UC Sampdoria,summer,out,Samuele Dalla Bona,4291,25,Italy,Central Midfield,CM,2500000.0,AC Milan,Italy,0.0,1
+2006,Serie A,UC Sampdoria,winter,out,Saidi Oluseyi Adeshokan,33759,22,Nigeria,Centre-Forward,CF,50000.0,FC Chiasso,Switzerland,0.0,1
+2006,Serie A,UC Sampdoria,winter,out,Francesco Virdis,42814,22,Italy,Centre-Forward,CF,50000.0,Modena FC,Italy,0.0,1
+2006,Serie A,UC Sampdoria,winter,out,Daniele Padelli,27807,21,Italy,Goalkeeper,GK,50000.0,Liverpool FC,England,0.0,1
+2006,Serie A,UC Sampdoria,winter,out,Massimo Bonanni,22188,24,Italy,Left Midfield,LM,2000000.0,Ascoli Calcio 1898,Italy,0.0,1
+2006,Serie A,UC Sampdoria,winter,out,Salvatore Foti,38559,18,Italy,Centre-Forward,CF,500000.0,Vicenza Calcio,Italy,0.0,1
+2006,Serie A,US Palermo,summer,in,Amauri,6234,26,Italy,Centre-Forward,CF,4000000.0,Chievo Verona,Italy,8750000.0,0
+2006,Serie A,US Palermo,summer,in,Fábio Simplício,24716,26,Brazil,Central Midfield,CM,6000000.0,Parma FC,Italy,5500000.0,0
+2006,Serie A,US Palermo,summer,in,Aimo Diana,6749,28,Italy,Right Midfield,RM,7500000.0,UC Sampdoria,Italy,5000000.0,0
+2006,Serie A,US Palermo,summer,in,Marco Pisano,16901,24,Italy,Left-Back,LB,3500000.0,UC Sampdoria,Italy,4000000.0,0
+2006,Serie A,US Palermo,summer,in,Cesare Bovo,5946,23,Italy,Centre-Back,CB,4500000.0,AS Roma,Italy,3550000.0,0
+2006,Serie A,US Palermo,summer,in,Roberto Guana,5976,25,Italy,Central Midfield,CM,1500000.0,Brescia Calcio,Italy,3500000.0,0
+2006,Serie A,US Palermo,summer,in,Mattia Cassani,21859,22,Italy,Right-Back,RB,600000.0,Hellas Verona,Italy,2500000.0,0
+2006,Serie A,US Palermo,summer,in,Mark Bresciano,5867,26,Australia,Central Midfield,CM,4500000.0,Parma FC,Italy,2500000.0,0
+2006,Serie A,US Palermo,summer,in,Ciro Capuano,38584,24,Italy,Left-Back,LB,,Bologna FC 1909,Italy,1800000.0,0
+2006,Serie A,US Palermo,summer,in,Francesco Parravicini,23364,24,Italy,Defensive Midfield,DM,900000.0,ACF Fiorentina,Italy,1500000.0,0
+2006,Serie A,US Palermo,summer,in,Paolo Dellafiore,28935,21,Italy,Centre-Back,CB,1500000.0,Inter Milan,Italy,1500000.0,0
+2006,Serie A,US Palermo,summer,in,Igor Budan,19437,26,Croatia,Centre-Forward,CF,3000000.0,Atalanta BC,Italy,1000000.0,0
+2006,Serie A,US Palermo,summer,in,Alberto Fontana,5770,39,Italy,Goalkeeper,GK,600000.0,Chievo Verona,Italy,0.0,0
+2006,Serie A,US Palermo,summer,in,Gianni Munari,22598,23,Italy,Central Midfield,CM,400000.0,Hellas Verona,Italy,,0
+2006,Serie A,US Palermo,winter,in,Edinson Cavani,48280,19,Uruguay,Centre-Forward,CF,,Danubio FC,Uruguay,5000000.0,0
+2006,Serie A,US Palermo,winter,in,Radoslaw Matusiak,16954,25,Poland,Centre-Forward,CF,2500000.0,GKS Belchatow,Poland,1900000.0,0
+2006,Serie A,US Palermo,winter,in,Guillermo Giacomazzi,6428,29,Uruguay,Central Midfield,CM,2500000.0,US Lecce,Italy,,0
+2006,Serie A,US Palermo,summer,out,Stephen Makinwa,17146,22,Nigeria,Centre-Forward,CF,4000000.0,SS Lazio,Italy,6300000.0,0
+2006,Serie A,US Palermo,summer,out,Mario Santana,6721,24,Argentina,Right Winger,RW,6500000.0,ACF Fiorentina,Italy,5500000.0,0
+2006,Serie A,US Palermo,summer,out,Fabio Grosso,6091,28,Italy,Left-Back,LB,7000000.0,Inter Milan,Italy,5500000.0,0
+2006,Serie A,US Palermo,summer,out,Simone Barone,5866,28,Italy,Central Midfield,CM,6000000.0,Torino FC,Italy,4099999.9999999995,0
+2006,Serie A,US Palermo,summer,out,Pietro Accardi,17155,23,Italy,Centre-Back,CB,250000.0,UC Sampdoria,Italy,2000000.0,0
+2006,Serie A,US Palermo,summer,out,Massimo Bonanni,22188,24,Italy,Left Midfield,LM,2000000.0,UC Sampdoria,Italy,2000000.0,0
+2006,Serie A,US Palermo,summer,out,Christian Terlizzi,20941,26,Italy,Centre-Back,CB,5600000.0,UC Sampdoria,Italy,1500000.0,0
+2006,Serie A,US Palermo,summer,out,Cristian Raimondi,22249,25,Italy,Right Midfield,RM,900000.0,Vicenza Calcio,Italy,740000.0,0
+2006,Serie A,US Palermo,summer,out,Denis Godeas,21926,31,Italy,Centre-Forward,CF,800000.0,Chievo Verona,Italy,700000.0,0
+2006,Serie A,US Palermo,summer,out,Valerio Virga,24062,20,Italy,Right-Back,RB,600000.0,AS Roma,Italy,500000.0,0
+2006,Serie A,US Palermo,summer,out,Paul Codrea,16138,25,Romania,Central Midfield,CM,500000.0,AC Siena,Italy,200000.0,0
+2006,Serie A,US Palermo,summer,out,Massimo Mutarelli,20982,28,Italy,Central Midfield,CM,1600000.0,SS Lazio,Italy,0.0,0
+2006,Serie A,US Palermo,summer,out,Davide Matteini,29593,24,Italy,Left Winger,LW,200000.0,FC Empoli,Italy,0.0,1
+2006,Serie A,US Palermo,summer,out,Matteo Guardalben,21789,32,Italy,Goalkeeper,GK,1000000.0,Vicenza Calcio,Italy,,0
+2006,Serie A,US Palermo,summer,out,Andrea Gasbarroni,20967,24,Italy,Second Striker,SS,3500000.0,Parma FC,Italy,,0
+2006,Serie A,US Palermo,summer,out,Kewullay Conteh,20917,28,Sierra Leone,Centre-Back,CB,300000.0,Atalanta BC,Italy,0.0,1
+2006,Serie A,US Palermo,summer,out,Mariano González,21409,25,Argentina,Right Winger,RW,2600000.0,Inter Milan,Italy,0.0,1
+2006,Serie A,US Palermo,summer,out,Leandro Rinaudo,21988,23,Italy,Centre-Back,CB,550000.0,AC Siena,Italy,0.0,1
+2006,Serie A,US Palermo,summer,out,Maurizio Ciaramitaro,24303,24,Italy,Central Midfield,CM,400000.0,Parma FC,Italy,0.0,1
+2006,Serie A,US Palermo,summer,out,Igor Budan,19437,26,Croatia,Centre-Forward,CF,3000000.0,Parma FC,Italy,0.0,1
+2006,Serie A,US Palermo,summer,out,Pietro Balistreri,140093,20,Italy,Centre-Forward,CF,,US Cremonese,Italy,0.0,1
+2006,Serie A,US Palermo,summer,out,Andrea Bovo,21837,20,Italy,Central Midfield,CM,400000.0,AS Bari,Italy,0.0,1
+2006,Serie A,US Palermo,summer,out,Cristiano Lupatelli,5908,28,Italy,Goalkeeper,GK,1500000.0,ACF Fiorentina,Italy,0.0,1
+2006,Serie A,US Palermo,summer,out,Mariano Andújar,35491,22,Argentina,Goalkeeper,GK,600000.0,CA Huracán,Argentina,0.0,1
+2006,Serie A,US Palermo,winter,out,Francesco Parravicini,23364,25,Italy,Defensive Midfield,DM,900000.0,Parma FC,Italy,0.0,1
+2006,Serie A,US Palermo,winter,out,Cesare Bovo,5946,23,Italy,Centre-Back,CB,4500000.0,Torino FC,Italy,0.0,1
+2006,Serie A,US Palermo,winter,out,Pietro Balistreri,140093,21,Italy,Centre-Forward,CF,,Gela Calcio,Italy,0.0,1
+2006,Serie A,Udinese Calcio,summer,in,Alexis Sánchez,40433,17,Chile,Centre-Forward,CF,,CD Cobreloa,Chile,3000000.0,0
+2006,Serie A,Udinese Calcio,summer,in,Aleksandar Lukovic,19712,23,Serbia,Centre-Back,CB,3000000.0,Red Star Belgrade,Serbia,2700000.0,0
+2006,Serie A,Udinese Calcio,summer,in,Andrea Coda,28833,21,Italy,Centre-Back,CB,4200000.0,FC Empoli,Italy,2320000.0,0
+2006,Serie A,Udinese Calcio,summer,in,Gaetano D'Agostino,6157,24,Italy,Central Midfield,CM,5000000.0,AS Roma,Italy,1200000.0,0
+2006,Serie A,Udinese Calcio,summer,in,Christian Tiboni,44376,18,Italy,Centre-Forward,CF,,Atalanta BC,Italy,1100000.0,0
+2006,Serie A,Udinese Calcio,summer,in,Michele Rinaldi,44666,19,Italy,Centre-Back,CB,,Atalanta Primavera,Italy,800000.0,0
+2006,Serie A,Udinese Calcio,summer,in,Juan Surraco,44375,18,Uruguay,Second Striker,SS,,Central Español FC,Uruguay,625000.0,0
+2006,Serie A,Udinese Calcio,summer,in,Andrea Dossena,21863,24,Italy,Left Midfield,LM,400000.0,Treviso FBC 1993,Italy,500000.0,0
+2006,Serie A,Udinese Calcio,summer,in,Schumacher,44662,19,Brazil,Centre-Forward,CF,,Atlético Paranaense,Brazil,250000.0,0
+2006,Serie A,Udinese Calcio,summer,in,José Montiel,38803,18,Paraguay,Central Midfield,CM,,Olimpia Asunción,Paraguay,0.0,0
+2006,Serie A,Udinese Calcio,summer,in,Guilherme Siqueira,44373,20,Brazil,Left-Back,LB,,Inter Milan Primavera,Italy,,0
+2006,Serie A,Udinese Calcio,summer,in,Flavio Lazzari,33340,19,Italy,Attacking Midfield,AM,100000.0,ASD Nuova Lodigiani 2005,Italy,,0
+2006,Serie A,Udinese Calcio,summer,in,Igor Djuric,33756,17,Switzerland,Centre-Back,CB,50000.0,AC Bellinzona,Switzerland,,0
+2006,Serie A,Udinese Calcio,winter,in,Tomas Sivok,26936,23,Czech Republic,Centre-Back,CB,800000.0,AC Sparta Prague,Czech Republic,2000000.0,0
+2006,Serie A,Udinese Calcio,winter,in,Tomas Zapotocny,21262,26,Czech Republic,Centre-Back,CB,350000.0,FC Slovan Liberec,Czech Republic,500000.0,0
+2006,Serie A,Udinese Calcio,winter,in,Fabrizio Casazza,16855,36,Italy,Goalkeeper,GK,400000.0,AC Pavia,Italy,150000.0,0
+2006,Serie A,Udinese Calcio,summer,out,Stefano Mauri,6043,26,Italy,Attacking Midfield,AM,3000000.0,SS Lazio,Italy,3500000.0,0
+2006,Serie A,Udinese Calcio,summer,out,Cribari,6017,26,Brazil,Centre-Back,CB,3000000.0,SS Lazio,Italy,3000000.0,0
+2006,Serie A,Udinese Calcio,summer,out,Valerio Bertotto,5884,33,Italy,Centre-Back,CB,1250000.0,AC Siena,Italy,2500000.0,0
+2006,Serie A,Udinese Calcio,summer,out,Fernando Tissone,35871,20,Argentina,Defensive Midfield,DM,2000000.0,Atalanta BC,Italy,1500000.0,0
+2006,Serie A,Udinese Calcio,summer,out,Fabio Quagliarella,22328,23,Italy,Centre-Forward,CF,1800000.0,UC Sampdoria,Italy,1500000.0,0
+2006,Serie A,Udinese Calcio,summer,out,Mirko Pieri,5894,27,Italy,Left-Back,LB,400000.0,UC Sampdoria,Italy,600000.0,0
+2006,Serie A,Udinese Calcio,summer,out,Alexis Sánchez,40433,17,Chile,Centre-Forward,CF,,CSD Colo-Colo,Chile,150000.0,1
+2006,Serie A,Udinese Calcio,summer,out,Fausto Rossini,16872,28,Italy,Centre-Forward,CF,1500000.0,Calcio Catania,Italy,0.0,0
+2006,Serie A,Udinese Calcio,summer,out,José Luís Vidigal,17407,33,Portugal,Defensive Midfield,DM,1500000.0,AS Livorno,Italy,0.0,0
+2006,Serie A,Udinese Calcio,summer,out,Vincent Candela,5939,32,France,Left-Back,LB,1500000.0,AC Siena,Italy,0.0,0
+2006,Serie A,Udinese Calcio,summer,out,Al-Saadi Al Gaddafi,6193,33,Libya,Attacking Midfield,AM,200000.0,Al-Jamahiriyah,Libya,0.0,0
+2006,Serie A,Udinese Calcio,summer,out,Ivan Buonocunto,138392,20,Italy,Attacking Midfield,AM,,AC Prato,Italy,0.0,1
+2006,Serie A,Udinese Calcio,summer,out,Flavio Lazzari,33340,19,Italy,Attacking Midfield,AM,100000.0,Modena FC,Italy,0.0,1
+2006,Serie A,Udinese Calcio,summer,out,Olivier Renard,5881,27,Belgium,Goalkeeper,GK,350000.0,Standard Liège,Belgium,,0
+2006,Serie A,Udinese Calcio,summer,out,Piermario Morosini,35864,19,Italy,Central Midfield,CM,200000.0,Bologna FC 1909,Italy,0.0,1
+2006,Serie A,Udinese Calcio,summer,out,Ferdinando Sforzini,33349,21,Italy,Centre-Forward,CF,200000.0,Modena FC,Italy,0.0,1
+2006,Serie A,Udinese Calcio,summer,out,Aleksandar Lukovic,19712,23,Serbia,Centre-Back,CB,3000000.0,Ascoli Calcio 1898,Italy,0.0,1
+2006,Serie A,Udinese Calcio,summer,out,Samir Handanovič,28021,22,Slovenia,Goalkeeper,GK,400000.0,Rimini FC,Italy,0.0,1
+2006,Serie A,Udinese Calcio,summer,out,Simone Pepe,17249,22,Italy,Right Winger,RW,2800000.0,Cagliari Calcio,Italy,0.0,1
+2006,Serie A,Udinese Calcio,summer,out,Zlatan Muslimovic,30650,25,Bosnia-Herzegovina,Centre-Forward,CF,1000000.0,Parma FC,Italy,0.0,1
+2006,Serie A,Udinese Calcio,summer,out,Salvatore Masiello,21769,24,Italy,Left-Back,LB,800000.0,FC Messina Peloro,Italy,0.0,1
+2006,Serie A,Udinese Calcio,summer,out,Andrea Peron,138395,19,Italy,Centre-Forward,CF,,U.S. Rivignano,Italy,0.0,1
+2006,Serie A,Udinese Calcio,summer,out,Juarez,28012,32,Brazil,Centre-Back,CB,200000.0,Retired,,,0
+2006,Serie A,Udinese Calcio,summer,out,Roberto Baronio,6089,28,Italy,Defensive Midfield,DM,3000000.0,SS Lazio,Italy,0.0,1
+2006,Serie A,Udinese Calcio,summer,out,Flavio Lazzari,33340,19,Italy,Attacking Midfield,AM,100000.0,ASD Nuova Lodigiani 2005,Italy,0.0,1
+2006,Serie A,Udinese Calcio,summer,out,Rodrigo Defendi,18981,20,Brazil,Centre-Back,CB,700000.0,Tottenham Hotspur,England,0.0,1
+2006,Serie A,Udinese Calcio,winter,out,Roman Eremenko,44367,19,Finland,Attacking Midfield,AM,50000.0,AC Siena,Italy,350000.0,1
+2006,Serie A,Udinese Calcio,winter,out,Michele Rinaldi,44666,19,Italy,Centre-Back,CB,50000.0,Parma Primavera,Italy,175000.0,1
+2006,Serie A,Udinese Calcio,winter,out,Abel Aguilar,37388,22,Colombia,Defensive Midfield,DM,100000.0,Xerez CD,Spain,150000.0,1
+2006,Serie A,Udinese Calcio,winter,out,Gabriele Paoletti,34339,28,Italy,Goalkeeper,GK,800000.0,FC Messina Peloro,Italy,0.0,0
+2006,Serie A,Udinese Calcio,winter,out,Claudio Vargas,44670,21,Paraguay,Defensive Midfield,DM,50000.0,Tacuary Football Club,Paraguay,0.0,1
+2006,Serie A,Udinese Calcio,winter,out,Federico Gerardi,44368,19,Italy,Centre-Forward,CF,50000.0,AC Pistoiese,Italy,0.0,1
+2006,Serie A,Udinese Calcio,winter,out,Paul Ramirez,84665,20,Venezuela,Centre-Forward,CF,,FUA Maracaibo,Venezuela,,0
+2006,Serie A,Udinese Calcio,winter,out,Schumacher,44662,20,Brazil,Centre-Forward,CF,100000.0,Ciudad de Murcia,Spain,0.0,1

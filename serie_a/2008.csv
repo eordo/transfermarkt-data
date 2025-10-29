@@ -1,0 +1,875 @@
+season,league,club,window,movement,player_name,player_id,age,nationality,position,pos,market_value,dealing_club,dealing_country,fee,is_loan
+2008,Serie A,AC Milan,summer,in,Ronaldinho,3373,28,Brazil,Left Winger,LW,35000000.0,FC Barcelona,Spain,24150000.0,0
+2008,Serie A,AC Milan,summer,in,Marco Borriello,5825,26,Italy,Centre-Forward,CF,12000000.0,Genoa CFC,Italy,11750000.0,0
+2008,Serie A,AC Milan,summer,in,Gianluca Zambrotta,5757,31,Italy,Right-Back,RB,16000000.0,FC Barcelona,Spain,10500000.0,0
+2008,Serie A,AC Milan,summer,in,Luca Antonini,6792,25,Italy,Left-Back,LB,2800000.0,FC Empoli,Italy,2900000.0,0
+2008,Serie A,AC Milan,summer,in,Luca Ceccarelli,39675,25,Italy,Centre-Back,CB,300000.0,Inter Milan,Italy,2580000.0,0
+2008,Serie A,AC Milan,summer,in,Tabaré Viúdez,76749,18,Uruguay,Right Winger,RW,,Defensor Sporting Club,Uruguay,2500000.0,0
+2008,Serie A,AC Milan,summer,in,Philippe Senderos,4277,23,Switzerland,Centre-Back,CB,6500000.0,Arsenal FC,England,2500000.0,1
+2008,Serie A,AC Milan,summer,in,Mathías Cardacio,72648,20,Uruguay,Central Midfield,CM,,Club Nacional,Uruguay,2000000.0,0
+2008,Serie A,AC Milan,summer,in,Mathieu Flamini,17396,24,France,Defensive Midfield,DM,11000000.0,Arsenal FC,England,0.0,0
+2008,Serie A,AC Milan,summer,in,Andriy Shevchenko,3522,31,Ukraine,Centre-Forward,CF,16000000.0,Chelsea FC,England,0.0,1
+2008,Serie A,AC Milan,winter,in,Thiago Silva,29241,24,Brazil,Centre-Back,CB,7500000.0,Fluminense Football Club,Brazil,10000000.0,0
+2008,Serie A,AC Milan,winter,in,Marcus Diniz,56621,21,Brazil,Centre-Back,CB,,AS Livorno,Italy,5000000.0,0
+2008,Serie A,AC Milan,winter,in,David Beckham,3139,33,England,Central Midfield,CM,9000000.0,Los Angeles Galaxy,United States,0.0,1
+2008,Serie A,AC Milan,winter,in,Felipe Mattioni,52432,20,Brazil,Right-Back,RB,1300000.0,Associação Maga Esporte Clube (SC),Brazil,0.0,1
+2008,Serie A,AC Milan,summer,out,Alberto Gilardino,5878,25,Italy,Centre-Forward,CF,17000000.0,ACF Fiorentina,Italy,14000000.0,0
+2008,Serie A,AC Milan,summer,out,Ricardo Oliveira,15468,28,Brazil,Centre-Forward,CF,11000000.0,Real Zaragoza,Spain,10000000.0,0
+2008,Serie A,AC Milan,summer,out,Davide Astori,87210,21,Italy,Centre-Back,CB,,Cagliari Calcio,Italy,5000000.0,0
+2008,Serie A,AC Milan,summer,out,Leandro Grimi,45317,23,Argentina,Left-Back,LB,1200000.0,Sporting CP,Portugal,2500000.0,0
+2008,Serie A,AC Milan,summer,out,Paolo Sammarco,7101,25,Italy,Central Midfield,CM,6500000.0,UC Sampdoria,Italy,2400000.0,0
+2008,Serie A,AC Milan,summer,out,Alberto Paloschi,68306,18,Italy,Centre-Forward,CF,3000000.0,Parma FC,Italy,2250000.0,0
+2008,Serie A,AC Milan,summer,out,Ignazio Abate,16631,21,Italy,Right-Back,RB,1100000.0,Torino FC,Italy,2200000.0,0
+2008,Serie A,AC Milan,summer,out,Cristian Brocchi,5812,32,Italy,Central Midfield,CM,1500000.0,SS Lazio,Italy,2000000.0,0
+2008,Serie A,AC Milan,summer,out,Davide Di Gennaro,52136,20,Italy,Attacking Midfield,AM,600000.0,Genoa CFC,Italy,1500000.0,0
+2008,Serie A,AC Milan,summer,out,Yoann Gourcuff,18912,21,France,Attacking Midfield,AM,5500000.0,FC Girondins Bordeaux,France,1400000.0,1
+2008,Serie A,AC Milan,summer,out,Lino Marzorati,41935,21,Italy,Centre-Back,CB,4000000.0,FC Empoli,Italy,1250000.0,0
+2008,Serie A,AC Milan,summer,out,Romano Perticone,44294,21,Italy,Centre-Back,CB,50000.0,AS Livorno,Italy,1200000.0,0
+2008,Serie A,AC Milan,summer,out,Ferdinando Coppola,5986,30,Italy,Goalkeeper,GK,4000000.0,Atalanta BC,Italy,900000.0,0
+2008,Serie A,AC Milan,summer,out,Luca Antonelli,45565,21,Italy,Left-Back,LB,400000.0,Parma FC,Italy,750000.0,0
+2008,Serie A,AC Milan,summer,out,Marcus Diniz,56621,20,Brazil,Centre-Back,CB,,AS Livorno,Italy,600000.0,0
+2008,Serie A,AC Milan,summer,out,Matteo Ardemagni,85603,21,Italy,Centre-Forward,CF,,US Triestina,Italy,55000.0,0
+2008,Serie A,AC Milan,summer,out,Luca Ceccarelli,39675,25,Italy,Centre-Back,CB,300000.0,Hellas Verona,Italy,0.0,0
+2008,Serie A,AC Milan,summer,out,Dario Simic,2540,32,Croatia,Centre-Back,CB,1500000.0,AS Monaco,France,0.0,0
+2008,Serie A,AC Milan,summer,out,Digão,44365,22,Brazil,Centre-Back,CB,200000.0,Standard Liège,Belgium,0.0,1
+2008,Serie A,AC Milan,summer,out,Sandro Bloudek,31393,22,Slovenia,Attacking Midfield,AM,300000.0,NK Varteks Varazdin,Croatia,0.0,1
+2008,Serie A,AC Milan,summer,out,Massimo Oddo,5837,32,Italy,Right-Back,RB,8000000.0,Bayern Munich,Germany,0.0,1
+2008,Serie A,AC Milan,summer,out,Filippo Porcari,61358,24,Italy,Defensive Midfield,DM,300000.0,Novara Calcio 1908,Italy,,0
+2008,Serie A,AC Milan,summer,out,Marco Storari,19136,31,Italy,Goalkeeper,GK,1300000.0,ACF Fiorentina,Italy,0.0,1
+2008,Serie A,AC Milan,summer,out,Patrick Kalambay,45113,24,Italy,Right Midfield,RM,50000.0,Calcio Como,Italy,0.0,1
+2008,Serie A,AC Milan,summer,out,Davide Facchin,45570,21,Italy,Goalkeeper,GK,100000.0,Calcio Padova,Italy,0.0,1
+2008,Serie A,AC Milan,summer,out,William-Fils Aubameyang,54896,21,Gabon,Centre-Back,CB,250000.0,US Avellino,Italy,0.0,1
+2008,Serie A,AC Milan,summer,out,Pierre-Emerick Aubameyang,58864,19,Gabon,Centre-Forward,CF,,Dijon FCO,France,0.0,1
+2008,Serie A,AC Milan,summer,out,Elia Legati,77970,22,Italy,Centre-Back,CB,,AS Monaco,France,0.0,1
+2008,Serie A,AC Milan,summer,out,Serginho,5819,37,Brazil,Left-Back,LB,1000000.0,Retired,,,0
+2008,Serie A,AC Milan,summer,out,Valerio Fiori,5799,39,Italy,Goalkeeper,GK,50000.0,Retired,,,0
+2008,Serie A,AC Milan,summer,out,Ronaldo,3140,31,Brazil,Centre-Forward,CF,14000000.0,Without Club,,,0
+2008,Serie A,AC Milan,summer,out,Ibrahim Bá,5815,34,France,Right Midfield,RM,50000.0,Retired,,,0
+2008,Serie A,AC Milan,summer,out,Cafu,5937,38,Brazil,Right-Back,RB,1500000.0,Retired,,,0
+2008,Serie A,AC Milan,winter,out,Elia Legati,77970,22,Italy,Centre-Back,CB,50000.0,Novara Calcio 1908,Italy,0.0,1
+2008,Serie A,AC Milan,winter,out,Marcus Diniz,56621,21,Brazil,Centre-Back,CB,,FC Crotone,Italy,0.0,1
+2008,Serie A,AC Milan,winter,out,Emerson,70,33,Brazil,Defensive Midfield,DM,2000000.0,Without Club,,,0
+2008,Serie A,AC Siena,summer,in,Emanuele Calaiò,22268,26,Italy,Centre-Forward,CF,1200000.0,SSC Napoli,Italy,3550000.0,0
+2008,Serie A,AC Siena,summer,in,Gianluca Curci,24001,22,Italy,Goalkeeper,GK,3000000.0,AS Roma,Italy,1750000.0,0
+2008,Serie A,AC Siena,summer,in,Abdelkader Ghezzal,76406,23,Algeria,Centre-Forward,CF,,Genoa CFC,Italy,1500000.0,0
+2008,Serie A,AC Siena,summer,in,Camilo Zúñiga,37941,22,Colombia,Left Midfield,LM,,Atlético Nacional,Colombia,1500000.0,0
+2008,Serie A,AC Siena,summer,in,Nicola Belmonte,43082,21,Italy,Centre-Back,CB,50000.0,AS Bari,Italy,1500000.0,0
+2008,Serie A,AC Siena,summer,in,Houssine Kharja,21822,25,Morocco,Central Midfield,CM,2300000.0,Piacenza FC,Italy,1200000.0,0
+2008,Serie A,AC Siena,summer,in,Andrea Rossi,44280,21,Italy,Left-Back,LB,300000.0,Juventus FC,Italy,1000000.0,0
+2008,Serie A,AC Siena,summer,in,Cristiano Del Grosso,34211,25,Italy,Left-Back,LB,500000.0,Cagliari Calcio,Italy,800000.0,0
+2008,Serie A,AC Siena,summer,in,Cosmin Moți,26675,23,Romania,Centre-Back,CB,1000000.0,FC Dinamo 1948,Romania,600000.0,1
+2008,Serie A,AC Siena,summer,in,Gianluca Sansone,84846,21,Italy,Centre-Forward,CF,,AS Pescina Valle del Giovenco,Italy,500000.0,0
+2008,Serie A,AC Siena,summer,in,Manuel Mancini,32095,24,Italy,Central Midfield,CM,,Taranto SS,Italy,300000.0,0
+2008,Serie A,AC Siena,summer,in,Antonio Zito,75608,22,Italy,Left Midfield,LM,,Taranto SS,Italy,300000.0,0
+2008,Serie A,AC Siena,summer,in,Lorenzo Del Prete,78615,22,Italy,Right-Back,RB,,SS Virtus Lanciano,Italy,100000.0,0
+2008,Serie A,AC Siena,summer,in,Gonçalo Brandão,14195,21,Portugal,Centre-Back,CB,500000.0,CF Os Belenenses,Portugal,0.0,0
+2008,Serie A,AC Siena,summer,in,Ahmed Barusso,40979,23,Ghana,Defensive Midfield,DM,3000000.0,AS Roma,Italy,0.0,1
+2008,Serie A,AC Siena,summer,in,Manuel Mancini,32095,25,Italy,Central Midfield,CM,50000.0,FC Rieti,Italy,,0
+2008,Serie A,AC Siena,summer,in,Marco Di Crescenzo,137106,20,Italy,Centre-Forward,CF,,AC Sangiustese,Italy,,0
+2008,Serie A,AC Siena,summer,in,Marcelo Larrondo,87463,19,Chile,Centre-Forward,CF,,CA River Plate,Argentina,0.0,1
+2008,Serie A,AC Siena,winter,in,Manuel Coppola,28851,26,Italy,Central Midfield,CM,500000.0,Genoa CFC,Italy,1800000.0,0
+2008,Serie A,AC Siena,winter,in,Nicola Amoruso,4150,34,Italy,Centre-Forward,CF,3300000.0,Torino FC,Italy,0.0,1
+2008,Serie A,AC Siena,winter,in,Emanuele Manitta,24327,31,Italy,Goalkeeper,GK,500000.0,Without Club,,,0
+2008,Serie A,AC Siena,summer,out,Paolo De Ceglie,44709,21,Italy,Left-Back,LB,3200000.0,Juventus FC,Italy,3500000.0,0
+2008,Serie A,AC Siena,summer,out,Simone Loria,20741,31,Italy,Centre-Back,CB,3700000.0,AS Roma,Italy,2800000.0,0
+2008,Serie A,AC Siena,summer,out,Artur Moraes,20394,27,Brazil,Goalkeeper,GK,400000.0,AS Roma,Italy,750000.0,0
+2008,Serie A,AC Siena,summer,out,Caetano Calil,56723,24,Brazil,Centre-Forward,CF,50000.0,FC Crotone,Italy,500000.0,0
+2008,Serie A,AC Siena,summer,out,Enrico Chiesa,7329,37,Italy,Centre-Forward,CF,500000.0,AS Calcio Figline,Italy,0.0,0
+2008,Serie A,AC Siena,summer,out,Alberto Valentim,5883,33,Brazil,Right Midfield,RM,450000.0,Atlético Paranaense,Brazil,0.0,0
+2008,Serie A,AC Siena,summer,out,Alessandro Rigoli,56758,21,Italy,Centre-Back,CB,50000.0,Sangimignano Sport,Italy,0.0,0
+2008,Serie A,AC Siena,summer,out,Matteo Prandelli,137113,19,Italy,Centre-Forward,CF,,AS Pescina Valle del Giovenco,Italy,0.0,1
+2008,Serie A,AC Siena,summer,out,Pasquale Iadaresta,39800,22,Italy,Centre-Forward,CF,125000.0,Foligno Calcio,Italy,0.0,1
+2008,Serie A,AC Siena,summer,out,Manuel Mancini,32095,24,Italy,Central Midfield,CM,,FC Rieti,Italy,,0
+2008,Serie A,AC Siena,summer,out,Marco Di Crescenzo,137106,19,Italy,Centre-Forward,CF,,US Poggibonsi,Italy,,0
+2008,Serie A,AC Siena,summer,out,Stefano Pezzana,789674,21,Italy,Midfielder,Midfielder,,Noicattaro Calcio,Italy,,0
+2008,Serie A,AC Siena,summer,out,Tomas Locatelli,5996,32,Italy,Attacking Midfield,AM,1400000.0,AC Mantova 1911,Italy,,0
+2008,Serie A,AC Siena,summer,out,Thomas Albanese,83401,20,Italy,Centre-Forward,CF,,Legnano AC,Italy,0.0,1
+2008,Serie A,AC Siena,summer,out,Richard Porta,59305,25,Uruguay,Centre-Forward,CF,700000.0,CF Os Belenenses,Portugal,0.0,1
+2008,Serie A,AC Siena,summer,out,Daniele Corvia,16863,23,Italy,Centre-Forward,CF,1200000.0,FC Empoli,Italy,0.0,1
+2008,Serie A,AC Siena,summer,out,Mirko Guadalupi,56742,21,Italy,Central Midfield,CM,50000.0,AC Ancona,Italy,0.0,1
+2008,Serie A,AC Siena,summer,out,Gennaro Esposito,22823,23,Italy,Defensive Midfield,DM,100000.0,Gallipoli Calcio,Italy,0.0,1
+2008,Serie A,AC Siena,summer,out,Leonardo Blanchard,119366,20,Italy,Centre-Back,CB,,AS Pescina Valle del Giovenco,Italy,0.0,1
+2008,Serie A,AC Siena,summer,out,Luca Pietrobattista,137111,20,Italy,Defensive Midfield,DM,,AS Pescina Valle del Giovenco,Italy,0.0,1
+2008,Serie A,AC Siena,summer,out,Alessandro Bettega,56692,21,Italy,Central Midfield,CM,50000.0,Ravenna Calcio,Italy,0.0,1
+2008,Serie A,AC Siena,summer,out,Giovanni Bartolucci,22132,24,Italy,Right-Back,RB,300000.0,AC Pistoiese,Italy,0.0,1
+2008,Serie A,AC Siena,summer,out,Rosario Pepe,56757,21,Belgium,Central Midfield,CM,,Without Club,,,0
+2008,Serie A,AC Siena,summer,out,Valerio Bertotto,5884,35,Italy,Centre-Back,CB,350000.0,Without Club,,,0
+2008,Serie A,AC Siena,summer,out,Alexander Manninger,5278,31,Austria,Goalkeeper,GK,3000000.0,Red Bull Salzburg,Austria,0.0,1
+2008,Serie A,AC Siena,summer,out,Christian Riganò,21153,34,Italy,Centre-Forward,CF,1900000.0,Levante UD,Spain,0.0,1
+2008,Serie A,AC Siena,summer,out,Andrea Rossi,44280,21,Italy,Left-Back,LB,300000.0,Juventus FC,Italy,0.0,1
+2008,Serie A,AC Siena,summer,out,Houssine Kharja,21822,25,Morocco,Central Midfield,CM,2300000.0,Piacenza FC,Italy,0.0,1
+2008,Serie A,AC Siena,winter,out,Pasquale Iadaresta,39800,22,Italy,Centre-Forward,CF,125000.0,US Vibonese,Italy,0.0,1
+2008,Serie A,AC Siena,winter,out,Gianluca Sansone,84846,21,Italy,Centre-Forward,CF,50000.0,Gallipoli Calcio,Italy,0.0,1
+2008,Serie A,AC Siena,winter,out,Rodrigo Lazzari,56766,28,Brazil,Centre-Back,CB,50000.0,VF Colligiana,Italy,0.0,1
+2008,Serie A,AC Siena,winter,out,Anssi Jaakkola,18223,21,Finland,Goalkeeper,GK,50000.0,VF Colligiana,Italy,0.0,1
+2008,Serie A,AC Siena,winter,out,Maximiliano Re,55221,21,Argentina,Attacking Midfield,AM,50000.0,VF Colligiana,Italy,0.0,1
+2008,Serie A,AC Siena,winter,out,Fernando Forestieri,44948,18,Italy,Second Striker,SS,1300000.0,Genoa CFC,Italy,0.0,1
+2008,Serie A,AC Siena,winter,out,Cosmin Moți,26675,24,Romania,Centre-Back,CB,800000.0,FC Dinamo 1948,Romania,0.0,1
+2008,Serie A,ACF Fiorentina,summer,in,Alberto Gilardino,5878,25,Italy,Centre-Forward,CF,17000000.0,AC Milan,Italy,14000000.0,0
+2008,Serie A,ACF Fiorentina,summer,in,Juan Manuel Vargas,30584,24,Peru,Left-Back,LB,11000000.0,Calcio Catania,Italy,12000000.0,0
+2008,Serie A,ACF Fiorentina,summer,in,Stevan Jovetić,46104,18,Montenegro,Second Striker,SS,7000000.0,FK Partizan Belgrade,Serbia,8000000.0,0
+2008,Serie A,ACF Fiorentina,summer,in,Felipe Melo,35537,25,Brazil,Defensive Midfield,DM,5000000.0,UD Almería,Spain,8000000.0,0
+2008,Serie A,ACF Fiorentina,summer,in,Gianluca Comotto,16685,29,Italy,Right-Back,RB,2700000.0,Torino FC,Italy,4800000.0,0
+2008,Serie A,ACF Fiorentina,summer,in,Sergio Almirón,5890,27,Argentina,Central Midfield,CM,6000000.0,Juventus FC,Italy,500000.0,1
+2008,Serie A,ACF Fiorentina,summer,in,Luciano Zauri,6832,30,Italy,Right-Back,RB,4000000.0,SS Lazio,Italy,400000.0,1
+2008,Serie A,ACF Fiorentina,summer,in,Marco Storari,19136,31,Italy,Goalkeeper,GK,1300000.0,AC Milan,Italy,0.0,1
+2008,Serie A,ACF Fiorentina,winter,in,Emiliano Bonazzoli,5877,29,Italy,Centre-Forward,CF,2100000.0,UC Sampdoria,Italy,0.0,1
+2008,Serie A,ACF Fiorentina,summer,out,Alessandro Potenza,16828,24,Italy,Right-Back,RB,2000000.0,Genoa CFC,Italy,2200000.0,0
+2008,Serie A,ACF Fiorentina,summer,out,Stefano Del Sante,29608,21,Italy,Centre-Forward,CF,150000.0,Varese 1910,Italy,120000.0,0
+2008,Serie A,ACF Fiorentina,summer,out,Henry Okoroji,514156,24,Nigeria,Centre-Back,CB,,FC Pro Vasto,Italy,0.0,0
+2008,Serie A,ACF Fiorentina,summer,out,Guly,22801,26,Brazil,Attacking Midfield,AM,100000.0,Pro Patria Gallaratese GB,Italy,0.0,0
+2008,Serie A,ACF Fiorentina,summer,out,Christian Vieri,5797,34,Italy,Centre-Forward,CF,3000000.0,Atalanta BC,Italy,0.0,0
+2008,Serie A,ACF Fiorentina,summer,out,Fabio Liverani,5846,32,Italy,Defensive Midfield,DM,6000000.0,US Palermo,Italy,0.0,0
+2008,Serie A,ACF Fiorentina,summer,out,Tomas Ujfalusi,325,30,Czech Republic,Centre-Back,CB,10500000.0,Atlético de Madrid,Spain,0.0,0
+2008,Serie A,ACF Fiorentina,summer,out,Arturo Lupoli,22227,21,Italy,Centre-Forward,CF,1000000.0,Norwich City,England,0.0,1
+2008,Serie A,ACF Fiorentina,summer,out,Samuel Di Carmine,45389,19,Italy,Centre-Forward,CF,250000.0,Queens Park Rangers,England,0.0,1
+2008,Serie A,ACF Fiorentina,summer,out,Andrea Paolucci,44540,21,Italy,Defensive Midfield,DM,100000.0,Taranto SS,Italy,0.0,1
+2008,Serie A,ACF Fiorentina,summer,out,David Mateo,44434,21,Brazil,Centre-Back,CB,,Calcio Lecco 1912,Italy,0.0,1
+2008,Serie A,ACF Fiorentina,summer,out,Cristiano Lupatelli,5908,30,Italy,Goalkeeper,GK,500000.0,Cagliari Calcio,Italy,,0
+2008,Serie A,ACF Fiorentina,summer,out,Matthias Lepiller,44876,20,France,Second Striker,SS,50000.0,Grasshopper Club Zurich,Switzerland,0.0,1
+2008,Serie A,ACF Fiorentina,summer,out,Davide Carcuro,57638,21,Italy,Central Midfield,CM,,FC Crotone,Italy,0.0,1
+2008,Serie A,ACF Fiorentina,summer,out,Luca Petri,57656,19,Italy,Centre-Back,CB,,Aquila Montevarchi 1902,Italy,0.0,1
+2008,Serie A,ACF Fiorentina,summer,out,Nicolò Manfredini,139743,20,Italy,Goalkeeper,GK,,AS Gubbio 1910,Italy,0.0,1
+2008,Serie A,ACF Fiorentina,winter,out,Giampaolo Pazzini,19447,24,Italy,Centre-Forward,CF,10000000.0,UC Sampdoria,Italy,9000000.0,0
+2008,Serie A,ACF Fiorentina,winter,out,Daniel Osvaldo,37389,23,Italy,Centre-Forward,CF,4000000.0,Bologna FC 1909,Italy,7000000.0,0
+2008,Serie A,ACF Fiorentina,winter,out,Jan Hable,50470,20,Czech Republic,Central Midfield,CM,450000.0,FC Banik Ostrava,Czech Republic,0.0,1
+2008,Serie A,ACF Fiorentina,winter,out,Arturo Lupoli,22227,21,Italy,Centre-Forward,CF,1250000.0,Sheffield United,England,0.0,1
+2008,Serie A,ACF Fiorentina,winter,out,Matthias Lepiller,44876,20,France,Second Striker,SS,50000.0,KAS Eupen,Belgium,0.0,1
+2008,Serie A,ACF Fiorentina,winter,out,N'Diaye Papa Waigo,21871,24,Senegal,Right Winger,RW,2000000.0,US Lecce,Italy,0.0,1
+2008,Serie A,ACF Fiorentina,winter,out,Manuel da Costa,37398,22,Morocco,Centre-Back,CB,2000000.0,UC Sampdoria,Italy,0.0,1
+2008,Serie A,ACF Fiorentina,winter,out,Nikola Gulan,46553,19,Serbia,Defensive Midfield,DM,900000.0,TSV 1860 Munich,Germany,0.0,1
+2008,Serie A,ACF Fiorentina,winter,out,Lorenzo Morelli,57652,20,Italy,Centre-Forward,CF,50000.0,SSC Venezia,Italy,0.0,1
+2008,Serie A,AS Roma,summer,in,Jérémy Ménez,16993,21,France,Centre-Forward,CF,7500000.0,AS Monaco,France,12000000.0,0
+2008,Serie A,AS Roma,summer,in,Júlio Baptista,15952,26,Brazil,Attacking Midfield,AM,11000000.0,Real Madrid,Spain,10000000.0,0
+2008,Serie A,AS Roma,summer,in,John Arne Riise,3220,27,Norway,Left-Back,LB,10000000.0,Liverpool FC,England,5500000.0,0
+2008,Serie A,AS Roma,summer,in,Simone Loria,20741,31,Italy,Centre-Back,CB,3700000.0,AC Siena,Italy,2800000.0,0
+2008,Serie A,AS Roma,summer,in,Antunes,44699,21,Portugal,Left-Back,LB,1000000.0,FC Paços de Ferreira,Portugal,1200000.0,0
+2008,Serie A,AS Roma,summer,in,Artur Moraes,20394,27,Brazil,Goalkeeper,GK,400000.0,AC Siena,Italy,750000.0,0
+2008,Serie A,AS Roma,summer,in,Leandro Greco,39831,21,Italy,Central Midfield,CM,100000.0,Hellas Verona,Italy,150000.0,0
+2008,Serie A,AS Roma,summer,in,Filipe,34779,21,Brazil,Defensive Midfield,DM,,Fiorentina Primavera,Italy,0.0,0
+2008,Serie A,AS Roma,summer,in,Felipe Ribeiro Gomes,570847,21,Brazil,Midfielder,Midfielder,,Unknown,,,0
+2008,Serie A,AS Roma,winter,in,Souleymane Diamoutene,8189,25,Mali,Centre-Back,CB,1000000.0,US Lecce,Italy,150000.0,1
+2008,Serie A,AS Roma,winter,in,Marco Motta,30333,22,Italy,Right-Back,RB,2300000.0,Udinese Calcio,Italy,0.0,1
+2008,Serie A,AS Roma,winter,in,Lorenzo Poli,105315,18,Italy,Left-Back,LB,,US Vibonese,Italy,,0
+2008,Serie A,AS Roma,summer,out,Mancini,15291,27,Brazil,Left Winger,LW,17500000.0,Inter Milan,Italy,13000000.0,0
+2008,Serie A,AS Roma,summer,out,Ludovic Giuly,5299,32,France,Right Winger,RW,5000000.0,Paris Saint-Germain,France,2500000.0,0
+2008,Serie A,AS Roma,summer,out,Gianluca Curci,24001,22,Italy,Goalkeeper,GK,3000000.0,AC Siena,Italy,1750000.0,0
+2008,Serie A,AS Roma,summer,out,Alessio Cerci,21748,21,Italy,Right Winger,RW,3600000.0,Atalanta BC,Italy,250000.0,1
+2008,Serie A,AS Roma,summer,out,Simone Palermo,55794,20,Italy,Central Midfield,CM,50000.0,Treviso FBC 1993,Italy,200000.0,0
+2008,Serie A,AS Roma,summer,out,Antunes,44699,21,Portugal,Left-Back,LB,2000000.0,US Lecce,Italy,200000.0,1
+2008,Serie A,AS Roma,summer,out,Dario Polverini,55779,21,Italy,Centre-Back,CB,,Pro Patria Gallaratese GB,Italy,100000.0,0
+2008,Serie A,AS Roma,summer,out,Carlo Zotti,16865,25,Italy,Goalkeeper,GK,100000.0,AS Cittadella,Italy,0.0,0
+2008,Serie A,AS Roma,summer,out,Matteo Ferrari,5860,28,Italy,Centre-Back,CB,4000000.0,Genoa CFC,Italy,0.0,0
+2008,Serie A,AS Roma,summer,out,Massimiliano Marsili,55791,21,Italy,Defensive Midfield,DM,,Modena FC,Italy,0.0,1
+2008,Serie A,AS Roma,summer,out,Ahmed Barusso,40979,23,Ghana,Defensive Midfield,DM,3000000.0,AC Siena,Italy,0.0,1
+2008,Serie A,AS Roma,summer,out,Daniele Magliocchetti,44290,22,Italy,Centre-Back,CB,50000.0,Cagliari Calcio,Italy,,0
+2008,Serie A,AS Roma,summer,out,Alessandro Ianniciello,55771,20,Italy,Centre-Back,CB,,Gallipoli Calcio,Italy,0.0,1
+2008,Serie A,AS Roma,summer,out,Marco Viviano,55797,19,Italy,Central Midfield,CM,,SS Virtus Lanciano,Italy,0.0,1
+2008,Serie A,AS Roma,summer,out,Keivan Zarineh,55802,23,Iran,Centre-Forward,CF,,AS Pescina Valle del Giovenco,Italy,0.0,1
+2008,Serie A,AS Roma,summer,out,Mauro Esposito,20735,29,Italy,Right Winger,RW,1500000.0,Chievo Verona,Italy,0.0,1
+2008,Serie A,AS Roma,summer,out,Andrea Giacomini,55787,21,Italy,Left Midfield,LM,,Gallipoli Calcio,Italy,0.0,1
+2008,Serie A,AS Roma,summer,out,Édgar Álvarez,28006,28,Honduras,Right Midfield,RM,900000.0,AC Pisa 1909,Italy,0.0,1
+2008,Serie A,AS Roma,summer,out,Marco Andreolli,36356,22,Italy,Centre-Back,CB,950000.0,US Sassuolo,Italy,0.0,1
+2008,Serie A,AS Roma,summer,out,João Paulo,99926,19,Brazil,Right Midfield,RM,,SS Virtus Lanciano,Italy,0.0,1
+2008,Serie A,AS Roma,summer,out,Manuel Mancini,55790,19,Italy,Left Midfield,LM,,FC Rieti,Italy,0.0,1
+2008,Serie A,AS Roma,summer,out,Cristian Palumbo,55776,19,Italy,Centre-Back,CB,,AS Casale Calcio,Italy,0.0,1
+2008,Serie A,AS Roma,summer,out,Adrian Piț,19924,24,Romania,Left Midfield,LM,50000.0,AC Pisa 1909,Italy,0.0,1
+2008,Serie A,AS Roma,summer,out,Federico Maria Erba,55784,19,Italy,Centre-Back,CB,,SS Virtus Lanciano,Italy,0.0,1
+2008,Serie A,AS Roma,summer,out,Aleandro Rosi,34239,21,Italy,Right-Back,RB,1200000.0,AS Livorno,Italy,0.0,1
+2008,Serie A,AS Roma,summer,out,Antunes,44699,21,Portugal,Left-Back,LB,1000000.0,FC Paços de Ferreira,Portugal,0.0,1
+2008,Serie A,AS Roma,winter,out,Stefano Okaka,35249,19,Italy,Centre-Forward,CF,3500000.0,Brescia Calcio,Italy,0.0,1
+2008,Serie A,AS Roma,winter,out,Valerio Virga,24062,22,Italy,Right-Back,RB,500000.0,Novara Calcio 1908,Italy,0.0,1
+2008,Serie A,AS Roma,winter,out,João Paulo,99926,19,Brazil,Right Midfield,RM,,US Vibonese,Italy,0.0,1
+2008,Serie A,AS Roma,winter,out,Marco Viviano,55797,19,Italy,Central Midfield,CM,,US Grosseto FC,Italy,,0
+2008,Serie A,AS Roma,winter,out,Lorenzo Poli,105315,18,Italy,Left-Back,LB,,Benevento Calcio,Italy,,0
+2008,Serie A,AS Roma,winter,out,Keivan Zarineh,55802,23,Iran,Centre-Forward,CF,,Paganese Calcio 1926,Italy,0.0,1
+2008,Serie A,AS Roma,winter,out,Giuliano Falco,55785,19,Italy,Centre-Back,CB,,US Vibonese,Italy,0.0,1
+2008,Serie A,AS Roma,winter,out,Leandro Greco,39831,22,Italy,Central Midfield,CM,100000.0,AC Pisa 1909,Italy,0.0,1
+2008,Serie A,Atalanta BC,summer,in,Luca Cigarini,33218,22,Italy,Defensive Midfield,DM,7000000.0,Parma FC,Italy,10500000.0,0
+2008,Serie A,Atalanta BC,summer,in,György Garics,2926,24,Austria,Right-Back,RB,2100000.0,SSC Napoli,Italy,2500000.0,0
+2008,Serie A,Atalanta BC,summer,in,Ferdinando Coppola,5986,30,Italy,Goalkeeper,GK,4000000.0,AC Milan,Italy,900000.0,0
+2008,Serie A,Atalanta BC,summer,in,Michele Rinaldi,44666,21,Italy,Centre-Back,CB,200000.0,Udinese Calcio,Italy,600000.0,0
+2008,Serie A,Atalanta BC,summer,in,Alessio Cerci,21748,21,Italy,Right Winger,RW,3600000.0,AS Roma,Italy,250000.0,1
+2008,Serie A,Atalanta BC,summer,in,Christian Vieri,5797,34,Italy,Centre-Forward,CF,3000000.0,ACF Fiorentina,Italy,0.0,0
+2008,Serie A,Atalanta BC,summer,in,Jaime Valdés,22131,27,Chile,Central Midfield,CM,1500000.0,US Lecce,Italy,0.0,0
+2008,Serie A,Atalanta BC,summer,in,Christian Tiboni,44376,20,Italy,Centre-Forward,CF,300000.0,Udinese Calcio,Italy,,0
+2008,Serie A,Atalanta BC,winter,in,Federico Peluso,21763,24,Italy,Left-Back,LB,1500000.0,UC AlbinoLeffe,Italy,1000000.0,0
+2008,Serie A,Atalanta BC,winter,in,Gianvito Plasmati,44116,26,Italy,Centre-Forward,CF,500000.0,Calcio Catania,Italy,300000.0,1
+2008,Serie A,Atalanta BC,winter,in,Francesco Parravicini,23364,27,Italy,Defensive Midfield,DM,650000.0,Parma FC,Italy,0.0,1
+2008,Serie A,Atalanta BC,summer,out,Andrea Lazzari,19442,23,Italy,Central Midfield,CM,2000000.0,Cagliari Calcio,Italy,4800000.0,0
+2008,Serie A,Atalanta BC,summer,out,Fernando Tissone,35871,21,Argentina,Defensive Midfield,DM,5500000.0,Udinese Calcio,Italy,4200000.0,0
+2008,Serie A,Atalanta BC,summer,out,Moris Carrozzieri,6747,27,Italy,Centre-Back,CB,3800000.0,US Palermo,Italy,3400000.0,0
+2008,Serie A,Atalanta BC,summer,out,Zlatan Muslimovic,30650,27,Bosnia-Herzegovina,Centre-Forward,CF,1200000.0,PAOK Thessaloniki,Greece,600000.0,0
+2008,Serie A,Atalanta BC,summer,out,Michele Rinaldi,44666,21,Italy,Centre-Back,CB,200000.0,Rimini FC,Italy,600000.0,0
+2008,Serie A,Atalanta BC,summer,out,George Forsyth,1992,26,Peru,Goalkeeper,GK,300000.0,Club Alianza Lima,Peru,100000.0,0
+2008,Serie A,Atalanta BC,summer,out,Antonio Langella,20739,31,Italy,Second Striker,SS,2750000.0,Udinese Calcio,Italy,0.0,0
+2008,Serie A,Atalanta BC,summer,out,Dario Bergamelli,84468,21,Italy,Centre-Back,CB,,Hellas Verona,Italy,0.0,1
+2008,Serie A,Atalanta BC,summer,out,Stefano Mauri,83380,20,Italy,Left Midfield,LM,,Ternana Calcio,Italy,0.0,1
+2008,Serie A,Atalanta BC,summer,out,Alberto Filippini,85009,21,Italy,Attacking Midfield,AM,,Calcio Padova,Italy,0.0,1
+2008,Serie A,Atalanta BC,summer,out,Michael Cia,85606,19,Italy,Central Midfield,CM,,US Triestina,Italy,0.0,1
+2008,Serie A,Atalanta BC,summer,out,Nicola Barbetti,57277,19,Italy,Defender,Defender,,AS Pizzighettone,Italy,0.0,1
+2008,Serie A,Atalanta BC,summer,out,Matteo Gentili,57291,18,Italy,Centre-Back,CB,,US Pergocrema 1932,Italy,0.0,1
+2008,Serie A,Atalanta BC,summer,out,Andrea Arrigoni,106126,19,Italy,Defensive Midfield,DM,,AC Mezzocorona,Italy,0.0,1
+2008,Serie A,Atalanta BC,summer,out,Christian Tiboni,44376,20,Italy,Centre-Forward,CF,300000.0,Hellas Verona,Italy,0.0,1
+2008,Serie A,Atalanta BC,summer,out,Ivan Radovanovic,46105,19,Serbia,Defensive Midfield,DM,1300000.0,AC Pisa 1909,Italy,0.0,1
+2008,Serie A,Atalanta BC,summer,out,Daniele Gasparetto,44628,20,Italy,Centre-Back,CB,50000.0,Modena FC,Italy,0.0,1
+2008,Serie A,Atalanta BC,summer,out,Andrea Ivan,35866,35,Italy,Goalkeeper,GK,50000.0,Without Club,,,0
+2008,Serie A,Atalanta BC,summer,out,Riccardo Fissore,22209,28,Italy,Centre-Back,CB,350000.0,Vicenza Calcio,Italy,0.0,1
+2008,Serie A,Atalanta BC,summer,out,Ferdinando Coppola,5986,30,Italy,Goalkeeper,GK,4000000.0,AC Milan,Italy,0.0,1
+2008,Serie A,Atalanta BC,summer,out,Michele Paolucci,41311,22,Italy,Centre-Forward,CF,1000000.0,Udinese Calcio,Italy,0.0,1
+2008,Serie A,Atalanta BC,summer,out,Manuel Belleri,6018,30,Italy,Right-Back,RB,1000000.0,SS Lazio,Italy,0.0,1
+2008,Serie A,Atalanta BC,summer,out,Simone Inzaghi,5849,32,Italy,Centre-Forward,CF,250000.0,SS Lazio,Italy,0.0,1
+2008,Serie A,Atalanta BC,winter,out,Alessio Manzoni,23022,21,Italy,Central Midfield,CM,100000.0,Parma FC,Italy,1500000.0,0
+2008,Serie A,Atalanta BC,winter,out,Claudio Rivalta,21697,30,Italy,Centre-Back,CB,2200000.0,Torino FC,Italy,800000.0,0
+2008,Serie A,Atalanta BC,winter,out,Karamoko Cissé,65635,20,Guinea,Centre-Forward,CF,200000.0,UC AlbinoLeffe,Italy,700000.0,0
+2008,Serie A,Atalanta BC,winter,out,Michele Marconi,57299,19,Italy,Centre-Forward,CF,400000.0,US Grosseto FC,Italy,0.0,1
+2008,Serie A,Atalanta BC,winter,out,Giacomo Bonaventura,57280,19,Italy,Attacking Midfield,AM,50000.0,US Pergocrema 1932,Italy,0.0,1
+2008,Serie A,Atalanta BC,winter,out,Antonino D'Agostino,23353,30,Italy,Right Midfield,RM,300000.0,Parma FC,Italy,0.0,1
+2008,Serie A,Atalanta BC,winter,out,Christian Vieri,5797,35,Italy,Centre-Forward,CF,3000000.0,Retired,,,0
+2008,Serie A,Bologna FC 1909,summer,in,Gaby Mudingayi,13749,26,Belgium,Defensive Midfield,DM,5500000.0,SS Lazio,Italy,6000000.0,0
+2008,Serie A,Bologna FC 1909,summer,in,Marco Bernacci,24292,24,Italy,Centre-Forward,CF,3000000.0,AC Cesena,Italy,4300000.0,0
+2008,Serie A,Bologna FC 1909,summer,in,Miguel Britos,76799,22,Uruguay,Centre-Back,CB,,Montevideo Wanderers,Uruguay,4000000.0,0
+2008,Serie A,Bologna FC 1909,summer,in,Salvatore Lanna,5916,32,Italy,Left-Back,LB,1600000.0,Torino FC,Italy,1500000.0,0
+2008,Serie A,Bologna FC 1909,summer,in,Cristian Zenoni,6794,31,Italy,Right-Back,RB,800000.0,UC Sampdoria,Italy,1000000.0,0
+2008,Serie A,Bologna FC 1909,summer,in,Massimo Coda,33763,19,Italy,Centre-Forward,CF,50000.0,Treviso FBC 1993,Italy,400000.0,0
+2008,Serie A,Bologna FC 1909,summer,in,Coelho,28524,25,Brazil,Right-Back,RB,1800000.0,Sport Club Corinthians Paulista,Brazil,200000.0,1
+2008,Serie A,Bologna FC 1909,summer,in,Sergio Volpi,16908,34,Italy,Central Midfield,CM,1100000.0,UC Sampdoria,Italy,0.0,0
+2008,Serie A,Bologna FC 1909,summer,in,Marco Di Vaio,4170,32,Italy,Centre-Forward,CF,1400000.0,Genoa CFC,Italy,0.0,1
+2008,Serie A,Bologna FC 1909,summer,in,Diego Rodríguez,74245,21,Uruguay,Left-Back,LB,,CA Peñarol,Uruguay,0.0,1
+2008,Serie A,Bologna FC 1909,summer,in,Davide Marchini,38596,27,Italy,Right Midfield,RM,600000.0,US Triestina,Italy,0.0,1
+2008,Serie A,Bologna FC 1909,winter,in,Daniel Osvaldo,37389,23,Italy,Centre-Forward,CF,4000000.0,ACF Fiorentina,Italy,7000000.0,0
+2008,Serie A,Bologna FC 1909,winter,in,Manuel Belleri,6018,31,Italy,Right-Back,RB,1000000.0,SS Lazio,Italy,,0
+2008,Serie A,Bologna FC 1909,winter,in,César,5839,34,Brazil,Left Midfield,LM,2000000.0,Without Club,,,0
+2008,Serie A,Bologna FC 1909,winter,in,Massimo Mutarelli,20982,31,Italy,Central Midfield,CM,2000000.0,Without Club,,,0
+2008,Serie A,Bologna FC 1909,summer,out,Andrea Costa,34336,22,Italy,Centre-Back,CB,600000.0,Reggina Calcio,Italy,2750000.0,0
+2008,Serie A,Bologna FC 1909,summer,out,Michelangelo Albertazzi,56841,17,Italy,Left-Back,LB,50000.0,Milan Primavera,Italy,2200000.0,0
+2008,Serie A,Bologna FC 1909,summer,out,Dino Fava,15418,31,Italy,Centre-Forward,CF,900000.0,Treviso FBC 1993,Italy,900000.0,0
+2008,Serie A,Bologna FC 1909,summer,out,Tomas Danilevičius,4049,29,Lithuania,Centre-Forward,CF,700000.0,AS Livorno,Italy,400000.0,0
+2008,Serie A,Bologna FC 1909,summer,out,Massimo Coda,33763,19,Italy,Centre-Forward,CF,50000.0,US Cremonese,Italy,150000.0,0
+2008,Serie A,Bologna FC 1909,summer,out,Davide Colomba,56860,19,Italy,Left Midfield,LM,50000.0,US Foggia,Italy,,0
+2008,Serie A,Bologna FC 1909,summer,out,Luca Ferrari,56866,22,Italy,Central Midfield,CM,50000.0,AC Reggiana 1919,Italy,,0
+2008,Serie A,Bologna FC 1909,summer,out,Mattia Ascani,56845,19,Italy,Goalkeeper,GK,50000.0,US Sambenedettese,Italy,,0
+2008,Serie A,Bologna FC 1909,summer,out,Francesco Della Rocca,56889,20,Italy,Central Midfield,CM,300000.0,US Sassuolo,Italy,0.0,1
+2008,Serie A,Bologna FC 1909,summer,out,Daniele Daino,15458,28,Italy,Right-Back,RB,1000000.0,Without Club,,,0
+2008,Serie A,Bologna FC 1909,summer,out,Davide Di Gennaro,52136,20,Italy,Attacking Midfield,AM,600000.0,AC Milan,Italy,0.0,1
+2008,Serie A,Bologna FC 1909,summer,out,David Giubilato,21832,31,Italy,Centre-Back,CB,300000.0,Vicenza Calcio,Italy,0.0,1
+2008,Serie A,Bologna FC 1909,summer,out,Cristian Bucchi,16846,31,Italy,Centre-Forward,CF,1300000.0,SSC Napoli,Italy,0.0,1
+2008,Serie A,Bologna FC 1909,summer,out,Riccardo Bonetto,17173,29,Italy,Left-Back,LB,800000.0,SS Lazio,Italy,0.0,1
+2008,Serie A,Bologna FC 1909,winter,out,Davide Carrus,21145,29,Italy,Defensive Midfield,DM,1500000.0,FC Empoli,Italy,0.0,1
+2008,Serie A,Bologna FC 1909,winter,out,Andrey Galabinov,67639,20,Bulgaria,Centre-Forward,CF,50000.0,AC Giacomense,Italy,0.0,1
+2008,Serie A,Cagliari Calcio,summer,in,Federico Marchetti,22318,25,Italy,Goalkeeper,GK,1000000.0,UC AlbinoLeffe,Italy,6700000.0,0
+2008,Serie A,Cagliari Calcio,summer,in,Davide Astori,87210,21,Italy,Centre-Back,CB,,AC Milan,Italy,5000000.0,0
+2008,Serie A,Cagliari Calcio,summer,in,Andrea Lazzari,19442,23,Italy,Central Midfield,CM,2000000.0,Atalanta BC,Italy,4800000.0,0
+2008,Serie A,Cagliari Calcio,summer,in,Carlos Matheu,55932,23,Argentina,Centre-Back,CB,3000000.0,CA Independiente,Argentina,2060000.0,0
+2008,Serie A,Cagliari Calcio,summer,in,Daniele Magliocchetti,44290,22,Italy,Centre-Back,CB,50000.0,AS Roma,Italy,,0
+2008,Serie A,Cagliari Calcio,summer,in,Cristiano Lupatelli,5908,30,Italy,Goalkeeper,GK,500000.0,ACF Fiorentina,Italy,,0
+2008,Serie A,Cagliari Calcio,summer,in,Robert Acquafresca,35703,20,Italy,Centre-Forward,CF,6500000.0,Inter Milan,Italy,0.0,1
+2008,Serie A,Cagliari Calcio,winter,in,Mikhail Sivakov,36364,21,Belarus,Centre-Back,CB,125000.0,BATE Borisov,Belarus,450000.0,0
+2008,Serie A,Cagliari Calcio,summer,out,Robert Acquafresca,35703,20,Italy,Centre-Forward,CF,6500000.0,Inter Milan,Italy,6000000.0,0
+2008,Serie A,Cagliari Calcio,summer,out,Cristiano Del Grosso,34211,25,Italy,Left-Back,LB,500000.0,AC Siena,Italy,800000.0,0
+2008,Serie A,Cagliari Calcio,summer,out,Joe Bizera,35715,28,Uruguay,Centre-Back,CB,500000.0,PAOK Thessaloniki,Greece,300000.0,0
+2008,Serie A,Cagliari Calcio,summer,out,Davide Marchini,38596,27,Italy,Right Midfield,RM,600000.0,US Triestina,Italy,50000.0,0
+2008,Serie A,Cagliari Calcio,summer,out,Rijat Shala,9916,24,Switzerland,Central Midfield,CM,150000.0,Sorrento Calcio,Italy,0.0,0
+2008,Serie A,Cagliari Calcio,summer,out,Vincenzo Marruocco,55799,29,Italy,Goalkeeper,GK,250000.0,Cavese 1919,Italy,0.0,0
+2008,Serie A,Cagliari Calcio,summer,out,Tiziano Bruzzone,48561,23,Italy,Centre-Forward,CF,50000.0,US Città di Pontedera,Italy,,0
+2008,Serie A,Cagliari Calcio,summer,out,Ivica Guberarc,821649,19,Slovenia,Defender,Defender,,Taranto SS,Italy,,0
+2008,Serie A,Cagliari Calcio,summer,out,Jan Koprivec,50286,19,Slovenia,Goalkeeper,GK,100000.0,Udinese Calcio,Italy,,0
+2008,Serie A,Cagliari Calcio,summer,out,Marco Mancosu,51736,19,Italy,Attacking Midfield,AM,500000.0,Rimini FC,Italy,0.0,1
+2008,Serie A,Cagliari Calcio,summer,out,Enrico Cotza,57991,19,Italy,Central Midfield,CM,100000.0,Foligno Calcio,Italy,0.0,1
+2008,Serie A,Cagliari Calcio,summer,out,Marco Sau,55801,20,Italy,Centre-Forward,CF,50000.0,UC AlbinoLeffe,Italy,0.0,1
+2008,Serie A,Cagliari Calcio,summer,out,Daniele Magliocchetti,44290,22,Italy,Centre-Back,CB,50000.0,AS Roma,Italy,0.0,1
+2008,Serie A,Cagliari Calcio,summer,out,Sebastián Rosano,68934,21,Uruguay,Right Midfield,RM,50000.0,Montevideo Wanderers,Uruguay,0.0,1
+2008,Serie A,Cagliari Calcio,summer,out,Luca Capecchi,57786,33,Italy,Goalkeeper,GK,450000.0,Ravenna Calcio,Italy,0.0,1
+2008,Serie A,Cagliari Calcio,summer,out,Marco Storari,19136,31,Italy,Goalkeeper,GK,1300000.0,AC Milan,Italy,0.0,1
+2008,Serie A,Cagliari Calcio,summer,out,Vítor Gomes,38780,20,Portugal,Defensive Midfield,DM,600000.0,Rio Ave FC,Portugal,0.0,1
+2008,Serie A,Cagliari Calcio,summer,out,Pasquale Foggia,17175,25,Italy,Attacking Midfield,AM,7000000.0,SS Lazio,Italy,0.0,1
+2008,Serie A,Cagliari Calcio,winter,out,Claudio Pani,35730,22,Italy,Defensive Midfield,DM,300000.0,US Triestina,Italy,,0
+2008,Serie A,Cagliari Calcio,winter,out,Michele Ferri,20920,27,Italy,Centre-Back,CB,1300000.0,UC Sampdoria,Italy,,0
+2008,Serie A,Cagliari Calcio,winter,out,Joaquín Larrivey,52428,24,Argentina,Centre-Forward,CF,600000.0,CA Vélez Sarsfield,Argentina,0.0,1
+2008,Serie A,Cagliari Calcio,winter,out,Salvatore Burrai,41920,21,Italy,Defensive Midfield,DM,50000.0,Ternana Calcio,Italy,0.0,1
+2008,Serie A,Calcio Catania,summer,in,Nicolae Dică,15004,28,Romania,Second Striker,SS,3200000.0,Steaua Bucharest,Romania,2500000.0,0
+2008,Serie A,Calcio Catania,summer,in,Pablo Ledesma,19976,24,Argentina,Central Midfield,CM,6250000.0,CA Boca Juniors,Argentina,2500000.0,0
+2008,Serie A,Calcio Catania,summer,in,Andrea Catellani,87091,20,Italy,Centre-Forward,CF,,AC Reggiana 1919,Italy,500000.0,0
+2008,Serie A,Calcio Catania,summer,in,Tomas Kosicky,78496,22,Slovakia,Goalkeeper,GK,50000.0,Inter Bratislava,Slovakia,0.0,0
+2008,Serie A,Calcio Catania,summer,in,Julián di Cosmo,75591,23,Argentina,Centre-Forward,CF,,FC Igea Virtus Barcellona,Italy,0.0,0
+2008,Serie A,Calcio Catania,summer,in,Vincenzo Ferrante,44258,21,Italy,Goalkeeper,GK,,Catanzaro FC,Italy,,0
+2008,Serie A,Calcio Catania,summer,in,Gianvito Plasmati,44116,25,Italy,Centre-Forward,CF,100000.0,US Foggia,Italy,,0
+2008,Serie A,Calcio Catania,summer,in,Ezequiel Carboni,31126,29,Argentina,Defensive Midfield,DM,1700000.0,Red Bull Salzburg,Austria,,0
+2008,Serie A,Calcio Catania,summer,in,Milan Bortel,137104,22,Slovakia,Centre-Back,CB,,ASD Manfredonia Calcio,Italy,,0
+2008,Serie A,Calcio Catania,summer,in,Michele Paolucci,41311,22,Italy,Centre-Forward,CF,1000000.0,Udinese Calcio,Italy,0.0,1
+2008,Serie A,Calcio Catania,winter,in,Alessandro Potenza,16828,24,Italy,Right-Back,RB,1500000.0,Genoa CFC,Italy,,0
+2008,Serie A,Calcio Catania,winter,in,Vito Falconieri,84589,22,Italy,Centre-Forward,CF,,AC Reggiana 1919,Italy,,0
+2008,Serie A,Calcio Catania,winter,in,Paolo Acerbis,22232,27,Italy,Goalkeeper,GK,150000.0,US Grosseto FC,Italy,0.0,1
+2008,Serie A,Calcio Catania,winter,in,Ciro Capuano,38584,27,Italy,Left-Back,LB,1000000.0,US Palermo,Italy,0.0,1
+2008,Serie A,Calcio Catania,summer,out,Juan Manuel Vargas,30584,24,Peru,Left-Back,LB,11000000.0,ACF Fiorentina,Italy,12000000.0,0
+2008,Serie A,Calcio Catania,summer,out,Andrea Sottil,5886,34,Italy,Centre-Back,CB,300000.0,Rimini FC,Italy,0.0,0
+2008,Serie A,Calcio Catania,summer,out,Adrian Bica Badan,482084,19,Romania,Defender,Defender,,US Vibonese,Italy,,0
+2008,Serie A,Calcio Catania,summer,out,Samuele Costanzo,102640,20,Italy,Defender,Defender,,Paganese Calcio 1926,Italy,,0
+2008,Serie A,Calcio Catania,summer,out,Mauro Minelli,21693,27,Italy,Centre-Back,CB,450000.0,US Triestina,Italy,,0
+2008,Serie A,Calcio Catania,summer,out,Marcello Gazzola,57643,23,Italy,Right-Back,RB,300000.0,US Avellino,Italy,0.0,1
+2008,Serie A,Calcio Catania,summer,out,Antonino Profeta,140452,20,Italy,Midfielder,Midfielder,,Cosenza Calcio 1914,Italy,0.0,1
+2008,Serie A,Calcio Catania,summer,out,Julián di Cosmo,75591,23,Argentina,Centre-Forward,CF,,Paganese Calcio 1926,Italy,0.0,1
+2008,Serie A,Calcio Catania,summer,out,Babù,28008,27,Brazil,Right Winger,RW,250000.0,US Avellino,Italy,0.0,1
+2008,Serie A,Calcio Catania,summer,out,Raffaele Ioime,57645,20,Italy,Goalkeeper,GK,50000.0,Legnano AC,Italy,0.0,1
+2008,Serie A,Calcio Catania,summer,out,Riccardo Nardini,38600,25,Italy,Central Midfield,CM,450000.0,Without Club,,,0
+2008,Serie A,Calcio Catania,summer,out,Piá,21695,26,Brazil,Second Striker,SS,1100000.0,SSC Napoli,Italy,0.0,1
+2008,Serie A,Calcio Catania,summer,out,Generoso Rossi,6443,29,Italy,Goalkeeper,GK,700000.0,US Triestina,Italy,0.0,1
+2008,Serie A,Calcio Catania,winter,out,Gianvito Plasmati,44116,26,Italy,Centre-Forward,CF,500000.0,Atalanta BC,Italy,300000.0,1
+2008,Serie A,Calcio Catania,winter,out,Mirco Antenucci,83458,24,Italy,Centre-Forward,CF,150000.0,AC Pisa 1909,Italy,0.0,1
+2008,Serie A,Calcio Catania,winter,out,Mark Edusei,21788,32,Ghana,Defensive Midfield,DM,800000.0,AS Bari,Italy,,0
+2008,Serie A,Calcio Catania,winter,out,Rocco Sabato,20747,26,Italy,Left-Back,LB,400000.0,FC Empoli,Italy,,0
+2008,Serie A,Calcio Catania,winter,out,Giuseppe Colucci,6717,28,Italy,Central Midfield,CM,2200000.0,Chievo Verona,Italy,,0
+2008,Serie A,Calcio Catania,winter,out,Ciro Polito,22123,29,Italy,Goalkeeper,GK,2900000.0,US Grosseto FC,Italy,0.0,1
+2008,Serie A,Calcio Catania,winter,out,Pablo Álvarez,55993,24,Argentina,Right-Back,RB,2500000.0,CA Rosario Central,Argentina,0.0,1
+2008,Serie A,Calcio Catania,winter,out,Julián di Cosmo,75591,24,Argentina,Centre-Forward,CF,300000.0,AS Andria BAT,Italy,0.0,1
+2008,Serie A,Calcio Catania,winter,out,Gennaro Sardo,21770,29,Italy,Right-Back,RB,1500000.0,Chievo Verona,Italy,0.0,1
+2008,Serie A,Chievo Verona,summer,in,Kerlon,37758,20,Brazil,Attacking Midfield,AM,600000.0,Cruzeiro Esporte Clube,Brazil,1300000.0,0
+2008,Serie A,Chievo Verona,summer,in,Simone Grippo,41767,19,Switzerland,Centre-Back,CB,150000.0,FC Basel 1893,Switzerland,800000.0,0
+2008,Serie A,Chievo Verona,summer,in,Nicolas Frey,38591,24,France,Right-Back,RB,50000.0,Modena FC,Italy,500000.0,0
+2008,Serie A,Chievo Verona,summer,in,Pablo Granoche,61803,24,Uruguay,Centre-Forward,CF,3000000.0,US Triestina,Italy,400000.0,0
+2008,Serie A,Chievo Verona,summer,in,Francesco Scardina,22144,26,Italy,Centre-Back,CB,150000.0,Vicenza Calcio,Italy,300000.0,0
+2008,Serie A,Chievo Verona,summer,in,Stefano Sorrentino,21891,29,Italy,Goalkeeper,GK,1600000.0,AEK Athens,Greece,200000.0,1
+2008,Serie A,Chievo Verona,summer,in,Mario Yepes,5507,32,Colombia,Centre-Back,CB,2500000.0,Paris Saint-Germain,France,0.0,0
+2008,Serie A,Chievo Verona,summer,in,Santiago Morero,53139,26,Argentina,Centre-Back,CB,1200000.0,Udinese Calcio,Italy,,0
+2008,Serie A,Chievo Verona,summer,in,Emanuele D'Anna,56605,26,Italy,Right Midfield,RM,100000.0,AC Pisa 1909,Italy,,0
+2008,Serie A,Chievo Verona,summer,in,Nicolò Brighenti,109110,19,Italy,Centre-Back,CB,,AC Mezzocorona,Italy,,0
+2008,Serie A,Chievo Verona,summer,in,Mahamet Diagouraga,78501,24,Mali,Centre-Back,CB,,US Massese 1919,Italy,,0
+2008,Serie A,Chievo Verona,summer,in,Shadi Ghosheh,104741,20,Italy,Centre-Back,CB,,AC Rinascita Messina,Italy,,0
+2008,Serie A,Chievo Verona,summer,in,Angelo Antonazzo,38577,26,Italy,Right-Back,RB,200000.0,Modena FC,Italy,,0
+2008,Serie A,Chievo Verona,summer,in,Bogdan Pătrașcu,21799,29,Romania,Defensive Midfield,DM,600000.0,Piacenza FC,Italy,0.0,1
+2008,Serie A,Chievo Verona,summer,in,Mauro Esposito,20735,29,Italy,Right Winger,RW,1500000.0,AS Roma,Italy,0.0,1
+2008,Serie A,Chievo Verona,summer,in,Giampiero Pinzi,5893,27,Italy,Central Midfield,CM,1800000.0,Udinese Calcio,Italy,0.0,1
+2008,Serie A,Chievo Verona,summer,in,Antonio Langella,20739,31,Italy,Second Striker,SS,2750000.0,Udinese Calcio,Italy,0.0,1
+2008,Serie A,Chievo Verona,winter,in,Giuseppe Colucci,6717,28,Italy,Central Midfield,CM,2200000.0,Calcio Catania,Italy,,0
+2008,Serie A,Chievo Verona,winter,in,Stephen Makinwa,17146,25,Nigeria,Centre-Forward,CF,2000000.0,SS Lazio,Italy,0.0,1
+2008,Serie A,Chievo Verona,winter,in,Gennaro Sardo,21770,29,Italy,Right-Back,RB,1500000.0,Calcio Catania,Italy,0.0,1
+2008,Serie A,Chievo Verona,summer,out,Victor Obinna,35852,21,Nigeria,Second Striker,SS,5000000.0,Inter Milan,Italy,1200000.0,0
+2008,Serie A,Chievo Verona,summer,out,Leonardo Moracci,84542,20,Italy,Centre-Back,CB,,Hellas Verona,Italy,200000.0,0
+2008,Serie A,Chievo Verona,summer,out,Angelo Antonazzo,38577,26,Italy,Right-Back,RB,200000.0,Frosinone Calcio,Italy,100000.0,0
+2008,Serie A,Chievo Verona,summer,out,Pablo Granoche,61803,24,Uruguay,Centre-Forward,CF,3000000.0,US Triestina,Italy,100000.0,1
+2008,Serie A,Chievo Verona,summer,out,Mattia Passarini,41936,28,Italy,Goalkeeper,GK,50000.0,Bassano Virtus 55 ST,Italy,0.0,0
+2008,Serie A,Chievo Verona,summer,out,Tommaso Chiecchi,5918,28,Italy,Centre-Back,CB,350000.0,AC Lumezzane,Italy,0.0,1
+2008,Serie A,Chievo Verona,summer,out,Andrea De Falco,16848,22,Italy,Central Midfield,CM,75000.0,AC Ancona,Italy,0.0,1
+2008,Serie A,Chievo Verona,summer,out,Giuseppe Cozzolino,32963,22,Italy,Centre-Forward,CF,900000.0,US Cremonese,Italy,,0
+2008,Serie A,Chievo Verona,summer,out,Shadi Ghosheh,104741,20,Italy,Centre-Back,CB,,Bassano Virtus 55 ST,Italy,,0
+2008,Serie A,Chievo Verona,summer,out,Nicolò Brighenti,109110,19,Italy,Centre-Back,CB,,AC Mezzocorona,Italy,,0
+2008,Serie A,Chievo Verona,summer,out,Michele Troiano,28849,23,Italy,Defensive Midfield,DM,600000.0,Modena FC,Italy,,0
+2008,Serie A,Chievo Verona,summer,out,Andrea Mengoni,38657,24,Italy,Centre-Back,CB,450000.0,Piacenza FC,Italy,0.0,1
+2008,Serie A,Chievo Verona,summer,out,Cesare Rickler,41938,21,Italy,Centre-Back,CB,500000.0,Piacenza FC,Italy,0.0,1
+2008,Serie A,Chievo Verona,summer,out,Mirco Gasparetto,22111,28,Italy,Centre-Forward,CF,500000.0,AC Pisa 1909,Italy,0.0,1
+2008,Serie A,Chievo Verona,summer,out,Giovanni Marchese,21887,23,Italy,Left-Back,LB,650000.0,Salernitana Calcio 1919,Italy,0.0,1
+2008,Serie A,Chievo Verona,summer,out,Mahamet Diagouraga,78501,24,Mali,Centre-Back,CB,,Modena FC,Italy,0.0,1
+2008,Serie A,Chievo Verona,summer,out,Philippe Montandon,4772,25,Switzerland,Centre-Back,CB,250000.0,FC Lugano,Switzerland,0.0,1
+2008,Serie A,Chievo Verona,summer,out,Federico Giunti,6874,36,Italy,Defensive Midfield,DM,500000.0,Retired,,,0
+2008,Serie A,Chievo Verona,summer,out,Federico Cossato,5932,35,Italy,Centre-Forward,CF,200000.0,Retired,,,0
+2008,Serie A,Chievo Verona,summer,out,Rubén Maldonado,6152,29,Paraguay,Centre-Back,CB,100000.0,SSC Napoli,Italy,0.0,1
+2008,Serie A,Chievo Verona,summer,out,Maurizio Ciaramitaro,24303,26,Italy,Central Midfield,CM,1250000.0,US Palermo,Italy,0.0,1
+2008,Serie A,Chievo Verona,summer,out,Marino Defendi,38589,22,Italy,Right-Back,RB,500000.0,Atalanta BC,Italy,0.0,1
+2008,Serie A,Chievo Verona,summer,out,Aleandro Rosi,34239,21,Italy,Right-Back,RB,1200000.0,AS Roma,Italy,0.0,1
+2008,Serie A,Chievo Verona,winter,out,César,15977,29,Brazil,Centre-Back,CB,1300000.0,Calcio Padova,Italy,0.0,1
+2008,Serie A,Chievo Verona,winter,out,Antimo Iunco,28870,24,Italy,Second Striker,SS,750000.0,Salernitana Calcio 1919,Italy,0.0,1
+2008,Serie A,Chievo Verona,winter,out,Emanuele D'Anna,56605,26,Italy,Right Midfield,RM,800000.0,AC Pisa 1909,Italy,0.0,1
+2008,Serie A,Chievo Verona,winter,out,Simone Grippo,41767,20,Switzerland,Centre-Back,CB,150000.0,Piacenza FC,Italy,0.0,1
+2008,Serie A,Chievo Verona,winter,out,Bogdan Pătrașcu,21799,29,Romania,Defensive Midfield,DM,600000.0,Piacenza FC,Italy,0.0,1
+2008,Serie A,Genoa CFC,summer,in,Diego Milito,22202,29,Argentina,Centre-Forward,CF,18000000.0,Real Zaragoza,Spain,13000000.0,0
+2008,Serie A,Genoa CFC,summer,in,Domenico Criscito,44136,21,Italy,Left-Back,LB,4500000.0,Juventus FC,Italy,11500000.0,0
+2008,Serie A,Genoa CFC,summer,in,Andrea Gasbarroni,20967,26,Italy,Second Striker,SS,4000000.0,Parma FC,Italy,5000000.0,0
+2008,Serie A,Genoa CFC,summer,in,Raffaele Palladino,28855,24,Italy,Left Winger,LW,8000000.0,Juventus FC,Italy,5000000.0,0
+2008,Serie A,Genoa CFC,summer,in,Francesco Modesto,22320,26,Italy,Left-Back,LB,5000000.0,Reggina Calcio,Italy,4500000.0,0
+2008,Serie A,Genoa CFC,summer,in,Sokratis Papastathopoulos,34322,20,Greece,Centre-Back,CB,2700000.0,AEK Athens,Greece,3800000.0,0
+2008,Serie A,Genoa CFC,summer,in,Giandomenico Mesto,16744,26,Italy,Right Midfield,RM,5500000.0,Udinese Calcio,Italy,3000000.0,0
+2008,Serie A,Genoa CFC,summer,in,Salvatore Bocchetti,42678,21,Italy,Centre-Back,CB,900000.0,Frosinone Calcio,Italy,2200000.0,0
+2008,Serie A,Genoa CFC,summer,in,Alessandro Potenza,16828,24,Italy,Right-Back,RB,2000000.0,ACF Fiorentina,Italy,2200000.0,0
+2008,Serie A,Genoa CFC,summer,in,Andrea Ranocchia,44327,20,Italy,Centre-Back,CB,800000.0,AC Arezzo,Italy,1800000.0,0
+2008,Serie A,Genoa CFC,summer,in,Davide Di Gennaro,52136,20,Italy,Attacking Midfield,AM,600000.0,AC Milan,Italy,1500000.0,0
+2008,Serie A,Genoa CFC,summer,in,Giuseppe Biava,20913,31,Italy,Centre-Back,CB,2000000.0,US Palermo,Italy,1200000.0,0
+2008,Serie A,Genoa CFC,summer,in,Francesco Renzetti,84845,20,Italy,Left-Back,LB,,AS Lucchese Libertas,Italy,600000.0,0
+2008,Serie A,Genoa CFC,summer,in,Steve Pinau,6295,20,France,Attacking Midfield,AM,50000.0,AS Monaco B,Monaco,560000.0,0
+2008,Serie A,Genoa CFC,summer,in,Boško Janković,19708,24,Serbia,Right Winger,RW,4000000.0,US Palermo,Italy,50000.0,1
+2008,Serie A,Genoa CFC,summer,in,Matteo Ferrari,5860,28,Italy,Centre-Back,CB,4000000.0,AS Roma,Italy,0.0,0
+2008,Serie A,Genoa CFC,summer,in,Alessandro Di Maio,61376,21,Italy,Centre-Back,CB,,Valenzana Calcio,Italy,0.0,0
+2008,Serie A,Genoa CFC,summer,in,Giuseppe Greco,44137,24,Italy,Centre-Forward,CF,400000.0,Rimini FC,Italy,,0
+2008,Serie A,Genoa CFC,summer,in,Salvatore Aurelio,38579,23,Italy,Left Winger,LW,50000.0,FC Crotone,Italy,,0
+2008,Serie A,Genoa CFC,summer,in,Vincenzo Rennella,61401,19,Italy,Centre-Forward,CF,75000.0,FC Lugano,Switzerland,,0
+2008,Serie A,Genoa CFC,summer,in,Mariano Stendardo,24331,25,Italy,Centre-Back,CB,125000.0,AC Rinascita Messina,Italy,,0
+2008,Serie A,Genoa CFC,summer,in,Marcel Román,59312,20,Uruguay,Defensive Midfield,DM,,CA Peñarol,Uruguay,,0
+2008,Serie A,Genoa CFC,summer,in,Davide Brivio,38824,20,Italy,Left-Back,LB,1200000.0,Vicenza Calcio,Italy,0.0,1
+2008,Serie A,Genoa CFC,summer,in,Nicolás Domingo,39150,23,Argentina,Defensive Midfield,DM,425000.0,CA River Plate,Argentina,0.0,1
+2008,Serie A,Genoa CFC,summer,in,Rubén Olivera,5768,25,Uruguay,Central Midfield,CM,1500000.0,Juventus FC,Italy,0.0,1
+2008,Serie A,Genoa CFC,summer,in,Thiago Motta,7602,26,Italy,Defensive Midfield,DM,5000000.0,Without Club,,,0
+2008,Serie A,Genoa CFC,summer,out,Marco Borriello,5825,26,Italy,Centre-Forward,CF,12000000.0,AC Milan,Italy,11750000.0,0
+2008,Serie A,Genoa CFC,summer,out,Abdoulay Konko,22139,24,France,Right-Back,RB,6000000.0,Sevilla FC,Spain,8500000.0,0
+2008,Serie A,Genoa CFC,summer,out,Cesare Bovo,5946,25,Italy,Centre-Back,CB,3500000.0,US Palermo,Italy,7850000.0,0
+2008,Serie A,Genoa CFC,summer,out,Julio de León,6074,28,Honduras,Attacking Midfield,AM,3500000.0,Parma FC,Italy,3550000.0,0
+2008,Serie A,Genoa CFC,summer,out,Abdelkader Ghezzal,76406,23,Algeria,Centre-Forward,CF,,AC Siena,Italy,1500000.0,0
+2008,Serie A,Genoa CFC,summer,out,Alessandro Lucarelli,28022,30,Italy,Centre-Back,CB,2500000.0,Parma FC,Italy,1200000.0,0
+2008,Serie A,Genoa CFC,summer,out,Santos,19439,26,Brazil,Centre-Back,CB,850000.0,Reggina Calcio,Italy,1000000.0,0
+2008,Serie A,Genoa CFC,summer,out,Diogo Tavares,35358,21,Portugal,Centre-Forward,CF,250000.0,Frosinone Calcio,Italy,900000.0,0
+2008,Serie A,Genoa CFC,summer,out,Francesco Renzetti,84845,20,Italy,Left-Back,LB,,UC AlbinoLeffe,Italy,750000.0,0
+2008,Serie A,Genoa CFC,summer,out,Luciano Figueroa,7133,27,Argentina,Centre-Forward,CF,2000000.0,CA Boca Juniors,Argentina,500000.0,1
+2008,Serie A,Genoa CFC,summer,out,Danilo Sacramento,56681,25,Brazil,Attacking Midfield,AM,1000000.0,Celta de Vigo,Spain,0.0,0
+2008,Serie A,Genoa CFC,summer,out,Alessandro Di Maio,61376,21,Italy,Centre-Back,CB,,Cuoiopelli Cappiano Romaiano,Italy,0.0,0
+2008,Serie A,Genoa CFC,summer,out,Davide Di Gennaro,52136,20,Italy,Attacking Midfield,AM,800000.0,Reggina Calcio,Italy,0.0,1
+2008,Serie A,Genoa CFC,summer,out,Steve Pinau,6295,20,France,Attacking Midfield,AM,50000.0,Hibernian FC,Scotland,0.0,1
+2008,Serie A,Genoa CFC,summer,out,Marco Di Vaio,4170,32,Italy,Centre-Forward,CF,1400000.0,Bologna FC 1909,Italy,0.0,1
+2008,Serie A,Genoa CFC,summer,out,Danilo Russo,62270,20,Italy,Goalkeeper,GK,,US Pergocrema 1932,Italy,0.0,1
+2008,Serie A,Genoa CFC,summer,out,Damián Lanza,37375,27,Ecuador,Goalkeeper,GK,100000.0,CS Emelec,Ecuador,,0
+2008,Serie A,Genoa CFC,summer,out,Stefano Botta,20188,21,Italy,Central Midfield,CM,400000.0,Vicenza Calcio,Italy,0.0,1
+2008,Serie A,Genoa CFC,summer,out,Matías Masiero,65849,20,Uruguay,Second Striker,SS,500000.0,AC Pisa 1909,Italy,0.0,1
+2008,Serie A,Genoa CFC,summer,out,Vincenzo Rennella,61401,19,Italy,Centre-Forward,CF,75000.0,FC Lugano,Switzerland,0.0,1
+2008,Serie A,Genoa CFC,summer,out,Mariano Stendardo,24331,25,Italy,Centre-Back,CB,750000.0,US Grosseto FC,Italy,0.0,1
+2008,Serie A,Genoa CFC,summer,out,Jacopo Sbravati,157299,18,Italy,Right Winger,RW,,Pro Vercelli Primavera,Italy,0.0,1
+2008,Serie A,Genoa CFC,summer,out,Tiago Pires,94919,21,Portugal,Centre-Back,CB,,FC Gloria Buzau,Romania,0.0,1
+2008,Serie A,Genoa CFC,summer,out,Emmanuel Ledesma,62247,20,Argentina,Right Winger,RW,,Queens Park Rangers,England,0.0,1
+2008,Serie A,Genoa CFC,summer,out,Fabiano,38590,29,Brazil,Left-Back,LB,1300000.0,Celta de Vigo,Spain,0.0,1
+2008,Serie A,Genoa CFC,summer,out,Michele Tarallo,84978,27,Italy,Centre-Forward,CF,,US Pergocrema 1932,Italy,0.0,1
+2008,Serie A,Genoa CFC,summer,out,Gianluca Pegolo,21872,27,Italy,Goalkeeper,GK,800000.0,Parma FC,Italy,0.0,1
+2008,Serie A,Genoa CFC,summer,out,Wilson,52850,23,Brazil,Centre-Forward,CF,250000.0,Sport Club do Recife,Brazil,0.0,1
+2008,Serie A,Genoa CFC,summer,out,Giuseppe Greco,44137,24,Italy,Centre-Forward,CF,400000.0,AC Pisa 1909,Italy,0.0,1
+2008,Serie A,Genoa CFC,summer,out,Andrea Ranocchia,44327,20,Italy,Centre-Back,CB,800000.0,AS Bari,Italy,0.0,1
+2008,Serie A,Genoa CFC,summer,out,Gaetano De Rosa,22106,35,Italy,Sweeper,SW,500000.0,Retired,,,0
+2008,Serie A,Genoa CFC,summer,out,Tommaso Ghinassi,59412,21,Italy,Centre-Back,CB,200000.0,AC Pistoiese,Italy,0.0,1
+2008,Serie A,Genoa CFC,summer,out,Domenico Criscito,44136,21,Italy,Left-Back,LB,4500000.0,Juventus FC,Italy,0.0,1
+2008,Serie A,Genoa CFC,winter,out,Manuel Coppola,28851,26,Italy,Central Midfield,CM,500000.0,AC Siena,Italy,1800000.0,0
+2008,Serie A,Genoa CFC,winter,out,Andrea Gasbarroni,20967,27,Italy,Second Striker,SS,4000000.0,Torino FC,Italy,1000000.0,0
+2008,Serie A,Genoa CFC,winter,out,Fernando Forestieri,44948,18,Italy,Second Striker,SS,1300000.0,Vicenza Calcio,Italy,50000.0,1
+2008,Serie A,Genoa CFC,winter,out,Marcel Román,59312,20,Uruguay,Defensive Midfield,DM,200000.0,Frosinone Calcio,Italy,0.0,1
+2008,Serie A,Genoa CFC,winter,out,Alessandro Potenza,16828,24,Italy,Right-Back,RB,1500000.0,Calcio Catania,Italy,,0
+2008,Serie A,Genoa CFC,winter,out,Emmanuel Ledesma,62247,20,Argentina,Right Winger,RW,750000.0,Salernitana Calcio 1919,Italy,0.0,1
+2008,Serie A,Genoa CFC,winter,out,Tiago Pires,94919,21,Portugal,Centre-Back,CB,,Potenza Youth,Italy,0.0,1
+2008,Serie A,Genoa CFC,winter,out,Nicolás Domingo,39150,23,Argentina,Defensive Midfield,DM,425000.0,CA River Plate,Argentina,0.0,1
+2008,Serie A,Genoa CFC,winter,out,Davide Brivio,38824,20,Italy,Left-Back,LB,1200000.0,Vicenza Calcio,Italy,0.0,1
+2008,Serie A,Inter Milan,summer,in,Ricardo Quaresma,4188,24,Portugal,Right Winger,RW,23000000.0,FC Porto,Portugal,24600000.0,0
+2008,Serie A,Inter Milan,summer,in,Sulley Muntari,17129,23,Ghana,Central Midfield,CM,12000000.0,Portsmouth FC,England,14000000.0,0
+2008,Serie A,Inter Milan,summer,in,Mancini,15291,27,Brazil,Left Winger,LW,17500000.0,AS Roma,Italy,13000000.0,0
+2008,Serie A,Inter Milan,summer,in,Luis Jiménez,21821,24,Chile,Attacking Midfield,AM,9000000.0,Ternana Calcio,Italy,11000000.0,0
+2008,Serie A,Inter Milan,summer,in,Robert Acquafresca,35703,20,Italy,Centre-Forward,CF,6500000.0,Cagliari Calcio,Italy,6000000.0,0
+2008,Serie A,Inter Milan,summer,in,Philippe Coutinho,80444,16,Brazil,Attacking Midfield,AM,,CR Vasco da Gama U17,Brazil,3800000.0,0
+2008,Serie A,Inter Milan,summer,in,Riccardo Meggiorini,28936,23,Italy,Centre-Forward,CF,1500000.0,AS Cittadella,Italy,2500000.0,0
+2008,Serie A,Inter Milan,summer,in,Victor Obinna,35852,21,Nigeria,Second Striker,SS,5000000.0,Chievo Verona,Italy,1200000.0,0
+2008,Serie A,Inter Milan,summer,in,Hernán Crespo,3410,32,Argentina,Centre-Forward,CF,11000000.0,Chelsea FC,England,0.0,0
+2008,Serie A,Inter Milan,summer,in,Zule,247192,18,Spain,Left Winger,LW,,Málaga CF,Spain,,0
+2008,Serie A,Inter Milan,summer,out,Pelé,48930,20,Portugal,Central Midfield,CM,4000000.0,FC Porto,Portugal,6000000.0,0
+2008,Serie A,Inter Milan,summer,out,Luca Ceccarelli,39675,25,Italy,Centre-Back,CB,300000.0,AC Milan,Italy,2580000.0,0
+2008,Serie A,Inter Milan,summer,out,Sebastián Ribas,45577,20,Uruguay,Centre-Forward,CF,50000.0,Dijon FCO,France,1000000.0,0
+2008,Serie A,Inter Milan,summer,out,Tijani Belaid,45566,20,Tunisia,Attacking Midfield,AM,800000.0,SK Slavia Prague,Czech Republic,400000.0,0
+2008,Serie A,Inter Milan,summer,out,David Suazo,20749,28,Honduras,Centre-Forward,CF,11500000.0,SL Benfica,Portugal,200000.0,1
+2008,Serie A,Inter Milan,summer,out,Matteo Lombardo,83404,23,Italy,Left Midfield,LM,,Legnano AC,Italy,500.0,0
+2008,Serie A,Inter Milan,summer,out,Domenico Germinale,39984,21,Italy,Centre-Forward,CF,75000.0,US Foggia,Italy,0.0,0
+2008,Serie A,Inter Milan,summer,out,Adriano,5876,27,Brazil,Centre-Forward,CF,15000000.0,CR Flamengo,Brazil,0.0,0
+2008,Serie A,Inter Milan,summer,out,Álvaro Recoba,5796,32,Uruguay,Second Striker,SS,1900000.0,Panionios Athens,Greece,0.0,0
+2008,Serie A,Inter Milan,summer,out,Santiago Solari,7527,31,Argentina,Left Midfield,LM,3000000.0,CA San Lorenzo de Almagro,Argentina,0.0,0
+2008,Serie A,Inter Milan,summer,out,Rincón,47653,21,Brazil,Centre-Back,CB,400000.0,AC Ancona,Italy,0.0,1
+2008,Serie A,Inter Milan,summer,out,Luca Siligardi,86079,20,Italy,Right Winger,RW,,AS Bari,Italy,0.0,1
+2008,Serie A,Inter Milan,summer,out,Fabrizio Biava,16632,24,Italy,Centre-Back,CB,100000.0,ASD Spezia Calcio 2008,Italy,,0
+2008,Serie A,Inter Milan,summer,out,Gabriele Puccio,84546,18,Italy,Central Midfield,CM,,Hellas Verona,Italy,0.0,1
+2008,Serie A,Inter Milan,summer,out,Enrico Alfonso,34334,20,Italy,Goalkeeper,GK,500000.0,AC Pisa 1909,Italy,0.0,1
+2008,Serie A,Inter Milan,summer,out,Ivan Fatic,68078,19,Montenegro,Centre-Back,CB,50000.0,Vicenza Calcio,Italy,0.0,1
+2008,Serie A,Inter Milan,summer,out,Giacomo Bindi,45568,21,Italy,Goalkeeper,GK,50000.0,AC Monza Brianza,Italy,0.0,1
+2008,Serie A,Inter Milan,summer,out,Attila Filkor,45576,19,Hungary,Central Midfield,CM,150000.0,US Sassuolo,Italy,0.0,1
+2008,Serie A,Inter Milan,summer,out,Dennis Esposito,84565,20,Italy,Centre-Back,CB,,AC Reggiana 1919,Italy,0.0,1
+2008,Serie A,Inter Milan,summer,out,César,5839,33,Brazil,Left Midfield,LM,2000000.0,Without Club,,,0
+2008,Serie A,Inter Milan,summer,out,Maniche,9822,30,Portugal,Central Midfield,CM,8000000.0,Atlético de Madrid,Spain,0.0,1
+2008,Serie A,Inter Milan,summer,out,Hernán Crespo,3410,32,Argentina,Centre-Forward,CF,11000000.0,Chelsea FC,England,0.0,1
+2008,Serie A,Inter Milan,summer,out,Luis Jiménez,21821,24,Chile,Attacking Midfield,AM,9000000.0,Ternana Calcio,Italy,0.0,1
+2008,Serie A,Inter Milan,summer,out,Robert Acquafresca,35703,20,Italy,Centre-Forward,CF,6500000.0,Cagliari Calcio,Italy,0.0,1
+2008,Serie A,Inter Milan,winter,out,Olivier Dacourt,3572,34,France,Defensive Midfield,DM,2000000.0,Fulham FC,England,0.0,1
+2008,Serie A,Inter Milan,winter,out,Ricardo Quaresma,4188,25,Portugal,Right Winger,RW,25000000.0,Chelsea FC,England,0.0,1
+2008,Serie A,Inter Milan,winter,out,Luca Siligardi,86079,21,Italy,Right Winger,RW,,Piacenza FC,Italy,0.0,1
+2008,Serie A,Inter Milan,winter,out,Ivan Fatic,68078,20,Montenegro,Centre-Back,CB,50000.0,Salernitana Calcio 1919,Italy,0.0,1
+2008,Serie A,Inter Milan,winter,out,Leonardo Bonucci,39983,21,Italy,Centre-Back,CB,300000.0,AC Pisa 1909,Italy,0.0,1
+2008,Serie A,Inter Milan,winter,out,Ibrahim Maaroufi,45279,20,Morocco,Defensive Midfield,DM,250000.0,Vicenza Calcio,Italy,0.0,1
+2008,Serie A,Inter Milan,winter,out,Giacomo Bindi,45568,21,Italy,Goalkeeper,GK,50000.0,AC Pistoiese,Italy,0.0,1
+2008,Serie A,Juventus FC,summer,in,Amauri,6234,28,Italy,Centre-Forward,CF,16000000.0,US Palermo,Italy,22800000.0,0
+2008,Serie A,Juventus FC,summer,in,Christian Poulsen,1443,28,Denmark,Defensive Midfield,DM,11000000.0,Sevilla FC,Spain,9750000.0,0
+2008,Serie A,Juventus FC,summer,in,Paolo De Ceglie,44709,21,Italy,Left-Back,LB,3200000.0,AC Siena,Italy,3500000.0,0
+2008,Serie A,Juventus FC,summer,in,Alexander Manninger,5278,31,Austria,Goalkeeper,GK,3000000.0,Udinese Calcio,Italy,2500000.0,0
+2008,Serie A,Juventus FC,summer,in,Dario Knezevic,27875,26,Croatia,Centre-Back,CB,3800000.0,AS Livorno,Italy,750000.0,1
+2008,Serie A,Juventus FC,summer,in,Albin Ekdal,49275,18,Sweden,Defensive Midfield,DM,1000000.0,IF Brommapojkarna,Sweden,600000.0,0
+2008,Serie A,Juventus FC,summer,in,Antonio Chimenti,5745,38,Italy,Goalkeeper,GK,100000.0,Udinese Calcio,Italy,0.0,0
+2008,Serie A,Juventus FC,summer,in,Olof Mellberg,3098,30,Sweden,Centre-Back,CB,7500000.0,Aston Villa,England,0.0,0
+2008,Serie A,Juventus FC,winter,in,Mario Kirev,87255,19,Bulgaria,Goalkeeper,GK,,Slavia Sofia,Bulgaria,600000.0,0
+2008,Serie A,Juventus FC,winter,in,Dario Venitucci,57558,21,Italy,Attacking Midfield,AM,150000.0,AC Mantova 1911,Italy,,0
+2008,Serie A,Juventus FC,summer,out,Domenico Criscito,44136,21,Italy,Left-Back,LB,4500000.0,Genoa CFC,Italy,11500000.0,0
+2008,Serie A,Juventus FC,summer,out,Antonio Nocerino,22203,23,Italy,Central Midfield,CM,9500000.0,US Palermo,Italy,7500000.0,0
+2008,Serie A,Juventus FC,summer,out,Raffaele Palladino,28855,24,Italy,Left Winger,LW,8000000.0,Genoa CFC,Italy,5000000.0,0
+2008,Serie A,Juventus FC,summer,out,Antonio Mirante,22141,24,Italy,Goalkeeper,GK,2000000.0,UC Sampdoria,Italy,2700000.0,0
+2008,Serie A,Juventus FC,summer,out,Davide Lanzafame,61539,21,Italy,Centre-Forward,CF,2500000.0,US Palermo,Italy,2500000.0,0
+2008,Serie A,Juventus FC,summer,out,Andrea Rossi,44280,21,Italy,Left-Back,LB,300000.0,AC Siena,Italy,1000000.0,0
+2008,Serie A,Juventus FC,summer,out,Rey Volpato,35847,21,Italy,Centre-Forward,CF,500000.0,AS Bari,Italy,1000000.0,0
+2008,Serie A,Juventus FC,summer,out,Sergio Almirón,5890,27,Argentina,Central Midfield,CM,6000000.0,ACF Fiorentina,Italy,500000.0,1
+2008,Serie A,Juventus FC,summer,out,Andrea Luci,43271,23,Italy,Defensive Midfield,DM,500000.0,Ascoli Calcio 1898,Italy,103000.0,0
+2008,Serie A,Juventus FC,summer,out,Alessandro Birindelli,5753,33,Italy,Right-Back,RB,500000.0,AC Pisa 1909,Italy,0.0,0
+2008,Serie A,Juventus FC,summer,out,Raffaele Bianco,56693,20,Italy,Defensive Midfield,DM,100000.0,AS Bari,Italy,0.0,1
+2008,Serie A,Juventus FC,summer,out,Samon Reider Rodríguez,138827,19,Cuba,Second Striker,SS,,US Poggibonsi,Italy,0.0,1
+2008,Serie A,Juventus FC,summer,out,Alessandro D'Antoni,75404,19,Italy,Second Striker,SS,,Giulianova Calcio,Italy,0.0,1
+2008,Serie A,Juventus FC,summer,out,Andrea Pozzato,138824,20,Italy,Goalkeeper,GK,,FC Canavese (-2011),Italy,,0
+2008,Serie A,Juventus FC,summer,out,Davide Borin,62354,19,Italy,Centre-Back,CB,,Pro Vercelli Primavera,Italy,,0
+2008,Serie A,Juventus FC,summer,out,Cristiano Novembre,54054,21,Italy,Goalkeeper,GK,50000.0,AS Calcio Figline,Italy,,0
+2008,Serie A,Juventus FC,summer,out,Emanuele Belardi,6060,30,Italy,Goalkeeper,GK,350000.0,Udinese Calcio,Italy,,0
+2008,Serie A,Juventus FC,summer,out,Alessandro Vono,88880,20,Italy,Goalkeeper,GK,,AS Livorno,Italy,,0
+2008,Serie A,Juventus FC,summer,out,Dario Campagna,62356,20,Italy,Right-Back,RB,,Hellas Verona,Italy,,0
+2008,Serie A,Juventus FC,summer,out,Dario Venitucci,57558,21,Italy,Attacking Midfield,AM,100000.0,AC Mantova 1911,Italy,,0
+2008,Serie A,Juventus FC,summer,out,Nicola Faralli,532402,18,Italy,Striker,Striker,,US Poggibonsi,Italy,,0
+2008,Serie A,Juventus FC,summer,out,Nicola Cosentini,62361,20,Italy,Defensive Midfield,DM,,Pro Patria Gallaratese GB,Italy,0.0,1
+2008,Serie A,Juventus FC,summer,out,Rubén Olivera,5768,25,Uruguay,Central Midfield,CM,1500000.0,Genoa CFC,Italy,0.0,1
+2008,Serie A,Juventus FC,summer,out,Andrea Pisani,127455,21,Italy,Centre-Back,CB,,Pro Patria Gallaratese GB,Italy,0.0,1
+2008,Serie A,Juventus FC,summer,out,Oussama Essabr,50198,19,Morocco,Centre-Forward,CF,,Vicenza Calcio,Italy,0.0,1
+2008,Serie A,Juventus FC,summer,out,Riccardo Maniero,52135,20,Italy,Centre-Forward,CF,300000.0,AS Bari,Italy,0.0,1
+2008,Serie A,Juventus FC,summer,out,Stefano Di Berardino,42844,21,Italy,Centre-Back,CB,,AC Pistoiese,Italy,0.0,1
+2008,Serie A,Juventus FC,summer,out,Andrea Torta,140322,18,Italy,Centre-Back,CB,,Rovigo Calcio,Italy,0.0,1
+2008,Serie A,Juventus FC,summer,out,Jess Kedwell Vanstrattan,21984,25,Australia,Goalkeeper,GK,100000.0,Hellas Verona,Italy,0.0,1
+2008,Serie A,Juventus FC,summer,out,Guglielmo Stendardo,22093,27,Italy,Centre-Back,CB,3700000.0,SS Lazio,Italy,0.0,1
+2008,Serie A,Juventus FC,winter,out,Donato Bottone,62355,20,Italy,Centre-Forward,CF,,AC Pro Sesto,Italy,0.0,1
+2008,Serie A,Juventus FC,winter,out,Samon Reider Rodríguez,138827,20,Cuba,Second Striker,SS,,US Alessandria Calcio 1912,Italy,0.0,1
+2008,Serie A,Juventus FC,winter,out,Dario Venitucci,57558,21,Italy,Attacking Midfield,AM,150000.0,US Avellino,Italy,0.0,1
+2008,Serie A,Juventus FC,winter,out,Riccardo Maniero,52135,21,Italy,Centre-Forward,CF,300000.0,AC Lumezzane,Italy,0.0,1
+2008,Serie A,Juventus FC,winter,out,Mario Kirev,87255,19,Bulgaria,Goalkeeper,GK,100000.0,Grasshopper Club Zurich,Switzerland,0.0,1
+2008,Serie A,Juventus FC,winter,out,Jorge Andrade,7491,30,Portugal,Centre-Back,CB,4000000.0,Retired,,,0
+2008,Serie A,Reggina Calcio,summer,in,Andrea Costa,34336,22,Italy,Centre-Back,CB,600000.0,Bologna FC 1909,Italy,2750000.0,0
+2008,Serie A,Reggina Calcio,summer,in,Franco Brienza,16137,29,Italy,Attacking Midfield,AM,4500000.0,US Palermo,Italy,2200000.0,0
+2008,Serie A,Reggina Calcio,summer,in,Santos,19439,26,Brazil,Centre-Back,CB,850000.0,Genoa CFC,Italy,1000000.0,0
+2008,Serie A,Reggina Calcio,summer,in,Carlos Carmona,76387,21,Chile,Defensive Midfield,DM,,CD O'Higgins,Chile,1000000.0,0
+2008,Serie A,Reggina Calcio,summer,in,Alessio Sestu,23367,24,Italy,Right Winger,RW,250000.0,US Avellino,Italy,400000.0,0
+2008,Serie A,Reggina Calcio,summer,in,Bruno Cirillo,6062,31,Italy,Centre-Back,CB,1500000.0,Levante UD,Spain,0.0,0
+2008,Serie A,Reggina Calcio,summer,in,Bernardo Corradi,5851,32,Italy,Centre-Forward,CF,1500000.0,Manchester City,England,0.0,0
+2008,Serie A,Reggina Calcio,summer,in,Davide Di Gennaro,52136,20,Italy,Attacking Midfield,AM,800000.0,Genoa CFC,Italy,0.0,1
+2008,Serie A,Reggina Calcio,summer,in,Antonio Rizzo,21154,27,Italy,Right-Back,RB,100000.0,Perugia Calcio,Italy,,0
+2008,Serie A,Reggina Calcio,summer,in,Lóránd Szatmári,85547,19,Hungary,Central Midfield,CM,,Pécsi MFC,Hungary,,0
+2008,Serie A,Reggina Calcio,summer,in,Djordje Rakic,37551,22,Serbia,Centre-Forward,CF,700000.0,Red Bull Salzburg,Austria,0.0,1
+2008,Serie A,Reggina Calcio,winter,in,Matej Krajcik,34537,30,Slovakia,Right-Back,RB,1600000.0,SK Slavia Prague,Czech Republic,0.0,0
+2008,Serie A,Reggina Calcio,summer,out,Francesco Modesto,22320,26,Italy,Left-Back,LB,5000000.0,Genoa CFC,Italy,4500000.0,0
+2008,Serie A,Reggina Calcio,summer,out,Nicola Amoruso,4150,33,Italy,Centre-Forward,CF,3300000.0,Torino FC,Italy,3000000.0,0
+2008,Serie A,Reggina Calcio,summer,out,Salvatore Aronica,19182,30,Italy,Centre-Back,CB,1200000.0,SSC Napoli,Italy,2680000.0,0
+2008,Serie A,Reggina Calcio,summer,out,Nicki Bille,46006,20,Denmark,Centre-Forward,CF,300000.0,FC Nordsjaelland,Denmark,0.0,0
+2008,Serie A,Reggina Calcio,summer,out,Daniele Degano,16892,25,Italy,Second Striker,SS,400000.0,AC Pisa 1909,Italy,0.0,0
+2008,Serie A,Reggina Calcio,summer,out,Simone Missiroli,35747,22,Italy,Central Midfield,CM,1400000.0,Treviso FBC 1993,Italy,0.0,1
+2008,Serie A,Reggina Calcio,summer,out,José Montiel,38803,20,Paraguay,Central Midfield,CM,500000.0,Politehnica Iasi,Romania,0.0,1
+2008,Serie A,Reggina Calcio,summer,out,Nenad Novakovic,41906,25,Serbia,Goalkeeper,GK,400000.0,Aalesunds FK,Norway,0.0,1
+2008,Serie A,Reggina Calcio,summer,out,Daniele Cerretti,338940,34,Italy,Goalkeeper,GK,,Catanzaro FC,Italy,,0
+2008,Serie A,Reggina Calcio,summer,out,Nicolò Cherubin,56854,21,Italy,Centre-Back,CB,200000.0,AS Cittadella,Italy,,0
+2008,Serie A,Reggina Calcio,summer,out,Mike Tullberg,48914,22,Denmark,Centre-Forward,CF,500000.0,Heart of Midlothian FC,Scotland,0.0,1
+2008,Serie A,Reggina Calcio,summer,out,Pasquale Porcaro,102336,20,Italy,Centre-Back,CB,,Potenza Sport Club,Italy,0.0,1
+2008,Serie A,Reggina Calcio,summer,out,Kris Thackray,119152,20,England,Centre-Back,CB,,AC Monopoli,Italy,0.0,1
+2008,Serie A,Reggina Calcio,summer,out,Lóránd Szatmári,85547,19,Hungary,Central Midfield,CM,,US Avellino,Italy,0.0,1
+2008,Serie A,Reggina Calcio,summer,out,Antonio Rizzo,21154,27,Italy,Right-Back,RB,100000.0,US Cremonese,Italy,0.0,1
+2008,Serie A,Reggina Calcio,summer,out,Leonardo Pettinari,54135,21,Italy,Left Winger,LW,50000.0,Ravenna Calcio,Italy,0.0,1
+2008,Serie A,Reggina Calcio,summer,out,Gaetano Ungaro,37391,20,Italy,Centre-Back,CB,50000.0,Ravenna Calcio,Italy,0.0,1
+2008,Serie A,Reggina Calcio,summer,out,Ivan Castiglia,39519,20,Italy,Central Midfield,CM,75000.0,AS Cittadella,Italy,0.0,1
+2008,Serie A,Reggina Calcio,summer,out,Joelson,23233,25,Brazil,Right Winger,RW,800000.0,AC Pisa 1909,Italy,0.0,1
+2008,Serie A,Reggina Calcio,summer,out,Miguel Garcia,14514,25,Portugal,Right-Back,RB,850000.0,Without Club,,,0
+2008,Serie A,Reggina Calcio,summer,out,Raffaele Barbagallo,421739,19,Italy,Central Midfield,CM,,Unknown,,,0
+2008,Serie A,Reggina Calcio,summer,out,Stephen Makinwa,17146,24,Nigeria,Centre-Forward,CF,2000000.0,SS Lazio,Italy,0.0,1
+2008,Serie A,Reggina Calcio,summer,out,Bruno Cirillo,6062,31,Italy,Centre-Back,CB,1500000.0,Levante UD,Spain,0.0,1
+2008,Serie A,Reggina Calcio,summer,out,Franco Brienza,16137,29,Italy,Attacking Midfield,AM,4500000.0,US Palermo,Italy,0.0,1
+2008,Serie A,Reggina Calcio,summer,out,Andrea Costa,34336,22,Italy,Centre-Back,CB,600000.0,Bologna FC 1909,Italy,0.0,1
+2008,Serie A,Reggina Calcio,winter,out,Nenad Novakovic,41906,26,Serbia,Goalkeeper,GK,750000.0,FC Nordsjaelland,Denmark,0.0,0
+2008,Serie A,Reggina Calcio,winter,out,Giovanni Lavrendi,146113,22,Italy,Central Midfield,CM,,AC Trento,Italy,0.0,0
+2008,Serie A,Reggina Calcio,winter,out,Jonis Khoris,88240,19,Italy,Centre-Forward,CF,50000.0,Ravenna Calcio,Italy,0.0,1
+2008,Serie A,Reggina Calcio,winter,out,Francesco Cosenza,57794,22,Italy,Centre-Back,CB,300000.0,US Avellino,Italy,0.0,1
+2008,Serie A,Reggina Calcio,winter,out,Luca Tognozzi,45288,31,Italy,Central Midfield,CM,500000.0,Brescia Calcio,Italy,0.0,1
+2008,Serie A,Reggina Calcio,winter,out,Lóránd Szatmári,85547,20,Hungary,Central Midfield,CM,,AC Monopoli,Italy,0.0,1
+2008,Serie A,Reggina Calcio,winter,out,Antonio Rizzo,21154,27,Italy,Right-Back,RB,100000.0,Ravenna Calcio,Italy,0.0,1
+2008,Serie A,SS Lazio,summer,in,Juan Pablo Carrizo,39118,24,Argentina,Goalkeeper,GK,5300000.0,CA River Plate,Argentina,7500000.0,0
+2008,Serie A,SS Lazio,summer,in,Ștefan Radu,44420,21,Romania,Left-Back,LB,1400000.0,FC Dinamo 1948,Romania,4750000.0,0
+2008,Serie A,SS Lazio,summer,in,David Rozehnal,9659,27,Czech Republic,Centre-Back,CB,4000000.0,Newcastle United,England,3600000.0,0
+2008,Serie A,SS Lazio,summer,in,Mauro Zárate,26456,21,Argentina,Centre-Forward,CF,5000000.0,Al-Sadd SC,Qatar,3500000.0,1
+2008,Serie A,SS Lazio,summer,in,Cristian Brocchi,5812,32,Italy,Central Midfield,CM,1500000.0,AC Milan,Italy,2000000.0,0
+2008,Serie A,SS Lazio,summer,in,Libor Kozák,63824,19,Czech Republic,Centre-Forward,CF,,Slezsky FC Opava,Czech Republic,1200000.0,0
+2008,Serie A,SS Lazio,summer,in,Stephan Lichtsteiner,2865,24,Switzerland,Right-Back,RB,5000000.0,LOSC Lille,France,1200000.0,0
+2008,Serie A,SS Lazio,summer,in,Matuzalém,5974,28,Brazil,Defensive Midfield,DM,8000000.0,Real Zaragoza,Spain,800000.0,1
+2008,Serie A,SS Lazio,summer,in,Simone Sannibale,22623,23,Italy,Centre-Back,CB,300000.0,AC Isola Liri,Italy,,0
+2008,Serie A,SS Lazio,summer,out,Valon Behrami,21905,23,Switzerland,Central Midfield,CM,8000000.0,West Ham United,England,6300000.0,0
+2008,Serie A,SS Lazio,summer,out,Gaby Mudingayi,13749,26,Belgium,Defensive Midfield,DM,5500000.0,Bologna FC 1909,Italy,6000000.0,0
+2008,Serie A,SS Lazio,summer,out,Luciano Zauri,6832,30,Italy,Right-Back,RB,4000000.0,ACF Fiorentina,Italy,400000.0,1
+2008,Serie A,SS Lazio,summer,out,Marco Ballotta,6034,44,Italy,Goalkeeper,GK,50000.0,Calcara Samoggia,Italy,0.0,0
+2008,Serie A,SS Lazio,summer,out,Fabio Vignaroli,17153,32,Italy,Centre-Forward,CF,500000.0,Panthrakikos Komotini,Greece,0.0,0
+2008,Serie A,SS Lazio,summer,out,Daniele Greco,33093,20,Italy,Central Midfield,CM,100000.0,Sorrento Calcio,Italy,,0
+2008,Serie A,SS Lazio,summer,out,Simone Santarelli,33573,19,Italy,Goalkeeper,GK,100000.0,US Sangiorgese,Italy,0.0,1
+2008,Serie A,SS Lazio,summer,out,Fabio Zaccardi,22624,21,Italy,Defender,Defender,,Celano FC Olimpia,Italy,0.0,1
+2008,Serie A,SS Lazio,summer,out,Riccardo Capogna,61432,20,Italy,Centre-Forward,CF,,AC Mezzocorona,Italy,0.0,1
+2008,Serie A,SS Lazio,summer,out,Lucas Correa,56901,24,Argentina,Defensive Midfield,DM,,Pro Patria Gallaratese GB,Italy,0.0,1
+2008,Serie A,SS Lazio,summer,out,Federico Chirico,73919,19,Italy,Centre-Back,CB,,SF Aversa Normanna,Italy,0.0,1
+2008,Serie A,SS Lazio,summer,out,Ivan Artipoli,21682,22,Italy,Centre-Back,CB,250000.0,Modena FC,Italy,0.0,1
+2008,Serie A,SS Lazio,summer,out,Guglielmo Stendardo,22093,27,Italy,Centre-Back,CB,3700000.0,US Lecce,Italy,0.0,1
+2008,Serie A,SS Lazio,summer,out,Alberto Quadri,40482,25,Italy,Defensive Midfield,DM,200000.0,AC Monza Brianza,Italy,0.0,1
+2008,Serie A,SS Lazio,summer,out,Roberto Baronio,6089,30,Italy,Defensive Midfield,DM,700000.0,Brescia Calcio,Italy,0.0,1
+2008,Serie A,SS Lazio,summer,out,Matteo Merini,56911,20,Italy,Centre-Forward,CF,,AS Melfi,Italy,0.0,1
+2008,Serie A,SS Lazio,summer,out,Riccardo Bonetto,17173,29,Italy,Left-Back,LB,800000.0,AS Livorno,Italy,0.0,1
+2008,Serie A,SS Lazio,summer,out,Massimo Mutarelli,20982,30,Italy,Central Midfield,CM,2000000.0,Without Club,,,0
+2008,Serie A,SS Lazio,summer,out,Igli Tare,101,34,Albania,Centre-Forward,CF,750000.0,Retired,,,0
+2008,Serie A,SS Lazio,summer,out,David Rozehnal,9659,27,Czech Republic,Centre-Back,CB,4000000.0,Newcastle United,England,0.0,1
+2008,Serie A,SS Lazio,summer,out,Ștefan Radu,44420,21,Romania,Left-Back,LB,1400000.0,FC Dinamo 1948,Romania,0.0,1
+2008,Serie A,SS Lazio,winter,out,Manuel Belleri,6018,31,Italy,Right-Back,RB,1000000.0,Bologna FC 1909,Italy,,0
+2008,Serie A,SS Lazio,winter,out,Stephen Makinwa,17146,25,Nigeria,Centre-Forward,CF,2000000.0,Chievo Verona,Italy,0.0,1
+2008,Serie A,SS Lazio,winter,out,Tommaso Berni,21752,25,Italy,Goalkeeper,GK,400000.0,Salernitana Calcio 1919,Italy,0.0,1
+2008,Serie A,SS Lazio,winter,out,Fabio Firmani,22083,30,Italy,Central Midfield,CM,1200000.0,Al-Wasl FC,United Arab Emirates,0.0,1
+2008,Serie A,SSC Napoli,summer,in,Christian Maggio,21151,26,Italy,Right-Back,RB,9000000.0,UC Sampdoria,Italy,8000000.0,0
+2008,Serie A,SSC Napoli,summer,in,Germán Denis,30873,26,Argentina,Centre-Forward,CF,8250000.0,CA Independiente,Argentina,7530000.0,0
+2008,Serie A,SSC Napoli,summer,in,Leandro Rinaudo,21988,25,Italy,Centre-Back,CB,2500000.0,US Palermo,Italy,5500000.0,0
+2008,Serie A,SSC Napoli,summer,in,Salvatore Aronica,19182,30,Italy,Centre-Back,CB,1200000.0,Reggina Calcio,Italy,2680000.0,0
+2008,Serie A,SSC Napoli,summer,in,Andrea Russotto,20590,20,Italy,Attacking Midfield,AM,1300000.0,AC Bellinzona,Switzerland,350000.0,1
+2008,Serie A,SSC Napoli,summer,in,Alessandro Venezia,286193,18,Italy,Defensive Midfield,DM,,Città di Gela Youth,Italy,250000.0,0
+2008,Serie A,SSC Napoli,summer,in,Luca Lacrimini,41807,30,Italy,Left-Back,LB,50000.0,AC Ancona,Italy,0.0,0
+2008,Serie A,SSC Napoli,winter,in,Jesús Dátolo,30759,24,Argentina,Left Midfield,LM,3300000.0,CA Boca Juniors,Argentina,6500000.0,0
+2008,Serie A,SSC Napoli,winter,in,Luca Bucci,6407,39,Italy,Goalkeeper,GK,,Career break,,,0
+2008,Serie A,SSC Napoli,summer,out,Maurizio Domizzi,6750,28,Italy,Centre-Back,CB,5000000.0,Udinese Calcio,Italy,4500000.0,0
+2008,Serie A,SSC Napoli,summer,out,Emanuele Calaiò,22268,26,Italy,Centre-Forward,CF,1200000.0,AC Siena,Italy,3550000.0,0
+2008,Serie A,SSC Napoli,summer,out,György Garics,2926,24,Austria,Right-Back,RB,2100000.0,Atalanta BC,Italy,2500000.0,0
+2008,Serie A,SSC Napoli,summer,out,Gaetano Grieco,6032,25,Italy,Second Striker,SS,250000.0,SS Juve Stabia ,Italy,100000.0,0
+2008,Serie A,SSC Napoli,summer,out,Luca Lacrimini,41807,30,Italy,Left-Back,LB,50000.0,Cavese 1919,Italy,0.0,0
+2008,Serie A,SSC Napoli,summer,out,Biagio Del Giudice,59635,19,Italy,Goalkeeper,GK,50000.0,SF Aversa Normanna,Italy,0.0,0
+2008,Serie A,SSC Napoli,summer,out,Marco Capparella,28819,33,Italy,Right Winger,RW,100000.0,SS Juve Stabia ,Italy,0.0,0
+2008,Serie A,SSC Napoli,summer,out,Andrea Cupi,6016,32,Italy,Centre-Back,CB,400000.0,FC Empoli,Italy,0.0,0
+2008,Serie A,SSC Napoli,summer,out,Roberto Sosa,19285,33,Argentina,Centre-Forward,CF,1500000.0,Club de Gimnasia y Esgrima La Plata,Argentina,0.0,0
+2008,Serie A,SSC Napoli,summer,out,Cristian Bucchi,16846,31,Italy,Centre-Forward,CF,1300000.0,Ascoli Calcio 1898,Italy,0.0,1
+2008,Serie A,SSC Napoli,summer,out,Giuseppe Feola,100794,19,Italy,Midfielder,Midfielder,,SS Barletta Calcio,Italy,,0
+2008,Serie A,SSC Napoli,summer,out,Rubén Maldonado,6152,29,Paraguay,Centre-Back,CB,100000.0,Club de Gimnasia y Esgrima La Plata,Argentina,,0
+2008,Serie A,SSC Napoli,summer,out,Roberto De Zerbi,23194,29,Italy,Attacking Midfield,AM,750000.0,US Avellino,Italy,0.0,1
+2008,Serie A,SSC Napoli,summer,out,Mario D'Urso,133961,18,Italy,Centre-Back,CB,,Giulianova Calcio,Italy,0.0,1
+2008,Serie A,SSC Napoli,summer,out,Carmine Biagio Gatti,138073,20,Italy,Goalkeeper,GK,,FC Matera,Italy,0.0,1
+2008,Serie A,SSC Napoli,summer,out,Erminio Rullo,6444,24,Italy,Left-Back,LB,900000.0,US Triestina,Italy,0.0,1
+2008,Serie A,SSC Napoli,winter,out,Mirko Savini,21155,29,Italy,Left-Back,LB,1000000.0,US Palermo,Italy,0.0,0
+2008,Serie A,SSC Napoli,winter,out,Alessandro Venezia,286193,19,Italy,Defensive Midfield,DM,,FC Neapolis Mugnano,Italy,,0
+2008,Serie A,SSC Napoli,winter,out,Samuele Dalla Bona,4291,27,Italy,Central Midfield,CM,700000.0,Without Club,,,0
+2008,Serie A,Torino FC,summer,in,Rolando Bianchi,20726,25,Italy,Centre-Forward,CF,6500000.0,Manchester City,England,7000000.0,0
+2008,Serie A,Torino FC,summer,in,Francesco Pratali,6028,29,Italy,Centre-Back,CB,1300000.0,FC Empoli,Italy,3000000.0,0
+2008,Serie A,Torino FC,summer,in,Nicola Amoruso,4150,33,Italy,Centre-Forward,CF,3300000.0,Reggina Calcio,Italy,3000000.0,0
+2008,Serie A,Torino FC,summer,in,Ignazio Abate,16631,21,Italy,Right-Back,RB,1100000.0,AC Milan,Italy,2200000.0,0
+2008,Serie A,Torino FC,summer,in,Elvis Abbruscato,23163,27,Italy,Centre-Forward,CF,1300000.0,US Lecce,Italy,2000000.0,0
+2008,Serie A,Torino FC,summer,in,Marco Pisano,16901,26,Italy,Left-Back,LB,2400000.0,US Palermo,Italy,1500000.0,0
+2008,Serie A,Torino FC,summer,in,Riccardo Colombo,22237,25,Italy,Right Midfield,RM,200000.0,UC AlbinoLeffe,Italy,1300000.0,0
+2008,Serie A,Torino FC,summer,in,Jürgen Säumel,3066,23,Austria,Central Midfield,CM,1500000.0,SK Sturm Graz,Austria,0.0,0
+2008,Serie A,Torino FC,summer,in,Blerim Dzemaili,9967,22,Switzerland,Central Midfield,CM,1000000.0,Bolton Wanderers,England,0.0,1
+2008,Serie A,Torino FC,summer,in,Alex Calderoni,19452,32,Italy,Goalkeeper,GK,2000000.0,Treviso FBC 1993,Italy,,0
+2008,Serie A,Torino FC,summer,in,Marco Moro,61713,24,Italy,Centre-Forward,CF,,AC Rinascita Messina,Italy,,0
+2008,Serie A,Torino FC,winter,in,Andrea Gasbarroni,20967,27,Italy,Second Striker,SS,4000000.0,Genoa CFC,Italy,1000000.0,0
+2008,Serie A,Torino FC,winter,in,Claudio Rivalta,21697,30,Italy,Centre-Back,CB,2200000.0,Atalanta BC,Italy,800000.0,0
+2008,Serie A,Torino FC,winter,in,Paolo Dellafiore,28935,23,Italy,Centre-Back,CB,3200000.0,US Palermo,Italy,400000.0,1
+2008,Serie A,Torino FC,summer,out,Gianluca Comotto,16685,29,Italy,Right-Back,RB,2700000.0,ACF Fiorentina,Italy,4800000.0,0
+2008,Serie A,Torino FC,summer,out,Vincenzo Grella,6021,28,Australia,Central Midfield,CM,2500000.0,Blackburn Rovers,England,4000000.0,0
+2008,Serie A,Torino FC,summer,out,Salvatore Lanna,5916,32,Italy,Left-Back,LB,1600000.0,Bologna FC 1909,Italy,1500000.0,0
+2008,Serie A,Torino FC,summer,out,David Di Michele,6076,32,Italy,Centre-Forward,CF,3300000.0,West Ham United,England,700000.0,1
+2008,Serie A,Torino FC,summer,out,Paolo Dellafiore,28935,23,Italy,Centre-Back,CB,3200000.0,US Palermo,Italy,0.0,1
+2008,Serie A,Torino FC,summer,out,Humberto Foguinho,25527,29,Brazil,Attacking Midfield,AM,150000.0,Maccabi Netanya,Israel,0.0,0
+2008,Serie A,Torino FC,summer,out,Masashi Oguro,31353,28,Japan,Centre-Forward,CF,400000.0,Tokyo Verdy,Japan,0.0,0
+2008,Serie A,Torino FC,summer,out,Nikola Lazetic,5919,30,Serbia,Right Midfield,RM,1000000.0,Red Star Belgrade,Serbia,0.0,0
+2008,Serie A,Torino FC,summer,out,Vito Falconieri,84589,22,Italy,Centre-Forward,CF,,AC Reggiana 1919,Italy,,0
+2008,Serie A,Torino FC,summer,out,Mattia De Stefano,78499,22,Italy,Centre-Back,CB,,Foligno Calcio,Italy,0.0,1
+2008,Serie A,Torino FC,summer,out,Sasa Bjelanovic,22187,29,Croatia,Centre-Forward,CF,2000000.0,Vicenza Calcio,Italy,0.0,1
+2008,Serie A,Torino FC,summer,out,Davide Bottone,54999,22,Italy,Central Midfield,CM,400000.0,Vicenza Calcio,Italy,0.0,1
+2008,Serie A,Torino FC,summer,out,Marco Moro,61713,24,Italy,Centre-Forward,CF,700000.0,SPAL 1907,Italy,0.0,1
+2008,Serie A,Torino FC,summer,out,Kwadwo Asamoah,63531,19,Ghana,Left Midfield,LM,300000.0,AC Bellinzona,Switzerland,0.0,1
+2008,Serie A,Torino FC,summer,out,Marco Pisano,16901,26,Italy,Left-Back,LB,2400000.0,US Palermo,Italy,0.0,1
+2008,Serie A,Torino FC,summer,out,Álvaro Recoba,5796,32,Uruguay,Second Striker,SS,1900000.0,Inter Milan,Italy,0.0,1
+2008,Serie A,Torino FC,summer,out,Marco Motta,30333,22,Italy,Right-Back,RB,2300000.0,Udinese Calcio,Italy,0.0,1
+2008,Serie A,Torino FC,winter,out,Nicola Amoruso,4150,34,Italy,Centre-Forward,CF,3300000.0,AC Siena,Italy,0.0,1
+2008,Serie A,Torino FC,winter,out,Dominique Malonga,45532,20,Congo,Centre-Forward,CF,800000.0,US Foggia,Italy,0.0,1
+2008,Serie A,UC Sampdoria,summer,in,Daniele Dessena,29962,21,Italy,Central Midfield,CM,4000000.0,Parma FC,Italy,6700000.0,0
+2008,Serie A,UC Sampdoria,summer,in,Antonio Cassano,5962,25,Italy,Second Striker,SS,12500000.0,Real Madrid,Spain,5000000.0,0
+2008,Serie A,UC Sampdoria,summer,in,Bruno Fornaroli,72651,20,Australia,Centre-Forward,CF,,Club Nacional,Uruguay,3000000.0,0
+2008,Serie A,UC Sampdoria,summer,in,Marius Stankevicius,5966,26,Lithuania,Centre-Back,CB,900000.0,Brescia Calcio,Italy,3000000.0,0
+2008,Serie A,UC Sampdoria,summer,in,Antonio Mirante,22141,24,Italy,Goalkeeper,GK,2000000.0,Juventus FC,Italy,2700000.0,0
+2008,Serie A,UC Sampdoria,summer,in,Jonathan Bottinelli,19947,23,Argentina,Centre-Back,CB,4250000.0,CA San Lorenzo de Almagro,Argentina,2600000.0,0
+2008,Serie A,UC Sampdoria,summer,in,Marco Padalino,22088,24,Switzerland,Right-Back,RB,150000.0,Piacenza FC,Italy,2500000.0,0
+2008,Serie A,UC Sampdoria,summer,in,Paolo Sammarco,7101,25,Italy,Central Midfield,CM,6500000.0,AC Milan,Italy,2400000.0,0
+2008,Serie A,UC Sampdoria,summer,in,Stefano Scappini,83370,20,Italy,Centre-Forward,CF,,Ternana Calcio,Italy,150000.0,0
+2008,Serie A,UC Sampdoria,winter,in,Giampaolo Pazzini,19447,24,Italy,Centre-Forward,CF,10000000.0,ACF Fiorentina,Italy,9000000.0,0
+2008,Serie A,UC Sampdoria,winter,in,Vasco Regini,72274,18,Italy,Left-Back,LB,,AC Cesena,Italy,600000.0,0
+2008,Serie A,UC Sampdoria,winter,in,Andrea Raggi,28845,24,Italy,Centre-Back,CB,4300000.0,US Palermo,Italy,400000.0,1
+2008,Serie A,UC Sampdoria,winter,in,Michele Ferri,20920,27,Italy,Centre-Back,CB,1300000.0,Cagliari Calcio,Italy,,0
+2008,Serie A,UC Sampdoria,winter,in,Manuel da Costa,37398,22,Morocco,Centre-Back,CB,2000000.0,ACF Fiorentina,Italy,0.0,1
+2008,Serie A,UC Sampdoria,summer,out,Christian Maggio,21151,26,Italy,Right-Back,RB,9000000.0,SSC Napoli,Italy,8000000.0,0
+2008,Serie A,UC Sampdoria,summer,out,Nikola Gulan,46553,19,Serbia,Defensive Midfield,DM,900000.0,ACF Fiorentina,Italy,0.0,1
+2008,Serie A,UC Sampdoria,summer,out,Cristian Zenoni,6794,31,Italy,Right-Back,RB,800000.0,Bologna FC 1909,Italy,1000000.0,0
+2008,Serie A,UC Sampdoria,summer,out,Ikechukwu Kalu,33768,24,Nigeria,Centre-Forward,CF,200000.0,AC Bellinzona,Switzerland,300000.0,0
+2008,Serie A,UC Sampdoria,summer,out,Luigi Sala,6254,34,Italy,Centre-Back,CB,500000.0,Udinese Calcio,Italy,0.0,0
+2008,Serie A,UC Sampdoria,summer,out,Sergio Volpi,16908,34,Italy,Central Midfield,CM,1100000.0,Bologna FC 1909,Italy,0.0,0
+2008,Serie A,UC Sampdoria,summer,out,Fabrizio Cacciatore,85605,21,Italy,Right-Back,RB,,US Triestina,Italy,0.0,1
+2008,Serie A,UC Sampdoria,summer,out,Leonardo Migliónico,21895,28,Uruguay,Centre-Back,CB,300000.0,AS Livorno,Italy,0.0,1
+2008,Serie A,UC Sampdoria,summer,out,Vladimir Koman,49719,19,Hungary,Attacking Midfield,AM,100000.0,US Avellino,Italy,0.0,1
+2008,Serie A,UC Sampdoria,summer,out,Francesco Virdis,42814,23,Italy,Centre-Forward,CF,50000.0,Legnano AC,Italy,0.0,1
+2008,Serie A,UC Sampdoria,summer,out,Jonathan Rossini,54916,19,Switzerland,Centre-Back,CB,100000.0,Legnano AC,Italy,0.0,1
+2008,Serie A,UC Sampdoria,summer,out,Matteo Lanzoni,61785,20,Italy,Centre-Back,CB,,AS Bari,Italy,0.0,1
+2008,Serie A,UC Sampdoria,summer,out,Gianluigi Bianco,61778,19,Italy,Left-Back,LB,,FC Empoli,Italy,0.0,1
+2008,Serie A,UC Sampdoria,summer,out,Solomon Enow,83393,21,Cameroon,Centre-Back,CB,,Legnano AC,Italy,0.0,1
+2008,Serie A,UC Sampdoria,summer,out,Mirko Eramo,61783,19,Italy,Central Midfield,CM,,Piacenza FC,Italy,0.0,1
+2008,Serie A,UC Sampdoria,summer,out,Massimo Volta,54921,21,Italy,Centre-Back,CB,50000.0,Vicenza Calcio,Italy,0.0,1
+2008,Serie A,UC Sampdoria,summer,out,Francesco Signori,61792,19,Italy,Central Midfield,CM,,Foligno Calcio,Italy,0.0,1
+2008,Serie A,UC Sampdoria,summer,out,Pietro Arnulfo,54895,19,Italy,Centre-Forward,CF,50000.0,Cuoiopelli Cappiano Romaiano,Italy,0.0,1
+2008,Serie A,UC Sampdoria,summer,out,Daniele Padelli,27807,22,Italy,Goalkeeper,GK,100000.0,US Avellino,Italy,0.0,1
+2008,Serie A,UC Sampdoria,summer,out,Danilo Soddimo,39690,20,Italy,Left Midfield,LM,50000.0,AC Ancona,Italy,0.0,1
+2008,Serie A,UC Sampdoria,summer,out,Alessandro Bastrini,39829,21,Italy,Centre-Back,CB,300000.0,US Sassuolo,Italy,0.0,1
+2008,Serie A,UC Sampdoria,summer,out,Gabriel Ferrari,48716,19,United States,Centre-Forward,CF,50000.0,Perugia Calcio,Italy,0.0,1
+2008,Serie A,UC Sampdoria,summer,out,Paolo Castellazzi,48743,20,Italy,Central Midfield,CM,50000.0,Ternana Calcio,Italy,0.0,1
+2008,Serie A,UC Sampdoria,summer,out,Giovanni Taormina,61793,20,Italy,Left Midfield,LM,,Calcio Como,Italy,0.0,1
+2008,Serie A,UC Sampdoria,summer,out,Stefano Scappini,83370,20,Italy,Centre-Forward,CF,,Ternana Calcio,Italy,0.0,1
+2008,Serie A,UC Sampdoria,summer,out,Paolo Sammarco,7101,25,Italy,Central Midfield,CM,6500000.0,AC Milan,Italy,0.0,1
+2008,Serie A,UC Sampdoria,summer,out,Antonio Cassano,5962,25,Italy,Second Striker,SS,12500000.0,Real Madrid,Spain,0.0,1
+2008,Serie A,UC Sampdoria,summer,out,Vincenzo Montella,5960,34,Italy,Centre-Forward,CF,2000000.0,AS Roma,Italy,0.0,1
+2008,Serie A,UC Sampdoria,summer,out,Antonio Mirante,22141,24,Italy,Goalkeeper,GK,2000000.0,Juventus FC,Italy,0.0,1
+2008,Serie A,UC Sampdoria,winter,out,Emiliano Bonazzoli,5877,29,Italy,Centre-Forward,CF,2100000.0,ACF Fiorentina,Italy,0.0,1
+2008,Serie A,UC Sampdoria,winter,out,Jonathan Bottinelli,19947,24,Argentina,Centre-Back,CB,4250000.0,CA San Lorenzo de Almagro,Argentina,0.0,1
+2008,Serie A,UC Sampdoria,winter,out,Massimo Bonanni,22188,26,Italy,Left Midfield,LM,1700000.0,US Grosseto FC,Italy,0.0,1
+2008,Serie A,UC Sampdoria,winter,out,Bruno Fornaroli,72651,21,Australia,Centre-Forward,CF,2000000.0,CA San Lorenzo de Almagro,Argentina,0.0,1
+2008,Serie A,UC Sampdoria,winter,out,Alessandro Romeo,49720,21,Italy,Centre-Forward,CF,300000.0,Cavese 1919,Italy,0.0,1
+2008,Serie A,UC Sampdoria,winter,out,Jonathan Rossini,54916,19,Switzerland,Centre-Back,CB,100000.0,AS Cittadella,Italy,0.0,1
+2008,Serie A,UC Sampdoria,winter,out,Carmine Cucciniello,54904,20,Italy,Central Midfield,CM,50000.0,Paganese Calcio 1926,Italy,0.0,1
+2008,Serie A,UC Sampdoria,winter,out,Matteo Lanzoni,61785,20,Italy,Centre-Back,CB,50000.0,US Sambenedettese,Italy,0.0,1
+2008,Serie A,UC Sampdoria,winter,out,Paolo Castellazzi,48743,21,Italy,Central Midfield,CM,50000.0,SPAL 1907,Italy,0.0,1
+2008,Serie A,US Lecce,summer,in,Daniele Cacia,21780,24,Italy,Centre-Forward,CF,2000000.0,Piacenza FC,Italy,3000000.0,0
+2008,Serie A,US Lecce,summer,in,Fabio Caserta,28832,29,Italy,Central Midfield,CM,3000000.0,US Palermo,Italy,1600000.0,0
+2008,Serie A,US Lecce,summer,in,José Castillo,41561,33,Argentina,Centre-Forward,CF,1500000.0,AC Pisa 1909,Italy,1600000.0,0
+2008,Serie A,US Lecce,summer,in,Frank Feltscher,46039,20,Venezuela,Right Winger,RW,400000.0,Grasshopper Club Zurich,Switzerland,400000.0,0
+2008,Serie A,US Lecce,summer,in,Antunes,44699,21,Portugal,Left-Back,LB,2000000.0,AS Roma,Italy,200000.0,1
+2008,Serie A,US Lecce,summer,in,Léo,27424,24,Brazil,Centre-Forward,CF,200000.0,Sport Club Internacional,Brazil,0.0,1
+2008,Serie A,US Lecce,summer,in,Dusan Basta,19694,23,Serbia,Right-Back,RB,1750000.0,Udinese Calcio,Italy,0.0,1
+2008,Serie A,US Lecce,summer,in,Dimitrios Papadopoulos,9836,26,Greece,Centre-Forward,CF,3500000.0,Panathinaikos FC,Greece,0.0,1
+2008,Serie A,US Lecce,summer,in,Guillermo Giacomazzi,6428,30,Uruguay,Central Midfield,CM,1500000.0,FC Empoli,Italy,,0
+2008,Serie A,US Lecce,summer,in,Guglielmo Stendardo,22093,27,Italy,Centre-Back,CB,3700000.0,SS Lazio,Italy,0.0,1
+2008,Serie A,US Lecce,summer,in,Viktor Budyanskiy,34194,24,Russia,Central Midfield,CM,1250000.0,Udinese Calcio,Italy,0.0,1
+2008,Serie A,US Lecce,winter,in,Edinho,27363,25,Brazil,Defensive Midfield,DM,3200000.0,Sport Club Internacional,Brazil,2300000.0,0
+2008,Serie A,US Lecce,winter,in,N'Diaye Papa Waigo,21871,24,Senegal,Right Winger,RW,2000000.0,ACF Fiorentina,Italy,0.0,1
+2008,Serie A,US Lecce,summer,out,Elvis Abbruscato,23163,27,Italy,Centre-Forward,CF,1300000.0,Torino FC,Italy,2000000.0,0
+2008,Serie A,US Lecce,summer,out,Anej Lovrecic,50298,21,Slovenia,Central Midfield,CM,500000.0,NK Publikum Celje,Slovenia,300000.0,0
+2008,Serie A,US Lecce,summer,out,Jaime Valdés,22131,27,Chile,Central Midfield,CM,1500000.0,Atalanta BC,Italy,0.0,0
+2008,Serie A,US Lecce,summer,out,Davide Giorgino,35850,23,Italy,Central Midfield,CM,300000.0,Taranto SS,Italy,0.0,0
+2008,Serie A,US Lecce,summer,out,Giuseppe Caccavallo,102625,21,Italy,Right Winger,RW,,Sorrento Calcio,Italy,0.0,1
+2008,Serie A,US Lecce,summer,out,Stefano Russo,121047,19,Italy,Goalkeeper,GK,,SSD Città di Brindisi,Italy,0.0,1
+2008,Serie A,US Lecce,summer,out,Marcello Cottafava,23351,30,Italy,Centre-Back,CB,600000.0,US Triestina,Italy,,0
+2008,Serie A,US Lecce,summer,out,Alessandro Camisa,32961,23,Italy,Centre-Back,CB,600000.0,Varese 1910,Italy,,0
+2008,Serie A,US Lecce,summer,out,Drissa Diarra,6425,23,Mali,Defensive Midfield,DM,100000.0,AC Bellinzona,Switzerland,0.0,1
+2008,Serie A,US Lecce,summer,out,Cristian Agnelli,21854,22,Italy,Central Midfield,CM,300000.0,Sorrento Calcio,Italy,0.0,1
+2008,Serie A,US Lecce,summer,out,Blazej Vascak,34434,24,Slovakia,Attacking Midfield,AM,300000.0,FK Teplice,Czech Republic,0.0,1
+2008,Serie A,US Lecce,summer,out,Italo Mattioli,32987,23,Italy,Centre-Forward,CF,300000.0,US Foggia,Italy,0.0,1
+2008,Serie A,US Lecce,summer,out,Ugo Gabrieli,56678,19,Italy,Goalkeeper,GK,50000.0,US Poggibonsi,Italy,0.0,1
+2008,Serie A,US Lecce,summer,out,Fabio Franceschini,56677,20,Italy,Centre-Back,CB,50000.0,AC Giacomense,Italy,0.0,1
+2008,Serie A,US Lecce,summer,out,Francesco Giorgetti,139027,22,Italy,Left Midfield,LM,,AC Mezzocorona,Italy,0.0,1
+2008,Serie A,US Lecce,summer,out,Mattia Conte,61597,20,Italy,Centre-Back,CB,,AS Gubbio 1910,Italy,0.0,1
+2008,Serie A,US Lecce,summer,out,Patrik Bordon,58380,20,Slovenia,Centre-Forward,CF,50000.0,FC Koper,Slovenia,0.0,1
+2008,Serie A,US Lecce,summer,out,Giuseppe Negro,39369,22,Italy,Left Winger,LW,100000.0,Valenzana Calcio,Italy,0.0,1
+2008,Serie A,US Lecce,summer,out,Viktor Budyanskiy,34194,24,Russia,Central Midfield,CM,1750000.0,Udinese Calcio,Italy,0.0,1
+2008,Serie A,US Lecce,summer,out,Daniele Corvia,16863,23,Italy,Centre-Forward,CF,1800000.0,AC Siena,Italy,0.0,1
+2008,Serie A,US Lecce,winter,out,Souleymane Diamoutene,8189,25,Mali,Centre-Back,CB,1000000.0,AS Roma,Italy,150000.0,1
+2008,Serie A,US Lecce,winter,out,Giuseppe Caccavallo,102625,21,Italy,Right Winger,RW,,Celano FC Olimpia,Italy,0.0,1
+2008,Serie A,US Lecce,winter,out,Frank Feltscher,46039,20,Venezuela,Right Winger,RW,400000.0,AC Bellinzona,Switzerland,0.0,1
+2008,Serie A,US Lecce,winter,out,Mattia Conte,61597,20,Italy,Centre-Back,CB,,SSC Venezia,Italy,0.0,1
+2008,Serie A,US Lecce,winter,out,Matteo Legittimo,61606,19,Italy,Centre-Back,CB,,Paganese Calcio 1926,Italy,0.0,1
+2008,Serie A,US Lecce,winter,out,Léo,27424,24,Brazil,Centre-Forward,CF,200000.0,Sport Club Internacional,Brazil,0.0,1
+2008,Serie A,US Lecce,winter,out,Viktor Budyanskiy,34194,24,Russia,Central Midfield,CM,1250000.0,Udinese Calcio,Italy,0.0,1
+2008,Serie A,US Lecce,winter,out,Dimitrios Papadopoulos,9836,27,Greece,Centre-Forward,CF,2000000.0,Panathinaikos FC,Greece,0.0,1
+2008,Serie A,US Palermo,summer,in,Cesare Bovo,5946,25,Italy,Centre-Back,CB,3500000.0,Genoa CFC,Italy,7850000.0,0
+2008,Serie A,US Palermo,summer,in,Antonio Nocerino,22203,23,Italy,Central Midfield,CM,9500000.0,Juventus FC,Italy,7500000.0,0
+2008,Serie A,US Palermo,summer,in,Andrea Raggi,28845,24,Italy,Centre-Back,CB,4300000.0,FC Empoli,Italy,7000000.0,0
+2008,Serie A,US Palermo,summer,in,Marco Amelia,16810,26,Italy,Goalkeeper,GK,12000000.0,AS Livorno,Italy,6000000.0,0
+2008,Serie A,US Palermo,summer,in,Igor Budan,19437,28,Croatia,Centre-Forward,CF,6500000.0,Parma FC,Italy,4500000.0,0
+2008,Serie A,US Palermo,summer,in,Simon Kjaer,48859,19,Denmark,Centre-Back,CB,1500000.0,FC Midtjylland,Denmark,4000000.0,0
+2008,Serie A,US Palermo,summer,in,Túlio de Melo,22820,23,Brazil,Centre-Forward,CF,6000000.0,Le Mans Union Club 72,France,3800000.0,0
+2008,Serie A,US Palermo,summer,in,Moris Carrozzieri,6747,27,Italy,Centre-Back,CB,3800000.0,Atalanta BC,Italy,3400000.0,0
+2008,Serie A,US Palermo,summer,in,Davide Succi,29208,26,Italy,Centre-Forward,CF,1100000.0,Ravenna Calcio,Italy,3050000.0,0
+2008,Serie A,US Palermo,summer,in,Davide Lanzafame,61539,21,Italy,Centre-Forward,CF,2500000.0,Juventus FC,Italy,2500000.0,0
+2008,Serie A,US Palermo,summer,in,Levan Mchedlidze,56912,18,Georgia,Centre-Forward,CF,,FC Empoli,Italy,1500000.0,1
+2008,Serie A,US Palermo,summer,in,Fabio Liverani,5846,32,Italy,Defensive Midfield,DM,6000000.0,ACF Fiorentina,Italy,0.0,0
+2008,Serie A,US Palermo,winter,in,Abel Hernández,76608,18,Uruguay,Centre-Forward,CF,,Central Español FC,Uruguay,3800000.0,0
+2008,Serie A,US Palermo,winter,in,Michel Morganella,47544,19,Switzerland,Right-Back,RB,250000.0,FC Basel 1893,Switzerland,2000000.0,0
+2008,Serie A,US Palermo,winter,in,Mirko Savini,21155,29,Italy,Left-Back,LB,1000000.0,SSC Napoli,Italy,0.0,0
+2008,Serie A,US Palermo,summer,out,Amauri,6234,28,Italy,Centre-Forward,CF,16000000.0,Juventus FC,Italy,22800000.0,0
+2008,Serie A,US Palermo,summer,out,Andrea Barzagli,7109,27,Italy,Centre-Back,CB,11000000.0,VfL Wolfsburg,Germany,14000000.0,0
+2008,Serie A,US Palermo,summer,out,Cristian Zaccardo,5993,26,Italy,Centre-Back,CB,7000000.0,VfL Wolfsburg,Germany,7000000.0,0
+2008,Serie A,US Palermo,summer,out,Leandro Rinaudo,21988,25,Italy,Centre-Back,CB,2500000.0,SSC Napoli,Italy,5500000.0,0
+2008,Serie A,US Palermo,summer,out,Túlio de Melo,22820,23,Brazil,Centre-Forward,CF,7000000.0,LOSC Lille,France,4000000.0,0
+2008,Serie A,US Palermo,summer,out,Mariano González,21409,27,Argentina,Right Winger,RW,2500000.0,FC Porto,Portugal,3200000.0,0
+2008,Serie A,US Palermo,summer,out,Franco Brienza,16137,29,Italy,Attacking Midfield,AM,4500000.0,Reggina Calcio,Italy,2200000.0,0
+2008,Serie A,US Palermo,summer,out,Fabio Caserta,28832,29,Italy,Central Midfield,CM,3000000.0,US Lecce,Italy,1600000.0,0
+2008,Serie A,US Palermo,summer,out,Marco Pisano,16901,26,Italy,Left-Back,LB,2400000.0,Torino FC,Italy,1500000.0,0
+2008,Serie A,US Palermo,summer,out,Giuseppe Biava,20913,31,Italy,Centre-Back,CB,2000000.0,Genoa CFC,Italy,1200000.0,0
+2008,Serie A,US Palermo,summer,out,Giuseppe Polito,61755,20,Italy,Second Striker,SS,,US Vibonese,Italy,100000.0,1
+2008,Serie A,US Palermo,summer,out,Boško Janković,19708,24,Serbia,Right Winger,RW,4000000.0,Genoa CFC,Italy,50000.0,1
+2008,Serie A,US Palermo,summer,out,Mirko Velardi,54920,20,Italy,Central Midfield,CM,100000.0,US Foggia,Italy,500.0,0
+2008,Serie A,US Palermo,summer,out,Salvatore Sirigu,25508,21,Italy,Goalkeeper,GK,50000.0,AC Ancona,Italy,0.0,1
+2008,Serie A,US Palermo,summer,out,Federico Agliardi,16888,25,Italy,Goalkeeper,GK,700000.0,Rimini FC,Italy,0.0,1
+2008,Serie A,US Palermo,summer,out,Alberto Cossentino,48943,19,Italy,Centre-Back,CB,50000.0,US Triestina,Italy,0.0,1
+2008,Serie A,US Palermo,summer,out,Nicola Ficano,48944,21,Italy,Left-Back,LB,50000.0,US Sambenedettese,Italy,,0
+2008,Serie A,US Palermo,summer,out,Edgar Cani,61863,18,Albania,Centre-Forward,CF,1000000.0,Ascoli Calcio 1898,Italy,0.0,1
+2008,Serie A,US Palermo,summer,out,Davis Curiale,84741,20,Italy,Centre-Forward,CF,,Vicenza Calcio,Italy,0.0,1
+2008,Serie A,US Palermo,summer,out,Francesco Inglese,61748,20,Italy,Defender,Defender,,AS Lucchese Libertas,Italy,0.0,1
+2008,Serie A,US Palermo,summer,out,Pietro Balistreri,140093,22,Italy,Centre-Forward,CF,,AC Monopoli,Italy,0.0,1
+2008,Serie A,US Palermo,winter,out,Andrea Raggi,28845,24,Italy,Centre-Back,CB,4300000.0,UC Sampdoria,Italy,400000.0,1
+2008,Serie A,US Palermo,winter,out,Paolo Dellafiore,28935,23,Italy,Centre-Back,CB,3200000.0,Torino FC,Italy,400000.0,1
+2008,Serie A,US Palermo,winter,out,Valerio Lischi,444928,17,Italy,Goalkeeper,GK,,ASD Chieti,Italy,,0
+2008,Serie A,US Palermo,winter,out,Davide Lanzafame,61539,21,Italy,Centre-Forward,CF,4000000.0,AS Bari,Italy,0.0,1
+2008,Serie A,US Palermo,winter,out,Maurizio Ciaramitaro,24303,26,Italy,Central Midfield,CM,1250000.0,Salernitana Calcio 1919,Italy,0.0,1
+2008,Serie A,US Palermo,winter,out,Davis Curiale,84741,21,Italy,Centre-Forward,CF,,Ravenna Calcio,Italy,0.0,1
+2008,Serie A,US Palermo,winter,out,Ciro Capuano,38584,27,Italy,Left-Back,LB,1000000.0,Calcio Catania,Italy,0.0,1
+2008,Serie A,US Palermo,winter,out,Luca Di Matteo,68862,20,Italy,Left-Back,LB,50000.0,AS Cittadella,Italy,0.0,1
+2008,Serie A,Udinese Calcio,summer,in,Maurizio Domizzi,6750,28,Italy,Centre-Back,CB,5000000.0,SSC Napoli,Italy,4500000.0,0
+2008,Serie A,Udinese Calcio,summer,in,Fernando Tissone,35871,21,Argentina,Defensive Midfield,DM,5500000.0,Atalanta BC,Italy,4200000.0,0
+2008,Serie A,Udinese Calcio,summer,in,Giovanni Pasquale,5793,26,Italy,Left Midfield,LM,4000000.0,AS Livorno,Italy,3500000.0,0
+2008,Serie A,Udinese Calcio,summer,in,Odion Ighalo,62121,19,Nigeria,Centre-Forward,CF,2000000.0,Lyn 1896 FK,Norway,1900000.0,0
+2008,Serie A,Udinese Calcio,summer,in,Alain Nef,4945,26,Switzerland,Centre-Back,CB,1000000.0,Piacenza FC,Italy,1800000.0,0
+2008,Serie A,Udinese Calcio,summer,in,Alexander Manninger,5278,31,Austria,Goalkeeper,GK,3000000.0,Red Bull Salzburg,Austria,1800000.0,0
+2008,Serie A,Udinese Calcio,summer,in,Nikola Vujadinovic,58474,22,Montenegro,Centre-Back,CB,650000.0,CSKA Sofia,Bulgaria,900000.0,0
+2008,Serie A,Udinese Calcio,summer,in,Dusan Basta,19694,23,Serbia,Right-Back,RB,1750000.0,Red Star Belgrade,Serbia,700000.0,0
+2008,Serie A,Udinese Calcio,summer,in,Luigi Sala,6254,34,Italy,Centre-Back,CB,500000.0,UC Sampdoria,Italy,0.0,0
+2008,Serie A,Udinese Calcio,summer,in,Santiago Morero,53139,26,Argentina,Centre-Back,CB,1200000.0,Club Atlético Tigre,Argentina,0.0,0
+2008,Serie A,Udinese Calcio,summer,in,Antonio Langella,20739,31,Italy,Second Striker,SS,2750000.0,Atalanta BC,Italy,0.0,0
+2008,Serie A,Udinese Calcio,summer,in,Emanuele Belardi,6060,30,Italy,Goalkeeper,GK,350000.0,Juventus FC,Italy,,0
+2008,Serie A,Udinese Calcio,summer,in,Nicolás Crovetto,73411,22,Chile,Left-Back,LB,,Audax Italiano,Chile,,0
+2008,Serie A,Udinese Calcio,summer,in,Jan Koprivec,50286,19,Slovenia,Goalkeeper,GK,100000.0,Cagliari Calcio,Italy,,0
+2008,Serie A,Udinese Calcio,summer,in,Cristoforo Correale,138393,20,Italy,Midfielder,Midfielder,,SS Juve Stabia ,Italy,,0
+2008,Serie A,Udinese Calcio,summer,in,Salvatore Foti,38559,19,Italy,Centre-Forward,CF,500000.0,AC Rinascita Messina,Italy,,0
+2008,Serie A,Udinese Calcio,summer,in,Kwadwo Asamoah,63531,19,Ghana,Left Midfield,LM,300000.0,AC Bellinzona,Switzerland,0.0,1
+2008,Serie A,Udinese Calcio,winter,in,Sakari Mattila,47781,19,Finland,Defensive Midfield,DM,250000.0,HJK Helsinki,Finland,800000.0,0
+2008,Serie A,Udinese Calcio,winter,in,Niki Zimling,15045,23,Denmark,Defensive Midfield,DM,1500000.0,Esbjerg fB,Denmark,0.0,0
+2008,Serie A,Udinese Calcio,summer,out,Andrea Dossena,21863,26,Italy,Left Midfield,LM,6500000.0,Liverpool FC,England,9000000.0,0
+2008,Serie A,Udinese Calcio,summer,out,Asamoah Gyan,26802,22,Ghana,Centre-Forward,CF,6000000.0,Stade Rennais FC,France,8000000.0,0
+2008,Serie A,Udinese Calcio,summer,out,Tomas Sivok,26936,24,Czech Republic,Centre-Back,CB,3800000.0,Besiktas JK,Türkiye,4700000.0,0
+2008,Serie A,Udinese Calcio,summer,out,Tomas Zapotocny,21262,27,Czech Republic,Centre-Back,CB,3250000.0,Besiktas JK,Türkiye,4500000.0,0
+2008,Serie A,Udinese Calcio,summer,out,Giandomenico Mesto,16744,26,Italy,Right Midfield,RM,5500000.0,Genoa CFC,Italy,3000000.0,0
+2008,Serie A,Udinese Calcio,summer,out,Alexander Manninger,5278,31,Austria,Goalkeeper,GK,3000000.0,Juventus FC,Italy,2500000.0,0
+2008,Serie A,Udinese Calcio,summer,out,Salvatore Masiello,21769,26,Italy,Left-Back,LB,1350000.0,AS Bari,Italy,1000000.0,0
+2008,Serie A,Udinese Calcio,summer,out,Barreto,23345,22,Brazil,Second Striker,SS,4000000.0,AS Bari,Italy,1000000.0,1
+2008,Serie A,Udinese Calcio,summer,out,Michele Rinaldi,44666,21,Italy,Centre-Back,CB,200000.0,Atalanta BC,Italy,600000.0,0
+2008,Serie A,Udinese Calcio,summer,out,Antonio Candreva,25488,21,Italy,Right Winger,RW,500000.0,AS Livorno,Italy,500000.0,1
+2008,Serie A,Udinese Calcio,summer,out,Raffaele De Martino,17222,22,Italy,Defensive Midfield,DM,400000.0,US Avellino,Italy,400000.0,0
+2008,Serie A,Udinese Calcio,summer,out,Roman Eremenko,44367,21,Finland,Attacking Midfield,AM,500000.0,Dynamo Kyiv,Ukraine,300000.0,1
+2008,Serie A,Udinese Calcio,summer,out,Claudio Vargas,44670,22,Paraguay,Defensive Midfield,DM,50000.0,Olimpia Asunción,Paraguay,0.0,0
+2008,Serie A,Udinese Calcio,summer,out,Ivan Buonocunto,138392,22,Italy,Attacking Midfield,AM,,Itala San Marco Gradisca,Italy,0.0,0
+2008,Serie A,Udinese Calcio,summer,out,Antonio Chimenti,5745,38,Italy,Goalkeeper,GK,100000.0,Juventus FC,Italy,0.0,0
+2008,Serie A,Udinese Calcio,summer,out,Abdul-Aziz Tetteh,157003,18,Ghana,Defensive Midfield,DM,,Xerez CD,Spain,0.0,1
+2008,Serie A,Udinese Calcio,summer,out,Facundo Zampa,103418,19,Argentina,Central Midfield,CM,,Gallipoli Calcio,Italy,0.0,1
+2008,Serie A,Udinese Calcio,summer,out,Dusan Basta,19694,23,Serbia,Right-Back,RB,1750000.0,US Lecce,Italy,0.0,1
+2008,Serie A,Udinese Calcio,summer,out,Guilherme Siqueira,44373,22,Brazil,Left-Back,LB,500000.0,AC Ancona,Italy,0.0,1
+2008,Serie A,Udinese Calcio,summer,out,Felipe Sodinha,84770,20,Brazil,Second Striker,SS,,AS Bari,Italy,0.0,1
+2008,Serie A,Udinese Calcio,summer,out,Mohamadou Sissoko,16230,19,France,Centre-Back,CB,50000.0,Gallipoli Calcio,Italy,0.0,1
+2008,Serie A,Udinese Calcio,summer,out,Flavio Lazzari,33340,21,Italy,Attacking Midfield,AM,100000.0,US Grosseto FC,Italy,0.0,1
+2008,Serie A,Udinese Calcio,summer,out,Federico Gerardi,44368,20,Italy,Centre-Forward,CF,50000.0,Salernitana Calcio 1919,Italy,0.0,1
+2008,Serie A,Udinese Calcio,summer,out,Santiago Morero,53139,26,Argentina,Centre-Back,CB,1200000.0,Chievo Verona,Italy,,0
+2008,Serie A,Udinese Calcio,summer,out,Christian Tiboni,44376,20,Italy,Centre-Forward,CF,300000.0,Atalanta BC,Italy,,0
+2008,Serie A,Udinese Calcio,summer,out,Salvatore Foti,38559,19,Italy,Centre-Forward,CF,400000.0,Treviso FBC 1993,Italy,,0
+2008,Serie A,Udinese Calcio,summer,out,Cristoforo Correale,138393,20,Italy,Midfielder,Midfielder,,Scafatese Calcio 1922,Italy,0.0,1
+2008,Serie A,Udinese Calcio,summer,out,Andrea Peron,138395,21,Italy,Centre-Forward,CF,,Itala San Marco Gradisca,Italy,0.0,1
+2008,Serie A,Udinese Calcio,summer,out,Matteo Piccinni,85523,22,Italy,Centre-Back,CB,,AC Pisa 1909,Italy,0.0,1
+2008,Serie A,Udinese Calcio,summer,out,Massimo Gotti,44272,22,Italy,Left-Back,LB,250000.0,Calcio Portogruaro-Summaga,Italy,0.0,1
+2008,Serie A,Udinese Calcio,summer,out,Michele Paolucci,41311,22,Italy,Centre-Forward,CF,1000000.0,Calcio Catania,Italy,0.0,1
+2008,Serie A,Udinese Calcio,summer,out,Federico Laurito,44371,18,Argentina,Centre-Forward,CF,500000.0,AS Livorno,Italy,0.0,1
+2008,Serie A,Udinese Calcio,summer,out,Ferdinando Sforzini,33349,23,Italy,Centre-Forward,CF,1300000.0,US Grosseto FC,Italy,0.0,1
+2008,Serie A,Udinese Calcio,summer,out,Nicolás Crovetto,73411,22,Chile,Left-Back,LB,,Albacete Balompié,Spain,0.0,1
+2008,Serie A,Udinese Calcio,summer,out,Juan Surraco,44375,20,Uruguay,Second Striker,SS,100000.0,AC Ancona,Italy,0.0,1
+2008,Serie A,Udinese Calcio,summer,out,Viktor Budyanskiy,34194,24,Russia,Central Midfield,CM,1250000.0,US Lecce,Italy,0.0,1
+2008,Serie A,Udinese Calcio,summer,out,Schumacher,44662,21,Brazil,Centre-Forward,CF,400000.0,SK Austria Kärnten (-2010),Austria,0.0,1
+2008,Serie A,Udinese Calcio,summer,out,Igor Djuric,33756,19,Switzerland,Centre-Back,CB,50000.0,AC Arezzo,Italy,0.0,1
+2008,Serie A,Udinese Calcio,summer,out,Giampiero Pinzi,5893,27,Italy,Central Midfield,CM,1800000.0,Chievo Verona,Italy,0.0,1
+2008,Serie A,Udinese Calcio,summer,out,Antonio Langella,20739,31,Italy,Second Striker,SS,2750000.0,Chievo Verona,Italy,0.0,1
+2008,Serie A,Udinese Calcio,summer,out,Abel Aguilar,37388,23,Colombia,Defensive Midfield,DM,500000.0,Hércules CF,Spain,0.0,1
+2008,Serie A,Udinese Calcio,summer,out,Alessandro Osso Armellino,38748,21,Italy,Striker,Striker,200000.0,Celano FC Olimpia,Italy,0.0,1
+2008,Serie A,Udinese Calcio,summer,out,Riccardo Colombo,22237,25,Italy,Right Midfield,RM,200000.0,UC AlbinoLeffe,Italy,0.0,1
+2008,Serie A,Udinese Calcio,winter,out,Viktor Budyanskiy,34194,24,Russia,Central Midfield,CM,1250000.0,FC Khimki,Russia,0.0,1
+2008,Serie A,Udinese Calcio,winter,out,Moreno,55466,25,Brazil,Left-Back,LB,400000.0,KAS Eupen,Belgium,0.0,1
+2008,Serie A,Udinese Calcio,winter,out,Marco Motta,30333,22,Italy,Right-Back,RB,2300000.0,AS Roma,Italy,0.0,1
+2008,Serie A,Udinese Calcio,winter,out,Felipe Sodinha,84770,20,Brazil,Second Striker,SS,,Paganese Calcio 1926,Italy,0.0,1
+2008,Serie A,Udinese Calcio,winter,out,Federico Gerardi,44368,21,Italy,Centre-Forward,CF,50000.0,AS Cittadella,Italy,0.0,1
+2008,Serie A,Udinese Calcio,winter,out,Alessandro Osso Armellino,38748,21,Italy,Striker,Striker,200000.0,VF Colligiana,Italy,,0
+2008,Serie A,Udinese Calcio,winter,out,Alain Nef,4945,26,Switzerland,Centre-Back,CB,1500000.0,Recreativo Huelva,Spain,0.0,1
+2008,Serie A,Udinese Calcio,winter,out,Ferdinando Sforzini,33349,24,Italy,Centre-Forward,CF,1300000.0,US Avellino,Italy,0.0,1
+2008,Serie A,Udinese Calcio,winter,out,Federico Laurito,44371,18,Argentina,Centre-Forward,CF,300000.0,SSC Venezia,Italy,0.0,1

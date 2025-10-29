@@ -13,6 +13,7 @@ All league data span the 1992&ndash;93 season through the current season unless 
 - Premier League (England)
 - La Liga (Spain)
 - Bundesliga (Germany)
+- Serie A (Italy)
 
 More leagues and seasons are to come!
 

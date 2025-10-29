@@ -1,0 +1,991 @@
+season,league,club,window,movement,player_name,player_id,age,nationality,position,pos,market_value,dealing_club,dealing_country,fee,is_loan
+2020,Serie A,AC Milan,summer,in,Alexis Saelemaekers,381950,21,Belgium,Right Midfield,RM,8000000.0,RSC Anderlecht,Belgium,7650000.0,0
+2020,Serie A,AC Milan,summer,in,Ante Rebić,187587,26,Croatia,Left Winger,LW,32000000.0,Eintracht Frankfurt,Germany,6700000.0,0
+2020,Serie A,AC Milan,summer,in,Sandro Tonali,397033,20,Italy,Defensive Midfield,DM,32000000.0,Brescia Calcio (- 2025),Italy,5000000.0,1
+2020,Serie A,AC Milan,summer,in,Jens Petter Hauge,422355,20,Norway,Left Winger,LW,1000000.0,FK Bodø/Glimt,Norway,4800000.0,0
+2020,Serie A,AC Milan,summer,in,Simon Kjaer,48859,31,Denmark,Centre-Back,CB,7000000.0,Sevilla FC,Spain,3680000.0,0
+2020,Serie A,AC Milan,summer,in,Pierre Kalulu,585949,20,France,Centre-Back,CB,,Olympique Lyon B,France,1390000.0,0
+2020,Serie A,AC Milan,summer,in,Ciprian Tătărușanu,55282,34,Romania,Goalkeeper,GK,1200000.0,Olympique Lyon,France,1000000.0,0
+2020,Serie A,AC Milan,summer,in,Diogo Dalot,357147,21,Portugal,Right-Back,RB,12000000.0,Manchester United,England,500000.0,1
+2020,Serie A,AC Milan,summer,in,Brahim Díaz,314678,21,Morocco,Right Winger,RW,13500000.0,Real Madrid,Spain,200000.0,1
+2020,Serie A,AC Milan,winter,in,Fikayo Tomori,303254,23,England,Centre-Back,CB,17000000.0,Chelsea FC,England,600000.0,1
+2020,Serie A,AC Milan,winter,in,Soualiho Meïté,164913,26,France,Defensive Midfield,DM,5000000.0,Torino FC,Italy,500000.0,1
+2020,Serie A,AC Milan,winter,in,Mario Mandžukić,34572,34,Croatia,Centre-Forward,CF,2500000.0,Without Club,,,0
+2020,Serie A,AC Milan,summer,out,Lucas Paquetá,444523,23,Brazil,Attacking Midfield,AM,20000000.0,Olympique Lyon,France,23000000.0,0
+2020,Serie A,AC Milan,summer,out,Suso,111961,26,Spain,Right Winger,RW,17500000.0,Sevilla FC,Spain,21700000.0,0
+2020,Serie A,AC Milan,summer,out,André Silva,198008,24,Portugal,Centre-Forward,CF,24000000.0,Eintracht Frankfurt,Germany,3000000.0,0
+2020,Serie A,AC Milan,summer,out,Gustavo Gómez,215390,27,Paraguay,Centre-Back,CB,3500000.0,Sociedade Esportiva Palmeiras,Brazil,2000000.0,0
+2020,Serie A,AC Milan,summer,out,Ricardo Rodríguez,86784,28,Switzerland,Left-Back,LB,3500000.0,Torino FC,Italy,1950000.0,0
+2020,Serie A,AC Milan,summer,out,Pepe Reina,7825,38,Spain,Goalkeeper,GK,800000.0,SS Lazio,Italy,0.0,0
+2020,Serie A,AC Milan,summer,out,Riccardo Forte,392540,21,Italy,Second Striker,SS,25000.0,Cavese 1919,Italy,0.0,0
+2020,Serie A,AC Milan,summer,out,Giacomo Bonaventura,57280,31,Italy,Attacking Midfield,AM,7000000.0,ACF Fiorentina,Italy,0.0,0
+2020,Serie A,AC Milan,summer,out,Lucas Biglia,26721,34,Argentina,Defensive Midfield,DM,2000000.0,Fatih Karagümrük,Türkiye,0.0,0
+2020,Serie A,AC Milan,summer,out,Alessandro Plizzari,357991,20,Italy,Goalkeeper,GK,2000000.0,Reggina 1914,Italy,0.0,1
+2020,Serie A,AC Milan,summer,out,Gabriele Bellodi,406912,20,Italy,Centre-Back,CB,300000.0,US Alessandria Calcio 1912,Italy,0.0,1
+2020,Serie A,AC Milan,summer,out,Frank Tsadjout,392545,21,Italy,Centre-Forward,CF,300000.0,AS Cittadella,Italy,0.0,1
+2020,Serie A,AC Milan,summer,out,Tommaso Pobega,392538,21,Italy,Central Midfield,CM,4500000.0,Spezia Calcio,Italy,0.0,1
+2020,Serie A,AC Milan,summer,out,Diego Laxalt,230552,27,Uruguay,Left-Back,LB,5000000.0,Celtic FC,Scotland,0.0,1
+2020,Serie A,AC Milan,summer,out,Ismet Sinani,371370,21,Kosovo,Centre-Forward,CF,,Without Club,,,0
+2020,Serie A,AC Milan,summer,out,Alen Halilovic,226074,24,Croatia,Attacking Midfield,AM,1000000.0,Without Club,,,0
+2020,Serie A,AC Milan,summer,out,Alexis Saelemaekers,381950,21,Belgium,Right Midfield,RM,8000000.0,RSC Anderlecht,Belgium,0.0,1
+2020,Serie A,AC Milan,summer,out,Asmir Begovic,33873,33,Bosnia-Herzegovina,Goalkeeper,GK,2000000.0,AFC Bournemouth,England,0.0,1
+2020,Serie A,AC Milan,summer,out,Simon Kjaer,48859,31,Denmark,Centre-Back,CB,7000000.0,Sevilla FC,Spain,0.0,1
+2020,Serie A,AC Milan,summer,out,Ante Rebić,187587,26,Croatia,Left Winger,LW,32000000.0,Eintracht Frankfurt,Germany,0.0,1
+2020,Serie A,AC Milan,winter,out,Mateo Musacchio,45653,30,Argentina,Centre-Back,CB,4500000.0,SS Lazio,Italy,0.0,0
+2020,Serie A,AC Milan,winter,out,Andrea Conti,111227,26,Italy,Right-Back,RB,7000000.0,Parma Calcio 1913,Italy,0.0,1
+2020,Serie A,AC Milan,winter,out,Emir Murati,395195,20,Italy,Central Midfield,CM,75000.0,US Vibonese,Italy,0.0,1
+2020,Serie A,AC Milan,winter,out,Luan Capanni,601877,20,Brazil,Centre-Forward,CF,100000.0,Racing Santander,Spain,0.0,1
+2020,Serie A,AC Milan,winter,out,Léo Duarte,312678,24,Brazil,Centre-Back,CB,3000000.0,Basaksehir FK,Türkiye,0.0,1
+2020,Serie A,AC Milan,winter,out,Lorenzo Colombo,487843,18,Italy,Centre-Forward,CF,1000000.0,US Cremonese,Italy,0.0,1
+2020,Serie A,ACF Fiorentina,summer,in,Christian Kouamé,337725,22,Cote d'Ivoire,Centre-Forward,CF,17500000.0,Genoa CFC,Italy,15500000.0,0
+2020,Serie A,ACF Fiorentina,summer,in,Alfred Duncan,184894,27,Ghana,Central Midfield,CM,15000000.0,US Sassuolo,Italy,15000000.0,0
+2020,Serie A,ACF Fiorentina,summer,in,Lucas Martínez Quarta,373373,24,Argentina,Centre-Back,CB,10000000.0,CA River Plate,Argentina,13000000.0,0
+2020,Serie A,ACF Fiorentina,summer,in,Pol Lirola,298975,23,Spain,Right-Back,RB,10000000.0,US Sassuolo,Italy,11000000.0,0
+2020,Serie A,ACF Fiorentina,summer,in,José Callejón,61253,33,Spain,Right Winger,RW,7500000.0,SSC Napoli,Italy,0.0,0
+2020,Serie A,ACF Fiorentina,summer,in,Borja Valero,40372,35,Spain,Central Midfield,CM,1200000.0,Inter Milan,Italy,0.0,0
+2020,Serie A,ACF Fiorentina,summer,in,Giacomo Bonaventura,57280,31,Italy,Attacking Midfield,AM,7000000.0,AC Milan,Italy,0.0,0
+2020,Serie A,ACF Fiorentina,summer,in,Antonio Barreca,241889,25,Italy,Left-Back,LB,3000000.0,AS Monaco,France,0.0,1
+2020,Serie A,ACF Fiorentina,winter,in,Aleksandr Kokorin,89086,29,Russia,Second Striker,SS,4500000.0,Spartak Moscow,Russia,4500000.0,0
+2020,Serie A,ACF Fiorentina,winter,in,Youssef Maleh,324377,22,Morocco,Central Midfield,CM,700000.0,Venezia FC,Italy,800000.0,0
+2020,Serie A,ACF Fiorentina,winter,in,Antonio Rosati,6442,37,Italy,Goalkeeper,GK,100000.0,Torino FC,Italy,0.0,0
+2020,Serie A,ACF Fiorentina,winter,in,Kévin Malcuit,126711,29,Morocco,Right-Back,RB,7000000.0,SSC Napoli,Italy,0.0,1
+2020,Serie A,ACF Fiorentina,summer,out,Jordan Veretout,164771,27,France,Central Midfield,CM,24000000.0,AS Roma,Italy,17500000.0,0
+2020,Serie A,ACF Fiorentina,summer,out,Giovanni Simeone,282388,25,Argentina,Centre-Forward,CF,15000000.0,Cagliari Calcio,Italy,13000000.0,0
+2020,Serie A,ACF Fiorentina,summer,out,Federico Chiesa,341092,22,Italy,Right Winger,RW,48000000.0,Juventus FC,Italy,12600000.0,1
+2020,Serie A,ACF Fiorentina,summer,out,Marco Benassi,201040,26,Italy,Central Midfield,CM,10000000.0,Hellas Verona,Italy,800000.0,1
+2020,Serie A,ACF Fiorentina,summer,out,Bryan Dabo,149446,28,Burkina Faso,Central Midfield,CM,2000000.0,Benevento Calcio,Italy,500000.0,0
+2020,Serie A,ACF Fiorentina,summer,out,Mamadou Touré Diawara,388562,20,Spain,Left Winger,LW,,Alhaurín de la Torre CF,Spain,0.0,0
+2020,Serie A,ACF Fiorentina,summer,out,Sebastián Cristóforo,188157,27,Uruguay,Central Midfield,CM,1400000.0,Girona FC,Spain,0.0,0
+2020,Serie A,ACF Fiorentina,summer,out,Riccardo Baroni,398025,22,Italy,Centre-Back,CB,200000.0,Frosinone Calcio,Italy,0.0,0
+2020,Serie A,ACF Fiorentina,summer,out,Kevin-Prince Boateng,16922,33,Ghana,Attacking Midfield,AM,3000000.0,AC Monza,Italy,0.0,0
+2020,Serie A,ACF Fiorentina,summer,out,Amidu Salifu,146596,27,Ghana,Central Midfield,CM,125000.0,Petrolul Ploiesti,Romania,0.0,0
+2020,Serie A,ACF Fiorentina,summer,out,Mattia Trovato,297651,22,Italy,Central Midfield,CM,125000.0,UC AlbinoLeffe,Italy,0.0,1
+2020,Serie A,ACF Fiorentina,summer,out,Marco Marozzi,392051,21,Italy,Right Midfield,RM,50000.0,Ravenna FC,Italy,0.0,1
+2020,Serie A,ACF Fiorentina,summer,out,Marco Meli,364138,20,Italy,Central Midfield,CM,100000.0,Ravenna FC,Italy,0.0,1
+2020,Serie A,ACF Fiorentina,summer,out,Gabriele Ferrarini,392033,20,Italy,Right-Back,RB,250000.0,Venezia FC,Italy,0.0,1
+2020,Serie A,ACF Fiorentina,summer,out,Luca Ranieri,346561,21,Italy,Centre-Back,CB,2000000.0,SPAL,Italy,0.0,1
+2020,Serie A,ACF Fiorentina,summer,out,Erald Lakti,392048,20,Albania,Central Midfield,CM,150000.0,AC Renate,Italy,0.0,1
+2020,Serie A,ACF Fiorentina,summer,out,Julián Illanes,441264,23,Argentina,Centre-Back,CB,100000.0,Chievo Verona,Italy,0.0,1
+2020,Serie A,ACF Fiorentina,summer,out,Gabriele Gori,315859,21,Italy,Centre-Forward,CF,450000.0,LR Vicenza,Italy,0.0,1
+2020,Serie A,ACF Fiorentina,summer,out,Federico Ceccherini,163639,28,Italy,Centre-Back,CB,2500000.0,Hellas Verona,Italy,0.0,1
+2020,Serie A,ACF Fiorentina,summer,out,Martin Graiciar,319176,21,Czech Republic,Centre-Forward,CF,450000.0,FK Mlada Boleslav,Czech Republic,0.0,1
+2020,Serie A,ACF Fiorentina,summer,out,Petko Hristov,372809,21,Bulgaria,Centre-Back,CB,425000.0,FC Pro Vercelli 1892,Italy,0.0,1
+2020,Serie A,ACF Fiorentina,summer,out,Jacob Rasmussen,283233,23,Denmark,Centre-Back,CB,2800000.0,Vitesse Arnhem,Netherlands,0.0,1
+2020,Serie A,ACF Fiorentina,summer,out,Michele Cerofolini,370701,21,Italy,Goalkeeper,GK,275000.0,AC Reggiana 1919,Italy,0.0,1
+2020,Serie A,ACF Fiorentina,summer,out,Rafik Zekhnini,354278,22,Norway,Left Winger,LW,600000.0,FC Lausanne-Sport,Switzerland,0.0,1
+2020,Serie A,ACF Fiorentina,summer,out,Riccardo Sottil,386455,21,Italy,Left Winger,LW,3600000.0,Cagliari Calcio,Italy,0.0,1
+2020,Serie A,ACF Fiorentina,summer,out,Aleksa Terzic,404260,21,Serbia,Left-Back,LB,1300000.0,Empoli FC ,Italy,0.0,1
+2020,Serie A,ACF Fiorentina,summer,out,Cyril Théréau,29316,37,France,Centre-Forward,CF,,Retired,,,0
+2020,Serie A,ACF Fiorentina,summer,out,Kevin Agudelo,587458,21,Colombia,Attacking Midfield,AM,3500000.0,Genoa CFC,Italy,0.0,1
+2020,Serie A,ACF Fiorentina,summer,out,Christian Kouamé,337725,22,Cote d'Ivoire,Centre-Forward,CF,17500000.0,Genoa CFC,Italy,0.0,1
+2020,Serie A,ACF Fiorentina,summer,out,Alfred Duncan,184894,27,Ghana,Central Midfield,CM,15000000.0,US Sassuolo,Italy,0.0,1
+2020,Serie A,ACF Fiorentina,summer,out,Rachid Ghezzal,118287,28,Algeria,Right Winger,RW,5500000.0,Leicester City,England,0.0,1
+2020,Serie A,ACF Fiorentina,summer,out,Dalbert,312862,26,Brazil,Left-Back,LB,9000000.0,Inter Milan,Italy,0.0,1
+2020,Serie A,ACF Fiorentina,summer,out,Milan Badelj,40633,31,Croatia,Defensive Midfield,DM,2000000.0,SS Lazio,Italy,0.0,1
+2020,Serie A,ACF Fiorentina,summer,out,Pol Lirola,298975,23,Spain,Right-Back,RB,10000000.0,US Sassuolo,Italy,0.0,1
+2020,Serie A,ACF Fiorentina,winter,out,Pedro,432895,23,Brazil,Centre-Forward,CF,12000000.0,CR Flamengo,Brazil,14000000.0,0
+2020,Serie A,ACF Fiorentina,winter,out,Alfred Duncan,184894,27,Ghana,Central Midfield,CM,12000000.0,Cagliari Calcio,Italy,1000000.0,1
+2020,Serie A,ACF Fiorentina,winter,out,Pol Lirola,298975,23,Spain,Right-Back,RB,8000000.0,Olympique Marseille,France,490000.0,1
+2020,Serie A,ACF Fiorentina,winter,out,Josip Maganjic,425917,22,Croatia,Left Winger,LW,100000.0,NK Siroki Brijeg,Bosnia-Herzegovina,0.0,0
+2020,Serie A,ACF Fiorentina,winter,out,Julián Illanes,441264,23,Argentina,Centre-Back,CB,100000.0,US Avellino 1912,Italy,0.0,1
+2020,Serie A,ACF Fiorentina,winter,out,Riccardo Saponara,88909,29,Italy,Attacking Midfield,AM,2000000.0,Spezia Calcio,Italy,0.0,1
+2020,Serie A,ACF Fiorentina,winter,out,Youssef Maleh,324377,22,Morocco,Central Midfield,CM,700000.0,Venezia FC,Italy,0.0,1
+2020,Serie A,ACF Fiorentina,winter,out,Christian Dalle Mura,487829,18,Italy,Centre-Back,CB,500000.0,Reggina 1914,Italy,0.0,1
+2020,Serie A,ACF Fiorentina,winter,out,Christian Koffi,460658,20,France,Left Winger,LW,150000.0,Como 1907,Italy,0.0,1
+2020,Serie A,ACF Fiorentina,winter,out,Patrick Cutrone,265078,23,Italy,Centre-Forward,CF,12000000.0,Wolverhampton Wanderers,England,0.0,1
+2020,Serie A,AS Roma,summer,in,Gianluca Mancini,256448,24,Italy,Centre-Back,CB,22000000.0,Atalanta BC,Italy,24000000.0,0
+2020,Serie A,AS Roma,summer,in,Jordan Veretout,164771,27,France,Central Midfield,CM,24000000.0,ACF Fiorentina,Italy,17500000.0,0
+2020,Serie A,AS Roma,summer,in,Chris Smalling,103427,30,England,Centre-Back,CB,20000000.0,Manchester United,England,15000000.0,0
+2020,Serie A,AS Roma,summer,in,Carles Pérez,282810,22,Spain,Right Winger,RW,9000000.0,FC Barcelona,Spain,13000000.0,0
+2020,Serie A,AS Roma,summer,in,Marash Kumbulla,371371,20,Albania,Centre-Back,CB,25000000.0,Hellas Verona,Italy,3000000.0,1
+2020,Serie A,AS Roma,summer,in,Borja Mayoral,298976,23,Spain,Centre-Forward,CF,10000000.0,Real Madrid,Spain,2500000.0,1
+2020,Serie A,AS Roma,summer,in,Pedro,65278,33,Spain,Right Winger,RW,9500000.0,Chelsea FC,England,0.0,0
+2020,Serie A,AS Roma,summer,in,Henrikh Mkhitaryan,55735,31,Armenia,Central Midfield,CM,20000000.0,Arsenal FC,England,0.0,0
+2020,Serie A,AS Roma,summer,in,Simone Farelli,6807,37,Italy,Goalkeeper,GK,50000.0,Without Club,,,0
+2020,Serie A,AS Roma,winter,in,Bryan Reynolds,475208,19,United States,Right-Back,RB,6000000.0,FC Dallas,United States,100000.0,1
+2020,Serie A,AS Roma,winter,in,Stephan El Shaarawy,94529,28,Italy,Left Winger,LW,8000000.0,Shanghai Shenhua,China,0.0,0
+2020,Serie A,AS Roma,summer,out,Patrik Schick,242086,24,Czech Republic,Centre-Forward,CF,25000000.0,Bayer 04 Leverkusen,Germany,26500000.0,0
+2020,Serie A,AS Roma,summer,out,Grégoire Defrel,163222,29,France,Centre-Forward,CF,8000000.0,US Sassuolo,Italy,11000000.0,0
+2020,Serie A,AS Roma,summer,out,Maxime Gonalons,60542,31,France,Defensive Midfield,DM,2800000.0,Granada CF,Spain,4000000.0,0
+2020,Serie A,AS Roma,summer,out,Cengiz Ünder,341647,23,Türkiye,Right Winger,RW,23000000.0,Leicester City,England,3500000.0,1
+2020,Serie A,AS Roma,summer,out,Aleksandar Kolarov,46156,34,Serbia,Left-Back,LB,5000000.0,Inter Milan,Italy,1500000.0,0
+2020,Serie A,AS Roma,summer,out,Justin Kluivert,330659,21,Netherlands,Attacking Midfield,AM,20000000.0,RB Leipzig,Germany,1000000.0,1
+2020,Serie A,AS Roma,summer,out,Mert Çetin,391498,23,Türkiye,Centre-Back,CB,2000000.0,Hellas Verona,Italy,1000000.0,1
+2020,Serie A,AS Roma,summer,out,Alessandro Florenzi,130365,29,Italy,Right-Back,RB,10000000.0,Paris Saint-Germain,France,500000.0,1
+2020,Serie A,AS Roma,summer,out,Moustapha Seck,268179,24,Spain,Left-Back,LB,250000.0,Leixões SC,Portugal,0.0,0
+2020,Serie A,AS Roma,summer,out,Silvio Anocic,333227,22,Croatia,Left-Back,LB,100000.0,HNK Sibenik,Croatia,0.0,0
+2020,Serie A,AS Roma,summer,out,Diego Perotti,54984,32,Argentina,Left Winger,LW,4000000.0,Fenerbahce,Türkiye,0.0,0
+2020,Serie A,AS Roma,summer,out,Lorenzo Valeau,357178,21,Italy,Left-Back,LB,150000.0,Casertana FC,Italy,0.0,1
+2020,Serie A,AS Roma,summer,out,Salvatore Pezzella,421871,20,Italy,Defensive Midfield,DM,250000.0,AC Reggiana 1919,Italy,0.0,1
+2020,Serie A,AS Roma,summer,out,Robin Olsen,75458,30,Sweden,Goalkeeper,GK,5000000.0,Everton FC,England,0.0,1
+2020,Serie A,AS Roma,summer,out,Ludovico D'Orazio,370435,20,Italy,Left Winger,LW,125000.0,Feralpisalò,Italy,0.0,1
+2020,Serie A,AS Roma,summer,out,Stefano Greco,319177,21,Italy,Goalkeeper,GK,175000.0,Aurora Pro Patria,Italy,0.0,1
+2020,Serie A,AS Roma,summer,out,Ante Coric,96630,23,Croatia,Attacking Midfield,AM,1700000.0,VVV-Venlo,Netherlands,0.0,1
+2020,Serie A,AS Roma,summer,out,Alessio Riccardi,421765,19,Italy,Attacking Midfield,AM,1200000.0,Delfino Pescara 1936,Italy,0.0,1
+2020,Serie A,AS Roma,summer,out,Daniel Fuzato,438682,23,Brazil,Goalkeeper,GK,400000.0,Gil Vicente FC,Portugal,0.0,1
+2020,Serie A,AS Roma,summer,out,William Bianda,427197,20,France,Centre-Back,CB,1000000.0,Zulte Waregem,Belgium,0.0,1
+2020,Serie A,AS Roma,summer,out,Mirko Antonucci,315852,21,Italy,Attacking Midfield,AM,500000.0,US Salernitana 1919,Italy,0.0,1
+2020,Serie A,AS Roma,summer,out,Keba Coly,415454,22,Senegal,Left Winger,LW,25000.0,Without Club,,,0
+2020,Serie A,AS Roma,summer,out,Matías Nani,486597,22,Argentina,Centre-Back,CB,450000.0,Without Club,,,0
+2020,Serie A,AS Roma,summer,out,Carles Pérez,282810,22,Spain,Right Winger,RW,9000000.0,FC Barcelona,Spain,0.0,1
+2020,Serie A,AS Roma,summer,out,Henrikh Mkhitaryan,55735,31,Armenia,Central Midfield,CM,20000000.0,Arsenal FC,England,0.0,1
+2020,Serie A,AS Roma,summer,out,Nikola Kalinić,36371,32,Croatia,Centre-Forward,CF,5500000.0,Atlético de Madrid,Spain,0.0,1
+2020,Serie A,AS Roma,summer,out,Chris Smalling,103427,30,England,Centre-Back,CB,16000000.0,Manchester United,England,0.0,1
+2020,Serie A,AS Roma,summer,out,Davide Zappacosta,173859,28,Italy,Right Midfield,RM,12000000.0,Chelsea FC,England,0.0,1
+2020,Serie A,AS Roma,summer,out,Jordan Veretout,164771,27,France,Central Midfield,CM,24000000.0,ACF Fiorentina,Italy,0.0,1
+2020,Serie A,AS Roma,summer,out,Gianluca Mancini,256448,24,Italy,Centre-Back,CB,22000000.0,Atalanta BC,Italy,0.0,1
+2020,Serie A,AS Roma,winter,out,Lorenzo Valeau,357178,21,Italy,Left-Back,LB,100000.0,Alma Juventus Fano 1906,Italy,0.0,1
+2020,Serie A,AS Roma,winter,out,Ante Coric,96630,23,Croatia,Attacking Midfield,AM,1000000.0,NK Olimpija Ljubljana,Slovenia,0.0,1
+2020,Serie A,Atalanta BC,summer,in,Aleksey Miranchuk,255450,24,Russia,Attacking Midfield,AM,18000000.0,Lokomotiv Moscow,Russia,15000000.0,0
+2020,Serie A,Atalanta BC,summer,in,Mario Pasalić,205938,25,Croatia,Central Midfield,CM,25000000.0,Chelsea FC,England,14500000.0,0
+2020,Serie A,Atalanta BC,summer,in,Sam Lammers,386914,23,Netherlands,Centre-Forward,CF,7000000.0,PSV Eindhoven,Netherlands,8000000.0,0
+2020,Serie A,Atalanta BC,summer,in,Simone Muratore,297648,22,Italy,Central Midfield,CM,500000.0,Juventus FC,Italy,7000000.0,0
+2020,Serie A,Atalanta BC,summer,in,Cristian Romero,355915,22,Argentina,Centre-Back,CB,14000000.0,Juventus FC,Italy,2320000.0,1
+2020,Serie A,Atalanta BC,summer,in,Fabio Depaoli,324282,23,Italy,Right-Back,RB,4500000.0,UC Sampdoria,Italy,600000.0,1
+2020,Serie A,Atalanta BC,summer,in,Johan Mojica,262939,28,Colombia,Left-Back,LB,1600000.0,Girona FC,Spain,520000.0,1
+2020,Serie A,Atalanta BC,summer,in,Cristiano Piccini,163086,27,Italy,Centre-Back,CB,6000000.0,Valencia CF,Spain,0.0,1
+2020,Serie A,Atalanta BC,winter,in,Joakim Mæhle,369674,23,Denmark,Left-Back,LB,11000000.0,KRC Genk,Belgium,13700000.0,0
+2020,Serie A,Atalanta BC,winter,in,Viktor Kovalenko,203842,24,Ukraine,Attacking Midfield,AM,6000000.0,Shakhtar Donetsk,Ukraine,600000.0,0
+2020,Serie A,Atalanta BC,summer,out,Gianluca Mancini,256448,24,Italy,Centre-Back,CB,22000000.0,AS Roma,Italy,24000000.0,0
+2020,Serie A,Atalanta BC,summer,out,Timothy Castagne,262226,24,Belgium,Right-Back,RB,18000000.0,Leicester City,England,20900000.0,0
+2020,Serie A,Atalanta BC,summer,out,Etrit Berisha,77825,31,Albania,Goalkeeper,GK,2400000.0,SPAL,Italy,3500000.0,0
+2020,Serie A,Atalanta BC,summer,out,Marco D'Alessandro,99232,29,Italy,Right Winger,RW,1800000.0,SPAL,Italy,2000000.0,0
+2020,Serie A,Atalanta BC,summer,out,Lennart Czyborra,309393,21,Germany,Left Midfield,LM,3500000.0,Genoa CFC,Italy,200000.0,1
+2020,Serie A,Atalanta BC,summer,out,Arkadiusz Reca,268178,25,Poland,Left-Back,LB,2400000.0,FC Crotone,Italy,100000.0,1
+2020,Serie A,Atalanta BC,summer,out,Riccardo Gatti,337385,23,Italy,Centre-Back,CB,200000.0,AC Reggiana 1919,Italy,500.0,0
+2020,Serie A,Atalanta BC,summer,out,Alberto Dossena,385394,21,Italy,Centre-Back,CB,275000.0,US Avellino 1912,Italy,0.0,0
+2020,Serie A,Atalanta BC,summer,out,Alessandro Eleuteri,320658,22,Italy,Right Midfield,RM,200000.0,Vis Pesaro 1898,Italy,0.0,0
+2020,Serie A,Atalanta BC,summer,out,Gaetano Monachello,162952,26,Italy,Centre-Forward,CF,300000.0,Modena FC 2018,Italy,0.0,0
+2020,Serie A,Atalanta BC,summer,out,Stefano Marchetti,392586,22,Italy,Centre-Back,CB,75000.0,AS Giana Erminio,Italy,0.0,0
+2020,Serie A,Atalanta BC,summer,out,Lorenzo Migliorelli,352663,22,Italy,Left-Back,LB,175000.0,AS Gubbio 1910,Italy,0.0,0
+2020,Serie A,Atalanta BC,summer,out,Aimone Calì,324230,23,Italy,Centre-Forward,CF,,US Viterbese 1908,Italy,0.0,0
+2020,Serie A,Atalanta BC,summer,out,Andrea Boffelli,337383,23,Italy,Centre-Back,CB,225000.0,Aurora Pro Patria,Italy,0.0,0
+2020,Serie A,Atalanta BC,summer,out,Davide Ghidini,389579,22,Italy,Central Midfield,CM,50000.0,Atletico Castegnato,Italy,0.0,0
+2020,Serie A,Atalanta BC,summer,out,Ebrima Colley,567217,20,The Gambia,Left Winger,LW,800000.0,Hellas Verona,Italy,0.0,1
+2020,Serie A,Atalanta BC,summer,out,Christian Capone,315856,21,Italy,Left Winger,LW,900000.0,Delfino Pescara 1936,Italy,0.0,1
+2020,Serie A,Atalanta BC,summer,out,Filippo Melegoni,315862,21,Italy,Central Midfield,CM,900000.0,Genoa CFC,Italy,0.0,1
+2020,Serie A,Atalanta BC,summer,out,Erdis Kraja,459147,20,Albania,Defensive Midfield,DM,50000.0,US Grosseto 1912,Italy,0.0,1
+2020,Serie A,Atalanta BC,summer,out,Davide Bettella,357995,20,Italy,Centre-Back,CB,2000000.0,AC Monza,Italy,0.0,1
+2020,Serie A,Atalanta BC,summer,out,Alessandro Mallamo,346560,21,Italy,Central Midfield,CM,350000.0,Pordenone Calcio,Italy,0.0,1
+2020,Serie A,Atalanta BC,summer,out,Eyob Zambataro,389581,22,Italy,Right Midfield,RM,200000.0,SS Monopoli 1966,Italy,0.0,1
+2020,Serie A,Atalanta BC,summer,out,Stefano Mazzini,346528,21,Italy,Goalkeeper,GK,150000.0,Carrarese Calcio 1908,Italy,0.0,1
+2020,Serie A,Atalanta BC,summer,out,Lorenzo Peli,459149,20,Italy,Right Midfield,RM,175000.0,Reggina 1914,Italy,0.0,1
+2020,Serie A,Atalanta BC,summer,out,Marco Carraro,297630,22,Italy,Defensive Midfield,DM,1400000.0,Frosinone Calcio,Italy,0.0,1
+2020,Serie A,Atalanta BC,summer,out,Matteo Salvi,458096,21,Italy,Centre-Back,CB,50000.0,US Pistoiese 1921,Italy,0.0,1
+2020,Serie A,Atalanta BC,summer,out,Matteo Pedrini,459152,20,Italy,Central Midfield,CM,50000.0,US Grosseto 1912,Italy,0.0,1
+2020,Serie A,Atalanta BC,summer,out,Alberto Alari,392953,21,Italy,Centre-Back,CB,75000.0,Ravenna FC,Italy,0.0,1
+2020,Serie A,Atalanta BC,summer,out,Christian Mora,301239,22,Italy,Right-Back,RB,250000.0,US Alessandria Calcio 1912,Italy,0.0,1
+2020,Serie A,Atalanta BC,summer,out,Caleb Okoli,461833,19,Italy,Centre-Back,CB,800000.0,SPAL,Italy,0.0,1
+2020,Serie A,Atalanta BC,summer,out,Isnik Alimi,204659,26,North Macedonia,Central Midfield,CM,150000.0,HNK Sibenik,Croatia,0.0,1
+2020,Serie A,Atalanta BC,summer,out,Thomas Bolis,389578,22,Italy,Defensive Midfield,DM,100000.0,Ravenna FC,Italy,0.0,1
+2020,Serie A,Atalanta BC,summer,out,Nicolas Haas,192638,24,Switzerland,Central Midfield,CM,1500000.0,Empoli FC ,Italy,0.0,1
+2020,Serie A,Atalanta BC,summer,out,Salvatore Elia,392963,21,Italy,Right Midfield,RM,350000.0,AC Perugia Calcio,Italy,0.0,1
+2020,Serie A,Atalanta BC,summer,out,Enrico Delprato,392956,20,Italy,Right-Back,RB,1100000.0,Reggina 1914,Italy,0.0,1
+2020,Serie A,Atalanta BC,summer,out,Federico Mattiello,200194,25,Italy,Right-Back,RB,2000000.0,Spezia Calcio,Italy,0.0,1
+2020,Serie A,Atalanta BC,summer,out,Raoul Bellanova,357992,20,Italy,Right Midfield,RM,900000.0,Delfino Pescara 1936,Italy,0.0,1
+2020,Serie A,Atalanta BC,summer,out,Andrea Colpani,392959,21,Italy,Attacking Midfield,AM,800000.0,AC Monza,Italy,0.0,1
+2020,Serie A,Atalanta BC,summer,out,Emmanuel Latte Lath,392964,21,Cote d'Ivoire,Centre-Forward,CF,175000.0,Aurora Pro Patria,Italy,0.0,1
+2020,Serie A,Atalanta BC,summer,out,Enrico Zanoni,392958,21,Italy,Left-Back,LB,75000.0,Ravenna FC,Italy,0.0,1
+2020,Serie A,Atalanta BC,summer,out,Simone Muratore,297648,22,Italy,Central Midfield,CM,500000.0,AC Reggiana 1919,Italy,0.0,1
+2020,Serie A,Atalanta BC,summer,out,Roberto Piccoli,432092,19,Italy,Centre-Forward,CF,1000000.0,Spezia Calcio,Italy,0.0,1
+2020,Serie A,Atalanta BC,summer,out,Alessandro Pavan,459486,20,Italy,Goalkeeper,GK,,Retired,,,0
+2020,Serie A,Atalanta BC,summer,out,Roberto Taliento,392951,21,Italy,Goalkeeper,GK,75000.0,Without Club,,,0
+2020,Serie A,Atalanta BC,summer,out,Tiziano Tulissi,287737,23,Italy,Right Winger,RW,250000.0,Modena FC 2018,Italy,,0
+2020,Serie A,Atalanta BC,summer,out,Modou Badjie,369381,23,The Gambia,Defensive Midfield,DM,,Without Club,,,0
+2020,Serie A,Atalanta BC,summer,out,Alen Mehic,536788,19,Bosnia-Herzegovina,Central Midfield,CM,,SKF Sered,Slovakia,0.0,1
+2020,Serie A,Atalanta BC,summer,out,Mario Pasalić,205938,25,Croatia,Central Midfield,CM,25000000.0,Chelsea FC,England,0.0,1
+2020,Serie A,Atalanta BC,winter,out,Amad Diallo,536835,18,Cote d'Ivoire,Right Winger,RW,15000000.0,Manchester United,England,21300000.0,0
+2020,Serie A,Atalanta BC,winter,out,Papu Gómez,20005,32,Argentina,Left Winger,LW,15000000.0,Sevilla FC,Spain,6400000.0,0
+2020,Serie A,Atalanta BC,winter,out,Rilind Nivokazi,396822,21,Kosovo,Centre-Forward,CF,25000.0,Calcio Foggia 1920,Italy,0.0,0
+2020,Serie A,Atalanta BC,winter,out,Riccardo Burgio,537546,19,Italy,Left-Back,LB,250000.0,AC Renate,Italy,0.0,1
+2020,Serie A,Atalanta BC,winter,out,Marco Carnesecchi,459763,20,Italy,Goalkeeper,GK,2000000.0,US Cremonese,Italy,0.0,1
+2020,Serie A,Atalanta BC,winter,out,Lorenzo Peli,459149,20,Italy,Right Midfield,RM,175000.0,Como 1907,Italy,0.0,1
+2020,Serie A,Atalanta BC,winter,out,Matteo Pedrini,459152,20,Italy,Central Midfield,CM,75000.0,AS Bisceglie 1913,Italy,0.0,1
+2020,Serie A,Atalanta BC,winter,out,Marco Tumminello,315850,22,Italy,Centre-Forward,CF,1200000.0,SPAL,Italy,0.0,1
+2020,Serie A,Atalanta BC,winter,out,Fabio Eguelfi,200192,25,Italy,Left-Back,LB,300000.0,Without Club,,,0
+2020,Serie A,Atalanta BC,winter,out,Cristiano Piccini,163086,28,Italy,Centre-Back,CB,2800000.0,Valencia CF,Spain,0.0,1
+2020,Serie A,Atalanta BC,winter,out,Fabio Depaoli,324282,23,Italy,Right-Back,RB,4000000.0,UC Sampdoria,Italy,0.0,1
+2020,Serie A,Atalanta BC,winter,out,Johan Mojica,262939,28,Colombia,Left-Back,LB,2500000.0,Girona FC,Spain,0.0,1
+2020,Serie A,Benevento Calcio,summer,in,Gianluca Lapadula,130394,30,Peru,Centre-Forward,CF,5000000.0,Genoa CFC,Italy,4000000.0,0
+2020,Serie A,Benevento Calcio,summer,in,Kamil Glik,46552,32,Poland,Centre-Back,CB,3500000.0,AS Monaco,France,3000000.0,0
+2020,Serie A,Benevento Calcio,summer,in,Artur Ioniță,98888,30,Moldova,Central Midfield,CM,2500000.0,Cagliari Calcio,Italy,1500000.0,0
+2020,Serie A,Benevento Calcio,summer,in,Gianluca Caprari,146752,27,Italy,Second Striker,SS,6500000.0,UC Sampdoria,Italy,1300000.0,1
+2020,Serie A,Benevento Calcio,summer,in,Bryan Dabo,149446,28,Burkina Faso,Central Midfield,CM,2000000.0,ACF Fiorentina,Italy,500000.0,0
+2020,Serie A,Benevento Calcio,summer,in,Daam Foulon,338637,21,Belgium,Left-Back,LB,625000.0,KVRS Waasland - SK Beveren,Belgium,500000.0,0
+2020,Serie A,Benevento Calcio,summer,in,Iago Falque,59340,30,Spain,Right Winger,RW,6000000.0,Torino FC,Italy,500000.0,1
+2020,Serie A,Benevento Calcio,summer,in,Federico Barba,165873,27,Italy,Centre-Back,CB,1300000.0,Chievo Verona,Italy,,0
+2020,Serie A,Benevento Calcio,winter,in,Adolfo Gaich,608469,21,Argentina,Centre-Forward,CF,9000000.0,CSKA Moscow,Russia,300000.0,1
+2020,Serie A,Benevento Calcio,winter,in,Fabio Depaoli,324282,23,Italy,Right-Back,RB,4000000.0,UC Sampdoria,Italy,0.0,1
+2020,Serie A,Benevento Calcio,summer,out,Gianluca Di Chiara,189340,26,Italy,Left-Back,LB,900000.0,AC Perugia Calcio,Italy,1000000.0,0
+2020,Serie A,Benevento Calcio,summer,out,Yacine Nembot,618164,20,Cameroon,Central Midfield,CM,25000.0,Asd Puteolana 1902,Italy,0.0,0
+2020,Serie A,Benevento Calcio,summer,out,Salvatore Tazza,330549,22,Italy,Centre-Back,CB,150000.0,Cavese 1919,Italy,0.0,0
+2020,Serie A,Benevento Calcio,summer,out,Samuel Armenteros,55751,30,Sweden,Centre-Forward,CF,1000000.0,Al-Fujairah SC,United Arab Emirates,0.0,0
+2020,Serie A,Benevento Calcio,summer,out,Massimo Coda,33763,31,Italy,Centre-Forward,CF,1400000.0,US Lecce,Italy,0.0,0
+2020,Serie A,Benevento Calcio,summer,out,Bright Gyamfi,339982,24,Ghana,Right-Back,RB,200000.0,AC Reggiana 1919,Italy,0.0,0
+2020,Serie A,Benevento Calcio,summer,out,Alessio Donnarumma,315845,22,Italy,Central Midfield,CM,50000.0,Nocerina Calcio,Italy,0.0,0
+2020,Serie A,Benevento Calcio,summer,out,Dejan Vokic,290698,24,Slovenia,Attacking Midfield,AM,100000.0,Delfino Pescara 1936,Italy,0.0,1
+2020,Serie A,Benevento Calcio,summer,out,Oliver Kragl,56513,30,Germany,Left Midfield,LM,1500000.0,Ascoli Calcio,Italy,0.0,1
+2020,Serie A,Benevento Calcio,summer,out,Cy Goddard,320915,23,Japan,Left Winger,LW,25000.0,Mumbai City FC,India,0.0,1
+2020,Serie A,Benevento Calcio,summer,out,Francesco Rillo,456647,20,Italy,Left-Back,LB,60000.0,Alma Juventus Fano 1906,Italy,0.0,1
+2020,Serie A,Benevento Calcio,summer,out,Luca Antei,146743,28,Italy,Centre-Back,CB,1100000.0,Delfino Pescara 1936,Italy,0.0,1
+2020,Serie A,Benevento Calcio,summer,out,Giovanni Volpicelli,387017,21,Italy,Central Midfield,CM,100000.0,SS Juve Stabia,Italy,0.0,1
+2020,Serie A,Benevento Calcio,summer,out,Jean-Claude Billong,391192,26,Cameroon,Centre-Back,CB,500000.0,Hatayspor,Türkiye,0.0,1
+2020,Serie A,Benevento Calcio,summer,out,Pietro Iemmello,62735,28,Italy,Centre-Forward,CF,3000000.0,UD Las Palmas,Spain,0.0,1
+2020,Serie A,Benevento Calcio,summer,out,Federico Barba,165873,26,Italy,Centre-Back,CB,1300000.0,Chievo Verona,Italy,0.0,1
+2020,Serie A,Benevento Calcio,winter,out,Lorenzo Del Pinto,244061,30,Italy,Central Midfield,CM,250000.0,AC Reggiana 1919,Italy,0.0,0
+2020,Serie A,Benevento Calcio,winter,out,Arturo Onda,539605,19,Italy,Right-Back,RB,25000.0,Gelbison,Italy,0.0,0
+2020,Serie A,Benevento Calcio,winter,out,Christian Maggio,21151,38,Italy,Right-Back,RB,300000.0,US Lecce,Italy,0.0,0
+2020,Serie A,Benevento Calcio,winter,out,Francesco Rillo,456647,20,Italy,Left-Back,LB,50000.0,Casertana FC,Italy,0.0,1
+2020,Serie A,Benevento Calcio,winter,out,Pietro Iemmello,62735,28,Italy,Centre-Forward,CF,1500000.0,Frosinone Calcio,Italy,,0
+2020,Serie A,Benevento Calcio,winter,out,Giovanni Volpicelli,387017,21,Italy,Central Midfield,CM,75000.0,Paganese Calcio 1926,Italy,0.0,1
+2020,Serie A,Benevento Calcio,winter,out,Massimo Volta,54921,33,Italy,Centre-Back,CB,300000.0,Delfino Pescara 1936,Italy,0.0,1
+2020,Serie A,Bologna FC 1909,summer,in,Aaron Hickey,591949,18,Scotland,Right-Back,RB,600000.0,Heart of Midlothian FC,Scotland,1700000.0,0
+2020,Serie A,Bologna FC 1909,summer,in,Edoardo Vergani,421780,19,Italy,Centre-Forward,CF,400000.0,Inter Milan Primavera,Italy,800000.0,1
+2020,Serie A,Bologna FC 1909,summer,in,Sébastian Breza,459842,22,Canada,Goalkeeper,GK,100000.0,Potenza Calcio,Italy,175000.0,0
+2020,Serie A,Bologna FC 1909,summer,in,Luis Binks,471004,18,England,Centre-Back,CB,100000.0,CF Montréal,United States,97000.0,0
+2020,Serie A,Bologna FC 1909,summer,in,Lorenzo De Silvestri,33571,32,Italy,Right-Back,RB,2500000.0,Torino FC,Italy,0.0,0
+2020,Serie A,Bologna FC 1909,winter,in,Valentin Antov,227347,20,Bulgaria,Centre-Back,CB,1000000.0,CSKA Sofia,Bulgaria,200000.0,1
+2020,Serie A,Bologna FC 1909,winter,in,Adama Soumaoro,126673,28,France,Centre-Back,CB,3500000.0,LOSC Lille,France,175000.0,1
+2020,Serie A,Bologna FC 1909,winter,in,Paolo Faragò,167796,27,Italy,Central Midfield,CM,3000000.0,Cagliari Calcio,Italy,0.0,1
+2020,Serie A,Bologna FC 1909,summer,out,Mattia Bani,176139,26,Italy,Centre-Back,CB,3200000.0,Genoa CFC,Italy,5000000.0,0
+2020,Serie A,Bologna FC 1909,summer,out,Alessandro Bianconi,395123,21,Italy,Centre-Back,CB,25000.0,AC Gozzano,Italy,0.0,0
+2020,Serie A,Bologna FC 1909,summer,out,Ladislav Krejci,140206,28,Czech Republic,Left Midfield,LM,2200000.0,AC Sparta Prague,Czech Republic,0.0,0
+2020,Serie A,Bologna FC 1909,summer,out,Nicola Ghini,390315,20,Italy,Defensive Midfield,DM,75000.0,US Pianese,Italy,0.0,0
+2020,Serie A,Bologna FC 1909,summer,out,Tommaso Cassandro,412649,20,Italy,Right-Back,RB,200000.0,AS Cittadella,Italy,0.0,0
+2020,Serie A,Bologna FC 1909,summer,out,Mattia Destro,88683,29,Italy,Centre-Forward,CF,1800000.0,Genoa CFC,Italy,0.0,0
+2020,Serie A,Bologna FC 1909,summer,out,Diego Falcinelli,119115,29,Italy,Centre-Forward,CF,1200000.0,Red Star Belgrade,Serbia,0.0,1
+2020,Serie A,Bologna FC 1909,summer,out,Gianmarco Cangiano,496270,18,Italy,Left Winger,LW,500000.0,Ascoli Calcio,Italy,0.0,1
+2020,Serie A,Bologna FC 1909,summer,out,Fabrizio Brignani,355791,22,Italy,Centre-Back,CB,150000.0,Vis Pesaro 1898,Italy,0.0,1
+2020,Serie A,Bologna FC 1909,summer,out,Mouhamadou Sarr,338101,23,Senegal,Goalkeeper,GK,100000.0,Ascoli Calcio,Italy,0.0,1
+2020,Serie A,Bologna FC 1909,summer,out,César Falletti,218306,27,Uruguay,Attacking Midfield,AM,1400000.0,Ternana Calcio,Italy,0.0,1
+2020,Serie A,Bologna FC 1909,summer,out,Antonio Santurro,130388,28,Dominican Republic,Goalkeeper,GK,100000.0,Calcio Catania,Italy,0.0,1
+2020,Serie A,Bologna FC 1909,summer,out,Gabriele Corbo,423614,20,Italy,Centre-Back,CB,800000.0,Ascoli Calcio,Italy,0.0,1
+2020,Serie A,Bologna FC 1909,summer,out,Luis Binks,471004,18,England,Centre-Back,CB,100000.0,CF Montréal,United States,0.0,1
+2020,Serie A,Bologna FC 1909,summer,out,Godfred Donsah,291266,24,Ghana,Defensive Midfield,DM,2400000.0,Caykur Rizespor,Türkiye,0.0,1
+2020,Serie A,Bologna FC 1909,summer,out,Hamza El Kaouakibi,395089,22,Morocco,Right-Back,RB,75000.0,FC Südtirol,Italy,0.0,1
+2020,Serie A,Bologna FC 1909,summer,out,Musa Juwara,562030,18,The Gambia,Right Winger,RW,2000000.0,Boavista FC,Portugal,0.0,1
+2020,Serie A,Bologna FC 1909,summer,out,Luca Rizzo,167895,28,Italy,Central Midfield,CM,300000.0,Without Club,,,0
+2020,Serie A,Bologna FC 1909,summer,out,Juan Valencia,474621,22,Colombia,Central Midfield,CM,200000.0,Baltika Kaliningrad,Russia,0.0,1
+2020,Serie A,Bologna FC 1909,summer,out,Sébastian Breza,459842,22,Canada,Goalkeeper,GK,100000.0,Potenza Calcio,Italy,0.0,1
+2020,Serie A,Bologna FC 1909,winter,out,Sébastian Breza,459842,23,Canada,Goalkeeper,GK,100000.0,CF Montréal,United States,0.0,1
+2020,Serie A,Bologna FC 1909,winter,out,Stefano Denswil,182923,27,Suriname,Centre-Back,CB,4000000.0,Club Brugge KV,Belgium,0.0,1
+2020,Serie A,Bologna FC 1909,winter,out,Arturo Calabresi,240897,24,Italy,Centre-Back,CB,1800000.0,Cagliari Calcio,Italy,0.0,1
+2020,Serie A,Bologna FC 1909,winter,out,Alex Cossalter,459168,20,Italy,Left Winger,LW,50000.0,Union Feltre,Italy,0.0,1
+2020,Serie A,Bologna FC 1909,winter,out,Nehuén Paz,284724,27,Argentina,Centre-Back,CB,700000.0,Kayserispor,Türkiye,0.0,1
+2020,Serie A,Bologna FC 1909,winter,out,Orji Okwonkwo,401935,23,Nigeria,Right Winger,RW,800000.0,Reggina 1914,Italy,0.0,1
+2020,Serie A,Bologna FC 1909,winter,out,Kingsley Michael,401920,21,Nigeria,Central Midfield,CM,600000.0,Reggina 1914,Italy,0.0,1
+2020,Serie A,Cagliari Calcio,summer,in,Marko Rog,317482,25,Croatia,Central Midfield,CM,13000000.0,SSC Napoli,Italy,15000000.0,0
+2020,Serie A,Cagliari Calcio,summer,in,Giovanni Simeone,282388,25,Argentina,Centre-Forward,CF,15000000.0,ACF Fiorentina,Italy,13000000.0,0
+2020,Serie A,Cagliari Calcio,summer,in,Alessandro Tripaldelli,357176,21,Italy,Left-Back,LB,450000.0,US Sassuolo,Italy,3000000.0,0
+2020,Serie A,Cagliari Calcio,summer,in,Matteo Tramoni,475410,20,France,Attacking Midfield,AM,1500000.0,AC Ajaccio,France,1380000.0,0
+2020,Serie A,Cagliari Calcio,summer,in,Daniele Rugani,162959,26,Italy,Centre-Back,CB,10000000.0,Juventus FC,Italy,800000.0,1
+2020,Serie A,Cagliari Calcio,summer,in,Diego Godín,54928,34,Uruguay,Centre-Back,CB,5000000.0,Inter Milan,Italy,0.0,0
+2020,Serie A,Cagliari Calcio,summer,in,Adam Ounas,400485,23,Algeria,Right Winger,RW,8000000.0,SSC Napoli,Italy,0.0,1
+2020,Serie A,Cagliari Calcio,summer,in,Riccardo Sottil,386455,21,Italy,Left Winger,LW,3600000.0,ACF Fiorentina,Italy,0.0,1
+2020,Serie A,Cagliari Calcio,summer,in,Gabriele Zappa,392569,20,Italy,Right-Back,RB,2500000.0,Delfino Pescara 1936,Italy,0.0,1
+2020,Serie A,Cagliari Calcio,summer,in,Răzvan Marin,295183,24,Romania,Central Midfield,CM,8000000.0,Ajax Amsterdam,Netherlands,0.0,1
+2020,Serie A,Cagliari Calcio,winter,in,Alfred Duncan,184894,27,Ghana,Central Midfield,CM,12000000.0,ACF Fiorentina,Italy,1000000.0,1
+2020,Serie A,Cagliari Calcio,winter,in,Radja Nainggolan,41982,32,Belgium,Central Midfield,CM,6000000.0,Inter Milan,Italy,0.0,1
+2020,Serie A,Cagliari Calcio,winter,in,Arturo Calabresi,240897,24,Italy,Centre-Back,CB,1800000.0,Bologna FC 1909,Italy,0.0,1
+2020,Serie A,Cagliari Calcio,winter,in,Kwadwo Asamoah,63531,32,Ghana,Left Midfield,LM,2000000.0,Without Club,,,0
+2020,Serie A,Cagliari Calcio,summer,out,Nicolò Barella,255942,23,Italy,Central Midfield,CM,50000000.0,Inter Milan,Italy,32500000.0,0
+2020,Serie A,Cagliari Calcio,summer,out,Filippo Romagna,256678,23,Italy,Centre-Back,CB,4500000.0,US Sassuolo,Italy,4000000.0,0
+2020,Serie A,Cagliari Calcio,summer,out,Lucas Castro,105892,31,Argentina,Attacking Midfield,AM,2200000.0,SPAL,Italy,3000000.0,0
+2020,Serie A,Cagliari Calcio,summer,out,Artur Ioniță,98888,30,Moldova,Central Midfield,CM,2500000.0,Benevento Calcio,Italy,1500000.0,0
+2020,Serie A,Cagliari Calcio,summer,out,Luca Pellegrini,346567,21,Italy,Left-Back,LB,13500000.0,Juventus FC,Italy,0.0,1
+2020,Serie A,Cagliari Calcio,summer,out,Diego Farias,83877,30,Brazil,Left Winger,LW,3500000.0,Spezia Calcio,Italy,500000.0,1
+2020,Serie A,Cagliari Calcio,summer,out,Luca Crosta,265077,22,Italy,Goalkeeper,GK,150000.0,US Alessandria Calcio 1912,Italy,0.0,0
+2020,Serie A,Cagliari Calcio,summer,out,Luca Cigarini,33218,34,Italy,Defensive Midfield,DM,800000.0,FC Crotone,Italy,0.0,0
+2020,Serie A,Cagliari Calcio,summer,out,Rafael,84467,38,Brazil,Goalkeeper,GK,200000.0,Spezia Calcio,Italy,0.0,0
+2020,Serie A,Cagliari Calcio,summer,out,Senna Miangue,249552,23,Belgium,Centre-Back,CB,800000.0,KAS Eupen,Belgium,0.0,1
+2020,Serie A,Cagliari Calcio,summer,out,Kiril Despodov,221540,23,Bulgaria,Right Winger,RW,3200000.0,Ludogorets Razgrad,Bulgaria,0.0,1
+2020,Serie A,Cagliari Calcio,summer,out,Alessandro Deiola,235931,25,Italy,Central Midfield,CM,1000000.0,Spezia Calcio,Italy,0.0,1
+2020,Serie A,Cagliari Calcio,summer,out,Luca Gagliano,396682,20,Italy,Centre-Forward,CF,800000.0,Olbia Calcio 1905,Italy,0.0,1
+2020,Serie A,Cagliari Calcio,summer,out,Damir Céter,460898,22,Colombia,Centre-Forward,CF,450000.0,Delfino Pescara 1936,Italy,0.0,1
+2020,Serie A,Cagliari Calcio,summer,out,Filip Bradaric,238486,28,Croatia,Defensive Midfield,DM,3200000.0,Al-Ain SFC,Saudi Arabia,0.0,1
+2020,Serie A,Cagliari Calcio,summer,out,Adam Idrissi,424771,20,Italy,Goalkeeper,GK,25000.0,Without Club,,,0
+2020,Serie A,Cagliari Calcio,summer,out,Daniele Ragatzu,66360,28,Italy,Second Striker,SS,400000.0,Without Club,,,0
+2020,Serie A,Cagliari Calcio,summer,out,Fabrizio Cacciatore,85605,33,Italy,Right-Back,RB,700000.0,Without Club,,,0
+2020,Serie A,Cagliari Calcio,summer,out,Riccardo Ladinetti,459452,19,Italy,Defensive Midfield,DM,350000.0,Olbia Calcio 1905,Italy,0.0,1
+2020,Serie A,Cagliari Calcio,summer,out,Federico Mattiello,200194,25,Italy,Right-Back,RB,2000000.0,Atalanta BC,Italy,0.0,1
+2020,Serie A,Cagliari Calcio,summer,out,Radja Nainggolan,41982,32,Belgium,Central Midfield,CM,15000000.0,Inter Milan,Italy,0.0,1
+2020,Serie A,Cagliari Calcio,summer,out,Robin Olsen,75458,30,Sweden,Goalkeeper,GK,6500000.0,AS Roma,Italy,0.0,1
+2020,Serie A,Cagliari Calcio,summer,out,Giovanni Simeone,282388,25,Argentina,Centre-Forward,CF,15000000.0,ACF Fiorentina,Italy,0.0,1
+2020,Serie A,Cagliari Calcio,summer,out,Alberto Paloschi,68306,30,Italy,Centre-Forward,CF,1200000.0,SPAL,Italy,0.0,1
+2020,Serie A,Cagliari Calcio,summer,out,Marko Rog,317482,25,Croatia,Central Midfield,CM,13000000.0,SSC Napoli,Italy,0.0,1
+2020,Serie A,Cagliari Calcio,winter,out,Fabrizio Caligara,386574,20,Italy,Central Midfield,CM,500000.0,Ascoli Calcio,Italy,200000.0,1
+2020,Serie A,Cagliari Calcio,winter,out,Christian Oliva,563812,24,Uruguay,Defensive Midfield,DM,3200000.0,Valencia CF,Spain,50000.0,1
+2020,Serie A,Cagliari Calcio,winter,out,Fabio Pisacane,101922,34,Italy,Centre-Back,CB,800000.0,US Lecce,Italy,0.0,0
+2020,Serie A,Cagliari Calcio,winter,out,Marko Pajac,190634,27,Croatia,Left-Back,LB,500000.0,Brescia Calcio (- 2025),Italy,0.0,0
+2020,Serie A,Cagliari Calcio,winter,out,Simone Pinna,303187,23,Italy,Right-Back,RB,200000.0,Ascoli Calcio,Italy,0.0,1
+2020,Serie A,Cagliari Calcio,winter,out,Paolo Faragò,167796,27,Italy,Central Midfield,CM,3000000.0,Bologna FC 1909,Italy,0.0,1
+2020,Serie A,Cagliari Calcio,winter,out,Valter Birsa,26105,34,Slovenia,Attacking Midfield,AM,1000000.0,Without Club,,,0
+2020,Serie A,Cagliari Calcio,winter,out,Adam Ounas,400485,24,Algeria,Right Winger,RW,8000000.0,SSC Napoli,Italy,0.0,1
+2020,Serie A,Cagliari Calcio,winter,out,Daniele Rugani,162959,26,Italy,Centre-Back,CB,5000000.0,Juventus FC,Italy,0.0,1
+2020,Serie A,FC Crotone,summer,in,Luis Rojas,662752,18,Chile,Attacking Midfield,AM,,Club Universidad de Chile,Chile,1590000.0,0
+2020,Serie A,FC Crotone,summer,in,Jacopo Petriccione,218067,25,Italy,Defensive Midfield,DM,3000000.0,US Lecce,Italy,1500000.0,0
+2020,Serie A,FC Crotone,summer,in,Luca Marrone,124769,30,Italy,Centre-Back,CB,750000.0,Hellas Verona,Italy,1000000.0,0
+2020,Serie A,FC Crotone,summer,in,Milos Vulic,270901,24,Serbia,Central Midfield,CM,1600000.0,Red Star Belgrade,Serbia,800000.0,0
+2020,Serie A,FC Crotone,summer,in,Sebastiano Luperto,278531,24,Italy,Centre-Back,CB,3500000.0,SSC Napoli,Italy,500000.0,1
+2020,Serie A,FC Crotone,summer,in,Arkadiusz Reca,268178,25,Poland,Left-Back,LB,2400000.0,Atalanta BC,Italy,100000.0,1
+2020,Serie A,FC Crotone,summer,in,Andrea Rispoli,74448,31,Italy,Right-Back,RB,700000.0,US Lecce,Italy,0.0,0
+2020,Serie A,FC Crotone,summer,in,Emmanuel Rivière,61637,30,Martinique,Centre-Forward,CF,850000.0,Cosenza Calcio,Italy,0.0,0
+2020,Serie A,FC Crotone,summer,in,Luca Cigarini,33218,34,Italy,Defensive Midfield,DM,800000.0,Cagliari Calcio,Italy,0.0,0
+2020,Serie A,FC Crotone,summer,in,Luca Siligardi,86079,32,Italy,Right Winger,RW,500000.0,Parma Calcio 1913,Italy,0.0,1
+2020,Serie A,FC Crotone,summer,in,Giovanni Bruzzaniti,420460,20,Italy,Left Winger,LW,50000.0,FC Pro Vercelli 1892,Italy,,0
+2020,Serie A,FC Crotone,summer,in,Koffi Djidji,183031,27,Cote d'Ivoire,Centre-Back,CB,3000000.0,Torino FC,Italy,0.0,1
+2020,Serie A,FC Crotone,summer,in,Denis Drăguș,405399,21,Romania,Centre-Forward,CF,1300000.0,Standard Liège,Belgium,0.0,1
+2020,Serie A,FC Crotone,summer,in,Pedro Pereira,314965,22,Portugal,Right-Back,RB,1800000.0,SL Benfica,Portugal,0.0,1
+2020,Serie A,FC Crotone,summer,in,Eduardo Henrique,216118,25,Brazil,Defensive Midfield,DM,2400000.0,Sporting CP,Portugal,0.0,1
+2020,Serie A,FC Crotone,summer,in,Lisandro Magallán,66736,26,Argentina,Centre-Back,CB,4800000.0,Ajax Amsterdam,Netherlands,0.0,1
+2020,Serie A,FC Crotone,winter,in,Adam Ounas,400485,24,Algeria,Right Winger,RW,8000000.0,SSC Napoli,Italy,0.0,1
+2020,Serie A,FC Crotone,winter,in,Samuel Di Carmine,45389,32,Italy,Centre-Forward,CF,1500000.0,Hellas Verona,Italy,0.0,1
+2020,Serie A,FC Crotone,summer,out,Alessandro Garattoni,390720,22,Italy,Right Midfield,RM,100000.0,SS Juve Stabia,Italy,0.0,0
+2020,Serie A,FC Crotone,summer,out,Luka Markovic,466124,20,Serbia,Centre-Forward,CF,75000.0,Red Star Belgrade,Serbia,0.0,0
+2020,Serie A,FC Crotone,summer,out,Mateo Itrak,496401,20,Croatia,Central Midfield,CM,50000.0,ND Gorica,Slovenia,0.0,0
+2020,Serie A,FC Crotone,summer,out,Maxi López,26263,36,Argentina,Centre-Forward,CF,300000.0,SS Sambenedettese,Italy,0.0,0
+2020,Serie A,FC Crotone,summer,out,Andrea Barberis,146680,26,Italy,Central Midfield,CM,1700000.0,AC Monza,Italy,0.0,0
+2020,Serie A,FC Crotone,summer,out,Giacomo Figliuzzi,392681,19,Italy,Goalkeeper,GK,50000.0,AC Gozzano,Italy,0.0,0
+2020,Serie A,FC Crotone,summer,out,Pasquale Giannotti,373381,21,Italy,Central Midfield,CM,150000.0,Virtus Francavilla Calcio,Italy,0.0,1
+2020,Serie A,FC Crotone,summer,out,Francesco Rodio,433446,19,Italy,Left-Back,LB,75000.0,FC Pro Vercelli 1892,Italy,0.0,1
+2020,Serie A,FC Crotone,summer,out,Giovanni Bruzzaniti,420460,20,Italy,Left Winger,LW,50000.0,FC Pro Vercelli 1892,Italy,0.0,1
+2020,Serie A,FC Crotone,summer,out,Nicola Nanni,401384,20,San Marino,Centre-Forward,CF,50000.0,Cesena FC,Italy,0.0,1
+2020,Serie A,FC Crotone,summer,out,Giuseppe Borello,373379,21,Italy,Right Winger,RW,300000.0,FC Pro Vercelli 1892,Italy,0.0,1
+2020,Serie A,FC Crotone,summer,out,Zak Ruggiero,433447,19,Italy,Central Midfield,CM,100000.0,FC Pro Vercelli 1892,Italy,0.0,1
+2020,Serie A,FC Crotone,summer,out,Guillaume Gigliotti,60541,30,France,Centre-Back,CB,250000.0,Chievo Verona,Italy,,0
+2020,Serie A,FC Crotone,summer,out,Evans Jean-Lambert,543720,21,France,Left-Back,LB,200000.0,US Catanzaro,Italy,0.0,1
+2020,Serie A,FC Crotone,summer,out,Jérémy Petris,532858,22,Martinique,Right-Back,RB,150000.0,FC Pro Vercelli 1892,Italy,0.0,1
+2020,Serie A,FC Crotone,summer,out,Nicolás Spolli,51186,37,Argentina,Centre-Back,CB,,Retired,,,0
+2020,Serie A,FC Crotone,summer,out,Augustus Kargbo,549791,21,Sierra Leone,Second Striker,SS,500000.0,AC Reggiana 1919,Italy,0.0,1
+2020,Serie A,FC Crotone,summer,out,Marcos Curado,334371,25,Argentina,Centre-Back,CB,400000.0,Genoa CFC,Italy,0.0,1
+2020,Serie A,FC Crotone,summer,out,Marko Jankovic,222223,25,Montenegro,Central Midfield,CM,800000.0,SPAL,Italy,0.0,1
+2020,Serie A,FC Crotone,summer,out,Alberto Gerbo,88690,30,Italy,Central Midfield,CM,400000.0,Ascoli Calcio,Italy,0.0,1
+2020,Serie A,FC Crotone,summer,out,Samuel Armenteros,55751,30,Sweden,Centre-Forward,CF,1000000.0,Benevento Calcio,Italy,0.0,1
+2020,Serie A,FC Crotone,summer,out,Luca Marrone,124769,30,Italy,Centre-Back,CB,750000.0,Hellas Verona,Italy,0.0,1
+2020,Serie A,FC Crotone,summer,out,Gabriele Bellodi,406912,19,Italy,Centre-Back,CB,300000.0,AC Milan,Italy,0.0,1
+2020,Serie A,FC Crotone,winter,out,Mattia Mustacchio,56803,31,Italy,Right Midfield,RM,400000.0,US Alessandria Calcio 1912,Italy,0.0,0
+2020,Serie A,FC Crotone,winter,out,Tomislav Gomelt,210983,26,Croatia,Central Midfield,CM,200000.0,ADO Den Haag,Netherlands,0.0,0
+2020,Serie A,FC Crotone,winter,out,Federico Panza,538033,19,Italy,Centre-Back,CB,50000.0,Calcio Biancavilla 1990,Italy,0.0,0
+2020,Serie A,FC Crotone,winter,out,Giuseppe Borello,373379,21,Italy,Right Winger,RW,250000.0,Cesena FC,Italy,0.0,1
+2020,Serie A,FC Crotone,winter,out,Francesco Rodio,433446,19,Italy,Left-Back,LB,50000.0,Alma Juventus Fano 1906,Italy,0.0,1
+2020,Serie A,FC Crotone,winter,out,Zak Ruggiero,433447,20,Italy,Central Midfield,CM,100000.0,Pro Sesto 1913,Italy,0.0,1
+2020,Serie A,FC Crotone,winter,out,Giovanni Crociata,291400,23,Italy,Central Midfield,CM,1000000.0,Empoli FC ,Italy,0.0,1
+2020,Serie A,FC Crotone,winter,out,Evans Jean-Lambert,543720,22,France,Left-Back,LB,200000.0,AS Livorno,Italy,0.0,1
+2020,Serie A,FC Crotone,winter,out,Luca Siligardi,86079,33,Italy,Right Winger,RW,400000.0,Parma Calcio 1913,Italy,0.0,1
+2020,Serie A,Genoa CFC,summer,in,Andrea Pinamonti,315865,21,Italy,Centre-Forward,CF,13500000.0,Inter Milan,Italy,19500000.0,0
+2020,Serie A,Genoa CFC,summer,in,Eldor Shomurodov,358166,25,Uzbekistan,Centre-Forward,CF,6500000.0,FC Rostov,Russia,9500000.0,0
+2020,Serie A,Genoa CFC,summer,in,Francesco Cassata,301236,23,Italy,Central Midfield,CM,2500000.0,US Sassuolo,Italy,7000000.0,0
+2020,Serie A,Genoa CFC,summer,in,Mattia Bani,176139,26,Italy,Centre-Back,CB,3200000.0,Bologna FC 1909,Italy,5000000.0,0
+2020,Serie A,Genoa CFC,summer,in,Milan Badelj,40633,31,Croatia,Defensive Midfield,DM,2000000.0,SS Lazio,Italy,1950000.0,0
+2020,Serie A,Genoa CFC,summer,in,Gabriel Charpentier,660342,21,Congo,Centre-Forward,CF,225000.0,FK Spartaks Jurmala,Latvia,1500000.0,0
+2020,Serie A,Genoa CFC,summer,in,Giuseppe Caso,398030,21,Italy,Attacking Midfield,AM,200000.0,SS Arezzo,Italy,350000.0,0
+2020,Serie A,Genoa CFC,summer,in,Lennart Czyborra,309393,21,Germany,Left Midfield,LM,3500000.0,Atalanta BC,Italy,200000.0,1
+2020,Serie A,Genoa CFC,summer,in,Miha Zajc,149829,26,Slovenia,Central Midfield,CM,2700000.0,Fenerbahce,Türkiye,180000.0,1
+2020,Serie A,Genoa CFC,summer,in,Mattia Destro,88683,29,Italy,Centre-Forward,CF,1800000.0,Bologna FC 1909,Italy,0.0,0
+2020,Serie A,Genoa CFC,summer,in,Riccardo Correnti,536712,19,Italy,Central Midfield,CM,50000.0,FC Messina,Italy,0.0,0
+2020,Serie A,Genoa CFC,summer,in,Davide Castelli,478764,21,Italy,Centre-Forward,CF,,FC Villarreal C,Spain,0.0,0
+2020,Serie A,Genoa CFC,summer,in,Filippo Melegoni,315862,21,Italy,Central Midfield,CM,900000.0,Atalanta BC,Italy,0.0,1
+2020,Serie A,Genoa CFC,summer,in,Davide Zappacosta,173859,28,Italy,Right Midfield,RM,10000000.0,Chelsea FC,England,0.0,1
+2020,Serie A,Genoa CFC,summer,in,Luca Pellegrini,346567,21,Italy,Left-Back,LB,13500000.0,Juventus FC,Italy,0.0,1
+2020,Serie A,Genoa CFC,summer,in,Darian Males,507479,19,Switzerland,Right Midfield,RM,2000000.0,Inter Milan,Italy,0.0,1
+2020,Serie A,Genoa CFC,summer,in,Gianluca Scamacca,315867,21,Italy,Centre-Forward,CF,5000000.0,US Sassuolo,Italy,0.0,1
+2020,Serie A,Genoa CFC,summer,in,Alberto Paleari,163048,28,Italy,Goalkeeper,GK,1000000.0,AS Cittadella,Italy,0.0,1
+2020,Serie A,Genoa CFC,summer,in,Marko Pjaca,205940,25,Croatia,Left Winger,LW,5000000.0,Juventus FC,Italy,0.0,1
+2020,Serie A,Genoa CFC,summer,in,Joel Asoro,375391,21,Sweden,Right Winger,RW,1300000.0,Swansea City,England,0.0,1
+2020,Serie A,Genoa CFC,winter,in,Manolo Portanova,394304,20,Italy,Attacking Midfield,AM,1000000.0,Juventus FC,Italy,12250000.0,0
+2020,Serie A,Genoa CFC,winter,in,Elia Petrelli,477027,19,Italy,Centre-Forward,CF,250000.0,Juventus U23,Italy,8000000.0,0
+2020,Serie A,Genoa CFC,winter,in,Nicolò Rovella,525704,19,Italy,Defensive Midfield,DM,4000000.0,Juventus FC,Italy,0.0,1
+2020,Serie A,Genoa CFC,winter,in,Jérôme Onguéné,272638,23,Cameroon,Centre-Back,CB,4000000.0,Red Bull Salzburg,Austria,0.0,1
+2020,Serie A,Genoa CFC,winter,in,Kevin Strootman,68864,30,Netherlands,Central Midfield,CM,5000000.0,Olympique Marseille,France,0.0,1
+2020,Serie A,Genoa CFC,summer,out,Andrea Pinamonti,315865,21,Italy,Centre-Forward,CF,13500000.0,Inter Milan,Italy,21000000.0,0
+2020,Serie A,Genoa CFC,summer,out,Christian Kouamé,337725,22,Cote d'Ivoire,Centre-Forward,CF,17500000.0,ACF Fiorentina,Italy,15500000.0,0
+2020,Serie A,Genoa CFC,summer,out,Gianluca Lapadula,130394,30,Peru,Centre-Forward,CF,5000000.0,Benevento Calcio,Italy,4000000.0,0
+2020,Serie A,Genoa CFC,summer,out,Koray Günter,115763,26,Germany,Centre-Back,CB,4500000.0,Hellas Verona,Italy,2400000.0,0
+2020,Serie A,Genoa CFC,summer,out,Stephane Omeonga,342472,24,Belgium,Central Midfield,CM,700000.0,Delfino Pescara 1936,Italy,500000.0,0
+2020,Serie A,Genoa CFC,summer,out,Jawad El Yamiq,235412,28,Morocco,Centre-Back,CB,800000.0,Real Valladolid CF,Spain,250000.0,0
+2020,Serie A,Genoa CFC,summer,out,Kevin Agudelo,587458,21,Colombia,Attacking Midfield,AM,3500000.0,Spezia Calcio,Italy,100000.0,1
+2020,Serie A,Genoa CFC,summer,out,Giacomo Calò,301235,23,Italy,Defensive Midfield,DM,1000000.0,Pordenone Calcio,Italy,35000.0,1
+2020,Serie A,Genoa CFC,summer,out,Nermin Karić,393236,21,Sweden,Central Midfield,CM,75000.0,FC Südtirol,Italy,0.0,0
+2020,Serie A,Genoa CFC,summer,out,Matteo Piccardo,400576,20,Italy,Right-Back,RB,150000.0,US Pergolettese 1932,Italy,0.0,0
+2020,Serie A,Genoa CFC,summer,out,Sebastian Eriksson,60534,31,Sweden,Defensive Midfield,DM,650000.0,IFK Göteborg,Sweden,0.0,0
+2020,Serie A,Genoa CFC,summer,out,Sinan Gümüş,196524,26,Türkiye,Right Winger,RW,1500000.0,Fenerbahce,Türkiye,0.0,0
+2020,Serie A,Genoa CFC,summer,out,Salvador Ichazo,131098,28,Uruguay,Goalkeeper,GK,300000.0,Danubio FC,Uruguay,0.0,0
+2020,Serie A,Genoa CFC,summer,out,Oscar Hiljemark,158810,28,Sweden,Central Midfield,CM,1500000.0,Aalborg BK,Denmark,0.0,0
+2020,Serie A,Genoa CFC,summer,out,Nicholas Rizzo,421869,20,Italy,Centre-Back,CB,100000.0,Feralpisalò,Italy,0.0,1
+2020,Serie A,Genoa CFC,summer,out,Patrizio Masini,459665,19,Italy,Central Midfield,CM,75000.0,SS Sambenedettese,Italy,0.0,1
+2020,Serie A,Genoa CFC,summer,out,Riccardo Correnti,536712,19,Italy,Central Midfield,CM,50000.0,US Savoia 1908,Italy,0.0,1
+2020,Serie A,Genoa CFC,summer,out,Nicola Dalmonte,301237,22,Italy,Right Winger,RW,800000.0,LR Vicenza,Italy,0.0,1
+2020,Serie A,Genoa CFC,summer,out,Antonio Candela,392881,20,Italy,Right-Back,RB,350000.0,US Pergolettese 1932,Italy,0.0,1
+2020,Serie A,Genoa CFC,summer,out,Rok Vodisek,320871,21,Slovenia,Goalkeeper,GK,100000.0,NK Triglav Kranj,Slovenia,0.0,1
+2020,Serie A,Genoa CFC,summer,out,Marcos Curado,334371,25,Argentina,Centre-Back,CB,400000.0,Frosinone Calcio,Italy,0.0,1
+2020,Serie A,Genoa CFC,summer,out,András Schäfer,454863,21,Hungary,Central Midfield,CM,400000.0,DAC Dunajska Streda,Slovakia,,0
+2020,Serie A,Genoa CFC,summer,out,Peter Ankersen,146889,30,Denmark,Right-Back,RB,1000000.0,FC Copenhagen,Denmark,,0
+2020,Serie A,Genoa CFC,summer,out,Filip Jagiello,242813,23,Poland,Attacking Midfield,AM,1400000.0,Brescia Calcio (- 2025),Italy,0.0,1
+2020,Serie A,Genoa CFC,summer,out,Raúl Asencio,340260,22,Spain,Centre-Forward,CF,850000.0,Delfino Pescara 1936,Italy,0.0,1
+2020,Serie A,Genoa CFC,summer,out,Claudio Spinelli,504882,23,Argentina,Centre-Forward,CF,500000.0,FC Koper,Slovenia,0.0,1
+2020,Serie A,Genoa CFC,summer,out,Andrea Cambiaso,459658,20,Italy,Left Midfield,LM,150000.0,Empoli FC ,Italy,0.0,1
+2020,Serie A,Genoa CFC,summer,out,Andrea Favilli,340151,23,Italy,Centre-Forward,CF,4000000.0,Hellas Verona,Italy,0.0,1
+2020,Serie A,Genoa CFC,summer,out,Flavio Bianchi,364132,20,Italy,Centre-Forward,CF,200000.0,Lucchese Calcio,Italy,0.0,1
+2020,Serie A,Genoa CFC,summer,out,Luigi Carillo,240338,24,Italy,Centre-Back,CB,100000.0,Casertana FC,Italy,0.0,1
+2020,Serie A,Genoa CFC,summer,out,Gabriel Charpentier,660342,21,Congo,Centre-Forward,CF,225000.0,Reggina 1914,Italy,0.0,1
+2020,Serie A,Genoa CFC,summer,out,Paweł Jaroszyński,287600,25,Poland,Left-Back,LB,450000.0,Delfino Pescara 1936,Italy,0.0,1
+2020,Serie A,Genoa CFC,summer,out,Rômulo,121756,33,Italy,Central Midfield,CM,1000000.0,Without Club,,,0
+2020,Serie A,Genoa CFC,summer,out,Davide Castelli,478764,21,Italy,Centre-Forward,CF,,Aurora Pro Patria,Italy,0.0,1
+2020,Serie A,Genoa CFC,summer,out,Antonio Sanabria,234523,24,Paraguay,Centre-Forward,CF,6500000.0,Real Betis Balompié,Spain,0.0,1
+2020,Serie A,Genoa CFC,summer,out,Andrea Pinamonti,315865,21,Italy,Centre-Forward,CF,13500000.0,Inter Milan,Italy,0.0,1
+2020,Serie A,Genoa CFC,summer,out,Antonio Barreca,241889,25,Italy,Left-Back,LB,3000000.0,AS Monaco,France,0.0,1
+2020,Serie A,Genoa CFC,summer,out,Cristian Romero,355915,22,Argentina,Centre-Back,CB,14000000.0,Juventus FC,Italy,0.0,1
+2020,Serie A,Genoa CFC,summer,out,Francesco Cassata,301236,23,Italy,Central Midfield,CM,2500000.0,US Sassuolo,Italy,0.0,1
+2020,Serie A,Genoa CFC,summer,out,Riccardo Saponara,88909,28,Italy,Attacking Midfield,AM,2500000.0,ACF Fiorentina,Italy,0.0,1
+2020,Serie A,Genoa CFC,summer,out,Marko Pajac,190634,27,Croatia,Left-Back,LB,1100000.0,Cagliari Calcio,Italy,0.0,1
+2020,Serie A,Genoa CFC,summer,out,Mattia Destro,88683,29,Italy,Centre-Forward,CF,1800000.0,Bologna FC 1909,Italy,0.0,1
+2020,Serie A,Genoa CFC,summer,out,Iago Falque,59340,30,Spain,Right Winger,RW,6000000.0,Torino FC,Italy,0.0,1
+2020,Serie A,Genoa CFC,summer,out,Adama Soumaoro,126673,28,France,Centre-Back,CB,6000000.0,LOSC Lille,France,0.0,1
+2020,Serie A,Genoa CFC,winter,out,Nicolò Rovella,525704,19,Italy,Defensive Midfield,DM,4000000.0,Juventus FC,Italy,26000000.0,0
+2020,Serie A,Genoa CFC,winter,out,Mattia Bani,176139,27,Italy,Centre-Back,CB,3200000.0,Parma Calcio 1913,Italy,1500000.0,1
+2020,Serie A,Genoa CFC,winter,out,Lukas Lerager,167105,27,Denmark,Central Midfield,CM,3500000.0,FC Copenhagen,Denmark,500000.0,1
+2020,Serie A,Genoa CFC,winter,out,Petar Brlek,160471,26,Croatia,Defensive Midfield,DM,900000.0,NK Osijek,Croatia,0.0,0
+2020,Serie A,Genoa CFC,winter,out,Ivan Lakicevic,196978,27,Serbia,Right-Back,RB,400000.0,Reggina 1914,Italy,0.0,0
+2020,Serie A,Genoa CFC,winter,out,Vittorio Parigini,238981,24,Italy,Left Winger,LW,1000000.0,Ascoli Calcio,Italy,0.0,1
+2020,Serie A,Genoa CFC,winter,out,Claudiu Micovschi,319231,21,Romania,Left Winger,LW,250000.0,Reggina 1914,Italy,0.0,1
+2020,Serie A,Genoa CFC,winter,out,Elia Petrelli,477027,19,Italy,Centre-Forward,CF,250000.0,Reggina 1914,Italy,0.0,1
+2020,Serie A,Genoa CFC,winter,out,Patrizio Masini,459665,20,Italy,Central Midfield,CM,100000.0,Calcio Lecco 1912,Italy,0.0,1
+2020,Serie A,Genoa CFC,winter,out,Fallou Njie,553913,22,The Gambia,Centre-Back,CB,25000.0,KF Skënderbeu,Albania,0.0,1
+2020,Serie A,Genoa CFC,winter,out,Darian Males,507479,19,Switzerland,Right Midfield,RM,2000000.0,FC Basel 1893,Switzerland,0.0,1
+2020,Serie A,Genoa CFC,winter,out,Gabriel Charpentier,660342,21,Congo,Centre-Forward,CF,800000.0,Ascoli Calcio,Italy,0.0,1
+2020,Serie A,Genoa CFC,winter,out,Raúl Asencio,340260,22,Spain,Centre-Forward,CF,850000.0,SPAL,Italy,0.0,1
+2020,Serie A,Genoa CFC,winter,out,Lasse Schöne,34784,34,Denmark,Defensive Midfield,DM,800000.0,Without Club,,,0
+2020,Serie A,Genoa CFC,winter,out,Stefano Sturaro,167859,27,Italy,Central Midfield,CM,5000000.0,Hellas Verona,Italy,0.0,1
+2020,Serie A,Genoa CFC,winter,out,Joel Asoro,375391,21,Sweden,Right Winger,RW,600000.0,Swansea City,England,0.0,1
+2020,Serie A,Genoa CFC,winter,out,Darian Males,507479,20,Switzerland,Right Midfield,RM,2500000.0,Inter Milan,Italy,0.0,1
+2020,Serie A,Genoa CFC,winter,out,Johan Vásquez,532937,23,Mexico,Centre-Back,CB,4000000.0,UNAM Pumas,Mexico,0.0,1
+2020,Serie A,Hellas Verona,summer,in,Adrien Tamèze,157507,26,France,Defensive Midfield,DM,4500000.0,OGC Nice,France,3900000.0,0
+2020,Serie A,Hellas Verona,summer,in,Koray Günter,115763,26,Germany,Centre-Back,CB,4500000.0,Genoa CFC,Italy,2400000.0,0
+2020,Serie A,Hellas Verona,summer,in,Kevin Rüegg,290032,22,Switzerland,Right-Back,RB,5400000.0,FC Zürich,Switzerland,2000000.0,0
+2020,Serie A,Hellas Verona,summer,in,Bruno Amione,644676,18,Argentina,Centre-Back,CB,2300000.0,Club Atlético Belgrano,Argentina,1950000.0,0
+2020,Serie A,Hellas Verona,summer,in,Ivor Pandur,371013,20,Croatia,Goalkeeper,GK,800000.0,HNK Rijeka,Croatia,1900000.0,0
+2020,Serie A,Hellas Verona,summer,in,Nikola Kalinić,36371,32,Croatia,Centre-Forward,CF,5500000.0,Atlético de Madrid,Spain,1800000.0,0
+2020,Serie A,Hellas Verona,summer,in,Mert Çetin,391498,23,Türkiye,Centre-Back,CB,2000000.0,AS Roma,Italy,1000000.0,1
+2020,Serie A,Hellas Verona,summer,in,Emmanuel Badu,108484,29,Ghana,Central Midfield,CM,850000.0,Udinese Calcio,Italy,800000.0,0
+2020,Serie A,Hellas Verona,summer,in,Marco Benassi,201040,26,Italy,Central Midfield,CM,10000000.0,ACF Fiorentina,Italy,800000.0,1
+2020,Serie A,Hellas Verona,summer,in,Ronaldo Vieira,434676,22,Guinea-Bissau,Central Midfield,CM,6500000.0,UC Sampdoria,Italy,750000.0,1
+2020,Serie A,Hellas Verona,summer,in,Michele Vano,400941,29,Italy,Centre-Forward,CF,300000.0,Carpi FC 1909,Italy,500000.0,0
+2020,Serie A,Hellas Verona,summer,in,Antonín Barák,272261,25,Czech Republic,Attacking Midfield,AM,8000000.0,Udinese Calcio,Italy,500000.0,1
+2020,Serie A,Hellas Verona,summer,in,Giangiacomo Magnani,310458,24,Italy,Centre-Back,CB,3200000.0,US Sassuolo,Italy,500000.0,1
+2020,Serie A,Hellas Verona,summer,in,Bachir Mané,458798,22,Senegal,Centre-Back,CB,75000.0,Carpi FC 1909,Italy,0.0,0
+2020,Serie A,Hellas Verona,summer,in,Ebrima Colley,567217,20,The Gambia,Left Winger,LW,800000.0,Atalanta BC,Italy,0.0,1
+2020,Serie A,Hellas Verona,summer,in,Ivan Ilić,470794,19,Serbia,Central Midfield,CM,700000.0,Manchester City U23,England,0.0,1
+2020,Serie A,Hellas Verona,summer,in,Andrea Favilli,340151,23,Italy,Centre-Forward,CF,4000000.0,Genoa CFC,Italy,0.0,1
+2020,Serie A,Hellas Verona,summer,in,Eddie Salcedo,459661,18,Italy,Centre-Forward,CF,10000000.0,Inter Milan,Italy,0.0,1
+2020,Serie A,Hellas Verona,summer,in,Federico Ceccherini,163639,28,Italy,Centre-Back,CB,2500000.0,ACF Fiorentina,Italy,0.0,1
+2020,Serie A,Hellas Verona,winter,in,Kevin Lasagna,131951,28,Italy,Centre-Forward,CF,7500000.0,Udinese Calcio,Italy,150000.0,1
+2020,Serie A,Hellas Verona,winter,in,Stefano Sturaro,167859,27,Italy,Central Midfield,CM,5000000.0,Genoa CFC,Italy,0.0,1
+2020,Serie A,Hellas Verona,summer,out,Marash Kumbulla,371371,20,Albania,Centre-Back,CB,25000000.0,AS Roma,Italy,3000000.0,1
+2020,Serie A,Hellas Verona,summer,out,Luca Marrone,124769,30,Italy,Centre-Back,CB,750000.0,FC Crotone,Italy,1000000.0,0
+2020,Serie A,Hellas Verona,summer,out,Liam Henderson,193867,24,Scotland,Central Midfield,CM,1500000.0,US Lecce,Italy,600000.0,0
+2020,Serie A,Hellas Verona,summer,out,Simone Calvano,136091,27,Italy,Central Midfield,CM,250000.0,US Triestina,Italy,500000.0,0
+2020,Serie A,Hellas Verona,summer,out,Matteo Pessina,332179,23,Italy,Central Midfield,CM,12000000.0,Atalanta BC,Italy,0.0,1
+2020,Serie A,Hellas Verona,summer,out,Pierluigi Cappelluzzo,287631,24,Italy,Centre-Forward,CF,50000.0,US Viterbese 1908,Italy,0.0,0
+2020,Serie A,Hellas Verona,summer,out,Deian Boldor,239570,25,Romania,Centre-Back,CB,250000.0,Potenza Calcio,Italy,0.0,0
+2020,Serie A,Hellas Verona,summer,out,Joseph Ekuban,459649,20,Ghana,Centre-Forward,CF,50000.0,Virtus Francavilla Calcio,Italy,0.0,0
+2020,Serie A,Hellas Verona,summer,out,Simon Stefanec,344802,22,Slovakia,Attacking Midfield,AM,100000.0,MSK Puchov,Slovakia,0.0,0
+2020,Serie A,Hellas Verona,summer,out,Jure Balkovec,181410,26,Slovenia,Left-Back,LB,950000.0,Fatih Karagümrük,Türkiye,0.0,0
+2020,Serie A,Hellas Verona,summer,out,Andrea Badan,373359,22,Italy,Left Midfield,LM,50000.0,Oldham Athletic,England,0.0,0
+2020,Serie A,Hellas Verona,summer,out,Bachir Mané,458798,22,Senegal,Centre-Back,CB,75000.0,KF Laçi U21,Albania,0.0,1
+2020,Serie A,Hellas Verona,summer,out,Adama Sane,459644,20,Senegal,Centre-Forward,CF,100000.0,SS Arezzo,Italy,0.0,1
+2020,Serie A,Hellas Verona,summer,out,Lubomir Tupta,344806,22,Slovakia,Centre-Forward,CF,350000.0,Ascoli Calcio,Italy,0.0,1
+2020,Serie A,Hellas Verona,summer,out,Lucas Felippe,538063,20,Brazil,Central Midfield,CM,150000.0,Mantova 1911,Italy,0.0,1
+2020,Serie A,Hellas Verona,summer,out,Rayyan Baniya,394872,21,Türkiye,Centre-Back,CB,125000.0,Mantova 1911,Italy,0.0,1
+2020,Serie A,Hellas Verona,summer,out,Michele Vano,400941,29,Italy,Centre-Forward,CF,300000.0,Mantova 1911,Italy,0.0,1
+2020,Serie A,Hellas Verona,summer,out,Yves Bationo,199613,26,Burkina Faso,Central Midfield,CM,25000.0,Without Club,,,0
+2020,Serie A,Hellas Verona,summer,out,Karamoko Cissé,65635,31,Guinea,Centre-Forward,CF,300000.0,AS Cittadella,Italy,,0
+2020,Serie A,Hellas Verona,summer,out,Salvatore Bocchetti,42678,33,Italy,Centre-Back,CB,600000.0,Delfino Pescara 1936,Italy,0.0,1
+2020,Serie A,Hellas Verona,summer,out,Antonino Ragusa,102470,30,Italy,Left Winger,LW,700000.0,Brescia Calcio (- 2025),Italy,0.0,1
+2020,Serie A,Hellas Verona,summer,out,Mariusz Stepinski,210363,25,Poland,Centre-Forward,CF,3000000.0,US Lecce,Italy,0.0,1
+2020,Serie A,Hellas Verona,summer,out,Nicolò Casale,389837,22,Italy,Centre-Back,CB,400000.0,Empoli FC ,Italy,0.0,1
+2020,Serie A,Hellas Verona,summer,out,Valerio Verre,162961,26,Italy,Central Midfield,CM,3200000.0,UC Sampdoria,Italy,0.0,1
+2020,Serie A,Hellas Verona,summer,out,Vincenzo Silvestro,339866,22,Italy,Left Midfield,LM,150000.0,Mantova 1911,Italy,,0
+2020,Serie A,Hellas Verona,summer,out,Edoardo Pavan,389840,22,Italy,Right-Back,RB,125000.0,Without Club,,,0
+2020,Serie A,Hellas Verona,summer,out,Alberto Almici,163542,27,Italy,Right-Back,RB,400000.0,Without Club,,,0
+2020,Serie A,Hellas Verona,summer,out,Giampaolo Pazzini,19447,36,Italy,Centre-Forward,CF,350000.0,Without Club,,,0
+2020,Serie A,Hellas Verona,summer,out,Aleksejs Saveljevs,372122,21,Latvia,Central Midfield,CM,50000.0,Mantova 1911,Italy,,0
+2020,Serie A,Hellas Verona,summer,out,Matteo Pinton,389842,22,Italy,Right-Back,RB,75000.0,Mantova 1911,Italy,,0
+2020,Serie A,Hellas Verona,summer,out,Riccardo Tosi,459966,20,Italy,Goalkeeper,GK,150000.0,Mantova 1911,Italy,,0
+2020,Serie A,Hellas Verona,summer,out,Alessandro Crescenzi,96758,28,Italy,Left-Back,LB,300000.0,US Cremonese,Italy,,0
+2020,Serie A,Hellas Verona,summer,out,Fabio Borini,96754,29,Italy,Centre-Forward,CF,4000000.0,Without Club,,,0
+2020,Serie A,Hellas Verona,summer,out,Luca Checchin,209048,23,Italy,Defensive Midfield,DM,,Retired,,,0
+2020,Serie A,Hellas Verona,summer,out,Valentin Eysseric,126687,28,France,Attacking Midfield,AM,1200000.0,ACF Fiorentina,Italy,0.0,1
+2020,Serie A,Hellas Verona,summer,out,Amir Rrahmani,257732,26,Kosovo,Centre-Back,CB,14000000.0,SSC Napoli,Italy,0.0,1
+2020,Serie A,Hellas Verona,summer,out,Eddie Salcedo,459661,18,Italy,Centre-Forward,CF,10000000.0,Genoa CFC,Italy,0.0,1
+2020,Serie A,Hellas Verona,summer,out,Claud Adjapong,337716,22,Italy,Right-Back,RB,2700000.0,US Sassuolo,Italy,0.0,1
+2020,Serie A,Hellas Verona,summer,out,Koray Günter,115763,26,Germany,Centre-Back,CB,4500000.0,Genoa CFC,Italy,0.0,1
+2020,Serie A,Hellas Verona,summer,out,Boris Radunović,258482,24,Serbia,Goalkeeper,GK,450000.0,Atalanta BC,Italy,0.0,1
+2020,Serie A,Hellas Verona,summer,out,Emmanuel Badu,108484,29,Ghana,Central Midfield,CM,850000.0,Udinese Calcio,Italy,0.0,1
+2020,Serie A,Hellas Verona,winter,out,Luigi Vitale,80158,33,Italy,Left-Back,LB,200000.0,Frosinone Calcio,Italy,0.0,0
+2020,Serie A,Hellas Verona,winter,out,Michele Vano,400941,29,Italy,Centre-Forward,CF,300000.0,AC Perugia Calcio,Italy,0.0,1
+2020,Serie A,Hellas Verona,winter,out,Adama Sane,459644,20,Senegal,Centre-Forward,CF,75000.0,Mantova 1911,Italy,0.0,1
+2020,Serie A,Hellas Verona,winter,out,Antonio Di Gaudio,165722,31,Italy,Left Winger,LW,300000.0,Chievo Verona,Italy,,0
+2020,Serie A,Hellas Verona,winter,out,Alan Empereur,169179,26,Brazil,Centre-Back,CB,1000000.0,Sociedade Esportiva Palmeiras,Brazil,0.0,1
+2020,Serie A,Hellas Verona,winter,out,Andrea Danzi,319171,21,Italy,Defensive Midfield,DM,400000.0,Ascoli Calcio,Italy,0.0,1
+2020,Serie A,Hellas Verona,winter,out,Karim Laribi,124911,29,Tunisia,Central Midfield,CM,350000.0,AC Reggiana 1919,Italy,0.0,1
+2020,Serie A,Hellas Verona,winter,out,Emmanuel Badu,108484,30,Ghana,Central Midfield,CM,600000.0,Without Club,,,0
+2020,Serie A,Hellas Verona,winter,out,Samuel Di Carmine,45389,32,Italy,Centre-Forward,CF,1500000.0,FC Crotone,Italy,0.0,1
+2020,Serie A,Hellas Verona,winter,out,Lubomir Tupta,344806,22,Slovakia,Centre-Forward,CF,350000.0,FC Sion,Switzerland,0.0,1
+2020,Serie A,Inter Milan,summer,in,Achraf Hakimi,398073,21,Morocco,Right-Back,RB,54000000.0,Real Madrid,Spain,43000000.0,0
+2020,Serie A,Inter Milan,summer,in,Nicolò Barella,255942,23,Italy,Central Midfield,CM,50000000.0,Cagliari Calcio,Italy,32500000.0,0
+2020,Serie A,Inter Milan,summer,in,Stefano Sensi,216179,25,Italy,Central Midfield,CM,20000000.0,US Sassuolo,Italy,25000000.0,0
+2020,Serie A,Inter Milan,summer,in,Andrea Pinamonti,315865,21,Italy,Centre-Forward,CF,13500000.0,Genoa CFC,Italy,21000000.0,0
+2020,Serie A,Inter Milan,summer,in,Darian Males,507479,19,Switzerland,Right Midfield,RM,2000000.0,FC Luzern,Switzerland,2750000.0,0
+2020,Serie A,Inter Milan,summer,in,Aleksandar Kolarov,46156,34,Serbia,Left-Back,LB,5000000.0,AS Roma,Italy,1500000.0,0
+2020,Serie A,Inter Milan,summer,in,Arturo Vidal,37666,33,Chile,Central Midfield,CM,11000000.0,FC Barcelona,Spain,1000000.0,0
+2020,Serie A,Inter Milan,summer,in,Georgios Vagiannidis,546186,18,Greece,Right-Back,RB,400000.0,Panathinaikos FC,Greece,0.0,0
+2020,Serie A,Inter Milan,summer,in,Alexis Sánchez,40433,31,Chile,Centre-Forward,CF,16000000.0,Manchester United,England,0.0,0
+2020,Serie A,Inter Milan,summer,in,Matteo Darmian,54906,30,Italy,Right-Back,RB,6500000.0,Parma Calcio 1913,Italy,0.0,1
+2020,Serie A,Inter Milan,summer,out,Mauro Icardi,68863,27,Argentina,Centre-Forward,CF,60000000.0,Paris Saint-Germain,France,50000000.0,0
+2020,Serie A,Inter Milan,summer,out,Andrea Pinamonti,315865,21,Italy,Centre-Forward,CF,13500000.0,Genoa CFC,Italy,19500000.0,0
+2020,Serie A,Inter Milan,summer,out,Yann Karamoh,324804,22,France,Left Winger,LW,7500000.0,Parma Calcio 1913,Italy,8000000.0,0
+2020,Serie A,Inter Milan,summer,out,Dalbert,312862,27,Brazil,Left-Back,LB,9000000.0,Stade Rennais FC,France,2500000.0,1
+2020,Serie A,Inter Milan,summer,out,Valentino Lazaro,186368,24,Austria,Right-Back,RB,15000000.0,Borussia Mönchengladbach,Germany,1200000.0,1
+2020,Serie A,Inter Milan,summer,out,Andrea Palazzi,238980,24,Italy,Defensive Midfield,DM,300000.0,AC Monza,Italy,400000.0,0
+2020,Serie A,Inter Milan,summer,out,Felice D'Amico,392500,20,Italy,Second Striker,SS,250000.0,UC Sampdoria,Italy,400000.0,0
+2020,Serie A,Inter Milan,summer,out,Samuele Longo,124560,28,Italy,Centre-Forward,CF,600000.0,LR Vicenza,Italy,400000.0,0
+2020,Serie A,Inter Milan,summer,out,Lorenzo Pirola,487834,18,Italy,Centre-Back,CB,1500000.0,AC Monza,Italy,200000.0,1
+2020,Serie A,Inter Milan,summer,out,Michele Di Gregorio,301238,23,Italy,Goalkeeper,GK,3000000.0,AC Monza,Italy,200000.0,1
+2020,Serie A,Inter Milan,summer,out,Matteo Rover,392577,21,Italy,Left Midfield,LM,200000.0,FC Südtirol,Italy,100000.0,0
+2020,Serie A,Inter Milan,summer,out,Niccolò Marcellusi,451307,20,Italy,Right Midfield,RM,,Carpi FC 1909,Italy,50000.0,0
+2020,Serie A,Inter Milan,summer,out,Diego Godín,54928,34,Uruguay,Centre-Back,CB,5000000.0,Cagliari Calcio,Italy,0.0,0
+2020,Serie A,Inter Milan,summer,out,Borja Valero,40372,35,Spain,Central Midfield,CM,1200000.0,ACF Fiorentina,Italy,0.0,0
+2020,Serie A,Inter Milan,summer,out,Davide Zugaro,416371,20,Italy,Left-Back,LB,25000.0,AS Giana Erminio,Italy,0.0,1
+2020,Serie A,Inter Milan,summer,out,Marco Pompetti,459991,20,Italy,Defensive Midfield,DM,650000.0,Cavese 1919,Italy,0.0,1
+2020,Serie A,Inter Milan,summer,out,Niccolò Corrado,444662,20,Italy,Left-Back,LB,200000.0,Palermo FC,Italy,0.0,1
+2020,Serie A,Inter Milan,summer,out,Lorenzo Gavioli,364136,20,Italy,Central Midfield,CM,400000.0,Feralpisalò,Italy,0.0,1
+2020,Serie A,Inter Milan,summer,out,Gabriel Brazão,371247,20,Brazil,Goalkeeper,GK,600000.0,Real Oviedo,Spain,0.0,1
+2020,Serie A,Inter Milan,summer,out,João Mário,149729,27,Portugal,Left Winger,LW,13000000.0,Sporting CP,Portugal,0.0,1
+2020,Serie A,Inter Milan,summer,out,Georgios Vagiannidis,546186,19,Greece,Right-Back,RB,400000.0,Sint-Truidense VV,Belgium,0.0,1
+2020,Serie A,Inter Milan,summer,out,Andreaw Gravillon,395083,22,Guadeloupe,Centre-Back,CB,3500000.0,FC Lorient,France,0.0,1
+2020,Serie A,Inter Milan,summer,out,Eddie Salcedo,459661,18,Italy,Centre-Forward,CF,10000000.0,Hellas Verona,Italy,0.0,1
+2020,Serie A,Inter Milan,summer,out,Antonio Candreva,25488,33,Italy,Right Winger,RW,5000000.0,UC Sampdoria,Italy,0.0,1
+2020,Serie A,Inter Milan,summer,out,Sebastiano Esposito,538918,18,Italy,Second Striker,SS,9000000.0,SPAL,Italy,0.0,1
+2020,Serie A,Inter Milan,summer,out,Darian Males,507479,19,Switzerland,Right Midfield,RM,2000000.0,Genoa CFC,Italy,0.0,1
+2020,Serie A,Inter Milan,summer,out,Lucien Agoumé,569384,18,France,Defensive Midfield,DM,3500000.0,Spezia Calcio,Italy,0.0,1
+2020,Serie A,Inter Milan,summer,out,Xian Emmers,365449,21,Belgium,Attacking Midfield,AM,450000.0,Almere City FC,Netherlands,0.0,1
+2020,Serie A,Inter Milan,summer,out,Lorenzo Tassi,76763,25,Italy,Central Midfield,CM,125000.0,Without Club,,,0
+2020,Serie A,Inter Milan,summer,out,Vincenzo Tommasone,240822,25,Italy,Second Striker,SS,25000.0,Without Club,,,0
+2020,Serie A,Inter Milan,summer,out,Kwadwo Asamoah,63531,31,Ghana,Left Midfield,LM,4000000.0,Without Club,,,0
+2020,Serie A,Inter Milan,summer,out,Andrea Romanò,136130,27,Italy,Central Midfield,CM,,Without Club,,,0
+2020,Serie A,Inter Milan,summer,out,Tommaso Berni,21752,37,Italy,Goalkeeper,GK,,Retired,,,0
+2020,Serie A,Inter Milan,summer,out,Assane Demoya Gnoukouri,336704,23,Cote d'Ivoire,Central Midfield,CM,,Without Club,,,0
+2020,Serie A,Inter Milan,summer,out,Victor Moses,59866,29,Nigeria,Right Winger,RW,6000000.0,Chelsea FC,England,0.0,1
+2020,Serie A,Inter Milan,summer,out,Alexis Sánchez,40433,31,Chile,Centre-Forward,CF,16000000.0,Manchester United,England,0.0,1
+2020,Serie A,Inter Milan,summer,out,Cristiano Biraghi,124555,27,Italy,Left-Back,LB,9500000.0,ACF Fiorentina,Italy,0.0,1
+2020,Serie A,Inter Milan,summer,out,Nicolò Barella,255942,23,Italy,Central Midfield,CM,50000000.0,Cagliari Calcio,Italy,0.0,1
+2020,Serie A,Inter Milan,winter,out,Axel Bakayoko,354898,23,France,Right Winger,RW,1300000.0,Red Star Belgrade,Serbia,0.0,0
+2020,Serie A,Inter Milan,winter,out,Radja Nainggolan,41982,32,Belgium,Central Midfield,CM,6000000.0,Cagliari Calcio,Italy,0.0,1
+2020,Serie A,Inter Milan,winter,out,Sebastiano Esposito,538918,18,Italy,Second Striker,SS,9000000.0,Venezia FC,Italy,0.0,1
+2020,Serie A,Juventus FC,summer,in,Arthur Melo,362842,24,Brazil,Defensive Midfield,DM,56000000.0,FC Barcelona,Spain,80600000.0,0
+2020,Serie A,Juventus FC,summer,in,Álvaro Morata,128223,27,Spain,Centre-Forward,CF,36000000.0,Atlético de Madrid,Spain,20000000.0,1
+2020,Serie A,Juventus FC,summer,in,Rolando Mandragora,308279,23,Italy,Defensive Midfield,DM,12000000.0,Udinese Calcio,Italy,15000000.0,0
+2020,Serie A,Juventus FC,summer,in,Federico Chiesa,341092,22,Italy,Right Winger,RW,48000000.0,ACF Fiorentina,Italy,12600000.0,1
+2020,Serie A,Juventus FC,summer,in,Weston McKennie,332697,22,United States,Central Midfield,CM,20000000.0,FC Schalke 04,Germany,4500000.0,1
+2020,Serie A,Juventus FC,summer,in,Stefano Gori,244491,24,Italy,Goalkeeper,GK,1800000.0,AC Pisa 1909,Italy,3200000.0,0
+2020,Serie A,Juventus FC,winter,in,Nicolò Rovella,525704,19,Italy,Defensive Midfield,DM,4000000.0,Genoa CFC,Italy,26000000.0,0
+2020,Serie A,Juventus FC,summer,out,Miralem Pjanić,44162,30,Bosnia-Herzegovina,Central Midfield,CM,45000000.0,FC Barcelona,Spain,60000000.0,0
+2020,Serie A,Juventus FC,summer,out,Emre Can,119296,26,Germany,Centre-Back,CB,24000000.0,Borussia Dortmund,Germany,25000000.0,0
+2020,Serie A,Juventus FC,summer,out,Simone Muratore,297648,22,Italy,Central Midfield,CM,500000.0,Atalanta BC,Italy,7000000.0,0
+2020,Serie A,Juventus FC,summer,out,Cristian Romero,355915,22,Argentina,Centre-Back,CB,14000000.0,Atalanta BC,Italy,2320000.0,1
+2020,Serie A,Juventus FC,summer,out,Matteo Stoppa,391899,19,Italy,Second Striker,SS,100000.0,UC Sampdoria,Italy,1000000.0,0
+2020,Serie A,Juventus FC,summer,out,Daniele Rugani,162959,26,Italy,Centre-Back,CB,10000000.0,Cagliari Calcio,Italy,800000.0,1
+2020,Serie A,Juventus FC,summer,out,Blaise Matuidi,33923,33,France,Central Midfield,CM,10500000.0,Inter Miami CF,United States,0.0,0
+2020,Serie A,Juventus FC,summer,out,Gonzalo Higuaín,39153,32,Argentina,Centre-Forward,CF,15000000.0,Inter Miami CF,United States,0.0,0
+2020,Serie A,Juventus FC,summer,out,Douglas Costa,75615,30,Brazil,Right Winger,RW,12000000.0,Grêmio Foot-Ball Porto Alegrense,Brazil,0.0,1
+2020,Serie A,Juventus FC,summer,out,Douglas Costa,75615,30,Brazil,Right Winger,RW,20000000.0,Bayern Munich,Germany,0.0,1
+2020,Serie A,Juventus FC,summer,out,Rolando Mandragora,308279,23,Italy,Defensive Midfield,DM,12000000.0,Udinese Calcio,Italy,0.0,1
+2020,Serie A,Juventus FC,summer,out,Mattia De Sciglio,88682,27,Italy,Right-Back,RB,7500000.0,Olympique Lyon,France,0.0,1
+2020,Serie A,Juventus FC,summer,out,Luca Pellegrini,346567,21,Italy,Left-Back,LB,13500000.0,Genoa CFC,Italy,0.0,1
+2020,Serie A,Juventus FC,summer,out,Marko Pjaca,205940,25,Croatia,Left Winger,LW,5000000.0,Genoa CFC,Italy,0.0,1
+2020,Serie A,Juventus FC,winter,out,Manolo Portanova,394304,20,Italy,Attacking Midfield,AM,1000000.0,Genoa CFC,Italy,12250000.0,0
+2020,Serie A,Juventus FC,winter,out,Daniele Rugani,162959,26,Italy,Centre-Back,CB,12000000.0,Stade Rennais FC,France,1060000.0,1
+2020,Serie A,Juventus FC,winter,out,Rolando Mandragora,308279,23,Italy,Defensive Midfield,DM,12000000.0,Torino FC,Italy,1050000.0,1
+2020,Serie A,Juventus FC,winter,out,Stefano Gori,244491,24,Italy,Goalkeeper,GK,1500000.0,AC Pisa 1909,Italy,80000.0,1
+2020,Serie A,Juventus FC,winter,out,Sami Khedira,29401,33,Germany,Central Midfield,CM,2000000.0,Hertha BSC,Germany,0.0,0
+2020,Serie A,Juventus FC,winter,out,Nicolò Rovella,525704,19,Italy,Defensive Midfield,DM,4000000.0,Genoa CFC,Italy,0.0,1
+2020,Serie A,Parma Calcio 1913,summer,in,Roberto Inglese,159337,28,Italy,Centre-Forward,CF,12000000.0,SSC Napoli,Italy,21800000.0,0
+2020,Serie A,Parma Calcio 1913,summer,in,Valentin Mihăilă,535469,20,Romania,Left Winger,LW,2500000.0,CS Universitatea Craiova,Romania,9100000.0,0
+2020,Serie A,Parma Calcio 1913,summer,in,Alberto Grassi,197473,25,Italy,Defensive Midfield,DM,5500000.0,SSC Napoli,Italy,8450000.0,0
+2020,Serie A,Parma Calcio 1913,summer,in,Yann Karamoh,324804,22,France,Left Winger,LW,7500000.0,Inter Milan,Italy,8000000.0,0
+2020,Serie A,Parma Calcio 1913,summer,in,Maxime Busi,570817,20,Belgium,Right-Back,RB,2500000.0,Royal Charleroi SC,Belgium,6900000.0,0
+2020,Serie A,Parma Calcio 1913,summer,in,Hernani,181768,26,Brazil,Central Midfield,CM,5500000.0,Zenit St. Petersburg,Russia,6470000.0,0
+2020,Serie A,Parma Calcio 1913,summer,in,Simon Sohm,507486,19,Switzerland,Central Midfield,CM,1100000.0,FC Zürich,Switzerland,6400000.0,0
+2020,Serie A,Parma Calcio 1913,summer,in,Giuseppe Pezzella,336960,22,Italy,Left-Back,LB,3500000.0,Udinese Calcio,Italy,5750000.0,0
+2020,Serie A,Parma Calcio 1913,summer,in,Jasmin Kurtic,85825,31,Slovenia,Central Midfield,CM,3500000.0,SPAL,Italy,4900000.0,0
+2020,Serie A,Parma Calcio 1913,summer,in,Luigi Sepe,99254,29,Italy,Goalkeeper,GK,6000000.0,SSC Napoli,Italy,4580000.0,0
+2020,Serie A,Parma Calcio 1913,summer,in,Yordan Osorio,358165,26,Venezuela,Centre-Back,CB,2500000.0,FC Porto,Portugal,4099999.9999999995,0
+2020,Serie A,Parma Calcio 1913,summer,in,Wylan Cyprien,182889,25,France,Central Midfield,CM,14500000.0,OGC Nice,France,1500000.0,1
+2020,Serie A,Parma Calcio 1913,summer,in,Juan Brunetta,466268,23,Argentina,Attacking Midfield,AM,2400000.0,CD Godoy Cruz Antonio Tomba,Argentina,1500000.0,1
+2020,Serie A,Parma Calcio 1913,summer,in,Mateo Likaxhiu,601841,19,Albania,Central Midfield,CM,75000.0,Sanremese Calcio,Italy,0.0,0
+2020,Serie A,Parma Calcio 1913,summer,in,Hans Nicolussi Caviglia,430280,20,Italy,Central Midfield,CM,1500000.0,Juventus U23,Italy,0.0,1
+2020,Serie A,Parma Calcio 1913,summer,in,Lautaro Valenti,625202,21,Argentina,Centre-Back,CB,2700000.0,CA Lanús,Argentina,0.0,1
+2020,Serie A,Parma Calcio 1913,winter,in,Dennis Man,397486,22,Romania,Right Winger,RW,6500000.0,FCSB,Romania,12600000.0,0
+2020,Serie A,Parma Calcio 1913,winter,in,Mattia Bani,176139,27,Italy,Centre-Back,CB,3200000.0,Genoa CFC,Italy,1500000.0,1
+2020,Serie A,Parma Calcio 1913,winter,in,Vasilios Zagaritis,613781,19,Greece,Left-Back,LB,150000.0,Panathinaikos FC,Greece,380000.0,0
+2020,Serie A,Parma Calcio 1913,winter,in,Daan Dierckx,621965,17,Belgium,Centre-Back,CB,,KRC Genk U18,Belgium,0.0,0
+2020,Serie A,Parma Calcio 1913,winter,in,Andrea Conti,111227,26,Italy,Right-Back,RB,7000000.0,AC Milan,Italy,0.0,1
+2020,Serie A,Parma Calcio 1913,winter,in,Joshua Zirkzee,435648,19,Netherlands,Centre-Forward,CF,9000000.0,Bayern Munich,Germany,0.0,1
+2020,Serie A,Parma Calcio 1913,winter,in,Graziano Pellè,29594,35,Italy,Centre-Forward,CF,650000.0,Without Club,,,0
+2020,Serie A,Parma Calcio 1913,summer,out,Pepín Machín,355104,23,Equatorial Guinea,Central Midfield,CM,1500000.0,AC Monza,Italy,3700000.0,0
+2020,Serie A,Parma Calcio 1913,summer,out,Luca Zamparo,102413,25,Italy,Centre-Forward,CF,300000.0,AC Reggiana 1919,Italy,300000.0,0
+2020,Serie A,Parma Calcio 1913,summer,out,Antonino Barillà,39828,32,Italy,Central Midfield,CM,1200000.0,AC Monza,Italy,0.0,0
+2020,Serie A,Parma Calcio 1913,summer,out,Emmanuele Matino,395527,21,Italy,Centre-Back,CB,175000.0,Cavese 1919,Italy,0.0,0
+2020,Serie A,Parma Calcio 1913,summer,out,Marco Frediani,198084,26,Italy,Attacking Midfield,AM,200000.0,US Alessandria Calcio 1912,Italy,0.0,0
+2020,Serie A,Parma Calcio 1913,summer,out,Abdou Diakhate,320263,21,Senegal,Central Midfield,CM,300000.0,ND Gorica,Slovenia,0.0,0
+2020,Serie A,Parma Calcio 1913,summer,out,Yves Baraye,193994,28,Senegal,Right Winger,RW,550000.0,Gil Vicente FC,Portugal,0.0,0
+2020,Serie A,Parma Calcio 1913,summer,out,Eric Lanini,199635,26,Italy,Centre-Forward,CF,225000.0,Novara Calcio 1908,Italy,0.0,1
+2020,Serie A,Parma Calcio 1913,summer,out,Gabriele Carannante,463178,21,Italy,Central Midfield,CM,75000.0,FC Legnago Salus,Italy,0.0,1
+2020,Serie A,Parma Calcio 1913,summer,out,Sebastiano Longo,397063,22,Italy,Left Winger,LW,100000.0,Alma Juventus Fano 1906,Italy,0.0,1
+2020,Serie A,Parma Calcio 1913,summer,out,Francesco Golfo,409592,26,Italy,Left Winger,LW,175000.0,SS Juve Stabia,Italy,0.0,1
+2020,Serie A,Parma Calcio 1913,summer,out,Fabian Pavone,411312,20,Italy,Right Winger,RW,400000.0,Carrarese Calcio 1908,Italy,0.0,1
+2020,Serie A,Parma Calcio 1913,summer,out,Walid Cheddira,521407,22,Morocco,Centre-Forward,CF,175000.0,Mantova 1911,Italy,0.0,1
+2020,Serie A,Parma Calcio 1913,summer,out,Manuel Nocciolini,57653,31,Italy,Centre-Forward,CF,300000.0,SS Sambenedettese,Italy,0.0,1
+2020,Serie A,Parma Calcio 1913,summer,out,Fabrizio Alastra,287871,23,Italy,Goalkeeper,GK,150000.0,Delfino Pescara 1936,Italy,0.0,1
+2020,Serie A,Parma Calcio 1913,summer,out,Luca Siligardi,86079,32,Italy,Right Winger,RW,500000.0,FC Crotone,Italy,0.0,1
+2020,Serie A,Parma Calcio 1913,summer,out,Michele Fornasier,141654,27,Italy,Centre-Back,CB,300000.0,US Cremonese,Italy,,0
+2020,Serie A,Parma Calcio 1913,summer,out,Kastriot Dermaku,163647,28,Albania,Centre-Back,CB,1500000.0,US Lecce,Italy,0.0,1
+2020,Serie A,Parma Calcio 1913,summer,out,Lorenzo Simonetti,285796,24,Italy,Central Midfield,CM,150000.0,US Pistoiese 1921,Italy,0.0,1
+2020,Serie A,Parma Calcio 1913,summer,out,Alessandro Martella,459979,19,Italy,Right-Back,RB,75000.0,Alma Juventus Fano 1906,Italy,0.0,1
+2020,Serie A,Parma Calcio 1913,summer,out,Michele Laraspata,542571,19,Italy,Left-Back,LB,25000.0,AS Bisceglie 1913,Italy,0.0,1
+2020,Serie A,Parma Calcio 1913,summer,out,Alessio da Cruz,337670,23,Cape Verde,Left Winger,LW,1900000.0,FC Groningen,Netherlands,0.0,1
+2020,Serie A,Parma Calcio 1913,summer,out,Matteo Lucarelli,534215,19,Italy,Centre-Back,CB,,Calcio Foggia 1920,Italy,0.0,1
+2020,Serie A,Parma Calcio 1913,summer,out,Matteo Darmian,54906,30,Italy,Right-Back,RB,6500000.0,Inter Milan,Italy,0.0,1
+2020,Serie A,Parma Calcio 1913,summer,out,Marcello Gazzola,57643,35,Italy,Right-Back,RB,,Retired,,,0
+2020,Serie A,Parma Calcio 1913,summer,out,Davide Mastaj,450376,22,Italy,Right Winger,RW,25000.0,Without Club,,,0
+2020,Serie A,Parma Calcio 1913,summer,out,Vasco Regini,72274,29,Italy,Left-Back,LB,700000.0,UC Sampdoria,Italy,0.0,1
+2020,Serie A,Parma Calcio 1913,summer,out,Gianluca Caprari,146752,27,Italy,Second Striker,SS,6500000.0,UC Sampdoria,Italy,0.0,1
+2020,Serie A,Parma Calcio 1913,summer,out,Ionuț Radu,303657,23,Romania,Goalkeeper,GK,8000000.0,Inter Milan,Italy,0.0,1
+2020,Serie A,Parma Calcio 1913,summer,out,Jasmin Kurtic,85825,31,Slovenia,Central Midfield,CM,3500000.0,SPAL,Italy,0.0,1
+2020,Serie A,Parma Calcio 1913,summer,out,Dejan Kulusevski,431755,20,Sweden,Attacking Midfield,AM,40000000.0,Juventus FC,Italy,0.0,1
+2020,Serie A,Parma Calcio 1913,summer,out,Giuseppe Pezzella,336960,22,Italy,Left-Back,LB,3500000.0,Udinese Calcio,Italy,0.0,1
+2020,Serie A,Parma Calcio 1913,summer,out,Yann Karamoh,324804,22,France,Left Winger,LW,7500000.0,Inter Milan,Italy,0.0,1
+2020,Serie A,Parma Calcio 1913,summer,out,Roberto Inglese,159337,28,Italy,Centre-Forward,CF,12000000.0,SSC Napoli,Italy,0.0,1
+2020,Serie A,Parma Calcio 1913,summer,out,Hernani,181768,26,Brazil,Central Midfield,CM,5500000.0,Zenit St. Petersburg,Russia,0.0,1
+2020,Serie A,Parma Calcio 1913,summer,out,Alberto Grassi,197473,25,Italy,Defensive Midfield,DM,5500000.0,SSC Napoli,Italy,0.0,1
+2020,Serie A,Parma Calcio 1913,summer,out,Luigi Sepe,99254,29,Italy,Goalkeeper,GK,6000000.0,SSC Napoli,Italy,0.0,1
+2020,Serie A,Parma Calcio 1913,winter,out,Mateo Likaxhiu,601841,20,Albania,Central Midfield,CM,75000.0,SEF Torres 1903,Italy,0.0,0
+2020,Serie A,Parma Calcio 1913,winter,out,Sebastiano Longo,397063,23,Italy,Left Winger,LW,75000.0,Casertana FC,Italy,0.0,0
+2020,Serie A,Parma Calcio 1913,winter,out,Matteo Scozzarella,85208,32,Italy,Defensive Midfield,DM,800000.0,AC Monza,Italy,0.0,0
+2020,Serie A,Parma Calcio 1913,winter,out,Giuseppe Carriero,398576,23,Italy,Central Midfield,CM,200000.0,US Avellino 1912,Italy,0.0,0
+2020,Serie A,Parma Calcio 1913,winter,out,Edoardo Corvi,528181,19,Italy,Goalkeeper,GK,50000.0,FC Legnago Salus,Italy,0.0,1
+2020,Serie A,Parma Calcio 1913,winter,out,Andrea Adorante,364206,20,Italy,Centre-Forward,CF,500000.0,Virtus Francavilla Calcio,Italy,0.0,1
+2020,Serie A,Parma Calcio 1913,winter,out,Gabriele Carannante,463178,21,Italy,Central Midfield,CM,50000.0,SS Turris Calcio,Italy,0.0,1
+2020,Serie A,Parma Calcio 1913,winter,out,Francesco Golfo,409592,26,Italy,Left Winger,LW,175000.0,Calcio Catania,Italy,0.0,1
+2020,Serie A,Parma Calcio 1913,winter,out,Luca Siligardi,86079,33,Italy,Right Winger,RW,400000.0,AC Reggiana 1919,Italy,0.0,1
+2020,Serie A,Parma Calcio 1913,winter,out,Andrea Dini,355444,24,Italy,Goalkeeper,GK,200000.0,Calcio Padova,Italy,0.0,1
+2020,Serie A,Parma Calcio 1913,winter,out,Manuel Nocciolini,57653,31,Italy,Centre-Forward,CF,250000.0,AC Renate,Italy,0.0,1
+2020,Serie A,Parma Calcio 1913,winter,out,Jacopo Dezi,165531,28,Italy,Central Midfield,CM,900000.0,Venezia FC,Italy,,0
+2020,Serie A,Parma Calcio 1913,winter,out,Michele Laraspata,542571,19,Italy,Left-Back,LB,25000.0,Hamrun Spartans,Malta,0.0,1
+2020,Serie A,Parma Calcio 1913,winter,out,Muhamed Tehe Olawale,391064,21,Cote d'Ivoire,Centre-Forward,CF,100000.0,IFK Mariehamn,Finland,0.0,1
+2020,Serie A,Parma Calcio 1913,winter,out,Giacomo Ricci,261056,24,Italy,Left Midfield,LM,250000.0,Venezia FC,Italy,0.0,1
+2020,Serie A,SS Lazio,summer,in,Vedat Muriqi,256267,26,Kosovo,Centre-Forward,CF,12000000.0,Fenerbahce,Türkiye,21000000.0,0
+2020,Serie A,SS Lazio,summer,in,Jean-Daniel Akpa Akpro,170481,27,Cote d'Ivoire,Central Midfield,CM,600000.0,US Salernitana 1919,Italy,12700000.0,0
+2020,Serie A,SS Lazio,summer,in,Mohamed Fares,287700,24,Algeria,Left-Back,LB,7000000.0,SPAL,Italy,8000000.0,0
+2020,Serie A,SS Lazio,summer,in,Wesley Hoedt,253765,26,Netherlands,Centre-Back,CB,6500000.0,Southampton FC,England,1000000.0,1
+2020,Serie A,SS Lazio,summer,in,Gonzalo Escalante,266795,27,Argentina,Central Midfield,CM,3200000.0,SD Eibar,Spain,0.0,0
+2020,Serie A,SS Lazio,summer,in,Pepe Reina,7825,38,Spain,Goalkeeper,GK,800000.0,AC Milan,Italy,0.0,0
+2020,Serie A,SS Lazio,summer,in,Andreas Pereira,203394,24,Brazil,Attacking Midfield,AM,16000000.0,Manchester United,England,0.0,1
+2020,Serie A,SS Lazio,winter,in,Mateo Musacchio,45653,30,Argentina,Centre-Back,CB,4500000.0,AC Milan,Italy,0.0,0
+2020,Serie A,SS Lazio,summer,out,Valon Berisha,145115,27,Kosovo,Left Midfield,LM,4000000.0,Stade Reims,France,4500000.0,0
+2020,Serie A,SS Lazio,summer,out,Milan Badelj,40633,31,Croatia,Defensive Midfield,DM,2000000.0,Genoa CFC,Italy,1950000.0,0
+2020,Serie A,SS Lazio,summer,out,Jony,228761,29,Spain,Left Winger,LW,6500000.0,CA Osasuna,Spain,900000.0,1
+2020,Serie A,SS Lazio,summer,out,Bastos,195810,29,Angola,Centre-Back,CB,2700000.0,Al-Ain SFC,Saudi Arabia,500000.0,0
+2020,Serie A,SS Lazio,summer,out,Guido Guerrieri,256996,24,Italy,Goalkeeper,GK,300000.0,US Salernitana 1919,Italy,0.0,0
+2020,Serie A,SS Lazio,summer,out,Ricardo Kishna,159026,25,Netherlands,Left Winger,LW,300000.0,ADO Den Haag,Netherlands,0.0,0
+2020,Serie A,SS Lazio,summer,out,Ivan Vargic,34553,33,Croatia,Goalkeeper,GK,150000.0,FC Koper,Slovenia,0.0,0
+2020,Serie A,SS Lazio,summer,out,Wallace,225335,25,Brazil,Centre-Back,CB,3500000.0,Yeni Malatyaspor,Türkiye,0.0,0
+2020,Serie A,SS Lazio,summer,out,Fabio Maistro,398031,22,Italy,Central Midfield,CM,1200000.0,Delfino Pescara 1936,Italy,0.0,1
+2020,Serie A,SS Lazio,summer,out,Biagio Morrone,400577,20,Italy,Defensive Midfield,DM,75000.0,Calcio Foggia 1920,Italy,0.0,1
+2020,Serie A,SS Lazio,summer,out,Alessandro Rossi,339782,23,Italy,Centre-Forward,CF,300000.0,US Viterbese 1908,Italy,0.0,1
+2020,Serie A,SS Lazio,summer,out,Simone Palombi,289065,24,Italy,Centre-Forward,CF,650000.0,AC Pisa 1909,Italy,0.0,1
+2020,Serie A,SS Lazio,summer,out,Nikolaos Baxevanos,465616,21,Greece,Centre-Back,CB,50000.0,ACSM Politehnica Iasi,Romania,0.0,1
+2020,Serie A,SS Lazio,summer,out,André Anderson,601577,21,Italy,Attacking Midfield,AM,800000.0,US Salernitana 1919,Italy,0.0,1
+2020,Serie A,SS Lazio,summer,out,Jordan Lukaku,140804,26,Belgium,Left-Back,LB,4000000.0,Royal Antwerp FC,Belgium,0.0,1
+2020,Serie A,SS Lazio,summer,out,Bobby Adekanye,331514,21,Netherlands,Right Winger,RW,800000.0,Cádiz CF,Spain,0.0,1
+2020,Serie A,SS Lazio,summer,out,Jorge Silva,462251,21,Portugal,Centre-Back,CB,50000.0,Boavista FC U23,Portugal,0.0,1
+2020,Serie A,SS Lazio,summer,out,Luca Falbo,457236,20,Italy,Left-Back,LB,100000.0,US Viterbese 1908,Italy,0.0,1
+2020,Serie A,SS Lazio,summer,out,Marius Adamonis,300137,23,Lithuania,Goalkeeper,GK,125000.0,US Salernitana 1919,Italy,0.0,1
+2020,Serie A,SS Lazio,summer,out,Tiago Casasola,224044,25,Argentina,Right-Back,RB,650000.0,US Salernitana 1919,Italy,0.0,1
+2020,Serie A,SS Lazio,winter,out,Davide Di Gennaro,52136,32,Italy,Attacking Midfield,AM,300000.0,Cesena FC,Italy,0.0,0
+2020,Serie A,SS Lazio,winter,out,Madiu Bari,396590,22,Portugal,Central Midfield,CM,100000.0,Rio Ave FC U23,Portugal,,0
+2020,Serie A,SS Lazio,winter,out,Riza Durmisi,135208,27,Denmark,Left-Back,LB,900000.0,US Salernitana 1919,Italy,0.0,1
+2020,Serie A,SS Lazio,winter,out,Sofian Kiyine,393804,23,Morocco,Central Midfield,CM,2000000.0,US Salernitana 1919,Italy,0.0,1
+2020,Serie A,SS Lazio,winter,out,Bobby Adekanye,331514,21,Netherlands,Right Winger,RW,800000.0,ADO Den Haag,Netherlands,0.0,1
+2020,Serie A,SS Lazio,winter,out,Andreas Karo,203966,24,Cyprus,Centre-Back,CB,500000.0,CS Marítimo,Portugal,0.0,1
+2020,Serie A,SS Lazio,winter,out,Denis Vavro,239962,24,Slovakia,Centre-Back,CB,4000000.0,SD Huesca,Spain,0.0,1
+2020,Serie A,SS Lazio,winter,out,Silvio Proto,12518,37,Belgium,Goalkeeper,GK,,Retired,,,0
+2020,Serie A,SSC Napoli,summer,in,Victor Osimhen,401923,21,Nigeria,Centre-Forward,CF,40000000.0,LOSC Lille,France,78900000.0,0
+2020,Serie A,SSC Napoli,summer,in,Tiemoué Bakayoko,182618,26,France,Defensive Midfield,DM,25500000.0,Chelsea FC,England,1750000.0,1
+2020,Serie A,SSC Napoli,summer,in,Leonardo Candellone,342341,23,Italy,Centre-Forward,CF,500000.0,Torino FC,Italy,500000.0,0
+2020,Serie A,SSC Napoli,summer,out,Allan,126422,29,Brazil,Defensive Midfield,DM,28000000.0,Everton FC,England,24600000.0,0
+2020,Serie A,SSC Napoli,summer,out,Simone Verdi,130360,28,Italy,Attacking Midfield,AM,13000000.0,Torino FC,Italy,22000000.0,0
+2020,Serie A,SSC Napoli,summer,out,Roberto Inglese,159337,28,Italy,Centre-Forward,CF,12000000.0,Parma Calcio 1913,Italy,21800000.0,0
+2020,Serie A,SSC Napoli,summer,out,Marko Rog,317482,25,Croatia,Central Midfield,CM,13000000.0,Cagliari Calcio,Italy,15000000.0,0
+2020,Serie A,SSC Napoli,summer,out,Vlad Chiricheș,123261,30,Romania,Defensive Midfield,DM,5000000.0,US Sassuolo,Italy,9500000.0,0
+2020,Serie A,SSC Napoli,summer,out,Alberto Grassi,197473,25,Italy,Defensive Midfield,DM,5500000.0,Parma Calcio 1913,Italy,8450000.0,0
+2020,Serie A,SSC Napoli,summer,out,Orestis Karnezis,16408,35,Greece,Goalkeeper,GK,500000.0,LOSC Lille,France,5130000.0,0
+2020,Serie A,SSC Napoli,summer,out,Luigi Sepe,99254,29,Italy,Goalkeeper,GK,6000000.0,Parma Calcio 1913,Italy,4580000.0,0
+2020,Serie A,SSC Napoli,summer,out,Luigi Liguori,395436,22,Italy,Right Winger,RW,75000.0,LOSC Lille B,France,4000000.0,0
+2020,Serie A,SSC Napoli,summer,out,Lorenzo Tonelli,111347,30,Italy,Centre-Back,CB,2400000.0,UC Sampdoria,Italy,2000000.0,0
+2020,Serie A,SSC Napoli,summer,out,Amin Younes,96167,27,Germany,Left Winger,LW,5000000.0,Eintracht Frankfurt,Germany,750000.0,1
+2020,Serie A,SSC Napoli,summer,out,Leandrinho,351898,21,Brazil,Left Winger,LW,350000.0,Red Bull Bragantino,Brazil,500000.0,0
+2020,Serie A,SSC Napoli,summer,out,Sebastiano Luperto,278531,24,Italy,Centre-Back,CB,3500000.0,FC Crotone,Italy,500000.0,1
+2020,Serie A,SSC Napoli,summer,out,Alfredo Bifulco,286276,23,Italy,Right Winger,RW,300000.0,Calcio Padova,Italy,210000.0,0
+2020,Serie A,SSC Napoli,summer,out,Amato Ciciretti,159902,26,Italy,Right Winger,RW,1500000.0,Chievo Verona,Italy,110000.0,1
+2020,Serie A,SSC Napoli,summer,out,Antonio Illuminato,455970,20,Italy,Defensive Midfield,DM,25000.0,Portici 1906,Italy,0.0,0
+2020,Serie A,SSC Napoli,summer,out,José Callejón,61253,33,Spain,Right Winger,RW,7500000.0,ACF Fiorentina,Italy,0.0,0
+2020,Serie A,SSC Napoli,summer,out,Giuseppe Esposito,392334,21,Italy,Centre-Back,CB,25000.0,SSC Bari,Italy,0.0,0
+2020,Serie A,SSC Napoli,summer,out,Raffaele Russo,393652,21,Italy,Left Winger,LW,50000.0,US Grosseto 1912,Italy,0.0,1
+2020,Serie A,SSC Napoli,summer,out,Leonardo Candellone,342341,23,Italy,Centre-Forward,CF,500000.0,SSC Bari,Italy,0.0,1
+2020,Serie A,SSC Napoli,summer,out,Franco Ferrari,409553,25,Italy,Centre-Forward,CF,200000.0,Como 1907,Italy,0.0,1
+2020,Serie A,SSC Napoli,summer,out,Luca Palmiero,240357,24,Italy,Defensive Midfield,DM,1300000.0,Chievo Verona,Italy,0.0,1
+2020,Serie A,SSC Napoli,summer,out,Mario Prezioso,286288,24,Italy,Central Midfield,CM,275000.0,Modena FC 2018,Italy,0.0,1
+2020,Serie A,SSC Napoli,summer,out,Adam Ounas,400485,23,Algeria,Right Winger,RW,8000000.0,Cagliari Calcio,Italy,0.0,1
+2020,Serie A,SSC Napoli,summer,out,Karim Zedadka,612065,20,Algeria,Left Midfield,LM,100000.0,Cavese 1919,Italy,0.0,1
+2020,Serie A,SSC Napoli,summer,out,Zinédine Machach,146143,24,France,Attacking Midfield,AM,400000.0,VVV-Venlo,Netherlands,0.0,1
+2020,Serie A,SSC Napoli,summer,out,Gennaro Tutino,202979,24,Italy,Centre-Forward,CF,2000000.0,US Salernitana 1919,Italy,0.0,1
+2020,Serie A,SSC Napoli,summer,out,Alessandro Zanoli,397225,19,Italy,Right-Back,RB,200000.0,FC Legnago Salus,Italy,0.0,1
+2020,Serie A,SSC Napoli,summer,out,Alessio Zerbin,433584,21,Italy,Right Midfield,RM,150000.0,FC Pro Vercelli 1892,Italy,0.0,1
+2020,Serie A,SSC Napoli,summer,out,Michael Folorunsho,377042,22,Italy,Central Midfield,CM,250000.0,Reggina 1914,Italy,0.0,1
+2020,Serie A,SSC Napoli,summer,out,Filippo Costa,197743,25,Italy,Left Midfield,LM,450000.0,Virtus Entella,Italy,0.0,1
+2020,Serie A,SSC Napoli,summer,out,Luigi D'Ignazio,355051,22,Italy,Left-Back,LB,75000.0,SS Turris Calcio,Italy,0.0,1
+2020,Serie A,SSC Napoli,winter,out,Arkadiusz Milik,191891,26,Poland,Centre-Forward,CF,22000000.0,Olympique Marseille,France,3930000.0,1
+2020,Serie A,SSC Napoli,winter,out,Fernando Llorente,35564,35,Spain,Centre-Forward,CF,1000000.0,Udinese Calcio,Italy,500.0,0
+2020,Serie A,SSC Napoli,winter,out,Francesco Mezzoni,395190,20,Italy,Right Midfield,RM,50000.0,FC Pro Vercelli 1892,Italy,0.0,1
+2020,Serie A,SSC Napoli,winter,out,Alberto Senese,430764,20,Italy,Centre-Back,CB,50000.0,Cavese 1919,Italy,0.0,1
+2020,Serie A,SSC Napoli,winter,out,Kévin Malcuit,126711,29,Morocco,Right-Back,RB,7000000.0,ACF Fiorentina,Italy,0.0,1
+2020,Serie A,SSC Napoli,winter,out,Adam Ounas,400485,24,Algeria,Right Winger,RW,8000000.0,FC Crotone,Italy,0.0,1
+2020,Serie A,Spezia Calcio,summer,in,Ardian Ismajli,435228,23,Albania,Centre-Back,CB,950000.0,HNK Hajduk Split,Croatia,2200000.0,0
+2020,Serie A,Spezia Calcio,summer,in,Jeroen Zoet,79045,29,Netherlands,Goalkeeper,GK,5500000.0,PSV Eindhoven,Netherlands,1500000.0,0
+2020,Serie A,Spezia Calcio,summer,in,Diego Farias,83877,30,Brazil,Left Winger,LW,3500000.0,Cagliari Calcio,Italy,500000.0,1
+2020,Serie A,Spezia Calcio,summer,in,Nahuel Estévez,552472,24,Argentina,Defensive Midfield,DM,300000.0,Club Estudiantes de La Plata,Argentina,250000.0,1
+2020,Serie A,Spezia Calcio,summer,in,Jeff Chabot,303219,22,Germany,Centre-Back,CB,3100000.0,UC Sampdoria,Italy,200000.0,1
+2020,Serie A,Spezia Calcio,summer,in,Daniele Verde,256361,24,Italy,Right Winger,RW,1200000.0,AEK Athens,Greece,190000.0,1
+2020,Serie A,Spezia Calcio,summer,in,Léo Sena,435213,24,Brazil,Defensive Midfield,DM,1000000.0,Clube Atlético Mineiro,Brazil,180000.0,1
+2020,Serie A,Spezia Calcio,summer,in,Kevin Agudelo,587458,21,Colombia,Attacking Midfield,AM,3500000.0,Genoa CFC,Italy,100000.0,1
+2020,Serie A,Spezia Calcio,summer,in,Ivan Provedel,197929,26,Italy,Goalkeeper,GK,400000.0,Empoli FC ,Italy,0.0,0
+2020,Serie A,Spezia Calcio,summer,in,Jacopo Sala,96806,28,Italy,Central Midfield,CM,1000000.0,SPAL,Italy,0.0,0
+2020,Serie A,Spezia Calcio,summer,in,Rafael,84467,38,Brazil,Goalkeeper,GK,200000.0,Cagliari Calcio,Italy,0.0,0
+2020,Serie A,Spezia Calcio,summer,in,Lorenzo Colombini,426244,19,Italy,Left-Back,LB,400000.0,Inter Milan Primavera,Italy,0.0,0
+2020,Serie A,Spezia Calcio,summer,in,M'Bala Nzola,354814,24,Angola,Centre-Forward,CF,900000.0,Trapani Calcio,Italy,0.0,0
+2020,Serie A,Spezia Calcio,summer,in,Cristian Dell'Orco,240244,26,Italy,Centre-Back,CB,650000.0,US Sassuolo,Italy,0.0,1
+2020,Serie A,Spezia Calcio,summer,in,Roberto Piccoli,432092,19,Italy,Centre-Forward,CF,1000000.0,Atalanta BC,Italy,0.0,1
+2020,Serie A,Spezia Calcio,summer,in,Federico Mattiello,200194,25,Italy,Right-Back,RB,2000000.0,Atalanta BC,Italy,0.0,1
+2020,Serie A,Spezia Calcio,summer,in,Alessandro Deiola,235931,25,Italy,Central Midfield,CM,1000000.0,Cagliari Calcio,Italy,0.0,1
+2020,Serie A,Spezia Calcio,summer,in,Tommaso Pobega,392538,21,Italy,Central Midfield,CM,4500000.0,AC Milan,Italy,0.0,1
+2020,Serie A,Spezia Calcio,summer,in,Lucien Agoumé,569384,18,France,Defensive Midfield,DM,3500000.0,Inter Milan,Italy,0.0,1
+2020,Serie A,Spezia Calcio,winter,in,Riccardo Saponara,88909,29,Italy,Attacking Midfield,AM,2000000.0,ACF Fiorentina,Italy,0.0,1
+2020,Serie A,Spezia Calcio,summer,out,Tommaso Augello,284595,26,Italy,Left-Back,LB,1200000.0,UC Sampdoria,Italy,1500000.0,0
+2020,Serie A,Spezia Calcio,summer,out,Delano Burgzorg,436585,21,Suriname,Left Winger,LW,525000.0,Heracles Almelo,Netherlands,240000.0,0
+2020,Serie A,Spezia Calcio,summer,out,Pietro Ceccaroni,239099,24,Italy,Centre-Back,CB,600000.0,Venezia FC,Italy,200000.0,0
+2020,Serie A,Spezia Calcio,summer,out,DJ Buffonge,353149,21,Montserrat,Attacking Midfield,AM,150000.0,NAC Breda,Netherlands,0.0,0
+2020,Serie A,Spezia Calcio,summer,out,Simone Barone,392001,21,Italy,Goalkeeper,GK,25000.0,SS Turris Calcio,Italy,0.0,0
+2020,Serie A,Spezia Calcio,summer,out,Michael D'Eramo,395140,21,Italy,Central Midfield,CM,150000.0,Vis Pesaro 1898,Italy,0.0,0
+2020,Serie A,Spezia Calcio,summer,out,Marco Crocchianti,280414,24,Italy,Centre-Back,CB,50000.0,ACN Siena,Italy,0.0,0
+2020,Serie A,Spezia Calcio,summer,out,Theophilus Awua,427576,22,Nigeria,Central Midfield,CM,500000.0,AS Cittadella,Italy,0.0,1
+2020,Serie A,Spezia Calcio,summer,out,Matteo Figoli,457420,19,Italy,Central Midfield,CM,125000.0,US Pergolettese 1932,Italy,0.0,1
+2020,Serie A,Spezia Calcio,summer,out,Axel Desjardins,459300,20,Canada,Goalkeeper,GK,75000.0,Novara Calcio 1908,Italy,0.0,1
+2020,Serie A,Spezia Calcio,summer,out,Jacopo Giuliani,392010,21,Italy,Left Midfield,LM,100000.0,Carpi FC 1909,Italy,0.0,1
+2020,Serie A,Spezia Calcio,summer,out,Sveinn Aron Gudjohnsen,332527,22,Iceland,Centre-Forward,CF,400000.0,Odense Boldklub,Denmark,0.0,1
+2020,Serie A,Spezia Calcio,summer,out,Gregorio Morachioli,420472,20,Italy,Left Winger,LW,50000.0,Imolese Calcio 1919,Italy,0.0,1
+2020,Serie A,Spezia Calcio,summer,out,Lorenzo Colombini,426244,19,Italy,Left-Back,LB,400000.0,Novara Calcio 1908,Italy,0.0,1
+2020,Serie A,Spezia Calcio,summer,out,Alessandro Bordin,315844,22,Italy,Central Midfield,CM,175000.0,Casertana FC,Italy,0.0,1
+2020,Serie A,Spezia Calcio,summer,out,Suleiman Abdullahi,427583,22,Nigeria,Second Striker,SS,,Without Club,,,0
+2020,Serie A,Spezia Calcio,summer,out,Soufiane Bidaoui,90118,30,Morocco,Left Winger,LW,300000.0,Without Club,,,0
+2020,Serie A,Spezia Calcio,summer,out,Tobías Reinhart,613085,20,Argentina,Defensive Midfield,DM,150000.0,CA Temperley,Argentina,0.0,1
+2020,Serie A,Spezia Calcio,summer,out,Luigi Vitale,80158,32,Italy,Left-Back,LB,325000.0,Hellas Verona,Italy,0.0,1
+2020,Serie A,Spezia Calcio,summer,out,Antonio Di Gaudio,165722,31,Italy,Left Winger,LW,600000.0,Hellas Verona,Italy,0.0,1
+2020,Serie A,Spezia Calcio,summer,out,M'Bala Nzola,354814,24,Angola,Centre-Forward,CF,900000.0,Trapani Calcio,Italy,0.0,1
+2020,Serie A,Spezia Calcio,summer,out,Antonino Ragusa,102470,30,Italy,Left Winger,LW,700000.0,Hellas Verona,Italy,0.0,1
+2020,Serie A,Spezia Calcio,summer,out,Simone Scuffet,238993,24,Italy,Goalkeeper,GK,1200000.0,Udinese Calcio,Italy,0.0,1
+2020,Serie A,Spezia Calcio,summer,out,Federico Ricci,198086,26,Italy,Right Winger,RW,1100000.0,US Sassuolo,Italy,0.0,1
+2020,Serie A,Spezia Calcio,winter,out,Paolo Bartolomei,281900,31,Italy,Defensive Midfield,DM,800000.0,US Cremonese,Italy,20000.0,0
+2020,Serie A,Spezia Calcio,winter,out,Luca Mora,110338,32,Italy,Central Midfield,CM,500000.0,SPAL,Italy,1000.0,0
+2020,Serie A,Spezia Calcio,winter,out,Giuseppe Mastinu,397950,29,Italy,Central Midfield,CM,400000.0,AC Pisa 1909,Italy,0.0,0
+2020,Serie A,Spezia Calcio,winter,out,Theophilus Awua,427576,22,Nigeria,Central Midfield,CM,500000.0,FC Pro Vercelli 1892,Italy,0.0,1
+2020,Serie A,Spezia Calcio,winter,out,Alessandro Deiola,235931,25,Italy,Central Midfield,CM,1000000.0,Cagliari Calcio,Italy,0.0,1
+2020,Serie A,Torino FC,summer,in,Simone Verdi,130360,28,Italy,Attacking Midfield,AM,13000000.0,SSC Napoli,Italy,22000000.0,0
+2020,Serie A,Torino FC,summer,in,Karol Linetty,225873,25,Poland,Central Midfield,CM,10000000.0,UC Sampdoria,Italy,7500000.0,0
+2020,Serie A,Torino FC,summer,in,Mërgim Vojvoda,336125,25,Kosovo,Right-Back,RB,4000000.0,Standard Liège,Belgium,5200000.0,0
+2020,Serie A,Torino FC,summer,in,Ricardo Rodríguez,86784,28,Switzerland,Left-Back,LB,3500000.0,AC Milan,Italy,1950000.0,0
+2020,Serie A,Torino FC,summer,in,Federico Bonazzoli,241527,23,Italy,Centre-Forward,CF,5000000.0,UC Sampdoria,Italy,1500000.0,1
+2020,Serie A,Torino FC,summer,in,Amer Gojak,293210,23,Bosnia-Herzegovina,Attacking Midfield,AM,5000000.0,GNK Dinamo Zagreb,Croatia,1000000.0,1
+2020,Serie A,Torino FC,summer,in,Nicola Murru,171399,25,Italy,Left-Back,LB,5000000.0,UC Sampdoria,Italy,0.0,1
+2020,Serie A,Torino FC,winter,in,Antonio Sanabria,234523,24,Paraguay,Centre-Forward,CF,6500000.0,Real Betis Balompié,Spain,6500000.0,0
+2020,Serie A,Torino FC,winter,in,Rolando Mandragora,308279,23,Italy,Defensive Midfield,DM,12000000.0,Juventus FC,Italy,1050000.0,1
+2020,Serie A,Torino FC,summer,out,Álex Berenguer,338425,25,Spain,Left Winger,LW,6000000.0,Athletic Bilbao,Spain,11130000.0,0
+2020,Serie A,Torino FC,summer,out,Kevin Bonifazi,247377,24,Italy,Centre-Back,CB,4000000.0,SPAL,Italy,11000000.0,0
+2020,Serie A,Torino FC,summer,out,Ola Aina,236490,23,Nigeria,Right-Back,RB,7000000.0,Fulham FC,England,2500000.0,1
+2020,Serie A,Torino FC,summer,out,Leonardo Candellone,342341,23,Italy,Centre-Forward,CF,500000.0,SSC Napoli,Italy,500000.0,0
+2020,Serie A,Torino FC,summer,out,Iago Falque,59340,30,Spain,Right Winger,RW,6000000.0,Benevento Calcio,Italy,500000.0,1
+2020,Serie A,Torino FC,summer,out,Alessandro Zanellati,386442,20,Italy,Goalkeeper,GK,50000.0,AS Giana Erminio,Italy,0.0,0
+2020,Serie A,Torino FC,summer,out,Shady Oukhadda,393487,21,Morocco,Right-Back,RB,125000.0,AS Gubbio 1910,Italy,0.0,0
+2020,Serie A,Torino FC,summer,out,Alberto Savini,386443,21,Italy,Goalkeeper,GK,100000.0,UC AlbinoLeffe,Italy,0.0,0
+2020,Serie A,Torino FC,summer,out,Tommaso Cucchietti,315788,22,Italy,Goalkeeper,GK,250000.0,AS Gubbio 1910,Italy,0.0,0
+2020,Serie A,Torino FC,summer,out,Lorenzo De Silvestri,33571,32,Italy,Right-Back,RB,2500000.0,Bologna FC 1909,Italy,0.0,0
+2020,Serie A,Torino FC,summer,out,Andrea Zaccagno,291314,23,Italy,Goalkeeper,GK,200000.0,US Cremonese,Italy,0.0,0
+2020,Serie A,Torino FC,summer,out,Matteo Rossetti,440878,22,Italy,Central Midfield,CM,100000.0,Pordenone Calcio,Italy,,0
+2020,Serie A,Torino FC,summer,out,Karlo Butic,388121,22,Croatia,Centre-Forward,CF,300000.0,Pordenone Calcio,Italy,,0
+2020,Serie A,Torino FC,summer,out,Alessandro Fiordaliso,386447,21,Italy,Right-Back,RB,450000.0,US Cremonese,Italy,,0
+2020,Serie A,Torino FC,summer,out,Manuel De Luca,375816,22,Italy,Centre-Forward,CF,300000.0,Chievo Verona,Italy,,0
+2020,Serie A,Torino FC,summer,out,Lucas Boyé,334222,24,Argentina,Centre-Forward,CF,900000.0,Elche CF,Spain,0.0,1
+2020,Serie A,Torino FC,summer,out,Nicola Rauti,417896,20,Italy,Second Striker,SS,300000.0,Palermo FC,Italy,0.0,1
+2020,Serie A,Torino FC,summer,out,Vitalie Damascan,354136,21,Moldova,Centre-Forward,CF,750000.0,RKC Waalwijk,Netherlands,0.0,1
+2020,Serie A,Torino FC,summer,out,Luca Gemello,463792,20,Italy,Goalkeeper,GK,75000.0,AC Renate,Italy,0.0,1
+2020,Serie A,Torino FC,summer,out,Koffi Djidji,183031,27,Cote d'Ivoire,Centre-Back,CB,3000000.0,FC Crotone,Italy,0.0,1
+2020,Serie A,Torino FC,summer,out,Federico Giraudo,349715,21,Italy,Left-Back,LB,100000.0,Without Club,,,0
+2020,Serie A,Torino FC,summer,out,Simone Verdi,130360,28,Italy,Attacking Midfield,AM,13000000.0,SSC Napoli,Italy,0.0,1
+2020,Serie A,Torino FC,winter,out,Soualiho Meïté,164913,26,France,Defensive Midfield,DM,5000000.0,AC Milan,Italy,500000.0,1
+2020,Serie A,Torino FC,winter,out,Lorenzo Carissoni,381794,23,Italy,Right-Back,RB,100000.0,Vis Pesaro 1898,Italy,0.0,0
+2020,Serie A,Torino FC,winter,out,Antonio Rosati,6442,37,Italy,Goalkeeper,GK,100000.0,ACF Fiorentina,Italy,0.0,0
+2020,Serie A,Torino FC,winter,out,Vincenzo Millico,390159,20,Italy,Left Winger,LW,1500000.0,Frosinone Calcio,Italy,0.0,1
+2020,Serie A,Torino FC,winter,out,Michel Adopo,564305,20,France,Central Midfield,CM,200000.0,US Viterbese 1908,Italy,0.0,1
+2020,Serie A,Torino FC,winter,out,Mihael Onișa,418225,20,Romania,Central Midfield,CM,50000.0,Imolese Calcio 1919,Italy,0.0,1
+2020,Serie A,Torino FC,winter,out,Simone Edera,340070,24,Italy,Right Winger,RW,500000.0,Reggina 1914,Italy,0.0,1
+2020,Serie A,Torino FC,winter,out,Jacopo Segre,373899,23,Italy,Central Midfield,CM,1400000.0,SPAL,Italy,0.0,1
+2020,Serie A,UC Sampdoria,summer,in,Mikkel Damsgaard,540941,20,Denmark,Attacking Midfield,AM,6500000.0,FC Nordsjaelland,Denmark,6750000.0,0
+2020,Serie A,UC Sampdoria,summer,in,Kristoffer Askildsen,574495,19,Norway,Central Midfield,CM,1000000.0,Stabæk Fotball,Norway,2500000.0,0
+2020,Serie A,UC Sampdoria,summer,in,Lorenzo Tonelli,111347,30,Italy,Centre-Back,CB,2400000.0,SSC Napoli,Italy,2000000.0,0
+2020,Serie A,UC Sampdoria,summer,in,Keita Baldé,238752,25,Senegal,Left Winger,LW,16000000.0,AS Monaco,France,1800000.0,1
+2020,Serie A,UC Sampdoria,summer,in,Tommaso Augello,284595,26,Italy,Left-Back,LB,1200000.0,Spezia Calcio,Italy,1500000.0,0
+2020,Serie A,UC Sampdoria,summer,in,Erik Gerbi,410305,20,Italy,Centre-Forward,CF,100000.0,Juventus U23,Italy,1300000.0,0
+2020,Serie A,UC Sampdoria,summer,in,Matteo Stoppa,391899,19,Italy,Second Striker,SS,100000.0,Juventus FC,Italy,1000000.0,0
+2020,Serie A,UC Sampdoria,summer,in,Felice D'Amico,392500,20,Italy,Second Striker,SS,250000.0,Inter Milan,Italy,400000.0,0
+2020,Serie A,UC Sampdoria,summer,in,Maya Yoshida,81789,32,Japan,Centre-Back,CB,3800000.0,Southampton FC,England,0.0,0
+2020,Serie A,UC Sampdoria,summer,in,Nicola Ravaglia,42796,31,Italy,Goalkeeper,GK,300000.0,US Cremonese,Italy,0.0,0
+2020,Serie A,UC Sampdoria,summer,in,Adrien Silva,56810,31,Portugal,Central Midfield,CM,8000000.0,Leicester City,England,0.0,0
+2020,Serie A,UC Sampdoria,summer,in,Antonio Candreva,25488,33,Italy,Right Winger,RW,5000000.0,Inter Milan,Italy,0.0,1
+2020,Serie A,UC Sampdoria,summer,in,Karlo Letica,318707,23,Croatia,Goalkeeper,GK,900000.0,Club Brugge KV,Belgium,0.0,1
+2020,Serie A,UC Sampdoria,winter,in,Ernesto Torregrossa,159883,28,Venezuela,Centre-Forward,CF,4500000.0,Brescia Calcio (- 2025),Italy,500000.0,1
+2020,Serie A,UC Sampdoria,summer,out,Karol Linetty,225873,25,Poland,Central Midfield,CM,10000000.0,Torino FC,Italy,7500000.0,0
+2020,Serie A,UC Sampdoria,summer,out,Federico Bonazzoli,241527,23,Italy,Centre-Forward,CF,5000000.0,Torino FC,Italy,1500000.0,1
+2020,Serie A,UC Sampdoria,summer,out,Gianluca Caprari,146752,27,Italy,Second Striker,SS,6500000.0,Benevento Calcio,Italy,1300000.0,1
+2020,Serie A,UC Sampdoria,summer,out,Ronaldo Vieira,434676,22,Guinea-Bissau,Central Midfield,CM,6500000.0,Hellas Verona,Italy,750000.0,1
+2020,Serie A,UC Sampdoria,summer,out,Fabio Depaoli,324282,23,Italy,Right-Back,RB,4500000.0,Atalanta BC,Italy,600000.0,1
+2020,Serie A,UC Sampdoria,summer,out,Lorenco Simic,226093,24,Croatia,Centre-Back,CB,600000.0,Zaglebie Lubin,Poland,250000.0,0
+2020,Serie A,UC Sampdoria,summer,out,Jeff Chabot,303219,22,Germany,Centre-Back,CB,3100000.0,Spezia Calcio,Italy,200000.0,1
+2020,Serie A,UC Sampdoria,summer,out,Alessandro Gabbani,397869,21,Italy,Defensive Midfield,DM,25000.0,Arzignano Valchiampo,Italy,0.0,0
+2020,Serie A,UC Sampdoria,summer,out,Leonardo Capezzi,84442,25,Italy,Central Midfield,CM,350000.0,US Salernitana 1919,Italy,0.0,0
+2020,Serie A,UC Sampdoria,summer,out,Vid Belec,73090,30,Slovenia,Goalkeeper,GK,600000.0,US Salernitana 1919,Italy,0.0,0
+2020,Serie A,UC Sampdoria,summer,out,Felice D'Amico,392500,20,Italy,Second Striker,SS,250000.0,Chievo Verona,Italy,0.0,1
+2020,Serie A,UC Sampdoria,summer,out,Cristian Hadziosmanovic,343950,22,Montenegro,Right-Back,RB,150000.0,Casertana FC,Italy,0.0,1
+2020,Serie A,UC Sampdoria,summer,out,Ognjen Stijepovic,399907,20,Montenegro,Second Striker,SS,150000.0,US Alessandria Calcio 1912,Italy,0.0,1
+2020,Serie A,UC Sampdoria,summer,out,Antonio Di Nardo,347656,22,Italy,Centre-Forward,CF,50000.0,SS Arezzo,Italy,0.0,1
+2020,Serie A,UC Sampdoria,summer,out,Erik Gerbi,410305,20,Italy,Centre-Forward,CF,100000.0,Teramo Calcio 1913,Italy,0.0,1
+2020,Serie A,UC Sampdoria,summer,out,Ibourahima Baldé,398061,21,Spain,Centre-Forward,CF,100000.0,Calcio Foggia 1920,Italy,0.0,1
+2020,Serie A,UC Sampdoria,summer,out,Matteo Stoppa,391899,19,Italy,Second Striker,SS,100000.0,US Pistoiese 1921,Italy,0.0,1
+2020,Serie A,UC Sampdoria,summer,out,Nicola Murru,171399,25,Italy,Left-Back,LB,5000000.0,Torino FC,Italy,0.0,1
+2020,Serie A,UC Sampdoria,summer,out,Axel Campeol,399314,20,Italy,Left-Back,LB,50000.0,US Grosseto 1912,Italy,0.0,1
+2020,Serie A,UC Sampdoria,summer,out,Wladimiro Falcone,238537,25,Italy,Goalkeeper,GK,150000.0,Cosenza Calcio,Italy,0.0,1
+2020,Serie A,UC Sampdoria,summer,out,Antonio Palumbo,287863,24,Italy,Central Midfield,CM,500000.0,Ternana Calcio,Italy,0.0,1
+2020,Serie A,UC Sampdoria,summer,out,Carlo Romei,398058,21,Italy,Right-Back,RB,25000.0,Potenza Calcio,Italy,0.0,1
+2020,Serie A,UC Sampdoria,summer,out,Andrea Bertolacci,99227,29,Italy,Central Midfield,CM,1400000.0,Without Club,,,0
+2020,Serie A,UC Sampdoria,summer,out,Michele Rocca,257118,24,Italy,Central Midfield,CM,300000.0,Without Club,,,0
+2020,Serie A,UC Sampdoria,summer,out,Gonzalo Maroni,441385,21,Argentina,Attacking Midfield,AM,4000000.0,CA Boca Juniors,Argentina,0.0,1
+2020,Serie A,UC Sampdoria,summer,out,Maya Yoshida,81789,32,Japan,Centre-Back,CB,3800000.0,Southampton FC,England,0.0,1
+2020,Serie A,UC Sampdoria,summer,out,Kristoffer Askildsen,574495,19,Norway,Central Midfield,CM,1000000.0,Stabæk Fotball,Norway,0.0,1
+2020,Serie A,UC Sampdoria,summer,out,Lorenzo Tonelli,111347,30,Italy,Centre-Back,CB,2400000.0,SSC Napoli,Italy,0.0,1
+2020,Serie A,UC Sampdoria,summer,out,Andrea Seculin,85380,30,Italy,Goalkeeper,GK,200000.0,Chievo Verona,Italy,0.0,1
+2020,Serie A,UC Sampdoria,summer,out,Tommaso Augello,284595,26,Italy,Left-Back,LB,1200000.0,Spezia Calcio,Italy,0.0,1
+2020,Serie A,UC Sampdoria,winter,out,Dodô,109038,28,Brazil,Left-Back,LB,500000.0,Clube Atlético Mineiro,Brazil,0.0,0
+2020,Serie A,UC Sampdoria,winter,out,Roberts Veips,372106,21,Latvia,Centre-Back,CB,150000.0,GSD Ambrosiana,Italy,0.0,0
+2020,Serie A,UC Sampdoria,winter,out,Carlo Romei,398058,21,Italy,Right-Back,RB,25000.0,Merrimack Warriors (Merrimack College),United States,0.0,0
+2020,Serie A,UC Sampdoria,winter,out,Tommaso Farabegoli,394855,21,Italy,Centre-Back,CB,250000.0,Feralpisalò,Italy,0.0,1
+2020,Serie A,UC Sampdoria,winter,out,Ognjen Stijepovic,399907,21,Montenegro,Second Striker,SS,100000.0,US Grosseto 1912,Italy,0.0,1
+2020,Serie A,UC Sampdoria,winter,out,Felice D'Amico,392500,20,Italy,Second Striker,SS,250000.0,Pro Sesto 1913,Italy,0.0,1
+2020,Serie A,UC Sampdoria,winter,out,Fabio Depaoli,324282,23,Italy,Right-Back,RB,4000000.0,Benevento Calcio,Italy,0.0,1
+2020,Serie A,US Sassuolo,summer,in,Grégoire Defrel,163222,29,France,Centre-Forward,CF,8000000.0,AS Roma,Italy,11000000.0,0
+2020,Serie A,US Sassuolo,summer,in,Vlad Chiricheș,123261,30,Romania,Defensive Midfield,DM,5000000.0,SSC Napoli,Italy,9500000.0,0
+2020,Serie A,US Sassuolo,summer,in,Filippo Romagna,256678,23,Italy,Centre-Back,CB,4500000.0,Cagliari Calcio,Italy,4000000.0,0
+2020,Serie A,US Sassuolo,summer,in,Kaan Ayhan,119031,25,Türkiye,Defensive Midfield,DM,7000000.0,Fortuna Düsseldorf,Germany,2660000.0,0
+2020,Serie A,US Sassuolo,summer,in,Lukas Haraslin,239941,24,Slovakia,Left Winger,LW,1600000.0,Lechia Gdansk,Poland,1700000.0,0
+2020,Serie A,US Sassuolo,summer,in,Georgios Kyriakopoulos,311178,24,Greece,Left-Back,LB,3000000.0,Asteras Tripolis,Greece,500000.0,0
+2020,Serie A,US Sassuolo,summer,in,Nicolás Schiappacasse,345473,21,Uruguay,Left Winger,LW,800000.0,Atlético Madrileño,Spain,300000.0,0
+2020,Serie A,US Sassuolo,summer,in,Maxime Lopez,290862,22,France,Defensive Midfield,DM,12000000.0,Olympique Marseille,France,0.0,1
+2020,Serie A,US Sassuolo,summer,out,Stefano Sensi,216179,25,Italy,Central Midfield,CM,20000000.0,Inter Milan,Italy,25000000.0,0
+2020,Serie A,US Sassuolo,summer,out,Alfred Duncan,184894,27,Ghana,Central Midfield,CM,15000000.0,ACF Fiorentina,Italy,15000000.0,0
+2020,Serie A,US Sassuolo,summer,out,Pol Lirola,298975,23,Spain,Right-Back,RB,10000000.0,ACF Fiorentina,Italy,11000000.0,0
+2020,Serie A,US Sassuolo,summer,out,Francesco Cassata,301236,23,Italy,Central Midfield,CM,2500000.0,Genoa CFC,Italy,7000000.0,0
+2020,Serie A,US Sassuolo,summer,out,Alessandro Tripaldelli,357176,21,Italy,Left-Back,LB,450000.0,Cagliari Calcio,Italy,3000000.0,0
+2020,Serie A,US Sassuolo,summer,out,Ettore Gliozzi,209936,24,Italy,Centre-Forward,CF,200000.0,AC Monza,Italy,500000.0,0
+2020,Serie A,US Sassuolo,summer,out,Giangiacomo Magnani,310458,24,Italy,Centre-Back,CB,3200000.0,Hellas Verona,Italy,500000.0,1
+2020,Serie A,US Sassuolo,summer,out,Jens Odgaard,345590,21,Denmark,Attacking Midfield,AM,2200000.0,FC Lugano,Switzerland,255000.0,1
+2020,Serie A,US Sassuolo,summer,out,Luca Mazzitelli,226025,24,Italy,Central Midfield,CM,2500000.0,AC Pisa 1909,Italy,100000.0,1
+2020,Serie A,US Sassuolo,summer,out,Salvatore Giordano,428295,21,Italy,Central Midfield,CM,,Castelvetro Calcio,Italy,0.0,0
+2020,Serie A,US Sassuolo,summer,out,Jérémie Broh,340075,23,Italy,Central Midfield,CM,500000.0,Palermo FC,Italy,0.0,0
+2020,Serie A,US Sassuolo,summer,out,Lorenzo Bechini,486614,19,Italy,Centre-Back,CB,,Pisa Primavera,Italy,0.0,0
+2020,Serie A,US Sassuolo,summer,out,Alessandro Carrozza,421345,20,Italy,Left Winger,LW,50000.0,Roccella,Italy,0.0,0
+2020,Serie A,US Sassuolo,summer,out,Giacomo Satalino,323255,21,Italy,Goalkeeper,GK,250000.0,Cesena FC,Italy,0.0,1
+2020,Serie A,US Sassuolo,summer,out,Andrea Ghion,390163,20,Italy,Defensive Midfield,DM,200000.0,Carpi FC 1909,Italy,0.0,1
+2020,Serie A,US Sassuolo,summer,out,Nicholas Pierini,372720,22,Italy,Right Winger,RW,550000.0,Ascoli Calcio,Italy,0.0,1
+2020,Serie A,US Sassuolo,summer,out,Marco Pinato,164020,25,Italy,Central Midfield,CM,700000.0,US Cremonese,Italy,0.0,1
+2020,Serie A,US Sassuolo,summer,out,Cristian Dell'Orco,240244,26,Italy,Centre-Back,CB,650000.0,Spezia Calcio,Italy,0.0,1
+2020,Serie A,US Sassuolo,summer,out,Davide Frattesi,394300,20,Italy,Central Midfield,CM,5000000.0,AC Monza,Italy,0.0,1
+2020,Serie A,US Sassuolo,summer,out,Alessandro Russo,481344,19,Italy,Goalkeeper,GK,300000.0,Virtus Entella,Italy,0.0,1
+2020,Serie A,US Sassuolo,summer,out,Leonardo Sernicola,340707,23,Italy,Left-Back,LB,425000.0,SPAL,Italy,0.0,1
+2020,Serie A,US Sassuolo,summer,out,Khouma Babacar,124902,27,Senegal,Centre-Forward,CF,4000000.0,Alanyaspor,Türkiye,0.0,1
+2020,Serie A,US Sassuolo,summer,out,Marco Sala,392570,21,Italy,Left-Back,LB,1300000.0,SPAL,Italy,0.0,1
+2020,Serie A,US Sassuolo,summer,out,Gianluca Scamacca,315867,21,Italy,Centre-Forward,CF,5000000.0,Genoa CFC,Italy,0.0,1
+2020,Serie A,US Sassuolo,summer,out,Claud Adjapong,337716,22,Italy,Right-Back,RB,2700000.0,US Lecce,Italy,0.0,1
+2020,Serie A,US Sassuolo,summer,out,Enrico Brignola,323147,21,Italy,Right Winger,RW,2000000.0,SPAL,Italy,0.0,1
+2020,Serie A,US Sassuolo,summer,out,Andreaw Gravillon,395083,22,Guadeloupe,Centre-Back,CB,3500000.0,Inter Milan,Italy,0.0,1
+2020,Serie A,US Sassuolo,summer,out,Grégoire Defrel,163222,29,France,Centre-Forward,CF,8000000.0,AS Roma,Italy,0.0,1
+2020,Serie A,US Sassuolo,summer,out,Vlad Chiricheș,123261,30,Romania,Defensive Midfield,DM,5000000.0,SSC Napoli,Italy,0.0,1
+2020,Serie A,US Sassuolo,summer,out,Georgios Kyriakopoulos,311178,24,Greece,Left-Back,LB,3000000.0,Asteras Tripolis,Greece,0.0,1
+2020,Serie A,US Sassuolo,summer,out,Filippo Romagna,256678,23,Italy,Centre-Back,CB,4500000.0,Cagliari Calcio,Italy,0.0,1
+2020,Serie A,US Sassuolo,summer,out,Lukas Haraslin,239941,24,Slovakia,Left Winger,LW,1600000.0,Lechia Gdansk,Poland,0.0,1
+2020,Serie A,US Sassuolo,winter,out,Giacomo Satalino,323255,21,Italy,Goalkeeper,GK,200000.0,SS Monopoli 1966,Italy,0.0,1
+2020,Serie A,US Sassuolo,winter,out,Giuseppe Aurelio,457444,20,Italy,Left-Back,LB,75000.0,Imolese Calcio 1919,Italy,0.0,1
+2020,Serie A,US Sassuolo,winter,out,Nicholas Pierini,372720,22,Italy,Right Winger,RW,550000.0,Modena FC 2018,Italy,0.0,1
+2020,Serie A,US Sassuolo,winter,out,Nicolás Schiappacasse,345473,22,Uruguay,Left Winger,LW,800000.0,CA Peñarol,Uruguay,0.0,1
+2020,Serie A,US Sassuolo,winter,out,Raul Steau,547818,19,Romania,Attacking Midfield,AM,25000.0,SS Monopoli 1966,Italy,0.0,1
+2020,Serie A,US Sassuolo,winter,out,Jens Odgaard,345590,21,Denmark,Attacking Midfield,AM,1500000.0,Delfino Pescara 1936,Italy,0.0,1
+2020,Serie A,US Sassuolo,winter,out,Federico Ricci,198086,26,Italy,Right Winger,RW,1100000.0,AC Monza,Italy,0.0,1
+2020,Serie A,US Sassuolo,winter,out,Enrico Brignola,323147,21,Italy,Right Winger,RW,2000000.0,Frosinone Calcio,Italy,0.0,1
+2020,Serie A,Udinese Calcio,summer,in,Jean-Victor Makengo,322305,22,France,Central Midfield,CM,3600000.0,OGC Nice,France,3500000.0,0
+2020,Serie A,Udinese Calcio,summer,in,Roberto Pereyra,112302,29,Argentina,Central Midfield,CM,9000000.0,Watford FC,England,1500000.0,0
+2020,Serie A,Udinese Calcio,summer,in,Kevin Bonifazi,247377,24,Italy,Centre-Back,CB,4000000.0,SPAL,Italy,1000000.0,1
+2020,Serie A,Udinese Calcio,summer,in,Fernando Forestieri,44948,30,Italy,Second Striker,SS,725000.0,Sheffield Wednesday,England,0.0,0
+2020,Serie A,Udinese Calcio,summer,in,Tolgay Arslan,53536,30,Germany,Attacking Midfield,AM,1000000.0,Fenerbahce,Türkiye,0.0,0
+2020,Serie A,Udinese Calcio,summer,in,Nahuel Molina,424042,22,Argentina,Right-Back,RB,2000000.0,CA Boca Juniors II,Argentina,0.0,0
+2020,Serie A,Udinese Calcio,summer,in,Rolando Mandragora,308279,23,Italy,Defensive Midfield,DM,12000000.0,Juventus FC,Italy,0.0,1
+2020,Serie A,Udinese Calcio,summer,in,Gerard Deulofeu,129476,26,Spain,Centre-Forward,CF,20000000.0,Watford FC,England,0.0,1
+2020,Serie A,Udinese Calcio,summer,in,Ignacio Pussetto,283528,24,Argentina,Centre-Forward,CF,6500000.0,Watford FC,England,0.0,1
+2020,Serie A,Udinese Calcio,summer,in,Thomas Ouwejan,241477,23,Netherlands,Left-Back,LB,2400000.0,AZ Alkmaar,Netherlands,0.0,1
+2020,Serie A,Udinese Calcio,winter,in,Gerard Deulofeu,129476,26,Spain,Centre-Forward,CF,12000000.0,Watford FC,England,17000000.0,0
+2020,Serie A,Udinese Calcio,winter,in,Fernando Llorente,35564,35,Spain,Centre-Forward,CF,1000000.0,SSC Napoli,Italy,500.0,0
+2020,Serie A,Udinese Calcio,winter,in,Jayden Braaf,470391,18,Netherlands,Left Winger,LW,,Manchester City U23,England,0.0,1
+2020,Serie A,Udinese Calcio,summer,out,Rolando Mandragora,308279,23,Italy,Defensive Midfield,DM,12000000.0,Juventus FC,Italy,15000000.0,0
+2020,Serie A,Udinese Calcio,summer,out,Seko Fofana,182893,25,Cote d'Ivoire,Central Midfield,CM,9500000.0,RC Lens,France,8500000.0,0
+2020,Serie A,Udinese Calcio,summer,out,Giuseppe Pezzella,336960,22,Italy,Left-Back,LB,3500000.0,Parma Calcio 1913,Italy,5750000.0,0
+2020,Serie A,Udinese Calcio,summer,out,Emmanuel Badu,108484,29,Ghana,Central Midfield,CM,850000.0,Hellas Verona,Italy,800000.0,0
+2020,Serie A,Udinese Calcio,summer,out,Aly Malle,398809,22,Mali,Right Winger,RW,400000.0,Ascoli Calcio,Italy,500000.0,0
+2020,Serie A,Udinese Calcio,summer,out,Antonín Barák,272261,25,Czech Republic,Attacking Midfield,AM,8000000.0,Hellas Verona,Italy,500000.0,1
+2020,Serie A,Udinese Calcio,summer,out,Andrija Balic,316111,22,Croatia,Central Midfield,CM,900000.0,DAC Dunajska Streda,Slovakia,350000.0,0
+2020,Serie A,Udinese Calcio,summer,out,Marco Ballarini,465279,19,Italy,Right Midfield,RM,50000.0,Piacenza Calcio 1919,Italy,0.0,1
+2020,Serie A,Udinese Calcio,summer,out,William Troost-Ekong,192875,27,Nigeria,Centre-Back,CB,3200000.0,Watford FC,England,,0
+2020,Serie A,Udinese Calcio,summer,out,Francisco Sierralta,371436,23,Chile,Centre-Back,CB,350000.0,Watford FC,England,,0
+2020,Serie A,Udinese Calcio,summer,out,Samuele Perisan,301240,23,Italy,Goalkeeper,GK,150000.0,Pordenone Calcio,Italy,,0
+2020,Serie A,Udinese Calcio,summer,out,Stipe Perica,245072,25,Croatia,Centre-Forward,CF,1400000.0,Watford FC,England,,0
+2020,Serie A,Udinese Calcio,summer,out,Felipe Vizeu,425462,23,Brazil,Centre-Forward,CF,1000000.0,Ceará Sporting Club,Brazil,0.0,1
+2020,Serie A,Udinese Calcio,summer,out,Lukasz Teodorczyk,157849,29,Poland,Centre-Forward,CF,1500000.0,Royal Charleroi SC,Belgium,0.0,1
+2020,Serie A,Udinese Calcio,summer,out,Ryder Matos,62713,27,Brazil,Left Winger,LW,1000000.0,Empoli FC ,Italy,0.0,1
+2020,Serie A,Udinese Calcio,summer,out,Riad Bajic,263267,26,Bosnia-Herzegovina,Centre-Forward,CF,1200000.0,Ascoli Calcio,Italy,0.0,1
+2020,Serie A,Udinese Calcio,summer,out,Svante Ingelsson,321079,22,Sweden,Central Midfield,CM,700000.0,SC Paderborn 07,Germany,0.0,1
+2020,Serie A,Udinese Calcio,summer,out,Federico Ermacora,357999,20,Italy,Left-Back,LB,75000.0,Carrarese Calcio 1908,Italy,0.0,1
+2020,Serie A,Udinese Calcio,summer,out,Emanuele Rovini,197749,25,Italy,Centre-Forward,CF,150000.0,Without Club,,,0
+2020,Serie A,Udinese Calcio,summer,out,Ken Sema,252345,26,Sweden,Left Winger,LW,4800000.0,Watford FC,England,0.0,1
+2020,Serie A,Udinese Calcio,winter,out,Kevin Lasagna,131951,28,Italy,Centre-Forward,CF,7500000.0,Hellas Verona,Italy,150000.0,1
+2020,Serie A,Udinese Calcio,winter,out,Hidde ter Avest,258519,23,Netherlands,Right-Back,RB,1600000.0,FC Utrecht,Netherlands,0.0,0
+2020,Serie A,Udinese Calcio,winter,out,Ewandro Costa,288499,25,Brazil,Attacking Midfield,AM,400000.0,Clube de Regatas Brasil (AL),Brazil,0.0,0
+2020,Serie A,Udinese Calcio,winter,out,Nícolas,99523,32,Brazil,Goalkeeper,GK,350000.0,Reggina 1914,Italy,,0
+2020,Serie A,Udinese Calcio,winter,out,Mamadou Coulibaly,472161,21,Senegal,Central Midfield,CM,1800000.0,US Salernitana 1919,Italy,0.0,1
+2020,Serie A,Udinese Calcio,winter,out,Cristo,339707,23,Spain,Second Striker,SS,2500000.0,CD Mirandés,Spain,0.0,1
+2020,Serie A,Udinese Calcio,winter,out,Rolando Mandragora,308279,23,Italy,Defensive Midfield,DM,12000000.0,Juventus FC,Italy,0.0,1
+2020,Serie A,Udinese Calcio,winter,out,Gerard Deulofeu,129476,26,Spain,Centre-Forward,CF,12000000.0,Watford FC,England,0.0,1

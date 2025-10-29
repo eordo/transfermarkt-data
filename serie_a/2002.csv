@@ -1,0 +1,688 @@
+season,league,club,window,movement,player_name,player_id,age,nationality,position,pos,market_value,dealing_club,dealing_country,fee,is_loan
+2002,Serie A,AC Milan,summer,in,Alessandro Nesta,4171,26,Italy,Centre-Back,CB,,SS Lazio,Italy,31000000.0,0
+2002,Serie A,AC Milan,summer,in,Clarence Seedorf,4168,26,Netherlands,Central Midfield,CM,,Inter Milan,Italy,22500000.0,0
+2002,Serie A,AC Milan,summer,in,Martin Laursen,3503,24,Denmark,Centre-Back,CB,,AC Parma,Italy,11000000.0,0
+2002,Serie A,AC Milan,summer,in,Dario Simic,2540,26,Croatia,Centre-Back,CB,,Inter Milan,Italy,5000000.0,0
+2002,Serie A,AC Milan,summer,in,Samuele Dalla Bona,4291,21,Italy,Central Midfield,CM,700000.0,Chelsea FC,England,1600000.0,0
+2002,Serie A,AC Milan,summer,in,Jon Dahl Tomasson,4169,25,Denmark,Centre-Forward,CF,,Feyenoord Rotterdam,Netherlands,0.0,0
+2002,Serie A,AC Milan,summer,in,Cafu,5937,33,Brazil,Right-Back,RB,,AS Roma,Italy,0.0,0
+2002,Serie A,AC Milan,summer,in,Rivaldo,3372,30,Brazil,Attacking Midfield,AM,,FC Barcelona,Spain,0.0,0
+2002,Serie A,AC Milan,summer,in,Leonardo,102586,33,Brazil,Attacking Midfield,AM,,CR Flamengo,Brazil,0.0,0
+2002,Serie A,AC Milan,summer,out,Francesco Coco,3508,25,Italy,Left-Back,LB,,Inter Milan,Italy,22500000.0,0
+2002,Serie A,AC Milan,summer,out,Javi Moreno,7768,27,Spain,Centre-Forward,CF,,Atlético de Madrid,Spain,13000000.0,0
+2002,Serie A,AC Milan,summer,out,Maurizio Domizzi,6750,22,Italy,Centre-Back,CB,,UC Sampdoria,Italy,5000000.0,0
+2002,Serie A,AC Milan,summer,out,Cosmin Contra,5808,26,Romania,Right-Back,RB,,Atlético de Madrid,Spain,3000000.0,0
+2002,Serie A,AC Milan,summer,out,Ümit Davala,3381,28,Türkiye,Right Midfield,RM,,Inter Milan,Italy,2000000.0,0
+2002,Serie A,AC Milan,summer,out,Fabricio Coloccini,6150,20,Argentina,Centre-Back,CB,,Atlético de Madrid,Spain,100000.0,1
+2002,Serie A,AC Milan,summer,out,Pablo García,7737,25,Uruguay,Defensive Midfield,DM,,CA Osasuna,Spain,0.0,0
+2002,Serie A,AC Milan,summer,out,Mohamed Sarr,19450,18,Senegal,Centre-Back,CB,,Galatasaray,Türkiye,0.0,1
+2002,Serie A,AC Milan,summer,out,José Mari,6194,23,Spain,Centre-Forward,CF,,Atlético de Madrid,Spain,0.0,1
+2002,Serie A,AC Milan,summer,out,Aliyu Datti,13436,20,Nigeria,Centre-Forward,CF,,AC Siena,Italy,,0
+2002,Serie A,AC Milan,summer,out,Daniele Daino,15458,22,Italy,Right-Back,RB,,Ancona Calcio,Italy,,0
+2002,Serie A,AC Milan,summer,out,Vitaliy Kutuzov,6506,22,Belarus,Centre-Forward,CF,,Sporting CP,Portugal,0.0,1
+2002,Serie A,AC Milan,summer,out,Gabriele Aldegani,28828,26,Italy,Goalkeeper,GK,50000.0,AS Livorno,Italy,0.0,1
+2002,Serie A,AC Milan,summer,out,Luca Antonini,6792,19,Italy,Left-Back,LB,,Ancona Calcio,Italy,0.0,1
+2002,Serie A,AC Milan,summer,out,Andrea Rabito,21765,22,Italy,Right Winger,RW,,UC Sampdoria,Italy,0.0,1
+2002,Serie A,AC Milan,summer,out,Cyril Domoraud,6149,30,Cote d'Ivoire,Centre-Back,CB,,RCD Espanyol Barcelona,Spain,0.0,1
+2002,Serie A,AC Milan,summer,out,Marco Donadel,6427,19,Italy,Defensive Midfield,DM,,US Lecce,Italy,0.0,1
+2002,Serie A,AC Milan,summer,out,Demetrio Albertini,3390,30,Italy,Defensive Midfield,DM,,Atlético de Madrid,Spain,0.0,1
+2002,Serie A,AC Milan,summer,out,Mattia Graffiedi,6395,22,Italy,Centre-Forward,CF,,Ancona Calcio,Italy,0.0,1
+2002,Serie A,AC Milan,summer,out,Massimo Donati,5870,21,Italy,Defensive Midfield,DM,,AC Parma,Italy,0.0,1
+2002,Serie A,AC Milan,summer,out,Sebastiano Rossi,106923,37,Italy,Goalkeeper,GK,,Without Club,,,0
+2002,Serie A,AC Milan,summer,out,Martin Laursen,3503,24,Denmark,Centre-Back,CB,,AC Parma,Italy,0.0,1
+2002,Serie A,AC Milan,summer,out,Marco Simone,3524,33,Italy,Second Striker,SS,,AS Monaco,France,0.0,1
+2002,Serie A,AC Milan,winter,out,Leonardo,102586,33,Brazil,Attacking Midfield,AM,,Retired,,0.0,0
+2002,Serie A,AC Milan,winter,out,Marco Borriello,5825,20,Italy,Centre-Forward,CF,,FC Empoli,Italy,0.0,1
+2002,Serie A,AC Milan,winter,out,Massimo Donati,5870,21,Italy,Defensive Midfield,DM,,Torino Calcio,Italy,0.0,1
+2002,Serie A,AC Milan,winter,out,Mohamed Sarr,19450,19,Senegal,Centre-Back,CB,500000.0,Ancona Calcio,Italy,0.0,1
+2002,Serie A,AC Parma,summer,in,Vratislav Gresko,71,24,Slovakia,Left-Back,LB,,Inter Milan,Italy,16000000.0,0
+2002,Serie A,AC Parma,summer,in,Daniele Bonera,5856,21,Italy,Centre-Back,CB,,Brescia Calcio,Italy,15000000.0,0
+2002,Serie A,AC Parma,summer,in,Adriano,5876,20,Brazil,Centre-Forward,CF,,Inter Milan,Italy,14500000.0,0
+2002,Serie A,AC Parma,summer,in,Alberto Gilardino,5878,19,Italy,Centre-Forward,CF,,Hellas Verona,Italy,12000000.0,0
+2002,Serie A,AC Parma,summer,in,Adrian Mutu,5879,23,Romania,Left Winger,LW,,Hellas Verona,Italy,10000000.0,0
+2002,Serie A,AC Parma,summer,in,Sebastiano Siviglia,5864,29,Italy,Centre-Back,CB,,AS Roma,Italy,9000000.0,0
+2002,Serie A,AC Parma,summer,in,Mark Bresciano,5867,22,Australia,Central Midfield,CM,,FC Empoli,Italy,7000000.0,0
+2002,Serie A,AC Parma,summer,in,Matteo Brighi,5868,21,Italy,Central Midfield,CM,,Juventus FC,Italy,5000000.0,0
+2002,Serie A,AC Parma,summer,in,Florian Myrtaj,21870,25,Albania,Centre-Forward,CF,,Teramo Calcio,Italy,800000.0,0
+2002,Serie A,AC Parma,summer,in,Christian Terlizzi,20941,22,Italy,Centre-Back,CB,,Teramo Calcio,Italy,550000.0,0
+2002,Serie A,AC Parma,summer,in,Gabriel Oyola,5863,19,Argentina,Centre-Back,CB,,CA Talleres,Argentina,,0
+2002,Serie A,AC Parma,summer,in,Aimo Diana,6749,24,Italy,Right Midfield,RM,,Brescia Calcio,Italy,,0
+2002,Serie A,AC Parma,summer,in,Matuzalém,5974,22,Brazil,Defensive Midfield,DM,,Piacenza FC,Italy,,0
+2002,Serie A,AC Parma,summer,in,Emanuele Filippini,5871,29,Italy,Central Midfield,CM,,Brescia Calcio,Italy,,0
+2002,Serie A,AC Parma,summer,in,Roberto Massaro,5874,18,Italy,Left Winger,LW,,Florentia Viola,Italy,,0
+2002,Serie A,AC Parma,summer,in,Alex Gibbs,16894,18,Italy,Centre-Forward,CF,,Calcio Monza,Italy,,0
+2002,Serie A,AC Parma,summer,in,Massimo Donati,5870,21,Italy,Defensive Midfield,DM,,AC Milan,Italy,0.0,1
+2002,Serie A,AC Parma,winter,in,Alessandro Pierini,6067,29,Italy,Centre-Back,CB,,Reggina Calcio,Italy,,0
+2002,Serie A,AC Parma,winter,in,Giuseppe Cardone,16811,28,Italy,Right-Back,RB,,Piacenza FC,Italy,,0
+2002,Serie A,AC Parma,winter,in,Johnnier Montaño,84326,19,Colombia,Attacking Midfield,AM,,Piacenza FC,Italy,,0
+2002,Serie A,AC Parma,summer,out,Fabio Cannavaro,5775,28,Italy,Centre-Back,CB,,Inter Milan,Italy,23000000.0,0
+2002,Serie A,AC Parma,summer,out,Matías Almeyda,5792,28,Argentina,Defensive Midfield,DM,,Inter Milan,Italy,22100000.0,0
+2002,Serie A,AC Parma,summer,out,Martin Laursen,3503,24,Denmark,Centre-Back,CB,,AC Milan,Italy,11000000.0,0
+2002,Serie A,AC Parma,summer,out,Luigi Sartor,5941,27,Italy,Right-Back,RB,,AS Roma,Italy,9500000.0,0
+2002,Serie A,AC Parma,summer,out,Marco Di Vaio,4170,26,Italy,Centre-Forward,CF,,Juventus FC,Italy,7000000.0,1
+2002,Serie A,AC Parma,summer,out,Stephen Appiah,5975,21,Ghana,Defensive Midfield,DM,1000000.0,Brescia Calcio,Italy,4550000.0,0
+2002,Serie A,AC Parma,summer,out,Savo Milosevic,7896,28,Serbia,Centre-Forward,CF,,RCD Espanyol Barcelona,Spain,3000000.0,1
+2002,Serie A,AC Parma,summer,out,Roberto Sensini,5882,35,Argentina,Centre-Back,CB,,Udinese Calcio,Italy,0.0,0
+2002,Serie A,AC Parma,summer,out,Johan Micoud,2713,29,France,Attacking Midfield,AM,,SV Werder Bremen,Germany,0.0,0
+2002,Serie A,AC Parma,summer,out,Martin Djetou,3725,27,France,Centre-Back,CB,,Fulham FC,England,0.0,1
+2002,Serie A,AC Parma,summer,out,Zlatko Zebić,579859,23,Jugoslawien (SFR),Attacking Midfield,AM,,1.FC Kosice (1951 - 2004),Slovakia,,0
+2002,Serie A,AC Parma,summer,out,Johnnier Montaño,84326,19,Colombia,Attacking Midfield,AM,,Piacenza FC,Italy,,0
+2002,Serie A,AC Parma,summer,out,Florian Myrtaj,21870,25,Albania,Centre-Forward,CF,,AC Cesena,Italy,,0
+2002,Serie A,AC Parma,summer,out,Christian Terlizzi,20941,22,Italy,Centre-Back,CB,,AC Cesena,Italy,,0
+2002,Serie A,AC Parma,summer,out,Jonathan Bachini,5972,27,Italy,Left Midfield,LM,,Brescia Calcio,Italy,,0
+2002,Serie A,AC Parma,summer,out,Gabriele Giaroli,566044,21,Italy,Goalkeeper,GK,,US Sassuolo,Italy,,0
+2002,Serie A,AC Parma,summer,out,Alain Boghossian,4148,31,France,Central Midfield,CM,,RCD Espanyol Barcelona,Spain,,0
+2002,Serie A,AC Parma,summer,out,Gianluca De Angelis,21993,21,Italy,Centre-Forward,CF,,Hellas Verona,Italy,,0
+2002,Serie A,AC Parma,summer,out,Matuzalém,5974,22,Brazil,Defensive Midfield,DM,,Brescia Calcio,Italy,,0
+2002,Serie A,AC Parma,summer,out,Andrea Staffolani,82742,19,Italy,Centre-Forward,CF,,Vis Pesaro 1898,Italy,0.0,1
+2002,Serie A,AC Parma,summer,out,Sergey Gurenko,9627,29,Belarus,Right-Back,RB,,Piacenza FC,Italy,0.0,1
+2002,Serie A,AC Parma,summer,out,Gianluca Falsini,6063,26,Italy,Left-Back,LB,300000.0,Reggina Calcio,Italy,0.0,1
+2002,Serie A,AC Parma,summer,out,Giampiero Maini,16851,30,Italy,Central Midfield,CM,,Ancona Calcio,Italy,0.0,1
+2002,Serie A,AC Parma,summer,out,Jorge Bolaño,16974,25,Colombia,Central Midfield,CM,,UC Sampdoria,Italy,0.0,1
+2002,Serie A,AC Parma,summer,out,Francesco Ruopolo,25325,19,Italy,Centre-Forward,CF,,Pro Patria Gallaratese GB,Italy,0.0,1
+2002,Serie A,AC Parma,summer,out,Paolo Poggi,7432,31,Italy,Centre-Forward,CF,,AC Venezia 1907,Italy,0.0,1
+2002,Serie A,AC Parma,summer,out,Gaetano Grieco,6032,19,Italy,Second Striker,SS,,FC Empoli,Italy,0.0,1
+2002,Serie A,AC Parma,summer,out,Hakan Şükür,3363,30,Türkiye,Centre-Forward,CF,,Without Club,,,0
+2002,Serie A,AC Parma,summer,out,Aimo Diana,6749,24,Italy,Right Midfield,RM,,Brescia Calcio,Italy,0.0,1
+2002,Serie A,AC Parma,winter,out,Vratislav Gresko,71,25,Slovakia,Left-Back,LB,,Blackburn Rovers,England,0.0,1
+2002,Serie A,AC Parma,winter,out,Aimo Diana,6749,25,Italy,Right Midfield,RM,,Reggina Calcio,Italy,0.0,1
+2002,Serie A,AC Parma,winter,out,Stefano Torrisi,5865,31,Italy,Centre-Back,CB,,Reggina Calcio,Italy,0.0,1
+2002,Serie A,AC Parma,winter,out,Marco Marchionni,5873,22,Italy,Right Midfield,RM,,Piacenza FC,Italy,0.0,1
+2002,Serie A,AC Parma,winter,out,Sebastiano Siviglia,5864,29,Italy,Centre-Back,CB,,Atalanta BC,Italy,0.0,1
+2002,Serie A,AC Parma,winter,out,Emiliano Bonazzoli,5877,24,Italy,Centre-Forward,CF,,Reggina Calcio,Italy,0.0,1
+2002,Serie A,AC Parma,winter,out,Massimo Donati,5870,21,Italy,Defensive Midfield,DM,,AC Milan,Italy,0.0,1
+2002,Serie A,AC Perugia,summer,in,Konstantinos Louboutis,22808,23,Greece,Left-Back,LB,,Aris Thessaloniki,Greece,0.0,0
+2002,Serie A,AC Perugia,summer,in,Paolo Zaccagnini,497467,25,Italy,Right Midfield,RM,,Chieti Calcio,Italy,,0
+2002,Serie A,AC Perugia,summer,in,Lorenzo Crocetti,143995,18,Italy,Centre-Forward,CF,,Fiorentina Primavera,Italy,,0
+2002,Serie A,AC Perugia,summer,in,Giovanni Sulcis,151892,27,Italy,Midfielder,Midfielder,,Cagliari Calcio,Italy,,0
+2002,Serie A,AC Perugia,summer,in,Antonio Criniti,6099,31,Italy,Second Striker,SS,,US Sambenedettese,Italy,,0
+2002,Serie A,AC Perugia,summer,in,Giorgio Cini,56900,23,Italy,Midfielder,Midfielder,,AS Ostiamare Lido Calcio,Italy,,0
+2002,Serie A,AC Perugia,summer,in,Massimo Demartis,22315,27,Italy,Centre-Back,CB,,Calcio Catania,Italy,,0
+2002,Serie A,AC Perugia,summer,in,Giuseppe Aprea,8192,25,Italy,Goalkeeper,GK,,Fermana Calcio 1920,Italy,,0
+2002,Serie A,AC Perugia,summer,in,Emanuele Berrettoni,6094,21,Italy,Second Striker,SS,,Lazio U19,Italy,,0
+2002,Serie A,AC Perugia,summer,in,Zeljko Kalac,6079,29,Australia,Goalkeeper,GK,,Roda JC Kerkrade,Netherlands,,0
+2002,Serie A,AC Perugia,summer,in,Nicola Amoruso,4150,27,Italy,Centre-Forward,CF,,Juventus FC,Italy,,0
+2002,Serie A,AC Perugia,summer,in,Manuele Blasi,6090,21,Italy,Central Midfield,CM,,Juventus FC,Italy,0.0,1
+2002,Serie A,AC Perugia,summer,in,Fabrizio Miccoli,6097,23,Italy,Centre-Forward,CF,,Juventus FC,Italy,0.0,1
+2002,Serie A,AC Perugia,summer,in,Luigi Pagliuca,21998,23,Italy,Right Winger,RW,,AC Prato,Italy,0.0,1
+2002,Serie A,AC Perugia,summer,in,Cyril Gona,16895,17,Nigeria,Midfielder,Midfielder,,Brescia Youth,Italy,0.0,1
+2002,Serie A,AC Perugia,summer,in,Roberto Baronio,6089,24,Italy,Defensive Midfield,DM,,SS Lazio,Italy,0.0,1
+2002,Serie A,AC Perugia,summer,in,Andrea Caracciolo,6098,20,Italy,Centre-Forward,CF,,Brescia Calcio,Italy,0.0,1
+2002,Serie A,AC Perugia,summer,in,William Viali,6082,27,Italy,Centre-Back,CB,,US Palermo,Italy,0.0,1
+2002,Serie A,AC Perugia,summer,in,Sebastiano Rossi,106923,38,Italy,Goalkeeper,GK,,Without Club,,,0
+2002,Serie A,AC Perugia,winter,in,Tiago Calvano,32479,21,Brazil,Centre-Back,CB,,Botafogo de Futebol e Regatas,Brazil,,0
+2002,Serie A,AC Perugia,summer,out,Manuele Blasi,6090,21,Italy,Central Midfield,CM,,Juventus FC,Italy,17700000.0,0
+2002,Serie A,AC Perugia,summer,out,Davide Baiocco,5761,27,Italy,Defensive Midfield,DM,,Juventus FC,Italy,7200000.0,0
+2002,Serie A,AC Perugia,summer,out,Fabián O'Neill,130290,28,Uruguay,Attacking Midfield,AM,,Cagliari Calcio,Italy,0.0,0
+2002,Serie A,AC Perugia,summer,out,Traianos Dellas,5944,26,Greece,Centre-Back,CB,,AS Roma,Italy,0.0,0
+2002,Serie A,AC Perugia,summer,out,Andrea Mazzantini,192722,33,Italy,Goalkeeper,GK,,AC Siena,Italy,0.0,0
+2002,Serie A,AC Perugia,summer,out,Giovanni Proietti,23294,25,Italy,Goalkeeper,GK,,AC Arezzo,Italy,0.0,0
+2002,Serie A,AC Perugia,summer,out,Nicolás Cinalli,22135,22,Argentina,Goalkeeper,GK,,Varese FC,Italy,,0
+2002,Serie A,AC Perugia,summer,out,Denis André Dasoul,13922,18,Belgium,Right-Back,RB,,KRC Genk,Belgium,,0
+2002,Serie A,AC Perugia,summer,out,Claudio Paris,192776,29,Argentina,Defensive Midfield,DM,,Racing Club,Argentina,,0
+2002,Serie A,AC Perugia,summer,out,Salvatore Monaco,22086,29,Italy,Centre-Back,CB,,Calcio Catania,Italy,,0
+2002,Serie A,AC Perugia,summer,out,Gianluca Petrachi,227503,33,Italy,Right Midfield,RM,,Taranto SS,Italy,,0
+2002,Serie A,AC Perugia,summer,out,Nicolás Córdova,21230,23,Chile,Central Midfield,CM,,AS Bari,Italy,,0
+2002,Serie A,AC Perugia,summer,out,Andrea Soncin,406304,18,Italy,Centre-Back,CB,,Torino Calcio,Italy,,0
+2002,Serie A,AC Perugia,summer,out,Fabian Jacquemin,780011,21,Belgium,Midfielder,Midfielder,,Fermana Calcio 1920,Italy,,0
+2002,Serie A,AC Perugia,summer,out,Massimo Demartis,22315,27,Italy,Centre-Back,CB,,Calcio Catania,Italy,,0
+2002,Serie A,AC Perugia,summer,out,Giorgio Cini,56900,23,Italy,Midfielder,Midfielder,,L'Aquila 1927,Italy,,0
+2002,Serie A,AC Perugia,summer,out,Hilário Leal,195579,28,Portugal,Right-Back,RB,,FC Maia,Portugal,0.0,1
+2002,Serie A,AC Perugia,summer,out,Gennaro Delvecchio,22080,24,Italy,Central Midfield,CM,,US Sambenedettese,Italy,0.0,1
+2002,Serie A,AC Perugia,summer,out,Juan Martín Turchi,102399,26,Argentina,Centre-Forward,CF,,US Sambenedettese,Italy,0.0,1
+2002,Serie A,AC Perugia,summer,out,Fabio Gatti,22804,20,Italy,Defensive Midfield,DM,,Calcio Catania,Italy,0.0,1
+2002,Serie A,AC Perugia,summer,out,Daniele Cacciaglia,22592,20,Italy,Central Midfield,CM,,Sora Calcio 1907,Italy,0.0,1
+2002,Serie A,AC Perugia,summer,out,Daniele Daino,15458,22,Italy,Right-Back,RB,,AC Milan,Italy,0.0,1
+2002,Serie A,AC Perugia,summer,out,Óscar Córdoba,6862,32,Colombia,Goalkeeper,GK,,CA Boca Juniors,Argentina,0.0,1
+2002,Serie A,AC Perugia,summer,out,Jung-hwan Ahn,3489,26,"Korea, South",Second Striker,SS,,Busan I'Cons,"Korea, South",0.0,1
+2002,Serie A,AC Perugia,summer,out,Roberto Goretti,6002,26,Italy,Defensive Midfield,DM,,Bologna FC 1909,Italy,0.0,1
+2002,Serie A,AC Perugia,summer,out,Ali Samereh,24681,24,Iran,Centre-Forward,CF,,Esteghlal FC,Iran,0.0,1
+2002,Serie A,AC Perugia,summer,out,Fabio Bazzani,9089,25,Italy,Centre-Forward,CF,,AC Venezia 1907,Italy,0.0,1
+2002,Serie A,AC Perugia,winter,out,Silvio Spann,35845,21,Trinidad and Tobago,Defensive Midfield,DM,,US Sambenedettese,Italy,0.0,0
+2002,Serie A,AC Perugia,winter,out,Donovan Maury,102538,21,Belgium,Centre-Back,CB,,Roda JC Kerkrade,Netherlands,0.0,0
+2002,Serie A,AC Perugia,winter,out,Antonio Criniti,6099,32,Italy,Second Striker,SS,,US Sambenedettese,Italy,,0
+2002,Serie A,AC Perugia,winter,out,Samuel,192990,28,Brazil,Centre-Back,CB,,Criciúma EC,Brazil,,0
+2002,Serie A,AC Perugia,winter,out,Paolo Zaccagnini,497467,25,Italy,Right Midfield,RM,,Sora Calcio 1907,Italy,,0
+2002,Serie A,AC Perugia,winter,out,Nicola Amoruso,4150,28,Italy,Centre-Forward,CF,,Como Calcio,Italy,0.0,1
+2002,Serie A,AC Perugia,winter,out,Giuseppe Aprea,8192,25,Italy,Goalkeeper,GK,,Sora Calcio 1907,Italy,0.0,1
+2002,Serie A,AS Roma,summer,in,Davide Bombardini,5956,28,Italy,Left Midfield,LM,,US Palermo,Italy,11000000.0,0
+2002,Serie A,AS Roma,summer,in,Christian Panucci,5940,29,Italy,Right-Back,RB,,AS Monaco,France,9810000.0,0
+2002,Serie A,AS Roma,summer,in,Luigi Sartor,5941,27,Italy,Right-Back,RB,,AC Parma,Italy,9500000.0,0
+2002,Serie A,AS Roma,summer,in,Cristian Ranalli,285828,23,Italy,Striker,Striker,,SS Lanciano,Italy,250000.0,0
+2002,Serie A,AS Roma,summer,in,Traianos Dellas,5944,26,Greece,Centre-Back,CB,,AC Perugia,Italy,0.0,0
+2002,Serie A,AS Roma,summer,in,Pep Guardiola,5950,31,Spain,Defensive Midfield,DM,,Brescia Calcio,Italy,0.0,0
+2002,Serie A,AS Roma,summer,in,Mancini,15291,22,Brazil,Left Winger,LW,,AC Venezia 1907,Italy,,0
+2002,Serie A,AS Roma,winter,in,Mancini,15291,22,Brazil,Left Winger,LW,,Clube Atlético Mineiro,Brazil,0.0,0
+2002,Serie A,AS Roma,winter,in,Olivier Dacourt,3572,28,France,Defensive Midfield,DM,2000000.0,Leeds United,England,0.0,1
+2002,Serie A,AS Roma,winter,in,Massimo Marazzina,5930,28,Italy,Centre-Forward,CF,,Chievo Verona,Italy,0.0,1
+2002,Serie A,AS Roma,summer,out,Sebastiano Siviglia,5864,29,Italy,Centre-Back,CB,,AC Parma,Italy,9000000.0,0
+2002,Serie A,AS Roma,summer,out,Marcos Assunção,7654,25,Brazil,Central Midfield,CM,,Real Betis Balompié,Spain,7000000.0,0
+2002,Serie A,AS Roma,summer,out,Franco Brienza,16137,23,Italy,Attacking Midfield,AM,,US Palermo,Italy,5500000.0,0
+2002,Serie A,AS Roma,summer,out,Marco Amelia,16810,20,Italy,Goalkeeper,GK,,AS Livorno,Italy,2800000.0,0
+2002,Serie A,AS Roma,summer,out,Antônio Carlos Zago,6913,33,Brazil,Centre-Back,CB,,Besiktas JK,Türkiye,0.0,0
+2002,Serie A,AS Roma,summer,out,Cafu,5937,33,Brazil,Right-Back,RB,,AC Milan,Italy,0.0,0
+2002,Serie A,AS Roma,summer,out,Sebastián Cejas,21146,27,Argentina,Goalkeeper,GK,,Ascoli Calcio 1898,Italy,,0
+2002,Serie A,AS Roma,summer,out,Gustavo Vassallo,20326,23,Peru,Centre-Forward,CF,,CD Alcalá,Spain,,0
+2002,Serie A,AS Roma,summer,out,Cesare Bovo,5946,19,Italy,Centre-Back,CB,,US Lecce,Italy,,0
+2002,Serie A,AS Roma,summer,out,Cristian Ranalli,285828,23,Italy,Striker,Striker,,Cagliari Calcio,Italy,,0
+2002,Serie A,AS Roma,summer,out,Daniele De Vezze,21147,22,Italy,Central Midfield,CM,,AC Reggiana 1919,Italy,0.0,1
+2002,Serie A,AS Roma,summer,out,Alessandro Tulli,21962,20,Italy,Centre-Forward,CF,,AS Livorno,Italy,0.0,1
+2002,Serie A,AS Roma,summer,out,Massimo Bonanni,22188,20,Italy,Left Midfield,LM,,Panachaiki GE,Greece,0.0,1
+2002,Serie A,AS Roma,summer,out,Christian Panucci,5940,29,Italy,Right-Back,RB,,AS Monaco,France,0.0,1
+2002,Serie A,AS Roma,winter,out,Fábio Júnior,37499,25,Brazil,Centre-Forward,CF,,Vitória Guimarães SC,Portugal,800000.0,0
+2002,Serie A,AS Roma,winter,out,Pep Guardiola,5950,32,Spain,Defensive Midfield,DM,,Brescia Calcio,Italy,650000.0,0
+2002,Serie A,AS Roma,winter,out,Gabriel Batistuta,5959,33,Argentina,Centre-Forward,CF,,Inter Milan,Italy,0.0,1
+2002,Serie A,AS Roma,winter,out,Ivan Tomic,5955,27,Serbia,Defensive Midfield,DM,,Deportivo Alavés,Spain,0.0,1
+2002,Serie A,AS Roma,winter,out,Mancini,15291,22,Brazil,Left Winger,LW,,AC Venezia 1907,Italy,0.0,1
+2002,Serie A,Atalanta BC,summer,in,Carmine Gautieri,19440,31,Italy,Right Winger,RW,,Piacenza FC,Italy,0.0,0
+2002,Serie A,Atalanta BC,summer,in,Apostolos Liolidis,12870,24,Greece,Right Winger,RW,,Aris Thessaloniki,Greece,0.0,0
+2002,Serie A,Atalanta BC,summer,in,Ivan Javorcic,23227,23,Croatia,Defensive Midfield,DM,,Treviso FBC 1993,Italy,,0
+2002,Serie A,Atalanta BC,summer,in,Danilo Zini,84575,24,Italy,Centre-Back,CB,,AC Pistoiese,Italy,,0
+2002,Serie A,Atalanta BC,summer,in,Santos,19439,20,Brazil,Centre-Back,CB,,Comercial Futebol Clube (SP),Brazil,0.0,1
+2002,Serie A,Atalanta BC,winter,in,Davor Vugrinec,15328,27,Croatia,Centre-Forward,CF,,US Lecce,Italy,200000.0,0
+2002,Serie A,Atalanta BC,winter,in,Natale Gonnella,19441,26,Italy,Centre-Back,CB,,Hellas Verona,Italy,,0
+2002,Serie A,Atalanta BC,winter,in,Paolo Tramezzani,6406,32,Italy,Left-Back,LB,,Piacenza FC,Italy,0.0,1
+2002,Serie A,Atalanta BC,winter,in,Sebastiano Siviglia,5864,29,Italy,Centre-Back,CB,,AC Parma,Italy,0.0,1
+2002,Serie A,Atalanta BC,summer,out,Corrado Colombo,21231,22,Italy,Centre-Forward,CF,,UC Sampdoria,Italy,2710000.0,0
+2002,Serie A,Atalanta BC,summer,out,Luca Saudati,6029,24,Italy,Centre-Forward,CF,,FC Empoli,Italy,1000000.0,1
+2002,Serie A,Atalanta BC,summer,out,Massimo Paganin,22207,31,Italy,Centre-Back,CB,,UC Sampdoria,Italy,0.0,0
+2002,Serie A,Atalanta BC,summer,out,Davide Pinato,120533,38,Italy,Goalkeeper,GK,,UC Sampdoria,Italy,0.0,0
+2002,Serie A,Atalanta BC,summer,out,Ljubisa Dundjerski,28677,30,Serbia,Central Midfield,CM,,Treviso FBC 1993,Italy,,0
+2002,Serie A,Atalanta BC,summer,out,Joelson,23233,18,Brazil,Right Winger,RW,,AC Pavia,Italy,,0
+2002,Serie A,Atalanta BC,summer,out,Pierluigi Orlandini,160215,29,Italy,Right Midfield,RM,,Brindisi Calcio,Italy,,0
+2002,Serie A,Atalanta BC,summer,out,Biagio Pagano,16899,19,Italy,Right Winger,RW,,AC Lumezzane,Italy,0.0,1
+2002,Serie A,Atalanta BC,summer,out,Nicholas Caglioni,28010,19,Italy,Goalkeeper,GK,,Uso Calcio,Italy,0.0,1
+2002,Serie A,Atalanta BC,summer,out,Luca Cavalli,192781,24,Italy,Central Midfield,CM,,Retired,,,0
+2002,Serie A,Atalanta BC,summer,out,Gianluca Falsini,6063,26,Italy,Left-Back,LB,,AC Parma,Italy,0.0,1
+2002,Serie A,Atalanta BC,winter,out,Vinicio Espinal,22239,20,Dominican Republic,Right Midfield,RM,,Taranto SS,Italy,0.0,0
+2002,Serie A,Atalanta BC,winter,out,Apostolos Liolidis,12870,25,Greece,Right Winger,RW,,Alzano Virescit,Italy,0.0,1
+2002,Serie A,Atalanta BC,winter,out,Yuri Breviario,37396,19,Italy,Central Midfield,CM,,AC Prato,Italy,,0
+2002,Serie A,Atalanta BC,winter,out,Fabiano Medina,58452,20,Brazil,Centre-Back,CB,,Alzano Virescit,Italy,,0
+2002,Serie A,Atalanta BC,winter,out,Danilo Zini,84575,24,Italy,Centre-Back,CB,,Ascoli Calcio 1898,Italy,,0
+2002,Serie A,Atalanta BC,winter,out,Mauro Minelli,21693,21,Italy,Centre-Back,CB,,Hellas Verona,Italy,0.0,1
+2002,Serie A,Atalanta BC,winter,out,Alessandro Rinaldi,147455,28,Italy,Right-Back,RB,,Piacenza FC,Italy,0.0,1
+2002,Serie A,Atalanta BC,winter,out,Federico Pettinà,315487,20,Italy,Midfielder,Midfielder,,Fermana Calcio 1920,Italy,0.0,1
+2002,Serie A,Bologna FC 1909,summer,in,Alessandro Gamberini,16868,20,Italy,Centre-Back,CB,,Juventus FC,Italy,0.0,0
+2002,Serie A,Bologna FC 1909,summer,in,Christian Amoroso,5995,25,Italy,Central Midfield,CM,,Florentia Viola,Italy,0.0,0
+2002,Serie A,Bologna FC 1909,summer,in,Andrea Pansera,5987,22,Italy,Goalkeeper,GK,,UC AlbinoLeffe,Italy,,0
+2002,Serie A,Bologna FC 1909,summer,in,Michele Paramatti,5990,34,Italy,Left-Back,LB,,Juventus FC,Italy,,0
+2002,Serie A,Bologna FC 1909,summer,in,Leonardo Colucci,6000,29,Italy,Central Midfield,CM,,Hellas Verona,Italy,,0
+2002,Serie A,Bologna FC 1909,summer,in,Andrea Ardito,15332,25,Italy,Defensive Midfield,DM,,Como Calcio,Italy,,0
+2002,Serie A,Bologna FC 1909,summer,in,Marco Zanchi,5991,25,Italy,Centre-Back,CB,,Juventus FC,Italy,,0
+2002,Serie A,Bologna FC 1909,summer,in,Alessandro Frara,6004,19,Italy,Defensive Midfield,DM,,Juventus FC,Italy,0.0,1
+2002,Serie A,Bologna FC 1909,summer,in,Emiliano Salvetti,6001,28,Italy,Attacking Midfield,AM,,Hellas Verona,Italy,0.0,1
+2002,Serie A,Bologna FC 1909,summer,in,Paolo Vanoli,4290,30,Italy,Left-Back,LB,,Without Club,,,0
+2002,Serie A,Bologna FC 1909,winter,in,Steve Gohouri,19857,21,Cote d'Ivoire,Centre-Back,CB,,Yverdon Sport FC,Switzerland,0.0,1
+2002,Serie A,Bologna FC 1909,summer,out,Björn Runström,3454,18,Sweden,Centre-Forward,CF,150000.0,Chievo Verona,Italy,500000.0,0
+2002,Serie A,Bologna FC 1909,summer,out,Pierre Womé,3329,23,Cameroon,Left-Back,LB,1500000.0,Fulham FC,England,0.0,1
+2002,Serie A,Bologna FC 1909,summer,out,Massimo Tarantino,28873,31,Italy,Left-Back,LB,,Como Calcio,Italy,,0
+2002,Serie A,Bologna FC 1909,summer,out,Lamberto Zauli,6396,31,Italy,Attacking Midfield,AM,,US Palermo,Italy,,0
+2002,Serie A,Bologna FC 1909,summer,out,Salvatore Fresi,5754,29,Italy,Centre-Back,CB,,Juventus FC,Italy,,0
+2002,Serie A,Bologna FC 1909,summer,out,Andrea Ardito,15332,25,Italy,Defensive Midfield,DM,75000.0,AC Siena,Italy,0.0,1
+2002,Serie A,Bologna FC 1909,summer,out,Gennaro Fragiello,28017,18,Italy,Centre-Forward,CF,,AC Fanfulla 1874,Italy,0.0,1
+2002,Serie A,Bologna FC 1909,summer,out,Alessandro Gamberini,16868,21,Italy,Centre-Back,CB,,Hellas Verona,Italy,0.0,1
+2002,Serie A,Bologna FC 1909,summer,out,Fabio Pecchia,16871,28,Italy,Central Midfield,CM,,Como Calcio,Italy,0.0,1
+2002,Serie A,Bologna FC 1909,summer,out,Matteo Brighi,5868,21,Italy,Central Midfield,CM,,Juventus FC,Italy,0.0,1
+2002,Serie A,Bologna FC 1909,summer,out,Fabio Firmani,22083,24,Italy,Central Midfield,CM,,Chievo Verona,Italy,0.0,1
+2002,Serie A,Bologna FC 1909,summer,out,Alessandro Gamberini,16868,20,Italy,Centre-Back,CB,,Juventus FC,Italy,0.0,1
+2002,Serie A,Bologna FC 1909,winter,out,Roberto Goretti,6002,26,Italy,Defensive Midfield,DM,,AC Reggiana 1919,Italy,0.0,0
+2002,Serie A,Bologna FC 1909,winter,out,Emanuele Brioschi,5992,27,Italy,Centre-Back,CB,100000.0,Cosenza Calcio 1914,Italy,,0
+2002,Serie A,Bologna FC 1909,winter,out,Fabio Macellari,5999,28,Italy,Left-Back,LB,,Cagliari Calcio,Italy,,0
+2002,Serie A,Brescia Calcio,summer,in,Stephen Appiah,5975,21,Ghana,Defensive Midfield,DM,1000000.0,AC Parma,Italy,4550000.0,0
+2002,Serie A,Brescia Calcio,summer,in,Anthony Seric,5967,23,Croatia,Left-Back,LB,,Hellas Verona,Italy,0.0,1
+2002,Serie A,Brescia Calcio,summer,in,Marius Stankevicius,5966,20,Lithuania,Centre-Back,CB,,FK Ekranas Panevezys (- 2014),Lithuania,,0
+2002,Serie A,Brescia Calcio,summer,in,Matuzalém,5974,22,Brazil,Defensive Midfield,DM,,AC Parma,Italy,,0
+2002,Serie A,Brescia Calcio,summer,in,Jonathan Bachini,5972,27,Italy,Left Midfield,LM,,AC Parma,Italy,,0
+2002,Serie A,Brescia Calcio,summer,in,Gilberto Martínez,5969,22,Costa Rica,Centre-Back,CB,,Deportivo Saprissa,Costa Rica,,0
+2002,Serie A,Brescia Calcio,summer,in,Marco Pisano,16901,20,Italy,Left-Back,LB,,Taranto SS,Italy,,0
+2002,Serie A,Brescia Calcio,summer,in,Davide Micillo,5965,31,Italy,Goalkeeper,GK,,Cosenza Calcio 1914,Italy,,0
+2002,Serie A,Brescia Calcio,summer,in,Matteo Sereni,5964,27,Italy,Goalkeeper,GK,3900000.0,Ipswich Town,England,0.0,1
+2002,Serie A,Brescia Calcio,winter,in,Pep Guardiola,5950,32,Spain,Defensive Midfield,DM,,AS Roma,Italy,650000.0,0
+2002,Serie A,Brescia Calcio,winter,in,Fábio Bilica,15454,23,Brazil,Centre-Back,CB,,US Palermo,Italy,,0
+2002,Serie A,Brescia Calcio,summer,out,Daniele Bonera,5856,21,Italy,Centre-Back,CB,,AC Parma,Italy,15000000.0,0
+2002,Serie A,Brescia Calcio,summer,out,Pep Guardiola,5950,31,Spain,Defensive Midfield,DM,,AS Roma,Italy,0.0,0
+2002,Serie A,Brescia Calcio,summer,out,Sandro Grande,34472,24,Canada,Defensive Midfield,DM,,Potenza Sport Club,Italy,0.0,0
+2002,Serie A,Brescia Calcio,summer,out,Stefano Brognoli,139610,19,Italy,Central Midfield,CM,,Varese FC,Italy,0.0,0
+2002,Serie A,Brescia Calcio,summer,out,Alessandro Calori,21831,35,Italy,Centre-Back,CB,,AC Venezia 1907,Italy,,0
+2002,Serie A,Brescia Calcio,summer,out,Stefano Tignonsini,148885,20,Italy,Centre-Back,CB,,AC Palazzolo,Italy,,0
+2002,Serie A,Brescia Calcio,summer,out,Mauro Bacchin,226400,32,Italy,Goalkeeper,GK,,ASG Nocerina,Italy,,0
+2002,Serie A,Brescia Calcio,summer,out,Andrea Sussi,12565,28,Italy,Left-Back,LB,,Ternana Calcio,Italy,,0
+2002,Serie A,Brescia Calcio,summer,out,Matteo Tacchini,321840,21,Italy,Midfielder,Midfielder,,US Sassuolo,Italy,,0
+2002,Serie A,Brescia Calcio,summer,out,Angelo Danotti,83375,22,Italy,Left-Back,LB,,ASD Acireale Calcio,Italy,,0
+2002,Serie A,Brescia Calcio,summer,out,Aimo Diana,6749,24,Italy,Right Midfield,RM,,AC Parma,Italy,,0
+2002,Serie A,Brescia Calcio,summer,out,Ermanno Leoni,338954,21,Italy,Midfielder,Midfielder,,US Sassuolo,Italy,,0
+2002,Serie A,Brescia Calcio,summer,out,Amedeo Mangone,21793,33,Italy,Centre-Back,CB,,Piacenza FC,Italy,,0
+2002,Serie A,Brescia Calcio,summer,out,Emanuele Filippini,5871,29,Italy,Central Midfield,CM,,AC Parma,Italy,,0
+2002,Serie A,Brescia Calcio,summer,out,Andrés Yllana,30792,28,Argentina,Central Midfield,CM,,Hellas Verona,Italy,0.0,1
+2002,Serie A,Brescia Calcio,summer,out,Raúl González,30922,26,Argentina,Centre-Forward,CF,,FC Crotone,Italy,0.0,1
+2002,Serie A,Brescia Calcio,summer,out,Federico Agliardi,16888,19,Italy,Goalkeeper,GK,,Cosenza Calcio 1914,Italy,0.0,1
+2002,Serie A,Brescia Calcio,summer,out,Mario Salgado,5984,21,Chile,Centre-Forward,CF,,Hellas Verona,Italy,0.0,1
+2002,Serie A,Brescia Calcio,summer,out,Andrea Caracciolo,6098,20,Italy,Centre-Forward,CF,,AC Perugia,Italy,0.0,1
+2002,Serie A,Brescia Calcio,summer,out,Luca Castellazzi,6058,27,Italy,Goalkeeper,GK,,Reggina Calcio,Italy,0.0,1
+2002,Serie A,Brescia Calcio,summer,out,Jonathan Bachini,5972,27,Italy,Left Midfield,LM,,AC Parma,Italy,0.0,1
+2002,Serie A,Brescia Calcio,summer,out,Jonatan Binotto,28009,27,Italy,Right Winger,RW,,Inter Milan,Italy,0.0,1
+2002,Serie A,Brescia Calcio,winter,out,Federico Giunti,6874,31,Italy,Defensive Midfield,DM,,Besiktas JK,Türkiye,2500000.0,0
+2002,Serie A,Brescia Calcio,winter,out,Marius Stankevicius,5966,21,Lithuania,Centre-Back,CB,,Cosenza Calcio 1914,Italy,0.0,1
+2002,Serie A,Brescia Calcio,winter,out,Massimiliano Esposito,21817,30,Italy,Right Winger,RW,,Ternana Calcio,Italy,,0
+2002,Serie A,Brescia Calcio,winter,out,Simone Dallamano,21684,19,Italy,Left-Back,LB,,AC Prato,Italy,,0
+2002,Serie A,Brescia Calcio,winter,out,Massimiliano Caputo,5983,22,Italy,Left Winger,LW,,Sora Calcio 1907,Italy,,0
+2002,Serie A,Brescia Calcio,winter,out,Luca Castellazzi,6058,27,Italy,Goalkeeper,GK,,Calcio Catania,Italy,0.0,1
+2002,Serie A,Brescia Calcio,winter,out,Simone Del Nero,5982,21,Italy,Left Winger,LW,,US Palermo,Italy,0.0,1
+2002,Serie A,Brescia Calcio,winter,out,Raúl González,30922,26,Argentina,Centre-Forward,CF,,US Salernitana,Italy,0.0,1
+2002,Serie A,Brescia Calcio,winter,out,Roberto Guana,5976,21,Italy,Central Midfield,CM,,Cagliari Calcio,Italy,0.0,1
+2002,Serie A,Brescia Calcio,winter,out,Alejandro Correa,5977,23,Uruguay,Defensive Midfield,DM,,AC Martina 1947,Italy,0.0,1
+2002,Serie A,Chievo Verona,summer,in,Björn Runström,3454,18,Sweden,Centre-Forward,CF,150000.0,Bologna FC 1909,Italy,500000.0,0
+2002,Serie A,Chievo Verona,summer,in,Francesco Magnanelli,7093,17,Italy,Defensive Midfield,DM,,AS Gubbio 1910,Italy,50000.0,0
+2002,Serie A,Chievo Verona,summer,in,Lilian Nalis,5923,30,France,Central Midfield,CM,,SC Bastia,France,0.0,0
+2002,Serie A,Chievo Verona,summer,in,Oliver Bierhoff,56,34,Germany,Centre-Forward,CF,,AS Monaco,France,0.0,0
+2002,Serie A,Chievo Verona,summer,in,John Mensah,5917,19,Ghana,Centre-Back,CB,,Genoa CFC,Italy,0.0,0
+2002,Serie A,Chievo Verona,summer,in,Ivone De Franceschi,5924,28,Italy,Left Winger,LW,,AC Venezia 1907,Italy,,0
+2002,Serie A,Chievo Verona,summer,in,Michael Zago,621860,21,Italy,Central Midfield,CM,,Nuovo Calcio Trento,Italy,,0
+2002,Serie A,Chievo Verona,summer,in,Emanuele Pesaresi,5840,25,Italy,Left-Back,LB,,SS Lazio,Italy,,0
+2002,Serie A,Chievo Verona,summer,in,Mattia Passarini,41936,21,Italy,Goalkeeper,GK,,US Sassuolo,Italy,,0
+2002,Serie A,Chievo Verona,summer,in,Marco Veronese,7105,26,Italy,Centre-Forward,CF,,Modena FC,Italy,,0
+2002,Serie A,Chievo Verona,summer,in,Nikola Lazetic,5919,24,Serbia,Right Midfield,RM,,Como Calcio,Italy,0.0,1
+2002,Serie A,Chievo Verona,summer,in,Ivano Della Morte,5926,27,Italy,Central Midfield,CM,,Vicenza Calcio,Italy,0.0,1
+2002,Serie A,Chievo Verona,summer,in,Daniel Andersson,3456,24,Sweden,Defensive Midfield,DM,,AC Venezia 1907,Italy,0.0,1
+2002,Serie A,Chievo Verona,summer,in,Jin-ho Lee,92098,17,"Korea, South",Centre-Forward,CF,,Without Club,,,0
+2002,Serie A,Chievo Verona,winter,in,Gianluca Grassadonia,21833,30,Italy,Centre-Back,CB,,Cagliari Calcio,Italy,0.0,0
+2002,Serie A,Chievo Verona,winter,in,Fredrik Risp,6266,22,Sweden,Centre-Back,CB,,IFK Göteborg,Sweden,0.0,1
+2002,Serie A,Chievo Verona,winter,in,Sasa Bjelanovic,22187,23,Croatia,Centre-Forward,CF,,Como Calcio,Italy,0.0,1
+2002,Serie A,Chievo Verona,summer,out,Christian Manfredini,5850,27,Cote d'Ivoire,Left Winger,LW,,SS Lazio,Italy,6710000.0,0
+2002,Serie A,Chievo Verona,summer,out,Bernardo Corradi,5851,26,Italy,Centre-Forward,CF,,Inter Milan,Italy,4000000.0,0
+2002,Serie A,Chievo Verona,summer,out,Diomansy Kamara,6053,21,Senegal,Right Winger,RW,,Modena FC,Italy,2110000.0,0
+2002,Serie A,Chievo Verona,summer,out,Enrico Fantini,21149,26,Italy,Centre-Forward,CF,,AC Venezia 1907,Italy,,0
+2002,Serie A,Chievo Verona,summer,out,Patrice Grillon,161437,22,France,Defender,Defender,,Dijon FCO,France,,0
+2002,Serie A,Chievo Verona,summer,out,Ciro De Cesare,147617,30,Italy,Second Striker,SS,,Como Calcio,Italy,,0
+2002,Serie A,Chievo Verona,summer,out,Francesco Quintavalla,102050,20,Italy,Right-Back,RB,,Poggese Calcio,Italy,,0
+2002,Serie A,Chievo Verona,summer,out,Cleiton Da Silva Lima,767502,19,Brazil,Midfielder,Midfielder,,AC Mantova 1911,Italy,,0
+2002,Serie A,Chievo Verona,summer,out,Marco Veronese,7105,26,Italy,Centre-Forward,CF,,Vicenza Calcio,Italy,0.0,1
+2002,Serie A,Chievo Verona,summer,out,Fabio Firmani,22083,24,Italy,Central Midfield,CM,,AC Venezia 1907,Italy,0.0,1
+2002,Serie A,Chievo Verona,summer,out,Giuseppe Aquaro,33755,19,Switzerland,Centre-Back,CB,,Foggia Calcio,Italy,0.0,1
+2002,Serie A,Chievo Verona,summer,out,Francesco Carbone,7106,22,Italy,Right-Back,RB,,AC Siena,Italy,0.0,1
+2002,Serie A,Chievo Verona,summer,out,Stefano Garzon,28836,20,Italy,Defensive Midfield,DM,,US Alessandria Calcio,Italy,0.0,1
+2002,Serie A,Chievo Verona,summer,out,Davide Succi,29208,20,Italy,Centre-Forward,CF,,Calcio Padova,Italy,0.0,1
+2002,Serie A,Chievo Verona,summer,out,Simone Barone,5866,24,Italy,Central Midfield,CM,,AC Parma,Italy,0.0,1
+2002,Serie A,Chievo Verona,summer,out,Massimiliano Esposito,21817,30,Italy,Right Winger,RW,,Brescia Calcio,Italy,0.0,1
+2002,Serie A,Chievo Verona,summer,out,Alessandro Rinaldi,147455,27,Italy,Right-Back,RB,,Atalanta BC,Italy,0.0,1
+2002,Serie A,Chievo Verona,winter,out,Massimo Marazzina,5930,28,Italy,Centre-Forward,CF,,AS Roma,Italy,0.0,1
+2002,Serie A,Chievo Verona,winter,out,Maurizio D'Angelo,5911,33,Italy,Centre-Back,CB,,SSC Napoli,Italy,,0
+2002,Serie A,Chievo Verona,winter,out,Dario Passoni,21234,28,Italy,Central Midfield,CM,,Uralan Elista,Russia,,0
+2002,Serie A,Chievo Verona,winter,out,Jin-ho Lee,92098,18,"Korea, South",Centre-Forward,CF,,Ulsan Hyundai,"Korea, South",,0
+2002,Serie A,Chievo Verona,winter,out,Stefano Garzon,28836,21,Italy,Defensive Midfield,DM,,Varese FC,Italy,0.0,1
+2002,Serie A,Chievo Verona,winter,out,Francesco Carbone,7106,22,Italy,Right-Back,RB,,US Triestina,Italy,0.0,1
+2002,Serie A,Chievo Verona,winter,out,Tommaso Chiecchi,5918,23,Italy,Centre-Back,CB,,Varese FC,Italy,0.0,1
+2002,Serie A,Chievo Verona,winter,out,Moreno Longo,5915,26,Italy,Right-Back,RB,,Cagliari Calcio,Italy,0.0,1
+2002,Serie A,Chievo Verona,winter,out,Nikola Lazetic,5919,24,Serbia,Right Midfield,RM,,Como Calcio,Italy,0.0,1
+2002,Serie A,Como Calcio,summer,in,Sasa Bjelanovic,22187,23,Croatia,Centre-Forward,CF,,NK Varteks Varazdin,Croatia,2500000.0,0
+2002,Serie A,Como Calcio,summer,in,Benny Carbone,3389,30,Italy,Second Striker,SS,,Middlesbrough FC,England,950000.0,0
+2002,Serie A,Como Calcio,summer,in,Denis Godeas,21926,27,Italy,Centre-Forward,CF,,FC Messina Peloro,Italy,750000.0,0
+2002,Serie A,Como Calcio,summer,in,Fabrizio Ferron,3523,36,Italy,Goalkeeper,GK,,Hellas Verona,Italy,0.0,0
+2002,Serie A,Como Calcio,summer,in,Pasquale Padalino,151799,29,Italy,Centre-Back,CB,,Inter Milan,Italy,0.0,0
+2002,Serie A,Como Calcio,summer,in,Vincenzo Chianese,57793,26,Italy,Centre-Forward,CF,,Vicenza Calcio,Italy,0.0,0
+2002,Serie A,Como Calcio,summer,in,Marco Rossi,21955,24,Italy,Right Midfield,RM,,Florentia Viola,Italy,0.0,0
+2002,Serie A,Como Calcio,summer,in,Nikola Lazetic,5919,24,Serbia,Right Midfield,RM,,Fenerbahce,Türkiye,0.0,0
+2002,Serie A,Como Calcio,summer,in,Massimo Tarantino,28873,31,Italy,Left-Back,LB,,Bologna FC 1909,Italy,,0
+2002,Serie A,Como Calcio,summer,in,Niccolò Guzzo,173609,19,Italy,Right-Back,RB,,Fiorentina Primavera,Italy,,0
+2002,Serie A,Como Calcio,summer,in,Ciro De Cesare,147617,30,Italy,Second Striker,SS,,Chievo Verona,Italy,,0
+2002,Serie A,Como Calcio,summer,in,Jean-Paul van Gastel,151086,30,Netherlands,Defensive Midfield,DM,,Ternana Calcio,Italy,,0
+2002,Serie A,Como Calcio,summer,in,Jorge Serna,90695,22,Colombia,Centre-Forward,CF,,Independiente Medellín,Colombia,,0
+2002,Serie A,Como Calcio,summer,in,Giuseppe Greco,44137,18,Italy,Centre-Forward,CF,,AC Pavia,Italy,,0
+2002,Serie A,Como Calcio,summer,in,Mirko Benin,30619,24,Italy,Attacking Midfield,AM,,Florentia Viola,Italy,,0
+2002,Serie A,Como Calcio,summer,in,Luca Belingheri,28818,19,Italy,Attacking Midfield,AM,,Alzano Virescit,Italy,,0
+2002,Serie A,Como Calcio,summer,in,Juarez,28012,28,Brazil,Centre-Back,CB,,US Lecce,Italy,,0
+2002,Serie A,Como Calcio,summer,in,Milan Zahalka,186551,25,Czech Republic,Goalkeeper,GK,,Carrarese Calcio 1908,Italy,,0
+2002,Serie A,Como Calcio,summer,in,Benoît Cauet,15882,33,France,Central Midfield,CM,,Torino Calcio,Italy,,0
+2002,Serie A,Como Calcio,summer,in,Jonatan Binotto,28009,27,Italy,Right Winger,RW,,Inter Milan,Italy,0.0,1
+2002,Serie A,Como Calcio,summer,in,Stjepan Tomas,13937,26,Croatia,Centre-Back,CB,,Vicenza Calcio,Italy,0.0,1
+2002,Serie A,Como Calcio,summer,in,Fabio Pecchia,16871,28,Italy,Central Midfield,CM,,Bologna FC 1909,Italy,0.0,1
+2002,Serie A,Como Calcio,winter,in,Nicola Caccia,21912,32,Italy,Centre-Forward,CF,300000.0,Piacenza FC,Italy,0.0,0
+2002,Serie A,Como Calcio,winter,in,Anderson,34335,19,Brazil,Left-Back,LB,,AS Pordenone Calcio,Italy,,0
+2002,Serie A,Como Calcio,winter,in,Luigi Anaclerio,22322,21,Italy,Striker,Striker,,AS Bari,Italy,,0
+2002,Serie A,Como Calcio,winter,in,Daniel Fonseca,151825,33,Uruguay,Centre-Forward,CF,,Club Nacional,Uruguay,,0
+2002,Serie A,Como Calcio,winter,in,Nicola Amoruso,4150,28,Italy,Centre-Forward,CF,,AC Perugia,Italy,0.0,1
+2002,Serie A,Como Calcio,summer,out,Luis Oliveira,22087,33,Belgium,Centre-Forward,CF,,Calcio Catania,Italy,500000.0,0
+2002,Serie A,Como Calcio,summer,out,Nicola Corrent,21813,22,Italy,Central Midfield,CM,,Modena FC,Italy,330000.0,0
+2002,Serie A,Como Calcio,summer,out,Davide Olivares,216816,30,Italy,Attacking Midfield,AM,,AS Lucchese Libertas,Italy,,0
+2002,Serie A,Como Calcio,summer,out,Massimo Lombardini,227667,30,Italy,Left Midfield,LM,,US Alessandria Calcio,Italy,,0
+2002,Serie A,Como Calcio,summer,out,Vincenzo Pandullo,370921,31,Italy,Defender,Defender,,Legnano AC,Italy,,0
+2002,Serie A,Como Calcio,summer,out,Cristiano Pavone,199923,30,Italy,Left-Back,LB,,FC Messina Peloro,Italy,,0
+2002,Serie A,Como Calcio,summer,out,Andrea Corti,496281,19,Italy,Defender,Defender,,US Giovanile Canzese,Italy,,0
+2002,Serie A,Como Calcio,summer,out,Stephen Makinwa,17146,18,Nigeria,Centre-Forward,CF,,AC Reggiana 1919,Italy,,0
+2002,Serie A,Como Calcio,summer,out,Marco Nappi,120420,36,Italy,Second Striker,SS,,Savona FBC,Italy,,0
+2002,Serie A,Como Calcio,summer,out,Alfredo Femiano,102263,23,Italy,Defensive Midfield,DM,,AS Lucchese Libertas,Italy,,0
+2002,Serie A,Como Calcio,summer,out,Simone Bridarolli,496282,20,Italy,Striker,Striker,,Retired,,,0
+2002,Serie A,Como Calcio,summer,out,Fabio Gallo,23358,31,Italy,Defensive Midfield,DM,,Treviso FBC 1993,Italy,,0
+2002,Serie A,Como Calcio,summer,out,Francesco Pedone,16900,34,Italy,Right Midfield,RM,,UC Sampdoria,Italy,,0
+2002,Serie A,Como Calcio,summer,out,Luca Del Chiaro,297186,21,Italy,Defender,Defender,,AS Lucchese Libertas,Italy,,0
+2002,Serie A,Como Calcio,summer,out,Francesco Bega,21904,27,Italy,Centre-Back,CB,,US Triestina,Italy,,0
+2002,Serie A,Como Calcio,summer,out,Nicola Zanini,22218,28,Italy,Attacking Midfield,AM,,US Triestina,Italy,,0
+2002,Serie A,Como Calcio,summer,out,Christian Terni,28859,30,Italy,Centre-Back,CB,,Ternana Calcio,Italy,,0
+2002,Serie A,Como Calcio,summer,out,Andrea Ardito,15332,25,Italy,Defensive Midfield,DM,,Bologna FC 1909,Italy,,0
+2002,Serie A,Como Calcio,summer,out,Luca Belingheri,28818,19,Italy,Attacking Midfield,AM,,AC Siena,Italy,0.0,1
+2002,Serie A,Como Calcio,summer,out,Vincenzo Chianese,57793,26,Italy,Centre-Forward,CF,,Treviso FBC 1993,Italy,0.0,1
+2002,Serie A,Como Calcio,summer,out,Roberto Colacone,22312,28,Italy,Second Striker,SS,,Vicenza Calcio,Italy,0.0,1
+2002,Serie A,Como Calcio,summer,out,Nikola Lazetic,5919,24,Serbia,Right Midfield,RM,,Chievo Verona,Italy,0.0,1
+2002,Serie A,Como Calcio,summer,out,Carlo Taldo,6051,30,Italy,Centre-Forward,CF,,Modena FC,Italy,0.0,1
+2002,Serie A,Como Calcio,summer,out,Gianluca Spinelli,299514,35,Italy,Goalkeeper,GK,,Retired,,,0
+2002,Serie A,Como Calcio,summer,out,Ljubisa Dundjerski,28677,30,Serbia,Central Midfield,CM,,Atalanta BC,Italy,0.0,1
+2002,Serie A,Como Calcio,winter,out,Oscar Brevi,22302,35,Italy,Centre-Back,CB,,US Palermo,Italy,,0
+2002,Serie A,Como Calcio,winter,out,Denis Godeas,21926,27,Italy,Centre-Forward,CF,,AS Bari,Italy,,0
+2002,Serie A,Como Calcio,winter,out,Jean-Paul van Gastel,151086,30,Netherlands,Defensive Midfield,DM,,De Graafschap Doetinchem,Netherlands,,0
+2002,Serie A,Como Calcio,winter,out,Ciro De Cesare,147617,31,Italy,Second Striker,SS,,Piacenza FC,Italy,,0
+2002,Serie A,Como Calcio,winter,out,Nikola Lazetic,5919,24,Serbia,Right Midfield,RM,,SS Lazio,Italy,,0
+2002,Serie A,Como Calcio,winter,out,Sasa Bjelanovic,22187,23,Croatia,Centre-Forward,CF,,Chievo Verona,Italy,0.0,1
+2002,Serie A,Como Calcio,winter,out,Daniel Fonseca,151825,33,Uruguay,Centre-Forward,CF,,Retired,,,0
+2002,Serie A,FC Empoli,summer,in,Luca Saudati,6029,24,Italy,Centre-Forward,CF,,Atalanta BC,Italy,1000000.0,1
+2002,Serie A,FC Empoli,summer,in,Amauri,6234,22,Italy,Centre-Forward,CF,,Piacenza FC,Italy,150000.0,0
+2002,Serie A,FC Empoli,summer,in,Mario Cassano,16748,18,Italy,Goalkeeper,GK,100000.0,Florentia Viola,Italy,0.0,0
+2002,Serie A,FC Empoli,summer,in,Alessandro Agostini,17171,23,Italy,Left-Back,LB,900000.0,Florentia Viola,Italy,0.0,0
+2002,Serie A,FC Empoli,summer,in,Frank Lagana,119902,17,Australia,Attacking Midfield,AM,,FFA Centre of Excellence (- 2017),Australia,,0
+2002,Serie A,FC Empoli,summer,in,Antonio Buscè,17174,26,Italy,Right Midfield,RM,,AC Lumezzane,Italy,,0
+2002,Serie A,FC Empoli,summer,in,Ighli Vannucchi,6022,24,Italy,Attacking Midfield,AM,,AC Venezia 1907,Italy,,0
+2002,Serie A,FC Empoli,summer,in,Stefano Lucchini,6012,21,Italy,Centre-Back,CB,3500000.0,Ternana Calcio,Italy,,0
+2002,Serie A,FC Empoli,summer,in,David Bret,6011,18,France,Goalkeeper,GK,,Montpellier HSC,France,,0
+2002,Serie A,FC Empoli,summer,in,Gaetano Grieco,6032,19,Italy,Second Striker,SS,,AC Parma,Italy,0.0,1
+2002,Serie A,FC Empoli,winter,in,Marco Borriello,5825,20,Italy,Centre-Forward,CF,,AC Milan,Italy,0.0,1
+2002,Serie A,FC Empoli,winter,in,Marco Carparelli,29603,26,Italy,Second Striker,SS,,Genoa CFC,Italy,,0
+2002,Serie A,FC Empoli,winter,in,Nicola Padoin,44758,23,Italy,Defensive Midfield,DM,,AC Prato,Italy,0.0,1
+2002,Serie A,FC Empoli,summer,out,Massimo Maccarone,3713,22,Italy,Centre-Forward,CF,,Middlesbrough FC,England,9050000.0,0
+2002,Serie A,FC Empoli,summer,out,Mark Bresciano,5867,22,Australia,Central Midfield,CM,,AC Parma,Italy,7000000.0,0
+2002,Serie A,FC Empoli,summer,out,Amauri,6234,22,Italy,Centre-Forward,CF,1500000.0,FC Messina Peloro,Italy,15000.0,1
+2002,Serie A,FC Empoli,summer,out,Davide Matteini,29593,20,Italy,Left Winger,LW,,Pro Patria Gallaratese GB,Italy,0.0,1
+2002,Serie A,FC Empoli,summer,out,Filippo Zacchei,6027,21,Italy,Right Winger,RW,,US Sambenedettese,Italy,,0
+2002,Serie A,FC Empoli,summer,out,Salvatore Mastronunzio,43224,22,Italy,Centre-Forward,CF,,Fermana Calcio 1920,Italy,,0
+2002,Serie A,FC Empoli,summer,out,Antonio Schetter,57139,20,Italy,Right Winger,RW,50000.0,FC Viribus Somma 100,Italy,,0
+2002,Serie A,FC Empoli,summer,out,Davide Moro,28841,20,Italy,Central Midfield,CM,,Sangiovannese 1927,Italy,,0
+2002,Serie A,FC Empoli,summer,out,Riccardo Bonetto,17173,23,Italy,Left-Back,LB,,Ascoli Calcio 1898,Italy,,0
+2002,Serie A,FC Empoli,summer,out,Pietro Fusco,6014,30,Italy,Right-Back,RB,,Calcio Catania,Italy,,0
+2002,Serie A,FC Empoli,summer,out,Claudio Coralli,47652,19,Italy,Centre-Forward,CF,,Tivoli Calcio 1919,Italy,0.0,1
+2002,Serie A,FC Empoli,summer,out,Ibrahim Abdul Razak,12519,19,Ghana,Attacking Midfield,AM,,AS Saint-Étienne,France,0.0,1
+2002,Serie A,FC Empoli,winter,out,Davide Matteini,29593,20,Italy,Left Winger,LW,,US Palermo,Italy,950000.0,0
+2002,Serie A,FC Empoli,winter,out,Michele Fusi,309616,22,Italy,Centre-Back,CB,,UC AlbinoLeffe,Italy,,0
+2002,Serie A,FC Empoli,winter,out,Roberto Mirri,6013,24,Italy,Centre-Back,CB,50000.0,Calcio Catania,Italy,0.0,1
+2002,Serie A,FC Empoli,winter,out,Alessandro Agostini,17171,23,Italy,Left-Back,LB,,AC Siena,Italy,0.0,1
+2002,Serie A,FC Empoli,winter,out,Giacomo Mazzi,136119,23,Italy,Goalkeeper,GK,,US Viterbese,Italy,,0
+2002,Serie A,Inter Milan,summer,in,Hernán Crespo,3410,27,Argentina,Centre-Forward,CF,,SS Lazio,Italy,40000000.0,0
+2002,Serie A,Inter Milan,summer,in,Fabio Cannavaro,5775,28,Italy,Centre-Back,CB,,AC Parma,Italy,23000000.0,0
+2002,Serie A,Inter Milan,summer,in,Francesco Coco,3508,25,Italy,Left-Back,LB,,AC Milan,Italy,22500000.0,0
+2002,Serie A,Inter Milan,summer,in,Matías Almeyda,5792,28,Argentina,Defensive Midfield,DM,,AC Parma,Italy,22100000.0,0
+2002,Serie A,Inter Milan,summer,in,Bernardo Corradi,5851,26,Italy,Centre-Forward,CF,,Chievo Verona,Italy,4000000.0,0
+2002,Serie A,Inter Milan,summer,in,Luca Ceccarelli,39675,19,Italy,Centre-Back,CB,,Florentia Viola,Italy,2580000.0,0
+2002,Serie A,Inter Milan,summer,in,Ümit Davala,3381,28,Türkiye,Right Midfield,RM,,AC Milan,Italy,2000000.0,0
+2002,Serie A,Inter Milan,summer,in,Carlos Gamarra,5779,31,Paraguay,Centre-Back,CB,,CR Flamengo,Brazil,0.0,0
+2002,Serie A,Inter Milan,summer,in,Daniele Adani,5774,27,Italy,Centre-Back,CB,,Florentia Viola,Italy,0.0,0
+2002,Serie A,Inter Milan,summer,in,Alessio Scarpi,6809,29,Italy,Goalkeeper,GK,,Cagliari Calcio,Italy,0.0,0
+2002,Serie A,Inter Milan,summer,in,Domenico Morfeo,5786,26,Italy,Attacking Midfield,AM,,Florentia Viola,Italy,0.0,0
+2002,Serie A,Inter Milan,summer,in,Giuseppe Ticli,268583,23,Italy,Left Midfield,LM,,AC Reggiana 1919,Italy,,0
+2002,Serie A,Inter Milan,winter,in,Gabriel Batistuta,5959,33,Argentina,Centre-Forward,CF,,AS Roma,Italy,0.0,1
+2002,Serie A,Inter Milan,winter,in,Alberto Quadri,40482,19,Italy,Defensive Midfield,DM,,Spezia Calcio 1906,Italy,,0
+2002,Serie A,Inter Milan,summer,out,Ronaldo,3140,25,Brazil,Centre-Forward,CF,,Real Madrid,Spain,45000000.0,0
+2002,Serie A,Inter Milan,summer,out,Clarence Seedorf,4168,26,Netherlands,Central Midfield,CM,,AC Milan,Italy,22500000.0,0
+2002,Serie A,Inter Milan,summer,out,Vratislav Gresko,71,24,Slovakia,Left-Back,LB,,AC Parma,Italy,16000000.0,0
+2002,Serie A,Inter Milan,summer,out,Adriano,5876,20,Brazil,Centre-Forward,CF,,AC Parma,Italy,14500000.0,0
+2002,Serie A,Inter Milan,summer,out,Bernardo Corradi,5851,26,Italy,Centre-Forward,CF,,SS Lazio,Italy,10000000.0,0
+2002,Serie A,Inter Milan,summer,out,Dario Simic,2540,26,Croatia,Centre-Back,CB,,AC Milan,Italy,5000000.0,0
+2002,Serie A,Inter Milan,summer,out,Grigoris Georgatos,9873,29,Greece,Left-Back,LB,,AEK Athens,Greece,3000000.0,0
+2002,Serie A,Inter Milan,summer,out,Sixto Peralta,55962,23,Argentina,Central Midfield,CM,,Racing Club,Argentina,2000000.0,0
+2002,Serie A,Inter Milan,summer,out,Ümit Davala,3381,29,Türkiye,Right Midfield,RM,,Galatasaray,Türkiye,500000.0,1
+2002,Serie A,Inter Milan,summer,out,Pasquale Padalino,151799,29,Italy,Centre-Back,CB,,Como Calcio,Italy,0.0,0
+2002,Serie A,Inter Milan,summer,out,Goran Pandev,12563,19,North Macedonia,Second Striker,SS,,Spezia Calcio 1906,Italy,0.0,1
+2002,Serie A,Inter Milan,summer,out,Luca Mezzano,21888,24,Italy,Centre-Back,CB,,Torino Calcio,Italy,,0
+2002,Serie A,Inter Milan,summer,out,Alberto Quadri,40482,19,Italy,Defensive Midfield,DM,,Spezia Calcio 1906,Italy,,0
+2002,Serie A,Inter Milan,summer,out,Marco Caneira,6242,23,Portugal,Centre-Back,CB,,FC Girondins Bordeaux,France,0.0,1
+2002,Serie A,Inter Milan,summer,out,Stefano Lombardi,15462,25,Italy,Centre-Back,CB,,Ancona Calcio,Italy,0.0,1
+2002,Serie A,Inter Milan,summer,out,Giuseppe Ticli,268583,23,Italy,Left Midfield,LM,,Calcio Monza,Italy,0.0,1
+2002,Serie A,Inter Milan,summer,out,Jonatan Binotto,28009,27,Italy,Right Winger,RW,,Como Calcio,Italy,0.0,1
+2002,Serie A,Inter Milan,summer,out,Anselmo Robbiati,6816,32,Italy,Left Winger,LW,,Ancona Calcio,Italy,0.0,1
+2002,Serie A,Inter Milan,summer,out,Paolo Ginestra,29565,23,Italy,Goalkeeper,GK,,US Sassuolo,Italy,0.0,1
+2002,Serie A,Inter Milan,summer,out,Drazen Brncic,6105,30,Croatia,Central Midfield,CM,,AC Venezia 1907,Italy,0.0,1
+2002,Serie A,Inter Milan,summer,out,Luca Ceccarelli,39675,19,Italy,Centre-Back,CB,,AC Venezia 1907,Italy,0.0,1
+2002,Serie A,Inter Milan,summer,out,Alessio Scarpi,6809,29,Italy,Goalkeeper,GK,100000.0,Ancona Calcio,Italy,0.0,1
+2002,Serie A,Inter Milan,winter,out,Javier Farinós,5785,24,Spain,Defensive Midfield,DM,,Villarreal CF,Spain,750000.0,1
+2002,Serie A,Inter Milan,winter,out,Luca Ceccarelli,39675,19,Italy,Centre-Back,CB,,Fermana Calcio 1920,Italy,0.0,1
+2002,Serie A,Inter Milan,winter,out,Antonio Pacheco,15306,26,Uruguay,Second Striker,SS,,CA Peñarol,Uruguay,0.0,1
+2002,Serie A,Inter Milan,winter,out,Alberto Quadri,40482,19,Italy,Defensive Midfield,DM,,AC Mantova 1911,Italy,0.0,1
+2002,Serie A,Juventus FC,summer,in,Manuele Blasi,6090,21,Italy,Central Midfield,CM,,AC Perugia,Italy,17700000.0,0
+2002,Serie A,Juventus FC,summer,in,Mauro Camoranesi,5762,25,Italy,Right Midfield,RM,,Hellas Verona,Italy,8500000.0,0
+2002,Serie A,Juventus FC,summer,in,Fabrizio Miccoli,6097,23,Italy,Centre-Forward,CF,,Ternana Calcio,Italy,7500000.0,0
+2002,Serie A,Juventus FC,summer,in,Davide Baiocco,5761,27,Italy,Defensive Midfield,DM,,AC Perugia,Italy,7200000.0,0
+2002,Serie A,Juventus FC,summer,in,Marco Di Vaio,4170,26,Italy,Centre-Forward,CF,,AC Parma,Italy,7000000.0,1
+2002,Serie A,Juventus FC,summer,in,Abdoulay Konko,22139,18,France,Right-Back,RB,,Genoa CFC Youth,Italy,0.0,0
+2002,Serie A,Juventus FC,summer,in,Mattia Cassani,21859,18,Italy,Right-Back,RB,,Canavese Youth,Italy,,0
+2002,Serie A,Juventus FC,summer,in,Emiliano Moretti,5755,21,Italy,Centre-Back,CB,,Florentia Viola,Italy,,0
+2002,Serie A,Juventus FC,summer,in,Daniele Gastaldello,7096,19,Italy,Centre-Back,CB,,Calcio Padova,Italy,,0
+2002,Serie A,Juventus FC,summer,in,Salvatore Fresi,5754,29,Italy,Centre-Back,CB,,Bologna FC 1909,Italy,,0
+2002,Serie A,Juventus FC,summer,in,Antonio Chimenti,5745,32,Italy,Goalkeeper,GK,,US Lecce,Italy,,0
+2002,Serie A,Juventus FC,summer,in,Rubén Olivera,5768,19,Uruguay,Central Midfield,CM,,Danubio FC,Uruguay,0.0,1
+2002,Serie A,Juventus FC,summer,out,Fabián Carini,13444,22,Uruguay,Goalkeeper,GK,,Standard Liège,Belgium,5000000.0,0
+2002,Serie A,Juventus FC,summer,out,Matteo Brighi,5868,21,Italy,Central Midfield,CM,,AC Parma,Italy,5000000.0,0
+2002,Serie A,Juventus FC,summer,out,Enzo Maresca,16651,22,Italy,Central Midfield,CM,,Piacenza FC,Italy,3000000.0,1
+2002,Serie A,Juventus FC,summer,out,Giuseppe Sculli,6046,21,Italy,Left Winger,LW,,Modena FC,Italy,400000.0,1
+2002,Serie A,Juventus FC,summer,out,Alessandro Gamberini,16868,20,Italy,Centre-Back,CB,,Bologna FC 1909,Italy,0.0,0
+2002,Serie A,Juventus FC,summer,out,Jaroslav Sedivec,22091,21,Czech Republic,Left Winger,LW,,Calcio Catania,Italy,,0
+2002,Serie A,Juventus FC,summer,out,Luigi Lavecchia,19244,20,Italy,Right Midfield,RM,100000.0,Ascoli Calcio 1898,Italy,,0
+2002,Serie A,Juventus FC,summer,out,Michele Paramatti,5990,34,Italy,Left-Back,LB,,Bologna FC 1909,Italy,,0
+2002,Serie A,Juventus FC,summer,out,Marco Zanchi,5991,25,Italy,Centre-Back,CB,,Bologna FC 1909,Italy,,0
+2002,Serie A,Juventus FC,summer,out,Nicola Amoruso,4150,27,Italy,Centre-Forward,CF,,AC Perugia,Italy,,0
+2002,Serie A,Juventus FC,summer,out,Massimiliano Zazzetta,432548,22,Italy,Defender,Defender,,Fano Calcio,Italy,0.0,1
+2002,Serie A,Juventus FC,summer,out,Andrea Gentile,19220,22,Italy,Central Midfield,CM,,US Triestina,Italy,0.0,1
+2002,Serie A,Juventus FC,summer,out,Andrea Gasbarroni,20967,20,Italy,Second Striker,SS,,UC Sampdoria,Italy,0.0,1
+2002,Serie A,Juventus FC,summer,out,Vincent Péricard,3970,19,France,Centre-Forward,CF,,Portsmouth FC,England,0.0,1
+2002,Serie A,Juventus FC,summer,out,Aboubacar Fofana,10256,19,France,Left Midfield,LM,,PAOK Thessaloniki,Greece,0.0,1
+2002,Serie A,Juventus FC,summer,out,Francesco Scardina,22144,20,Italy,Centre-Back,CB,,PAOK Thessaloniki,Greece,0.0,1
+2002,Serie A,Juventus FC,summer,out,Felice Piccolo,28029,18,Italy,Centre-Back,CB,,AS Lucchese Libertas,Italy,0.0,1
+2002,Serie A,Juventus FC,summer,out,Massimiliano Vieri,6148,23,Australia,Centre-Forward,CF,,Hellas Verona,Italy,0.0,1
+2002,Serie A,Juventus FC,summer,out,Alessandro Frara,6004,19,Italy,Defensive Midfield,DM,,Bologna FC 1909,Italy,0.0,1
+2002,Serie A,Juventus FC,summer,out,Tomás Guzmán,19228,20,Paraguay,Attacking Midfield,AM,,Ternana Calcio,Italy,0.0,1
+2002,Serie A,Juventus FC,summer,out,Manuele Blasi,6090,21,Italy,Central Midfield,CM,,AC Perugia,Italy,0.0,1
+2002,Serie A,Juventus FC,summer,out,Fabrizio Miccoli,6097,23,Italy,Centre-Forward,CF,,AC Perugia,Italy,0.0,1
+2002,Serie A,Juventus FC,summer,out,Michelangelo Rampulla,11808,39,Italy,Goalkeeper,GK,,Retired,,,0
+2002,Serie A,Juventus FC,winter,out,Mattia Cassani,21859,19,Italy,Right-Back,RB,,UC Sampdoria,Italy,0.0,1
+2002,Serie A,Juventus FC,winter,out,Marco Rigoni,21954,23,Italy,Central Midfield,CM,,US Triestina,Italy,,0
+2002,Serie A,Juventus FC,winter,out,Emiliano Moretti,5755,21,Italy,Centre-Back,CB,,Modena FC,Italy,0.0,1
+2002,Serie A,Juventus FC,winter,out,Davide Baiocco,5761,27,Italy,Defensive Midfield,DM,,Piacenza FC,Italy,0.0,1
+2002,Serie A,Juventus FC,winter,out,Francesco Scardina,22144,21,Italy,Centre-Back,CB,,L'Aquila 1927,Italy,0.0,1
+2002,Serie A,Juventus FC,winter,out,Aboubacar Fofana,10256,20,France,Left Midfield,LM,,Sora Calcio 1907,Italy,0.0,1
+2002,Serie A,Modena FC,summer,in,Diomansy Kamara,6053,21,Senegal,Right Winger,RW,,Chievo Verona,Italy,2110000.0,0
+2002,Serie A,Modena FC,summer,in,Giuseppe Sculli,6046,21,Italy,Left Winger,LW,,Juventus FC,Italy,400000.0,1
+2002,Serie A,Modena FC,summer,in,Nicola Corrent,21813,22,Italy,Central Midfield,CM,,Como Calcio,Italy,330000.0,0
+2002,Serie A,Modena FC,summer,in,Alessandro Zamperini,6039,19,Italy,Centre-Back,CB,,Portsmouth FC,England,0.0,0
+2002,Serie A,Modena FC,summer,in,Nicola Campedelli,6044,23,Italy,Right Midfield,RM,,US Salernitana,Italy,,0
+2002,Serie A,Modena FC,summer,in,Marco Zamboni,6036,24,Italy,Centre-Back,CB,,Udinese Calcio,Italy,,0
+2002,Serie A,Modena FC,summer,in,Sofiane Zaaboub,32062,19,Algeria,Left Midfield,LM,,AS Saint-Étienne,France,,0
+2002,Serie A,Modena FC,summer,in,Alessio Sestu,23367,18,Italy,Right Winger,RW,,Lazio U19,Italy,,0
+2002,Serie A,Modena FC,summer,in,Marcello Albino,6045,30,Italy,Central Midfield,CM,,Ancona Calcio,Italy,,0
+2002,Serie A,Modena FC,summer,in,Simone Pavan,17149,28,Italy,Centre-Back,CB,,AC Venezia 1907,Italy,,0
+2002,Serie A,Modena FC,summer,in,Giuseppe Colucci,6717,22,Italy,Central Midfield,CM,500000.0,Hellas Verona,Italy,0.0,1
+2002,Serie A,Modena FC,winter,in,Rune Pedersen,22915,23,Denmark,Goalkeeper,GK,,FC Copenhagen,Denmark,0.0,0
+2002,Serie A,Modena FC,winter,in,Fabio Vignaroli,17153,26,Italy,Centre-Forward,CF,,US Salernitana,Italy,,0
+2002,Serie A,Modena FC,winter,in,Emiliano Moretti,5755,21,Italy,Centre-Back,CB,,Juventus FC,Italy,0.0,1
+2002,Serie A,Modena FC,winter,in,Antonio Marasco,17147,32,Italy,Defensive Midfield,DM,,US Palermo,Italy,0.0,1
+2002,Serie A,Modena FC,summer,out,Amadou Sanokho,24796,22,France,Defensive Midfield,DM,,Rondinella Impruneta,Italy,0.0,0
+2002,Serie A,Modena FC,summer,out,Mauro Zironelli,314705,32,Italy,Midfielder,Midfielder,,Associazione Calcio Thiene,Italy,,0
+2002,Serie A,Modena FC,summer,out,Marco Veronese,7105,26,Italy,Centre-Forward,CF,,Chievo Verona,Italy,,0
+2002,Serie A,Modena FC,summer,out,Vito Grieco,22084,31,Italy,Defensive Midfield,DM,,Calcio Catania,Italy,,0
+2002,Serie A,Modena FC,summer,out,Emiliano Tarana,21803,23,Italy,Right Winger,RW,,Ancona Calcio,Italy,,0
+2002,Serie A,Modena FC,summer,out,Giovanni Orfei,6048,26,Italy,Centre-Back,CB,,AC Venezia 1907,Italy,,0
+2002,Serie A,Modena FC,summer,out,Diomansy Kamara,6053,21,Senegal,Right Winger,RW,,Chievo Verona,Italy,0.0,1
+2002,Serie A,Modena FC,summer,out,Maurizio Domizzi,6750,22,Italy,Centre-Back,CB,,AC Milan,Italy,0.0,1
+2002,Serie A,Modena FC,summer,out,Andrea Rabito,21765,22,Italy,Right Winger,RW,,AC Milan,Italy,0.0,1
+2002,Serie A,Modena FC,summer,out,Enrico Fantini,21149,26,Italy,Centre-Forward,CF,,Chievo Verona,Italy,0.0,1
+2002,Serie A,Modena FC,winter,out,Rubens Pasino,6054,31,Italy,Attacking Midfield,AM,,SSC Napoli,Italy,,0
+2002,Serie A,Modena FC,winter,out,Alessio Sestu,23367,19,Italy,Right Winger,RW,,Treviso FBC 1993,Italy,,0
+2002,Serie A,Modena FC,winter,out,Marco Zamboni,6036,25,Italy,Centre-Back,CB,,Hellas Verona,Italy,0.0,1
+2002,Serie A,Modena FC,winter,out,Carlo Taldo,6051,30,Italy,Centre-Forward,CF,,Calcio Catania,Italy,0.0,1
+2002,Serie A,Piacenza FC,summer,in,Enzo Maresca,16651,22,Italy,Central Midfield,CM,,Juventus FC,Italy,3000000.0,1
+2002,Serie A,Piacenza FC,summer,in,Marco Stella,21898,21,Italy,Right Midfield,RM,,Pescara Calcio,Italy,700000.0,0
+2002,Serie A,Piacenza FC,summer,in,Hugo Campagnaro,21782,22,Argentina,Centre-Back,CB,,Club Deportivo Morón,Argentina,50000.0,0
+2002,Serie A,Piacenza FC,summer,in,Simone Paoletti,342750,18,Italy,Goalkeeper,GK,,Cagliese Calcio,Italy,,0
+2002,Serie A,Piacenza FC,summer,in,Johnnier Montaño,84326,19,Colombia,Attacking Midfield,AM,,AC Parma,Italy,,0
+2002,Serie A,Piacenza FC,summer,in,Dario Marcolin,3510,30,Italy,Defensive Midfield,DM,,UC Sampdoria,Italy,,0
+2002,Serie A,Piacenza FC,summer,in,Luigi Riccio,21802,24,Italy,Central Midfield,CM,,Ternana Calcio,Italy,,0
+2002,Serie A,Piacenza FC,summer,in,Amedeo Mangone,21793,33,Italy,Centre-Back,CB,,Brescia Calcio,Italy,,0
+2002,Serie A,Piacenza FC,summer,in,Ibrahim Babatunde,20220,17,Nigeria,Centre-Forward,CF,,AC Arezzo,Italy,,0
+2002,Serie A,Piacenza FC,summer,in,Sergey Gurenko,9627,29,Belarus,Right-Back,RB,,AC Parma,Italy,0.0,1
+2002,Serie A,Piacenza FC,summer,in,Mauro Óbolo,52074,20,Argentina,Centre-Forward,CF,,CA Vélez Sarsfield,Argentina,0.0,1
+2002,Serie A,Piacenza FC,winter,in,Ciro De Cesare,147617,31,Italy,Second Striker,SS,,Como Calcio,Italy,,0
+2002,Serie A,Piacenza FC,winter,in,Marco Marchionni,5873,22,Italy,Right Midfield,RM,,AC Parma,Italy,0.0,1
+2002,Serie A,Piacenza FC,winter,in,Claudio Ferrarese,28852,24,Italy,Right Winger,RW,400000.0,SSC Napoli,Italy,0.0,1
+2002,Serie A,Piacenza FC,winter,in,Davide Baiocco,5761,27,Italy,Defensive Midfield,DM,,Juventus FC,Italy,0.0,1
+2002,Serie A,Piacenza FC,winter,in,Alessandro Rinaldi,147455,28,Italy,Right-Back,RB,,Atalanta BC,Italy,0.0,1
+2002,Serie A,Piacenza FC,winter,in,Sandro Cois,133980,30,Italy,Defensive Midfield,DM,,UC Sampdoria,Italy,0.0,1
+2002,Serie A,Piacenza FC,winter,in,Maurizio Franzone,173733,33,Italy,Goalkeeper,GK,,Without Club,,,0
+2002,Serie A,Piacenza FC,summer,out,Sergio Volpi,16908,28,Italy,Central Midfield,CM,,UC Sampdoria,Italy,3500000.0,0
+2002,Serie A,Piacenza FC,summer,out,Nicola Mora,30649,22,Italy,Left-Back,LB,,AS Bari,Italy,1500000.0,0
+2002,Serie A,Piacenza FC,summer,out,Amauri,6234,22,Italy,Centre-Forward,CF,,FC Empoli,Italy,150000.0,0
+2002,Serie A,Piacenza FC,summer,out,Carmine Gautieri,19440,31,Italy,Right Winger,RW,,Atalanta BC,Italy,0.0,0
+2002,Serie A,Piacenza FC,summer,out,Alessandro Lucarelli,28022,24,Italy,Centre-Back,CB,,US Palermo,Italy,,0
+2002,Serie A,Piacenza FC,summer,out,Roberto Maltagliati,20742,33,Italy,Centre-Back,CB,,Ancona Calcio,Italy,,0
+2002,Serie A,Piacenza FC,summer,out,Lorenzo Liverani,249725,18,Italy,Defender,Defender,,AC Pavia,Italy,,0
+2002,Serie A,Piacenza FC,summer,out,Matuzalém,5974,22,Brazil,Defensive Midfield,DM,,AC Parma,Italy,,0
+2002,Serie A,Piacenza FC,summer,out,Daniele Cacia,21780,18,Italy,Centre-Forward,CF,,Ternana Calcio,Italy,0.0,1
+2002,Serie A,Piacenza FC,summer,out,Marco Comotto,309064,18,Italy,Centre-Back,CB,,AC Imolese,Italy,0.0,1
+2002,Serie A,Piacenza FC,summer,out,Davide Bagnacani,21777,22,Italy,Goalkeeper,GK,,ASD Castel di Sangro,Italy,0.0,1
+2002,Serie A,Piacenza FC,summer,out,Francesco Zerbini,21899,22,Italy,Centre-Forward,CF,,US Sambenedettese,Italy,0.0,1
+2002,Serie A,Piacenza FC,summer,out,Francesco Statuto,151891,30,Italy,Central Midfield,CM,,Without Club,,,0
+2002,Serie A,Piacenza FC,summer,out,Paolo Poggi,7432,31,Italy,Centre-Forward,CF,,AC Parma,Italy,0.0,1
+2002,Serie A,Piacenza FC,summer,out,Vincenzo Sommese,16854,26,Italy,Right Winger,RW,,Vicenza Calcio,Italy,0.0,1
+2002,Serie A,Piacenza FC,summer,out,Gabriele Ambrosetti,3167,28,Italy,Left Midfield,LM,,Chelsea FC,England,0.0,1
+2002,Serie A,Piacenza FC,winter,out,Nicola Caccia,21912,32,Italy,Centre-Forward,CF,300000.0,Como Calcio,Italy,0.0,0
+2002,Serie A,Piacenza FC,winter,out,Giuseppe Cardone,16811,28,Italy,Right-Back,RB,,AC Parma,Italy,,0
+2002,Serie A,Piacenza FC,winter,out,Johnnier Montaño,84326,19,Colombia,Attacking Midfield,AM,,AC Parma,Italy,,0
+2002,Serie A,Piacenza FC,winter,out,Paolo Tramezzani,6406,32,Italy,Left-Back,LB,,Atalanta BC,Italy,0.0,1
+2002,Serie A,Piacenza FC,winter,out,Salvatore Miceli,21795,28,Italy,Defensive Midfield,DM,,UC Sampdoria,Italy,0.0,1
+2002,Serie A,Piacenza FC,winter,out,Marco Stella,21898,21,Italy,Right Midfield,RM,,Ascoli Calcio 1898,Italy,0.0,1
+2002,Serie A,Piacenza FC,winter,out,Dario Marcolin,3510,31,Italy,Defensive Midfield,DM,,SSC Napoli,Italy,0.0,1
+2002,Serie A,Piacenza FC,winter,out,Daniele Cacia,21780,19,Italy,Centre-Forward,CF,,SP Ars et Labor,Italy,0.0,1
+2002,Serie A,Reggina Calcio,summer,in,Carlos Paredes,6068,25,Paraguay,Defensive Midfield,DM,,FC Porto,Portugal,4800000.0,0
+2002,Serie A,Reggina Calcio,summer,in,Shunsuke Nakamura,6069,24,Japan,Attacking Midfield,AM,,Yokohama F. Marinos,Japan,2000000.0,0
+2002,Serie A,Reggina Calcio,summer,in,Alessandro Pierini,6067,29,Italy,Centre-Back,CB,,Florentia Viola,Italy,0.0,0
+2002,Serie A,Reggina Calcio,summer,in,Nassim Mendil,28854,23,France,Centre-Forward,CF,,Cosenza Calcio 1914,Italy,,0
+2002,Serie A,Reggina Calcio,summer,in,Roberto Mafucci,151882,17,Italy,Striker,Striker,,Unknown,,,0
+2002,Serie A,Reggina Calcio,summer,in,Riccardo Alderuccio,151854,18,Italy,Centre-Back,CB,,Unknown,,,0
+2002,Serie A,Reggina Calcio,summer,in,Massimo Rastelli,6077,33,Italy,Right Winger,RW,,SSC Napoli,Italy,,0
+2002,Serie A,Reggina Calcio,summer,in,Roberto Cardinale,22796,21,Italy,Centre-Back,CB,,US Salernitana,Italy,0.0,1
+2002,Serie A,Reggina Calcio,summer,in,Luca Castellazzi,6058,27,Italy,Goalkeeper,GK,,Brescia Calcio,Italy,0.0,1
+2002,Serie A,Reggina Calcio,summer,in,David Di Michele,6076,26,Italy,Centre-Forward,CF,,Udinese Calcio,Italy,0.0,1
+2002,Serie A,Reggina Calcio,summer,in,Gianluca Falsini,6063,26,Italy,Left-Back,LB,300000.0,AC Parma,Italy,0.0,1
+2002,Serie A,Reggina Calcio,winter,in,Bruno Cirillo,6062,25,Italy,Centre-Back,CB,,US Lecce,Italy,0.0,1
+2002,Serie A,Reggina Calcio,winter,in,Aimo Diana,6749,25,Italy,Right Midfield,RM,,AC Parma,Italy,0.0,1
+2002,Serie A,Reggina Calcio,winter,in,Stefano Torrisi,5865,31,Italy,Centre-Back,CB,,AC Parma,Italy,0.0,1
+2002,Serie A,Reggina Calcio,winter,in,Emiliano Bonazzoli,5877,24,Italy,Centre-Forward,CF,,AC Parma,Italy,0.0,1
+2002,Serie A,Reggina Calcio,summer,out,Davide Dionigi,28015,28,Italy,Centre-Forward,CF,,SSC Napoli,Italy,2000000.0,0
+2002,Serie A,Reggina Calcio,summer,out,Mario La Canna,124936,24,Italy,Right Winger,RW,,SP Ars et Labor,Italy,0.0,0
+2002,Serie A,Reggina Calcio,summer,out,Graziano Ursino,556481,19,Italy,Defender,Defender,,Ragusa Calcio,Italy,,0
+2002,Serie A,Reggina Calcio,summer,out,Arnauld Mercier,288473,30,France,Centre-Back,CB,,Valenciennes FC,France,,0
+2002,Serie A,Reggina Calcio,summer,out,Stefano Casale,226061,31,Italy,Right Midfield,RM,,Cosenza Calcio 1914,Italy,,0
+2002,Serie A,Reggina Calcio,summer,out,Salvatore Ricca,44295,18,Italy,Centre-Back,CB,,Fermana Calcio 1920,Italy,,0
+2002,Serie A,Reggina Calcio,summer,out,Alessandro Zoppetti,28876,23,Italy,Centre-Back,CB,,US Lecce,Italy,,0
+2002,Serie A,Reggina Calcio,summer,out,Antonio Giosa,22112,18,Italy,Centre-Back,CB,,AS Cittadella Padova,Italy,,0
+2002,Serie A,Reggina Calcio,summer,out,Nicola Carlo Pagani,43225,24,Italy,Centre-Back,CB,,Cosenza Calcio 1914,Italy,0.0,1
+2002,Serie A,Reggina Calcio,summer,out,Stefano Dall'Acqua,23352,20,Italy,Centre-Forward,CF,,AS Cittadella Padova,Italy,0.0,1
+2002,Serie A,Reggina Calcio,summer,out,Salvatore Vicari,24333,21,Italy,Right Midfield,RM,,FC Messina Peloro,Italy,0.0,1
+2002,Serie A,Reggina Calcio,summer,out,Maurizio Franzone,173733,33,Italy,Goalkeeper,GK,,Without Club,,,0
+2002,Serie A,Reggina Calcio,summer,out,Francesco Cester,485560,21,Italy,Striker,Striker,,Unknown,,,0
+2002,Serie A,Reggina Calcio,summer,out,Damián Álvarez,52588,24,Mexico,Left Winger,LW,,CA River Plate,Argentina,0.0,1
+2002,Serie A,Reggina Calcio,summer,out,Francesco Baldini,21901,28,Italy,Centre-Back,CB,,SSC Napoli,Italy,0.0,1
+2002,Serie A,Reggina Calcio,winter,out,Alessandro Pierini,6067,29,Italy,Centre-Back,CB,,AC Parma,Italy,,0
+2002,Serie A,Reggina Calcio,winter,out,Nicola Carlo Pagani,43225,25,Italy,Centre-Back,CB,,SP Ars et Labor,Italy,0.0,1
+2002,Serie A,Reggina Calcio,winter,out,Nassim Mendil,28854,23,France,Centre-Forward,CF,,Ascoli Calcio 1898,Italy,0.0,1
+2002,Serie A,Reggina Calcio,winter,out,Luca Castellazzi,6058,27,Italy,Goalkeeper,GK,,Brescia Calcio,Italy,0.0,1
+2002,Serie A,SS Lazio,summer,in,Bernardo Corradi,5851,26,Italy,Centre-Forward,CF,,Inter Milan,Italy,10000000.0,0
+2002,Serie A,SS Lazio,summer,in,Christian Manfredini,5850,27,Cote d'Ivoire,Left Winger,LW,,Chievo Verona,Italy,6710000.0,0
+2002,Serie A,SS Lazio,summer,in,Massimo Oddo,5837,26,Italy,Right-Back,RB,,Hellas Verona,Italy,1500000.0,0
+2002,Serie A,SS Lazio,summer,in,Enrico Chiesa,7329,31,Italy,Centre-Forward,CF,,Florentia Viola,Italy,0.0,0
+2002,Serie A,SS Lazio,summer,in,Juan Pablo Sorín,7925,26,Argentina,Left-Back,LB,,Cruzeiro Esporte Clube,Brazil,0.0,1
+2002,Serie A,SS Lazio,winter,in,Nikola Lazetic,5919,24,Serbia,Right Midfield,RM,,Como Calcio,Italy,,0
+2002,Serie A,SS Lazio,summer,out,Hernán Crespo,3410,27,Argentina,Centre-Forward,CF,,Inter Milan,Italy,40000000.0,0
+2002,Serie A,SS Lazio,summer,out,Alessandro Nesta,4171,26,Italy,Centre-Back,CB,,AC Milan,Italy,31000000.0,0
+2002,Serie A,SS Lazio,summer,out,Gaizka Mendieta,7603,28,Spain,Right Midfield,RM,,FC Barcelona,Spain,9000000.0,1
+2002,Serie A,SS Lazio,summer,out,Karel Poborský,3420,30,Czech Republic,Right Winger,RW,,AC Sparta Prague,Czech Republic,0.0,0
+2002,Serie A,SS Lazio,summer,out,Gasperino Cinelli,482984,20,Italy,Centre-Forward,CF,,FC Aprilia,Italy,,0
+2002,Serie A,SS Lazio,summer,out,Diego Favazza,249060,19,Italy,Goalkeeper,GK,,Teramo Calcio,Italy,,0
+2002,Serie A,SS Lazio,summer,out,Alberto Comazzi,21857,23,Italy,Centre-Back,CB,,Hellas Verona,Italy,,0
+2002,Serie A,SS Lazio,summer,out,Michelangelo Minieri,21940,21,Italy,Centre-Back,CB,400000.0,Florentia Viola,Italy,,0
+2002,Serie A,SS Lazio,summer,out,Emanuele Pesaresi,5840,25,Italy,Left-Back,LB,,Chievo Verona,Italy,,0
+2002,Serie A,SS Lazio,summer,out,Felice Evacuo,5852,20,Italy,Centre-Forward,CF,,Florentia Viola,Italy,0.0,1
+2002,Serie A,SS Lazio,summer,out,Emanuele Matzuzzi,299893,26,Italy,Midfielder,Midfielder,,Florentia Viola,Italy,0.0,1
+2002,Serie A,SS Lazio,summer,out,Roberto Baronio,6089,24,Italy,Defensive Midfield,DM,,AC Perugia,Italy,0.0,1
+2002,Serie A,SS Lazio,winter,out,Iván de la Peña,8037,26,Spain,Attacking Midfield,AM,,RCD Espanyol Barcelona,Spain,0.0,0
+2002,Serie A,SS Lazio,winter,out,Emanuele Matzuzzi,299893,26,Italy,Midfielder,Midfielder,,AS Gubbio 1910,Italy,,0
+2002,Serie A,SS Lazio,winter,out,Christian Manfredini,5850,27,Cote d'Ivoire,Left Winger,LW,,CA Osasuna,Spain,0.0,1
+2002,Serie A,SS Lazio,winter,out,Juan Pablo Sorín,7925,26,Argentina,Left-Back,LB,,Cruzeiro Esporte Clube,Brazil,0.0,1
+2002,Serie A,Torino Calcio,summer,in,Alessandro Conticchio,21879,28,Italy,Central Midfield,CM,,US Lecce,Italy,2800000.0,0
+2002,Serie A,Torino Calcio,summer,in,Federico Magallanes,16266,26,Uruguay,Centre-Forward,CF,,AC Venezia 1907,Italy,250000.0,1
+2002,Serie A,Torino Calcio,summer,in,Alessandro Campo,82681,18,Italy,Right Winger,RW,,AC Prato,Italy,,0
+2002,Serie A,Torino Calcio,summer,in,Vincenzo Sommese,16854,26,Italy,Right Winger,RW,,Vicenza Calcio,Italy,,0
+2002,Serie A,Torino Calcio,summer,in,Andrea Soncin,406304,18,Italy,Centre-Back,CB,,AC Perugia,Italy,,0
+2002,Serie A,Torino Calcio,summer,in,Alberto Maria Fontana,21884,27,Italy,Goalkeeper,GK,,US Palermo,Italy,,0
+2002,Serie A,Torino Calcio,summer,in,Giammarco Frezza,22255,26,Italy,Left Midfield,LM,,US Palermo,Italy,,0
+2002,Serie A,Torino Calcio,summer,in,Luca Mezzano,21888,24,Italy,Centre-Back,CB,,Inter Milan,Italy,,0
+2002,Serie A,Torino Calcio,summer,in,Gennaro Scarlato,21758,25,Italy,Centre-Back,CB,,Udinese Calcio,Italy,,0
+2002,Serie A,Torino Calcio,summer,in,Riccardo Maspero,167091,31,Italy,Attacking Midfield,AM,,Without Club,,,0
+2002,Serie A,Torino Calcio,winter,in,Carlos Marinelli,29613,20,Argentina,Attacking Midfield,AM,,Middlesbrough FC,England,0.0,1
+2002,Serie A,Torino Calcio,winter,in,Massimo Donati,5870,21,Italy,Defensive Midfield,DM,,AC Milan,Italy,0.0,1
+2002,Serie A,Torino Calcio,winter,in,Alexander Manninger,5278,25,Austria,Goalkeeper,GK,,Without Club,,,0
+2002,Serie A,Torino Calcio,winter,in,Francesco Statuto,151891,31,Italy,Central Midfield,CM,,Without Club,,,0
+2002,Serie A,Torino Calcio,summer,out,Antonino Asta,192381,31,Italy,Right Midfield,RM,,US Palermo,Italy,0.0,0
+2002,Serie A,Torino Calcio,summer,out,Massimo Brambilla,20727,29,Italy,Central Midfield,CM,,AC Siena,Italy,0.0,0
+2002,Serie A,Torino Calcio,summer,out,Franco Semioli,6154,22,Italy,Right Winger,RW,,Vicenza Calcio,Italy,0.0,1
+2002,Serie A,Torino Calcio,summer,out,Abdullah Fusseini,227420,20,Ghana,Midfielder,Midfielder,,AS Gualdo Calcio,Italy,,0
+2002,Serie A,Torino Calcio,summer,out,Giorgio Venturin,180554,34,Italy,Central Midfield,CM,,Taranto SS,Italy,,0
+2002,Serie A,Torino Calcio,summer,out,Tiziano Turchetti,515095,22,Italy,Striker,Striker,,US Viterbese,Italy,,0
+2002,Serie A,Torino Calcio,summer,out,Djibril Diawara,171813,27,Senegal,Centre-Back,CB,,Unknown,,,0
+2002,Serie A,Torino Calcio,summer,out,Gabriele Paoletti,34339,24,Italy,Goalkeeper,GK,,SS Lanciano,Italy,,0
+2002,Serie A,Torino Calcio,summer,out,Vítor Silva,25485,20,Portugal,Right Winger,RW,,FC Porto B,Portugal,,0
+2002,Serie A,Torino Calcio,summer,out,Alessandro Cibocchi,21812,19,Italy,Left-Back,LB,,US Viterbese,Italy,,0
+2002,Serie A,Torino Calcio,summer,out,Gennaro Scarlato,21758,25,Italy,Centre-Back,CB,,Ternana Calcio,Italy,,0
+2002,Serie A,Torino Calcio,summer,out,Benoît Cauet,15882,33,France,Central Midfield,CM,,Como Calcio,Italy,,0
+2002,Serie A,Torino Calcio,summer,out,Simone Tiribocchi,21700,24,Italy,Centre-Forward,CF,,AC Siena,Italy,0.0,1
+2002,Serie A,Torino Calcio,summer,out,Federico Marchetti,22318,19,Italy,Goalkeeper,GK,,US Pro Vercelli,Italy,0.0,1
+2002,Serie A,Torino Calcio,summer,out,Stefano Bianciardi,161069,17,Italy,Left-Back,LB,,AC Pistoiese,Italy,0.0,1
+2002,Serie A,Torino Calcio,summer,out,Fabio Quagliarella,22328,19,Italy,Centre-Forward,CF,,Florentia Viola,Italy,0.0,1
+2002,Serie A,Torino Calcio,summer,out,Emanuele Calaiò,22268,20,Italy,Centre-Forward,CF,,FC Messina Peloro,Italy,0.0,1
+2002,Serie A,Torino Calcio,summer,out,Daniele Martinelli,21761,20,Italy,Centre-Back,CB,,AC Siena,Italy,0.0,1
+2002,Serie A,Torino Calcio,summer,out,Riccardo Maspero,167091,31,Italy,Attacking Midfield,AM,,Without Club,,,0
+2002,Serie A,Torino Calcio,summer,out,Luca Mezzano,21888,24,Italy,Centre-Back,CB,,Inter Milan,Italy,0.0,1
+2002,Serie A,Torino Calcio,winter,out,Andrea Soncin,406304,19,Italy,Centre-Back,CB,,Vis Pesaro 1898,Italy,,0
+2002,Serie A,Torino Calcio,winter,out,Emanuele Calaiò,22268,20,Italy,Centre-Forward,CF,,Pescara Calcio,Italy,0.0,1
+2002,Serie A,Torino Calcio,winter,out,Fabio Giordano,22326,19,Italy,Defensive Midfield,DM,,AC Pisa 1909,Italy,0.0,1
+2002,Serie A,Torino Calcio,winter,out,Fabio Quagliarella,22328,19,Italy,Centre-Forward,CF,,Chieti Calcio,Italy,0.0,1
+2002,Serie A,Udinese Calcio,summer,in,Marek Jankulovski,3532,25,Czech Republic,Left-Back,LB,,SSC Napoli,Italy,3500000.0,0
+2002,Serie A,Udinese Calcio,summer,in,Carsten Jancker,202,27,Germany,Centre-Forward,CF,,Bayern Munich,Germany,2500000.0,0
+2002,Serie A,Udinese Calcio,summer,in,Thomas Thorninger,22933,29,Denmark,Centre-Forward,CF,,FC Copenhagen,Denmark,1000000.0,0
+2002,Serie A,Udinese Calcio,summer,in,Giuseppe Gemiti,735,21,Germany,Left-Back,LB,,Eintracht Frankfurt,Germany,0.0,0
+2002,Serie A,Udinese Calcio,summer,in,Roberto Sensini,5882,35,Argentina,Centre-Back,CB,,AC Parma,Italy,0.0,0
+2002,Serie A,Udinese Calcio,summer,in,Fabio Rossitto,6296,30,Italy,Central Midfield,CM,,Florentia Viola,Italy,,0
+2002,Serie A,Udinese Calcio,summer,in,Patrick Beneforti,5903,21,France,Attacking Midfield,AM,,SC Bastia,France,0.0,1
+2002,Serie A,Udinese Calcio,summer,out,Roberto Sosa,19285,27,Argentina,Centre-Forward,CF,,CA Boca Juniors,Argentina,900000.0,1
+2002,Serie A,Udinese Calcio,summer,out,Carlos Pavón,35362,28,Honduras,Centre-Forward,CF,,SSC Napoli,Italy,0.0,0
+2002,Serie A,Udinese Calcio,summer,out,Dimitrios Nalitzis,9855,26,Greece,Centre-Forward,CF,,AEK Athens,Greece,0.0,1
+2002,Serie A,Udinese Calcio,summer,out,Gennaro Scarlato,21758,25,Italy,Centre-Back,CB,,Torino Calcio,Italy,,0
+2002,Serie A,Udinese Calcio,summer,out,Fábio César Montezine,32099,23,Qatar,Left Midfield,LM,,SSC Napoli,Italy,,0
+2002,Serie A,Udinese Calcio,summer,out,Mauro Esposito,20735,23,Italy,Right Winger,RW,,Cagliari Calcio,Italy,,0
+2002,Serie A,Udinese Calcio,summer,out,Ousmane Sanda Sanda,137394,20,Cameroon,Attacking Midfield,AM,,FC Sporting Benevento,Italy,,0
+2002,Serie A,Udinese Calcio,summer,out,Luigi Turci,6745,32,Italy,Goalkeeper,GK,,UC Sampdoria,Italy,,0
+2002,Serie A,Udinese Calcio,summer,out,Elijah Louhenapessy,108137,25,Netherlands,Defensive Midfield,DM,,Polisportiva Tamai,Italy,,0
+2002,Serie A,Udinese Calcio,summer,out,Marco Zamboni,6036,24,Italy,Centre-Back,CB,,Modena FC,Italy,,0
+2002,Serie A,Udinese Calcio,summer,out,Pavel Grznar,21027,23,Czech Republic,Left-Back,LB,,US Triestina,Italy,0.0,1
+2002,Serie A,Udinese Calcio,summer,out,Terrence Genaux,52378,18,Belgium,Centre-Back,CB,,FC Sporting Benevento,Italy,0.0,1
+2002,Serie A,Udinese Calcio,summer,out,Zlatan Muslimovic,30650,21,Bosnia-Herzegovina,Centre-Forward,CF,,Ascoli Calcio 1898,Italy,0.0,1
+2002,Serie A,Udinese Calcio,summer,out,Mauricio Pineda,106109,27,Argentina,Left-Back,LB,,Cagliari Calcio,Italy,0.0,1
+2002,Serie A,Udinese Calcio,summer,out,Winston Parks,9655,20,Costa Rica,Centre-Forward,CF,,Ascoli Calcio 1898,Italy,0.0,1
+2002,Serie A,Udinese Calcio,summer,out,Luis Helguera,16845,26,Spain,Defensive Midfield,DM,,Deportivo Alavés,Spain,0.0,1
+2002,Serie A,Udinese Calcio,summer,out,Anthony Basso,26749,22,France,Goalkeeper,GK,,FC Sporting Benevento,Italy,0.0,1
+2002,Serie A,Udinese Calcio,summer,out,David Di Michele,6076,26,Italy,Centre-Forward,CF,,Reggina Calcio,Italy,0.0,1
+2002,Serie A,Udinese Calcio,summer,out,Régis Genaux,5891,28,Belgium,Right-Back,RB,,Retired,,,0
+2002,Serie A,Udinese Calcio,summer,out,Esteban Lopez,228554,25,Spain,Right-Back,RB,,Retired,,,0
+2002,Serie A,Udinese Calcio,summer,out,Marcos Paulo,13808,25,Brazil,Central Midfield,CM,,Cruzeiro Esporte Clube,Brazil,0.0,1
+2002,Serie A,Udinese Calcio,summer,out,Isaac Jové,57936,22,Spain,Left Winger,LW,,Ciudad de Murcia,Spain,0.0,1
+2002,Serie A,Udinese Calcio,summer,out,Jorge Cordero,29150,25,Spain,Midfielder,Midfielder,,Ciudad de Murcia,Spain,,0
+2002,Serie A,Udinese Calcio,winter,out,Winston Parks,9655,21,Costa Rica,Centre-Forward,CF,,Lokomotiv Moskau,Russia,1800000.0,0
+2002,Serie A,Udinese Calcio,winter,out,Vito Raimondi,2818,19,Italy,Attacking Midfield,AM,,SV Darmstadt 98,Germany,0.0,0
+2002,Serie A,Udinese Calcio,winter,out,Maurizio Bedin,5898,23,Italy,Central Midfield,CM,,Cosenza Calcio 1914,Italy,,0
+2002,Serie A,Udinese Calcio,winter,out,Mohammed Gargo,5887,27,Ghana,Centre-Back,CB,,AC Venezia 1907,Italy,0.0,1
+2002,Serie A,Udinese Calcio,winter,out,Gonzalo Martínez,5885,27,Colombia,Right-Back,RB,100000.0,SSC Napoli,Italy,0.0,1
+2002,Serie A,Udinese Calcio,winter,out,Roberto Sosa,19285,27,Argentina,Centre-Forward,CF,,Club de Gimnasia y Esgrima La Plata,Argentina,0.0,1
+2002,Serie A,Udinese Calcio,winter,out,Patrick Beneforti,5903,22,France,Attacking Midfield,AM,,SC Bastia,France,0.0,1
