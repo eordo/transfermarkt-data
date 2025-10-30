@@ -1,0 +1,735 @@
+season,league,club,window,movement,player_name,player_id,age,nationality,position,pos,market_value,dealing_club,dealing_country,fee,is_loan
+2010,Super Lig,Antalyaspor,summer,in,Uğur İnceman,933,29,Türkiye,Central Midfield,CM,1300000.0,Besiktas JK,Türkiye,0.0,0
+2010,Super Lig,Antalyaspor,summer,in,Kenan Özer,38195,23,Türkiye,Right Winger,RW,300000.0,Besiktas JK U21,Türkiye,0.0,0
+2010,Super Lig,Antalyaspor,summer,in,Ivan Radeljic,34443,29,Bosnia-Herzegovina,Centre-Back,CB,1000000.0,Genclerbirligi Ankara,Türkiye,0.0,0
+2010,Super Lig,Antalyaspor,summer,in,Tuna Üzümcü,33799,27,Türkiye,Centre-Back,CB,850000.0,Bursaspor,Türkiye,0.0,0
+2010,Super Lig,Antalyaspor,summer,in,Grégory Proment,12107,31,France,Defensive Midfield,DM,1200000.0,SM Caen,France,0.0,0
+2010,Super Lig,Antalyaspor,summer,in,İlkem Özkaynak,33802,28,Türkiye,Left-Back,LB,400000.0,MKE Ankaragücü,Türkiye,0.0,0
+2010,Super Lig,Antalyaspor,summer,in,Kerem Şeras,33797,26,Türkiye,Defensive Midfield,DM,1000000.0,Genclerbirligi Ankara,Türkiye,0.0,0
+2010,Super Lig,Antalyaspor,summer,in,Deniz Barış,755,32,Türkiye,Centre-Back,CB,600000.0,Fenerbahce,Türkiye,0.0,0
+2010,Super Lig,Antalyaspor,summer,in,Sammy Ndjock,126666,20,Cameroon,Goalkeeper,GK,,LOSC Lille B,France,0.0,0
+2010,Super Lig,Antalyaspor,summer,in,Yenal Tuncer,45009,25,Türkiye,Left-Back,LB,200000.0,Bursaspor,Türkiye,0.0,1
+2010,Super Lig,Antalyaspor,summer,in,Tita,21488,28,Brazil,Left Winger,LW,1800000.0,Ankaraspor,Türkiye,0.0,1
+2010,Super Lig,Antalyaspor,summer,in,Erkan Sekman,41011,26,Türkiye,Right-Back,RB,500000.0,Gaziantepspor,Türkiye,,0
+2010,Super Lig,Antalyaspor,winter,in,İbrahim Dağaşan,35265,26,Türkiye,Defensive Midfield,DM,1000000.0,Bucaspor,Türkiye,0.0,0
+2010,Super Lig,Antalyaspor,winter,in,Ali Turan,18547,27,Türkiye,Centre-Back,CB,3000000.0,Galatasaray,Türkiye,0.0,0
+2010,Super Lig,Antalyaspor,winter,in,Mehmet Yılmaz,6915,31,Türkiye,Centre-Forward,CF,750000.0,Without Club,,,0
+2010,Super Lig,Antalyaspor,summer,out,Yalçın Ayhan,7152,28,Türkiye,Centre-Back,CB,1500000.0,Gaziantepspor,Türkiye,30000.0,0
+2010,Super Lig,Antalyaspor,summer,out,Orhan Ak,6860,30,Türkiye,Centre-Back,CB,750000.0,Bucaspor,Türkiye,0.0,0
+2010,Super Lig,Antalyaspor,summer,out,Korhan Öztürk,7339,29,Türkiye,Central Midfield,CM,1000000.0,Kasimpasa,Türkiye,0.0,0
+2010,Super Lig,Antalyaspor,summer,out,Vahap Işık,37105,27,Türkiye,Centre-Back,CB,200000.0,Giresunspor,Türkiye,0.0,0
+2010,Super Lig,Antalyaspor,summer,out,Kerim Zengin,8548,25,Türkiye,Right-Back,RB,750000.0,Kardemir DC Karabükspor,Türkiye,0.0,0
+2010,Super Lig,Antalyaspor,summer,out,Hakan Özmert,17465,25,Türkiye,Central Midfield,CM,450000.0,Kardemir DC Karabükspor,Türkiye,0.0,0
+2010,Super Lig,Antalyaspor,summer,out,Radoslav Batak,15669,32,Serbia,Centre-Back,CB,700000.0,Mogren Budva,Montenegro,0.0,0
+2010,Super Lig,Antalyaspor,summer,out,Şenol Can,7309,27,Türkiye,Left-Back,LB,1000000.0,Gaziantepspor,Türkiye,0.0,0
+2010,Super Lig,Antalyaspor,summer,out,Fatih Ceylan,17451,29,Türkiye,Left Midfield,LM,700000.0,Kardemir DC Karabükspor,Türkiye,0.0,0
+2010,Super Lig,Antalyaspor,summer,out,Hasan Demir,83902,20,Türkiye,Goalkeeper,GK,50000.0,Alanyaspor,Türkiye,0.0,1
+2010,Super Lig,Antalyaspor,summer,out,Zeki Yıldırım,141737,19,Türkiye,Defensive Midfield,DM,50000.0,Alanyaspor,Türkiye,0.0,1
+2010,Super Lig,Antalyaspor,summer,out,Pini Balili,10135,31,Israel,Centre-Forward,CF,600000.0,Bnei Yehuda Tel Aviv,Israel,,0
+2010,Super Lig,Antalyaspor,summer,out,Hasan Sönmez,6895,33,Türkiye,Goalkeeper,GK,100000.0,Without Club,,,0
+2010,Super Lig,Antalyaspor,summer,out,Gürhan Gürsoy,6953,22,Türkiye,Left Midfield,LM,300000.0,Fenerbahce,Türkiye,0.0,1
+2010,Super Lig,Antalyaspor,summer,out,Tita,21488,28,Brazil,Left Winger,LW,1800000.0,Ankaraspor,Türkiye,0.0,1
+2010,Super Lig,Antalyaspor,summer,out,Erhan Güven,33794,28,Türkiye,Right-Back,RB,1200000.0,Besiktas JK,Türkiye,0.0,1
+2010,Super Lig,Antalyaspor,summer,out,Mile Jedinak,28336,25,Australia,Defensive Midfield,DM,2000000.0,Genclerbirligi Ankara,Türkiye,0.0,1
+2010,Super Lig,Antalyaspor,winter,out,Grégory Proment,12107,32,France,Defensive Midfield,DM,1200000.0,SM Caen,France,0.0,0
+2010,Super Lig,Antalyaspor,winter,out,Musa Nizam,68523,20,Türkiye,Centre-Back,CB,450000.0,Denizlispor,Türkiye,0.0,1
+2010,Super Lig,Antalyaspor,winter,out,Ertuğrul Arslan,33550,30,Türkiye,Defensive Midfield,DM,1100000.0,Konyaspor,Türkiye,,0
+2010,Super Lig,Besiktas JK,summer,in,Ricardo Quaresma,4188,26,Portugal,Right Winger,RW,12000000.0,Inter Milan,Italy,7300000.0,0
+2010,Super Lig,Besiktas JK,summer,in,Cenk Gönen,45214,22,Türkiye,Goalkeeper,GK,1000000.0,Denizlispor,Türkiye,1000000.0,0
+2010,Super Lig,Besiktas JK,summer,in,Fatih Tekke,6924,32,Türkiye,Centre-Forward,CF,1500000.0,Rubin Kazan,Russia,750000.0,0
+2010,Super Lig,Besiktas JK,summer,in,Ersan Gülüm,44982,23,Türkiye,Centre-Back,CB,1000000.0,Adanaspor,Türkiye,350000.0,1
+2010,Super Lig,Besiktas JK,summer,in,Mehmet Aurélio,7421,32,Türkiye,Defensive Midfield,DM,3000000.0,Real Betis Balompié,Spain,0.0,0
+2010,Super Lig,Besiktas JK,summer,in,Guti,7530,33,Spain,Central Midfield,CM,5500000.0,Real Madrid,Spain,0.0,0
+2010,Super Lig,Besiktas JK,summer,in,Roberto Hilbert,3256,25,Germany,Right-Back,RB,2500000.0,VfB Stuttgart,Germany,0.0,0
+2010,Super Lig,Besiktas JK,winter,in,Hugo Almeida,9824,26,Portugal,Centre-Forward,CF,8000000.0,SV Werder Bremen,Germany,2000000.0,0
+2010,Super Lig,Besiktas JK,winter,in,Simão,8019,31,Portugal,Left Winger,LW,9000000.0,Atlético de Madrid,Spain,900000.0,0
+2010,Super Lig,Besiktas JK,winter,in,Manuel Fernandes,16791,24,Portugal,Attacking Midfield,AM,8000000.0,Valencia CF,Spain,800000.0,1
+2010,Super Lig,Besiktas JK,summer,out,Batuhan Karadeniz,52270,19,Türkiye,Centre-Forward,CF,2100000.0,Eskisehirspor,Türkiye,2100000.0,0
+2010,Super Lig,Besiktas JK,summer,out,Gordon Schildenfeld,38870,25,Croatia,Centre-Back,CB,1500000.0,SK Sturm Graz,Austria,400000.0,0
+2010,Super Lig,Besiktas JK,summer,out,Mehmet Sedef,37949,23,Türkiye,Centre-Back,CB,150000.0,Konyaspor,Türkiye,0.0,0
+2010,Super Lig,Besiktas JK,summer,out,Uğur İnceman,933,29,Türkiye,Central Midfield,CM,1300000.0,Antalyaspor,Türkiye,0.0,0
+2010,Super Lig,Besiktas JK,summer,out,Matías Delgado,8886,27,Argentina,Attacking Midfield,AM,3500000.0,Al-Jazira Club,United Arab Emirates,0.0,0
+2010,Super Lig,Besiktas JK,summer,out,Can Erdem,47299,23,Türkiye,Centre-Forward,CF,300000.0,Denizlispor,Türkiye,0.0,0
+2010,Super Lig,Besiktas JK,summer,out,Rodrigo Tello,3413,30,Chile,Left Winger,LW,4000000.0,Eskisehirspor,Türkiye,0.0,0
+2010,Super Lig,Besiktas JK,summer,out,Erkan Zengin,23674,24,Sweden,Left Winger,LW,650000.0,Eskisehirspor,Türkiye,0.0,0
+2010,Super Lig,Besiktas JK,summer,out,Serdar Özkan,8487,23,Türkiye,Left Winger,LW,1500000.0,Galatasaray,Türkiye,0.0,0
+2010,Super Lig,Besiktas JK,summer,out,Erkam Reşmen,72128,20,Türkiye,Centre-Back,CB,50000.0,Gaziantep Büyüksehir Belediyespor,Türkiye,0.0,1
+2010,Super Lig,Besiktas JK,summer,out,Sezer Özmen,110697,18,Türkiye,Centre-Back,CB,,Caykur Rizespor,Türkiye,0.0,1
+2010,Super Lig,Besiktas JK,summer,out,Korcan Çelikay,50483,22,Türkiye,Goalkeeper,GK,50000.0,Diyarbakirspor,Türkiye,0.0,1
+2010,Super Lig,Besiktas JK,summer,out,Erkan Kaş,165711,18,Türkiye,Left-Back,LB,,Caykur Rizespor,Türkiye,0.0,1
+2010,Super Lig,Besiktas JK,summer,out,Burak Tahir Ateş,72112,21,Türkiye,Midfielder,Midfielder,,Gaziosmanpasa,Türkiye,0.0,1
+2010,Super Lig,Besiktas JK,summer,out,Nihat Kahveci,6569,31,Türkiye,Centre-Forward,CF,4000000.0,Without Club,,,0
+2010,Super Lig,Besiktas JK,summer,out,Ramazan Özcan,16498,26,Austria,Goalkeeper,GK,300000.0,TSG 1899 Hoffenheim,Germany,0.0,1
+2010,Super Lig,Besiktas JK,winter,out,Michael Fink,5059,28,Germany,Centre-Back,CB,1700000.0,Borussia Mönchengladbach,Germany,700000.0,1
+2010,Super Lig,Besiktas JK,winter,out,Fatih Tekke,6924,33,Türkiye,Centre-Forward,CF,1500000.0,MKE Ankaragücü,Türkiye,0.0,0
+2010,Super Lig,Besiktas JK,winter,out,Yusuf Şimşek,7034,35,Türkiye,Attacking Midfield,AM,1200000.0,Kayseri Erciyesspor,Türkiye,0.0,0
+2010,Super Lig,Besiktas JK,winter,out,Rıza Şen,38196,24,Türkiye,Right Midfield,RM,250000.0,Körfezspor,Türkiye,0.0,0
+2010,Super Lig,Besiktas JK,winter,out,Korcan Çelikay,50483,23,Türkiye,Goalkeeper,GK,50000.0,Sivasspor,Türkiye,0.0,1
+2010,Super Lig,Besiktas JK,winter,out,Filip Holosko,21245,26,Slovakia,Right Winger,RW,6700000.0,Büyüksehir Belediyespor,Türkiye,0.0,1
+2010,Super Lig,Besiktas JK,winter,out,Ali Kucık,65884,19,Türkiye,Centre-Forward,CF,450000.0,Bucaspor,Türkiye,0.0,1
+2010,Super Lig,Besiktas JK,winter,out,Burak Tahir Ateş,72112,22,Türkiye,Midfielder,Midfielder,,Unknown,,,0
+2010,Super Lig,Besiktas JK,winter,out,Rodrigo Tabata,52911,30,Qatar,Attacking Midfield,AM,3500000.0,Al-Rayyan SC,Qatar,0.0,1
+2010,Super Lig,Besiktas JK,winter,out,İbrahim Üzülmez,6914,37,Türkiye,Left-Back,LB,1000000.0,Without Club,,,0
+2010,Super Lig,Besiktas JK,winter,out,Tomas Zapotocny,21262,30,Czech Republic,Centre-Back,CB,3200000.0,Without Club,,,0
+2010,Super Lig,Bucaspor,summer,in,Carlos Fernandes,23211,30,Angola,Goalkeeper,GK,1100000.0,Rio Ave FC,Portugal,0.0,0
+2010,Super Lig,Bucaspor,summer,in,Ömer Kahveci,131759,18,Türkiye,Goalkeeper,GK,,Adana Demirspor,Türkiye,0.0,0
+2010,Super Lig,Bucaspor,summer,in,Dady,34823,28,Cape Verde,Centre-Forward,CF,1800000.0,CA Osasuna,Spain,0.0,0
+2010,Super Lig,Bucaspor,summer,in,Landry Mulemo,18532,23,DR Congo,Left-Back,LB,1000000.0,Standard Liège,Belgium,0.0,0
+2010,Super Lig,Bucaspor,summer,in,Ahmet Aras,44970,22,Türkiye,Centre-Forward,CF,50000.0,Izmirspor,Türkiye,0.0,0
+2010,Super Lig,Bucaspor,summer,in,Ragıp Başdağ,17448,32,Türkiye,Defensive Midfield,DM,500000.0,Eskisehirspor,Türkiye,0.0,0
+2010,Super Lig,Bucaspor,summer,in,İbrahim Dağaşan,35265,26,Türkiye,Defensive Midfield,DM,1000000.0,Sivasspor,Türkiye,0.0,0
+2010,Super Lig,Bucaspor,summer,in,Victor Mendy,51314,28,Senegal,Centre-Forward,CF,900000.0,FC Metz,France,0.0,0
+2010,Super Lig,Bucaspor,summer,in,Musa Aydın,7139,29,Türkiye,Right Winger,RW,2000000.0,Sivasspor,Türkiye,0.0,0
+2010,Super Lig,Bucaspor,summer,in,Mohamed Dahmane,38814,28,Algeria,Centre-Forward,CF,800000.0,Club Brugge KV,Belgium,0.0,0
+2010,Super Lig,Bucaspor,summer,in,Stjepan Tomas,13937,34,Croatia,Centre-Back,CB,650000.0,Gaziantepspor,Türkiye,0.0,0
+2010,Super Lig,Bucaspor,summer,in,Jerko Leko,9799,30,Croatia,Defensive Midfield,DM,850000.0,AS Monaco,France,0.0,0
+2010,Super Lig,Bucaspor,summer,in,Orhan Ak,6860,30,Türkiye,Centre-Back,CB,750000.0,Antalyaspor,Türkiye,0.0,0
+2010,Super Lig,Bucaspor,summer,in,Emre Aktaş,37968,23,Türkiye,Centre-Forward,CF,800000.0,Adanaspor,Türkiye,0.0,1
+2010,Super Lig,Bucaspor,summer,in,Ali Güneş,404,31,Türkiye,Central Midfield,CM,350000.0,Kasimpasa,Türkiye,,0
+2010,Super Lig,Bucaspor,summer,in,Koray Çölgeçen,29451,25,Türkiye,Centre-Back,CB,700000.0,MKE Ankaragücü,Türkiye,,0
+2010,Super Lig,Bucaspor,summer,in,Kadir Atkın,214950,21,Türkiye,Left-Back,LB,,Altinordu FK,Türkiye,,0
+2010,Super Lig,Bucaspor,summer,in,Onur Tuncer,8539,26,Türkiye,Defensive Midfield,DM,350000.0,Boluspor,Türkiye,,0
+2010,Super Lig,Bucaspor,summer,in,Oğuz Başaran,154973,21,Türkiye,Right Winger,RW,,Darica Genclerbirligi,Türkiye,,0
+2010,Super Lig,Bucaspor,summer,in,Manucho,64484,27,Angola,Centre-Forward,CF,1800000.0,Real Valladolid CF,Spain,0.0,1
+2010,Super Lig,Bucaspor,summer,in,Ediz Bahtiyaroğlu,44997,24,Türkiye,Centre-Back,CB,1000000.0,MKE Ankaragücü,Türkiye,0.0,1
+2010,Super Lig,Bucaspor,winter,in,Ali Kucık,65884,19,Türkiye,Centre-Forward,CF,450000.0,Besiktas JK,Türkiye,0.0,1
+2010,Super Lig,Bucaspor,winter,in,Samet Bülbül,175608,19,Türkiye,Central Midfield,CM,,Besiktas JK U21,Türkiye,0.0,1
+2010,Super Lig,Bucaspor,winter,in,Torric Jebrin,181665,19,Ghana,Attacking Midfield,AM,,Hearts of Oak,Ghana,,0
+2010,Super Lig,Bucaspor,winter,in,Abdulkadir Özgen,41426,24,Türkiye,Centre-Forward,CF,200000.0,Kayserispor,Türkiye,,0
+2010,Super Lig,Bucaspor,winter,in,Leandrão,62772,27,Brazil,Centre-Back,CB,,Bonsucesso FC (RJ),Brazil,,0
+2010,Super Lig,Bucaspor,winter,in,Cenk İşler,1294,36,Türkiye,Centre-Forward,CF,500000.0,Samsunspor,Türkiye,,0
+2010,Super Lig,Bucaspor,winter,in,Beto,58385,29,Brazil,Centre-Forward,CF,2700000.0,Gaziantepspor,Türkiye,0.0,1
+2010,Super Lig,Bucaspor,winter,in,Pavel Londak,45249,30,Estonia,Goalkeeper,GK,300000.0,FK Bodø/Glimt,Norway,0.0,1
+2010,Super Lig,Bucaspor,winter,in,Koray İçten,49081,23,Türkiye,Left-Back,LB,50000.0,Without Club,,,0
+2010,Super Lig,Bucaspor,winter,in,Kévin Parienté,99504,24,France,Right Winger,RW,150000.0,Without Club,,,0
+2010,Super Lig,Bucaspor,summer,out,İzzet Kaya,114133,33,Türkiye,Right-Back,RB,150000.0,Göztepe,Türkiye,0.0,0
+2010,Super Lig,Bucaspor,summer,out,Ibrahim Idis,114131,20,Türkiye,Centre-Forward,CF,50000.0,Gümüshanespor,Türkiye,0.0,0
+2010,Super Lig,Bucaspor,summer,out,Mehmet Batdal,58378,24,Türkiye,Centre-Forward,CF,1200000.0,Galatasaray,Türkiye,0.0,0
+2010,Super Lig,Bucaspor,summer,out,Yunus Altun,8711,32,Türkiye,Centre-Forward,CF,250000.0,Mersin Idmanyurdu,Türkiye,0.0,0
+2010,Super Lig,Bucaspor,summer,out,Murat Karakoç,29638,30,Türkiye,Left Midfield,LM,250000.0,Altay SK,Türkiye,0.0,0
+2010,Super Lig,Bucaspor,summer,out,Türker Demirhan,58691,27,Türkiye,Centre-Forward,CF,75000.0,Göztepe,Türkiye,0.0,0
+2010,Super Lig,Bucaspor,summer,out,Yakup Sertkaya,7316,31,Türkiye,Central Midfield,CM,175000.0,Balikesirspor,Türkiye,0.0,0
+2010,Super Lig,Bucaspor,summer,out,Oğuz Başaran,154973,21,Türkiye,Right Winger,RW,50000.0,Adana Demirspor,Türkiye,0.0,1
+2010,Super Lig,Bucaspor,summer,out,Yılmaz Özlem,7008,38,Türkiye,Defensive Midfield,DM,150000.0,Göztepe,Türkiye,,0
+2010,Super Lig,Bucaspor,summer,out,Onur Çubukçu,58688,25,Türkiye,Attacking Midfield,AM,175000.0,Diyarbakirspor,Türkiye,,0
+2010,Super Lig,Bucaspor,summer,out,Seyhan Cenk Tekelioğlu,45012,36,Türkiye,Goalkeeper,GK,100000.0,Altay SK,Türkiye,,0
+2010,Super Lig,Bucaspor,summer,out,Cem Karğın,33795,32,Türkiye,Centre-Back,CB,100000.0,Akcaabat Sebatspor,Türkiye,,0
+2010,Super Lig,Bucaspor,summer,out,Kadir Atkın,214950,21,Türkiye,Left-Back,LB,,Altinordu FK,Türkiye,0.0,1
+2010,Super Lig,Bucaspor,summer,out,Ediz Bahtiyaroğlu,44997,25,Türkiye,Centre-Back,CB,750000.0,MKE Ankaragücü,Türkiye,0.0,1
+2010,Super Lig,Bucaspor,summer,out,Pieter Mbemba,34864,21,Belgium,Centre-Back,CB,150000.0,Sivasspor,Türkiye,0.0,1
+2010,Super Lig,Bucaspor,summer,out,Bekir Yılmaz,114143,22,Türkiye,Central Midfield,CM,150000.0,Manisaspor,Türkiye,0.0,1
+2010,Super Lig,Bucaspor,winter,out,İbrahim Dağaşan,35265,26,Türkiye,Defensive Midfield,DM,1000000.0,Antalyaspor,Türkiye,0.0,0
+2010,Super Lig,Bucaspor,winter,out,Mohamed Dahmane,38814,28,Algeria,Centre-Forward,CF,800000.0,KAS Eupen,Belgium,0.0,0
+2010,Super Lig,Bucaspor,winter,out,Alişan Ural,49084,23,Türkiye,Centre-Back,CB,25000.0,Eyüpspor,Türkiye,0.0,1
+2010,Super Lig,Bucaspor,winter,out,Oğuz Başaran,154973,21,Türkiye,Right Winger,RW,50000.0,Balikesirspor,Türkiye,0.0,1
+2010,Super Lig,Bucaspor,winter,out,Berkay Samancı,58733,21,Türkiye,Defensive Midfield,DM,50000.0,Adana Demirspor,Türkiye,0.0,1
+2010,Super Lig,Bucaspor,winter,out,Ahmet Aras,44970,23,Türkiye,Centre-Forward,CF,50000.0,Bursa Nilüferspor,Türkiye,,0
+2010,Super Lig,Bucaspor,winter,out,Habib Uzun,134539,18,Türkiye,Centre-Forward,CF,,Hacettepe Spor,Türkiye,,0
+2010,Super Lig,Bucaspor,winter,out,Veli Kızılkaya,114135,25,Türkiye,Centre-Back,CB,250000.0,Kayseri Erciyesspor,Türkiye,,0
+2010,Super Lig,Bucaspor,winter,out,Mehmet Polat,6101,32,Türkiye,Centre-Back,CB,250000.0,Mersin Idmanyurdu,Türkiye,,0
+2010,Super Lig,Bucaspor,winter,out,Landry Mulemo,18532,24,DR Congo,Left-Back,LB,1200000.0,Without Club,,,0
+2010,Super Lig,Bucaspor,winter,out,Stjepan Tomas,13937,34,Croatia,Centre-Back,CB,650000.0,Retired,,,0
+2010,Super Lig,Bucaspor,winter,out,Dady,34823,29,Cape Verde,Centre-Forward,CF,1800000.0,Without Club,,,0
+2010,Super Lig,Bucaspor,winter,out,Ali Güneş,404,32,Türkiye,Central Midfield,CM,350000.0,Without Club,,,0
+2010,Super Lig,Bucaspor,winter,out,Manucho,64484,27,Angola,Centre-Forward,CF,1800000.0,Real Valladolid CF,Spain,0.0,1
+2010,Super Lig,Bucaspor,winter,out,Emre Aktaş,37968,24,Türkiye,Centre-Forward,CF,850000.0,Adanaspor,Türkiye,0.0,1
+2010,Super Lig,Bursaspor,summer,in,Milan Stepanov,28698,27,Serbia,Centre-Back,CB,1800000.0,FC Porto,Portugal,800000.0,0
+2010,Super Lig,Bursaspor,summer,in,Wederson,21480,28,Brazil,Left-Back,LB,2500000.0,Fenerbahce,Türkiye,0.0,0
+2010,Super Lig,Bursaspor,summer,in,Harun Tekin,85213,21,Türkiye,Goalkeeper,GK,150000.0,Güngören Belediyespor,Türkiye,0.0,0
+2010,Super Lig,Bursaspor,summer,in,Gustav Svensson,41362,23,Sweden,Centre-Back,CB,2000000.0,IFK Göteborg,Sweden,,0
+2010,Super Lig,Bursaspor,summer,in,Federico Insúa,4193,30,Argentina,Attacking Midfield,AM,2000000.0,CF América,Mexico,,0
+2010,Super Lig,Bursaspor,summer,in,Leonel Núñez,26741,25,Argentina,Left Winger,LW,1200000.0,CA Independiente,Argentina,0.0,1
+2010,Super Lig,Bursaspor,summer,in,Damián Steinert,55894,24,Argentina,Centre-Forward,CF,300000.0,Racing Club,Argentina,0.0,1
+2010,Super Lig,Bursaspor,winter,in,Kenny Miller,4750,31,Scotland,Centre-Forward,CF,7000000.0,Rangers FC,Scotland,475000.0,0
+2010,Super Lig,Bursaspor,winter,in,Mehmet Sak,58622,20,Türkiye,Left-Back,LB,100000.0,Altay SK,Türkiye,100000.0,0
+2010,Super Lig,Bursaspor,winter,in,Ahmet Arı,68506,22,Türkiye,Right Winger,RW,750000.0,Gaziantepspor,Türkiye,0.0,0
+2010,Super Lig,Bursaspor,winter,in,Jozy Altidore,39378,21,United States,Centre-Forward,CF,2500000.0,Villarreal CF,Spain,0.0,1
+2010,Super Lig,Bursaspor,winter,in,Bajram Nebihi,42787,22,Kosovo,Centre-Forward,CF,100000.0,Without Club,,,0
+2010,Super Lig,Bursaspor,summer,out,Cihan Özkaymak,232603,21,Türkiye,Left Winger,LW,,Oyak-Renault GSK,Türkiye,0.0,0
+2010,Super Lig,Bursaspor,summer,out,Young-rok Shin,81805,23,"Korea, South",Centre-Forward,CF,700000.0,Suwon Samsung Bluewings,"Korea, South",0.0,0
+2010,Super Lig,Bursaspor,summer,out,Tuna Üzümcü,33799,27,Türkiye,Centre-Back,CB,850000.0,Antalyaspor,Türkiye,0.0,0
+2010,Super Lig,Bursaspor,summer,out,Arda Karakurt,669813,23,Türkiye,Centre-Back,CB,,Belediye Bingölspor,Türkiye,0.0,1
+2010,Super Lig,Bursaspor,summer,out,Üstün Bilgi,169850,22,Türkiye,Centre-Forward,CF,250000.0,Iskenderun Demir Celikspor,Türkiye,0.0,1
+2010,Super Lig,Bursaspor,summer,out,Ramazan Sal,58624,25,Türkiye,Centre-Back,CB,150000.0,Boluspor,Türkiye,0.0,1
+2010,Super Lig,Bursaspor,summer,out,İsmail Özgür Göktaş,66444,21,Türkiye,Right Winger,RW,200000.0,Güngören Belediyespor,Türkiye,0.0,1
+2010,Super Lig,Bursaspor,summer,out,Yenal Tuncer,45009,25,Türkiye,Left-Back,LB,200000.0,Antalyaspor,Türkiye,0.0,1
+2010,Super Lig,Bursaspor,summer,out,Emrah Kiraz,51810,22,Türkiye,Centre-Back,CB,50000.0,Ünyespor,Türkiye,0.0,1
+2010,Super Lig,Bursaspor,summer,out,Halil Zeybek,76447,25,Türkiye,Right Winger,RW,125000.0,Diyarbakirspor,Türkiye,0.0,1
+2010,Super Lig,Bursaspor,summer,out,Gökhan Vuran,50862,23,Austria,Central Midfield,CM,50000.0,Konya Sekerspor,Türkiye,,0
+2010,Super Lig,Bursaspor,summer,out,Veli Acar,35261,28,Türkiye,Central Midfield,CM,700000.0,Konyaspor,Türkiye,,0
+2010,Super Lig,Bursaspor,summer,out,Leonardo Iglesias,40996,31,Argentina,Centre-Forward,CF,700000.0,Without Club,,,0
+2010,Super Lig,Bursaspor,summer,out,Tomas Zapotocny,21262,29,Czech Republic,Centre-Back,CB,3200000.0,Besiktas JK,Türkiye,0.0,1
+2010,Super Lig,Bursaspor,winter,out,Koray Öztürk,58661,23,Türkiye,Left-Back,LB,50000.0,Bandirmaspor,Türkiye,0.0,0
+2010,Super Lig,Bursaspor,winter,out,Üstün Bilgi,169850,22,Türkiye,Centre-Forward,CF,250000.0,Oyak-Renault GSK,Türkiye,0.0,0
+2010,Super Lig,Bursaspor,winter,out,Halil Zeybek,76447,25,Türkiye,Right Winger,RW,125000.0,Göztepe,Türkiye,0.0,1
+2010,Super Lig,Bursaspor,winter,out,Emrah Kiraz,51810,23,Türkiye,Centre-Back,CB,50000.0,Giresunspor,Türkiye,0.0,1
+2010,Super Lig,Bursaspor,winter,out,Muhammet Demir,83560,19,Türkiye,Centre-Forward,CF,350000.0,Gaziantepspor,Türkiye,0.0,0
+2010,Super Lig,Bursaspor,winter,out,Bajram Nebihi,42787,22,Kosovo,Centre-Forward,CF,100000.0,Without Club,,,0
+2010,Super Lig,Bursaspor,winter,out,Leonel Núñez,26741,26,Argentina,Left Winger,LW,1200000.0,CA Independiente,Argentina,0.0,1
+2010,Super Lig,Bursaspor,winter,out,Damián Steinert,55894,24,Argentina,Centre-Forward,CF,300000.0,Racing Club,Argentina,0.0,1
+2010,Super Lig,Büyüksehir Belediyespor,summer,in,Samuel Holmén,24379,26,Sweden,Central Midfield,CM,2250000.0,Bröndby IF,Denmark,1000000.0,0
+2010,Super Lig,Büyüksehir Belediyespor,summer,in,Cihan Haspolatlı,6866,30,Türkiye,Defensive Midfield,DM,750000.0,MKE Ankaragücü,Türkiye,0.0,0
+2010,Super Lig,Büyüksehir Belediyespor,summer,in,Serhat Akyüz,28991,26,Türkiye,Centre-Back,CB,200000.0,Konyaspor,Türkiye,0.0,0
+2010,Super Lig,Büyüksehir Belediyespor,summer,in,Mehmet Yılmaz,45010,22,Türkiye,Centre-Back,CB,50000.0,Siirtspor,Türkiye,0.0,0
+2010,Super Lig,Büyüksehir Belediyespor,winter,in,Filip Holosko,21245,26,Slovakia,Right Winger,RW,6700000.0,Besiktas JK,Türkiye,0.0,1
+2010,Super Lig,Büyüksehir Belediyespor,winter,in,Gökhan Ünal,7394,28,Türkiye,Centre-Forward,CF,3700000.0,Fenerbahce,Türkiye,0.0,1
+2010,Super Lig,Büyüksehir Belediyespor,summer,out,Mehmet Ali Tunç,18546,28,Türkiye,Goalkeeper,GK,100000.0,Giresunspor,Türkiye,0.0,0
+2010,Super Lig,Büyüksehir Belediyespor,summer,out,Kanfory Sylla,12940,30,Guinea,Defensive Midfield,DM,600000.0,Konyaspor,Türkiye,0.0,0
+2010,Super Lig,Büyüksehir Belediyespor,summer,out,Okan Buruk,5791,36,Türkiye,Right Midfield,RM,400000.0,Retired,,,0
+2010,Super Lig,Büyüksehir Belediyespor,summer,out,Oğuz Sabankay,47642,22,Türkiye,Attacking Midfield,AM,200000.0,Galatasaray,Türkiye,0.0,1
+2010,Super Lig,Büyüksehir Belediyespor,winter,out,Mazuwa Nsumbu,44757,28,DR Congo,Defensive Midfield,DM,400000.0,FC Tornado Kinshasa,DR Congo,0.0,0
+2010,Super Lig,Büyüksehir Belediyespor,winter,out,Gökhan Kaba,35636,27,Türkiye,Centre-Forward,CF,350000.0,Caykur Rizespor,Türkiye,0.0,1
+2010,Super Lig,Büyüksehir Belediyespor,winter,out,Hasan Ali Durtuluk,70416,22,Türkiye,Centre-Forward,CF,300000.0,TKI Tavsanli Linyitspor,Türkiye,0.0,1
+2010,Super Lig,Büyüksehir Belediyespor,winter,out,Mehmet Yılmaz,45010,22,Türkiye,Centre-Back,CB,50000.0,Turgutluspor,Türkiye,0.0,1
+2010,Super Lig,Eskisehirspor,summer,in,Batuhan Karadeniz,52270,19,Türkiye,Centre-Forward,CF,2100000.0,Besiktas JK,Türkiye,2100000.0,0
+2010,Super Lig,Eskisehirspor,summer,in,Pelé,48930,22,Portugal,Central Midfield,CM,2800000.0,FC Porto,Portugal,680000.0,0
+2010,Super Lig,Eskisehirspor,summer,in,Burhan Eşer,33958,25,Türkiye,Right Winger,RW,1500000.0,Genclerbirligi Ankara,Türkiye,600000.0,0
+2010,Super Lig,Eskisehirspor,summer,in,Rodrigo Tello,3413,30,Chile,Left Winger,LW,4000000.0,Besiktas JK,Türkiye,0.0,0
+2010,Super Lig,Eskisehirspor,summer,in,Erkan Zengin,23674,24,Sweden,Left Winger,LW,650000.0,Besiktas JK,Türkiye,0.0,0
+2010,Super Lig,Eskisehirspor,summer,in,Emre Aygün,12046,25,Türkiye,Right-Back,RB,250000.0,MKE Ankaragücü,Türkiye,0.0,0
+2010,Super Lig,Eskisehirspor,summer,in,Diego Ângelo,59333,24,Brazil,Centre-Back,CB,1900000.0,Genoa CFC,Italy,0.0,0
+2010,Super Lig,Eskisehirspor,summer,in,Rashad Sadyqov,33969,28,Azerbaijan,Centre-Back,CB,750000.0,Qarabağ FK,Azerbaijan,,0
+2010,Super Lig,Eskisehirspor,summer,in,Agim Ibraimi,47005,22,North Macedonia,Right Winger,RW,600000.0,NK Olimpija Ljubljana,Slovenia,,0
+2010,Super Lig,Eskisehirspor,summer,out,Stjepan Poljak,27995,26,Croatia,Attacking Midfield,AM,400000.0,Slaven Belupo Koprivnica,Croatia,0.0,0
+2010,Super Lig,Eskisehirspor,summer,out,Özgür Öçal,54554,28,Türkiye,Right-Back,RB,400000.0,Kasimpasa,Türkiye,0.0,0
+2010,Super Lig,Eskisehirspor,summer,out,Selçuk Alibaz,89005,20,Türkiye,Attacking Midfield,AM,50000.0,SC Paderborn 07 II,Germany,0.0,0
+2010,Super Lig,Eskisehirspor,summer,out,Fahri Tatan,7442,27,Türkiye,Defensive Midfield,DM,500000.0,Adanaspor,Türkiye,0.0,0
+2010,Super Lig,Eskisehirspor,summer,out,Hüseyin Güngör,99407,20,Türkiye,Centre-Back,CB,50000.0,Adapazari Spor,Türkiye,0.0,0
+2010,Super Lig,Eskisehirspor,summer,out,Mehmet Yılmaz,6915,31,Türkiye,Centre-Forward,CF,750000.0,Gaziantepspor,Türkiye,0.0,0
+2010,Super Lig,Eskisehirspor,summer,out,Ragıp Başdağ,17448,32,Türkiye,Defensive Midfield,DM,500000.0,Bucaspor,Türkiye,0.0,0
+2010,Super Lig,Eskisehirspor,summer,out,Abdelzaher El Saka,7026,36,Egypt,Centre-Back,CB,500000.0,Enppi SC,Egypt,0.0,0
+2010,Super Lig,Eskisehirspor,summer,out,Sinan Ören,43061,22,Türkiye,Goalkeeper,GK,150000.0,Balikesirspor,Türkiye,0.0,1
+2010,Super Lig,Eskisehirspor,summer,out,Kenan Köse,144626,25,Türkiye,Central Midfield,CM,,Sanliurfaspor,Türkiye,,0
+2010,Super Lig,Eskisehirspor,summer,out,Ömer Yalçın,58851,26,Türkiye,Centre-Forward,CF,400000.0,Kayseri Erciyesspor,Türkiye,,0
+2010,Super Lig,Eskisehirspor,summer,out,Berkay Onarıcı,58839,23,Türkiye,Right Winger,RW,200000.0,Karsspor,Türkiye,,0
+2010,Super Lig,Eskisehirspor,summer,out,Ahmet Saglam,77643,23,Türkiye,Centre-Back,CB,50000.0,Göztepe,Türkiye,,0
+2010,Super Lig,Eskisehirspor,summer,out,Abdullah Halman,78418,23,Türkiye,Centre-Forward,CF,100000.0,Gaziantep Büyüksehir Belediyespor,Türkiye,,0
+2010,Super Lig,Eskisehirspor,summer,out,Aydın Yılmaz,37736,22,Türkiye,Right Winger,RW,700000.0,Galatasaray,Türkiye,0.0,1
+2010,Super Lig,Eskisehirspor,summer,out,Erkan Zengin,23674,24,Sweden,Left Winger,LW,650000.0,Besiktas JK,Türkiye,0.0,1
+2010,Super Lig,Eskisehirspor,winter,out,Murat Önür,35037,29,Türkiye,Left-Back,LB,350000.0,Boluspor,Türkiye,0.0,0
+2010,Super Lig,Eskisehirspor,winter,out,Agim Ibraimi,47005,22,North Macedonia,Right Winger,RW,600000.0,NK Nafta 1903,Slovenia,0.0,0
+2010,Super Lig,Eskisehirspor,winter,out,Emre Aygün,12046,25,Türkiye,Right-Back,RB,250000.0,Genclerbirligi Ankara,Türkiye,0.0,0
+2010,Super Lig,Eskisehirspor,winter,out,Adem Sari,15009,25,Türkiye,Centre-Forward,CF,450000.0,Denizlispor,Türkiye,0.0,1
+2010,Super Lig,Eskisehirspor,winter,out,Caner Celep,7155,27,Türkiye,Left-Back,LB,200000.0,Kartalspor,Türkiye,,0
+2010,Super Lig,Eskisehirspor,winter,out,Bülent Kocabey,16766,26,Türkiye,Attacking Midfield,AM,600000.0,Kardemir DC Karabükspor,Türkiye,,0
+2010,Super Lig,Eskisehirspor,winter,out,Jaycee John,63318,25,Bahrain,Centre-Forward,CF,700000.0,Al-Jahra SC,Kuwait,,0
+2010,Super Lig,Eskisehirspor,winter,out,Rashad Sadyqov,33969,28,Azerbaijan,Centre-Back,CB,1000000.0,Qarabağ FK,Azerbaijan,,0
+2010,Super Lig,Eskisehirspor,winter,out,Luka Vucko,25779,26,Croatia,Centre-Back,CB,1200000.0,Without Club,,,0
+2010,Super Lig,Fenerbahce,summer,in,Mamadou Niang,6118,30,Senegal,Centre-Forward,CF,11000000.0,Olympique Marseille,France,9000000.0,0
+2010,Super Lig,Fenerbahce,summer,in,Issiar Dia,43942,23,Senegal,Right Winger,RW,6500000.0,AS Nancy-Lorraine,France,6500000.0,0
+2010,Super Lig,Fenerbahce,summer,in,Miroslav Stoch,45559,20,Slovakia,Left Winger,LW,4500000.0,Chelsea FC,England,5500000.0,0
+2010,Super Lig,Fenerbahce,summer,in,Caner Erkin,39333,21,Türkiye,Left-Back,LB,2000000.0,CSKA Moscow,Russia,2000000.0,0
+2010,Super Lig,Fenerbahce,summer,in,Joseph Yobo,3270,29,Nigeria,Centre-Back,CB,8000000.0,Everton FC,England,600000.0,1
+2010,Super Lig,Fenerbahce,summer,in,İlhan Eker,51596,27,Türkiye,Centre-Back,CB,1500000.0,Genclerbirligi Ankara,Türkiye,0.0,0
+2010,Super Lig,Fenerbahce,summer,in,Serkan Kırıntılı,16058,25,Türkiye,Goalkeeper,GK,1500000.0,MKE Ankaragücü,Türkiye,0.0,0
+2010,Super Lig,Fenerbahce,summer,out,Ali Bilgin,1841,28,Türkiye,Central Midfield,CM,300000.0,Kayserispor,Türkiye,0.0,0
+2010,Super Lig,Fenerbahce,summer,out,Wederson,21480,28,Brazil,Left-Back,LB,2500000.0,Bursaspor,Türkiye,0.0,0
+2010,Super Lig,Fenerbahce,summer,out,Deniz Barış,755,32,Türkiye,Centre-Back,CB,600000.0,Antalyaspor,Türkiye,0.0,0
+2010,Super Lig,Fenerbahce,summer,out,Deivid,6800,30,Brazil,Centre-Forward,CF,3200000.0,CR Flamengo,Brazil,0.0,0
+2010,Super Lig,Fenerbahce,summer,out,Önder Turacı,13492,29,Türkiye,Centre-Back,CB,1700000.0,Kayserispor,Türkiye,0.0,0
+2010,Super Lig,Fenerbahce,summer,out,Gürhan Gürsoy,6953,22,Türkiye,Left Midfield,LM,300000.0,Bugsas Spor,Türkiye,0.0,0
+2010,Super Lig,Fenerbahce,summer,out,Volkan Babacan,52261,22,Türkiye,Goalkeeper,GK,750000.0,Kayserispor,Türkiye,0.0,1
+2010,Super Lig,Fenerbahce,winter,out,Colin Kazım-Richards,36802,24,Türkiye,Centre-Forward,CF,3700000.0,Galatasaray,Türkiye,0.0,0
+2010,Super Lig,Fenerbahce,winter,out,Gökhan Ünal,7394,28,Türkiye,Centre-Forward,CF,3700000.0,Büyüksehir Belediyespor,Türkiye,0.0,1
+2010,Super Lig,Galatasaray,summer,in,Zvjezdan Misimovic,2309,28,Bosnia-Herzegovina,Attacking Midfield,AM,14500000.0,VfL Wolfsburg,Germany,8500000.0,0
+2010,Super Lig,Galatasaray,summer,in,Lorik Cana,12149,26,Albania,Defensive Midfield,DM,12000000.0,Sunderland AFC,England,4500000.0,0
+2010,Super Lig,Galatasaray,summer,in,Juan Pablo Pino,46809,23,Colombia,Right Winger,RW,2000000.0,AS Monaco,France,3000000.0,0
+2010,Super Lig,Galatasaray,summer,in,Çağlar Birinci,22952,24,Türkiye,Centre-Back,CB,2000000.0,Denizlispor,Türkiye,1500000.0,0
+2010,Super Lig,Galatasaray,summer,in,Emiliano Insúa,45599,21,Argentina,Left-Back,LB,6500000.0,Liverpool FC,England,750000.0,1
+2010,Super Lig,Galatasaray,summer,in,Musa Çağıran,90959,17,Türkiye,Defensive Midfield,DM,700000.0,Altay SK,Türkiye,500000.0,0
+2010,Super Lig,Galatasaray,summer,in,Serdar Özkan,8487,23,Türkiye,Left Winger,LW,1500000.0,Besiktas JK,Türkiye,0.0,0
+2010,Super Lig,Galatasaray,summer,in,Mehmet Batdal,58378,24,Türkiye,Centre-Forward,CF,1200000.0,Bucaspor,Türkiye,0.0,0
+2010,Super Lig,Galatasaray,summer,in,Ali Turan,18547,26,Türkiye,Centre-Back,CB,3000000.0,Without Club,,,0
+2010,Super Lig,Galatasaray,winter,in,Bogdan Stancu,46658,23,Romania,Centre-Forward,CF,3700000.0,Steaua Bucharest,Romania,5000000.0,0
+2010,Super Lig,Galatasaray,winter,in,Yekta Kurtuluş,63204,25,Türkiye,Central Midfield,CM,3000000.0,Kasimpasa,Türkiye,3750000.0,0
+2010,Super Lig,Galatasaray,winter,in,Emmanuel Culio,30846,27,Argentina,Central Midfield,CM,2500000.0,CFR Cluj,Romania,2000000.0,0
+2010,Super Lig,Galatasaray,winter,in,Róbinson Zapata,54320,32,Colombia,Goalkeeper,GK,1000000.0,Steaua Bucharest,Romania,0.0,0
+2010,Super Lig,Galatasaray,winter,in,Colin Kazım-Richards,36802,24,Türkiye,Centre-Forward,CF,3700000.0,Fenerbahce,Türkiye,0.0,0
+2010,Super Lig,Galatasaray,summer,out,Abdul Kader Keita,33366,28,Cote d'Ivoire,Right Winger,RW,10000000.0,Al-Sadd SC,Qatar,8150000.0,0
+2010,Super Lig,Galatasaray,summer,out,Mehmet Topal,44402,24,Türkiye,Defensive Midfield,DM,7500000.0,Valencia CF,Spain,5500000.0,0
+2010,Super Lig,Galatasaray,summer,out,Emre Güngör,26014,26,Türkiye,Centre-Back,CB,1500000.0,Gaziantepspor,Türkiye,1000000.0,0
+2010,Super Lig,Galatasaray,summer,out,Uğur Uçar,21370,23,Türkiye,Right-Back,RB,650000.0,MKE Ankaragücü,Türkiye,650000.0,0
+2010,Super Lig,Galatasaray,summer,out,Leo Franco,7669,33,Argentina,Goalkeeper,GK,4000000.0,Real Zaragoza,Spain,0.0,0
+2010,Super Lig,Galatasaray,summer,out,Fırat Kocaoğlu,50659,22,Türkiye,Goalkeeper,GK,50000.0,Kasimpasa,Türkiye,0.0,0
+2010,Super Lig,Galatasaray,summer,out,Özgür Can Özcan,35252,22,Türkiye,Centre-Forward,CF,200000.0,Adanaspor,Türkiye,0.0,0
+2010,Super Lig,Galatasaray,summer,out,Murat Akça,66953,20,Türkiye,Centre-Back,CB,150000.0,Denizlispor,Türkiye,0.0,0
+2010,Super Lig,Galatasaray,summer,out,Uğur Demirok,44977,22,Türkiye,Centre-Back,CB,200000.0,Kartalspor,Türkiye,0.0,1
+2010,Super Lig,Galatasaray,summer,out,Oğuz Sabankay,47642,23,Türkiye,Attacking Midfield,AM,200000.0,Kartalspor,Türkiye,0.0,1
+2010,Super Lig,Galatasaray,summer,out,Marcelo Carrusca,27451,26,Argentina,Attacking Midfield,AM,1000000.0,CA Banfield,Argentina,0.0,1
+2010,Super Lig,Galatasaray,summer,out,Semih Kaya,60709,19,Türkiye,Centre-Back,CB,200000.0,Kartalspor,Türkiye,0.0,1
+2010,Super Lig,Galatasaray,summer,out,Serdar Eylik,85667,20,Türkiye,Left Winger,LW,175000.0,Denizlispor,Türkiye,0.0,1
+2010,Super Lig,Galatasaray,summer,out,Emre Aşık,3379,36,Türkiye,Centre-Back,CB,750000.0,Retired,,,0
+2010,Super Lig,Galatasaray,summer,out,Giovani dos Santos,44674,21,Mexico,Second Striker,SS,4000000.0,Tottenham Hotspur,England,0.0,1
+2010,Super Lig,Galatasaray,summer,out,Jô,34156,23,Brazil,Centre-Forward,CF,7500000.0,Manchester City,England,0.0,1
+2010,Super Lig,Galatasaray,summer,out,Caner Erkin,39333,21,Türkiye,Left-Back,LB,1500000.0,CSKA Moscow,Russia,0.0,1
+2010,Super Lig,Galatasaray,winter,out,Zvjezdan Misimovic,2309,28,Bosnia-Herzegovina,Attacking Midfield,AM,9000000.0,Dinamo Moscow,Russia,4500000.0,0
+2010,Super Lig,Galatasaray,winter,out,Elano,20053,29,Brazil,Attacking Midfield,AM,6000000.0,Santos FC,Brazil,2900000.0,0
+2010,Super Lig,Galatasaray,winter,out,Musa Çağıran,90959,18,Türkiye,Defensive Midfield,DM,700000.0,Konyaspor,Türkiye,50000.0,1
+2010,Super Lig,Galatasaray,winter,out,Ali Turan,18547,27,Türkiye,Centre-Back,CB,3000000.0,Antalyaspor,Türkiye,0.0,0
+2010,Super Lig,Galatasaray,winter,out,Serdar Özkan,8487,24,Türkiye,Left Winger,LW,1500000.0,MKE Ankaragücü,Türkiye,0.0,0
+2010,Super Lig,Galatasaray,winter,out,Mehmet Batdal,58378,24,Türkiye,Centre-Forward,CF,1000000.0,Konyaspor,Türkiye,0.0,1
+2010,Super Lig,Gaziantepspor,summer,in,Ismael Sosa,45327,23,Argentina,Centre-Forward,CF,2500000.0,CA Independiente,Argentina,3500000.0,0
+2010,Super Lig,Gaziantepspor,summer,in,Ivelin Popov,38340,22,Bulgaria,Attacking Midfield,AM,650000.0,Litex Lovech,Bulgaria,3000000.0,0
+2010,Super Lig,Gaziantepspor,summer,in,Emre Güngör,26014,26,Türkiye,Centre-Back,CB,1500000.0,Galatasaray,Türkiye,1000000.0,0
+2010,Super Lig,Gaziantepspor,summer,in,Dany Nounkeu,113938,24,Cameroon,Centre-Back,CB,2000000.0,FC Toulouse,France,300000.0,0
+2010,Super Lig,Gaziantepspor,summer,in,Alper Akçam,41105,22,Türkiye,Centre-Forward,CF,100000.0,1.FC Kaiserslautern,Germany,100000.0,0
+2010,Super Lig,Gaziantepspor,summer,in,Yalçın Ayhan,7152,28,Türkiye,Centre-Back,CB,1500000.0,Antalyaspor,Türkiye,30000.0,0
+2010,Super Lig,Gaziantepspor,summer,in,Orhan Gülle,110692,18,Türkiye,Defensive Midfield,DM,,Besiktas JK U21,Türkiye,0.0,0
+2010,Super Lig,Gaziantepspor,summer,in,Mehmet Yılmaz,6915,31,Türkiye,Centre-Forward,CF,750000.0,Eskisehirspor,Türkiye,0.0,0
+2010,Super Lig,Gaziantepspor,summer,in,Elyasa Süme,2587,26,Türkiye,Centre-Back,CB,1800000.0,MKE Ankaragücü,Türkiye,0.0,0
+2010,Super Lig,Gaziantepspor,summer,in,Şenol Can,7309,27,Türkiye,Left-Back,LB,1000000.0,Antalyaspor,Türkiye,0.0,0
+2010,Super Lig,Gaziantepspor,summer,in,Eray Birniçan,45212,22,Türkiye,Goalkeeper,GK,50000.0,Konyaspor U21,Türkiye,,0
+2010,Super Lig,Gaziantepspor,summer,in,Hakan Aydin,990755,20,Türkiye,Central Midfield,CM,,Boluspor,Türkiye,,0
+2010,Super Lig,Gaziantepspor,winter,in,Wagner,45720,25,Brazil,Attacking Midfield,AM,2000000.0,Lokomotiv Moskau,Russia,3600000.0,0
+2010,Super Lig,Gaziantepspor,winter,in,Cenk Tosun,45671,19,Türkiye,Centre-Forward,CF,400000.0,Eintracht Frankfurt,Germany,550000.0,0
+2010,Super Lig,Gaziantepspor,winter,in,Hürriyet Gücer,17386,29,Türkiye,Defensive Midfield,DM,1200000.0,MKE Ankaragücü,Türkiye,0.0,1
+2010,Super Lig,Gaziantepspor,winter,in,Muhammet Demir,83560,19,Türkiye,Centre-Forward,CF,350000.0,Bursaspor,Türkiye,0.0,0
+2010,Super Lig,Gaziantepspor,summer,out,Gökhan Ünver,100939,24,Austria,Attacking Midfield,AM,75000.0,Sariyer,Türkiye,20000.0,0
+2010,Super Lig,Gaziantepspor,summer,out,Stjepan Tomas,13937,34,Croatia,Centre-Back,CB,650000.0,Bucaspor,Türkiye,0.0,0
+2010,Super Lig,Gaziantepspor,summer,out,Hakan Bayraktar,7088,34,Türkiye,Defensive Midfield,DM,200000.0,Samsunspor,Türkiye,0.0,0
+2010,Super Lig,Gaziantepspor,summer,out,Armand Deumi,4873,31,Cameroon,Centre-Back,CB,750000.0,Kardemir DC Karabükspor,Türkiye,0.0,0
+2010,Super Lig,Gaziantepspor,summer,out,Bülent Tek,127433,23,Türkiye,Centre-Back,CB,125000.0,Sanliurfaspor,Türkiye,0.0,1
+2010,Super Lig,Gaziantepspor,summer,out,Recep Biler,6919,29,Türkiye,Goalkeeper,GK,300000.0,Manisaspor,Türkiye,,0
+2010,Super Lig,Gaziantepspor,summer,out,Erkan Sekman,41011,26,Türkiye,Right-Back,RB,500000.0,Antalyaspor,Türkiye,,0
+2010,Super Lig,Gaziantepspor,summer,out,Tolga Seyhan,6966,33,Türkiye,Centre-Back,CB,650000.0,Giresunspor,Türkiye,,0
+2010,Super Lig,Gaziantepspor,summer,out,Ertan Koç,114290,23,Türkiye,Centre-Forward,CF,150000.0,Adana Demirspor,Türkiye,,0
+2010,Super Lig,Gaziantepspor,summer,out,Mehmet Yozgatlı,7174,31,Türkiye,Right Winger,RW,700000.0,Genclerbirligi Ankara,Türkiye,,0
+2010,Super Lig,Gaziantepspor,summer,out,Semih Kaya,60709,19,Türkiye,Centre-Back,CB,200000.0,Galatasaray,Türkiye,0.0,1
+2010,Super Lig,Gaziantepspor,winter,out,Ferdi Coşkun,55684,23,Türkiye,Left Winger,LW,550000.0,Gaziantep Büyüksehir Belediyespor,Türkiye,0.0,1
+2010,Super Lig,Gaziantepspor,winter,out,Ahmet Arı,68506,22,Türkiye,Right Winger,RW,750000.0,Bursaspor,Türkiye,0.0,0
+2010,Super Lig,Gaziantepspor,winter,out,Erman Özgür,7375,33,Türkiye,Attacking Midfield,AM,700000.0,Mersin Idmanyurdu,Türkiye,,0
+2010,Super Lig,Gaziantepspor,winter,out,Beto,58385,29,Brazil,Centre-Forward,CF,2700000.0,Bucaspor,Türkiye,0.0,1
+2010,Super Lig,Gaziantepspor,winter,out,Mehmet Yılmaz,6915,31,Türkiye,Centre-Forward,CF,750000.0,Without Club,,,0
+2010,Super Lig,Genclerbirligi Ankara,summer,in,Ermin Zec,51350,22,Bosnia-Herzegovina,Left Winger,LW,2500000.0,HNK Sibenik,Croatia,2200000.0,0
+2010,Super Lig,Genclerbirligi Ankara,summer,in,Debatik Curri,43297,26,Albania,Centre-Back,CB,2500000.0,Vorskla Poltava,Ukraine,400000.0,0
+2010,Super Lig,Genclerbirligi Ankara,summer,in,Bekim Balaj,99137,19,Albania,Centre-Forward,CF,150000.0,KF Vllaznia,Albania,200000.0,0
+2010,Super Lig,Genclerbirligi Ankara,summer,in,Billy Mehmet,12637,26,Ireland,Centre-Forward,CF,800000.0,St. Mirren FC,Scotland,0.0,0
+2010,Super Lig,Genclerbirligi Ankara,summer,in,Ante Kulusic,46056,24,Croatia,Centre-Back,CB,600000.0,Hacettepe Spor,Türkiye,0.0,0
+2010,Super Lig,Genclerbirligi Ankara,summer,in,Michael Stewart,3246,29,Scotland,Central Midfield,CM,2000000.0,Heart of Midlothian FC,Scotland,0.0,0
+2010,Super Lig,Genclerbirligi Ankara,summer,in,Mehmet Akgün,10504,23,Türkiye,Central Midfield,CM,1000000.0,Willem II Tilburg,Netherlands,0.0,0
+2010,Super Lig,Genclerbirligi Ankara,summer,in,Oktay Delibalta,85783,24,Türkiye,Attacking Midfield,AM,500000.0,Samsunspor,Türkiye,0.0,0
+2010,Super Lig,Genclerbirligi Ankara,summer,in,Mehmet Yozgatlı,7174,31,Türkiye,Right Winger,RW,700000.0,Gaziantepspor,Türkiye,,0
+2010,Super Lig,Genclerbirligi Ankara,summer,in,Shane Smeltz,51038,28,New Zealand,Centre-Forward,CF,1000000.0,Gold Coast United,Australia,,0
+2010,Super Lig,Genclerbirligi Ankara,summer,in,Cem Atan,36244,25,Austria,Centre-Forward,CF,550000.0,SV Mattersburg,Austria,,0
+2010,Super Lig,Genclerbirligi Ankara,winter,in,Randall Azofeifa,39564,26,Costa Rica,Defensive Midfield,DM,1700000.0,KAA Gent,Belgium,1600000.0,0
+2010,Super Lig,Genclerbirligi Ankara,winter,in,Joachim Mununga,39928,22,Belgium,Right Winger,RW,1300000.0,KV Mechelen,Belgium,1500000.0,0
+2010,Super Lig,Genclerbirligi Ankara,winter,in,Yasin Öztekin,31867,23,Türkiye,Centre-Forward,CF,250000.0,Borussia Dortmund,Germany,0.0,0
+2010,Super Lig,Genclerbirligi Ankara,winter,in,Emre Aygün,12046,25,Türkiye,Right-Back,RB,250000.0,Eskisehirspor,Türkiye,0.0,0
+2010,Super Lig,Genclerbirligi Ankara,winter,in,Erdal Kilicaslan,2148,26,Germany,Left Winger,LW,750000.0,Konyaspor,Türkiye,0.0,0
+2010,Super Lig,Genclerbirligi Ankara,winter,in,Burak Özsaraç,7005,31,Türkiye,Centre-Back,CB,700000.0,Manisaspor,Türkiye,0.0,0
+2010,Super Lig,Genclerbirligi Ankara,summer,out,Burhan Eşer,33958,25,Türkiye,Right Winger,RW,1500000.0,Eskisehirspor,Türkiye,600000.0,0
+2010,Super Lig,Genclerbirligi Ankara,summer,out,Bruce Djite,43093,23,Australia,Centre-Forward,CF,600000.0,Gold Coast United,Australia,0.0,0
+2010,Super Lig,Genclerbirligi Ankara,summer,out,Ufuk Arslan,55833,22,Türkiye,Right-Back,RB,75000.0,Adana Demirspor,Türkiye,0.0,0
+2010,Super Lig,Genclerbirligi Ankara,summer,out,Ferhat Kiraz,56640,21,Türkiye,Left-Back,LB,250000.0,Boluspor,Türkiye,0.0,0
+2010,Super Lig,Genclerbirligi Ankara,summer,out,Mehmet Akyüz,64997,24,Türkiye,Centre-Forward,CF,250000.0,TKI Tavsanli Linyitspor,Türkiye,0.0,0
+2010,Super Lig,Genclerbirligi Ankara,summer,out,İlhan Eker,51596,27,Türkiye,Centre-Back,CB,1500000.0,Fenerbahce,Türkiye,0.0,0
+2010,Super Lig,Genclerbirligi Ankara,summer,out,Ivan Radeljic,34443,29,Bosnia-Herzegovina,Centre-Back,CB,1000000.0,Antalyaspor,Türkiye,0.0,0
+2010,Super Lig,Genclerbirligi Ankara,summer,out,Tozo,48620,29,Brazil,Defensive Midfield,DM,1000000.0,Kardemir DC Karabükspor,Türkiye,0.0,0
+2010,Super Lig,Genclerbirligi Ankara,summer,out,Kerem Şeras,33797,26,Türkiye,Defensive Midfield,DM,1000000.0,Antalyaspor,Türkiye,0.0,0
+2010,Super Lig,Genclerbirligi Ankara,summer,out,Sandro Mendonça,37429,26,Brazil,Second Striker,SS,1000000.0,Coritiba Foot Ball Club,Brazil,0.0,0
+2010,Super Lig,Genclerbirligi Ankara,summer,out,Kahê,33833,27,Brazil,Centre-Forward,CF,750000.0,Manisaspor,Türkiye,0.0,0
+2010,Super Lig,Genclerbirligi Ankara,summer,out,Fırat Sağesen,144523,24,Türkiye,Right-Back,RB,,Hacettepe Spor,Türkiye,0.0,1
+2010,Super Lig,Genclerbirligi Ankara,summer,out,Sebahattin Usta,85391,20,Türkiye,Attacking Midfield,AM,100000.0,Hacettepe Spor,Türkiye,0.0,1
+2010,Super Lig,Genclerbirligi Ankara,summer,out,Abdulhamit Yıldız,56837,23,Türkiye,Centre-Back,CB,100000.0,Hacettepe Spor,Türkiye,0.0,1
+2010,Super Lig,Genclerbirligi Ankara,summer,out,Sezai Zehiroğlu,45181,21,Türkiye,Left Midfield,LM,150000.0,Hacettepe Spor,Türkiye,0.0,1
+2010,Super Lig,Genclerbirligi Ankara,summer,out,Mustafa Kayabaşı,119298,22,Türkiye,Attacking Midfield,AM,125000.0,Hacettepe Spor,Türkiye,0.0,1
+2010,Super Lig,Genclerbirligi Ankara,summer,out,Efe Özarslan,85405,20,Türkiye,Centre-Back,CB,50000.0,Hacettepe Spor,Türkiye,0.0,1
+2010,Super Lig,Genclerbirligi Ankara,summer,out,Haluk Ulaşoğlu,58746,24,Türkiye,Central Midfield,CM,100000.0,Hacettepe Spor,Türkiye,0.0,1
+2010,Super Lig,Genclerbirligi Ankara,summer,out,Uğur Kapısız,77799,23,Türkiye,Central Midfield,CM,100000.0,Denizli Belediyespor,Türkiye,,0
+2010,Super Lig,Genclerbirligi Ankara,summer,out,Yasir Elmacı,34165,28,Türkiye,Defensive Midfield,DM,250000.0,Altay SK,Türkiye,,0
+2010,Super Lig,Genclerbirligi Ankara,summer,out,Kemal Akbaba,51592,22,Türkiye,Centre-Forward,CF,150000.0,Besiktas JK U21,Türkiye,,0
+2010,Super Lig,Genclerbirligi Ankara,summer,out,Sinan Ayrancı,75856,19,Sweden,Centre-Forward,CF,100000.0,IF Brommapojkarna,Sweden,0.0,1
+2010,Super Lig,Genclerbirligi Ankara,summer,out,Aykut Çeviker,76324,20,Türkiye,Defensive Midfield,DM,50000.0,Hacettepe Spor,Türkiye,0.0,1
+2010,Super Lig,Genclerbirligi Ankara,summer,out,Jurica Vranjes,92,30,Croatia,Defensive Midfield,DM,1000000.0,SV Werder Bremen,Germany,0.0,1
+2010,Super Lig,Genclerbirligi Ankara,winter,out,Bilal Cubukcu,32625,23,Türkiye,Attacking Midfield,AM,300000.0,Alemannia Aachen,Germany,0.0,0
+2010,Super Lig,Genclerbirligi Ankara,winter,out,Billy Mehmet,12637,27,Ireland,Centre-Forward,CF,700000.0,Samsunspor,Türkiye,0.0,0
+2010,Super Lig,Genclerbirligi Ankara,winter,out,Cem Atan,36244,25,Austria,Centre-Forward,CF,550000.0,LASK,Austria,0.0,0
+2010,Super Lig,Genclerbirligi Ankara,winter,out,Uygar Rıza Arslan,66575,21,Türkiye,Right-Back,RB,50000.0,Hacettepe Spor,Türkiye,0.0,1
+2010,Super Lig,Genclerbirligi Ankara,winter,out,Fırat Sağesen,144523,24,Türkiye,Right-Back,RB,,Bursa Nilüferspor,Türkiye,,0
+2010,Super Lig,Genclerbirligi Ankara,winter,out,Haluk Ulaşoğlu,58746,25,Türkiye,Central Midfield,CM,100000.0,Hatayspor,Türkiye,,0
+2010,Super Lig,Genclerbirligi Ankara,winter,out,Sinan Ayrancı,75856,20,Sweden,Centre-Forward,CF,100000.0,Hammarby IF,Sweden,,0
+2010,Super Lig,Genclerbirligi Ankara,winter,out,Bekim Balaj,99137,20,Albania,Centre-Forward,CF,150000.0,KF Tirana,Albania,,0
+2010,Super Lig,Genclerbirligi Ankara,winter,out,Shane Smeltz,51038,29,New Zealand,Centre-Forward,CF,1000000.0,Gold Coast United,Australia,,0
+2010,Super Lig,Genclerbirligi Ankara,winter,out,Mehmet Yozgatlı,7174,31,Türkiye,Right Winger,RW,700000.0,Caykur Rizespor,Türkiye,,0
+2010,Super Lig,Genclerbirligi Ankara,winter,out,Michael Stewart,3246,29,Scotland,Central Midfield,CM,2000000.0,Without Club,,,0
+2010,Super Lig,Genclerbirligi Ankara,winter,out,Patiyo Tambwe,41348,27,DR Congo,Centre-Forward,CF,300000.0,Without Club,,,0
+2010,Super Lig,Kardemir DC Karabükspor,summer,in,Emmanuel Emenike,120630,23,Nigeria,Centre-Forward,CF,600000.0,FC Cape Town,South Africa,300000.0,0
+2010,Super Lig,Kardemir DC Karabükspor,summer,in,Hassan Wasswa,120634,22,Uganda,Defensive Midfield,DM,500000.0,FC Cape Town,South Africa,200000.0,0
+2010,Super Lig,Kardemir DC Karabükspor,summer,in,Mehmet Çoğum,29403,27,Türkiye,Centre-Back,CB,350000.0,Denizlispor,Türkiye,0.0,0
+2010,Super Lig,Kardemir DC Karabükspor,summer,in,Oğuz Kaan Barış,206049,21,Türkiye,Goalkeeper,GK,,Ankara Adliye Spor,Türkiye,0.0,0
+2010,Super Lig,Kardemir DC Karabükspor,summer,in,Armand Deumi,4873,31,Cameroon,Centre-Back,CB,750000.0,Gaziantepspor,Türkiye,0.0,0
+2010,Super Lig,Kardemir DC Karabükspor,summer,in,Jamal Alioui,8190,28,Morocco,Right-Back,RB,900000.0,FC Sion,Switzerland,0.0,0
+2010,Super Lig,Kardemir DC Karabükspor,summer,in,Kerim Zengin,8548,25,Türkiye,Right-Back,RB,750000.0,Antalyaspor,Türkiye,0.0,0
+2010,Super Lig,Kardemir DC Karabükspor,summer,in,Hakan Özmert,17465,25,Türkiye,Central Midfield,CM,450000.0,Antalyaspor,Türkiye,0.0,0
+2010,Super Lig,Kardemir DC Karabükspor,summer,in,Tozo,48620,29,Brazil,Defensive Midfield,DM,1000000.0,Genclerbirligi Ankara,Türkiye,0.0,0
+2010,Super Lig,Kardemir DC Karabükspor,summer,in,Fatih Ceylan,17451,29,Türkiye,Left Midfield,LM,700000.0,Antalyaspor,Türkiye,0.0,0
+2010,Super Lig,Kardemir DC Karabükspor,summer,in,Emil Angelov,35634,29,Bulgaria,Centre-Forward,CF,800000.0,Denizlispor,Türkiye,0.0,0
+2010,Super Lig,Kardemir DC Karabükspor,summer,in,Florin Cernat,3132,30,Romania,Attacking Midfield,AM,1000000.0,HNK Hajduk Split,Croatia,0.0,0
+2010,Super Lig,Kardemir DC Karabükspor,summer,in,İlhan Parlak,37091,23,Türkiye,Centre-Forward,CF,450000.0,Ankaraspor,Türkiye,0.0,1
+2010,Super Lig,Kardemir DC Karabükspor,summer,in,Selim Türkmen,108326,19,Türkiye,Striker,Striker,,MKE Ankaragücü U21,Türkiye,,0
+2010,Super Lig,Kardemir DC Karabükspor,summer,in,Vjekoslav Tomic,28124,26,Croatia,Goalkeeper,GK,200000.0,HNK Hajduk Split,Croatia,,0
+2010,Super Lig,Kardemir DC Karabükspor,summer,in,Anthony Seric,5967,31,Croatia,Left-Back,LB,750000.0,HNK Hajduk Split,Croatia,,0
+2010,Super Lig,Kardemir DC Karabükspor,winter,in,Muhammet Hanifi Yoldaş,13387,27,Türkiye,Centre-Back,CB,750000.0,MKE Ankaragücü,Türkiye,0.0,0
+2010,Super Lig,Kardemir DC Karabükspor,winter,in,Merter Yüce,29627,25,Türkiye,Defensive Midfield,DM,600000.0,Giresunspor,Türkiye,0.0,0
+2010,Super Lig,Kardemir DC Karabükspor,winter,in,Hocine Ragued,25705,27,Tunisia,Defensive Midfield,DM,850000.0,SK Slavia Prague,Czech Republic,0.0,0
+2010,Super Lig,Kardemir DC Karabükspor,winter,in,Bülent Kocabey,16766,26,Türkiye,Attacking Midfield,AM,600000.0,Eskisehirspor,Türkiye,,0
+2010,Super Lig,Kardemir DC Karabükspor,winter,in,Aydın Karabulut,37899,23,Türkiye,Right Winger,RW,450000.0,Without Club,,,0
+2010,Super Lig,Kardemir DC Karabükspor,winter,in,Coelho,28524,27,Brazil,Right-Back,RB,500000.0,Without Club,,,0
+2010,Super Lig,Kardemir DC Karabükspor,summer,out,Gökhan Yılmaz,1097987,23,Türkiye,Goalkeeper,GK,,Nazilli Belediyespor,Türkiye,0.0,0
+2010,Super Lig,Kardemir DC Karabükspor,summer,out,Sertan Vardar,29642,28,Türkiye,Left Winger,LW,750000.0,Kayseri Erciyesspor,Türkiye,0.0,0
+2010,Super Lig,Kardemir DC Karabükspor,summer,out,Süleyman Görgün,45215,29,Türkiye,Right-Back,RB,200000.0,Bandirmaspor,Türkiye,0.0,0
+2010,Super Lig,Kardemir DC Karabükspor,summer,out,Metin Kurt,85239,30,Türkiye,Attacking Midfield,AM,100000.0,Körfezspor,Türkiye,0.0,0
+2010,Super Lig,Kardemir DC Karabükspor,summer,out,Aydın Arslan,85230,27,Türkiye,Left-Back,LB,150000.0,Bugsas Spor,Türkiye,0.0,0
+2010,Super Lig,Kardemir DC Karabükspor,summer,out,Aydın Çetin,1313,30,Türkiye,Centre-Forward,CF,400000.0,Giresunspor,Türkiye,0.0,0
+2010,Super Lig,Kardemir DC Karabükspor,summer,out,Kazım Sarı,85241,28,Türkiye,Goalkeeper,GK,50000.0,Gaziantep Büyüksehir Belediyespor,Türkiye,0.0,0
+2010,Super Lig,Kardemir DC Karabükspor,summer,out,Burak Akdiş,17447,33,Türkiye,Centre-Forward,CF,300000.0,Boluspor,Türkiye,0.0,0
+2010,Super Lig,Kardemir DC Karabükspor,summer,out,Oğuz Kaan Barış,206049,22,Türkiye,Goalkeeper,GK,,Fethiyespor,Türkiye,0.0,1
+2010,Super Lig,Kardemir DC Karabükspor,summer,out,Mehmet Ali Şirin,2545,29,Türkiye,Left Winger,LW,50000.0,Adana Demirspor,Türkiye,,0
+2010,Super Lig,Kardemir DC Karabükspor,summer,out,Tayfun Taner,85244,27,Türkiye,Centre-Back,CB,100000.0,Eyüpspor,Türkiye,,0
+2010,Super Lig,Kardemir DC Karabükspor,summer,out,Umut Erdogan,1326,28,Germany,Right-Back,RB,50000.0,Fethiyespor,Türkiye,,0
+2010,Super Lig,Kardemir DC Karabükspor,summer,out,Ömer Ateş,33551,28,Türkiye,Left-Back,LB,350000.0,Boluspor,Türkiye,,0
+2010,Super Lig,Kardemir DC Karabükspor,summer,out,Ferhat Odabaşı,33788,27,Türkiye,Goalkeeper,GK,350000.0,Boluspor,Türkiye,,0
+2010,Super Lig,Kardemir DC Karabükspor,summer,out,Gökhan Güney,58828,28,Türkiye,Defensive Midfield,DM,125000.0,Boluspor,Türkiye,,0
+2010,Super Lig,Kardemir DC Karabükspor,summer,out,Recep Yaşar,26020,24,Türkiye,Attacking Midfield,AM,125000.0,Gaziantep Büyüksehir Belediyespor,Türkiye,,0
+2010,Super Lig,Kardemir DC Karabükspor,summer,out,Hassan Wasswa,120634,22,Uganda,Defensive Midfield,DM,500000.0,Altay SK,Türkiye,0.0,1
+2010,Super Lig,Kardemir DC Karabükspor,summer,out,Hassan Wasswa,120634,22,Uganda,Defensive Midfield,DM,300000.0,FC Cape Town,South Africa,0.0,1
+2010,Super Lig,Kardemir DC Karabükspor,summer,out,Emmanuel Emenike,120630,23,Nigeria,Centre-Forward,CF,600000.0,FC Cape Town,South Africa,0.0,1
+2010,Super Lig,Kardemir DC Karabükspor,winter,out,Jamal Alioui,8190,28,Morocco,Right-Back,RB,900000.0,Wydad Casablanca,Morocco,180000.0,0
+2010,Super Lig,Kardemir DC Karabükspor,winter,out,Engin Aktürk,58860,27,Türkiye,Right-Back,RB,700000.0,Karsiyaka,Türkiye,0.0,1
+2010,Super Lig,Kardemir DC Karabükspor,winter,out,Levent Yılmaz,111546,20,Türkiye,Centre-Forward,CF,50000.0,Bayrampasa Spor,Türkiye,0.0,1
+2010,Super Lig,Kardemir DC Karabükspor,winter,out,Oğuz Kaan Barış,206049,22,Türkiye,Goalkeeper,GK,,Kirsehirspor (1984 - 2013),Türkiye,0.0,1
+2010,Super Lig,Kardemir DC Karabükspor,winter,out,Mehmet Çoğum,29403,27,Türkiye,Centre-Back,CB,350000.0,MKE Ankaragücü,Türkiye,,0
+2010,Super Lig,Kardemir DC Karabükspor,winter,out,Fatih Ceylan,17451,30,Türkiye,Left Midfield,LM,700000.0,Denizlispor,Türkiye,,0
+2010,Super Lig,Kasimpasa,summer,in,Nikolay Dimitrov,44742,22,Bulgaria,Right Winger,RW,750000.0,Levski Sofia,Bulgaria,600000.0,0
+2010,Super Lig,Kasimpasa,summer,in,Georgi Sarmov,44759,24,Bulgaria,Defensive Midfield,DM,1000000.0,Levski Sofia,Bulgaria,450000.0,0
+2010,Super Lig,Kasimpasa,summer,in,Luiz Henrique,76102,27,Brazil,Centre-Back,CB,750000.0,Poços de Caldas Futebol Clube (MG),Brazil,0.0,0
+2010,Super Lig,Kasimpasa,summer,in,Ertaç Özbir,159079,20,Türkiye,Goalkeeper,GK,,Beypazari Sekerspor,Türkiye,0.0,0
+2010,Super Lig,Kasimpasa,summer,in,Gustave Bebbe,37085,28,Cameroon,Centre-Forward,CF,700000.0,Diyarbakirspor,Türkiye,0.0,0
+2010,Super Lig,Kasimpasa,summer,in,Fernando Varela,7652,30,Spain,Right-Back,RB,3000000.0,RCD Mallorca,Spain,0.0,0
+2010,Super Lig,Kasimpasa,summer,in,Özgür Öçal,54554,28,Türkiye,Right-Back,RB,400000.0,Eskisehirspor,Türkiye,0.0,0
+2010,Super Lig,Kasimpasa,summer,in,Korhan Öztürk,7339,29,Türkiye,Central Midfield,CM,1000000.0,Antalyaspor,Türkiye,0.0,0
+2010,Super Lig,Kasimpasa,summer,in,Razundara Tjikuzu,537,30,Namibia,Right-Back,RB,850000.0,Trabzonspor,Türkiye,0.0,0
+2010,Super Lig,Kasimpasa,summer,in,Fırat Kocaoğlu,50659,22,Türkiye,Goalkeeper,GK,50000.0,Galatasaray,Türkiye,0.0,0
+2010,Super Lig,Kasimpasa,summer,in,Rahim Abdul,139961,18,Ghana,Striker,Striker,50000.0,Royal Charleroi SC,Belgium,0.0,0
+2010,Super Lig,Kasimpasa,summer,in,Ersen Martin,7035,31,Türkiye,Centre-Forward,CF,500000.0,Manisaspor,Türkiye,0.0,0
+2010,Super Lig,Kasimpasa,summer,in,Hüseyin Kala,159029,23,Türkiye,Right Winger,RW,,Beypazari Sekerspor,Türkiye,,0
+2010,Super Lig,Kasimpasa,summer,in,Halil Çolak,67638,22,Türkiye,Left Winger,LW,400000.0,Go Ahead Eagles,Netherlands,,0
+2010,Super Lig,Kasimpasa,winter,in,Juan Robledo,75898,31,Chile,Centre-Back,CB,350000.0,Mjällby AIF,Sweden,,0
+2010,Super Lig,Kasimpasa,winter,in,Sercan Temizyürek,58639,22,Türkiye,Left Winger,LW,100000.0,Samsunspor,Türkiye,,0
+2010,Super Lig,Kasimpasa,winter,in,Michael Ikem Anwuli,187205,18,Nigeria,Centre-Forward,CF,,RSC Anderlecht U21,Belgium,,0
+2010,Super Lig,Kasimpasa,summer,out,Murat Erdoğan,7194,34,Türkiye,Central Midfield,CM,750000.0,Manisaspor,Türkiye,0.0,0
+2010,Super Lig,Kasimpasa,summer,out,André Moritz,39711,23,Brazil,Attacking Midfield,AM,1500000.0,Kayserispor,Türkiye,0.0,0
+2010,Super Lig,Kasimpasa,summer,out,Sabri Turgut,53574,23,Türkiye,Centre-Back,CB,200000.0,Sariyer,Türkiye,0.0,1
+2010,Super Lig,Kasimpasa,summer,out,Murat Akın,33530,23,Türkiye,Central Midfield,CM,400000.0,Orduspor,Türkiye,0.0,1
+2010,Super Lig,Kasimpasa,summer,out,Martin Baran,80789,22,Slovakia,Centre-Back,CB,200000.0,1.FC Tatran Presov,Slovakia,0.0,1
+2010,Super Lig,Kasimpasa,summer,out,Nourdin Boukhari,4327,30,Morocco,Attacking Midfield,AM,500000.0,Wisla Kraków,Poland,0.0,1
+2010,Super Lig,Kasimpasa,summer,out,Petr Pavlik,62793,23,Czech Republic,Centre-Back,CB,150000.0,MFK Karvina,Czech Republic,,0
+2010,Super Lig,Kasimpasa,summer,out,Cenk İşler,1294,36,Türkiye,Centre-Forward,CF,500000.0,Samsunspor,Türkiye,,0
+2010,Super Lig,Kasimpasa,summer,out,Erhan Küçük,54533,29,Türkiye,Centre-Forward,CF,600000.0,Giresunspor,Türkiye,,0
+2010,Super Lig,Kasimpasa,summer,out,Emre Toraman,6921,31,Türkiye,Defensive Midfield,DM,950000.0,Konyaspor,Türkiye,,0
+2010,Super Lig,Kasimpasa,summer,out,Ali Güneş,404,31,Türkiye,Central Midfield,CM,350000.0,Bucaspor,Türkiye,,0
+2010,Super Lig,Kasimpasa,summer,out,Koray Avcı,7189,32,Türkiye,Defensive Midfield,DM,1000000.0,Caykur Rizespor,Türkiye,,0
+2010,Super Lig,Kasimpasa,summer,out,Sedat Yeşilkaya,8046,30,Türkiye,Central Midfield,CM,250000.0,Sivasspor,Türkiye,,0
+2010,Super Lig,Kasimpasa,summer,out,Razundara Tjikuzu,537,31,Namibia,Right-Back,RB,600000.0,Without Club,,,0
+2010,Super Lig,Kasimpasa,summer,out,Özgür Öçal,54554,28,Türkiye,Right-Back,RB,400000.0,Eskisehirspor,Türkiye,0.0,1
+2010,Super Lig,Kasimpasa,summer,out,Diego Ruiz,64435,29,Argentina,Centre-Forward,CF,300000.0,CFR Cluj,Romania,0.0,1
+2010,Super Lig,Kasimpasa,summer,out,Fırat Kocaoğlu,50659,22,Türkiye,Goalkeeper,GK,50000.0,Galatasaray,Türkiye,0.0,1
+2010,Super Lig,Kasimpasa,summer,out,Yasir Elmacı,34165,28,Türkiye,Defensive Midfield,DM,250000.0,Genclerbirligi Ankara,Türkiye,0.0,1
+2010,Super Lig,Kasimpasa,winter,out,Yekta Kurtuluş,63204,25,Türkiye,Central Midfield,CM,3000000.0,Galatasaray,Türkiye,3750000.0,0
+2010,Super Lig,Kasimpasa,winter,out,İsa Kaykun,131340,22,Türkiye,Centre-Back,CB,100000.0,Güngören Belediyespor,Türkiye,0.0,1
+2010,Super Lig,Kayserispor,summer,in,Jonathan Santana,20000,28,Paraguay,Central Midfield,CM,1500000.0,VfL Wolfsburg,Germany,600000.0,0
+2010,Super Lig,Kayserispor,summer,in,Selim Teber,831,29,Germany,Central Midfield,CM,1500000.0,Eintracht Frankfurt,Germany,50000.0,0
+2010,Super Lig,Kayserispor,summer,in,Marcelo Zalayeta,5767,31,Uruguay,Centre-Forward,CF,1600000.0,SSC Napoli,Italy,0.0,0
+2010,Super Lig,Kayserispor,summer,in,Önder Turacı,13492,29,Türkiye,Centre-Back,CB,1700000.0,Fenerbahce,Türkiye,0.0,0
+2010,Super Lig,Kayserispor,summer,in,Aleksandre Amisulashvili,16095,27,Georgia,Centre-Back,CB,1200000.0,Spartak Nalchik,Russia,0.0,0
+2010,Super Lig,Kayserispor,summer,in,Hamza Çakır,29492,24,Türkiye,Centre-Back,CB,400000.0,Fortuna Düsseldorf,Germany,0.0,0
+2010,Super Lig,Kayserispor,summer,in,Ali Bilgin,1841,28,Türkiye,Central Midfield,CM,300000.0,Fenerbahce,Türkiye,0.0,0
+2010,Super Lig,Kayserispor,summer,in,Abdulkadir Özgen,41426,23,Türkiye,Centre-Forward,CF,250000.0,Alemannia Aachen,Germany,0.0,0
+2010,Super Lig,Kayserispor,summer,in,André Moritz,39711,23,Brazil,Attacking Midfield,AM,1500000.0,Kasimpasa,Türkiye,0.0,0
+2010,Super Lig,Kayserispor,summer,in,Volkan Babacan,52261,22,Türkiye,Goalkeeper,GK,750000.0,Fenerbahce,Türkiye,0.0,1
+2010,Super Lig,Kayserispor,winter,in,Nordin Amrabat,55619,23,Morocco,Right Winger,RW,2750000.0,PSV Eindhoven,Netherlands,1100000.0,0
+2010,Super Lig,Kayserispor,winter,in,Emir Kujovic,47199,22,Sweden,Centre-Forward,CF,1000000.0,Halmstads BK,Sweden,300000.0,0
+2010,Super Lig,Kayserispor,winter,in,Karim Ziani,25976,28,Algeria,Attacking Midfield,AM,3500000.0,VfL Wolfsburg,Germany,0.0,1
+2010,Super Lig,Kayserispor,summer,out,Gökhan Emreciksin,58879,25,Türkiye,Right Winger,RW,1500000.0,Manisaspor,Türkiye,1000000.0,0
+2010,Super Lig,Kayserispor,summer,out,Hakan Aslantas,34161,24,Türkiye,Right-Back,RB,1500000.0,Konyaspor,Türkiye,700000.0,0
+2010,Super Lig,Kayserispor,summer,out,Mohamed Shawky,38176,28,Egypt,Defensive Midfield,DM,850000.0,Al Ahly FC,Egypt,0.0,0
+2010,Super Lig,Kayserispor,summer,out,Merter Yüce,29627,25,Türkiye,Defensive Midfield,DM,600000.0,Giresunspor,Türkiye,0.0,0
+2010,Super Lig,Kayserispor,summer,out,Alioum Saidou,7160,32,Cameroon,Defensive Midfield,DM,1200000.0,Sivasspor,Türkiye,0.0,0
+2010,Super Lig,Kayserispor,summer,out,Umut Koçin,42358,22,Türkiye,Attacking Midfield,AM,400000.0,SV Kapfenberg,Austria,0.0,0
+2010,Super Lig,Kayserispor,summer,out,Aydın Toscalı,37095,29,Türkiye,Centre-Back,CB,2800000.0,MKE Ankaragücü,Türkiye,0.0,0
+2010,Super Lig,Kayserispor,summer,out,Bayram Çetin,74989,25,Türkiye,Centre-Back,CB,400000.0,Göztepe,Türkiye,,0
+2010,Super Lig,Kayserispor,summer,out,Rıdvan Koçer,117969,21,Türkiye,Centre-Back,CB,50000.0,Cankiri Belediyespor,Türkiye,,0
+2010,Super Lig,Kayserispor,summer,out,Durmuş Bayram,41435,24,Türkiye,Right-Back,RB,500000.0,Without Club,,,0
+2010,Super Lig,Kayserispor,summer,out,Ariza Makukula,5518,29,Portugal,Centre-Forward,CF,6000000.0,SL Benfica,Portugal,0.0,1
+2010,Super Lig,Kayserispor,winter,out,Aleksandre Amisulashvili,16095,28,Georgia,Centre-Back,CB,1200000.0,FC Krasnodar,Russia,3000000.0,0
+2010,Super Lig,Kayserispor,winter,out,Delio Toledo,7969,34,Paraguay,Left-Back,LB,750000.0,CA 3 de Febrero,Paraguay,0.0,0
+2010,Super Lig,Kayserispor,winter,out,Abdulkadir Özgen,41426,24,Türkiye,Centre-Forward,CF,200000.0,Bucaspor,Türkiye,,0
+2010,Super Lig,Kayserispor,winter,out,Bilal Aziz Özer,18831,25,Germany,Left-Back,LB,450000.0,Without Club,,,0
+2010,Super Lig,Kayserispor,winter,out,Volkan Dikmen,83420,19,Türkiye,Centre-Back,CB,100000.0,Without Club,,,0
+2010,Super Lig,Kayserispor,winter,out,Marcelo Zalayeta,5767,32,Uruguay,Centre-Forward,CF,1500000.0,Without Club,,,0
+2010,Super Lig,Konyaspor,summer,in,Hakan Aslantas,34161,24,Türkiye,Right-Back,RB,1500000.0,Kayserispor,Türkiye,700000.0,0
+2010,Super Lig,Konyaspor,summer,in,Serkan Şahin,65284,22,Türkiye,Central Midfield,CM,200000.0,FC Basel 1893,Switzerland,600000.0,0
+2010,Super Lig,Konyaspor,summer,in,Peter Grajciar,74963,26,Slovakia,Attacking Midfield,AM,450000.0,SK Slavia Prague,Czech Republic,500000.0,0
+2010,Super Lig,Konyaspor,summer,in,Ivan Lietava,55763,27,Slovakia,Centre-Forward,CF,800000.0,MSK Zilina,Slovakia,400000.0,0
+2010,Super Lig,Konyaspor,summer,in,Mahamoudou Kéré,12949,28,Burkina Faso,Centre-Back,CB,1000000.0,Royal Charleroi SC,Belgium,0.0,0
+2010,Super Lig,Konyaspor,summer,in,İbrahim Ege,6899,27,Türkiye,Central Midfield,CM,500000.0,Denizlispor,Türkiye,0.0,0
+2010,Super Lig,Konyaspor,summer,in,Mehmet Sedef,37949,23,Türkiye,Centre-Back,CB,150000.0,Besiktas JK,Türkiye,0.0,0
+2010,Super Lig,Konyaspor,summer,in,Erdinç Yavuz,6912,31,Türkiye,Centre-Back,CB,400000.0,Diyarbakirspor,Türkiye,0.0,0
+2010,Super Lig,Konyaspor,summer,in,Kanfory Sylla,12940,30,Guinea,Defensive Midfield,DM,600000.0,Büyüksehir Belediyespor,Türkiye,0.0,0
+2010,Super Lig,Konyaspor,summer,in,Ercüment Kafkasyalı,58567,24,Türkiye,Goalkeeper,GK,300000.0,Genclerbirligi Ankara U21,Türkiye,0.0,0
+2010,Super Lig,Konyaspor,summer,in,Emrah Eren,28283,31,Türkiye,Right-Back,RB,400000.0,Giresunspor,Türkiye,0.0,0
+2010,Super Lig,Konyaspor,summer,in,Jonas Troest,22469,25,Denmark,Centre-Back,CB,1000000.0,Odense Boldklub,Denmark,0.0,0
+2010,Super Lig,Konyaspor,summer,in,Gökhan Tokgöz,7341,31,Türkiye,Goalkeeper,GK,500000.0,Diyarbakirspor,Türkiye,0.0,0
+2010,Super Lig,Konyaspor,summer,in,Ibrahima Bangoura,33910,27,Guinea,Right Winger,RW,500000.0,Denizlispor,Türkiye,0.0,0
+2010,Super Lig,Konyaspor,summer,in,Adnan Güngör,7052,29,Türkiye,Defensive Midfield,DM,650000.0,Diyarbakirspor,Türkiye,0.0,0
+2010,Super Lig,Konyaspor,summer,in,Burak Karaduman,26017,25,Türkiye,Central Midfield,CM,250000.0,Diyarbakirspor,Türkiye,0.0,0
+2010,Super Lig,Konyaspor,summer,in,Murat Tosun,28959,26,Türkiye,Right Winger,RW,700000.0,Trabzonspor,Türkiye,0.0,1
+2010,Super Lig,Konyaspor,summer,in,Emre Toraman,6921,31,Türkiye,Defensive Midfield,DM,950000.0,Kasimpasa,Türkiye,,0
+2010,Super Lig,Konyaspor,summer,in,Bassim Abbas,114859,28,Iraq,Left-Back,LB,400000.0,Diyarbakirspor,Türkiye,,0
+2010,Super Lig,Konyaspor,summer,in,Aykut Öztürk,49681,22,Türkiye,Centre-Forward,CF,300000.0,SV Wehen Wiesbaden,Germany,,0
+2010,Super Lig,Konyaspor,summer,in,Danny Vukovic,43113,25,Australia,Goalkeeper,GK,200000.0,Central Coast Mariners,Australia,,0
+2010,Super Lig,Konyaspor,summer,in,Martin Klein,21046,26,Czech Republic,Centre-Back,CB,1000000.0,FK Teplice,Czech Republic,,0
+2010,Super Lig,Konyaspor,summer,in,Thierry Fidjeu-Tazemeta,41491,27,Equatorial Guinea,Centre-Forward,CF,500000.0,Diyarbakirspor,Türkiye,,0
+2010,Super Lig,Konyaspor,summer,in,Veli Acar,35261,28,Türkiye,Central Midfield,CM,700000.0,Bursaspor,Türkiye,,0
+2010,Super Lig,Konyaspor,summer,in,Orkun Usak,8706,29,Türkiye,Goalkeeper,GK,300000.0,Manisaspor,Türkiye,,0
+2010,Super Lig,Konyaspor,summer,in,Johnnier Montaño,84326,27,Colombia,Attacking Midfield,AM,350000.0,Club Alianza Lima,Peru,0.0,1
+2010,Super Lig,Konyaspor,summer,in,Borek Dockal,62983,21,Czech Republic,Attacking Midfield,AM,800000.0,FC Slovan Liberec,Czech Republic,0.0,1
+2010,Super Lig,Konyaspor,winter,in,Marcin Robak,36727,28,Poland,Centre-Forward,CF,750000.0,Widzew Lodz,Poland,1000000.0,0
+2010,Super Lig,Konyaspor,winter,in,Musa Çağıran,90959,18,Türkiye,Defensive Midfield,DM,700000.0,Galatasaray,Türkiye,50000.0,1
+2010,Super Lig,Konyaspor,winter,in,Emre Yüksektepe,176027,19,Türkiye,Defensive Midfield,DM,,Galatasaray U21,Türkiye,20000.0,1
+2010,Super Lig,Konyaspor,winter,in,Muamer Salibasic,47465,26,Bosnia-Herzegovina,Left Winger,LW,50000.0,NK Omladinac Mionica,Bosnia-Herzegovina,0.0,0
+2010,Super Lig,Konyaspor,winter,in,Kamil Zayatte,33820,25,Guinea,Centre-Back,CB,3000000.0,Hull City,England,0.0,0
+2010,Super Lig,Konyaspor,winter,in,Álvaro Mejía,16634,28,Spain,Centre-Back,CB,1000000.0,AC Arles-Avignon,France,0.0,0
+2010,Super Lig,Konyaspor,winter,in,Mariusz Pawelek,29819,29,Poland,Goalkeeper,GK,950000.0,Wisla Kraków,Poland,0.0,0
+2010,Super Lig,Konyaspor,winter,in,Mehmet Batdal,58378,24,Türkiye,Centre-Forward,CF,1000000.0,Galatasaray,Türkiye,0.0,1
+2010,Super Lig,Konyaspor,winter,in,Gökhan Emreciksin,58879,26,Türkiye,Right Winger,RW,650000.0,Manisaspor,Türkiye,,0
+2010,Super Lig,Konyaspor,winter,in,Ertuğrul Arslan,33550,30,Türkiye,Defensive Midfield,DM,1100000.0,Antalyaspor,Türkiye,,0
+2010,Super Lig,Konyaspor,winter,in,Barbaros Barut,1812,27,Türkiye,Defensive Midfield,DM,700000.0,Without Club,,,0
+2010,Super Lig,Konyaspor,summer,out,Zafer Demir,8049,33,Türkiye,Defensive Midfield,DM,200000.0,Tokatspor,Türkiye,0.0,0
+2010,Super Lig,Konyaspor,summer,out,Abdulvahit Karacabey,29666,33,Türkiye,Right Midfield,RM,225000.0,Göztepe,Türkiye,0.0,0
+2010,Super Lig,Konyaspor,summer,out,Ferdi Başoda,58517,27,Türkiye,Right Winger,RW,250000.0,Boluspor,Türkiye,0.0,0
+2010,Super Lig,Konyaspor,summer,out,Yusuf Kurtuluş,52487,23,Türkiye,Central Midfield,CM,600000.0,Kayseri Erciyesspor,Türkiye,0.0,0
+2010,Super Lig,Konyaspor,summer,out,Danny Vukovic,43113,25,Australia,Goalkeeper,GK,200000.0,Wellington Phoenix,Australia,0.0,0
+2010,Super Lig,Konyaspor,summer,out,Serhat Akyüz,28991,26,Türkiye,Centre-Back,CB,200000.0,Büyüksehir Belediyespor,Türkiye,0.0,0
+2010,Super Lig,Konyaspor,summer,out,Dursun Karatay,16506,25,Austria,Centre-Forward,CF,150000.0,SC Austria Lustenau,Austria,0.0,0
+2010,Super Lig,Konyaspor,summer,out,Kauê,27348,26,Brazil,Left-Back,LB,1500000.0,São Bernardo FC,Brazil,0.0,0
+2010,Super Lig,Konyaspor,summer,out,Recep Öztürk,17466,33,Türkiye,Goalkeeper,GK,500000.0,Karsiyaka,Türkiye,0.0,0
+2010,Super Lig,Konyaspor,summer,out,Tayfun Türkmen,7391,32,Türkiye,Centre-Forward,CF,500000.0,Bugsas Spor,Türkiye,0.0,0
+2010,Super Lig,Konyaspor,summer,out,Mehmet Ayaz,21707,28,Türkiye,Central Midfield,CM,300000.0,Kayseri Erciyesspor,Türkiye,0.0,0
+2010,Super Lig,Konyaspor,summer,out,Oğuz Özden,126430,20,Türkiye,Centre-Back,CB,50000.0,Corumspor,Türkiye,0.0,0
+2010,Super Lig,Konyaspor,summer,out,Haluk Tanrıseven,37094,32,Türkiye,Goalkeeper,GK,75000.0,Bugsas Spor,Türkiye,0.0,0
+2010,Super Lig,Konyaspor,summer,out,Jonas Troest,22469,25,Denmark,Centre-Back,CB,1000000.0,Odense Boldklub,Denmark,0.0,0
+2010,Super Lig,Konyaspor,summer,out,Volkan Koçaloğlu,54159,31,Türkiye,Centre-Back,CB,600000.0,Giresunspor,Türkiye,0.0,0
+2010,Super Lig,Konyaspor,summer,out,Vargin Der,88477,21,Germany,Centre-Forward,CF,50000.0,Eintracht Nordhorn,Germany,0.0,0
+2010,Super Lig,Konyaspor,summer,out,Can Parlayan,41282,24,Türkiye,Centre-Forward,CF,50000.0,Akcaabat Sebatspor,Türkiye,0.0,1
+2010,Super Lig,Konyaspor,summer,out,Ufukhan Bayraktar,22951,24,Türkiye,Centre-Back,CB,250000.0,Altay SK,Türkiye,,0
+2010,Super Lig,Konyaspor,summer,out,Görkem Görk,34166,27,Türkiye,Centre-Back,CB,350000.0,Adanaspor,Türkiye,,0
+2010,Super Lig,Konyaspor,summer,out,Uğur Yanıkdemir,44991,23,Türkiye,Attacking Midfield,AM,100000.0,Gaziantep Büyüksehir Belediyespor,Türkiye,,0
+2010,Super Lig,Konyaspor,summer,out,Ömer Hacısalihoğlu,54527,33,Türkiye,Right-Back,RB,500000.0,Giresunspor,Türkiye,,0
+2010,Super Lig,Konyaspor,summer,out,Mehmet Şen,35044,27,Türkiye,Second Striker,SS,350000.0,Altay SK,Türkiye,,0
+2010,Super Lig,Konyaspor,summer,out,Uğur Akdemir,51819,21,Türkiye,Right-Back,RB,50000.0,Diyarbakirspor,Türkiye,,0
+2010,Super Lig,Konyaspor,summer,out,Koray İçten,49081,22,Türkiye,Left-Back,LB,75000.0,Without Club,,,0
+2010,Super Lig,Konyaspor,summer,out,Kanfory Sylla,12940,30,Guinea,Defensive Midfield,DM,600000.0,Without Club,,,0
+2010,Super Lig,Konyaspor,summer,out,Barbaros Barut,1812,28,Türkiye,Defensive Midfield,DM,450000.0,Without Club,,,0
+2010,Super Lig,Konyaspor,summer,out,Aykut Öztürk,49681,22,Türkiye,Centre-Forward,CF,300000.0,Without Club,,,0
+2010,Super Lig,Konyaspor,summer,out,Branimir Poljac,24159,26,Norway,Right Winger,RW,,Retired,,,0
+2010,Super Lig,Konyaspor,winter,out,Ivan Lietava,55763,27,Slovakia,Centre-Forward,CF,800000.0,MSK Zilina,Slovakia,0.0,0
+2010,Super Lig,Konyaspor,winter,out,İbrahim Ege,6899,27,Türkiye,Central Midfield,CM,500000.0,Mersin Idmanyurdu,Türkiye,0.0,0
+2010,Super Lig,Konyaspor,winter,out,Ibrahima Bangoura,33910,28,Guinea,Right Winger,RW,500000.0,Khazar Lankaran (- 2016),Azerbaijan,0.0,0
+2010,Super Lig,Konyaspor,winter,out,Ramazan Kahya,29636,26,Türkiye,Left-Back,LB,600000.0,Göztepe,Türkiye,0.0,0
+2010,Super Lig,Konyaspor,winter,out,Erdal Kilicaslan,2148,26,Germany,Left Winger,LW,750000.0,Genclerbirligi Ankara,Türkiye,0.0,0
+2010,Super Lig,Konyaspor,winter,out,Burak Karaduman,26017,25,Türkiye,Central Midfield,CM,250000.0,Mersin Idmanyurdu,Türkiye,0.0,0
+2010,Super Lig,Konyaspor,winter,out,Emrah Eren,28283,32,Türkiye,Right-Back,RB,250000.0,Denizlispor,Türkiye,0.0,0
+2010,Super Lig,Konyaspor,winter,out,Emre Toraman,6921,32,Türkiye,Defensive Midfield,DM,600000.0,Kayseri Erciyesspor,Türkiye,0.0,0
+2010,Super Lig,Konyaspor,winter,out,Eser Yağmur,35281,27,Türkiye,Centre-Forward,CF,300000.0,Kayseri Erciyesspor,Türkiye,,0
+2010,Super Lig,Konyaspor,winter,out,Umut Kekilli,10544,26,Türkiye,Attacking Midfield,AM,100000.0,Iskenderun Demir Celikspor,Türkiye,,0
+2010,Super Lig,Konyaspor,winter,out,Gökhan Tokgöz,7341,31,Türkiye,Goalkeeper,GK,350000.0,Without Club,,,0
+2010,Super Lig,Konyaspor,winter,out,Thierry Fidjeu-Tazemeta,41491,28,Equatorial Guinea,Centre-Forward,CF,450000.0,Without Club,,,0
+2010,Super Lig,Konyaspor,winter,out,Bassim Abbas,114859,28,Iraq,Left-Back,LB,300000.0,Without Club,,,0
+2010,Super Lig,Konyaspor,winter,out,Martin Klein,21046,26,Czech Republic,Centre-Back,CB,750000.0,Without Club,,,0
+2010,Super Lig,Konyaspor,winter,out,Muamer Salibasic,47465,26,Bosnia-Herzegovina,Left Winger,LW,50000.0,Without Club,,,0
+2010,Super Lig,Konyaspor,winter,out,Borek Dockal,62983,22,Czech Republic,Attacking Midfield,AM,650000.0,FC Slovan Liberec,Czech Republic,0.0,1
+2010,Super Lig,Konyaspor,winter,out,Johnnier Montaño,84326,28,Colombia,Attacking Midfield,AM,600000.0,Club Alianza Lima,Peru,0.0,1
+2010,Super Lig,MKE Ankaragücü,summer,in,Róbert Vittek,3531,28,Slovakia,Centre-Forward,CF,4000000.0,LOSC Lille,France,2100000.0,0
+2010,Super Lig,MKE Ankaragücü,summer,in,Michael Klukowski,12509,29,Canada,Left-Back,LB,1800000.0,Club Brugge KV,Belgium,750000.0,0
+2010,Super Lig,MKE Ankaragücü,summer,in,Turgut Şahin,58621,22,Türkiye,Left Winger,LW,1000000.0,Samsunspor,Türkiye,700000.0,0
+2010,Super Lig,MKE Ankaragücü,summer,in,Uğur Uçar,21370,23,Türkiye,Right-Back,RB,650000.0,Galatasaray,Türkiye,650000.0,0
+2010,Super Lig,MKE Ankaragücü,summer,in,Stanislav Sestak,28775,27,Slovakia,Centre-Forward,CF,3500000.0,VfL Bochum,Germany,600000.0,1
+2010,Super Lig,MKE Ankaragücü,summer,in,Özden Öngün,7397,31,Türkiye,Goalkeeper,GK,400000.0,Denizlispor,Türkiye,50000.0,0
+2010,Super Lig,MKE Ankaragücü,summer,in,Güven Varol,10139,29,Türkiye,Right Midfield,RM,1000000.0,Manisaspor,Türkiye,0.0,0
+2010,Super Lig,MKE Ankaragücü,summer,in,Theo Weeks,79089,20,Liberia,Attacking Midfield,AM,600000.0,Ankaraspor,Türkiye,0.0,0
+2010,Super Lig,MKE Ankaragücü,summer,in,Mehmet Çakır,33791,26,Türkiye,Centre-Forward,CF,1800000.0,Ankaraspor,Türkiye,0.0,0
+2010,Super Lig,MKE Ankaragücü,summer,in,Adem Koçak,6994,26,Türkiye,Central Midfield,CM,700000.0,Ankaraspor,Türkiye,0.0,0
+2010,Super Lig,MKE Ankaragücü,summer,in,Aydın Toscalı,37095,29,Türkiye,Centre-Back,CB,2800000.0,Kayserispor,Türkiye,0.0,0
+2010,Super Lig,MKE Ankaragücü,summer,in,Hürriyet Gücer,17386,28,Türkiye,Defensive Midfield,DM,2000000.0,Ankaraspor,Türkiye,0.0,0
+2010,Super Lig,MKE Ankaragücü,summer,in,Gökhan Aktas,105666,19,Germany,Attacking Midfield,AM,,SV Werder Bremen U19,Germany,0.0,0
+2010,Super Lig,MKE Ankaragücü,summer,in,Michal Zewlakow,9613,34,Poland,Centre-Back,CB,2000000.0,Olympiacos Piraeus,Greece,0.0,0
+2010,Super Lig,MKE Ankaragücü,summer,in,Umut Sözen,51655,20,Türkiye,Central Midfield,CM,100000.0,Ankaraspor,Türkiye,0.0,0
+2010,Super Lig,MKE Ankaragücü,summer,in,Stefan Senecky,58633,30,Slovakia,Goalkeeper,GK,1200000.0,Ankaraspor,Türkiye,,0
+2010,Super Lig,MKE Ankaragücü,summer,in,Serol Demirhan,67583,21,Türkiye,Left-Back,LB,25000.0,Ankaraspor,Türkiye,,0
+2010,Super Lig,MKE Ankaragücü,summer,in,Ediz Bahtiyaroğlu,44997,24,Türkiye,Centre-Back,CB,1000000.0,Ankaraspor,Türkiye,,0
+2010,Super Lig,MKE Ankaragücü,summer,in,Kemal Ünal,123526,19,Türkiye,Left Winger,LW,50000.0,Ankaraspor U21,Türkiye,,0
+2010,Super Lig,MKE Ankaragücü,summer,in,Abdullah Keseroglu,45284,22,Germany,Defensive Midfield,DM,50000.0,VfL Osnabrück,Germany,,0
+2010,Super Lig,MKE Ankaragücü,summer,in,Muhammet Hanifi Yoldaş,13387,27,Türkiye,Centre-Back,CB,750000.0,Ankaraspor,Türkiye,,0
+2010,Super Lig,MKE Ankaragücü,summer,in,Roguy Méyé,74393,23,Gabon,Centre-Forward,CF,500000.0,Ankaraspor,Türkiye,,0
+2010,Super Lig,MKE Ankaragücü,summer,in,Özgür Çek,52262,19,Türkiye,Left-Back,LB,150000.0,Ankaraspor,Türkiye,,0
+2010,Super Lig,MKE Ankaragücü,summer,in,Drago Gabric,43990,23,Croatia,Left Winger,LW,3000000.0,Trabzonspor,Türkiye,0.0,1
+2010,Super Lig,MKE Ankaragücü,winter,in,Jaroslav Cerny,27132,31,Czech Republic,Left Midfield,LM,1200000.0,SK Slavia Prague,Czech Republic,0.0,0
+2010,Super Lig,MKE Ankaragücü,winter,in,İshak Doğan,83275,20,Türkiye,Left-Back,LB,75000.0,Arminia Bielefeld II,Germany,0.0,0
+2010,Super Lig,MKE Ankaragücü,winter,in,Fatih Tekke,6924,33,Türkiye,Centre-Forward,CF,1500000.0,Besiktas JK,Türkiye,0.0,0
+2010,Super Lig,MKE Ankaragücü,winter,in,Serdar Özkan,8487,24,Türkiye,Left Winger,LW,1500000.0,Galatasaray,Türkiye,0.0,0
+2010,Super Lig,MKE Ankaragücü,winter,in,Tonia Tisdell,91233,18,Liberia,Left Winger,LW,50000.0,Ankaraspor,Türkiye,0.0,0
+2010,Super Lig,MKE Ankaragücü,winter,in,Roman Bednar,26898,27,Czech Republic,Centre-Forward,CF,2500000.0,West Bromwich Albion,England,0.0,1
+2010,Super Lig,MKE Ankaragücü,winter,in,Mehmet Çoğum,29403,27,Türkiye,Centre-Back,CB,350000.0,Kardemir DC Karabükspor,Türkiye,,0
+2010,Super Lig,MKE Ankaragücü,winter,in,Muhammed Türkmen,58744,24,Türkiye,Central Midfield,CM,150000.0,Kartalspor,Türkiye,,0
+2010,Super Lig,MKE Ankaragücü,winter,in,Ergin Keleş,35509,24,Türkiye,Centre-Forward,CF,400000.0,Without Club,,,0
+2010,Super Lig,MKE Ankaragücü,winter,in,Timur Özgöz,38341,23,Germany,Attacking Midfield,AM,150000.0,Without Club,,,0
+2010,Super Lig,MKE Ankaragücü,summer,out,Cihan Haspolatlı,6866,30,Türkiye,Defensive Midfield,DM,750000.0,Büyüksehir Belediyespor,Türkiye,0.0,0
+2010,Super Lig,MKE Ankaragücü,summer,out,İlkem Özkaynak,33802,28,Türkiye,Left-Back,LB,400000.0,Antalyaspor,Türkiye,0.0,0
+2010,Super Lig,MKE Ankaragücü,summer,out,Elyasa Süme,2587,26,Türkiye,Centre-Back,CB,1800000.0,Gaziantepspor,Türkiye,0.0,0
+2010,Super Lig,MKE Ankaragücü,summer,out,Semavi Özgür,58759,28,Türkiye,Central Midfield,CM,500000.0,Manisaspor,Türkiye,0.0,0
+2010,Super Lig,MKE Ankaragücü,summer,out,Emre Aygün,12046,25,Türkiye,Right-Back,RB,250000.0,Eskisehirspor,Türkiye,0.0,0
+2010,Super Lig,MKE Ankaragücü,summer,out,Murat Yılmaz,56223,21,Türkiye,Centre-Forward,CF,50000.0,Türkiyemspor Berlin,Germany,0.0,0
+2010,Super Lig,MKE Ankaragücü,summer,out,Suat Baş,52760,21,Türkiye,Striker,Striker,50000.0,Assyriska FF,Sweden,0.0,0
+2010,Super Lig,MKE Ankaragücü,summer,out,Njitap Geremi,3374,31,Cameroon,Right Midfield,RM,2000000.0,AE Larisa,Greece,0.0,0
+2010,Super Lig,MKE Ankaragücü,summer,out,Serkan Kırıntılı,16058,25,Türkiye,Goalkeeper,GK,1500000.0,Fenerbahce,Türkiye,0.0,0
+2010,Super Lig,MKE Ankaragücü,summer,out,Gökhan Aktas,105666,19,Germany,Attacking Midfield,AM,,Bugsas Spor,Türkiye,0.0,1
+2010,Super Lig,MKE Ankaragücü,summer,out,Mert Erdoğan,45002,21,Türkiye,Central Midfield,CM,50000.0,Türk Telekomspor,Türkiye,0.0,1
+2010,Super Lig,MKE Ankaragücü,summer,out,Kemal Ünal,123526,19,Türkiye,Left Winger,LW,50000.0,Cankiri Belediyespor,Türkiye,0.0,1
+2010,Super Lig,MKE Ankaragücü,summer,out,Abdullah Keseroglu,45284,22,Germany,Defensive Midfield,DM,25000.0,Bugsas Spor,Türkiye,0.0,1
+2010,Super Lig,MKE Ankaragücü,summer,out,Serol Demirhan,67583,21,Türkiye,Left-Back,LB,25000.0,Beypazari Sekerspor,Türkiye,0.0,1
+2010,Super Lig,MKE Ankaragücü,summer,out,Serkan Şirin,185868,20,Türkiye,Central Midfield,CM,,Mardinspor,Türkiye,0.0,1
+2010,Super Lig,MKE Ankaragücü,summer,out,Koray Çölgeçen,29451,25,Türkiye,Centre-Back,CB,700000.0,Bucaspor,Türkiye,,0
+2010,Super Lig,MKE Ankaragücü,summer,out,Ediz Bahtiyaroğlu,44997,24,Türkiye,Centre-Back,CB,1000000.0,Bucaspor,Türkiye,0.0,1
+2010,Super Lig,MKE Ankaragücü,summer,out,Mustafa Aydın,78237,24,Türkiye,Centre-Back,CB,175000.0,Mersin Idmanyurdu,Türkiye,0.0,1
+2010,Super Lig,MKE Ankaragücü,summer,out,Barbaros Barut,1812,27,Türkiye,Defensive Midfield,DM,700000.0,Without Club,,,0
+2010,Super Lig,MKE Ankaragücü,summer,out,Umut Sözen,51655,20,Türkiye,Central Midfield,CM,100000.0,Ankaraspor,Türkiye,0.0,1
+2010,Super Lig,MKE Ankaragücü,summer,out,Hürriyet Gücer,17386,28,Türkiye,Defensive Midfield,DM,2000000.0,Ankaraspor,Türkiye,0.0,1
+2010,Super Lig,MKE Ankaragücü,summer,out,Mehmet Çakır,33791,26,Türkiye,Centre-Forward,CF,1800000.0,Ankaraspor,Türkiye,0.0,1
+2010,Super Lig,MKE Ankaragücü,summer,out,Muhammet Hanifi Yoldaş,13387,27,Türkiye,Centre-Back,CB,750000.0,Ankaraspor,Türkiye,0.0,1
+2010,Super Lig,MKE Ankaragücü,summer,out,Ariel Broggi,26435,27,Argentina,Left-Back,LB,1500000.0,CA Banfield,Argentina,0.0,1
+2010,Super Lig,MKE Ankaragücü,summer,out,Adem Koçak,6994,26,Türkiye,Central Midfield,CM,700000.0,Ankaraspor,Türkiye,0.0,1
+2010,Super Lig,MKE Ankaragücü,summer,out,Bilal Kısa,7444,27,Türkiye,Attacking Midfield,AM,750000.0,Ankaraspor,Türkiye,0.0,1
+2010,Super Lig,MKE Ankaragücü,summer,out,Özgür Çek,52262,19,Türkiye,Left-Back,LB,150000.0,Ankaraspor,Türkiye,0.0,1
+2010,Super Lig,MKE Ankaragücü,summer,out,Aydın Karabulut,37899,22,Türkiye,Right Winger,RW,700000.0,Ankaraspor,Türkiye,0.0,1
+2010,Super Lig,MKE Ankaragücü,summer,out,İlhan Parlak,37091,23,Türkiye,Centre-Forward,CF,450000.0,Ankaraspor,Türkiye,0.0,1
+2010,Super Lig,MKE Ankaragücü,summer,out,Jérôme Rothen,5300,32,France,Left Midfield,LM,3500000.0,Paris Saint-Germain,France,0.0,1
+2010,Super Lig,MKE Ankaragücü,summer,out,Róbert Vittek,3531,28,Slovakia,Centre-Forward,CF,2300000.0,LOSC Lille,France,0.0,1
+2010,Super Lig,MKE Ankaragücü,summer,out,Theo Weeks,79089,20,Liberia,Attacking Midfield,AM,600000.0,Ankaraspor,Türkiye,0.0,1
+2010,Super Lig,MKE Ankaragücü,winter,out,Uğur Demirkol,45951,20,Türkiye,Left-Back,LB,150000.0,SC Freiburg II,Germany,0.0,0
+2010,Super Lig,MKE Ankaragücü,winter,out,Gökhan Aktas,105666,19,Germany,Attacking Midfield,AM,,FC Oberneuland,Germany,0.0,0
+2010,Super Lig,MKE Ankaragücü,winter,out,Roguy Méyé,74393,24,Gabon,Centre-Forward,CF,500000.0,Paris FC,France,0.0,0
+2010,Super Lig,MKE Ankaragücü,winter,out,Muhammet Hanifi Yoldaş,13387,27,Türkiye,Centre-Back,CB,750000.0,Kardemir DC Karabükspor,Türkiye,0.0,0
+2010,Super Lig,MKE Ankaragücü,winter,out,Mehmet Çakır,33791,27,Türkiye,Centre-Forward,CF,1800000.0,Trabzonspor,Türkiye,0.0,0
+2010,Super Lig,MKE Ankaragücü,winter,out,Hürriyet Gücer,17386,29,Türkiye,Defensive Midfield,DM,1200000.0,Gaziantepspor,Türkiye,0.0,1
+2010,Super Lig,MKE Ankaragücü,winter,out,Tonia Tisdell,91233,18,Liberia,Left Winger,LW,50000.0,Mersin Idmanyurdu,Türkiye,0.0,1
+2010,Super Lig,MKE Ankaragücü,winter,out,Timur Özgöz,38341,23,Germany,Attacking Midfield,AM,150000.0,Bugsas Spor,Türkiye,0.0,1
+2010,Super Lig,MKE Ankaragücü,winter,out,Theo Weeks,79089,21,Liberia,Attacking Midfield,AM,850000.0,Caykur Rizespor,Türkiye,0.0,1
+2010,Super Lig,MKE Ankaragücü,winter,out,Mert Erdoğan,45002,21,Türkiye,Central Midfield,CM,50000.0,Denizli Belediyespor,Türkiye,0.0,1
+2010,Super Lig,Manisaspor,summer,in,Ariza Makukula,5518,29,Portugal,Centre-Forward,CF,6000000.0,SL Benfica,Portugal,1700000.0,0
+2010,Super Lig,Manisaspor,summer,in,Gökhan Emreciksin,58879,25,Türkiye,Right Winger,RW,1500000.0,Kayserispor,Türkiye,1000000.0,0
+2010,Super Lig,Manisaspor,summer,in,Isaac Promise,33789,22,Nigeria,Right Winger,RW,1500000.0,Trabzonspor,Türkiye,500000.0,0
+2010,Super Lig,Manisaspor,summer,in,Kahê,33833,27,Brazil,Centre-Forward,CF,750000.0,Genclerbirligi Ankara,Türkiye,0.0,0
+2010,Super Lig,Manisaspor,summer,in,Murat Erdoğan,7194,34,Türkiye,Central Midfield,CM,750000.0,Kasimpasa,Türkiye,0.0,0
+2010,Super Lig,Manisaspor,summer,in,Semavi Özgür,58759,28,Türkiye,Central Midfield,CM,500000.0,MKE Ankaragücü,Türkiye,0.0,0
+2010,Super Lig,Manisaspor,summer,in,Ahmet İlhan Özek,157588,22,Türkiye,Right Winger,RW,,Bozüyükspor,Türkiye,,0
+2010,Super Lig,Manisaspor,summer,in,Recep Biler,6919,29,Türkiye,Goalkeeper,GK,300000.0,Gaziantepspor,Türkiye,,0
+2010,Super Lig,Manisaspor,summer,in,Nicolae Dică,15004,30,Romania,Second Striker,SS,1750000.0,Calcio Catania,Italy,0.0,1
+2010,Super Lig,Manisaspor,summer,in,Ömer Aysan Barış,16698,27,Türkiye,Right-Back,RB,1200000.0,Without Club,,,0
+2010,Super Lig,Manisaspor,winter,in,Maciej Iwanski,29512,29,Poland,Central Midfield,CM,1800000.0,Legia Warszawa,Poland,250000.0,0
+2010,Super Lig,Manisaspor,winter,in,Manucho,64484,27,Angola,Centre-Forward,CF,1500000.0,Real Valladolid CF,Spain,0.0,1
+2010,Super Lig,Manisaspor,winter,in,Fatih Yilmaz,52892,21,Türkiye,Defensive Midfield,DM,50000.0,Without Club,,,0
+2010,Super Lig,Manisaspor,summer,out,Tufan Esin,29498,30,Türkiye,Centre-Back,CB,100000.0,Diyarbakirspor,Türkiye,0.0,0
+2010,Super Lig,Manisaspor,summer,out,Mustafa Aşan,76438,21,Türkiye,Central Midfield,CM,50000.0,Akhisar Belediyespor,Türkiye,0.0,0
+2010,Super Lig,Manisaspor,summer,out,Kemal Okyay,44936,25,Türkiye,Left-Back,LB,250000.0,Kayseri Erciyesspor,Türkiye,0.0,0
+2010,Super Lig,Manisaspor,summer,out,Güven Varol,10139,29,Türkiye,Right Midfield,RM,1000000.0,MKE Ankaragücü,Türkiye,0.0,0
+2010,Super Lig,Manisaspor,summer,out,Ersen Martin,7035,31,Türkiye,Centre-Forward,CF,500000.0,Kasimpasa,Türkiye,0.0,0
+2010,Super Lig,Manisaspor,summer,out,Mehmet Nas,7153,30,Türkiye,Central Midfield,CM,1200000.0,Sivasspor,Türkiye,0.0,0
+2010,Super Lig,Manisaspor,summer,out,Hikmet Balioğlu,74639,20,Türkiye,Centre-Back,CB,50000.0,Altinordu FK,Türkiye,0.0,1
+2010,Super Lig,Manisaspor,summer,out,Egemen Gençalp,44981,22,Türkiye,Goalkeeper,GK,50000.0,Pendikspor,Türkiye,0.0,1
+2010,Super Lig,Manisaspor,summer,out,Murat Gürbüzerol,90936,22,Türkiye,Centre-Forward,CF,200000.0,Akhisar Belediyespor,Türkiye,0.0,1
+2010,Super Lig,Manisaspor,summer,out,Berkay Günay,68232,20,Türkiye,Left Midfield,LM,50000.0,Altinordu FK,Türkiye,0.0,1
+2010,Super Lig,Manisaspor,summer,out,Orkun Usak,8706,29,Türkiye,Goalkeeper,GK,300000.0,Konyaspor,Türkiye,,0
+2010,Super Lig,Manisaspor,summer,out,Yaser Yıldız,35686,22,Türkiye,Centre-Forward,CF,450000.0,Boluspor,Türkiye,,0
+2010,Super Lig,Manisaspor,summer,out,Fatih Baydemir,41622,21,Türkiye,Centre-Forward,CF,175000.0,Without Club,,,0
+2010,Super Lig,Manisaspor,summer,out,Ilker Tugal,45173,21,Switzerland,Centre-Back,CB,50000.0,Without Club,,,0
+2010,Super Lig,Manisaspor,summer,out,Isaac Promise,33789,22,Nigeria,Right Winger,RW,1500000.0,Trabzonspor,Türkiye,0.0,1
+2010,Super Lig,Manisaspor,winter,out,Burak Özsaraç,7005,31,Türkiye,Centre-Back,CB,700000.0,Genclerbirligi Ankara,Türkiye,0.0,0
+2010,Super Lig,Manisaspor,winter,out,Adem Büyük,54148,23,Türkiye,Centre-Forward,CF,450000.0,Mersin Idmanyurdu,Türkiye,0.0,1
+2010,Super Lig,Manisaspor,winter,out,Semavi Özgür,58759,28,Türkiye,Central Midfield,CM,500000.0,Caykur Rizespor,Türkiye,,0
+2010,Super Lig,Manisaspor,winter,out,Dilaver Güçlü,31444,24,Türkiye,Left Winger,LW,100000.0,Samsunspor,Türkiye,,0
+2010,Super Lig,Manisaspor,winter,out,Gökhan Emreciksin,58879,26,Türkiye,Right Winger,RW,650000.0,Konyaspor,Türkiye,,0
+2010,Super Lig,Manisaspor,winter,out,Ergin Keleş,35509,23,Türkiye,Centre-Forward,CF,400000.0,Without Club,,,0
+2010,Super Lig,Manisaspor,winter,out,Jacques Momha,5615,28,Cameroon,Left-Back,LB,450000.0,Without Club,,,0
+2010,Super Lig,Manisaspor,winter,out,Gabriel,41305,27,Brazil,Centre-Back,CB,700000.0,Without Club,,,0
+2010,Super Lig,Manisaspor,winter,out,Nicolae Dică,15004,30,Romania,Second Striker,SS,1750000.0,Calcio Catania,Italy,0.0,1
+2010,Super Lig,Sivasspor,summer,in,Ricardo Pedriel,76281,23,Bolivia,Centre-Forward,CF,500000.0,Steaua Bucharest,Romania,100000.0,0
+2010,Super Lig,Sivasspor,summer,in,Mehmet Nas,7153,30,Türkiye,Central Midfield,CM,1200000.0,Manisaspor,Türkiye,0.0,0
+2010,Super Lig,Sivasspor,summer,in,Alioum Saidou,7160,32,Cameroon,Defensive Midfield,DM,1200000.0,Kayserispor,Türkiye,0.0,0
+2010,Super Lig,Sivasspor,summer,in,Ceyhun Eriş,7064,33,Türkiye,Attacking Midfield,AM,750000.0,Assyriska FF,Sweden,0.0,0
+2010,Super Lig,Sivasspor,summer,in,Sedat Yeşilkaya,8046,30,Türkiye,Central Midfield,CM,250000.0,Kasimpasa,Türkiye,,0
+2010,Super Lig,Sivasspor,summer,in,Deniss Ivanovs,22675,26,Latvia,Centre-Back,CB,225000.0,Ajax Cape Town (- 2020),South Africa,,0
+2010,Super Lig,Sivasspor,summer,in,Sead Ramovic,686,31,Germany,Goalkeeper,GK,900000.0,Tromsø IL,Norway,,0
+2010,Super Lig,Sivasspor,summer,in,Ziya Erdal,170644,22,Türkiye,Left-Back,LB,,Anadolu Üsküdar 1908 Spor,Türkiye,,0
+2010,Super Lig,Sivasspor,winter,in,Kamil Grosicki,37920,22,Poland,Centre-Forward,CF,1600000.0,Jagiellonia Bialystok,Poland,900000.0,0
+2010,Super Lig,Sivasspor,winter,in,Jakub Navratil,21086,26,Czech Republic,Centre-Back,CB,500000.0,FC Viktoria Plzen,Czech Republic,500000.0,0
+2010,Super Lig,Sivasspor,winter,in,Michael Eneramo,49838,25,Nigeria,Centre-Forward,CF,2200000.0,Esperance Tunis,Tunisia,0.0,0
+2010,Super Lig,Sivasspor,winter,in,Korcan Çelikay,50483,23,Türkiye,Goalkeeper,GK,50000.0,Besiktas JK,Türkiye,0.0,1
+2010,Super Lig,Sivasspor,winter,in,Lubos Kamenar,34417,23,Slovakia,Goalkeeper,GK,600000.0,FC Nantes,France,0.0,1
+2010,Super Lig,Sivasspor,winter,in,Tomas Rada,35764,27,Czech Republic,Centre-Back,CB,650000.0,FC Viktoria Plzen,Czech Republic,,0
+2010,Super Lig,Sivasspor,winter,in,Sandro Mendonça,37429,27,Brazil,Second Striker,SS,500000.0,Avaí FC,Brazil,,0
+2010,Super Lig,Sivasspor,summer,out,Rahman Soyudogru,43505,21,Germany,Striker,Striker,150000.0,Göztepe,Türkiye,0.0,0
+2010,Super Lig,Sivasspor,summer,out,Pieter Mbemba,34864,22,Belgium,Centre-Back,CB,150000.0,Akademik Sofia,Bulgaria,0.0,0
+2010,Super Lig,Sivasspor,summer,out,Lucien Aubey,6976,26,Congo,Centre-Back,CB,1000000.0,Stade Reims,France,0.0,0
+2010,Super Lig,Sivasspor,summer,out,Michael Petkovic,6926,33,Australia,Goalkeeper,GK,750000.0,Melbourne Victory,Australia,0.0,0
+2010,Super Lig,Sivasspor,summer,out,İbrahim Dağaşan,35265,26,Türkiye,Defensive Midfield,DM,1000000.0,Bucaspor,Türkiye,0.0,0
+2010,Super Lig,Sivasspor,summer,out,Musa Aydın,7139,29,Türkiye,Right Winger,RW,2000000.0,Bucaspor,Türkiye,0.0,0
+2010,Super Lig,Sivasspor,summer,out,Yasin Çakmak,37943,25,Türkiye,Centre-Back,CB,550000.0,Denizlispor,Türkiye,,0
+2010,Super Lig,Sivasspor,summer,out,Emrehan Ceylan,17458,30,Türkiye,Goalkeeper,GK,75000.0,Bozüyükspor,Türkiye,,0
+2010,Super Lig,Sivasspor,summer,out,Tevfik Altındağ,51660,21,Türkiye,Central Midfield,CM,50000.0,Eyüpspor,Türkiye,,0
+2010,Super Lig,Sivasspor,summer,out,Tayfur Emre Yılmaz,58652,21,Türkiye,Centre-Forward,CF,100000.0,Gölcükspor,Türkiye,,0
+2010,Super Lig,Sivasspor,summer,out,Mehmet Yazıcı,169331,21,Türkiye,Goalkeeper,GK,,Anadolu Üsküdar 1908 Spor,Türkiye,,0
+2010,Super Lig,Sivasspor,summer,out,Akeem Agbetu,43275,22,Nigeria,Left Winger,LW,350000.0,Samsunspor,Türkiye,0.0,1
+2010,Super Lig,Sivasspor,summer,out,Nabil Taïder,7019,27,Tunisia,Central Midfield,CM,400000.0,Without Club,,,0
+2010,Super Lig,Sivasspor,summer,out,Ugur Bademci,87103,20,Türkiye,Centre-Forward,CF,,Anadolu Üsküdar 1908 Spor,Türkiye,0.0,1
+2010,Super Lig,Sivasspor,summer,out,Elrio van Heerden,14920,26,South Africa,Attacking Midfield,AM,750000.0,Blackburn Rovers,England,0.0,1
+2010,Super Lig,Sivasspor,winter,out,Faruk Bayar,7175,29,Türkiye,Left Midfield,LM,650000.0,Mersin Idmanyurdu,Türkiye,0.0,0
+2010,Super Lig,Sivasspor,winter,out,Harun Toprak,45179,23,Germany,Right Midfield,RM,100000.0,FC Schaffhausen,Switzerland,0.0,0
+2010,Super Lig,Sivasspor,winter,out,İbrahim Şahin,55841,26,Türkiye,Centre-Forward,CF,950000.0,Orduspor,Türkiye,,0
+2010,Super Lig,Sivasspor,winter,out,Ceyhun Eriş,7064,33,Türkiye,Attacking Midfield,AM,850000.0,Denizlispor,Türkiye,,0
+2010,Super Lig,Sivasspor,winter,out,Sedat Yeşilkaya,8046,30,Türkiye,Central Midfield,CM,250000.0,Konya Sekerspor,Türkiye,,0
+2010,Super Lig,Sivasspor,winter,out,Akın Vardar,33568,32,Türkiye,Goalkeeper,GK,350000.0,Karsiyaka,Türkiye,,0
+2010,Super Lig,Sivasspor,winter,out,Alioum Saidou,7160,32,Cameroon,Defensive Midfield,DM,1200000.0,Retired,,,0
+2010,Super Lig,Sivasspor,winter,out,Sead Ramovic,686,31,Germany,Goalkeeper,GK,1100000.0,Without Club,,,0
+2010,Super Lig,Sivasspor,winter,out,Mamadou Diallo,24003,26,Guinea,Centre-Back,CB,400000.0,Without Club,,,0
+2010,Super Lig,Sivasspor,winter,out,Bruno Mbanangoye,57624,30,Gabon,Central Midfield,CM,200000.0,Without Club,,,0
+2010,Super Lig,Trabzonspor,summer,in,Jajá,27245,24,Brazil,Centre-Forward,CF,6000000.0,Metalist Kharkiv,Ukraine,4200000.0,0
+2010,Super Lig,Trabzonspor,summer,in,Arkadiusz Glowacki,14896,31,Poland,Centre-Back,CB,1600000.0,Wisla Kraków,Poland,900000.0,0
+2010,Super Lig,Trabzonspor,summer,in,Barış Ataş,58668,23,Türkiye,Defensive Midfield,DM,750000.0,Diyarbakirspor,Türkiye,0.0,0
+2010,Super Lig,Trabzonspor,summer,in,Volkan Ünlü,1720,27,Türkiye,Goalkeeper,GK,100000.0,MVV Maastricht,Netherlands,0.0,0
+2010,Super Lig,Trabzonspor,summer,in,Bora Sevim,16768,26,Türkiye,Goalkeeper,GK,100000.0,Gaziantep Büyüksehir Belediyespor,Türkiye,,0
+2010,Super Lig,Trabzonspor,winter,in,Pawel Brozek,14909,27,Poland,Centre-Forward,CF,2900000.0,Wisla Kraków,Poland,2000000.0,0
+2010,Super Lig,Trabzonspor,winter,in,Piotr Brozek,14893,27,Poland,Left-Back,LB,2000000.0,Wisla Kraków,Poland,800000.0,0
+2010,Super Lig,Trabzonspor,winter,in,Mehmet Çakır,33791,27,Türkiye,Centre-Forward,CF,1800000.0,MKE Ankaragücü,Türkiye,0.0,0
+2010,Super Lig,Trabzonspor,winter,in,Zeki Yavru,98131,19,Türkiye,Right-Back,RB,50000.0,1461 Trabzon,Türkiye,0.0,0
+2010,Super Lig,Trabzonspor,winter,in,Coskun Ekim,121282,19,Türkiye,Central Midfield,CM,,Tottenham Hotspur Reserves,England,,0
+2010,Super Lig,Trabzonspor,summer,out,Isaac Promise,33789,22,Nigeria,Right Winger,RW,1500000.0,Manisaspor,Türkiye,500000.0,0
+2010,Super Lig,Trabzonspor,summer,out,Razundara Tjikuzu,537,30,Namibia,Right-Back,RB,850000.0,Kasimpasa,Türkiye,0.0,0
+2010,Super Lig,Trabzonspor,summer,out,Selçuk Yıldırım,76175,24,Türkiye,Defensive Midfield,DM,50000.0,Akcaabat Sebatspor,Türkiye,0.0,0
+2010,Super Lig,Trabzonspor,summer,out,Kadir Keleş,53555,22,Türkiye,Left-Back,LB,100000.0,Diyarbakirspor,Türkiye,0.0,0
+2010,Super Lig,Trabzonspor,summer,out,Eren Görür,76275,23,Türkiye,Centre-Forward,CF,25000.0,Corumspor,Türkiye,0.0,0
+2010,Super Lig,Trabzonspor,summer,out,Murat Tosun,28959,26,Türkiye,Right Winger,RW,700000.0,Konyaspor,Türkiye,0.0,1
+2010,Super Lig,Trabzonspor,summer,out,Göksu Alhas,98115,20,Türkiye,Right-Back,RB,100000.0,1461 Trabzon,Türkiye,0.0,1
+2010,Super Lig,Trabzonspor,summer,out,Sami Büyüktopaç,74987,22,Türkiye,Left-Back,LB,50000.0,KV Turnhout,Belgium,0.0,1
+2010,Super Lig,Trabzonspor,summer,out,Volkan Ünlü,1720,27,Türkiye,Goalkeeper,GK,100000.0,1461 Trabzon,Türkiye,0.0,1
+2010,Super Lig,Trabzonspor,summer,out,Zeki Ayvaz,93085,20,Türkiye,Goalkeeper,GK,50000.0,1461 Trabzon,Türkiye,0.0,1
+2010,Super Lig,Trabzonspor,summer,out,Barış Memiş,62374,20,Türkiye,Left Winger,LW,400000.0,Karsiyaka,Türkiye,0.0,1
+2010,Super Lig,Trabzonspor,summer,out,Yakup Bugun,75306,22,Türkiye,Goalkeeper,GK,50000.0,Denizlispor,Türkiye,,0
+2010,Super Lig,Trabzonspor,summer,out,İsmail Özeren,75021,25,Türkiye,Left-Back,LB,250000.0,Bugsas Spor,Türkiye,,0
+2010,Super Lig,Trabzonspor,summer,out,Drago Gabric,43990,23,Croatia,Left Winger,LW,3000000.0,MKE Ankaragücü,Türkiye,0.0,1
+2010,Super Lig,Trabzonspor,summer,out,Rigobert Song,1419,34,Cameroon,Centre-Back,CB,3500000.0,Retired,,,0
+2010,Super Lig,Trabzonspor,summer,out,Tony Sylva,5282,35,Senegal,Goalkeeper,GK,1000000.0,Retired,,,0
+2010,Super Lig,Trabzonspor,winter,out,Teófilo Gutiérrez,77066,25,Colombia,Centre-Forward,CF,1200000.0,Racing Club,Argentina,1300000.0,0
+2010,Super Lig,Trabzonspor,winter,out,Faty Papy,81919,20,Burundi,Defensive Midfield,DM,250000.0,APR FC Kigali,Rwanda,0.0,0
+2010,Super Lig,Trabzonspor,winter,out,Coskun Ekim,121282,19,Türkiye,Central Midfield,CM,,1461 Trabzon,Türkiye,0.0,1
+2010,Super Lig,Trabzonspor,winter,out,Mert Ege Özeren,98136,19,Türkiye,Centre-Back,CB,75000.0,1461 Trabzon,Türkiye,0.0,1

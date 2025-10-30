@@ -16,6 +16,7 @@ All league data span the 1992&ndash;93 season through the current season unless 
 - Serie A (Italy)
 - Ligue 1 (France)
 - Eredivisie (Netherlands)
+- Süper Lig (Turkey)
 
 More leagues and seasons are to come!
 

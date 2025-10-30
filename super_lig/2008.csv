@@ -1,0 +1,791 @@
+season,league,club,window,movement,player_name,player_id,age,nationality,position,pos,market_value,dealing_club,dealing_country,fee,is_loan
+2008,Super Lig,Ankaraspor,summer,in,Madiou Konate,37182,26,Senegal,Centre-Forward,CF,,Hønefoss BK,Norway,80000.0,0
+2008,Super Lig,Ankaraspor,summer,in,Theo Weeks,79089,18,Liberia,Attacking Midfield,AM,,LISCR FC,Liberia,40000.0,0
+2008,Super Lig,Ankaraspor,summer,in,Erhan Güven,33794,26,Türkiye,Right-Back,RB,1200000.0,Genclerbirligi Ankara,Türkiye,0.0,0
+2008,Super Lig,Ankaraspor,summer,in,Ömer Aysan Barış,16698,25,Türkiye,Right-Back,RB,1600000.0,Bursaspor,Türkiye,0.0,0
+2008,Super Lig,Ankaraspor,summer,in,Baki Mercimek,10122,25,Türkiye,Centre-Back,CB,1500000.0,Besiktas JK,Türkiye,0.0,0
+2008,Super Lig,Ankaraspor,summer,in,Mehmet Çakır,33791,24,Türkiye,Centre-Forward,CF,2700000.0,Genclerbirligi Ankara,Türkiye,0.0,0
+2008,Super Lig,Ankaraspor,summer,in,Ramazan Tunç,7221,32,Türkiye,Centre-Back,CB,200000.0,Without Club,,,0
+2008,Super Lig,Ankaraspor,winter,in,Roguy Méyé,74393,22,Gabon,Centre-Forward,CF,250000.0,Zalaegerszegi TE FC,Hungary,1000000.0,0
+2008,Super Lig,Ankaraspor,winter,in,Ramazan Kahya,29636,24,Türkiye,Left-Back,LB,450000.0,Malatyaspor,Türkiye,0.0,0
+2008,Super Lig,Ankaraspor,winter,in,Tonia Tisdell,91233,16,Liberia,Left Winger,LW,,Unknown,,0.0,0
+2008,Super Lig,Ankaraspor,winter,in,Caner Ağca,66573,24,Türkiye,Attacking Midfield,AM,350000.0,Malatyaspor,Türkiye,,0
+2008,Super Lig,Ankaraspor,summer,out,Erhan Albayrak,1393,31,Türkiye,Left Midfield,LM,1200000.0,Konyaspor,Türkiye,0.0,0
+2008,Super Lig,Ankaraspor,summer,out,Hamílton,48293,28,Togo,Defensive Midfield,DM,900000.0,Sociedade Boca Júnior FC (SE),Brazil,0.0,0
+2008,Super Lig,Ankaraspor,summer,out,Tayfun Türkmen,7391,30,Türkiye,Centre-Forward,CF,1400000.0,Eskisehirspor,Türkiye,0.0,0
+2008,Super Lig,Ankaraspor,summer,out,Mehmet Yılmaz,6915,29,Türkiye,Centre-Forward,CF,1800000.0,MKE Ankaragücü,Türkiye,0.0,0
+2008,Super Lig,Ankaraspor,summer,out,Ibrahim Keser,31613,24,Türkiye,Defensive Midfield,DM,,Bugsas Spor,Türkiye,,0
+2008,Super Lig,Ankaraspor,summer,out,Fırat Akkoyun,44969,26,Türkiye,Centre-Back,CB,400000.0,Without Club,,,0
+2008,Super Lig,Ankaraspor,summer,out,Tevfik Köse,36661,19,Türkiye,Centre-Forward,CF,350000.0,Bayer 04 Leverkusen II,Germany,0.0,1
+2008,Super Lig,Ankaraspor,summer,out,Ferdi Elmas,29949,23,Türkiye,Left Winger,LW,700000.0,Caykur Rizespor,Türkiye,0.0,1
+2008,Super Lig,Ankaraspor,summer,out,Emre Aşık,3379,34,Türkiye,Centre-Back,CB,1600000.0,Galatasaray,Türkiye,0.0,1
+2008,Super Lig,Ankaraspor,summer,out,Orhan Ak,6860,28,Türkiye,Centre-Back,CB,1300000.0,Galatasaray,Türkiye,0.0,1
+2008,Super Lig,Ankaraspor,winter,out,Eren Aydın,28992,26,Türkiye,Left-Back,LB,500000.0,Genclerbirligi Ankara,Türkiye,0.0,0
+2008,Super Lig,Ankaraspor,winter,out,Tita,21488,27,Brazil,Left Winger,LW,1500000.0,Antalyaspor,Türkiye,0.0,1
+2008,Super Lig,Ankaraspor,winter,out,Gökhan Tokgöz,7341,29,Türkiye,Goalkeeper,GK,500000.0,Kayseri Erciyesspor,Türkiye,0.0,1
+2008,Super Lig,Ankaraspor,winter,out,Antonio de Nigris,44975,31,Mexico,Centre-Forward,CF,2400000.0,MKE Ankaragücü,Türkiye,0.0,1
+2008,Super Lig,Ankaraspor,winter,out,Fredrik Risp,6266,28,Sweden,Centre-Back,CB,1500000.0,Stabæk Fotball,Norway,0.0,1
+2008,Super Lig,Antalyaspor,summer,in,Ahmet Kuru,2212,26,Türkiye,Centre-Forward,CF,350000.0,FC St. Pauli,Germany,60000.0,0
+2008,Super Lig,Antalyaspor,summer,in,Volkan Arslan,6884,29,Türkiye,Central Midfield,CM,1200000.0,Gaziantepspor,Türkiye,0.0,0
+2008,Super Lig,Antalyaspor,summer,in,Engin Kalender,8842,23,Türkiye,Centre-Back,CB,,1.FC Schweinfurt 05,Germany,0.0,0
+2008,Super Lig,Antalyaspor,summer,in,Sedat Ağçay,8691,26,Türkiye,Defensive Midfield,DM,1700000.0,Konyaspor,Türkiye,0.0,0
+2008,Super Lig,Antalyaspor,summer,in,Serge Djiehoua,38450,24,Cote d'Ivoire,Centre-Forward,CF,,Thanda Royal Zulu FC,South Africa,0.0,0
+2008,Super Lig,Antalyaspor,summer,in,Joseph Ngwenya,27655,27,Zimbabwe,Attacking Midfield,AM,200000.0,SK Austria Kärnten (-2010),Austria,0.0,0
+2008,Super Lig,Antalyaspor,summer,in,Yalçın Ayhan,7152,26,Türkiye,Centre-Back,CB,600000.0,Istanbulspor,Türkiye,0.0,0
+2008,Super Lig,Antalyaspor,summer,in,Orhan Ak,6860,28,Türkiye,Centre-Back,CB,1300000.0,Galatasaray,Türkiye,0.0,0
+2008,Super Lig,Antalyaspor,summer,in,Korhan Öztürk,7339,27,Türkiye,Central Midfield,CM,500000.0,Elazigspor,Türkiye,0.0,0
+2008,Super Lig,Antalyaspor,summer,in,Ömer Çatkıç,7249,33,Türkiye,Goalkeeper,GK,1000000.0,Gaziantepspor,Türkiye,0.0,0
+2008,Super Lig,Antalyaspor,summer,in,Burak Tok,40603,19,Türkiye,Centre-Back,CB,,1.FC Nürnberg U19,Germany,0.0,0
+2008,Super Lig,Antalyaspor,summer,in,Volkan Altin,16921,21,Türkiye,Right Winger,RW,125000.0,SV Sandhausen,Germany,0.0,0
+2008,Super Lig,Antalyaspor,summer,in,Recep Yıldız,32411,22,Türkiye,Centre-Back,CB,300000.0,Stuttgarter Kickers,Germany,0.0,0
+2008,Super Lig,Antalyaspor,summer,in,Abdullah Çetin,10550,24,Türkiye,Right-Back,RB,450000.0,Diyarbakirspor,Türkiye,0.0,0
+2008,Super Lig,Antalyaspor,summer,in,Mustafa Özkan,7278,33,Türkiye,Centre-Forward,CF,400000.0,Without Club,,,0
+2008,Super Lig,Antalyaspor,winter,in,Kamber Arslan,21705,29,Türkiye,Defensive Midfield,DM,500000.0,Kayserispor,Türkiye,0.0,0
+2008,Super Lig,Antalyaspor,winter,in,Tita,21488,27,Brazil,Left Winger,LW,1500000.0,Ankaraspor,Türkiye,0.0,1
+2008,Super Lig,Antalyaspor,winter,in,Fatih Ceylan,17451,28,Türkiye,Left Midfield,LM,1000000.0,Kayserispor,Türkiye,,0
+2008,Super Lig,Antalyaspor,summer,out,Mesut Çaytemel,53543,24,Türkiye,Left-Back,LB,300000.0,Samsunspor,Türkiye,0.0,0
+2008,Super Lig,Antalyaspor,summer,out,Engin Kalender,8842,23,Türkiye,Centre-Back,CB,50000.0,1.FC Schweinfurt 05,Germany,0.0,0
+2008,Super Lig,Antalyaspor,summer,out,Eyyüp Hasan Uğur,8043,31,Türkiye,Defensive Midfield,DM,800000.0,Sakaryaspor,Türkiye,0.0,0
+2008,Super Lig,Antalyaspor,summer,out,Mahmut Karıklar,37107,29,Türkiye,Attacking Midfield,AM,300000.0,Kardemir DC Karabükspor,Türkiye,0.0,0
+2008,Super Lig,Antalyaspor,summer,out,Ufuk Ateş,6960,29,Türkiye,Centre-Forward,CF,500000.0,Orduspor,Türkiye,0.0,0
+2008,Super Lig,Antalyaspor,summer,out,Akın Dağdelen,16701,31,Türkiye,Goalkeeper,GK,400000.0,Orduspor,Türkiye,0.0,0
+2008,Super Lig,Antalyaspor,summer,out,Cenk İşler,1294,34,Türkiye,Centre-Forward,CF,1750000.0,Manisaspor,Türkiye,0.0,0
+2008,Super Lig,Antalyaspor,summer,out,Aytekin Viduşlu,7165,29,Türkiye,Defensive Midfield,DM,900000.0,Orduspor,Türkiye,,0
+2008,Super Lig,Antalyaspor,summer,out,Serdar Sinik,43065,27,Türkiye,Second Striker,SS,300000.0,Orduspor,Türkiye,,0
+2008,Super Lig,Antalyaspor,summer,out,Serkan Reçber,35279,32,Türkiye,Defensive Midfield,DM,1600000.0,Konya Sekerspor,Türkiye,,0
+2008,Super Lig,Antalyaspor,summer,out,Piotr Dziewicki,24503,29,Poland,Centre-Back,CB,1000000.0,Without Club,,,0
+2008,Super Lig,Antalyaspor,summer,out,Jaroslaw Bieniuk,24497,29,Poland,Centre-Back,CB,1300000.0,Without Club,,,0
+2008,Super Lig,Antalyaspor,summer,out,Metin Aslan,3014,30,Türkiye,Centre-Back,CB,400000.0,Without Club,,,0
+2008,Super Lig,Antalyaspor,winter,out,Sezer Güler,50795,23,Türkiye,Central Midfield,CM,50000.0,Giresunspor,Türkiye,10000.0,0
+2008,Super Lig,Antalyaspor,winter,out,Joseph Ngwenya,27655,27,Zimbabwe,Attacking Midfield,AM,200000.0,Unknown,,,0
+2008,Super Lig,Antalyaspor,winter,out,Pavol Straka,41012,28,Slovakia,Centre-Forward,CF,1000000.0,FK Viktoria Zizkov,Czech Republic,,0
+2008,Super Lig,Antalyaspor,winter,out,İdris Hacıfazlıoğlu,58558,26,Türkiye,Left Winger,LW,150000.0,Gaziantep Büyüksehir Belediyespor,Türkiye,,0
+2008,Super Lig,Antalyaspor,winter,out,Recep Yıldız,32411,22,Türkiye,Centre-Back,CB,250000.0,Adanaspor,Türkiye,,0
+2008,Super Lig,Besiktas JK,summer,in,Tomas Sivok,26936,24,Czech Republic,Centre-Back,CB,3800000.0,Udinese Calcio,Italy,4700000.0,0
+2008,Super Lig,Besiktas JK,summer,in,Tomas Zapotocny,21262,27,Czech Republic,Centre-Back,CB,3250000.0,Udinese Calcio,Italy,4500000.0,0
+2008,Super Lig,Besiktas JK,summer,in,Uğur İnceman,933,27,Türkiye,Central Midfield,CM,3000000.0,Manisaspor,Türkiye,1000000.0,0
+2008,Super Lig,Besiktas JK,summer,in,Ekrem Dag,3059,27,Austria,Right-Back,RB,2000000.0,Gaziantepspor,Türkiye,1000000.0,0
+2008,Super Lig,Besiktas JK,summer,in,Anthony Seric,5967,29,Croatia,Left-Back,LB,2000000.0,Panathinaikos FC,Greece,0.0,0
+2008,Super Lig,Besiktas JK,summer,in,Tuna Üzümcü,33799,25,Türkiye,Centre-Back,CB,1500000.0,Genclerbirligi Ankara,Türkiye,0.0,0
+2008,Super Lig,Besiktas JK,winter,in,Fabian Ernst,299,29,Germany,Defensive Midfield,DM,7000000.0,FC Schalke 04,Germany,4500000.0,0
+2008,Super Lig,Besiktas JK,winter,in,Yusuf Şimşek,7034,33,Türkiye,Attacking Midfield,AM,2000000.0,Bursaspor,Türkiye,750000.0,0
+2008,Super Lig,Besiktas JK,winter,in,Erkan Zengin,23674,23,Sweden,Left Winger,LW,750000.0,Hammarby IF,Sweden,100000.0,1
+2008,Super Lig,Besiktas JK,summer,out,Fahri Tatan,7442,25,Türkiye,Defensive Midfield,DM,1800000.0,Konyaspor,Türkiye,800000.0,0
+2008,Super Lig,Besiktas JK,summer,out,İbrahim Kaş,35029,21,Türkiye,Centre-Back,CB,1000000.0,Getafe CF,Spain,0.0,0
+2008,Super Lig,Besiktas JK,summer,out,Federico Higuaín,45612,23,Argentina,Attacking Midfield,AM,1000000.0,CA Independiente,Argentina,0.0,0
+2008,Super Lig,Besiktas JK,summer,out,Murat Şahin,6942,32,Türkiye,Goalkeeper,GK,700000.0,Gaziantepspor,Türkiye,0.0,0
+2008,Super Lig,Besiktas JK,summer,out,Baki Mercimek,10122,25,Türkiye,Centre-Back,CB,1500000.0,Ankaraspor,Türkiye,0.0,0
+2008,Super Lig,Besiktas JK,summer,out,Gökhan Güleç,33812,22,Türkiye,Centre-Forward,CF,1800000.0,Bursaspor,Türkiye,0.0,0
+2008,Super Lig,Besiktas JK,summer,out,Rıza Şen,38196,22,Türkiye,Right Midfield,RM,50000.0,Kasimpasa,Türkiye,0.0,1
+2008,Super Lig,Besiktas JK,summer,out,Sezer Sezgin,45221,22,Türkiye,Left-Back,LB,400000.0,Boluspor,Türkiye,0.0,1
+2008,Super Lig,Besiktas JK,summer,out,Can Erdem,47299,21,Türkiye,Centre-Forward,CF,300000.0,Altay SK,Türkiye,0.0,1
+2008,Super Lig,Besiktas JK,summer,out,Gordon Schildenfeld,38870,23,Croatia,Centre-Back,CB,1400000.0,MSV Duisburg,Germany,0.0,1
+2008,Super Lig,Besiktas JK,summer,out,Mehmet Sedef,37949,21,Türkiye,Centre-Back,CB,600000.0,Altay SK,Türkiye,0.0,1
+2008,Super Lig,Besiktas JK,summer,out,Erkam Reşmen,72128,18,Türkiye,Centre-Back,CB,50000.0,Corumspor,Türkiye,0.0,1
+2008,Super Lig,Besiktas JK,summer,out,Mehmet Yozgatlı,7174,29,Türkiye,Right Winger,RW,1400000.0,Gaziantepspor,Türkiye,,0
+2008,Super Lig,Besiktas JK,summer,out,Emre İncemollaoğlu,58832,20,Türkiye,Centre-Forward,CF,100000.0,Giresunspor,Türkiye,0.0,1
+2008,Super Lig,Besiktas JK,summer,out,Burak Tahir Ateş,72112,19,Türkiye,Midfielder,Midfielder,,Gaziosmanpasa,Türkiye,0.0,1
+2008,Super Lig,Besiktas JK,summer,out,Atilla Özmen,53579,20,Türkiye,Goalkeeper,GK,200000.0,Altay SK,Türkiye,0.0,1
+2008,Super Lig,Besiktas JK,winter,out,Anthony Seric,5967,29,Croatia,Left-Back,LB,2000000.0,HNK Hajduk Split,Croatia,0.0,0
+2008,Super Lig,Besiktas JK,winter,out,Batuhan Karadeniz,52270,17,Türkiye,Centre-Forward,CF,1000000.0,Eskisehirspor,Türkiye,0.0,1
+2008,Super Lig,Besiktas JK,winter,out,Tuna Üzümcü,33799,26,Türkiye,Centre-Back,CB,1500000.0,Bursaspor,Türkiye,,0
+2008,Super Lig,Besiktas JK,winter,out,Ali Tandoğan,7054,31,Türkiye,Right-Back,RB,2000000.0,Bursaspor,Türkiye,,0
+2008,Super Lig,Bursaspor,summer,in,Fabrício,85614,22,Brazil,Central Midfield,CM,,Paysandu SC,Brazil,0.0,0
+2008,Super Lig,Bursaspor,summer,in,Cihan Kaptan,53419,19,Germany,Right-Back,RB,,Bayer 04 Leverkusen U19,Germany,0.0,0
+2008,Super Lig,Bursaspor,summer,in,Giani Kiriță,7065,31,Romania,Defensive Midfield,DM,2500000.0,MKE Ankaragücü,Türkiye,0.0,0
+2008,Super Lig,Bursaspor,summer,in,Emrah Kiraz,51810,20,Türkiye,Centre-Back,CB,150000.0,Giresunspor,Türkiye,0.0,0
+2008,Super Lig,Bursaspor,summer,in,Dimitar Ivankov,15256,32,Bulgaria,Goalkeeper,GK,2200000.0,Kayserispor,Türkiye,0.0,0
+2008,Super Lig,Bursaspor,summer,in,Leandrão,62772,24,Brazil,Centre-Back,CB,,Bonsucesso FC (RJ),Brazil,0.0,0
+2008,Super Lig,Bursaspor,summer,in,İbrahim Öztürk,58660,27,Türkiye,Centre-Back,CB,250000.0,Altay SK,Türkiye,0.0,0
+2008,Super Lig,Bursaspor,summer,in,Yusuf Şimşek,7034,32,Türkiye,Attacking Midfield,AM,2800000.0,Denizlispor,Türkiye,0.0,0
+2008,Super Lig,Bursaspor,summer,in,Gökhan Güleç,33812,22,Türkiye,Centre-Forward,CF,1800000.0,Besiktas JK,Türkiye,0.0,0
+2008,Super Lig,Bursaspor,summer,in,Mustafa Keçeli,7072,29,Türkiye,Left-Back,LB,1000000.0,Trabzonspor,Türkiye,0.0,0
+2008,Super Lig,Bursaspor,summer,in,Adriano Magrão,42007,27,Brazil,Centre-Forward,CF,,Sociedade Esportiva do Gama (DF),Brazil,0.0,1
+2008,Super Lig,Bursaspor,summer,in,Halil Zeybek,76447,23,Türkiye,Right Winger,RW,50000.0,Erzurumspor,Türkiye,,0
+2008,Super Lig,Bursaspor,summer,in,Marcelinho,77709,21,Brazil,Right Winger,RW,,AD São Caetano (SP) B,Brazil,0.0,1
+2008,Super Lig,Bursaspor,winter,in,Ozan İpek,77362,22,Türkiye,Left Winger,LW,50000.0,Bucaspor,Türkiye,130000.0,0
+2008,Super Lig,Bursaspor,winter,in,Volkan Bekiroğlu,6955,31,Türkiye,Left-Back,LB,1100000.0,Kocaelispor,Türkiye,0.0,0
+2008,Super Lig,Bursaspor,winter,in,Young-rok Shin,81805,21,"Korea, South",Centre-Forward,CF,300000.0,Suwon Samsung Bluewings,"Korea, South",0.0,0
+2008,Super Lig,Bursaspor,winter,in,Kemal Aslan,7033,27,Türkiye,Central Midfield,CM,900000.0,Kocaelispor,Türkiye,0.0,0
+2008,Super Lig,Bursaspor,winter,in,Daniel Rezende,97538,25,Brazil,Centre-Forward,CF,200000.0,América FC,Brazil,0.0,0
+2008,Super Lig,Bursaspor,winter,in,Tadeu,55490,22,Brazil,Centre-Forward,CF,900000.0,Grêmio Foot-Ball Porto Alegrense,Brazil,,0
+2008,Super Lig,Bursaspor,winter,in,Ali Tandoğan,7054,31,Türkiye,Right-Back,RB,2000000.0,Besiktas JK,Türkiye,,0
+2008,Super Lig,Bursaspor,winter,in,Tuna Üzümcü,33799,26,Türkiye,Centre-Back,CB,1500000.0,Besiktas JK,Türkiye,,0
+2008,Super Lig,Bursaspor,winter,in,Sercan Baş,58675,20,Türkiye,Goalkeeper,GK,,Without Club,,,0
+2008,Super Lig,Bursaspor,summer,out,Serkan Kurtuluş,45005,18,Türkiye,Right-Back,RB,700000.0,Galatasaray,Türkiye,1000000.0,0
+2008,Super Lig,Bursaspor,summer,out,Jason Vandelannoite,33872,21,Belgium,Right-Back,RB,700000.0,AFC Tubize,Belgium,0.0,0
+2008,Super Lig,Bursaspor,summer,out,Ghislain Emo,58663,19,Cameroon,Centre-Forward,CF,50000.0,Karvan Yevlakh,Azerbaijan,0.0,0
+2008,Super Lig,Bursaspor,summer,out,Yunus Acar,231430,21,Türkiye,Attacking Midfield,AM,,Orhangazispor,Türkiye,0.0,0
+2008,Super Lig,Bursaspor,summer,out,Renny Vega,54178,29,Venezuela,Goalkeeper,GK,1500000.0,Denizlispor,Türkiye,0.0,0
+2008,Super Lig,Bursaspor,summer,out,Eser Yağmur,35281,25,Türkiye,Centre-Forward,CF,600000.0,Karsiyaka,Türkiye,0.0,0
+2008,Super Lig,Bursaspor,summer,out,Ümit Aydın,6916,28,Türkiye,Defensive Midfield,DM,900000.0,Kardemir DC Karabükspor,Türkiye,0.0,0
+2008,Super Lig,Bursaspor,summer,out,Volkan Bekiroğlu,6955,30,Türkiye,Left-Back,LB,1000000.0,Kocaelispor,Türkiye,0.0,0
+2008,Super Lig,Bursaspor,summer,out,Egemen Korkmaz,7319,25,Türkiye,Centre-Back,CB,2800000.0,Trabzonspor,Türkiye,0.0,0
+2008,Super Lig,Bursaspor,summer,out,İsmail Güldüren,7049,29,Türkiye,Centre-Back,CB,1200000.0,Konyaspor,Türkiye,0.0,0
+2008,Super Lig,Bursaspor,summer,out,Cihan Haspolatlı,6866,28,Türkiye,Defensive Midfield,DM,1400000.0,Konyaspor,Türkiye,0.0,0
+2008,Super Lig,Bursaspor,summer,out,Ömer Aysan Barış,16698,25,Türkiye,Right-Back,RB,1600000.0,Ankaraspor,Türkiye,0.0,0
+2008,Super Lig,Bursaspor,summer,out,İbrahim Dağaşan,35265,24,Türkiye,Defensive Midfield,DM,350000.0,Sivasspor,Türkiye,0.0,0
+2008,Super Lig,Bursaspor,summer,out,Sinan Kaloğlu,6873,27,Türkiye,Centre-Forward,CF,2400000.0,VfL Bochum,Germany,0.0,0
+2008,Super Lig,Bursaspor,summer,out,Arda Karakurt,669813,21,Türkiye,Centre-Back,CB,,Bozüyükspor,Türkiye,0.0,1
+2008,Super Lig,Bursaspor,summer,out,Üstün Bilgi,169850,20,Türkiye,Centre-Forward,CF,250000.0,Mustafakemalpasaspor,Türkiye,0.0,1
+2008,Super Lig,Bursaspor,summer,out,Koray Öztürk,58661,21,Türkiye,Left-Back,LB,100000.0,Adana Demirspor,Türkiye,0.0,1
+2008,Super Lig,Bursaspor,summer,out,Cihan Özkaymak,232603,19,Türkiye,Left Winger,LW,,Oyak-Renault GSK,Türkiye,0.0,1
+2008,Super Lig,Bursaspor,summer,out,Mehmet Yılmaz,45010,20,Türkiye,Centre-Back,CB,50000.0,Turgutluspor,Türkiye,,0
+2008,Super Lig,Bursaspor,summer,out,Selim Yörük,67579,20,Türkiye,Central Midfield,CM,50000.0,Bozüyükspor,Türkiye,0.0,1
+2008,Super Lig,Bursaspor,summer,out,Leandrão,62772,24,Brazil,Centre-Back,CB,500000.0,Without Club,,,0
+2008,Super Lig,Bursaspor,summer,out,Ronald Gutiérrez,64051,28,Bolivia,Attacking Midfield,AM,400000.0,Without Club,,,0
+2008,Super Lig,Bursaspor,summer,out,Collins Mbesuma,32515,24,Zambia,Centre-Forward,CF,1000000.0,Without Club,,,0
+2008,Super Lig,Bursaspor,summer,out,Hervé Tum,2899,29,Cameroon,Centre-Forward,CF,2000000.0,RC Strasbourg Alsace,France,0.0,1
+2008,Super Lig,Bursaspor,winter,out,Yusuf Şimşek,7034,33,Türkiye,Attacking Midfield,AM,2000000.0,Besiktas JK,Türkiye,750000.0,0
+2008,Super Lig,Bursaspor,winter,out,Ysrael Zúñiga,4143,32,Peru,Centre-Forward,CF,700000.0,FBC Melgar,Peru,0.0,0
+2008,Super Lig,Bursaspor,winter,out,Arda Karakurt,669813,21,Türkiye,Centre-Back,CB,,Torbalispor,Türkiye,0.0,1
+2008,Super Lig,Bursaspor,winter,out,İsmail Özgür Göktaş,66444,19,Türkiye,Right Winger,RW,200000.0,Kasimpasa,Türkiye,0.0,1
+2008,Super Lig,Bursaspor,winter,out,Emrah Kiraz,51810,21,Türkiye,Centre-Back,CB,100000.0,Kocaelispor,Türkiye,0.0,1
+2008,Super Lig,Bursaspor,winter,out,Koray Öztürk,58661,21,Türkiye,Left-Back,LB,100000.0,Inegölspor,Türkiye,0.0,1
+2008,Super Lig,Bursaspor,winter,out,Mustafa Çiçek,884308,26,Türkiye,Midfielder,Midfielder,,Kücükköyspor,Türkiye,,0
+2008,Super Lig,Bursaspor,winter,out,Sercan Baş,58675,20,Türkiye,Goalkeeper,GK,,Ofspor,Türkiye,0.0,1
+2008,Super Lig,Bursaspor,winter,out,Marcelinho,77709,21,Brazil,Right Winger,RW,600000.0,AD São Caetano (SP) B,Brazil,0.0,1
+2008,Super Lig,Bursaspor,winter,out,Adriano Magrão,42007,27,Brazil,Centre-Forward,CF,400000.0,Sociedade Esportiva do Gama (DF),Brazil,0.0,1
+2008,Super Lig,Büyüksehir Belediyespor,summer,in,Marcin Kus,15667,26,Poland,Right-Back,RB,725000.0,Korona Kielce,Poland,600000.0,0
+2008,Super Lig,Büyüksehir Belediyespor,summer,in,Emrah Ateş,291786,19,Türkiye,Right-Back,RB,,Galatasaray Youth,Türkiye,0.0,0
+2008,Super Lig,Büyüksehir Belediyespor,summer,in,Gustave Bebbe,37085,26,Cameroon,Centre-Forward,CF,2500000.0,MKE Ankaragücü,Türkiye,0.0,0
+2008,Super Lig,Büyüksehir Belediyespor,summer,in,Okan Buruk,5791,34,Türkiye,Right Midfield,RM,1000000.0,Galatasaray,Türkiye,0.0,0
+2008,Super Lig,Büyüksehir Belediyespor,summer,in,Marquinhos,54132,25,Brazil,Centre-Back,CB,300000.0,Caykur Rizespor,Türkiye,0.0,0
+2008,Super Lig,Büyüksehir Belediyespor,summer,in,Serhat Gülpınar,7063,29,Türkiye,Defensive Midfield,DM,1800000.0,Denizlispor,Türkiye,,0
+2008,Super Lig,Büyüksehir Belediyespor,summer,in,Behram Zülaloğlu,7168,25,Türkiye,Goalkeeper,GK,450000.0,Kocaelispor,Türkiye,,0
+2008,Super Lig,Büyüksehir Belediyespor,summer,in,Mutlu İlengöz,79250,20,Türkiye,Left-Back,LB,,Iskenderun Demir Celikspor,Türkiye,,0
+2008,Super Lig,Büyüksehir Belediyespor,winter,in,İskender Alın,58811,24,Türkiye,Centre-Forward,CF,600000.0,Kartalspor,Türkiye,0.0,0
+2008,Super Lig,Büyüksehir Belediyespor,winter,in,Oğuz Sabankay,47642,21,Türkiye,Attacking Midfield,AM,250000.0,Galatasaray,Türkiye,0.0,1
+2008,Super Lig,Büyüksehir Belediyespor,summer,out,Engin Cicem,31214,22,Germany,Centre-Forward,CF,100000.0,Turgutluspor,Türkiye,0.0,0
+2008,Super Lig,Büyüksehir Belediyespor,summer,out,İlhan Şahin,29680,27,Türkiye,Attacking Midfield,AM,700000.0,Boluspor,Türkiye,0.0,0
+2008,Super Lig,Büyüksehir Belediyespor,summer,out,Volkan Koçaloğlu,54159,29,Türkiye,Centre-Back,CB,1700000.0,Caykur Rizespor,Türkiye,0.0,0
+2008,Super Lig,Büyüksehir Belediyespor,summer,out,Sertan Eser,7009,34,Türkiye,Centre-Forward,CF,1000000.0,Kasimpasa,Türkiye,0.0,0
+2008,Super Lig,Büyüksehir Belediyespor,summer,out,Emrah Ateş,291786,19,Türkiye,Right-Back,RB,,Alibeyköyspor,Türkiye,0.0,1
+2008,Super Lig,Büyüksehir Belediyespor,summer,out,Ali Kemal Yükseker,54180,23,Türkiye,Defensive Midfield,DM,50000.0,Darica Genclerbirligi,Türkiye,,0
+2008,Super Lig,Büyüksehir Belediyespor,summer,out,Mert Korkmaz,6990,36,Türkiye,Centre-Back,CB,,Retired,,,0
+2008,Super Lig,Büyüksehir Belediyespor,summer,out,Ünal Alpugan,257,34,Germany,Defensive Midfield,DM,250000.0,Without Club,,,0
+2008,Super Lig,Büyüksehir Belediyespor,summer,out,Haluk Güngör,17547,38,Türkiye,Goalkeeper,GK,350000.0,Retired,,,0
+2008,Super Lig,Büyüksehir Belediyespor,summer,out,Aydın Yılmaz,37736,20,Türkiye,Right Winger,RW,1200000.0,Galatasaray,Türkiye,0.0,1
+2008,Super Lig,Büyüksehir Belediyespor,summer,out,Necati Ateş,6949,28,Türkiye,Centre-Forward,CF,4500000.0,Galatasaray,Türkiye,0.0,1
+2008,Super Lig,Büyüksehir Belediyespor,summer,out,Murat Ocak,41339,26,Türkiye,Left-Back,LB,850000.0,Trabzonspor,Türkiye,0.0,1
+2008,Super Lig,Büyüksehir Belediyespor,winter,out,Yiğitcan Erdoğan,54153,24,Türkiye,Centre-Back,CB,300000.0,Altay SK,Türkiye,100000.0,0
+2008,Super Lig,Büyüksehir Belediyespor,winter,out,İlyas Kahraman,7044,32,Türkiye,Attacking Midfield,AM,750000.0,Boluspor,Türkiye,0.0,0
+2008,Super Lig,Büyüksehir Belediyespor,winter,out,Mutlu İlengöz,79250,21,Türkiye,Left-Back,LB,50000.0,Corumspor,Türkiye,0.0,1
+2008,Super Lig,Büyüksehir Belediyespor,winter,out,Uğur Işıkal,54158,23,Türkiye,Left Winger,LW,300000.0,Boluspor,Türkiye,,0
+2008,Super Lig,Denizlispor,summer,in,Kayhan Arduç,78217,18,Türkiye,Attacking Midfield,AM,,Zeytinburnuspor Youth,Türkiye,0.0,0
+2008,Super Lig,Denizlispor,summer,in,Musa Yılmazer,78236,21,Türkiye,Right Winger,RW,,Sariyer,Türkiye,0.0,0
+2008,Super Lig,Denizlispor,summer,in,Ali Bayraktar,31681,22,Türkiye,Right Winger,RW,500000.0,Hacettepe Spor,Türkiye,0.0,0
+2008,Super Lig,Denizlispor,summer,in,Ercan Yaman,8704,26,Türkiye,Right Winger,RW,700000.0,Sakaryaspor,Türkiye,0.0,0
+2008,Super Lig,Denizlispor,summer,in,Yusuf Kurtuluş,52487,21,Türkiye,Central Midfield,CM,900000.0,Trabzonspor,Türkiye,0.0,0
+2008,Super Lig,Denizlispor,summer,in,İzzet Akgül,22333,26,Türkiye,Centre-Forward,CF,400000.0,KSV Roeselare (-2020),Belgium,0.0,0
+2008,Super Lig,Denizlispor,summer,in,Feridun Sungur,7270,24,Türkiye,Right-Back,RB,500000.0,Trabzonspor,Türkiye,0.0,0
+2008,Super Lig,Denizlispor,summer,in,Darryl Roberts,49337,24,Trinidad and Tobago,Centre-Forward,CF,600000.0,Sparta Rotterdam,Netherlands,0.0,0
+2008,Super Lig,Denizlispor,summer,in,Irineu,20383,25,Brazil,Centre-Back,CB,500000.0,Cruzeiro Esporte Clube,Brazil,0.0,0
+2008,Super Lig,Denizlispor,summer,in,Renny Vega,54178,29,Venezuela,Goalkeeper,GK,1500000.0,Bursaspor,Türkiye,0.0,0
+2008,Super Lig,Denizlispor,summer,in,Okan Karabulut,87740,23,Türkiye,Goalkeeper,GK,,Inegölspor,Türkiye,,0
+2008,Super Lig,Denizlispor,summer,in,Daniel Braga,77258,23,Brazil,Defensive Midfield,DM,1300000.0,Coritiba Foot Ball Club,Brazil,,0
+2008,Super Lig,Denizlispor,summer,in,Ivan Lietava,55763,25,Slovakia,Centre-Forward,CF,,MSK Zilina,Slovakia,0.0,1
+2008,Super Lig,Denizlispor,winter,in,Dzemal Berberovic,6693,27,Bosnia-Herzegovina,Defensive Midfield,DM,500000.0,Litex Lovech,Bulgaria,500000.0,0
+2008,Super Lig,Denizlispor,winter,in,Emil Angelov,35634,28,Bulgaria,Centre-Forward,CF,500000.0,Litex Lovech,Bulgaria,450000.0,0
+2008,Super Lig,Denizlispor,winter,in,Ibrahima Bangoura,33910,26,Guinea,Right Winger,RW,400000.0,ESTAC Troyes,France,300000.0,0
+2008,Super Lig,Denizlispor,winter,in,Wescley,44702,24,Brazil,Centre-Back,CB,200000.0,Criciúma EC,Brazil,0.0,0
+2008,Super Lig,Denizlispor,winter,in,Ozan Özkan,33903,24,Türkiye,Right-Back,RB,250000.0,Karsiyaka,Türkiye,0.0,0
+2008,Super Lig,Denizlispor,winter,in,Şener Aşkaroğlu,7188,28,Türkiye,Right Midfield,RM,800000.0,Konyaspor,Türkiye,0.0,0
+2008,Super Lig,Denizlispor,winter,in,Zafer Çevik,8557,24,Türkiye,Right Winger,RW,500000.0,Kartalspor,Türkiye,,0
+2008,Super Lig,Denizlispor,winter,in,Özden Öngün,7397,30,Türkiye,Goalkeeper,GK,350000.0,Caykur Rizespor,Türkiye,,0
+2008,Super Lig,Denizlispor,summer,out,Christian Kotchoni,65334,20,Benin,Centre-Forward,CF,400000.0,Kartalspor,Türkiye,,1
+2008,Super Lig,Denizlispor,summer,out,Souleymanou Hamidou,7196,34,Cameroon,Goalkeeper,GK,1300000.0,Kayserispor,Türkiye,0.0,0
+2008,Super Lig,Denizlispor,summer,out,Süleyman Küçük,7038,30,Türkiye,Goalkeeper,GK,800000.0,Kartalspor,Türkiye,0.0,0
+2008,Super Lig,Denizlispor,summer,out,Hasan Yiğit,7233,33,Türkiye,Right-Back,RB,900000.0,Sakaryaspor,Türkiye,0.0,0
+2008,Super Lig,Denizlispor,summer,out,Bülent Ertuğrul,7087,29,Türkiye,Defensive Midfield,DM,1200000.0,Eskisehirspor,Türkiye,0.0,0
+2008,Super Lig,Denizlispor,summer,out,Zafer Demir,8049,31,Türkiye,Defensive Midfield,DM,1200000.0,Konyaspor,Türkiye,0.0,0
+2008,Super Lig,Denizlispor,summer,out,Yusuf Şimşek,7034,32,Türkiye,Attacking Midfield,AM,2800000.0,Bursaspor,Türkiye,0.0,0
+2008,Super Lig,Denizlispor,summer,out,Fatih Egedik,34849,26,Türkiye,Defensive Midfield,DM,1400000.0,Konyaspor,Türkiye,0.0,0
+2008,Super Lig,Denizlispor,summer,out,Júlio César,45218,25,Brazil,Left-Back,LB,2300000.0,Kocaelispor,Türkiye,0.0,0
+2008,Super Lig,Denizlispor,summer,out,Murat Korkmaz,669031,22,Türkiye,Central Midfield,CM,,Aydinspor,Türkiye,0.0,1
+2008,Super Lig,Denizlispor,summer,out,Ersin Aslantoğ,138339,20,Türkiye,Defensive Midfield,DM,,Denizli Belediyespor,Türkiye,0.0,1
+2008,Super Lig,Denizlispor,summer,out,Gökhan Güney,251816,20,Türkiye,Centre-Forward,CF,,Mustafakemalpasaspor,Türkiye,0.0,1
+2008,Super Lig,Denizlispor,summer,out,Muhittin Tekin,49072,23,Türkiye,Right-Back,RB,100000.0,Denizli Belediyespor,Türkiye,0.0,1
+2008,Super Lig,Denizlispor,summer,out,İsmail Konuk,60795,20,Türkiye,Centre-Back,CB,50000.0,Denizli Belediyespor,Türkiye,0.0,1
+2008,Super Lig,Denizlispor,summer,out,Musa Kuş,7149,30,Türkiye,Right Midfield,RM,1000000.0,Kocaelispor,Türkiye,,0
+2008,Super Lig,Denizlispor,summer,out,İbrahim Çelik,7074,28,Türkiye,Centre-Back,CB,400000.0,Giresunspor,Türkiye,,0
+2008,Super Lig,Denizlispor,summer,out,Serhat Gülpınar,7063,29,Türkiye,Defensive Midfield,DM,1800000.0,Büyüksehir Belediyespor,Türkiye,,0
+2008,Super Lig,Denizlispor,summer,out,Süleyman Görgün,45215,27,Türkiye,Right-Back,RB,100000.0,Kardemir DC Karabükspor,Türkiye,,0
+2008,Super Lig,Denizlispor,summer,out,Papa Gueye,66514,19,Senegal,Central Midfield,CM,100000.0,Unknown,,,0
+2008,Super Lig,Denizlispor,summer,out,Bulut Basmaz,35016,24,Türkiye,Goalkeeper,GK,100000.0,Manisaspor,Türkiye,,0
+2008,Super Lig,Denizlispor,summer,out,Levent Canım,144201,20,Türkiye,Left Winger,LW,,Lüleburgazspor,Türkiye,0.0,1
+2008,Super Lig,Denizlispor,summer,out,Gökhan Güleç,33812,22,Türkiye,Centre-Forward,CF,1800000.0,Besiktas JK,Türkiye,0.0,1
+2008,Super Lig,Denizlispor,winter,out,Tomas Abraham,21001,29,Czech Republic,Defensive Midfield,DM,1500000.0,Skoda Xanthi,Greece,0.0,0
+2008,Super Lig,Denizlispor,winter,out,Ali Bayraktar,31681,23,Türkiye,Right Winger,RW,300000.0,Kocaelispor,Türkiye,0.0,1
+2008,Super Lig,Denizlispor,winter,out,Ali Helvacı,68236,18,Türkiye,Attacking Midfield,AM,100000.0,Tarsus Idman Yurdu,Türkiye,0.0,1
+2008,Super Lig,Denizlispor,winter,out,Yusuf Kurtuluş,52487,22,Türkiye,Central Midfield,CM,900000.0,Giresunspor,Türkiye,,0
+2008,Super Lig,Denizlispor,winter,out,Roman Kratochvíl,7084,34,Slovakia,Centre-Back,CB,1500000.0,Konyaspor,Türkiye,,0
+2008,Super Lig,Denizlispor,winter,out,Ercan Yaman,8704,26,Türkiye,Right Winger,RW,300000.0,Tarsus Idman Yurdu,Türkiye,,0
+2008,Super Lig,Denizlispor,winter,out,Onur İçli,37879,27,Türkiye,Centre-Forward,CF,50000.0,Without Club,,,0
+2008,Super Lig,Denizlispor,winter,out,Renny Vega,54178,29,Venezuela,Goalkeeper,GK,1500000.0,Without Club,,,0
+2008,Super Lig,Denizlispor,winter,out,Ivan Lietava,55763,25,Slovakia,Centre-Forward,CF,800000.0,MSK Zilina,Slovakia,0.0,1
+2008,Super Lig,Eskisehirspor,summer,in,Krunoslav Lovrek,25763,28,Croatia,Centre-Forward,CF,1500000.0,NK Zagreb,Croatia,500000.0,0
+2008,Super Lig,Eskisehirspor,summer,in,Stjepan Poljak,27995,24,Croatia,Attacking Midfield,AM,850000.0,Slaven Belupo Koprivnica,Croatia,350000.0,0
+2008,Super Lig,Eskisehirspor,summer,in,Safet Nadarevic,34574,28,Bosnia-Herzegovina,Centre-Back,CB,1200000.0,NK Zagreb,Croatia,300000.0,0
+2008,Super Lig,Eskisehirspor,summer,in,Vanja Ivesa,27539,30,Croatia,Goalkeeper,GK,250000.0,Slaven Belupo Koprivnica,Croatia,150000.0,0
+2008,Super Lig,Eskisehirspor,summer,in,Ahmet Saglam,77643,21,Türkiye,Centre-Back,CB,50000.0,Eyüpspor,Türkiye,125000.0,0
+2008,Super Lig,Eskisehirspor,summer,in,Luka Vucko,25779,24,Croatia,Centre-Back,CB,1000000.0,HNK Rijeka,Croatia,100000.0,0
+2008,Super Lig,Eskisehirspor,summer,in,Bülent Ertuğrul,7087,29,Türkiye,Defensive Midfield,DM,1200000.0,Denizlispor,Türkiye,0.0,0
+2008,Super Lig,Eskisehirspor,summer,in,Bülent Kocabey,16766,24,Türkiye,Attacking Midfield,AM,1000000.0,Hacettepe Spor,Türkiye,0.0,0
+2008,Super Lig,Eskisehirspor,summer,in,Özgür Öçal,54554,26,Türkiye,Right-Back,RB,1000000.0,Kasimpasa,Türkiye,0.0,0
+2008,Super Lig,Eskisehirspor,summer,in,Tayfun Türkmen,7391,30,Türkiye,Centre-Forward,CF,1400000.0,Ankaraspor,Türkiye,0.0,0
+2008,Super Lig,Eskisehirspor,summer,in,Selçuk Alibaz,89005,18,Türkiye,Attacking Midfield,AM,,SV Sandhausen U19,Germany,0.0,0
+2008,Super Lig,Eskisehirspor,summer,in,Murat Önür,35037,27,Türkiye,Left-Back,LB,300000.0,Diyarbakirspor,Türkiye,0.0,0
+2008,Super Lig,Eskisehirspor,summer,in,Can Cumhur Bozacı,7195,34,Türkiye,Centre-Back,CB,700000.0,Caykur Rizespor,Türkiye,0.0,0
+2008,Super Lig,Eskisehirspor,summer,in,Oğuz Sabankay,47642,20,Türkiye,Attacking Midfield,AM,600000.0,Galatasaray,Türkiye,0.0,1
+2008,Super Lig,Eskisehirspor,summer,in,Abdullah Halman,78418,21,Türkiye,Centre-Forward,CF,,Mersin Idmanyurdu,Türkiye,,0
+2008,Super Lig,Eskisehirspor,summer,in,Souleymane Youla,1081,26,Guinea,Centre-Forward,CF,1300000.0,LOSC Lille,France,0.0,1
+2008,Super Lig,Eskisehirspor,summer,in,Anderson,33557,25,Brazil,Centre-Forward,CF,1300000.0,Without Club,,,0
+2008,Super Lig,Eskisehirspor,winter,in,Alper Balaban,41093,21,Türkiye,Right Winger,RW,,Inegölspor,Türkiye,150000.0,0
+2008,Super Lig,Eskisehirspor,winter,in,Abdelzaher El Saka,7026,34,Egypt,Centre-Back,CB,1000000.0,Genclerbirligi Ankara,Türkiye,0.0,0
+2008,Super Lig,Eskisehirspor,winter,in,Batuhan Karadeniz,52270,17,Türkiye,Centre-Forward,CF,1000000.0,Besiktas JK,Türkiye,0.0,1
+2008,Super Lig,Eskisehirspor,winter,in,Engin Baytar,8399,25,Türkiye,Attacking Midfield,AM,1700000.0,Genclerbirligi Ankara,Türkiye,0.0,1
+2008,Super Lig,Eskisehirspor,winter,in,Emre Özkan,47310,20,Türkiye,Centre-Back,CB,100000.0,Besiktas JK U21,Türkiye,0.0,1
+2008,Super Lig,Eskisehirspor,summer,out,Ulaş Ortakaya,58841,31,Türkiye,Centre-Back,CB,700000.0,Diyarbakirspor,Türkiye,0.0,0
+2008,Super Lig,Eskisehirspor,summer,out,Tufan Esin,29498,27,Türkiye,Centre-Back,CB,850000.0,Manisaspor,Türkiye,0.0,0
+2008,Super Lig,Eskisehirspor,summer,out,Seyhan Cenk Tekelioğlu,45012,35,Türkiye,Goalkeeper,GK,400000.0,Bucaspor,Türkiye,0.0,0
+2008,Super Lig,Eskisehirspor,summer,out,Engin Öztonga,16714,30,Türkiye,Central Midfield,CM,650000.0,Diyarbakirspor,Türkiye,0.0,0
+2008,Super Lig,Eskisehirspor,summer,out,Coşkun Birdal,10151,34,Türkiye,Centre-Forward,CF,1900000.0,Diyarbakirspor,Türkiye,0.0,0
+2008,Super Lig,Eskisehirspor,summer,out,Orhan Altın,58812,19,Türkiye,Attacking Midfield,AM,,Odunpazarispor,Türkiye,0.0,0
+2008,Super Lig,Eskisehirspor,summer,out,Harun Yıldız,835471,20,Türkiye,Defender,Defender,,Ayvalikgücü Belediyespor,Türkiye,0.0,0
+2008,Super Lig,Eskisehirspor,summer,out,Ömer Közen,7297,27,Türkiye,Left Midfield,LM,500000.0,Manisaspor,Türkiye,,0
+2008,Super Lig,Eskisehirspor,summer,out,İshak Topçu,29460,28,Türkiye,Left Midfield,LM,500000.0,Tarsus Idman Yurdu,Türkiye,,0
+2008,Super Lig,Eskisehirspor,summer,out,Zafer Şahin,43070,30,Türkiye,Centre-Back,CB,500000.0,Kartalspor,Türkiye,,0
+2008,Super Lig,Eskisehirspor,summer,out,Mehmet Yılmaz,69828,27,Türkiye,Centre-Back,CB,50000.0,Giresunspor,Türkiye,,0
+2008,Super Lig,Eskisehirspor,summer,out,Gökhan Çalışal,17450,28,Türkiye,Left-Back,LB,350000.0,Boluspor,Türkiye,,0
+2008,Super Lig,Eskisehirspor,summer,out,Berkay Onarıcı,58839,21,Türkiye,Right Winger,RW,400000.0,Göztepe,Türkiye,0.0,1
+2008,Super Lig,Eskisehirspor,summer,out,Orhan Altın,58812,19,Türkiye,Attacking Midfield,AM,200000.0,Erzincanspor,Türkiye,0.0,1
+2008,Super Lig,Eskisehirspor,summer,out,Sergen Yalçın,6904,35,Türkiye,Attacking Midfield,AM,,Retired,,,0
+2008,Super Lig,Eskisehirspor,summer,out,Ferhat Odabaşı,33788,24,Türkiye,Goalkeeper,GK,700000.0,Genclerbirligi Ankara,Türkiye,0.0,1
+2008,Super Lig,Eskisehirspor,summer,out,Gökhan Bozkaya,33552,27,Germany,Centre-Forward,CF,700000.0,Sivasspor,Türkiye,0.0,1
+2008,Super Lig,Eskisehirspor,winter,out,Emrah Sarı,58844,23,Türkiye,Defensive Midfield,DM,,Unknown,,0.0,0
+2008,Super Lig,Eskisehirspor,winter,out,Mustafa Sevgi,43071,25,Türkiye,Left-Back,LB,450000.0,Sakaryaspor,Türkiye,0.0,0
+2008,Super Lig,Eskisehirspor,winter,out,Can Cumhur Bozacı,7195,34,Türkiye,Centre-Back,CB,500000.0,Mersin Idmanyurdu,Türkiye,0.0,0
+2008,Super Lig,Eskisehirspor,winter,out,Ömer Yalçın,58851,24,Türkiye,Centre-Forward,CF,600000.0,Diyarbakirspor,Türkiye,0.0,1
+2008,Super Lig,Eskisehirspor,winter,out,Abdullah Halman,78418,21,Türkiye,Centre-Forward,CF,200000.0,Mersin Idmanyurdu,Türkiye,0.0,1
+2008,Super Lig,Eskisehirspor,winter,out,Özgür Öçal,54554,27,Türkiye,Right-Back,RB,600000.0,MKE Ankaragücü,Türkiye,0.0,1
+2008,Super Lig,Eskisehirspor,winter,out,Birol Hikmet,58830,26,Türkiye,Defensive Midfield,DM,300000.0,Diyarbakirspor,Türkiye,,0
+2008,Super Lig,Eskisehirspor,winter,out,Ersin Güreler,8040,30,Türkiye,Left-Back,LB,300000.0,Diyarbakirspor,Türkiye,,0
+2008,Super Lig,Eskisehirspor,winter,out,Mehmet Akif Tatlı,43074,22,Türkiye,Defensive Midfield,DM,200000.0,Göztepe,Türkiye,,0
+2008,Super Lig,Eskisehirspor,winter,out,Oğuz Sabankay,47642,21,Türkiye,Attacking Midfield,AM,250000.0,Galatasaray,Türkiye,0.0,1
+2008,Super Lig,Fenerbahce,summer,in,Dani Güiza,8186,27,Spain,Centre-Forward,CF,10000000.0,RCD Mallorca,Spain,14000000.0,0
+2008,Super Lig,Fenerbahce,summer,in,Emre Belözoğlu,5782,27,Türkiye,Central Midfield,CM,7500000.0,Newcastle United,England,4500000.0,0
+2008,Super Lig,Fenerbahce,summer,in,Josico,7838,33,Spain,Defensive Midfield,DM,1000000.0,Villarreal CF,Spain,1000000.0,0
+2008,Super Lig,Fenerbahce,summer,in,Burak Yılmaz,34987,23,Türkiye,Centre-Forward,CF,2500000.0,Manisaspor,Türkiye,0.0,0
+2008,Super Lig,Fenerbahce,winter,in,Abdülkadir Kayalı,57255,17,Türkiye,Central Midfield,CM,250000.0,MKE Ankaragücü,Türkiye,1000000.0,0
+2008,Super Lig,Fenerbahce,winter,in,Gökhan Emreciksin,58879,24,Türkiye,Right Winger,RW,2000000.0,MKE Ankaragücü,Türkiye,,0
+2008,Super Lig,Fenerbahce,summer,out,Serdar Kulbilge,7311,27,Türkiye,Goalkeeper,GK,1500000.0,Kocaelispor,Türkiye,0.0,0
+2008,Super Lig,Fenerbahce,summer,out,Olcan Adın,8491,22,Türkiye,Right Winger,RW,900000.0,Gaziantepspor,Türkiye,0.0,0
+2008,Super Lig,Fenerbahce,summer,out,Alper Balaban,41093,21,Türkiye,Right Winger,RW,,Inegölspor,Türkiye,0.0,0
+2008,Super Lig,Fenerbahce,summer,out,Mehmet Aurélio,7421,30,Türkiye,Defensive Midfield,DM,7300000.0,Real Betis Balompié,Spain,0.0,0
+2008,Super Lig,Fenerbahce,summer,out,Mateus Paraná,45000,21,Brazil,Right Winger,RW,150000.0,Fortaleza Esporte Clube,Brazil,0.0,0
+2008,Super Lig,Fenerbahce,summer,out,Kemal Aslan,7033,26,Türkiye,Central Midfield,CM,800000.0,Kocaelispor,Türkiye,,0
+2008,Super Lig,Fenerbahce,summer,out,Mateja Kežman,4358,29,Serbia,Centre-Forward,CF,6000000.0,Paris Saint-Germain,France,0.0,1
+2008,Super Lig,Fenerbahce,summer,out,Stephen Appiah,5975,27,Ghana,Defensive Midfield,DM,5000000.0,Without Club,,,0
+2008,Super Lig,Fenerbahce,winter,out,Tümer Metin,6879,34,Türkiye,Attacking Midfield,AM,2500000.0,AE Larisa,Greece,0.0,0
+2008,Super Lig,Galatasaray,summer,in,Milan Baros,3216,26,Czech Republic,Centre-Forward,CF,4500000.0,Olympique Lyon,France,5500000.0,0
+2008,Super Lig,Galatasaray,summer,in,Fernando Meira,1432,30,Portugal,Centre-Back,CB,10000000.0,VfB Stuttgart,Germany,4500000.0,0
+2008,Super Lig,Galatasaray,summer,in,Serkan Kurtuluş,45005,18,Türkiye,Right-Back,RB,700000.0,Bursaspor,Türkiye,1000000.0,0
+2008,Super Lig,Galatasaray,summer,in,Alparslan Erdem,42050,19,Türkiye,Left-Back,LB,400000.0,SV Werder Bremen II,Germany,500000.0,0
+2008,Super Lig,Galatasaray,summer,in,Morgan De Sanctis,5880,31,Italy,Goalkeeper,GK,4400000.0,Sevilla FC,Spain,500000.0,1
+2008,Super Lig,Galatasaray,summer,in,Harry Kewell,3241,29,Australia,Left Winger,LW,5500000.0,Liverpool FC,England,0.0,0
+2008,Super Lig,Galatasaray,summer,in,Yaser Yıldız,35686,20,Türkiye,Centre-Forward,CF,800000.0,Kartalspor,Türkiye,0.0,0
+2008,Super Lig,Galatasaray,summer,in,Ferdi Elmas,29949,23,Türkiye,Left Winger,LW,700000.0,Caykur Rizespor,Türkiye,,0
+2008,Super Lig,Galatasaray,winter,in,Serkan Aşkın Ağgez,60687,19,Türkiye,Midfielder,Midfielder,,Erzincanspor,Türkiye,,0
+2008,Super Lig,Galatasaray,summer,out,Necati Ateş,6949,28,Türkiye,Centre-Forward,CF,4000000.0,Real Sociedad,Spain,150000.0,1
+2008,Super Lig,Galatasaray,summer,out,Rigobert Song,1419,32,Cameroon,Centre-Back,CB,6500000.0,Trabzonspor,Türkiye,0.0,0
+2008,Super Lig,Galatasaray,summer,out,Ismaël Bouzid,12098,24,Algeria,Centre-Back,CB,1000000.0,ESTAC Troyes,France,0.0,0
+2008,Super Lig,Galatasaray,summer,out,Okan Buruk,5791,34,Türkiye,Right Midfield,RM,1000000.0,Büyüksehir Belediyespor,Türkiye,0.0,0
+2008,Super Lig,Galatasaray,summer,out,Orhan Ak,6860,28,Türkiye,Centre-Back,CB,1300000.0,Antalyaspor,Türkiye,0.0,0
+2008,Super Lig,Galatasaray,summer,out,Uğur Demirok,44977,20,Türkiye,Centre-Back,CB,400000.0,Beylerbeyispor,Türkiye,0.0,1
+2008,Super Lig,Galatasaray,summer,out,Aytaç Akdağ,60688,19,Türkiye,Right-Back,RB,,Erzincanspor,Türkiye,0.0,1
+2008,Super Lig,Galatasaray,summer,out,Fırat Kocaoğlu,50659,20,Türkiye,Goalkeeper,GK,100000.0,Beylerbeyispor,Türkiye,0.0,1
+2008,Super Lig,Galatasaray,summer,out,Özgür Can Özcan,35252,20,Türkiye,Centre-Forward,CF,800000.0,Sakaryaspor,Türkiye,0.0,1
+2008,Super Lig,Galatasaray,summer,out,Cafercan Aksu,21366,21,Türkiye,Central Midfield,CM,800000.0,Gaziantep Büyüksehir Belediyespor,Türkiye,0.0,1
+2008,Super Lig,Galatasaray,summer,out,Erkan Ferin,51817,20,Türkiye,Right-Back,RB,350000.0,Beylerbeyispor,Türkiye,0.0,1
+2008,Super Lig,Galatasaray,summer,out,Marcelo Carrusca,27451,24,Argentina,Attacking Midfield,AM,900000.0,CD Cruz Azul,Mexico,0.0,1
+2008,Super Lig,Galatasaray,summer,out,Oğuz Sabankay,47642,20,Türkiye,Attacking Midfield,AM,600000.0,Eskisehirspor,Türkiye,0.0,1
+2008,Super Lig,Galatasaray,summer,out,Serdar Keşçi,50658,,Türkiye,Centre-Back,CB,50000.0,Beylerbeyispor,Türkiye,0.0,1
+2008,Super Lig,Galatasaray,summer,out,Uğur Akdemir,51819,19,Türkiye,Right-Back,RB,500000.0,Caykur Rizespor,Türkiye,,0
+2008,Super Lig,Galatasaray,summer,out,Serkan Aşkın Ağgez,60687,19,Türkiye,Midfielder,Midfielder,,Erzincanspor,Türkiye,,0
+2008,Super Lig,Galatasaray,summer,out,Hakan Şükür,3363,36,Türkiye,Centre-Forward,CF,1300000.0,Retired,,,0
+2008,Super Lig,Galatasaray,summer,out,Ahmed Barusso,40979,23,Ghana,Defensive Midfield,DM,3000000.0,AS Roma,Italy,0.0,1
+2008,Super Lig,Galatasaray,winter,out,Fernando Meira,1432,30,Portugal,Centre-Back,CB,8500000.0,Zenit St. Petersburg,Russia,6000000.0,0
+2008,Super Lig,Galatasaray,winter,out,Oğuz Sabankay,47642,21,Türkiye,Attacking Midfield,AM,250000.0,Büyüksehir Belediyespor,Türkiye,0.0,1
+2008,Super Lig,Galatasaray,winter,out,Erkan Ferin,51817,20,Türkiye,Right-Back,RB,300000.0,Istanbulspor,Türkiye,0.0,1
+2008,Super Lig,Galatasaray,winter,out,Zafer Şakar,29389,23,Türkiye,Central Midfield,CM,500000.0,Beylerbeyispor,Türkiye,0.0,1
+2008,Super Lig,Gaziantepspor,summer,in,Hakan Bayraktar,7088,32,Türkiye,Defensive Midfield,DM,650000.0,Diyarbakirspor,Türkiye,0.0,0
+2008,Super Lig,Gaziantepspor,summer,in,Murat Şahin,6942,32,Türkiye,Goalkeeper,GK,700000.0,Besiktas JK,Türkiye,0.0,0
+2008,Super Lig,Gaziantepspor,summer,in,Mustafa Cevahir,52263,22,Türkiye,Central Midfield,CM,350000.0,Fenerbahce U21,Türkiye,0.0,0
+2008,Super Lig,Gaziantepspor,summer,in,Olcan Adın,8491,22,Türkiye,Right Winger,RW,900000.0,Fenerbahce,Türkiye,0.0,0
+2008,Super Lig,Gaziantepspor,summer,in,Erman Özgür,7375,31,Türkiye,Attacking Midfield,AM,2000000.0,Konyaspor,Türkiye,0.0,0
+2008,Super Lig,Gaziantepspor,summer,in,Emrah Eren,28283,29,Türkiye,Right-Back,RB,1700000.0,Caykur Rizespor,Türkiye,0.0,0
+2008,Super Lig,Gaziantepspor,summer,in,Rodrigo Tabata,52911,27,Qatar,Attacking Midfield,AM,1000000.0,Santos FC,Brazil,0.0,0
+2008,Super Lig,Gaziantepspor,summer,in,Mehmet Yozgatlı,7174,29,Türkiye,Right Winger,RW,1400000.0,Besiktas JK,Türkiye,,0
+2008,Super Lig,Gaziantepspor,summer,in,Erkan Sekman,41011,24,Türkiye,Right-Back,RB,1700000.0,Konyaspor,Türkiye,,0
+2008,Super Lig,Gaziantepspor,summer,in,Edu,60299,21,Brazil,Centre-Forward,CF,700000.0,Clube Atlético Mineiro,Brazil,0.0,1
+2008,Super Lig,Gaziantepspor,winter,in,Júlio César,2943,30,Brazil,Centre-Back,CB,3000000.0,FC Dinamo 1948,Romania,600000.0,0
+2008,Super Lig,Gaziantepspor,winter,in,İlhan Özbay,7265,26,Türkiye,Right Midfield,RM,700000.0,Kayseri Erciyesspor,Türkiye,,0
+2008,Super Lig,Gaziantepspor,summer,out,Ekrem Dag,3059,27,Austria,Right-Back,RB,2000000.0,Besiktas JK,Türkiye,1000000.0,0
+2008,Super Lig,Gaziantepspor,summer,out,Hasan Yurt,7289,30,Türkiye,Centre-Back,CB,400000.0,Gaziantep Büyüksehir Belediyespor,Türkiye,0.0,0
+2008,Super Lig,Gaziantepspor,summer,out,Özgür Bayer,7061,29,Türkiye,Centre-Back,CB,600000.0,Kocaelispor,Türkiye,0.0,0
+2008,Super Lig,Gaziantepspor,summer,out,Erdal Güneş,7287,26,Türkiye,Defensive Midfield,DM,600000.0,Altay SK,Türkiye,0.0,0
+2008,Super Lig,Gaziantepspor,summer,out,Oğuz Dağlaroğlu,7090,29,Türkiye,Goalkeeper,GK,400000.0,Sanliurfaspor,Türkiye,0.0,0
+2008,Super Lig,Gaziantepspor,summer,out,Özgür Yıldırım,7013,29,Türkiye,Central Midfield,CM,1400000.0,Caykur Rizespor,Türkiye,0.0,0
+2008,Super Lig,Gaziantepspor,summer,out,Ömer Çatkıç,7249,33,Türkiye,Goalkeeper,GK,1000000.0,Antalyaspor,Türkiye,0.0,0
+2008,Super Lig,Gaziantepspor,summer,out,Mehmet Çoğum,29403,25,Türkiye,Centre-Back,CB,1200000.0,Konyaspor,Türkiye,0.0,0
+2008,Super Lig,Gaziantepspor,summer,out,Bülent Bölükbaşı,7281,32,Türkiye,Central Midfield,CM,1700000.0,Kocaelispor,Türkiye,0.0,0
+2008,Super Lig,Gaziantepspor,summer,out,Volkan Arslan,6884,29,Türkiye,Central Midfield,CM,1200000.0,Antalyaspor,Türkiye,0.0,0
+2008,Super Lig,Gaziantepspor,summer,out,Bülent Tek,127433,21,Türkiye,Centre-Back,CB,,Karsspor,Türkiye,0.0,1
+2008,Super Lig,Gaziantepspor,summer,out,Serkan Bakar,186042,21,Türkiye,Goalkeeper,GK,,Kilis Belediye Spor,Türkiye,0.0,1
+2008,Super Lig,Gaziantepspor,summer,out,Fatih Şen,45014,23,Türkiye,Central Midfield,CM,300000.0,Gaziantep Büyüksehir Belediyespor,Türkiye,0.0,1
+2008,Super Lig,Gaziantepspor,summer,out,Orhan Taşdelen,44989,21,Türkiye,Left-Back,LB,100000.0,Kirsehirspor (1984 - 2013),Türkiye,0.0,1
+2008,Super Lig,Gaziantepspor,summer,out,Erdal Kilicaslan,2148,23,Germany,Left Winger,LW,1300000.0,Konyaspor,Türkiye,,0
+2008,Super Lig,Gaziantepspor,summer,out,Ergün Penbe,8052,36,Türkiye,Left-Back,LB,300000.0,Retired,,,0
+2008,Super Lig,Gaziantepspor,summer,out,İlhan Özbay,7265,25,Türkiye,Right Midfield,RM,1500000.0,Kayseri Erciyesspor,Türkiye,0.0,1
+2008,Super Lig,Gaziantepspor,summer,out,Edu,60299,22,Brazil,Centre-Forward,CF,800000.0,Clube Atlético Mineiro,Brazil,0.0,1
+2008,Super Lig,Gaziantepspor,summer,out,Özgür Can Özcan,35252,20,Türkiye,Centre-Forward,CF,800000.0,Galatasaray,Türkiye,0.0,1
+2008,Super Lig,Gaziantepspor,summer,out,Murat Şahin,6942,32,Türkiye,Goalkeeper,GK,700000.0,Besiktas JK,Türkiye,0.0,1
+2008,Super Lig,Gaziantepspor,winter,out,Mehmet Polat,6101,30,Türkiye,Centre-Back,CB,1000000.0,Genclerbirligi Ankara,Türkiye,0.0,0
+2008,Super Lig,Gaziantepspor,winter,out,Soner Örnek,74643,19,Türkiye,Centre-Back,CB,50000.0,Sanliurfaspor,Türkiye,0.0,1
+2008,Super Lig,Gaziantepspor,winter,out,Metin Tuğlu,48299,24,Türkiye,Second Striker,SS,500000.0,Adanaspor,Türkiye,,0
+2008,Super Lig,Gaziantepspor,winter,out,Tolgahan Acar,37951,22,Türkiye,Goalkeeper,GK,200000.0,Adanaspor,Türkiye,,0
+2008,Super Lig,Gaziantepspor,winter,out,Serkan Bakar,186042,21,Türkiye,Goalkeeper,GK,,Mardinspor,Türkiye,,0
+2008,Super Lig,Gaziantepspor,winter,out,Mustafa Cevahir,52263,23,Türkiye,Central Midfield,CM,100000.0,Boluspor,Türkiye,0.0,1
+2008,Super Lig,Genclerbirligi Ankara,summer,in,Bruce Djite,43093,21,Australia,Centre-Forward,CF,750000.0,Adelaide United,Australia,1200000.0,0
+2008,Super Lig,Genclerbirligi Ankara,summer,in,Bilal Cubukcu,32625,21,Türkiye,Attacking Midfield,AM,350000.0,Hertha BSC,Germany,300000.0,0
+2008,Super Lig,Genclerbirligi Ankara,summer,in,James Troisi,52585,20,Australia,Attacking Midfield,AM,200000.0,Newcastle United,England,0.0,0
+2008,Super Lig,Genclerbirligi Ankara,summer,in,Enis Kahraman,42575,20,Türkiye,Defensive Midfield,DM,100000.0,Trabzonspor,Türkiye,0.0,0
+2008,Super Lig,Genclerbirligi Ankara,summer,in,Yasir Elmacı,34165,26,Türkiye,Defensive Midfield,DM,1500000.0,Sivasspor,Türkiye,0.0,0
+2008,Super Lig,Genclerbirligi Ankara,summer,in,Mustafa Pektemek,58602,19,Türkiye,Centre-Forward,CF,250000.0,Sakaryaspor,Türkiye,0.0,0
+2008,Super Lig,Genclerbirligi Ankara,summer,in,İlhan Eker,51596,25,Türkiye,Centre-Back,CB,1700000.0,Hacettepe Spor,Türkiye,0.0,0
+2008,Super Lig,Genclerbirligi Ankara,summer,in,Onur Atik,76319,19,Türkiye,Defender,Defender,,Hacettepe Spor U21,Türkiye,,0
+2008,Super Lig,Genclerbirligi Ankara,summer,in,Ümit Tütünci,55843,23,Türkiye,Centre-Forward,CF,700000.0,Hacettepe Spor,Türkiye,,0
+2008,Super Lig,Genclerbirligi Ankara,summer,in,Uğur Kapısız,77799,21,Türkiye,Central Midfield,CM,,Beykozspor 1908,Türkiye,,0
+2008,Super Lig,Genclerbirligi Ankara,summer,in,Koray Avcı,7189,30,Türkiye,Defensive Midfield,DM,2200000.0,Manisaspor,Türkiye,,0
+2008,Super Lig,Genclerbirligi Ankara,summer,in,Ulaş Güler,41001,29,Türkiye,Goalkeeper,GK,400000.0,Hacettepe Spor,Türkiye,,0
+2008,Super Lig,Genclerbirligi Ankara,summer,in,Emre Balak,35815,19,Türkiye,Centre-Back,CB,350000.0,Samsunspor,Türkiye,,0
+2008,Super Lig,Genclerbirligi Ankara,winter,in,Jacques Momha,5615,26,Cameroon,Left-Back,LB,700000.0,Vitória Guimarães SC,Portugal,400000.0,0
+2008,Super Lig,Genclerbirligi Ankara,winter,in,Cem Can,44608,27,Türkiye,Right-Back,RB,1200000.0,MKE Ankaragücü,Türkiye,0.0,0
+2008,Super Lig,Genclerbirligi Ankara,winter,in,Eren Aydın,28992,26,Türkiye,Left-Back,LB,500000.0,Ankaraspor,Türkiye,0.0,0
+2008,Super Lig,Genclerbirligi Ankara,winter,in,Mehmet Polat,6101,30,Türkiye,Centre-Back,CB,1000000.0,Gaziantepspor,Türkiye,0.0,0
+2008,Super Lig,Genclerbirligi Ankara,winter,in,Bojan Isailovic,36000,28,Serbia,Goalkeeper,GK,750000.0,FK Cukaricki,Serbia,0.0,0
+2008,Super Lig,Genclerbirligi Ankara,winter,in,Mile Jedinak,28336,24,Australia,Defensive Midfield,DM,200000.0,Central Coast Mariners,Australia,,0
+2008,Super Lig,Genclerbirligi Ankara,winter,in,Hursut Meriç,56372,25,Türkiye,Right Winger,RW,750000.0,ADO Den Haag,Netherlands,,0
+2008,Super Lig,Genclerbirligi Ankara,summer,out,Nikola Petkovic,46121,22,Serbia,Centre-Back,CB,500000.0,Red Star Belgrade,Serbia,400000.0,0
+2008,Super Lig,Genclerbirligi Ankara,summer,out,Erhan Güven,33794,26,Türkiye,Right-Back,RB,1200000.0,Ankaraspor,Türkiye,0.0,0
+2008,Super Lig,Genclerbirligi Ankara,summer,out,Ali Öztürk,16769,21,Türkiye,Centre-Forward,CF,100000.0,Bozüyükspor,Türkiye,0.0,0
+2008,Super Lig,Genclerbirligi Ankara,summer,out,Enis Kahraman,42575,20,Türkiye,Defensive Midfield,DM,100000.0,Iskenderun Demir Celikspor,Türkiye,0.0,0
+2008,Super Lig,Genclerbirligi Ankara,summer,out,Isaac Promise,33789,20,Nigeria,Right Winger,RW,2200000.0,Trabzonspor,Türkiye,0.0,0
+2008,Super Lig,Genclerbirligi Ankara,summer,out,Mehmet Çakır,33791,24,Türkiye,Centre-Forward,CF,2700000.0,Ankaraspor,Türkiye,0.0,0
+2008,Super Lig,Genclerbirligi Ankara,summer,out,Okan Öztürk,7184,30,Türkiye,Centre-Forward,CF,1400000.0,Caykur Rizespor,Türkiye,0.0,0
+2008,Super Lig,Genclerbirligi Ankara,summer,out,Tuna Üzümcü,33799,25,Türkiye,Centre-Back,CB,1500000.0,Besiktas JK,Türkiye,0.0,0
+2008,Super Lig,Genclerbirligi Ankara,summer,out,Volkan Kurt,73626,20,Türkiye,Defender,Defender,,Kastamonuspor,Türkiye,0.0,1
+2008,Super Lig,Genclerbirligi Ankara,summer,out,Ali Akburç,126038,20,Türkiye,Right Winger,RW,,Sanliurfaspor,Türkiye,0.0,1
+2008,Super Lig,Genclerbirligi Ankara,summer,out,Mustafa Kayabaşı,119298,20,Türkiye,Attacking Midfield,AM,,Kastamonuspor,Türkiye,0.0,1
+2008,Super Lig,Genclerbirligi Ankara,summer,out,Ferhat Kiraz,56640,19,Türkiye,Left-Back,LB,200000.0,Hacettepe Spor,Türkiye,0.0,1
+2008,Super Lig,Genclerbirligi Ankara,summer,out,Murat Kalkan,51601,22,Türkiye,Centre-Back,CB,1200000.0,Hacettepe Spor,Türkiye,0.0,1
+2008,Super Lig,Genclerbirligi Ankara,summer,out,Mehmet Emrah Özkan,51611,23,Türkiye,Goalkeeper,GK,50000.0,Kastamonuspor,Türkiye,0.0,1
+2008,Super Lig,Genclerbirligi Ankara,summer,out,Fırat Sağesen,144523,22,Türkiye,Right-Back,RB,,Marmaris Belediye Genclikspor,Türkiye,0.0,1
+2008,Super Lig,Genclerbirligi Ankara,summer,out,Mehmet Akyüz,64997,22,Türkiye,Centre-Forward,CF,200000.0,Sakaryaspor,Türkiye,0.0,1
+2008,Super Lig,Genclerbirligi Ankara,summer,out,Ferhat Kiraz,56640,19,Türkiye,Left-Back,LB,200000.0,Karsiyaka,Türkiye,0.0,1
+2008,Super Lig,Genclerbirligi Ankara,summer,out,Halil Çağırtekin,66623,19,Türkiye,Centre-Back,CB,50000.0,Kastamonuspor,Türkiye,0.0,1
+2008,Super Lig,Genclerbirligi Ankara,summer,out,Onur Atik,76319,19,Türkiye,Defender,Defender,,Kastamonuspor,Türkiye,0.0,1
+2008,Super Lig,Genclerbirligi Ankara,summer,out,Aykut Çeviker,76324,18,Türkiye,Defensive Midfield,DM,,Kastamonuspor,Türkiye,0.0,1
+2008,Super Lig,Genclerbirligi Ankara,summer,out,Uygar Rıza Arslan,66575,19,Türkiye,Right-Back,RB,100000.0,Kastamonuspor,Türkiye,0.0,1
+2008,Super Lig,Genclerbirligi Ankara,summer,out,Ferhat Odabaşı,33788,25,Türkiye,Goalkeeper,GK,700000.0,Caykur Rizespor,Türkiye,,0
+2008,Super Lig,Genclerbirligi Ankara,summer,out,Ulaş Güler,41001,28,Türkiye,Goalkeeper,GK,250000.0,Hacettepe Spor,Türkiye,0.0,1
+2008,Super Lig,Genclerbirligi Ankara,summer,out,Adamu Mohammed,67017,24,Ghana,Defensive Midfield,DM,300000.0,KF Vllaznia,Albania,0.0,1
+2008,Super Lig,Genclerbirligi Ankara,summer,out,Ümit Tütünci,55843,23,Türkiye,Centre-Forward,CF,700000.0,Kartalspor,Türkiye,0.0,1
+2008,Super Lig,Genclerbirligi Ankara,summer,out,Sandro Mendonça,37429,24,Brazil,Second Striker,SS,1800000.0,Hacettepe Spor,Türkiye,0.0,1
+2008,Super Lig,Genclerbirligi Ankara,summer,out,Tozo,48620,27,Brazil,Defensive Midfield,DM,1600000.0,Hacettepe Spor,Türkiye,0.0,1
+2008,Super Lig,Genclerbirligi Ankara,winter,out,Nicolás Peric,53147,30,Chile,Goalkeeper,GK,1000000.0,CD Everton,Chile,0.0,0
+2008,Super Lig,Genclerbirligi Ankara,winter,out,Abdelzaher El Saka,7026,34,Egypt,Centre-Back,CB,1000000.0,Eskisehirspor,Türkiye,0.0,0
+2008,Super Lig,Genclerbirligi Ankara,winter,out,Engin Baytar,8399,25,Türkiye,Attacking Midfield,AM,1700000.0,Eskisehirspor,Türkiye,0.0,1
+2008,Super Lig,Genclerbirligi Ankara,winter,out,Ramazan Köse,73627,20,Türkiye,Goalkeeper,GK,50000.0,Giresunspor,Türkiye,0.0,1
+2008,Super Lig,Genclerbirligi Ankara,winter,out,Kerem Şeras,33797,25,Türkiye,Defensive Midfield,DM,1400000.0,MKE Ankaragücü,Türkiye,0.0,1
+2008,Super Lig,Genclerbirligi Ankara,winter,out,Ergün Teber,29411,23,Türkiye,Left-Back,LB,900000.0,Kocaelispor,Türkiye,0.0,1
+2008,Super Lig,Genclerbirligi Ankara,winter,out,Mehmet Akyüz,64997,23,Türkiye,Centre-Forward,CF,400000.0,Sanliurfaspor,Türkiye,0.0,1
+2008,Super Lig,Genclerbirligi Ankara,winter,out,Halil Çağırtekin,66623,20,Türkiye,Centre-Back,CB,50000.0,Demir Celik Divrigispor,Türkiye,0.0,1
+2008,Super Lig,Genclerbirligi Ankara,winter,out,Adamu Mohammed,67017,25,Ghana,Defensive Midfield,DM,500000.0,Tema Youth SC,Ghana,0.0,1
+2008,Super Lig,Genclerbirligi Ankara,winter,out,Ümit Tütünci,55843,24,Türkiye,Centre-Forward,CF,400000.0,Hacettepe Spor,Türkiye,0.0,1
+2008,Super Lig,Hacettepe Spor,summer,in,Amir Azmi Megahed,28443,25,Egypt,Centre-Back,CB,1500000.0,Anorthosis Famagusta,Cyprus,700000.0,0
+2008,Super Lig,Hacettepe Spor,summer,in,Xhevahir Sukaj,54710,20,Albania,Centre-Forward,CF,500000.0,KF Vllaznia,Albania,100000.0,0
+2008,Super Lig,Hacettepe Spor,summer,in,Gilman Lika,54684,21,Albania,Right Winger,RW,500000.0,KF Vllaznia,Albania,100000.0,0
+2008,Super Lig,Hacettepe Spor,summer,in,Admir Teli,51968,27,Albania,Centre-Back,CB,500000.0,KF Vllaznia,Albania,100000.0,0
+2008,Super Lig,Hacettepe Spor,summer,in,Ümit Bozkurt,7050,32,Türkiye,Sweeper,SW,1800000.0,Manisaspor,Türkiye,0.0,0
+2008,Super Lig,Hacettepe Spor,summer,in,Gökhan Yetkin,77800,24,Türkiye,Left-Back,LB,,Karsspor,Türkiye,0.0,0
+2008,Super Lig,Hacettepe Spor,summer,in,Mehmet Uslu,45227,20,Türkiye,Left-Back,LB,400000.0,Sakaryaspor,Türkiye,0.0,0
+2008,Super Lig,Hacettepe Spor,summer,in,Engin Güngör,56427,22,Netherlands,Attacking Midfield,AM,,FC Eindhoven,Netherlands,0.0,0
+2008,Super Lig,Hacettepe Spor,summer,in,Murat Kalkan,51601,22,Türkiye,Centre-Back,CB,1200000.0,Genclerbirligi Ankara,Türkiye,0.0,1
+2008,Super Lig,Hacettepe Spor,summer,in,Orhan Şam,10121,22,Türkiye,Right-Back,RB,1800000.0,Genclerbirligi Ankara U21,Türkiye,0.0,1
+2008,Super Lig,Hacettepe Spor,summer,in,Ercüment Kafkasyalı,58567,22,Türkiye,Goalkeeper,GK,450000.0,Genclerbirligi Ankara U21,Türkiye,0.0,1
+2008,Super Lig,Hacettepe Spor,summer,in,Ferhat Kiraz,56640,19,Türkiye,Left-Back,LB,200000.0,Genclerbirligi Ankara,Türkiye,0.0,1
+2008,Super Lig,Hacettepe Spor,summer,in,François Zoko,42480,24,Cote d'Ivoire,Centre-Forward,CF,600000.0,RAEC Mons (-2015),Belgium,,0
+2008,Super Lig,Hacettepe Spor,summer,in,Hasan Köse,238215,20,Türkiye,Defensive Midfield,DM,,Araklispor,Türkiye,,0
+2008,Super Lig,Hacettepe Spor,summer,in,Baykal Yılmaztaş,68264,23,Türkiye,Centre-Back,CB,,Beylerbeyispor,Türkiye,,0
+2008,Super Lig,Hacettepe Spor,summer,in,Sandro Mendonça,37429,24,Brazil,Second Striker,SS,1800000.0,Genclerbirligi Ankara,Türkiye,0.0,1
+2008,Super Lig,Hacettepe Spor,summer,in,Tozo,48620,27,Brazil,Defensive Midfield,DM,1600000.0,Genclerbirligi Ankara,Türkiye,0.0,1
+2008,Super Lig,Hacettepe Spor,summer,in,Ulaş Güler,41001,28,Türkiye,Goalkeeper,GK,250000.0,Genclerbirligi Ankara,Türkiye,0.0,1
+2008,Super Lig,Hacettepe Spor,winter,in,Ante Kulusic,46056,22,Croatia,Centre-Back,CB,550000.0,HNK Sibenik,Croatia,400000.0,0
+2008,Super Lig,Hacettepe Spor,winter,in,Arda Yavuz,42407,19,Germany,Right-Back,RB,25000.0,Rot-Weiss Essen,Germany,100000.0,0
+2008,Super Lig,Hacettepe Spor,winter,in,Tolga Seyhan,6966,32,Türkiye,Centre-Back,CB,1200000.0,Kocaelispor,Türkiye,0.0,0
+2008,Super Lig,Hacettepe Spor,winter,in,Serhat Yapici,39249,20,Germany,Defensive Midfield,DM,50000.0,FC St. Pauli,Germany,0.0,0
+2008,Super Lig,Hacettepe Spor,winter,in,Patiyo Tambwe,41348,25,DR Congo,Centre-Forward,CF,500000.0,KSC Lokeren (-2020),Belgium,,0
+2008,Super Lig,Hacettepe Spor,winter,in,Adnan Güngör,7052,28,Türkiye,Defensive Midfield,DM,800000.0,Trabzonspor,Türkiye,,0
+2008,Super Lig,Hacettepe Spor,winter,in,Selcuk Sahin,8284,25,Türkiye,Left-Back,LB,400000.0,Kartalspor,Türkiye,,0
+2008,Super Lig,Hacettepe Spor,winter,in,Ümit Tütünci,55843,24,Türkiye,Centre-Forward,CF,400000.0,Genclerbirligi Ankara,Türkiye,0.0,1
+2008,Super Lig,Hacettepe Spor,summer,out,Giray Kaçar,55839,23,Türkiye,Centre-Back,CB,2000000.0,Trabzonspor,Türkiye,1700000.0,0
+2008,Super Lig,Hacettepe Spor,summer,out,Seçkin Getbay,51598,19,Türkiye,Central Midfield,CM,50000.0,Genclerbirligi Ankara U21,Türkiye,0.0,0
+2008,Super Lig,Hacettepe Spor,summer,out,Ali Bayraktar,31681,22,Türkiye,Right Winger,RW,500000.0,Denizlispor,Türkiye,0.0,0
+2008,Super Lig,Hacettepe Spor,summer,out,Bülent Kocabey,16766,24,Türkiye,Attacking Midfield,AM,1000000.0,Eskisehirspor,Türkiye,0.0,0
+2008,Super Lig,Hacettepe Spor,summer,out,İlhan Eker,51596,25,Türkiye,Centre-Back,CB,1700000.0,Genclerbirligi Ankara,Türkiye,0.0,0
+2008,Super Lig,Hacettepe Spor,summer,out,Gökhan Yetkin,77800,24,Türkiye,Left-Back,LB,50000.0,Siirtspor,Türkiye,0.0,1
+2008,Super Lig,Hacettepe Spor,summer,out,Savaş Esen,51327,25,Türkiye,Centre-Forward,CF,750000.0,Sanliurfaspor,Türkiye,0.0,1
+2008,Super Lig,Hacettepe Spor,summer,out,Çağatay Tekin,51607,21,Türkiye,Attacking Midfield,AM,150000.0,Samsunspor,Türkiye,0.0,1
+2008,Super Lig,Hacettepe Spor,summer,out,Hasan Köse,238215,20,Türkiye,Defensive Midfield,DM,,Afyonkarahisarspor (-2013),Türkiye,0.0,1
+2008,Super Lig,Hacettepe Spor,summer,out,Cemal Taşlı,51606,24,Türkiye,Defensive Midfield,DM,100000.0,Tarsus Idman Yurdu,Türkiye,,0
+2008,Super Lig,Hacettepe Spor,summer,out,Ulaş Güler,41001,29,Türkiye,Goalkeeper,GK,400000.0,Genclerbirligi Ankara,Türkiye,,0
+2008,Super Lig,Hacettepe Spor,summer,out,Kenan Çamoğlu,55835,26,Türkiye,Defensive Midfield,DM,400000.0,Kartalspor,Türkiye,,0
+2008,Super Lig,Hacettepe Spor,summer,out,James Boadu,67946,23,Ghana,Second Striker,SS,250000.0,KF Vllaznia,Albania,,0
+2008,Super Lig,Hacettepe Spor,summer,out,Selçuk Özkan,181827,23,Türkiye,Defensive Midfield,DM,,Türk Telekomspor,Türkiye,,0
+2008,Super Lig,Hacettepe Spor,summer,out,Eren Özen,51610,24,Türkiye,Left Winger,LW,450000.0,Malatyaspor,Türkiye,,0
+2008,Super Lig,Hacettepe Spor,summer,out,Murat Selvi,20354,26,Türkiye,Left-Back,LB,450000.0,Kardemir DC Karabükspor,Türkiye,,0
+2008,Super Lig,Hacettepe Spor,summer,out,Volkan Özcan,55847,22,Türkiye,Right-Back,RB,50000.0,Diyarbakirspor,Türkiye,,0
+2008,Super Lig,Hacettepe Spor,summer,out,Ümit Tütünci,55843,23,Türkiye,Centre-Forward,CF,700000.0,Genclerbirligi Ankara,Türkiye,,0
+2008,Super Lig,Hacettepe Spor,summer,out,Baykal Yılmaztaş,68264,23,Türkiye,Centre-Back,CB,50000.0,Güngören Belediyespor,Türkiye,0.0,1
+2008,Super Lig,Hacettepe Spor,summer,out,Aleksandar Jevtić,47645,23,Serbia,Centre-Forward,CF,200000.0,OFK Beograd,Serbia,0.0,1
+2008,Super Lig,Hacettepe Spor,summer,out,Orhan Şam,10121,22,Türkiye,Right-Back,RB,1800000.0,Genclerbirligi Ankara U21,Türkiye,0.0,1
+2008,Super Lig,Hacettepe Spor,summer,out,Ulaş Güler,41001,28,Türkiye,Goalkeeper,GK,250000.0,Genclerbirligi Ankara,Türkiye,0.0,1
+2008,Super Lig,Hacettepe Spor,summer,out,Ferhat Kiraz,56640,19,Türkiye,Left-Back,LB,200000.0,Genclerbirligi Ankara,Türkiye,0.0,1
+2008,Super Lig,Hacettepe Spor,summer,out,Nikola Petkovic,46121,22,Serbia,Centre-Back,CB,500000.0,Genclerbirligi Ankara,Türkiye,0.0,1
+2008,Super Lig,Hacettepe Spor,summer,out,Sandro Mendonça,37429,24,Brazil,Second Striker,SS,1800000.0,Genclerbirligi Ankara,Türkiye,0.0,1
+2008,Super Lig,Hacettepe Spor,summer,out,Murat Kalkan,51601,22,Türkiye,Centre-Back,CB,1200000.0,Genclerbirligi Ankara,Türkiye,0.0,1
+2008,Super Lig,Hacettepe Spor,winter,out,Amir Azmi Megahed,28443,25,Egypt,Centre-Back,CB,1500000.0,AEK Larnaca,Cyprus,0.0,0
+2008,Super Lig,Hacettepe Spor,winter,out,Shaibu Yakubu,67015,22,Ghana,Right Winger,RW,400000.0,Telecom Egypt Sports Club,Egypt,0.0,0
+2008,Super Lig,Hacettepe Spor,winter,out,Yasin Yeter,85250,19,Türkiye,Striker,Striker,100000.0,Kastamonuspor,Türkiye,0.0,1
+2008,Super Lig,Hacettepe Spor,winter,out,Cevher Toktaş,51533,21,Türkiye,Centre-Back,CB,150000.0,Kahramanmaras Spor,Türkiye,0.0,1
+2008,Super Lig,Hacettepe Spor,winter,out,Çağatay Tekin,51607,22,Türkiye,Attacking Midfield,AM,50000.0,Kayseri Erciyesspor,Türkiye,0.0,1
+2008,Super Lig,Hacettepe Spor,winter,out,Xhevahir Sukaj,54710,21,Albania,Centre-Forward,CF,500000.0,KF Vllaznia,Albania,0.0,1
+2008,Super Lig,Hacettepe Spor,winter,out,Mehmet Uslu,45227,20,Türkiye,Left-Back,LB,150000.0,Kartalspor,Türkiye,0.0,1
+2008,Super Lig,Hacettepe Spor,winter,out,Admir Teli,51968,27,Albania,Centre-Back,CB,500000.0,Qarabağ FK,Azerbaijan,,0
+2008,Super Lig,Hacettepe Spor,winter,out,Ufuk Eş,36290,21,Türkiye,Central Midfield,CM,100000.0,Güngören Belediyespor,Türkiye,0.0,1
+2008,Super Lig,Hacettepe Spor,winter,out,Hüseyin Cengiz,51593,24,Türkiye,Left-Back,LB,50000.0,Without Club,,,0
+2008,Super Lig,Kayserispor,summer,in,Julius Aghahowa,14925,26,Nigeria,Centre-Forward,CF,1500000.0,Wigan Athletic,England,1000000.0,0
+2008,Super Lig,Kayserispor,summer,in,Harun Erbek,40196,22,Austria,Attacking Midfield,AM,500000.0,SV Ried,Austria,300000.0,0
+2008,Super Lig,Kayserispor,summer,in,Umut Koçin,42358,20,Türkiye,Attacking Midfield,AM,100000.0,Arminia Bielefeld,Germany,75000.0,0
+2008,Super Lig,Kayserispor,summer,in,Yusuf Soysal,33798,26,Türkiye,Goalkeeper,GK,700000.0,MKE Ankaragücü,Türkiye,0.0,0
+2008,Super Lig,Kayserispor,summer,in,Furkan Özçal,57854,17,Türkiye,Central Midfield,CM,,TSV 1860 München U19,Germany,0.0,0
+2008,Super Lig,Kayserispor,summer,in,Muslu Nalbantoglu,27708,24,Türkiye,Right-Back,RB,550000.0,NEC Nijmegen,Netherlands,0.0,0
+2008,Super Lig,Kayserispor,summer,in,Salomon Olembé,5326,27,Cameroon,Left Midfield,LM,1250000.0,Wigan Athletic,England,0.0,0
+2008,Super Lig,Kayserispor,summer,in,Bilal Aziz Özer,18831,23,Germany,Left-Back,LB,350000.0,VfL Osnabrück,Germany,0.0,0
+2008,Super Lig,Kayserispor,summer,in,Bayram Çetin,74989,23,Türkiye,Centre-Back,CB,50000.0,Altinordu FK,Türkiye,0.0,0
+2008,Super Lig,Kayserispor,summer,in,Eren Güngör,58829,20,Türkiye,Centre-Back,CB,400000.0,Altay SK,Türkiye,0.0,0
+2008,Super Lig,Kayserispor,summer,in,Souleymanou Hamidou,7196,34,Cameroon,Goalkeeper,GK,1300000.0,Denizlispor,Türkiye,0.0,0
+2008,Super Lig,Kayserispor,summer,in,Tevfik Köse,36661,20,Türkiye,Centre-Forward,CF,350000.0,Bayer 04 Leverkusen II,Germany,0.0,1
+2008,Super Lig,Kayserispor,summer,in,Matías Escobar,30779,26,Argentina,Defensive Midfield,DM,1750000.0,Club de Gimnasia y Esgrima La Plata,Argentina,,0
+2008,Super Lig,Kayserispor,summer,in,Milan Purovic,34405,23,Montenegro,Centre-Forward,CF,2000000.0,Sporting CP,Portugal,0.0,1
+2008,Super Lig,Kayserispor,summer,out,Gökhan Ünal,7394,25,Türkiye,Centre-Forward,CF,4200000.0,Trabzonspor,Türkiye,6200000.0,0
+2008,Super Lig,Kayserispor,summer,out,Juan Pablo Avendaño,30913,26,Argentina,Centre-Back,CB,700000.0,Skoda Xanthi,Greece,0.0,0
+2008,Super Lig,Kayserispor,summer,out,Leonardo Iglesias,40996,29,Argentina,Centre-Forward,CF,1900000.0,MKE Ankaragücü,Türkiye,0.0,0
+2008,Super Lig,Kayserispor,summer,out,Ali Çamdalı,9339,24,Türkiye,Defensive Midfield,DM,350000.0,Kayseri Erciyesspor,Türkiye,0.0,0
+2008,Super Lig,Kayserispor,summer,out,Hamdi Tevfik Altıok,45211,23,Türkiye,Goalkeeper,GK,50000.0,Bugsas Spor,Türkiye,0.0,0
+2008,Super Lig,Kayserispor,summer,out,Hasan Sönmez,6895,31,Türkiye,Goalkeeper,GK,300000.0,Samsunspor,Türkiye,0.0,0
+2008,Super Lig,Kayserispor,summer,out,Dimitar Ivankov,15256,32,Bulgaria,Goalkeeper,GK,2200000.0,Bursaspor,Türkiye,0.0,0
+2008,Super Lig,Kayserispor,summer,out,Kemal Okyay,44936,23,Türkiye,Left-Back,LB,1200000.0,Kayseri Erciyesspor,Türkiye,0.0,1
+2008,Super Lig,Kayserispor,summer,out,Kamber Arslan,21705,28,Türkiye,Defensive Midfield,DM,800000.0,Kayseri Erciyesspor,Türkiye,0.0,1
+2008,Super Lig,Kayserispor,summer,out,Emrah Kaya,49125,22,Türkiye,Right Winger,RW,100000.0,Turgutluspor,Türkiye,,0
+2008,Super Lig,Kayserispor,summer,out,Rıdvan Koçer,117969,19,Türkiye,Centre-Back,CB,,Afyonkarahisarspor (-2013),Türkiye,0.0,1
+2008,Super Lig,Kayserispor,winter,out,Muslu Nalbantoglu,27708,25,Türkiye,Right-Back,RB,800000.0,De Graafschap Doetinchem,Netherlands,0.0,0
+2008,Super Lig,Kayserispor,winter,out,Matías Escobar,30779,26,Argentina,Defensive Midfield,DM,1000000.0,CA Rosario Central,Argentina,0.0,0
+2008,Super Lig,Kayserispor,winter,out,Kamber Arslan,21705,29,Türkiye,Defensive Midfield,DM,500000.0,Antalyaspor,Türkiye,0.0,0
+2008,Super Lig,Kayserispor,winter,out,Ersoy Yılmaz,74397,20,Türkiye,Centre-Forward,CF,50000.0,Yimpas Yozgatspor,Türkiye,0.0,1
+2008,Super Lig,Kayserispor,winter,out,Fatih Ceylan,17451,28,Türkiye,Left Midfield,LM,1000000.0,Antalyaspor,Türkiye,,0
+2008,Super Lig,Kayserispor,winter,out,Orkun Bal,49120,20,Türkiye,Left Midfield,LM,50000.0,Yimpas Yozgatspor,Türkiye,0.0,1
+2008,Super Lig,Kayserispor,winter,out,Harun Erbek,40196,22,Austria,Attacking Midfield,AM,600000.0,Without Club,,,0
+2008,Super Lig,Kocaelispor,summer,in,Dusan Andjelkovic,35964,26,Serbia,Left-Back,LB,1000000.0,Red Star Belgrade,Serbia,680000.0,0
+2008,Super Lig,Kocaelispor,summer,in,Djordje Tutoric,24685,25,Serbia,Centre-Back,CB,1250000.0,Red Star Belgrade,Serbia,650000.0,0
+2008,Super Lig,Kocaelispor,summer,in,Murat Hacıoğlu,7201,29,Türkiye,Second Striker,SS,2600000.0,Konyaspor,Türkiye,0.0,0
+2008,Super Lig,Kocaelispor,summer,in,Tolga Seyhan,6966,31,Türkiye,Centre-Back,CB,1500000.0,Shakhtar Donetsk,Ukraine,0.0,0
+2008,Super Lig,Kocaelispor,summer,in,Serhat Akın,2903,27,Türkiye,Right Winger,RW,2000000.0,RSC Anderlecht,Belgium,0.0,0
+2008,Super Lig,Kocaelispor,summer,in,Nenad Jestrovic,9591,32,Serbia,Centre-Forward,CF,1500000.0,Red Star Belgrade,Serbia,0.0,0
+2008,Super Lig,Kocaelispor,summer,in,Özgür Bayer,7061,29,Türkiye,Centre-Back,CB,600000.0,Gaziantepspor,Türkiye,0.0,0
+2008,Super Lig,Kocaelispor,summer,in,Volkan Bekiroğlu,6955,30,Türkiye,Left-Back,LB,1000000.0,Bursaspor,Türkiye,0.0,0
+2008,Super Lig,Kocaelispor,summer,in,Júlio César,45218,25,Brazil,Left-Back,LB,2300000.0,Denizlispor,Türkiye,0.0,0
+2008,Super Lig,Kocaelispor,summer,in,Serdar Kulbilge,7311,27,Türkiye,Goalkeeper,GK,1500000.0,Fenerbahce,Türkiye,0.0,0
+2008,Super Lig,Kocaelispor,summer,in,Musa Büyük,10138,28,Türkiye,Right-Back,RB,1200000.0,Trabzonspor,Türkiye,0.0,0
+2008,Super Lig,Kocaelispor,summer,in,Bülent Bölükbaşı,7281,32,Türkiye,Central Midfield,CM,1700000.0,Gaziantepspor,Türkiye,0.0,0
+2008,Super Lig,Kocaelispor,summer,in,Kemal Aslan,7033,26,Türkiye,Central Midfield,CM,800000.0,Fenerbahce,Türkiye,,0
+2008,Super Lig,Kocaelispor,summer,in,Musa Kuş,7149,30,Türkiye,Right Midfield,RM,1000000.0,Denizlispor,Türkiye,,0
+2008,Super Lig,Kocaelispor,summer,in,Fransergio,33565,28,Brazil,Central Midfield,CM,900000.0,Kasimpasa,Türkiye,,0
+2008,Super Lig,Kocaelispor,summer,in,Patrice Nzekou,78944,25,Cameroon,Left Midfield,LM,,Without Club,,,0
+2008,Super Lig,Kocaelispor,winter,in,Ergin Yücetaş,8213,30,Türkiye,Central Midfield,CM,200000.0,Bozüyükspor,Türkiye,0.0,0
+2008,Super Lig,Kocaelispor,winter,in,Eyyüp Hasan Uğur,8043,31,Türkiye,Defensive Midfield,DM,500000.0,Sakaryaspor,Türkiye,0.0,0
+2008,Super Lig,Kocaelispor,winter,in,Ergün Teber,29411,23,Türkiye,Left-Back,LB,900000.0,Genclerbirligi Ankara,Türkiye,0.0,1
+2008,Super Lig,Kocaelispor,winter,in,Ali Bayraktar,31681,23,Türkiye,Right Winger,RW,300000.0,Denizlispor,Türkiye,0.0,1
+2008,Super Lig,Kocaelispor,winter,in,Emrah Kiraz,51810,21,Türkiye,Centre-Back,CB,100000.0,Bursaspor,Türkiye,0.0,1
+2008,Super Lig,Kocaelispor,winter,in,Mo Ross,9486,27,Scotland,Right-Back,RB,300000.0,Viking FK,Norway,,0
+2008,Super Lig,Kocaelispor,winter,in,Mazuwa Nsumbu,44757,26,DR Congo,Defensive Midfield,DM,,Ihud Bnei Sakhnin,Israel,,0
+2008,Super Lig,Kocaelispor,winter,in,Mesut Eslik,101369,19,Türkiye,Central Midfield,CM,,FC Groningen U21,Netherlands,,0
+2008,Super Lig,Kocaelispor,winter,in,Cem Sinan Vergül,16710,30,Türkiye,Defensive Midfield,DM,200000.0,Giresunspor,Türkiye,,0
+2008,Super Lig,Kocaelispor,winter,in,Levent Kartop,7107,29,Türkiye,Defensive Midfield,DM,300000.0,Neftchi PFK,Azerbaijan,,0
+2008,Super Lig,Kocaelispor,winter,in,Rashad Sadyqov,33969,26,Azerbaijan,Centre-Back,CB,100000.0,Neftchi PFK,Azerbaijan,,0
+2008,Super Lig,Kocaelispor,winter,in,Luka Zinko,22391,25,Slovenia,Defensive Midfield,DM,600000.0,NK Domzale,Slovenia,,0
+2008,Super Lig,Kocaelispor,winter,in,Ramal Huseynov,99380,24,Azerbaijan,Right Midfield,RM,,FC Baku,Azerbaijan,0.0,1
+2008,Super Lig,Kocaelispor,winter,in,Akeem Agbetu,43275,20,Nigeria,Left Winger,LW,175000.0,Kolding FC,Denmark,0.0,1
+2008,Super Lig,Kocaelispor,winter,in,Fatih Akyel,6857,31,Türkiye,Right-Back,RB,700000.0,Kasimpasa,Türkiye,0.0,1
+2008,Super Lig,Kocaelispor,summer,out,İskender Köksal,58718,26,Türkiye,Centre-Back,CB,150000.0,Konya Sekerspor,Türkiye,0.0,0
+2008,Super Lig,Kocaelispor,summer,out,Fatih Şen,6892,28,Türkiye,Attacking Midfield,AM,650000.0,Orduspor,Türkiye,0.0,0
+2008,Super Lig,Kocaelispor,summer,out,Haydar Koç,29455,33,Türkiye,Right-Back,RB,400000.0,Orduspor,Türkiye,0.0,0
+2008,Super Lig,Kocaelispor,summer,out,Hakan Çimen,7083,34,Türkiye,Centre-Back,CB,400000.0,Orduspor,Türkiye,0.0,0
+2008,Super Lig,Kocaelispor,summer,out,Serhat Sağat,16707,25,Türkiye,Centre-Forward,CF,500000.0,Sakaryaspor,Türkiye,0.0,0
+2008,Super Lig,Kocaelispor,summer,out,Bilal Turgut,58742,23,Türkiye,Defensive Midfield,DM,200000.0,Körfez Belediyespor,Türkiye,0.0,1
+2008,Super Lig,Kocaelispor,summer,out,Hüseyin Keleş,144657,25,Türkiye,Centre-Back,CB,,Erzincanspor,Türkiye,0.0,1
+2008,Super Lig,Kocaelispor,summer,out,Emirhan Önder,58757,20,Türkiye,Centre-Back,CB,100000.0,Inegölspor,Türkiye,0.0,1
+2008,Super Lig,Kocaelispor,summer,out,Ercan Aykanat,58672,22,Türkiye,Goalkeeper,GK,50000.0,Bulancakspor,Türkiye,0.0,1
+2008,Super Lig,Kocaelispor,summer,out,Behram Zülaloğlu,7168,25,Türkiye,Goalkeeper,GK,450000.0,Büyüksehir Belediyespor,Türkiye,,0
+2008,Super Lig,Kocaelispor,summer,out,Cem Sinan Vergül,16710,29,Türkiye,Defensive Midfield,DM,500000.0,Giresunspor,Türkiye,,0
+2008,Super Lig,Kocaelispor,summer,out,Oktay Pop,58730,20,Türkiye,Right Winger,RW,50000.0,Mardinspor,Türkiye,,0
+2008,Super Lig,Kocaelispor,summer,out,Bayram Toysal,8681,31,Türkiye,Central Midfield,CM,550000.0,Körfez Belediyespor,Türkiye,,0
+2008,Super Lig,Kocaelispor,summer,out,Mo Ross,9486,28,Scotland,Right-Back,RB,400000.0,Without Club,,,0
+2008,Super Lig,Kocaelispor,summer,out,Musa Kuş,7149,30,Türkiye,Right Midfield,RM,1000000.0,Without Club,,,0
+2008,Super Lig,Kocaelispor,summer,out,Yasin Sülün,6898,30,Türkiye,Defensive Midfield,DM,650000.0,Kasimpasa,Türkiye,0.0,1
+2008,Super Lig,Kocaelispor,summer,out,Can Erdem,47299,21,Türkiye,Centre-Forward,CF,400000.0,Besiktas JK,Türkiye,0.0,1
+2008,Super Lig,Kocaelispor,winter,out,Ufuk Çam,58819,33,Türkiye,Centre-Back,CB,500000.0,Kartalspor,Türkiye,0.0,0
+2008,Super Lig,Kocaelispor,winter,out,Kemal Aslan,7033,27,Türkiye,Central Midfield,CM,900000.0,Bursaspor,Türkiye,0.0,0
+2008,Super Lig,Kocaelispor,winter,out,Tolga Seyhan,6966,32,Türkiye,Centre-Back,CB,1200000.0,Hacettepe Spor,Türkiye,0.0,0
+2008,Super Lig,Kocaelispor,winter,out,Semavi Özgür,58759,26,Türkiye,Central Midfield,CM,700000.0,MKE Ankaragücü,Türkiye,0.0,0
+2008,Super Lig,Kocaelispor,winter,out,Volkan Bekiroğlu,6955,31,Türkiye,Left-Back,LB,1100000.0,Bursaspor,Türkiye,0.0,0
+2008,Super Lig,Kocaelispor,winter,out,Özgür Bayer,7061,29,Türkiye,Centre-Back,CB,400000.0,MKE Ankaragücü,Türkiye,0.0,0
+2008,Super Lig,Kocaelispor,winter,out,Bülent Bölükbaşı,7281,32,Türkiye,Central Midfield,CM,900000.0,Konyaspor,Türkiye,0.0,0
+2008,Super Lig,Kocaelispor,winter,out,Nenad Jestrovic,9591,32,Serbia,Centre-Forward,CF,1500000.0,FC Metz,France,0.0,0
+2008,Super Lig,Kocaelispor,winter,out,Yiğithan Kibar,58714,19,Türkiye,Left Midfield,LM,,Gebzespor,Türkiye,0.0,1
+2008,Super Lig,Kocaelispor,winter,out,Umut Kekilli,10544,24,Türkiye,Attacking Midfield,AM,300000.0,Kartalspor,Türkiye,0.0,1
+2008,Super Lig,Kocaelispor,winter,out,Ahmet Dursun,6863,31,Türkiye,Centre-Forward,CF,900000.0,Khazar Lankaran (- 2016),Azerbaijan,,0
+2008,Super Lig,Kocaelispor,winter,out,Özgür Çetiner,58684,28,Türkiye,Attacking Midfield,AM,300000.0,Marmaris Belediye Genclikspor,Türkiye,,0
+2008,Super Lig,Kocaelispor,winter,out,Musa Büyük,10138,28,Türkiye,Right-Back,RB,1000000.0,Konyaspor,Türkiye,,0
+2008,Super Lig,Kocaelispor,winter,out,Samet Çavdar,66579,20,Türkiye,Goalkeeper,GK,,Gebzespor,Türkiye,,0
+2008,Super Lig,Kocaelispor,winter,out,Dusan Andjelkovic,35964,26,Serbia,Left-Back,LB,1000000.0,Without Club,,,0
+2008,Super Lig,Kocaelispor,winter,out,Djordje Tutoric,24685,25,Serbia,Centre-Back,CB,1250000.0,Without Club,,,0
+2008,Super Lig,Kocaelispor,winter,out,Serhat Akın,2903,27,Türkiye,Right Winger,RW,2000000.0,Without Club,,,0
+2008,Super Lig,Kocaelispor,winter,out,Fransergio,33565,28,Brazil,Central Midfield,CM,900000.0,Grêmio Osasco Audax (SP),Brazil,,0
+2008,Super Lig,Kocaelispor,winter,out,Taylan Işıldar,58705,23,Türkiye,Left-Back,LB,350000.0,Without Club,,,0
+2008,Super Lig,Konyaspor,summer,in,Fahri Tatan,7442,25,Türkiye,Defensive Midfield,DM,1800000.0,Besiktas JK,Türkiye,800000.0,0
+2008,Super Lig,Konyaspor,summer,in,Zafer Demir,8049,31,Türkiye,Defensive Midfield,DM,1200000.0,Denizlispor,Türkiye,0.0,0
+2008,Super Lig,Konyaspor,summer,in,Fatih Egedik,34849,26,Türkiye,Defensive Midfield,DM,1400000.0,Denizlispor,Türkiye,0.0,0
+2008,Super Lig,Konyaspor,summer,in,Mehmet Çoğum,29403,25,Türkiye,Centre-Back,CB,1200000.0,Gaziantepspor,Türkiye,0.0,0
+2008,Super Lig,Konyaspor,summer,in,İlker Avcıbay,7110,29,Türkiye,Goalkeeper,GK,300000.0,Adana Demirspor,Türkiye,0.0,0
+2008,Super Lig,Konyaspor,summer,in,Jefferson,32561,25,Brazil,Goalkeeper,GK,1000000.0,Trabzonspor,Türkiye,0.0,0
+2008,Super Lig,Konyaspor,summer,in,Erhan Albayrak,1393,31,Türkiye,Left Midfield,LM,1200000.0,Ankaraspor,Türkiye,0.0,0
+2008,Super Lig,Konyaspor,summer,in,Cihan Haspolatlı,6866,28,Türkiye,Defensive Midfield,DM,1400000.0,Bursaspor,Türkiye,0.0,0
+2008,Super Lig,Konyaspor,summer,in,İsmail Güldüren,7049,29,Türkiye,Centre-Back,CB,1200000.0,Bursaspor,Türkiye,0.0,0
+2008,Super Lig,Konyaspor,summer,in,Şener Aşkaroğlu,7188,28,Türkiye,Right Midfield,RM,1400000.0,Manisaspor,Türkiye,,0
+2008,Super Lig,Konyaspor,summer,in,Erdal Kilicaslan,2148,23,Germany,Left Winger,LW,1300000.0,Gaziantepspor,Türkiye,,0
+2008,Super Lig,Konyaspor,summer,in,Serhat Akyüz,28991,23,Türkiye,Centre-Back,CB,1500000.0,Caykur Rizespor,Türkiye,,0
+2008,Super Lig,Konyaspor,summer,in,Celaleddin Koçak,10134,30,Türkiye,Left-Back,LB,700000.0,Manisaspor,Türkiye,,0
+2008,Super Lig,Konyaspor,summer,in,Ferdi Başoda,58517,25,Türkiye,Right Winger,RW,450000.0,Sakaryaspor,Türkiye,,0
+2008,Super Lig,Konyaspor,summer,in,Caner Altın,7138,24,Türkiye,Centre-Forward,CF,900000.0,Samsunspor,Türkiye,,0
+2008,Super Lig,Konyaspor,winter,in,Bülent Bölükbaşı,7281,32,Türkiye,Central Midfield,CM,900000.0,Kocaelispor,Türkiye,0.0,0
+2008,Super Lig,Konyaspor,winter,in,Atilla Özmen,53579,20,Türkiye,Goalkeeper,GK,100000.0,Altay SK,Türkiye,0.0,0
+2008,Super Lig,Konyaspor,winter,in,Musa Büyük,10138,28,Türkiye,Right-Back,RB,1000000.0,Kocaelispor,Türkiye,,0
+2008,Super Lig,Konyaspor,winter,in,Roman Kratochvíl,7084,34,Slovakia,Centre-Back,CB,1500000.0,Denizlispor,Türkiye,,0
+2008,Super Lig,Konyaspor,winter,in,Branimir Poljac,24159,24,Norway,Right Winger,RW,,Moss FK,Norway,,0
+2008,Super Lig,Konyaspor,winter,in,Ayman Abdelaziz,6963,30,Egypt,Defensive Midfield,DM,1600000.0,Zamalek SC,Egypt,0.0,1
+2008,Super Lig,Konyaspor,winter,in,Beshir El Tabei,34164,32,Egypt,Centre-Back,CB,300000.0,Without Club,,,0
+2008,Super Lig,Konyaspor,winter,in,Serhat Akın,2903,27,Türkiye,Right Winger,RW,1500000.0,Without Club,,,0
+2008,Super Lig,Konyaspor,summer,out,Burak Özsaraç,7005,29,Türkiye,Centre-Back,CB,1300000.0,MKE Ankaragücü,Türkiye,0.0,0
+2008,Super Lig,Konyaspor,summer,out,Volkan Çekiç,31682,25,Türkiye,Centre-Forward,CF,500000.0,Samsunspor,Türkiye,0.0,0
+2008,Super Lig,Konyaspor,summer,out,Batista,6877,33,Brazil,Defensive Midfield,DM,900000.0,Kasimpasa,Türkiye,0.0,0
+2008,Super Lig,Konyaspor,summer,out,Sedat Ağçay,8691,26,Türkiye,Defensive Midfield,DM,1700000.0,Antalyaspor,Türkiye,0.0,0
+2008,Super Lig,Konyaspor,summer,out,Ozan Özkan,33903,24,Türkiye,Right-Back,RB,350000.0,Karsiyaka,Türkiye,0.0,0
+2008,Super Lig,Konyaspor,summer,out,Muhammed Akıncı,22456,25,Türkiye,Attacking Midfield,AM,250000.0,Konya Sekerspor,Türkiye,0.0,0
+2008,Super Lig,Konyaspor,summer,out,Ceyhun Eriş,7064,31,Türkiye,Attacking Midfield,AM,3500000.0,FC Seoul,"Korea, South",0.0,0
+2008,Super Lig,Konyaspor,summer,out,Cédric Sabin,23973,28,Martinique,Centre-Forward,CF,700000.0,Vannes OC,France,0.0,0
+2008,Super Lig,Konyaspor,summer,out,Damir Kahriman,36109,23,Serbia,Goalkeeper,GK,1300000.0,FK Rad,Serbia,0.0,0
+2008,Super Lig,Konyaspor,summer,out,Murat Hacıoğlu,7201,29,Türkiye,Second Striker,SS,2600000.0,Kocaelispor,Türkiye,0.0,0
+2008,Super Lig,Konyaspor,summer,out,Erman Özgür,7375,31,Türkiye,Attacking Midfield,AM,2000000.0,Gaziantepspor,Türkiye,0.0,0
+2008,Super Lig,Konyaspor,summer,out,Gökhan Çakır,44973,21,Türkiye,Defensive Midfield,DM,150000.0,Sariyer,Türkiye,0.0,1
+2008,Super Lig,Konyaspor,summer,out,Fatih Özer,65930,21,Türkiye,Right Midfield,RM,150000.0,Konya Sekerspor,Türkiye,0.0,1
+2008,Super Lig,Konyaspor,summer,out,Can Parlayan,41282,22,Türkiye,Centre-Forward,CF,100000.0,Konya Sekerspor,Türkiye,0.0,1
+2008,Super Lig,Konyaspor,summer,out,Erkan Sekman,41011,24,Türkiye,Right-Back,RB,1700000.0,Gaziantepspor,Türkiye,,0
+2008,Super Lig,Konyaspor,summer,out,Soner Baymış,552974,22,Türkiye,Centre-Forward,CF,,Yildirim Bosnaspor,Türkiye,0.0,1
+2008,Super Lig,Konyaspor,summer,out,Zé Gomes,14388,31,Portugal,Right-Back,RB,500000.0,CS Marítimo,Portugal,0.0,1
+2008,Super Lig,Konyaspor,summer,out,Yusuf Kurtuluş,52487,21,Türkiye,Central Midfield,CM,900000.0,Trabzonspor,Türkiye,0.0,1
+2008,Super Lig,Konyaspor,winter,out,Şener Aşkaroğlu,7188,28,Türkiye,Right Midfield,RM,800000.0,Denizlispor,Türkiye,0.0,0
+2008,Super Lig,Konyaspor,winter,out,Can Parlayan,41282,23,Türkiye,Centre-Forward,CF,100000.0,Elazigspor,Türkiye,0.0,1
+2008,Super Lig,Konyaspor,winter,out,Fatih Özer,65930,22,Türkiye,Right Midfield,RM,150000.0,Göztepe,Türkiye,0.0,1
+2008,Super Lig,Konyaspor,winter,out,İlker Avcıbay,7110,30,Türkiye,Goalkeeper,GK,200000.0,Manisaspor,Türkiye,0.0,1
+2008,Super Lig,Konyaspor,winter,out,Uğur Yanıkdemir,44991,21,Türkiye,Attacking Midfield,AM,150000.0,Konya Sekerspor,Türkiye,0.0,1
+2008,Super Lig,Konyaspor,winter,out,Ferdi Başoda,58517,26,Türkiye,Right Winger,RW,300000.0,Sakaryaspor,Türkiye,0.0,1
+2008,Super Lig,Konyaspor,winter,out,Fatih Egedik,34849,26,Türkiye,Defensive Midfield,DM,800000.0,Manisaspor,Türkiye,0.0,1
+2008,Super Lig,Konyaspor,winter,out,Soner Baymış,552974,23,Türkiye,Centre-Forward,CF,,Menemen Belediye Spor,Türkiye,0.0,1
+2008,Super Lig,Konyaspor,winter,out,Erhan Albayrak,1393,32,Türkiye,Left Midfield,LM,1000000.0,Without Club,,,0
+2008,Super Lig,Konyaspor,winter,out,Beshir El Tabei,34164,32,Egypt,Centre-Back,CB,300000.0,Without Club,,,0
+2008,Super Lig,MKE Ankaragücü,summer,in,Leandro Chaves,53566,24,Brazil,Attacking Midfield,AM,1300000.0,Caykur Rizespor,Türkiye,0.0,0
+2008,Super Lig,MKE Ankaragücü,summer,in,Leonardo Iglesias,40996,29,Argentina,Centre-Forward,CF,1900000.0,Kayserispor,Türkiye,0.0,0
+2008,Super Lig,MKE Ankaragücü,summer,in,Onur Çakır,43044,22,Türkiye,Centre-Back,CB,,Karayilan Belediyespor,Türkiye,0.0,0
+2008,Super Lig,MKE Ankaragücü,summer,in,Barbaros Barut,1812,25,Türkiye,Defensive Midfield,DM,800000.0,Kasimpasa,Türkiye,0.0,0
+2008,Super Lig,MKE Ankaragücü,summer,in,Moïn Chaabani,49836,27,Tunisia,Centre-Back,CB,550000.0,Esperance Tunis,Tunisia,0.0,0
+2008,Super Lig,MKE Ankaragücü,summer,in,Mehmet Yılmaz,6915,29,Türkiye,Centre-Forward,CF,1800000.0,Ankaraspor,Türkiye,0.0,0
+2008,Super Lig,MKE Ankaragücü,summer,in,Yusuf Soysal,33798,26,Türkiye,Goalkeeper,GK,600000.0,Kayseri Erciyesspor,Türkiye,0.0,0
+2008,Super Lig,MKE Ankaragücü,summer,in,Burak Özsaraç,7005,29,Türkiye,Centre-Back,CB,1300000.0,Konyaspor,Türkiye,0.0,0
+2008,Super Lig,MKE Ankaragücü,summer,in,Anıl Karaer,50657,20,Türkiye,Centre-Back,CB,300000.0,Galatasaray U21,Türkiye,0.0,1
+2008,Super Lig,MKE Ankaragücü,summer,in,Emre Hamzaoğlu,25475,23,Türkiye,Attacking Midfield,AM,100000.0,Arsinspor,Türkiye,,0
+2008,Super Lig,MKE Ankaragücü,summer,in,Luiz Henrique,76102,25,Brazil,Centre-Back,CB,,EC Santo André,Brazil,,0
+2008,Super Lig,MKE Ankaragücü,summer,in,Mustafa Aydın,78237,22,Türkiye,Centre-Back,CB,,Tepecik Belediyespor,Türkiye,,0
+2008,Super Lig,MKE Ankaragücü,summer,in,Metin Akan,7323,25,Türkiye,Second Striker,SS,1200000.0,Manisaspor,Türkiye,,0
+2008,Super Lig,MKE Ankaragücü,summer,in,Sherif Ekramy,30896,25,Egypt,Goalkeeper,GK,650000.0,Feyenoord Rotterdam,Netherlands,0.0,1
+2008,Super Lig,MKE Ankaragücü,winter,in,Hasan Üçüncü,6910,28,Türkiye,Defensive Midfield,DM,600000.0,Trabzonspor,Türkiye,0.0,0
+2008,Super Lig,MKE Ankaragücü,winter,in,Bora Körk,25550,28,Türkiye,Goalkeeper,GK,250000.0,Sakaryaspor,Türkiye,0.0,0
+2008,Super Lig,MKE Ankaragücü,winter,in,Özgür Bayer,7061,29,Türkiye,Centre-Back,CB,400000.0,Kocaelispor,Türkiye,0.0,0
+2008,Super Lig,MKE Ankaragücü,winter,in,Ufuk Bayraktar,54402,23,Türkiye,Left Winger,LW,250000.0,Trabzonspor,Türkiye,0.0,0
+2008,Super Lig,MKE Ankaragücü,winter,in,Semavi Özgür,58759,26,Türkiye,Central Midfield,CM,700000.0,Kocaelispor,Türkiye,0.0,0
+2008,Super Lig,MKE Ankaragücü,winter,in,Özgür Öçal,54554,27,Türkiye,Right-Back,RB,600000.0,Eskisehirspor,Türkiye,0.0,1
+2008,Super Lig,MKE Ankaragücü,winter,in,Kerem Şeras,33797,25,Türkiye,Defensive Midfield,DM,1400000.0,Genclerbirligi Ankara,Türkiye,0.0,1
+2008,Super Lig,MKE Ankaragücü,winter,in,Güney Atılgan,101388,21,Türkiye,Left Winger,LW,,Bugsas Spor,Türkiye,,0
+2008,Super Lig,MKE Ankaragücü,winter,in,Ceyhun Eriş,7064,31,Türkiye,Attacking Midfield,AM,1500000.0,FC Seoul,"Korea, South",,0
+2008,Super Lig,MKE Ankaragücü,winter,in,Ismaël Bouzid,12098,25,Algeria,Centre-Back,CB,800000.0,ESTAC Troyes,France,,0
+2008,Super Lig,MKE Ankaragücü,winter,in,Abdulaziz Solmaz,53570,20,Türkiye,Left Winger,LW,50000.0,Trabzonspor,Türkiye,,0
+2008,Super Lig,MKE Ankaragücü,winter,in,Antonio de Nigris,44975,31,Mexico,Centre-Forward,CF,2400000.0,Ankaraspor,Türkiye,0.0,1
+2008,Super Lig,MKE Ankaragücü,summer,out,Giani Kiriță,7065,31,Romania,Defensive Midfield,DM,2500000.0,Bursaspor,Türkiye,0.0,0
+2008,Super Lig,MKE Ankaragücü,summer,out,Yusuf Soysal,33798,26,Türkiye,Goalkeeper,GK,700000.0,Kayserispor,Türkiye,0.0,0
+2008,Super Lig,MKE Ankaragücü,summer,out,Gustave Bebbe,37085,26,Cameroon,Centre-Forward,CF,2500000.0,Büyüksehir Belediyespor,Türkiye,0.0,0
+2008,Super Lig,MKE Ankaragücü,summer,out,Kaba Diawara,5571,32,Guinea,Centre-Forward,CF,1300000.0,Alki Larnaca (-2014),Cyprus,0.0,0
+2008,Super Lig,MKE Ankaragücü,summer,out,Can Emre Yücel,10551,25,Türkiye,Goalkeeper,GK,,Akcaabat Sebatspor,Türkiye,0.0,0
+2008,Super Lig,MKE Ankaragücü,summer,out,Ali Ölmez,29628,25,Türkiye,Left Winger,LW,50000.0,Altay SK,Türkiye,0.0,1
+2008,Super Lig,MKE Ankaragücü,summer,out,Yunus Balaban,17664,24,Germany,Attacking Midfield,AM,100000.0,Altinordu FK,Türkiye,0.0,1
+2008,Super Lig,MKE Ankaragücü,summer,out,Onur Çakır,43044,22,Türkiye,Centre-Back,CB,,Hatayspor,Türkiye,0.0,1
+2008,Super Lig,MKE Ankaragücü,summer,out,Eray Uzunkulaoğlu,170062,20,Türkiye,Midfielder,Midfielder,,Keciören Belediye Spor,Türkiye,,0
+2008,Super Lig,MKE Ankaragücü,summer,out,Şevki Koç,7307,25,Türkiye,Right Midfield,RM,300000.0,Tarsus Idman Yurdu,Türkiye,,0
+2008,Super Lig,MKE Ankaragücü,summer,out,Engin Aktürk,58860,25,Türkiye,Right-Back,RB,250000.0,Caykur Rizespor,Türkiye,,0
+2008,Super Lig,MKE Ankaragücü,summer,out,Emre Hamzaoğlu,25475,23,Türkiye,Attacking Midfield,AM,100000.0,Erzurumspor,Türkiye,0.0,1
+2008,Super Lig,MKE Ankaragücü,summer,out,Mustafa Duruer,1149640,20,Türkiye,Right-Back,RB,,Orhangazispor,Türkiye,0.0,1
+2008,Super Lig,MKE Ankaragücü,summer,out,Augustine Ahinful,6987,33,Ghana,Centre-Forward,CF,700000.0,Retired,,,0
+2008,Super Lig,MKE Ankaragücü,summer,out,Ibrahim Said,3587,28,Egypt,Centre-Back,CB,750000.0,Caykur Rizespor,Türkiye,0.0,1
+2008,Super Lig,MKE Ankaragücü,summer,out,Andrés Lamas,66675,24,Uruguay,Centre-Back,CB,700000.0,Defensor Sporting Club,Uruguay,0.0,1
+2008,Super Lig,MKE Ankaragücü,summer,out,Emre Özkan,47310,19,Türkiye,Centre-Back,CB,150000.0,Besiktas JK U21,Türkiye,0.0,1
+2008,Super Lig,MKE Ankaragücü,winter,out,Abdülkadir Kayalı,57255,17,Türkiye,Central Midfield,CM,250000.0,Fenerbahce,Türkiye,1000000.0,0
+2008,Super Lig,MKE Ankaragücü,winter,out,Cem Can,44608,27,Türkiye,Right-Back,RB,1200000.0,Genclerbirligi Ankara,Türkiye,0.0,0
+2008,Super Lig,MKE Ankaragücü,winter,out,Burak Karaduman,26017,23,Türkiye,Central Midfield,CM,450000.0,Sakaryaspor,Türkiye,0.0,1
+2008,Super Lig,MKE Ankaragücü,winter,out,Ayhan Evren,10142,26,Türkiye,Right-Back,RB,400000.0,Belediye Vanspor,Türkiye,,0
+2008,Super Lig,MKE Ankaragücü,winter,out,Murat Erdoğan,7194,32,Türkiye,Central Midfield,CM,1200000.0,Sivasspor,Türkiye,,0
+2008,Super Lig,MKE Ankaragücü,winter,out,Tevfik Altındağ,51660,20,Türkiye,Central Midfield,CM,100000.0,Sivasspor,Türkiye,,0
+2008,Super Lig,MKE Ankaragücü,winter,out,Gökhan Emreciksin,58879,24,Türkiye,Right Winger,RW,2000000.0,Fenerbahce,Türkiye,,0
+2008,Super Lig,MKE Ankaragücü,winter,out,Birol Aksancak,26010,29,Türkiye,Left Winger,LW,50000.0,Akcaabat Sebatspor,Türkiye,,0
+2008,Super Lig,MKE Ankaragücü,winter,out,Evren Erdeniz,35635,25,Türkiye,Attacking Midfield,AM,50000.0,Türk Telekomspor,Türkiye,,0
+2008,Super Lig,MKE Ankaragücü,winter,out,Mustafa Aydın,78237,22,Türkiye,Centre-Back,CB,100000.0,Sakaryaspor,Türkiye,0.0,1
+2008,Super Lig,MKE Ankaragücü,winter,out,Emre Hamzaoğlu,25475,24,Türkiye,Attacking Midfield,AM,100000.0,Mardinspor,Türkiye,0.0,1
+2008,Super Lig,MKE Ankaragücü,winter,out,Tolga Doğantez,13451,33,Türkiye,Centre-Back,CB,600000.0,Without Club,,,0
+2008,Super Lig,MKE Ankaragücü,winter,out,Leandro Chaves,53566,24,Brazil,Attacking Midfield,AM,1300000.0,Without Club,,,0
+2008,Super Lig,MKE Ankaragücü,winter,out,Anıl Karaer,50657,20,Türkiye,Centre-Back,CB,200000.0,Galatasaray U21,Türkiye,0.0,1
+2008,Super Lig,MKE Ankaragücü,winter,out,Sherif Ekramy,30896,25,Egypt,Goalkeeper,GK,650000.0,Feyenoord Rotterdam,Netherlands,0.0,1
+2008,Super Lig,Sivasspor,summer,in,Murat Yılmaz,77365,22,Türkiye,Left Winger,LW,,Orhangazi Genclerbirligi,Türkiye,0.0,0
+2008,Super Lig,Sivasspor,summer,in,Fábio Bilica,15454,29,Brazil,Centre-Back,CB,400000.0,Universitatea Cluj,Romania,0.0,0
+2008,Super Lig,Sivasspor,summer,in,Eyüp Kadri Ataoğlu,52482,21,Türkiye,Left-Back,LB,50000.0,Trabzonspor,Türkiye,0.0,0
+2008,Super Lig,Sivasspor,summer,in,İbrahim Dağaşan,35265,24,Türkiye,Defensive Midfield,DM,350000.0,Bursaspor,Türkiye,0.0,0
+2008,Super Lig,Sivasspor,summer,in,Hervé Tum,2899,29,Cameroon,Centre-Forward,CF,2000000.0,RC Strasbourg Alsace,France,,0
+2008,Super Lig,Sivasspor,summer,in,Faruk Bayar,7175,26,Türkiye,Left Midfield,LM,1000000.0,Kasimpasa,Türkiye,,0
+2008,Super Lig,Sivasspor,summer,in,Tayfur Emre Yılmaz,58652,19,Türkiye,Centre-Forward,CF,150000.0,Without Club,,,0
+2008,Super Lig,Sivasspor,winter,in,Yannick Kamanan,5628,27,France,Centre-Forward,CF,200000.0,Maccabi Tel Aviv,Israel,100000.0,0
+2008,Super Lig,Sivasspor,winter,in,Tevfik Altındağ,51660,20,Türkiye,Central Midfield,CM,100000.0,MKE Ankaragücü,Türkiye,,0
+2008,Super Lig,Sivasspor,winter,in,Murat Erdoğan,7194,32,Türkiye,Central Midfield,CM,1200000.0,MKE Ankaragücü,Türkiye,,0
+2008,Super Lig,Sivasspor,winter,in,Cemal Sahin,671920,20,Türkiye,Goalkeeper,GK,,Keciörengücü,Türkiye,,0
+2008,Super Lig,Sivasspor,summer,out,Gökhan Bozkaya,33552,27,Germany,Centre-Forward,CF,700000.0,Malatyaspor,Türkiye,0.0,0
+2008,Super Lig,Sivasspor,summer,out,Burhan Akgül,52259,26,Türkiye,Left Winger,LW,500000.0,Adanaspor,Türkiye,0.0,0
+2008,Super Lig,Sivasspor,summer,out,Yasin Karaca,7276,24,Türkiye,Left Midfield,LM,50000.0,AFC Tubize,Belgium,0.0,0
+2008,Super Lig,Sivasspor,summer,out,Ivan Tsvetkov,7302,28,Bulgaria,Centre-Forward,CF,1600000.0,Khazar Lankaran (- 2016),Azerbaijan,0.0,0
+2008,Super Lig,Sivasspor,summer,out,Devran Ayhan,7191,30,Türkiye,Central Midfield,CM,1800000.0,Khazar Lankaran (- 2016),Azerbaijan,0.0,0
+2008,Super Lig,Sivasspor,summer,out,Mahmut Hanefi Erdoğdu,8235,25,Türkiye,Left-Back,LB,600000.0,Diyarbakirspor,Türkiye,0.0,0
+2008,Super Lig,Sivasspor,summer,out,Bekir Sevgi,169874,19,Türkiye,Goalkeeper,GK,,Etimesgut Sekerspor,Türkiye,0.0,0
+2008,Super Lig,Sivasspor,summer,out,Alim Emiroğlu,185920,24,Türkiye,Right Midfield,RM,,Gaziosmanpasa,Türkiye,0.0,0
+2008,Super Lig,Sivasspor,summer,out,Yasir Elmacı,34165,26,Türkiye,Defensive Midfield,DM,1500000.0,Genclerbirligi Ankara,Türkiye,0.0,0
+2008,Super Lig,Sivasspor,summer,out,Ahmet Solak,78252,20,Türkiye,Right-Back,RB,50000.0,Tokatspor,Türkiye,0.0,1
+2008,Super Lig,Sivasspor,summer,out,Ömer Kaplan,35270,23,Türkiye,Centre-Forward,CF,500000.0,Belediye Vanspor,Türkiye,0.0,1
+2008,Super Lig,Sivasspor,summer,out,Aytaç Ak,44994,23,Türkiye,Centre-Back,CB,600000.0,Diyarbakirspor,Türkiye,0.0,1
+2008,Super Lig,Sivasspor,summer,out,Robert Akaruye,116883,27,Nigeria,Striker,Striker,,Busaiteen Club,Bahrain,,0
+2008,Super Lig,Sivasspor,summer,out,Metekan Yılmaz,179456,23,Türkiye,Centre-Back,CB,,Mardinspor,Türkiye,,0
+2008,Super Lig,Sivasspor,summer,out,İlhan Ummak,33567,29,Türkiye,Left Midfield,LM,1000000.0,Caykur Rizespor,Türkiye,,0
+2008,Super Lig,Sivasspor,summer,out,Emre Efe,51787,25,Türkiye,Midfielder,Midfielder,250000.0,Adana Demirspor,Türkiye,0.0,1
+2008,Super Lig,Sivasspor,summer,out,Ilqar Qurbanov,43946,22,Azerbaijan,Right-Back,RB,850000.0,Boluspor,Türkiye,0.0,1
+2008,Super Lig,Sivasspor,summer,out,Evren Otyakmaz,37213,25,Türkiye,Left-Back,LB,50000.0,Tokatspor,Türkiye,0.0,1
+2008,Super Lig,Sivasspor,summer,out,Uğur Yıldırım,17323,26,Netherlands,Right Winger,RW,2500000.0,Without Club,,,0
+2008,Super Lig,Sivasspor,summer,out,Erhan Karahan,66583,21,Australia,Left-Back,LB,,Without Club,,,0
+2008,Super Lig,Sivasspor,summer,out,Fatih Tutar,58914,24,Türkiye,Centre-Forward,CF,50000.0,Without Club,,,0
+2008,Super Lig,Sivasspor,summer,out,Burak Yuvacı,58168,20,Türkiye,Centre-Back,CB,100000.0,Without Club,,,0
+2008,Super Lig,Sivasspor,summer,out,Karim Saïdi,17930,25,Tunisia,Centre-Back,CB,1600000.0,Feyenoord Rotterdam,Netherlands,0.0,1
+2008,Super Lig,Sivasspor,summer,out,Simon Colosimo,29581,28,Australia,Centre-Back,CB,1250000.0,Perth Glory,Australia,0.0,1
+2008,Super Lig,Sivasspor,winter,out,Ugur Bademci,87103,19,Türkiye,Centre-Forward,CF,,Anadolu Üsküdar 1908 Spor,Türkiye,0.0,0
+2008,Super Lig,Sivasspor,winter,out,Eyüp Kadri Ataoğlu,52482,22,Türkiye,Left-Back,LB,200000.0,Giresunspor,Türkiye,0.0,1
+2008,Super Lig,Sivasspor,winter,out,Murat Yılmaz,77365,22,Türkiye,Left Winger,LW,50000.0,Konya Sekerspor,Türkiye,0.0,1
+2008,Super Lig,Sivasspor,winter,out,Tayfur Emre Yılmaz,58652,19,Türkiye,Centre-Forward,CF,100000.0,Göztepe,Türkiye,0.0,1
+2008,Super Lig,Sivasspor,winter,out,Ömer Kaplan,35270,24,Türkiye,Centre-Forward,CF,300000.0,Turgutluspor,Türkiye,0.0,1
+2008,Super Lig,Sivasspor,winter,out,Ferhat Yayla,25478,21,Türkiye,Left-Back,LB,50000.0,Konya Sekerspor,Türkiye,0.0,1
+2008,Super Lig,Sivasspor,winter,out,İzzet Affetmez,858943,20,Türkiye,Defender,Defender,,Anadolu Üsküdar 1908 Spor,Türkiye,,0
+2008,Super Lig,Sivasspor,winter,out,Orhan Aydoğdu,66576,21,Türkiye,Striker,Striker,50000.0,Retired,,,0
+2008,Super Lig,Trabzonspor,summer,in,Gökhan Ünal,7394,25,Türkiye,Centre-Forward,CF,4200000.0,Kayserispor,Türkiye,6200000.0,0
+2008,Super Lig,Trabzonspor,summer,in,Gustavo Colman,40500,23,Argentina,Central Midfield,CM,1000000.0,Germinal Beerschot Antwerpen,Belgium,2500000.0,0
+2008,Super Lig,Trabzonspor,summer,in,Hrvoje Cale,24609,23,Croatia,Left-Back,LB,1300000.0,GNK Dinamo Zagreb,Croatia,2200000.0,0
+2008,Super Lig,Trabzonspor,summer,in,Selçuk İnan,35026,23,Türkiye,Central Midfield,CM,3200000.0,Manisaspor,Türkiye,2000000.0,0
+2008,Super Lig,Trabzonspor,summer,in,Giray Kaçar,55839,23,Türkiye,Centre-Back,CB,2000000.0,Hacettepe Spor,Türkiye,1700000.0,0
+2008,Super Lig,Trabzonspor,summer,in,Ceyhun Gülselam,37216,20,Türkiye,Defensive Midfield,DM,1000000.0,SpVgg Unterhaching,Germany,1000000.0,0
+2008,Super Lig,Trabzonspor,summer,in,Tony Sylva,5282,33,Senegal,Goalkeeper,GK,4000000.0,LOSC Lille,France,600000.0,0
+2008,Super Lig,Trabzonspor,summer,in,Buğra Erdoğan,74993,23,Türkiye,Right Winger,RW,50000.0,Dardanelspor,Türkiye,326000.0,0
+2008,Super Lig,Trabzonspor,summer,in,İsmail Özeren,75021,23,Türkiye,Left-Back,LB,50000.0,Dardanelspor,Türkiye,326000.0,0
+2008,Super Lig,Trabzonspor,summer,in,Yakup Bugun,75306,20,Türkiye,Goalkeeper,GK,50000.0,Altinordu FK,Türkiye,262000.0,0
+2008,Super Lig,Trabzonspor,summer,in,Eren Görür,76275,21,Türkiye,Centre-Forward,CF,50000.0,Pazarspor,Türkiye,105000.0,0
+2008,Super Lig,Trabzonspor,summer,in,Sami Büyüktopaç,74987,20,Türkiye,Left-Back,LB,50000.0,NEC Nijmegen U21,Netherlands,100000.0,0
+2008,Super Lig,Trabzonspor,summer,in,Christian Brüls,38978,19,Belgium,Attacking Midfield,AM,100000.0,KAS Eupen,Belgium,50000.0,0
+2008,Super Lig,Trabzonspor,summer,in,Mustafa Yumlu,76176,20,Türkiye,Centre-Back,CB,50000.0,Arsinspor,Türkiye,0.0,0
+2008,Super Lig,Trabzonspor,summer,in,Isaac Promise,33789,20,Nigeria,Right Winger,RW,2200000.0,Genclerbirligi Ankara,Türkiye,0.0,0
+2008,Super Lig,Trabzonspor,summer,in,Egemen Korkmaz,7319,25,Türkiye,Centre-Back,CB,2800000.0,Bursaspor,Türkiye,0.0,0
+2008,Super Lig,Trabzonspor,summer,in,Rigobert Song,1419,32,Cameroon,Centre-Back,CB,6500000.0,Galatasaray,Türkiye,0.0,0
+2008,Super Lig,Trabzonspor,summer,in,Damir Ibric,35025,24,Bosnia-Herzegovina,Centre-Forward,CF,50000.0,Eyüpspor,Türkiye,,0
+2008,Super Lig,Trabzonspor,summer,in,Selçuk Yıldırım,76175,22,Türkiye,Defensive Midfield,DM,50000.0,Arsinspor,Türkiye,,0
+2008,Super Lig,Trabzonspor,summer,in,Abdulaziz Solmaz,53570,19,Türkiye,Left Winger,LW,50000.0,Pazarspor,Türkiye,,0
+2008,Super Lig,Trabzonspor,summer,in,Zafer Aydoğdu,76171,25,Türkiye,Centre-Back,CB,50000.0,Akcaabat Sebatspor,Türkiye,,0
+2008,Super Lig,Trabzonspor,winter,in,Alanzinho,36478,25,Brazil,Attacking Midfield,AM,3500000.0,Stabæk Fotball,Norway,4000000.0,0
+2008,Super Lig,Trabzonspor,winter,in,Faty Papy,81919,18,Burundi,Defensive Midfield,DM,,Inter Star Bujumbura,Burundi,20000.0,0
+2008,Super Lig,Trabzonspor,summer,out,Sayed Moawad,66352,29,Egypt,Left Midfield,LM,400000.0,Al Ahly FC,Egypt,750000.0,0
+2008,Super Lig,Trabzonspor,summer,out,Ayman Abdelaziz,6963,29,Egypt,Defensive Midfield,DM,2100000.0,Zamalek SC,Egypt,500000.0,0
+2008,Super Lig,Trabzonspor,summer,out,Zafer Aydoğdu,76171,25,Türkiye,Centre-Back,CB,50000.0,Mardinspor,Türkiye,0.0,0
+2008,Super Lig,Trabzonspor,summer,out,Eyüp Kadri Ataoğlu,52482,21,Türkiye,Left-Back,LB,50000.0,Sivasspor,Türkiye,0.0,0
+2008,Super Lig,Trabzonspor,summer,out,Ufukhan Bayraktar,22951,22,Türkiye,Centre-Back,CB,400000.0,Manisaspor,Türkiye,0.0,0
+2008,Super Lig,Trabzonspor,summer,out,Feridun Sungur,7270,24,Türkiye,Right-Back,RB,500000.0,Denizlispor,Türkiye,0.0,0
+2008,Super Lig,Trabzonspor,summer,out,Enis Kahraman,42575,20,Türkiye,Defensive Midfield,DM,100000.0,Genclerbirligi Ankara,Türkiye,0.0,0
+2008,Super Lig,Trabzonspor,summer,out,Yusuf Kurtuluş,52487,21,Türkiye,Central Midfield,CM,900000.0,Denizlispor,Türkiye,0.0,0
+2008,Super Lig,Trabzonspor,summer,out,Çağdaş Atan,10152,28,Türkiye,Centre-Back,CB,1600000.0,FC Energie Cottbus,Germany,0.0,0
+2008,Super Lig,Trabzonspor,summer,out,Mustafa Keçeli,7072,29,Türkiye,Left-Back,LB,1000000.0,Bursaspor,Türkiye,0.0,0
+2008,Super Lig,Trabzonspor,summer,out,Jefferson,32561,25,Brazil,Goalkeeper,GK,1000000.0,Konyaspor,Türkiye,0.0,0
+2008,Super Lig,Trabzonspor,summer,out,Musa Büyük,10138,28,Türkiye,Right-Back,RB,1200000.0,Kocaelispor,Türkiye,0.0,0
+2008,Super Lig,Trabzonspor,summer,out,Ömer Riza,10150,28,England,Second Striker,SS,800000.0,Shrewsbury Town,England,0.0,0
+2008,Super Lig,Trabzonspor,summer,out,Kadir Keleş,53555,20,Türkiye,Left-Back,LB,50000.0,Gaziantep Büyüksehir Belediyespor,Türkiye,0.0,1
+2008,Super Lig,Trabzonspor,summer,out,Damir Ibric,35025,24,Bosnia-Herzegovina,Centre-Forward,CF,50000.0,Araklispor,Türkiye,0.0,1
+2008,Super Lig,Trabzonspor,summer,out,Selçuk Yıldırım,76175,22,Türkiye,Defensive Midfield,DM,50000.0,Trabzon Karadenizspor,Türkiye,0.0,1
+2008,Super Lig,Trabzonspor,summer,out,Mustafa Yumlu,76176,20,Türkiye,Centre-Back,CB,50000.0,Trabzon Karadenizspor,Türkiye,0.0,1
+2008,Super Lig,Trabzonspor,summer,out,Eren Görür,76275,21,Türkiye,Centre-Forward,CF,50000.0,Trabzon Karadenizspor,Türkiye,0.0,1
+2008,Super Lig,Trabzonspor,summer,out,İsmail Özeren,75021,23,Türkiye,Left-Back,LB,50000.0,Trabzon Karadenizspor,Türkiye,0.0,1
+2008,Super Lig,Trabzonspor,summer,out,Zeki Ayvaz,93085,18,Türkiye,Goalkeeper,GK,,Trabzon Karadenizspor,Türkiye,0.0,1
+2008,Super Lig,Trabzonspor,summer,out,Cem Demir,40620,23,Türkiye,Centre-Forward,CF,300000.0,Adana Demirspor,Türkiye,0.0,1
+2008,Super Lig,Trabzonspor,summer,out,Yakup Bugun,75306,20,Türkiye,Goalkeeper,GK,50000.0,Trabzon Karadenizspor,Türkiye,0.0,1
+2008,Super Lig,Trabzonspor,summer,out,Christian Brüls,38978,19,Belgium,Attacking Midfield,AM,100000.0,MVV Maastricht,Netherlands,0.0,1
+2008,Super Lig,Trabzonspor,summer,out,Sami Büyüktopaç,74987,20,Türkiye,Left-Back,LB,50000.0,Trabzon Karadenizspor,Türkiye,0.0,1
+2008,Super Lig,Trabzonspor,summer,out,Ahmet Şahin,7215,30,Türkiye,Goalkeeper,GK,300000.0,Adanaspor,Türkiye,,0
+2008,Super Lig,Trabzonspor,summer,out,Murat Ocak,41339,26,Türkiye,Left-Back,LB,850000.0,Caykur Rizespor,Türkiye,,0
+2008,Super Lig,Trabzonspor,summer,out,Tomas Jun,9692,25,Czech Republic,Second Striker,SS,1000000.0,FK Teplice,Czech Republic,,0
+2008,Super Lig,Trabzonspor,summer,out,Daouda Jabi,5478,27,Guinea,Right-Back,RB,1000000.0,Without Club,,,0
+2008,Super Lig,Trabzonspor,summer,out,Tolgahan Kilit,16548,20,Germany,Central Midfield,CM,250000.0,Without Club,,,0
+2008,Super Lig,Trabzonspor,summer,out,Tolga Seyhan,6966,31,Türkiye,Centre-Back,CB,1500000.0,Shakhtar Donetsk,Ukraine,0.0,1
+2008,Super Lig,Trabzonspor,winter,out,Hasan Üçüncü,6910,28,Türkiye,Defensive Midfield,DM,600000.0,MKE Ankaragücü,Türkiye,0.0,0
+2008,Super Lig,Trabzonspor,winter,out,Ufuk Bayraktar,54402,23,Türkiye,Left Winger,LW,250000.0,MKE Ankaragücü,Türkiye,0.0,0
+2008,Super Lig,Trabzonspor,winter,out,Ergin Keleş,35509,22,Türkiye,Centre-Forward,CF,700000.0,Manisaspor,Türkiye,0.0,0
+2008,Super Lig,Trabzonspor,winter,out,Buğra Erdoğan,74993,24,Türkiye,Right Winger,RW,50000.0,Caykur Rizespor,Türkiye,0.0,1
+2008,Super Lig,Trabzonspor,winter,out,Cem Demir,40620,23,Türkiye,Centre-Forward,CF,200000.0,Kartalspor,Türkiye,0.0,1
+2008,Super Lig,Trabzonspor,winter,out,Yakup Bugun,75306,21,Türkiye,Goalkeeper,GK,50000.0,Altinordu FK,Türkiye,0.0,1
+2008,Super Lig,Trabzonspor,winter,out,Abdulaziz Solmaz,53570,20,Türkiye,Left Winger,LW,50000.0,MKE Ankaragücü,Türkiye,,0
+2008,Super Lig,Trabzonspor,winter,out,Adnan Güngör,7052,28,Türkiye,Defensive Midfield,DM,800000.0,Hacettepe Spor,Türkiye,,0
+2008,Super Lig,Trabzonspor,winter,out,Erdinç Yavuz,6912,30,Türkiye,Centre-Back,CB,1600000.0,Without Club,,,0

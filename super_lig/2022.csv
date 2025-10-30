@@ -1,0 +1,991 @@
+season,league,club,window,movement,player_name,player_id,age,nationality,position,pos,market_value,dealing_club,dealing_country,fee,is_loan
+2022,Super Lig,Adana Demirspor,summer,in,Henry Onyekuru,380415,25,Nigeria,Left Winger,LW,5000000.0,Olympiacos Piraeus,Greece,1000000.0,1
+2022,Super Lig,Adana Demirspor,summer,in,Emre Akbaba,278654,29,Türkiye,Attacking Midfield,AM,4000000.0,Galatasaray,Türkiye,500000.0,0
+2022,Super Lig,Adana Demirspor,summer,in,Arda Okan Kurtulan,700031,19,Türkiye,Right Midfield,RM,75000.0,Fenerbahce,Türkiye,200000.0,0
+2022,Super Lig,Adana Demirspor,summer,in,Salih Kavrazlı,633434,20,Türkiye,Left Winger,LW,125000.0,Trabzonspor,Türkiye,0.0,0
+2022,Super Lig,Adana Demirspor,summer,in,Mahamadou Ba,627443,22,Mali,Defensive Midfield,DM,175000.0,Menemen FK,Türkiye,0.0,0
+2022,Super Lig,Adana Demirspor,summer,in,Abdulsamet Burak,349608,26,Türkiye,Centre-Back,CB,,Bayrampasa Spor,Türkiye,0.0,0
+2022,Super Lig,Adana Demirspor,summer,in,Berk Yıldız,212325,26,Türkiye,Left Winger,LW,450000.0,Yeni Malatyaspor,Türkiye,0.0,0
+2022,Super Lig,Adana Demirspor,summer,in,Ali Yavuz Kol,477938,21,Türkiye,Left Winger,LW,350000.0,Galatasaray,Türkiye,0.0,0
+2022,Super Lig,Adana Demirspor,summer,in,Aias Aosman,124673,27,Syria,Attacking Midfield,AM,1000000.0,Ionikos Nikeas,Greece,0.0,0
+2022,Super Lig,Adana Demirspor,summer,in,Badou Ndiaye,211325,31,Senegal,Defensive Midfield,DM,1800000.0,Aris Thessaloniki,Greece,0.0,0
+2022,Super Lig,Adana Demirspor,summer,in,Kévin Rodrigues,206947,28,Portugal,Left-Back,LB,1800000.0,Real Sociedad,Spain,0.0,0
+2022,Super Lig,Adana Demirspor,summer,in,Artem Dzyuba,48067,33,Russia,Centre-Forward,CF,6000000.0,Zenit St. Petersburg,Russia,0.0,0
+2022,Super Lig,Adana Demirspor,summer,in,Ertaç Özbir,159079,32,Türkiye,Goalkeeper,GK,275000.0,Yeni Malatyaspor,Türkiye,0.0,0
+2022,Super Lig,Adana Demirspor,summer,in,Yusuf Sarı,517376,23,Türkiye,Right Winger,RW,1500000.0,Caykur Rizespor,Türkiye,0.0,0
+2022,Super Lig,Adana Demirspor,summer,in,Gökhan Töre,82130,30,Türkiye,Right Winger,RW,300000.0,Besiktas JK,Türkiye,0.0,0
+2022,Super Lig,Adana Demirspor,summer,in,Fredrik Gulbrandsen,110708,29,Norway,Centre-Forward,CF,2200000.0,Basaksehir FK,Türkiye,0.0,0
+2022,Super Lig,Adana Demirspor,summer,in,Abdurrahim Dursun,366194,23,Türkiye,Left-Back,LB,375000.0,Trabzonspor,Türkiye,0.0,0
+2022,Super Lig,Adana Demirspor,summer,in,Giorgi Khabuliani,816491,18,Georgia,Centre-Forward,CF,50000.0,FC Telavi,Georgia,,0
+2022,Super Lig,Adana Demirspor,summer,in,Samuel Nongoh,718123,18,Cameroon,Right Winger,RW,,Dauphine Academy Sport Center,Cameroon,,0
+2022,Super Lig,Adana Demirspor,summer,in,Jovan Manev,585102,21,North Macedonia,Centre-Back,CB,300000.0,Bregalnica Stip,North Macedonia,0.0,1
+2022,Super Lig,Adana Demirspor,summer,in,Goran Karacic,243679,25,Bosnia-Herzegovina,Goalkeeper,GK,300000.0,Without Club,,,0
+2022,Super Lig,Adana Demirspor,summer,in,Yaroslav Rakitskyi,89222,32,Ukraine,Centre-Back,CB,6000000.0,Without Club,,,0
+2022,Super Lig,Adana Demirspor,winter,in,Yusuf Erdoğan,191391,30,Türkiye,Left Winger,LW,1000000.0,Trabzonspor,Türkiye,100000.0,0
+2022,Super Lig,Adana Demirspor,winter,in,Mert Çetin,391498,26,Türkiye,Centre-Back,CB,1500000.0,Hellas Verona,Italy,50000.0,1
+2022,Super Lig,Adana Demirspor,winter,in,Cherif Ndiaye,480705,27,Senegal,Centre-Forward,CF,1500000.0,Shanghai Port,China,0.0,1
+2022,Super Lig,Adana Demirspor,winter,in,Kévin Soni,353959,24,Cameroon,Centre-Forward,CF,700000.0,Asteras Tripolis,Greece,0.0,1
+2022,Super Lig,Adana Demirspor,winter,in,Jorge Morel,401729,25,Paraguay,Defensive Midfield,DM,3200000.0,Club Guaraní,Paraguay,0.0,1
+2022,Super Lig,Adana Demirspor,winter,in,Furkan Soyalp,221285,27,Türkiye,Central Midfield,CM,1000000.0,Gaziantep FK,Türkiye,0.0,1
+2022,Super Lig,Adana Demirspor,summer,out,Mario Balotelli,45146,32,Italy,Centre-Forward,CF,2800000.0,FC Sion,Switzerland,2620000.0,0
+2022,Super Lig,Adana Demirspor,summer,out,Tayyip Talha Sanuç,462772,22,Türkiye,Centre-Back,CB,2800000.0,Besiktas JK,Türkiye,1500000.0,0
+2022,Super Lig,Adana Demirspor,summer,out,Aias Aosman,124673,27,Syria,Attacking Midfield,AM,1000000.0,Ionikos Nikeas,Greece,0.0,0
+2022,Super Lig,Adana Demirspor,summer,out,Tayfun Aydoğan,275681,26,Türkiye,Central Midfield,CM,325000.0,Kocaelispor,Türkiye,0.0,0
+2022,Super Lig,Adana Demirspor,summer,out,Enock Barwuah,251432,29,Italy,Centre-Forward,CF,50000.0,CPR Ospitaletto,Italy,0.0,0
+2022,Super Lig,Adana Demirspor,summer,out,Mustafa Yılmaz,528280,23,Türkiye,Right Winger,RW,100000.0,Igdir FK,Türkiye,0.0,0
+2022,Super Lig,Adana Demirspor,summer,out,Erkam Develi,554868,22,Türkiye,Defensive Midfield,DM,100000.0,Sanliurfaspor,Türkiye,0.0,0
+2022,Super Lig,Adana Demirspor,summer,out,İsa Güler,562286,23,Türkiye,Centre-Forward,CF,25000.0,Sapanca Genclikspor,Türkiye,0.0,0
+2022,Super Lig,Adana Demirspor,summer,out,Sedat Şahintürk,388210,26,Türkiye,Left Winger,LW,475000.0,Bandirmaspor,Türkiye,0.0,1
+2022,Super Lig,Adana Demirspor,summer,out,Ali Yavuz Kol,477938,21,Türkiye,Left Winger,LW,350000.0,24 Erzincanspor,Türkiye,0.0,1
+2022,Super Lig,Adana Demirspor,summer,out,Bünyamin Balat,312374,25,Türkiye,Attacking Midfield,AM,100000.0,Sanliurfaspor,Türkiye,0.0,1
+2022,Super Lig,Adana Demirspor,summer,out,Abdulsamet Burak,349608,26,Türkiye,Centre-Back,CB,,Sanliurfaspor,Türkiye,0.0,1
+2022,Super Lig,Adana Demirspor,summer,out,Musa Bulut,632361,21,Türkiye,Centre-Forward,CF,25000.0,Bayrampasa Spor,Türkiye,0.0,1
+2022,Super Lig,Adana Demirspor,summer,out,İzzet Çelik,811841,18,Türkiye,Central Midfield,CM,100000.0,Bayrampasa Spor,Türkiye,0.0,1
+2022,Super Lig,Adana Demirspor,summer,out,Alper Uludağ,55524,31,Türkiye,Left-Back,LB,400000.0,Giresunspor,Türkiye,,0
+2022,Super Lig,Adana Demirspor,summer,out,Francis Ezeh,709830,24,Nigeria,Left Winger,LW,600000.0,Eyüpspor,Türkiye,,0
+2022,Super Lig,Adana Demirspor,summer,out,Sinan Kurt,244285,27,Türkiye,Central Midfield,CM,1500000.0,Eyüpspor,Türkiye,,0
+2022,Super Lig,Adana Demirspor,summer,out,Metehan Mimaroğlu,294100,28,Türkiye,Left Winger,LW,525000.0,Eyüpspor,Türkiye,,0
+2022,Super Lig,Adana Demirspor,summer,out,Khadim Rassoul,364567,26,Senegal,Centre-Back,CB,1100000.0,Eyüpspor,Türkiye,,0
+2022,Super Lig,Adana Demirspor,summer,out,Yusufcan Demirok,651534,21,Türkiye,Goalkeeper,GK,25000.0,Without Club,,,0
+2022,Super Lig,Adana Demirspor,summer,out,Loïc Rémy,45121,35,France,Centre-Forward,CF,150000.0,Without Club,,,0
+2022,Super Lig,Adana Demirspor,summer,out,Matías Vargas,376211,25,Argentina,Left Winger,LW,6000000.0,RCD Espanyol Barcelona,Spain,0.0,1
+2022,Super Lig,Adana Demirspor,summer,out,Yunus Akgün,396908,21,Türkiye,Right Winger,RW,7500000.0,Galatasaray,Türkiye,0.0,1
+2022,Super Lig,Adana Demirspor,summer,out,Damjan Djokovic,143039,32,Croatia,Central Midfield,CM,500000.0,Caykur Rizespor,Türkiye,0.0,1
+2022,Super Lig,Adana Demirspor,summer,out,Arijanet Murić,371021,23,Kosovo,Goalkeeper,GK,2600000.0,Manchester City,England,0.0,1
+2022,Super Lig,Adana Demirspor,winter,out,Samet Akaydin,295024,28,Türkiye,Centre-Back,CB,2500000.0,Fenerbahce,Türkiye,3700000.0,0
+2022,Super Lig,Adana Demirspor,winter,out,Britt Assombalonga,186172,30,DR Congo,Centre-Forward,CF,3000000.0,Watford FC,England,0.0,0
+2022,Super Lig,Adana Demirspor,winter,out,Birkir Bjarnason,34453,34,Iceland,Central Midfield,CM,500000.0,Viking FK,Norway,0.0,0
+2022,Super Lig,Adana Demirspor,winter,out,Gökhan Töre,82130,31,Türkiye,Right Winger,RW,250000.0,MKE Ankaragücü,Türkiye,0.0,0
+2022,Super Lig,Adana Demirspor,winter,out,Musa Bulut,632361,22,Türkiye,Centre-Forward,CF,25000.0,Siirt Il Özel Idaresi Spor,Türkiye,0.0,0
+2022,Super Lig,Adana Demirspor,winter,out,Berk Yıldız,212325,27,Türkiye,Left Winger,LW,400000.0,Boluspor,Türkiye,0.0,0
+2022,Super Lig,Adana Demirspor,winter,out,Yaroslav Rakitskyi,89222,33,Ukraine,Centre-Back,CB,3000000.0,Shakhtar Donetsk,Ukraine,0.0,0
+2022,Super Lig,Adana Demirspor,winter,out,Arda Okan Kurtulan,700031,20,Türkiye,Right Midfield,RM,250000.0,Karacabey Belediye Spor,Türkiye,0.0,1
+2022,Super Lig,Adana Demirspor,winter,out,Simon Deli,234124,31,Cote d'Ivoire,Centre-Back,CB,1000000.0,Istanbulspor,Türkiye,0.0,1
+2022,Super Lig,Adana Demirspor,winter,out,Mahamadou Ba,627443,23,Mali,Defensive Midfield,DM,175000.0,Istanbulspor,Türkiye,0.0,1
+2022,Super Lig,Adana Demirspor,winter,out,Artem Dzyuba,48067,34,Russia,Centre-Forward,CF,4000000.0,Without Club,,,0
+2022,Super Lig,Adana Demirspor,winter,out,Giorgi Khabuliani,816491,18,Georgia,Centre-Forward,CF,125000.0,Without Club,,,0
+2022,Super Lig,Adana Demirspor,winter,out,Erhun Öztümer,326843,31,Türkiye,Attacking Midfield,AM,300000.0,Without Club,,,0
+2022,Super Lig,Alanyaspor,summer,in,Yunus Bahadır,505969,19,Türkiye,Right-Back,RB,250000.0,PSV Eindhoven U21,Netherlands,0.0,0
+2022,Super Lig,Alanyaspor,summer,in,Arnaud Lusamba,272631,25,DR Congo,Central Midfield,CM,1800000.0,Amiens SC,France,0.0,0
+2022,Super Lig,Alanyaspor,summer,in,Jure Balkovec,181410,27,Slovenia,Left-Back,LB,2300000.0,Fatih Karagümrük,Türkiye,0.0,0
+2022,Super Lig,Alanyaspor,summer,in,Zinedine Ferhat,232895,29,Algeria,Right Winger,RW,3500000.0,Nîmes Olympique,France,0.0,0
+2022,Super Lig,Alanyaspor,summer,in,Mert Yusuf Torlak,658293,20,Türkiye,Attacking Midfield,AM,100000.0,SpVgg Greuther Fürth II,Germany,0.0,0
+2022,Super Lig,Alanyaspor,summer,in,Cem Çelik,719871,20,Türkiye,Defensive Midfield,DM,300000.0,Menemen FK,Türkiye,,0
+2022,Super Lig,Alanyaspor,summer,in,Oussama Targhalline,667965,20,Morocco,Defensive Midfield,DM,200000.0,Olympique Marseille,France,0.0,1
+2022,Super Lig,Alanyaspor,summer,in,Khadim Rassoul,364567,26,Senegal,Centre-Back,CB,1100000.0,Eyüpspor,Türkiye,0.0,1
+2022,Super Lig,Alanyaspor,summer,in,Ahmed Hassan,184816,29,Egypt,Centre-Forward,CF,3000000.0,Olympiacos Piraeus,Greece,0.0,1
+2022,Super Lig,Alanyaspor,summer,in,Ivan Cavaleiro,149716,28,Angola,Left Winger,LW,3000000.0,Fulham FC,England,0.0,1
+2022,Super Lig,Alanyaspor,summer,in,Pedro Pereira,314965,24,Portugal,Right-Back,RB,2300000.0,AC Monza,Italy,0.0,1
+2022,Super Lig,Alanyaspor,summer,in,Rúnar Alex Rúnarsson,205657,27,Iceland,Goalkeeper,GK,1200000.0,Arsenal FC,England,0.0,1
+2022,Super Lig,Alanyaspor,summer,in,Idrissa Doumbia,430579,24,Cote d'Ivoire,Defensive Midfield,DM,1700000.0,Sporting CP,Portugal,0.0,1
+2022,Super Lig,Alanyaspor,winter,in,Zouhair Feddal,129386,33,Morocco,Centre-Back,CB,1800000.0,Real Valladolid CF,Spain,0.0,0
+2022,Super Lig,Alanyaspor,winter,in,Yavuz Aygün,299839,26,Türkiye,Goalkeeper,GK,25000.0,Isparta 32 Spor,Türkiye,,0
+2022,Super Lig,Alanyaspor,winter,in,Efthymios Koulouris,242638,26,Greece,Centre-Forward,CF,1000000.0,LASK,Austria,0.0,1
+2022,Super Lig,Alanyaspor,summer,out,Erdinç Mergen,615355,22,Türkiye,Centre-Forward,CF,,Belediye Bolvadin Termal Spor,Türkiye,0.0,0
+2022,Super Lig,Alanyaspor,summer,out,Edis Çelik,616459,23,Türkiye,Right-Back,RB,,Gaziantepgücü Spor,Türkiye,0.0,0
+2022,Super Lig,Alanyaspor,summer,out,Miha Mevlja,100160,32,Slovenia,Centre-Back,CB,1000000.0,Spartak Moscow,Russia,0.0,0
+2022,Super Lig,Alanyaspor,summer,out,Juanfran Moreno,64411,33,Spain,Right-Back,RB,700000.0,Málaga CF,Spain,0.0,0
+2022,Super Lig,Alanyaspor,summer,out,Serkan Kırıntılı,16058,37,Türkiye,Goalkeeper,GK,100000.0,Ümraniyespor,Türkiye,0.0,0
+2022,Super Lig,Alanyaspor,summer,out,Kerem Hayta,668013,21,Türkiye,Centre-Back,CB,,Viven Bornova FK,Türkiye,0.0,0
+2022,Super Lig,Alanyaspor,summer,out,Nemanja Milunovic,70412,33,Serbia,Centre-Back,CB,900000.0,Red Star Belgrade,Serbia,0.0,0
+2022,Super Lig,Alanyaspor,summer,out,Veysel Ünal,647120,21,Türkiye,Right Winger,RW,125000.0,Ayvalikgücü Belediyespor,Türkiye,0.0,1
+2022,Super Lig,Alanyaspor,summer,out,Bedirhan Kahraman,729500,19,Türkiye,Defensive Midfield,DM,75000.0,Darica Genclerbirligi,Türkiye,0.0,1
+2022,Super Lig,Alanyaspor,summer,out,Çağrı Güney,655903,19,Türkiye,Goalkeeper,GK,50000.0,Orduspor 1967 SK,Türkiye,0.0,1
+2022,Super Lig,Alanyaspor,summer,out,Eray Güneş,662148,18,Türkiye,Left-Back,LB,,Mus 1984 Musspor,Türkiye,0.0,1
+2022,Super Lig,Alanyaspor,summer,out,Emircan Altıntaş,315753,27,Türkiye,Left Winger,LW,650000.0,Caykur Rizespor,Türkiye,0.0,1
+2022,Super Lig,Alanyaspor,summer,out,Hamza Özdemir,632112,21,Türkiye,Centre-Back,CB,50000.0,Inegölspor,Türkiye,0.0,1
+2022,Super Lig,Alanyaspor,summer,out,Emre Bekir,616460,23,Türkiye,Left-Back,LB,175000.0,Iskenderunspor,Türkiye,0.0,1
+2022,Super Lig,Alanyaspor,summer,out,Emirhan Aydoğan,256772,25,Türkiye,Central Midfield,CM,300000.0,Sakaryaspor,Türkiye,,0
+2022,Super Lig,Alanyaspor,summer,out,Tayfur Bingöl,184440,29,Türkiye,Central Midfield,CM,1800000.0,Besiktas JK,Türkiye,0.0,1
+2022,Super Lig,Alanyaspor,summer,out,Chidozie Awaziem,358143,25,Nigeria,Centre-Back,CB,4000000.0,Boavista FC,Portugal,0.0,1
+2022,Super Lig,Alanyaspor,summer,out,Cristián Borja,356099,29,Colombia,Left-Back,LB,3000000.0,SC Braga,Portugal,0.0,1
+2022,Super Lig,Alanyaspor,summer,out,Emre Akbaba,278654,29,Türkiye,Attacking Midfield,AM,4000000.0,Galatasaray,Türkiye,0.0,1
+2022,Super Lig,Alanyaspor,summer,out,João Novais,228940,28,Portugal,Central Midfield,CM,3000000.0,SC Braga,Portugal,0.0,1
+2022,Super Lig,Alanyaspor,winter,out,Marafona,56005,35,Portugal,Goalkeeper,GK,125000.0,FC Paços de Ferreira,Portugal,0.0,0
+2022,Super Lig,Alanyaspor,winter,out,Emre Bekir,616460,24,Türkiye,Left-Back,LB,100000.0,Fethiyespor,Türkiye,0.0,1
+2022,Super Lig,Alanyaspor,winter,out,İsmail Zehir,595201,19,Türkiye,Central Midfield,CM,150000.0,Batman Petrolspor,Türkiye,0.0,1
+2022,Super Lig,Alanyaspor,winter,out,Ahmed Ildız,226169,26,Türkiye,Central Midfield,CM,550000.0,Pendikspor,Türkiye,0.0,1
+2022,Super Lig,Alanyaspor,winter,out,Alihan Şentürk,699977,20,Türkiye,Central Midfield,CM,25000.0,Nigde Anadolu FK,Türkiye,0.0,1
+2022,Super Lig,Alanyaspor,winter,out,Cem Çelik,719871,20,Türkiye,Defensive Midfield,DM,250000.0,Diyarbekir Spor,Türkiye,0.0,1
+2022,Super Lig,Alanyaspor,winter,out,Cem Çelik,719871,20,Türkiye,Defensive Midfield,DM,250000.0,Bayrampasa Spor,Türkiye,0.0,1
+2022,Super Lig,Alanyaspor,winter,out,Famara Diédhiou,237125,30,Senegal,Centre-Forward,CF,3000000.0,Granada CF,Spain,0.0,1
+2022,Super Lig,Alanyaspor,winter,out,Alihan Şentürk,699977,20,Türkiye,Central Midfield,CM,25000.0,Without Club,,,0
+2022,Super Lig,Alanyaspor,winter,out,Oussama Targhalline,667965,20,Morocco,Defensive Midfield,DM,400000.0,Olympique Marseille,France,0.0,1
+2022,Super Lig,Antalyaspor,summer,in,Haji Wright,315291,24,United States,Centre-Forward,CF,2500000.0,Sönderjyske Fodbold,Denmark,1880000.0,0
+2022,Super Lig,Antalyaspor,summer,in,Soner Aydoğdu,85291,31,Türkiye,Central Midfield,CM,1500000.0,Basaksehir FK,Türkiye,0.0,0
+2022,Super Lig,Antalyaspor,summer,in,Alperen Uysal,137610,28,Türkiye,Goalkeeper,GK,600000.0,Istanbulspor,Türkiye,0.0,0
+2022,Super Lig,Antalyaspor,summer,in,Ömer Toprak,43512,32,Türkiye,Centre-Back,CB,1500000.0,SV Werder Bremen,Germany,0.0,0
+2022,Super Lig,Antalyaspor,summer,in,Shoya Nakajima,188911,28,Japan,Attacking Midfield,AM,3500000.0,FC Porto,Portugal,0.0,0
+2022,Super Lig,Antalyaspor,summer,in,Sam Larsson,159668,29,Sweden,Attacking Midfield,AM,2800000.0,Dalian Professional,China,0.0,0
+2022,Super Lig,Antalyaspor,summer,in,Christian Luyindama,262793,28,DR Congo,Centre-Back,CB,2000000.0,Galatasaray,Türkiye,0.0,1
+2022,Super Lig,Antalyaspor,summer,in,Cemali Sertel,573981,22,Türkiye,Left-Back,LB,1000000.0,Basaksehir FK,Türkiye,0.0,1
+2022,Super Lig,Antalyaspor,winter,in,Erdal Rakip,230746,26,North Macedonia,Central Midfield,CM,1000000.0,Malmö FF,Sweden,0.0,0
+2022,Super Lig,Antalyaspor,winter,in,Helton Leite,175383,32,Brazil,Goalkeeper,GK,2000000.0,SL Benfica,Portugal,0.0,0
+2022,Super Lig,Antalyaspor,winter,in,Doğukan Sinik,370833,23,Türkiye,Left Winger,LW,4000000.0,Hull City,England,0.0,1
+2022,Super Lig,Antalyaspor,winter,in,Emrecan Uzunhan,683828,21,Türkiye,Centre-Back,CB,2000000.0,Besiktas JK,Türkiye,0.0,1
+2022,Super Lig,Antalyaspor,winter,in,Bálint Szabó,520013,22,Hungary,Attacking Midfield,AM,250000.0,Paksi FC,Hungary,0.0,1
+2022,Super Lig,Antalyaspor,winter,in,Bertuğ Yıldırım,672803,20,Türkiye,Centre-Forward,CF,700000.0,Hatayspor,Türkiye,0.0,1
+2022,Super Lig,Antalyaspor,winter,in,Mark Mampassi,712857,19,Russia,Centre-Back,CB,1200000.0,Lokomotiv Moscow,Russia,0.0,1
+2022,Super Lig,Antalyaspor,summer,out,Doğukan Sinik,370833,23,Türkiye,Left Winger,LW,4000000.0,Hull City,England,4000000.0,0
+2022,Super Lig,Antalyaspor,summer,out,Gustavo Blanco Leschuk,181006,30,Argentina,Centre-Forward,CF,800000.0,SD Eibar,Spain,0.0,0
+2022,Super Lig,Antalyaspor,summer,out,Naldo,148666,33,Brazil,Centre-Back,CB,825000.0,Al-Taawoun FC,Saudi Arabia,0.0,0
+2022,Super Lig,Antalyaspor,summer,out,Cengiz Demir,646948,21,Türkiye,Centre-Back,CB,75000.0,Hatayspor,Türkiye,0.0,0
+2022,Super Lig,Antalyaspor,summer,out,Harun Alpsoy,258246,25,Türkiye,Central Midfield,CM,100000.0,Bodrum FK,Türkiye,0.0,0
+2022,Super Lig,Antalyaspor,summer,out,Ersin Zehir,275127,24,Germany,Defensive Midfield,DM,250000.0,Tuzlaspor,Türkiye,0.0,0
+2022,Super Lig,Antalyaspor,summer,out,Mert Çölgeçen,646950,21,Türkiye,Defensive Midfield,DM,25000.0,Kirklarelispor,Türkiye,0.0,0
+2022,Super Lig,Antalyaspor,summer,out,Doğukan Özkan,537611,22,Türkiye,Goalkeeper,GK,50000.0,Sivas Belediye Spor,Türkiye,0.0,1
+2022,Super Lig,Antalyaspor,summer,out,Doğukan Nelik,623491,21,Türkiye,Centre-Back,CB,125000.0,Nazilli Belediyespor,Türkiye,0.0,1
+2022,Super Lig,Antalyaspor,summer,out,Berat Pınar,831948,20,Türkiye,Left-Back,LB,125000.0,Sakaryaspor,Türkiye,0.0,1
+2022,Super Lig,Antalyaspor,summer,out,Efecan Gülerce,700393,20,Türkiye,Left-Back,LB,,Bayburt Özel Idare Spor,Türkiye,0.0,1
+2022,Super Lig,Antalyaspor,summer,out,Mustafa Acar,646949,21,Türkiye,Central Midfield,CM,150000.0,Serik Belediyespor,Türkiye,0.0,1
+2022,Super Lig,Antalyaspor,summer,out,Kaan Mert Nasırcılar,667912,21,Türkiye,Defensive Midfield,DM,50000.0,1922 Konyaspor,Türkiye,,0
+2022,Super Lig,Antalyaspor,summer,out,Diogo Sousa,461895,23,Portugal,Goalkeeper,GK,225000.0,Bodrum FK,Türkiye,0.0,1
+2022,Super Lig,Antalyaspor,summer,out,Deni Milosevic,168163,27,Bosnia-Herzegovina,Attacking Midfield,AM,1000000.0,Sakaryaspor,Türkiye,0.0,1
+2022,Super Lig,Antalyaspor,summer,out,Mert Yılmaz,393217,23,Türkiye,Right-Back,RB,400000.0,Ümraniyespor,Türkiye,0.0,1
+2022,Super Lig,Antalyaspor,summer,out,Bahadır Öztürk,353970,26,Türkiye,Centre-Back,CB,150000.0,Caykur Rizespor,Türkiye,0.0,1
+2022,Super Lig,Antalyaspor,summer,out,Andrea Poli,44834,32,Italy,Central Midfield,CM,650000.0,Without Club,,,0
+2022,Super Lig,Antalyaspor,summer,out,Nuri Şahin,31095,33,Türkiye,Defensive Midfield,DM,,Retired,,,0
+2022,Super Lig,Antalyaspor,summer,out,Christian Luyindama,262793,29,DR Congo,Centre-Back,CB,1200000.0,Galatasaray,Türkiye,0.0,1
+2022,Super Lig,Antalyaspor,summer,out,Haji Wright,315291,24,United States,Centre-Forward,CF,2500000.0,Sönderjyske Fodbold,Denmark,0.0,1
+2022,Super Lig,Antalyaspor,summer,out,Melih Enes Uygun,618154,20,Türkiye,Goalkeeper,GK,50000.0,Bodrum FK,Türkiye,0.0,1
+2022,Super Lig,Antalyaspor,winter,out,Hakan Özmert,17465,37,Türkiye,Central Midfield,CM,100000.0,Bodrum FK,Türkiye,0.0,0
+2022,Super Lig,Antalyaspor,winter,out,Luiz Adriano,48974,35,Brazil,Centre-Forward,CF,425000.0,Sport Club Internacional,Brazil,0.0,0
+2022,Super Lig,Antalyaspor,winter,out,Doğukan Özkan,537611,22,Türkiye,Goalkeeper,GK,25000.0,Pazarspor,Türkiye,0.0,1
+2022,Super Lig,Antalyaspor,winter,out,Efecan Gülerce,700393,20,Türkiye,Left-Back,LB,50000.0,Ergene Velimese Spor,Türkiye,0.0,1
+2022,Super Lig,Antalyaspor,winter,out,Mustafa Acar,646949,21,Türkiye,Central Midfield,CM,75000.0,Kepez Belediyespor,Türkiye,,0
+2022,Super Lig,Antalyaspor,winter,out,Soner Aydoğdu,85291,32,Türkiye,Central Midfield,CM,1100000.0,Samsunspor,Türkiye,,0
+2022,Super Lig,Antalyaspor,winter,out,Gökdeniz Bayrakdar,345105,21,Türkiye,Right Winger,RW,2700000.0,Bodrum FK,Türkiye,0.0,1
+2022,Super Lig,Antalyaspor,winter,out,Erkan Eyibil,405692,21,Türkiye,Attacking Midfield,AM,200000.0,Genclerbirligi Ankara,Türkiye,0.0,1
+2022,Super Lig,Antalyaspor,winter,out,Ruud Boffin,31336,35,Belgium,Goalkeeper,GK,375000.0,Retired,,,0
+2022,Super Lig,Basaksehir FK,summer,in,Léo Duarte,312678,25,Brazil,Centre-Back,CB,2200000.0,AC Milan,Italy,2000000.0,0
+2022,Super Lig,Basaksehir FK,summer,in,Ahmed Touba,325924,24,Algeria,Centre-Back,CB,1000000.0,RKC Waalwijk,Netherlands,2000000.0,0
+2022,Super Lig,Basaksehir FK,summer,in,Mounir Chouiar,355641,23,France,Left Winger,LW,2500000.0,Dijon FCO,France,1500000.0,0
+2022,Super Lig,Basaksehir FK,summer,in,Philippe Keny,662208,23,Senegal,Centre-Forward,CF,1200000.0,Bandirmaspor,Türkiye,1200000.0,0
+2022,Super Lig,Basaksehir FK,summer,in,Alper Karaman,405872,25,Türkiye,Central Midfield,CM,100000.0,Esenler Erokspor,Türkiye,0.0,0
+2022,Super Lig,Basaksehir FK,summer,in,Mesut Özil,35664,33,Germany,Attacking Midfield,AM,1800000.0,Fenerbahce,Türkiye,0.0,0
+2022,Super Lig,Basaksehir FK,summer,in,Lucas Biglia,26721,36,Argentina,Defensive Midfield,DM,700000.0,Fatih Karagümrük,Türkiye,0.0,0
+2022,Super Lig,Basaksehir FK,summer,in,Patryk Szysz,421710,24,Poland,Right Winger,RW,1500000.0,Zaglebie Lubin,Poland,0.0,0
+2022,Super Lig,Basaksehir FK,summer,in,Francis Nzaba,946025,19,Congo,Centre-Back,CB,50000.0,Diables Noirs Brazzaville,Congo,0.0,0
+2022,Super Lig,Basaksehir FK,summer,in,Bertrand Traoré,131996,26,Burkina Faso,Right Winger,RW,16000000.0,Aston Villa,England,0.0,1
+2022,Super Lig,Basaksehir FK,winter,in,Eden Karzev,396640,22,Israel,Defensive Midfield,DM,2000000.0,Maccabi Netanya,Israel,2300000.0,0
+2022,Super Lig,Basaksehir FK,winter,in,João Figueiredo,439343,26,Malaysia,Centre-Forward,CF,3200000.0,Gaziantep FK,Türkiye,650000.0,0
+2022,Super Lig,Basaksehir FK,winter,in,Shaocong Wu,468283,22,China,Centre-Back,CB,425000.0,Guangzhou FC (1954 - 2024),China,0.0,0
+2022,Super Lig,Basaksehir FK,winter,in,Ayberk Kaygısız,811791,18,Türkiye,Right-Back,RB,150000.0,Balikesirspor,Türkiye,,0
+2022,Super Lig,Basaksehir FK,winter,in,Berkay Aydoğmuş,1009300,19,Türkiye,Attacking Midfield,AM,75000.0,Nazilli Belediyespor,Türkiye,,0
+2022,Super Lig,Basaksehir FK,winter,in,Adnan Januzaj,177847,27,Belgium,Right Winger,RW,7000000.0,Sevilla FC,Spain,0.0,1
+2022,Super Lig,Basaksehir FK,winter,in,Caner Erkin,39333,34,Türkiye,Left-Back,LB,650000.0,Without Club,,,0
+2022,Super Lig,Basaksehir FK,winter,in,Edgar Ié,191987,28,Guinea-Bissau,Centre-Back,CB,3500000.0,Without Club,,,0
+2022,Super Lig,Basaksehir FK,summer,out,Enzo Crivelli,291110,27,France,Centre-Forward,CF,1800000.0,Servette FC,Switzerland,0.0,0
+2022,Super Lig,Basaksehir FK,summer,out,Peter Zulj,128105,29,Austria,Central Midfield,CM,1500000.0,Changchun Yatai,China,0.0,0
+2022,Super Lig,Basaksehir FK,summer,out,Ponck,341516,27,Cape Verde,Centre-Back,CB,400000.0,GD Chaves,Portugal,0.0,0
+2022,Super Lig,Basaksehir FK,summer,out,Emre Çolak,77707,31,Türkiye,Attacking Midfield,AM,400000.0,Göztepe,Türkiye,0.0,0
+2022,Super Lig,Basaksehir FK,summer,out,Salim Farsak,605338,24,Türkiye,Defensive Midfield,DM,50000.0,1461 Trabzon FK,Türkiye,0.0,0
+2022,Super Lig,Basaksehir FK,summer,out,Tolga Ciğerci,94199,30,Türkiye,Defensive Midfield,DM,1100000.0,MKE Ankaragücü,Türkiye,0.0,0
+2022,Super Lig,Basaksehir FK,summer,out,Ahmet Kıvanç,340880,24,Türkiye,Goalkeeper,GK,50000.0,Adanaspor,Türkiye,0.0,0
+2022,Super Lig,Basaksehir FK,summer,out,Fredrik Gulbrandsen,110708,29,Norway,Centre-Forward,CF,2200000.0,Adana Demirspor,Türkiye,0.0,0
+2022,Super Lig,Basaksehir FK,summer,out,Soner Aydoğdu,85291,31,Türkiye,Central Midfield,CM,1500000.0,Antalyaspor,Türkiye,0.0,0
+2022,Super Lig,Basaksehir FK,summer,out,Muzaffer Kahrıman,361270,22,Türkiye,Centre-Forward,CF,50000.0,Usak Spor,Türkiye,0.0,0
+2022,Super Lig,Basaksehir FK,summer,out,Emre Kaplan,645932,21,Türkiye,Left-Back,LB,300000.0,Adanaspor,Türkiye,0.0,1
+2022,Super Lig,Basaksehir FK,summer,out,Alper Karaman,405872,25,Türkiye,Central Midfield,CM,100000.0,Esenler Erokspor,Türkiye,0.0,1
+2022,Super Lig,Basaksehir FK,summer,out,Atabey Çiçek,204180,27,Türkiye,Centre-Forward,CF,325000.0,Bandirmaspor,Türkiye,0.0,1
+2022,Super Lig,Basaksehir FK,summer,out,Bedirhan Özyurt,710051,19,Türkiye,Centre-Back,CB,,Pazarspor,Türkiye,0.0,1
+2022,Super Lig,Basaksehir FK,summer,out,Emre Karaal,735861,19,Türkiye,Central Midfield,CM,100000.0,Sariyer,Türkiye,0.0,1
+2022,Super Lig,Basaksehir FK,summer,out,Muhammed Sarıkaya,572132,20,Türkiye,Right-Back,RB,200000.0,Ankara Keciörengücü,Türkiye,0.0,1
+2022,Super Lig,Basaksehir FK,summer,out,Güney Sağır,873448,19,Türkiye,Right Winger,RW,,Cankaya SK,Türkiye,0.0,1
+2022,Super Lig,Basaksehir FK,summer,out,Abdulkadir Çelik,483993,21,Türkiye,Right Winger,RW,50000.0,Kirsehir FSK,Türkiye,,0
+2022,Super Lig,Basaksehir FK,summer,out,Kutay Pekşen,616537,22,Türkiye,Centre-Back,CB,50000.0,Bayrampasa Spor,Türkiye,,0
+2022,Super Lig,Basaksehir FK,summer,out,Mete Demir,282615,24,Türkiye,Right Winger,RW,275000.0,Eyüpspor,Türkiye,,0
+2022,Super Lig,Basaksehir FK,summer,out,Emir Şenocak,702424,20,Türkiye,Attacking Midfield,AM,175000.0,Bandirmaspor,Türkiye,,0
+2022,Super Lig,Basaksehir FK,summer,out,Cemali Sertel,573981,22,Türkiye,Left-Back,LB,1000000.0,Antalyaspor,Türkiye,0.0,1
+2022,Super Lig,Basaksehir FK,summer,out,Nacer Chadli,59631,33,Belgium,Left Winger,LW,2800000.0,KVC Westerlo,Belgium,0.0,1
+2022,Super Lig,Basaksehir FK,summer,out,Ravil Tagir,655893,19,Türkiye,Centre-Back,CB,1600000.0,KVC Westerlo,Belgium,0.0,1
+2022,Super Lig,Basaksehir FK,summer,out,Alya Toure,666933,20,Guinea,Left Winger,LW,50000.0,Sumgayit PFC,Azerbaijan,0.0,1
+2022,Super Lig,Basaksehir FK,summer,out,Léo Duarte,312678,25,Brazil,Centre-Back,CB,2200000.0,AC Milan,Italy,0.0,1
+2022,Super Lig,Basaksehir FK,summer,out,Mahmoud Trezeguet,234189,27,Egypt,Left Winger,LW,10000000.0,Aston Villa,England,0.0,1
+2022,Super Lig,Basaksehir FK,summer,out,Pizzi,64339,32,Portugal,Attacking Midfield,AM,4000000.0,SL Benfica,Portugal,0.0,1
+2022,Super Lig,Basaksehir FK,summer,out,Salih Uçan,170838,28,Türkiye,Central Midfield,CM,3000000.0,Besiktas JK,Türkiye,0.0,1
+2022,Super Lig,Basaksehir FK,winter,out,Youssouf Ndayishimiye,674612,24,Burundi,Centre-Back,CB,7000000.0,OGC Nice,France,11500000.0,0
+2022,Super Lig,Basaksehir FK,winter,out,Hasan Ali Kaldırım,55605,33,Türkiye,Left-Back,LB,400000.0,MKE Ankaragücü,Türkiye,0.0,0
+2022,Super Lig,Basaksehir FK,winter,out,Alexandru Epureanu,45340,36,Moldova,Centre-Back,CB,100000.0,Ümraniyespor,Türkiye,0.0,0
+2022,Super Lig,Basaksehir FK,winter,out,Emre Karaal,735861,19,Türkiye,Central Midfield,CM,75000.0,Büyükcekmece Tepecik Spor,Türkiye,0.0,1
+2022,Super Lig,Basaksehir FK,winter,out,Enes Karakuş,622067,22,Türkiye,Centre-Forward,CF,50000.0,1461 Trabzon FK,Türkiye,0.0,1
+2022,Super Lig,Basaksehir FK,winter,out,Güney Sağır,873448,19,Türkiye,Right Winger,RW,,Somaspor,Türkiye,0.0,1
+2022,Super Lig,Basaksehir FK,winter,out,Sekou Tidiany Bangoura,666929,20,Guinea,Attacking Midfield,AM,125000.0,Genclerbirligi Ankara,Türkiye,0.0,1
+2022,Super Lig,Basaksehir FK,winter,out,Emre Kaplan,645932,22,Türkiye,Left-Back,LB,450000.0,Bandirmaspor,Türkiye,0.0,1
+2022,Super Lig,Basaksehir FK,winter,out,Atabey Çiçek,204180,27,Türkiye,Centre-Forward,CF,300000.0,Bandirmaspor,Türkiye,,0
+2022,Super Lig,Basaksehir FK,winter,out,Okechukwu Azubuike,386126,25,Nigeria,Defensive Midfield,DM,500000.0,Caykur Rizespor,Türkiye,,0
+2022,Super Lig,Basaksehir FK,winter,out,Mounir Chouiar,355641,24,France,Left Winger,LW,4000000.0,Kasimpasa,Türkiye,0.0,1
+2022,Super Lig,Basaksehir FK,winter,out,Júnior Caiçara,112062,33,Brazil,Right-Back,RB,700000.0,Without Club,,,0
+2022,Super Lig,Basaksehir FK,winter,out,Mesut Özil,35664,34,Germany,Attacking Midfield,AM,700000.0,Retired,,,0
+2022,Super Lig,Basaksehir FK,winter,out,Francis Nzaba,946025,20,Congo,Centre-Back,CB,75000.0,Dinamo Tbilisi,Georgia,0.0,1
+2022,Super Lig,Basaksehir FK,winter,out,Bertrand Traoré,131996,27,Burkina Faso,Right Winger,RW,14000000.0,Aston Villa,England,0.0,1
+2022,Super Lig,Besiktas JK,summer,in,Gedson Fernandes,337800,23,Portugal,Central Midfield,CM,6500000.0,SL Benfica,Portugal,16000000.0,0
+2022,Super Lig,Besiktas JK,summer,in,Valentin Rosier,441170,25,France,Right-Back,RB,6000000.0,Sporting CP,Portugal,4800000.0,0
+2022,Super Lig,Besiktas JK,summer,in,Jackson Muleka,549966,22,DR Congo,Centre-Forward,CF,5000000.0,Standard Liège,Belgium,3350000.0,0
+2022,Super Lig,Besiktas JK,summer,in,Emrecan Uzunhan,683828,21,Türkiye,Centre-Back,CB,525000.0,Istanbulspor,Türkiye,2000000.0,0
+2022,Super Lig,Besiktas JK,summer,in,Tayyip Talha Sanuç,462772,22,Türkiye,Centre-Back,CB,2800000.0,Adana Demirspor,Türkiye,1500000.0,0
+2022,Super Lig,Besiktas JK,summer,in,Kerem Atakan Kesgin,361264,21,Türkiye,Central Midfield,CM,1000000.0,Sivasspor,Türkiye,1400000.0,0
+2022,Super Lig,Besiktas JK,summer,in,Nathan Redmond,129078,28,England,Right Winger,RW,18000000.0,Southampton FC,England,0.0,0
+2022,Super Lig,Besiktas JK,summer,in,Cenk Tosun,45671,31,Türkiye,Centre-Forward,CF,2000000.0,Everton FC,England,0.0,0
+2022,Super Lig,Besiktas JK,summer,in,Romain Saïss,204198,32,Morocco,Centre-Back,CB,8000000.0,Wolverhampton Wanderers,England,0.0,0
+2022,Super Lig,Besiktas JK,summer,in,Dele Alli,207929,26,England,Attacking Midfield,AM,16000000.0,Everton FC,England,0.0,1
+2022,Super Lig,Besiktas JK,summer,in,Wout Weghorst,228645,29,Netherlands,Centre-Forward,CF,14000000.0,Burnley FC,England,0.0,1
+2022,Super Lig,Besiktas JK,summer,in,Tayfur Bingöl,184440,29,Türkiye,Central Midfield,CM,1800000.0,Alanyaspor,Türkiye,0.0,1
+2022,Super Lig,Besiktas JK,summer,in,Arthur Masuaku,181380,28,DR Congo,Left-Back,LB,5000000.0,West Ham United,England,0.0,1
+2022,Super Lig,Besiktas JK,winter,in,Amir Hadziahmetovic,293213,25,Bosnia-Herzegovina,Defensive Midfield,DM,6000000.0,Konyaspor,Türkiye,3200000.0,0
+2022,Super Lig,Besiktas JK,winter,in,Omar Colley,174733,30,The Gambia,Centre-Back,CB,3500000.0,UC Sampdoria,Italy,2300000.0,0
+2022,Super Lig,Besiktas JK,winter,in,Onur Bulut,152733,28,Türkiye,Right-Back,RB,3000000.0,Kayserispor,Türkiye,1000000.0,0
+2022,Super Lig,Besiktas JK,winter,in,Vincent Aboubakar,147487,30,Cameroon,Centre-Forward,CF,5000000.0,Al-Nassr FC,Saudi Arabia,0.0,0
+2022,Super Lig,Besiktas JK,winter,in,Alexandru Maxim,129513,32,Romania,Attacking Midfield,AM,3500000.0,Gaziantep FK,Türkiye,0.0,1
+2022,Super Lig,Besiktas JK,summer,out,Emirhan İlkhan,743091,18,Türkiye,Central Midfield,CM,3000000.0,Torino FC,Italy,4900000.0,0
+2022,Super Lig,Besiktas JK,summer,out,Rıdvan Yılmaz,477930,21,Türkiye,Left-Back,LB,6500000.0,Rangers FC,Scotland,4000000.0,0
+2022,Super Lig,Besiktas JK,summer,out,Serdar Saatçı,655899,19,Türkiye,Centre-Back,CB,1600000.0,SC Braga,Portugal,2000000.0,0
+2022,Super Lig,Besiktas JK,summer,out,Domagoj Vida,46083,33,Croatia,Centre-Back,CB,1900000.0,AEK Athens,Greece,0.0,0
+2022,Super Lig,Besiktas JK,summer,out,Güven Yalçın,341019,23,Türkiye,Centre-Forward,CF,3000000.0,Genoa CFC,Italy,0.0,0
+2022,Super Lig,Besiktas JK,summer,out,İlkay İşler,477934,21,Türkiye,Right Winger,RW,50000.0,Düzcespor,Türkiye,0.0,0
+2022,Super Lig,Besiktas JK,summer,out,Oğuzhan Özyakup,77966,29,Türkiye,Central Midfield,CM,1000000.0,Fortuna Sittard,Netherlands,0.0,0
+2022,Super Lig,Besiktas JK,summer,out,Alpay Çelebi,388188,23,Türkiye,Centre-Back,CB,75000.0,Kocaelispor,Türkiye,0.0,0
+2022,Super Lig,Besiktas JK,summer,out,Alex Teixeira,66515,32,Brazil,Second Striker,SS,2900000.0,Clube de Regatas Vasco da Gama,Brazil,0.0,0
+2022,Super Lig,Besiktas JK,summer,out,Halil Duman,667436,21,Türkiye,Centre-Back,CB,50000.0,Isparta 32 Spor,Türkiye,0.0,0
+2022,Super Lig,Besiktas JK,summer,out,Cyle Larin,343463,27,Canada,Centre-Forward,CF,10000000.0,Club Brugge KV,Belgium,0.0,0
+2022,Super Lig,Besiktas JK,summer,out,Gökhan Töre,82130,30,Türkiye,Right Winger,RW,300000.0,Adana Demirspor,Türkiye,0.0,0
+2022,Super Lig,Besiktas JK,summer,out,Kenan Karaman,119557,28,Türkiye,Attacking Midfield,AM,1400000.0,FC Schalke 04,Germany,0.0,0
+2022,Super Lig,Besiktas JK,summer,out,Jeremain Lens,38497,34,Netherlands,Right Winger,RW,50000.0,FC Versailles 78,France,0.0,0
+2022,Super Lig,Besiktas JK,summer,out,Abdullah Aydın,806258,21,Türkiye,Central Midfield,CM,400000.0,Ankara Keciörengücü,Türkiye,0.0,1
+2022,Super Lig,Besiktas JK,summer,out,Bilal Ceylan,739885,18,Türkiye,Right-Back,RB,300000.0,Nazilli Belediyespor,Türkiye,0.0,1
+2022,Super Lig,Besiktas JK,summer,out,Atakan Üner,370834,23,Türkiye,Right Winger,RW,400000.0,Afyonspor,Türkiye,0.0,1
+2022,Super Lig,Besiktas JK,summer,out,Atakan Üner,370834,23,Türkiye,Right Winger,RW,400000.0,Tuzlaspor,Türkiye,0.0,1
+2022,Super Lig,Besiktas JK,summer,out,Emirhan Delibaş,720613,19,Türkiye,Right Winger,RW,50000.0,Göztepe,Türkiye,0.0,1
+2022,Super Lig,Besiktas JK,summer,out,Kerem Kalafat,477929,21,Türkiye,Right-Back,RB,500000.0,Caykur Rizespor,Türkiye,0.0,1
+2022,Super Lig,Besiktas JK,summer,out,Ajdin Hasic,522851,20,Bosnia-Herzegovina,Attacking Midfield,AM,625000.0,Göztepe,Türkiye,0.0,1
+2022,Super Lig,Besiktas JK,summer,out,Atamer Bilgin,571408,21,Türkiye,Defensive Midfield,DM,125000.0,Etimesgut Belediyespor,Türkiye,,0
+2022,Super Lig,Besiktas JK,summer,out,Kartal Yılmaz,461951,21,Türkiye,Defensive Midfield,DM,1000000.0,Ümraniyespor,Türkiye,0.0,1
+2022,Super Lig,Besiktas JK,summer,out,Douglas,58426,31,Brazil,Right-Back,RB,25000.0,Retired,,,0
+2022,Super Lig,Besiktas JK,summer,out,Mehmet Topal,44402,36,Türkiye,Defensive Midfield,DM,100000.0,Retired,,,0
+2022,Super Lig,Besiktas JK,summer,out,Adem Ljajic,69374,30,Serbia,Attacking Midfield,AM,1000000.0,Without Club,,,0
+2022,Super Lig,Besiktas JK,summer,out,Fabrice N'Sakala,86930,31,DR Congo,Left-Back,LB,150000.0,Without Club,,,0
+2022,Super Lig,Besiktas JK,summer,out,Michy Batshuayi,179184,28,Belgium,Centre-Forward,CF,10000000.0,Chelsea FC,England,0.0,1
+2022,Super Lig,Besiktas JK,summer,out,Can Bozdogan,406609,21,Germany,Central Midfield,CM,4300000.0,FC Schalke 04,Germany,0.0,1
+2022,Super Lig,Besiktas JK,summer,out,Miralem Pjanić,44162,32,Bosnia-Herzegovina,Central Midfield,CM,9500000.0,FC Barcelona,Spain,0.0,1
+2022,Super Lig,Besiktas JK,summer,out,Valentin Rosier,441170,25,France,Right-Back,RB,6000000.0,Sporting CP,Portugal,0.0,1
+2022,Super Lig,Besiktas JK,winter,out,Wout Weghorst,228645,30,Netherlands,Centre-Forward,CF,14000000.0,Burnley FC,England,0.0,1
+2022,Super Lig,Besiktas JK,winter,out,Souza,73741,34,Brazil,Defensive Midfield,DM,2500000.0,Beijing Guoan,China,0.0,0
+2022,Super Lig,Besiktas JK,winter,out,Oğuzhan Akgün,461948,21,Türkiye,Left Winger,LW,125000.0,Sakaryaspor,Türkiye,0.0,1
+2022,Super Lig,Besiktas JK,winter,out,Badra Cisse,951028,19,Cote d'Ivoire,Centre-Back,CB,,CFR Cluj U19,Romania,0.0,1
+2022,Super Lig,Besiktas JK,winter,out,Javi Montero,396333,24,Spain,Centre-Back,CB,2500000.0,Hamburger SV,Germany,0.0,1
+2022,Super Lig,Besiktas JK,winter,out,Emrecan Uzunhan,683828,21,Türkiye,Centre-Back,CB,2000000.0,Antalyaspor,Türkiye,0.0,1
+2022,Super Lig,Besiktas JK,winter,out,Tyler Boyd,203330,27,United States,Left Winger,LW,425000.0,Without Club,,,0
+2022,Super Lig,Fatih Karagümrük,summer,in,Jean Evrard Kouassi,178322,27,Cote d'Ivoire,Left Winger,LW,2000000.0,Trabzonspor,Türkiye,700000.0,1
+2022,Super Lig,Fatih Karagümrük,summer,in,Otabek Shukurov,294525,26,Uzbekistan,Central Midfield,CM,4000000.0,Sharjah FC,United Arab Emirates,420000.0,0
+2022,Super Lig,Fatih Karagümrük,summer,in,Ebrima Colley,567217,22,The Gambia,Left Winger,LW,3200000.0,Atalanta BC,Italy,50000.0,1
+2022,Super Lig,Fatih Karagümrük,summer,in,Fatih Kurnaz,651263,21,Türkiye,Central Midfield,CM,50000.0,Fortuna Sittard U21,Netherlands,0.0,0
+2022,Super Lig,Fatih Karagümrük,summer,in,Efecan Mızrakcı,880332,18,Türkiye,Right-Back,RB,50000.0,Fenerbahce U19,Türkiye,0.0,0
+2022,Super Lig,Fatih Karagümrük,summer,in,Emir Tintiş,727079,18,Türkiye,Left-Back,LB,100000.0,Galatasaray U19,Türkiye,0.0,0
+2022,Super Lig,Fatih Karagümrük,summer,in,Magomed Ozdoev,137206,29,Russia,Defensive Midfield,DM,2500000.0,Zenit St. Petersburg,Russia,0.0,0
+2022,Super Lig,Fatih Karagümrük,summer,in,Colin Kazım-Richards,36802,35,Türkiye,Centre-Forward,CF,250000.0,Derby County,England,0.0,0
+2022,Super Lig,Fatih Karagümrük,summer,in,Emre Mor,283223,24,Türkiye,Right Winger,RW,1700000.0,Celta de Vigo,Spain,0.0,0
+2022,Super Lig,Fatih Karagümrük,summer,in,Steven Caulker,121280,30,Sierra Leone,Centre-Back,CB,2000000.0,Fenerbahce,Türkiye,0.0,0
+2022,Super Lig,Fatih Karagümrük,summer,in,Mbaye Diagne,271966,30,Senegal,Centre-Forward,CF,1700000.0,Galatasaray,Türkiye,0.0,0
+2022,Super Lig,Fatih Karagümrük,summer,in,Lawrence Nicholas,685589,21,Nigeria,Central Midfield,CM,200000.0,FC Khimki,Russia,0.0,0
+2022,Super Lig,Fatih Karagümrük,summer,in,Ibrahim Dresevic,321135,25,Kosovo,Centre-Back,CB,800000.0,SC Heerenveen,Netherlands,0.0,0
+2022,Super Lig,Fatih Karagümrük,summer,in,Batuhan Şen,352659,23,Türkiye,Goalkeeper,GK,200000.0,Galatasaray,Türkiye,0.0,1
+2022,Super Lig,Fatih Karagümrük,summer,in,Levent Mercan,388820,21,Türkiye,Left-Back,LB,1200000.0,FC Schalke 04,Germany,,0
+2022,Super Lig,Fatih Karagümrük,summer,in,Adnan Uğur,409515,21,Belgium,Central Midfield,CM,500000.0,Fortuna Sittard,Netherlands,,0
+2022,Super Lig,Fatih Karagümrük,summer,in,Burak Kapacak,340251,22,Türkiye,Right-Back,RB,900000.0,Fenerbahce,Türkiye,0.0,1
+2022,Super Lig,Fatih Karagümrük,summer,in,Matteo Ricci,198087,28,Italy,Defensive Midfield,DM,3000000.0,Frosinone Calcio,Italy,0.0,1
+2022,Super Lig,Fatih Karagümrük,winter,in,Brahim Darri,196158,28,Netherlands,Left Winger,LW,150000.0,Al-Mesaimeer SC,Qatar,,0
+2022,Super Lig,Fatih Karagümrük,winter,in,Bruno Rodrigues,657386,21,Portugal,Centre-Back,CB,2000000.0,SC Braga,Portugal,0.0,1
+2022,Super Lig,Fatih Karagümrük,winter,in,Saba Lobjanidze,251029,28,Georgia,Left Winger,LW,3300000.0,Hatayspor,Türkiye,0.0,1
+2022,Super Lig,Fatih Karagümrük,winter,in,Adem Ljajic,69374,31,Serbia,Attacking Midfield,AM,800000.0,Without Club,,,0
+2022,Super Lig,Fatih Karagümrük,winter,in,Sofiane Feghouli,57162,33,Algeria,Attacking Midfield,AM,700000.0,Without Club,,,0
+2022,Super Lig,Fatih Karagümrük,winter,in,Andrea Bertolacci,99227,32,Italy,Central Midfield,CM,1900000.0,Without Club,,,0
+2022,Super Lig,Fatih Karagümrük,summer,out,Emre Mor,283223,24,Türkiye,Right Winger,RW,1700000.0,Fenerbahce,Türkiye,2000000.0,0
+2022,Super Lig,Fatih Karagümrük,summer,out,Aleksandar Pesic,73457,30,Serbia,Centre-Forward,CF,3000000.0,Red Star Belgrade,Serbia,1000000.0,0
+2022,Super Lig,Fatih Karagümrük,summer,out,Yavuz Aygün,299839,26,Türkiye,Goalkeeper,GK,50000.0,Isparta 32 Spor,Türkiye,0.0,0
+2022,Super Lig,Fatih Karagümrük,summer,out,Vato Arveladze,345195,24,Georgia,Attacking Midfield,AM,150000.0,Neftchi PFK,Azerbaijan,0.0,0
+2022,Super Lig,Fatih Karagümrük,summer,out,Ervin Zukanovic,44059,35,Bosnia-Herzegovina,Centre-Back,CB,100000.0,Asteras Tripolis,Greece,0.0,0
+2022,Super Lig,Fatih Karagümrük,summer,out,Lucas Biglia,26721,36,Argentina,Defensive Midfield,DM,700000.0,Basaksehir FK,Türkiye,0.0,0
+2022,Super Lig,Fatih Karagümrük,summer,out,Jure Balkovec,181410,27,Slovenia,Left-Back,LB,2300000.0,Alanyaspor,Türkiye,0.0,0
+2022,Super Lig,Fatih Karagümrük,summer,out,Ahmed Musa,168337,29,Nigeria,Left Winger,LW,3400000.0,Sivasspor,Türkiye,0.0,0
+2022,Super Lig,Fatih Karagümrük,summer,out,Emir Yazıcı,578891,20,Türkiye,Centre-Back,CB,75000.0,Kusadasispor,Türkiye,0.0,1
+2022,Super Lig,Fatih Karagümrük,summer,out,Ömer Gümüş,880403,19,Türkiye,Central Midfield,CM,,Van Spor FK,Türkiye,0.0,1
+2022,Super Lig,Fatih Karagümrük,summer,out,Berke Demircan,671334,19,Türkiye,Centre-Forward,CF,75000.0,Isparta 32 Spor,Türkiye,0.0,1
+2022,Super Lig,Fatih Karagümrük,summer,out,Egemen Pehlivan,697067,22,Türkiye,Central Midfield,CM,100000.0,Sapanca Genclikspor,Türkiye,0.0,1
+2022,Super Lig,Fatih Karagümrük,summer,out,Alparslan Erdem,42050,33,Türkiye,Left-Back,LB,50000.0,Retired,,,0
+2022,Super Lig,Fatih Karagümrük,summer,out,Yannis Salibur,79893,31,France,Right Winger,RW,225000.0,Without Club,,,0
+2022,Super Lig,Fatih Karagümrük,summer,out,Levent Mercan,388820,21,Türkiye,Left-Back,LB,1200000.0,FC Schalke 04,Germany,0.0,1
+2022,Super Lig,Fatih Karagümrük,summer,out,Abdoulaye Touré,181382,28,Guinea,Defensive Midfield,DM,2500000.0,Genoa CFC,Italy,0.0,1
+2022,Super Lig,Fatih Karagümrük,summer,out,Kristijan Bistrovic,375857,24,Croatia,Central Midfield,CM,2200000.0,CSKA Moscow,Russia,0.0,1
+2022,Super Lig,Fatih Karagümrük,summer,out,Adnan Uğur,409515,21,Belgium,Central Midfield,CM,500000.0,Fortuna Sittard,Netherlands,0.0,1
+2022,Super Lig,Fatih Karagümrük,summer,out,Yann Karamoh,324804,23,France,Left Winger,LW,4000000.0,Parma Calcio 1913,Italy,0.0,1
+2022,Super Lig,Fatih Karagümrük,summer,out,Derrick Luckassen,241457,26,Netherlands,Centre-Back,CB,1200000.0,PSV Eindhoven,Netherlands,0.0,1
+2022,Super Lig,Fatih Karagümrük,summer,out,Utku Yuvakuran,342995,24,Türkiye,Goalkeeper,GK,150000.0,Besiktas JK,Türkiye,0.0,1
+2022,Super Lig,Fatih Karagümrük,summer,out,Emre Mor,283223,24,Türkiye,Right Winger,RW,1700000.0,Celta de Vigo,Spain,0.0,1
+2022,Super Lig,Fatih Karagümrük,winter,out,Steven Caulker,121280,31,Sierra Leone,Centre-Back,CB,1600000.0,Wigan Athletic,England,0.0,0
+2022,Super Lig,Fatih Karagümrük,winter,out,Emir Yazıcı,578891,20,Türkiye,Centre-Back,CB,75000.0,Nigde Anadolu FK,Türkiye,0.0,1
+2022,Super Lig,Fatih Karagümrük,winter,out,Burak Bekaroğlu,293903,25,Türkiye,Centre-Back,CB,600000.0,Without Club,,,0
+2022,Super Lig,Fatih Karagümrük,winter,out,Caner Erkin,39333,34,Türkiye,Left-Back,LB,650000.0,Without Club,,,0
+2022,Super Lig,Fatih Karagümrük,winter,out,Jimmy Durmaz,80205,33,Sweden,Central Midfield,CM,300000.0,Without Club,,,0
+2022,Super Lig,Fatih Karagümrük,winter,out,Jean Evrard Kouassi,178322,28,Cote d'Ivoire,Left Winger,LW,2700000.0,Trabzonspor,Türkiye,0.0,1
+2022,Super Lig,Fenerbahce,summer,in,Diego Rossi,317454,24,Uruguay,Attacking Midfield,AM,14500000.0,Los Angeles FC,United States,5500000.0,0
+2022,Super Lig,Fenerbahce,summer,in,Luan Peres,347913,28,Brazil,Centre-Back,CB,7000000.0,Olympique Marseille,France,5230000.0,0
+2022,Super Lig,Fenerbahce,summer,in,João Pedro,129129,30,Italy,Centre-Forward,CF,12000000.0,Cagliari Calcio,Italy,4680000.0,0
+2022,Super Lig,Fenerbahce,summer,in,Michy Batshuayi,179184,28,Belgium,Centre-Forward,CF,10000000.0,Chelsea FC,England,3500000.0,0
+2022,Super Lig,Fenerbahce,summer,in,Lincoln,351738,23,Brazil,Attacking Midfield,AM,5000000.0,CD Santa Clara,Portugal,3500000.0,0
+2022,Super Lig,Fenerbahce,summer,in,Willian Arão,210747,30,Brazil,Defensive Midfield,DM,7000000.0,CR Flamengo,Brazil,3000000.0,0
+2022,Super Lig,Fenerbahce,summer,in,Emre Mor,283223,24,Türkiye,Right Winger,RW,1700000.0,Fatih Karagümrük,Türkiye,2000000.0,0
+2022,Super Lig,Fenerbahce,summer,in,Gustavo Henrique,208681,29,Brazil,Centre-Back,CB,2800000.0,CR Flamengo,Brazil,1400000.0,1
+2022,Super Lig,Fenerbahce,summer,in,İrfan Can Eğribayat,322873,24,Türkiye,Goalkeeper,GK,2000000.0,Göztepe,Türkiye,500000.0,1
+2022,Super Lig,Fenerbahce,summer,in,Tiago Çukur,594276,19,Türkiye,Centre-Forward,CF,250000.0,Watford FC U21,England,250000.0,0
+2022,Super Lig,Fenerbahce,summer,in,Lamine Diack,649024,21,Senegal,Defensive Midfield,DM,500000.0,Tuzlaspor,Türkiye,250000.0,0
+2022,Super Lig,Fenerbahce,summer,in,Joshua King,91059,30,Norway,Centre-Forward,CF,8000000.0,Watford FC,England,0.0,0
+2022,Super Lig,Fenerbahce,summer,in,Ezgjan Alioski,129604,30,North Macedonia,Left-Back,LB,7500000.0,Al-Ahli SFC,Saudi Arabia,0.0,1
+2022,Super Lig,Fenerbahce,summer,in,Bruma,139396,27,Portugal,Left Winger,LW,6000000.0,PSV Eindhoven,Netherlands,0.0,1
+2022,Super Lig,Fenerbahce,winter,in,Jayden Oosterwolde,591361,21,Netherlands,Centre-Back,CB,2000000.0,Parma Calcio 1913,Italy,6000000.0,0
+2022,Super Lig,Fenerbahce,winter,in,Bruma,139396,28,Portugal,Left Winger,LW,3600000.0,PSV Eindhoven,Netherlands,4250000.0,0
+2022,Super Lig,Fenerbahce,winter,in,Samet Akaydin,295024,28,Türkiye,Centre-Back,CB,2500000.0,Adana Demirspor,Türkiye,3700000.0,0
+2022,Super Lig,Fenerbahce,winter,in,Emre Demir,637669,19,Türkiye,Attacking Midfield,AM,1500000.0,FC Barcelona Atlètic,Spain,0.0,0
+2022,Super Lig,Fenerbahce,summer,out,Min-jae Kim,503482,25,"Korea, South",Centre-Back,CB,14000000.0,SSC Napoli,Italy,19000000.0,0
+2022,Super Lig,Fenerbahce,summer,out,Allahyar Sayyadmanesh,480975,21,Iran,Left Winger,LW,2500000.0,Hull City,England,4500000.0,0
+2022,Super Lig,Fenerbahce,summer,out,Ozan Tufan,236471,27,Türkiye,Central Midfield,CM,3800000.0,Hull City,England,3000000.0,0
+2022,Super Lig,Fenerbahce,summer,out,Marcel Tisserand,170463,29,DR Congo,Centre-Back,CB,2800000.0,Al-Ettifaq FC,Saudi Arabia,3000000.0,0
+2022,Super Lig,Fenerbahce,summer,out,Muhammed Gümüşkaya,558727,21,Türkiye,Attacking Midfield,AM,2500000.0,KVC Westerlo,Belgium,500000.0,0
+2022,Super Lig,Fenerbahce,summer,out,Lamine Diack,649024,21,Senegal,Defensive Midfield,DM,500000.0,MKE Ankaragücü,Türkiye,350000.0,0
+2022,Super Lig,Fenerbahce,summer,out,Mergim Berisha,307924,24,Germany,Centre-Forward,CF,6000000.0,FC Augsburg,Germany,300000.0,1
+2022,Super Lig,Fenerbahce,summer,out,Arda Okan Kurtulan,700031,19,Türkiye,Right Midfield,RM,75000.0,Adana Demirspor,Türkiye,200000.0,0
+2022,Super Lig,Fenerbahce,summer,out,Steven Caulker,121280,30,Sierra Leone,Centre-Back,CB,2000000.0,Fatih Karagümrük,Türkiye,0.0,0
+2022,Super Lig,Fenerbahce,summer,out,Filip Novak,107665,32,Czech Republic,Left-Back,LB,1000000.0,Al-Jazira Club,United Arab Emirates,0.0,0
+2022,Super Lig,Fenerbahce,summer,out,Max Meyer,146164,26,Germany,Central Midfield,CM,500000.0,FC Luzern,Switzerland,0.0,0
+2022,Super Lig,Fenerbahce,summer,out,Berke Özer,361256,22,Türkiye,Goalkeeper,GK,3500000.0,Portimonense SAD,Portugal,0.0,0
+2022,Super Lig,Fenerbahce,summer,out,Serhat Ahmetoğlu,667401,20,Türkiye,Right-Back,RB,200000.0,Sariyer,Türkiye,0.0,0
+2022,Super Lig,Fenerbahce,summer,out,José Sosa,20137,37,Argentina,Attacking Midfield,AM,300000.0,Club Estudiantes de La Plata,Argentina,0.0,0
+2022,Super Lig,Fenerbahce,summer,out,Luiz Gustavo,10471,35,Brazil,Defensive Midfield,DM,1200000.0,Al-Nassr FC,Saudi Arabia,0.0,0
+2022,Super Lig,Fenerbahce,summer,out,Mesut Özil,35664,33,Germany,Attacking Midfield,AM,1800000.0,Basaksehir FK,Türkiye,0.0,0
+2022,Super Lig,Fenerbahce,summer,out,Emir Ortakaya,727081,18,Türkiye,Centre-Back,CB,50000.0,Göztepe,Türkiye,0.0,1
+2022,Super Lig,Fenerbahce,summer,out,Ally Samatta,182201,29,Tanzania,Centre-Forward,CF,3000000.0,KRC Genk,Belgium,0.0,1
+2022,Super Lig,Fenerbahce,summer,out,Tiago Çukur,594276,19,Türkiye,Centre-Forward,CF,250000.0,FCV Dender EH,Belgium,0.0,1
+2022,Super Lig,Fenerbahce,summer,out,Dimitrios Pelkas,212832,28,Greece,Attacking Midfield,AM,4500000.0,Hull City,England,0.0,1
+2022,Super Lig,Fenerbahce,summer,out,Burak Kapacak,340251,22,Türkiye,Right-Back,RB,900000.0,Fatih Karagümrük,Türkiye,0.0,1
+2022,Super Lig,Fenerbahce,summer,out,Murat Sağlam,339051,24,Türkiye,Attacking Midfield,AM,25000.0,Without Club,,,0
+2022,Super Lig,Fenerbahce,summer,out,Diego Rossi,317454,24,Uruguay,Attacking Midfield,AM,14500000.0,Los Angeles FC,United States,0.0,1
+2022,Super Lig,Fenerbahce,winter,out,Bruma,139396,28,Portugal,Left Winger,LW,3600000.0,SC Braga,Portugal,100000.0,1
+2022,Super Lig,Fenerbahce,winter,out,Mauricio Lemos,303140,27,Uruguay,Centre-Back,CB,300000.0,Clube Atlético Mineiro,Brazil,0.0,0
+2022,Super Lig,Fenerbahce,winter,out,Eyüp Akcan,136431,20,Türkiye,Central Midfield,CM,150000.0,Igdir FK,Türkiye,0.0,1
+2022,Super Lig,Fenerbahce,winter,out,Çağtay Kurukalıp,616886,20,Türkiye,Left-Back,LB,200000.0,Igdir FK,Türkiye,0.0,1
+2022,Super Lig,Fenerbahce,winter,out,Emre Demir,637669,19,Türkiye,Attacking Midfield,AM,1500000.0,Samsunspor,Türkiye,0.0,1
+2022,Super Lig,Fenerbahce,winter,out,İsak Vural,989621,16,Türkiye,Central Midfield,CM,50000.0,Hammarby IF,Sweden,,0
+2022,Super Lig,Fenerbahce,winter,out,İsak Vural,989621,16,Türkiye,Central Midfield,CM,50000.0,Hammarby IF,Sweden,0.0,1
+2022,Super Lig,Fenerbahce,winter,out,Bruma,139396,28,Portugal,Left Winger,LW,3600000.0,PSV Eindhoven,Netherlands,0.0,1
+2022,Super Lig,Galatasaray,summer,in,Lucas Torreira,318077,26,Uruguay,Defensive Midfield,DM,20000000.0,Arsenal FC,England,6000000.0,0
+2022,Super Lig,Galatasaray,summer,in,Yusuf Demir,548031,19,Austria,Right Winger,RW,5000000.0,Rapid Vienna,Austria,6000000.0,0
+2022,Super Lig,Galatasaray,summer,in,Mostafa Mohamed,462348,24,Egypt,Centre-Forward,CF,6500000.0,Zamalek SC,Egypt,3850000.0,0
+2022,Super Lig,Galatasaray,summer,in,Fredrik Midtsjø,136180,28,Norway,Central Midfield,CM,6000000.0,AZ Alkmaar,Netherlands,3500000.0,0
+2022,Super Lig,Galatasaray,summer,in,Sérgio Oliveira,112465,30,Portugal,Central Midfield,CM,12000000.0,FC Porto,Portugal,3000000.0,0
+2022,Super Lig,Galatasaray,summer,in,Abdülkerim Bardakcı,199316,27,Türkiye,Centre-Back,CB,5000000.0,Konyaspor,Türkiye,2800000.0,0
+2022,Super Lig,Galatasaray,summer,in,Léo Dubois,236400,27,France,Right-Back,RB,10000000.0,Olympique Lyon,France,2500000.0,0
+2022,Super Lig,Galatasaray,summer,in,Mathias Ross,545331,21,Denmark,Centre-Back,CB,1000000.0,Aalborg BK,Denmark,1750000.0,0
+2022,Super Lig,Galatasaray,summer,in,Kazımcan Karataş,697149,19,Türkiye,Left-Back,LB,950000.0,Altay SK,Türkiye,1140000.0,0
+2022,Super Lig,Galatasaray,summer,in,Haris Seferovic,109256,30,Switzerland,Centre-Forward,CF,8000000.0,SL Benfica,Portugal,1000000.0,1
+2022,Super Lig,Galatasaray,summer,in,Dries Mertens,56416,35,Belgium,Second Striker,SS,4000000.0,SSC Napoli,Italy,0.0,0
+2022,Super Lig,Galatasaray,summer,in,Juan Mata,44068,34,Spain,Attacking Midfield,AM,2500000.0,Manchester United,England,0.0,0
+2022,Super Lig,Galatasaray,summer,in,Milot Rashica,291739,26,Kosovo,Right Winger,RW,7000000.0,Norwich City,England,0.0,1
+2022,Super Lig,Galatasaray,summer,in,Mauro Icardi,68863,29,Argentina,Centre-Forward,CF,22000000.0,Paris Saint-Germain,France,0.0,1
+2022,Super Lig,Galatasaray,winter,in,Nicolò Zaniolo,392085,23,Italy,Attacking Midfield,AM,30000000.0,AS Roma,Italy,15000000.0,0
+2022,Super Lig,Galatasaray,winter,in,Kaan Ayhan,119031,28,Türkiye,Defensive Midfield,DM,4500000.0,US Sassuolo,Italy,400000.0,1
+2022,Super Lig,Galatasaray,winter,in,Sam Adekugbe,287578,28,Canada,Left-Back,LB,2000000.0,Hatayspor,Türkiye,0.0,1
+2022,Super Lig,Galatasaray,summer,out,Marcão,439022,26,Brazil,Centre-Back,CB,14000000.0,Sevilla FC,Spain,13000000.0,0
+2022,Super Lig,Galatasaray,summer,out,Emre Akbaba,278654,29,Türkiye,Attacking Midfield,AM,4000000.0,Adana Demirspor,Türkiye,500000.0,0
+2022,Super Lig,Galatasaray,summer,out,Mostafa Mohamed,462348,24,Egypt,Centre-Forward,CF,6500000.0,FC Nantes,France,250000.0,1
+2022,Super Lig,Galatasaray,summer,out,Olimpiu Moruțan,429551,23,Romania,Right Winger,RW,3500000.0,Pisa Sporting Club,Italy,150000.0,1
+2022,Super Lig,Galatasaray,summer,out,Valentine Ozornwafor,647950,23,Nigeria,Centre-Back,CB,750000.0,Royal Charleroi SC,Belgium,100000.0,0
+2022,Super Lig,Galatasaray,summer,out,Jesse Sekidika,437392,26,Nigeria,Left Winger,LW,650000.0,Eyüpspor,Türkiye,0.0,0
+2022,Super Lig,Galatasaray,summer,out,Aytaç Kara,159908,29,Türkiye,Central Midfield,CM,1000000.0,Kasimpasa,Türkiye,0.0,0
+2022,Super Lig,Galatasaray,summer,out,Bartuğ Elmaz,655895,19,Türkiye,Defensive Midfield,DM,300000.0,Olympique Marseille,France,0.0,0
+2022,Super Lig,Galatasaray,summer,out,Mbaye Diagne,271966,30,Senegal,Centre-Forward,CF,1700000.0,Fatih Karagümrük,Türkiye,0.0,0
+2022,Super Lig,Galatasaray,summer,out,Ali Yavuz Kol,477938,21,Türkiye,Left Winger,LW,350000.0,Adana Demirspor,Türkiye,0.0,0
+2022,Super Lig,Galatasaray,summer,out,Ryan Babel,16135,35,Netherlands,Left Winger,LW,350000.0,Eyüpspor,Türkiye,0.0,0
+2022,Super Lig,Galatasaray,summer,out,Ömer Bayram,117586,31,Türkiye,Left-Back,LB,250000.0,Eyüpspor,Türkiye,0.0,0
+2022,Super Lig,Galatasaray,summer,out,Taylan Antalyalı,204176,27,Türkiye,Central Midfield,CM,3500000.0,MKE Ankaragücü,Türkiye,0.0,1
+2022,Super Lig,Galatasaray,summer,out,Emre Kılınç,208848,28,Türkiye,Left Winger,LW,3000000.0,MKE Ankaragücü,Türkiye,0.0,1
+2022,Super Lig,Galatasaray,summer,out,Christian Luyindama,262793,28,DR Congo,Centre-Back,CB,2000000.0,Antalyaspor,Türkiye,0.0,1
+2022,Super Lig,Galatasaray,summer,out,Berk Balaban,546351,22,Türkiye,Goalkeeper,GK,25000.0,Iskenderunspor,Türkiye,0.0,1
+2022,Super Lig,Galatasaray,summer,out,Kaan Arslan,507162,21,Türkiye,Centre-Back,CB,150000.0,Sariyer,Türkiye,0.0,1
+2022,Super Lig,Galatasaray,summer,out,Eren Aydın,873534,19,Türkiye,Centre-Forward,CF,250000.0,Sariyer,Türkiye,0.0,1
+2022,Super Lig,Galatasaray,summer,out,Atalay Babacan,361266,22,Türkiye,Central Midfield,CM,175000.0,Sariyer,Türkiye,0.0,1
+2022,Super Lig,Galatasaray,summer,out,Abdussamed Karnuçu,366147,22,Türkiye,Defensive Midfield,DM,150000.0,Tarsus Idman Yurdu,Türkiye,0.0,1
+2022,Super Lig,Galatasaray,summer,out,Batuhan Şen,352659,23,Türkiye,Goalkeeper,GK,200000.0,Fatih Karagümrük,Türkiye,0.0,1
+2022,Super Lig,Galatasaray,summer,out,Süleyman Luş,477932,21,Türkiye,Left-Back,LB,300000.0,Tuzlaspor,Türkiye,0.0,1
+2022,Super Lig,Galatasaray,summer,out,Oğulcan Çağlayan,248219,26,Türkiye,Right Winger,RW,625000.0,Giresunspor,Türkiye,0.0,1
+2022,Super Lig,Galatasaray,summer,out,Selman Dibek,655900,19,Türkiye,Right Winger,RW,50000.0,1461 Trabzon FK,Türkiye,,0
+2022,Super Lig,Galatasaray,summer,out,Erkan Süer,556152,21,Türkiye,Attacking Midfield,AM,50000.0,Iskenderunspor,Türkiye,,0
+2022,Super Lig,Galatasaray,summer,out,Alexandru Cicâldău,295810,25,Romania,Attacking Midfield,AM,7500000.0,Kalba FC,United Arab Emirates,0.0,1
+2022,Super Lig,Galatasaray,summer,out,Alpaslan Öztürk,138736,28,Türkiye,Centre-Back,CB,1100000.0,Eyüpspor,Türkiye,0.0,1
+2022,Super Lig,Galatasaray,summer,out,Arda Turan,21369,35,Türkiye,Left Winger,LW,100000.0,Without Club,,,0
+2022,Super Lig,Galatasaray,summer,out,Omar Elabdellaoui,121404,30,Norway,Right-Back,RB,1300000.0,Without Club,,,0
+2022,Super Lig,Galatasaray,summer,out,Semih Kaya,60709,31,Türkiye,Centre-Back,CB,400000.0,Retired,,,0
+2022,Super Lig,Galatasaray,summer,out,Fatih Öztürk,209574,35,Türkiye,Goalkeeper,GK,25000.0,Retired,,,0
+2022,Super Lig,Galatasaray,summer,out,Sofiane Feghouli,57162,32,Algeria,Attacking Midfield,AM,1200000.0,Without Club,,,0
+2022,Super Lig,Galatasaray,summer,out,Erick Pulgar,215616,28,Chile,Defensive Midfield,DM,6500000.0,ACF Fiorentina,Italy,0.0,1
+2022,Super Lig,Galatasaray,summer,out,Iñaki Peña,283170,23,Spain,Goalkeeper,GK,4200000.0,FC Barcelona,Spain,0.0,1
+2022,Super Lig,Galatasaray,summer,out,Halil Dervişoğlu,465606,22,Türkiye,Centre-Forward,CF,3000000.0,Brentford FC,England,0.0,1
+2022,Super Lig,Galatasaray,summer,out,Mostafa Mohamed,462348,24,Egypt,Centre-Forward,CF,6500000.0,Zamalek SC,Egypt,0.0,1
+2022,Super Lig,Galatasaray,winter,out,Patrick van Aanholt,52119,32,Netherlands,Left-Back,LB,3200000.0,PSV Eindhoven,Netherlands,1500000.0,1
+2022,Super Lig,Galatasaray,winter,out,İsmail Çipe,282460,28,Türkiye,Goalkeeper,GK,50000.0,Boluspor,Türkiye,0.0,0
+2022,Super Lig,Galatasaray,winter,out,Abdussamed Karnuçu,366147,22,Türkiye,Defensive Midfield,DM,100000.0,Amed SK,Türkiye,0.0,1
+2022,Super Lig,Galatasaray,winter,out,Oğulcan Çağlayan,248219,26,Türkiye,Right Winger,RW,600000.0,Pendikspor,Türkiye,0.0,1
+2022,Super Lig,Galatasaray,winter,out,Metehan Baltacı,618869,20,Türkiye,Centre-Back,CB,75000.0,Manisa FK,Türkiye,0.0,1
+2022,Super Lig,Galatasaray,winter,out,Eren Aydın,873534,20,Türkiye,Centre-Forward,CF,300000.0,Corum FK,Türkiye,0.0,1
+2022,Super Lig,Galatasaray,winter,out,Haris Seferovic,109256,30,Switzerland,Centre-Forward,CF,6000000.0,SL Benfica,Portugal,0.0,1
+2022,Super Lig,Gaziantep FK,summer,in,Mustafa Eskihellaç,390379,25,Türkiye,Left-Back,LB,900000.0,Yeni Malatyaspor,Türkiye,829000.0,0
+2022,Super Lig,Gaziantep FK,summer,in,Valmir Veliu,603348,22,Kosovo,Left Winger,LW,350000.0,KF Llapi,Kosovo,180000.0,0
+2022,Super Lig,Gaziantep FK,summer,in,Lazar Markovic,144303,28,Serbia,Right Winger,RW,1800000.0,FK Partizan Belgrade,Serbia,0.0,0
+2022,Super Lig,Gaziantep FK,summer,in,Tomas Pekhart,38746,33,Czech Republic,Centre-Forward,CF,400000.0,Legia Warszawa,Poland,0.0,0
+2022,Super Lig,Gaziantep FK,summer,in,Ömürcan Artan,702988,22,Türkiye,Right-Back,RB,200000.0,Genclerbirligi Ankara,Türkiye,0.0,0
+2022,Super Lig,Gaziantep FK,summer,in,Arda Kızıldağ,532905,23,Türkiye,Centre-Back,CB,700000.0,Genclerbirligi Ankara,Türkiye,0.0,0
+2022,Super Lig,Gaziantep FK,summer,in,Erten Ersu,203986,28,Türkiye,Goalkeeper,GK,50000.0,Konyaspor,Türkiye,0.0,0
+2022,Super Lig,Gaziantep FK,summer,in,Abdulkadir Parmak,276337,27,Türkiye,Central Midfield,CM,2000000.0,Trabzonspor,Türkiye,0.0,1
+2022,Super Lig,Gaziantep FK,summer,in,Marko Jevtovic,256000,28,Serbia,Defensive Midfield,DM,1800000.0,FK Partizan Belgrade,Serbia,,0
+2022,Super Lig,Gaziantep FK,summer,in,João Figueiredo,439343,26,Malaysia,Centre-Forward,CF,3000000.0,Al-Wasl FC,United Arab Emirates,,0
+2022,Super Lig,Gaziantep FK,summer,in,Berkan Küpelikılınç,690552,19,Germany,Right-Back,RB,50000.0,Eintracht Frankfurt II,Germany,,0
+2022,Super Lig,Gaziantep FK,summer,in,Abdulkerim Cakar,392160,21,Türkiye,Right Winger,RW,100000.0,TSG 1899 Hoffenheim II,Germany,,0
+2022,Super Lig,Gaziantep FK,summer,in,Onurhan Babuscu,538481,18,Austria,Attacking Midfield,AM,400000.0,FC Admira Wacker Mödling,Austria,,0
+2022,Super Lig,Gaziantep FK,summer,in,Ertuğrul Ersoy,251079,25,Türkiye,Centre-Back,CB,600000.0,Le Havre AC,France,,0
+2022,Super Lig,Gaziantep FK,summer,in,Matej Hanousek,267473,29,Czech Republic,Left-Back,LB,500000.0,AC Sparta Prague,Czech Republic,0.0,1
+2022,Super Lig,Gaziantep FK,summer,out,Torgeir Børven,129236,30,Norway,Centre-Forward,CF,375000.0,Vålerenga Fotball Elite,Norway,500000.0,0
+2022,Super Lig,Gaziantep FK,summer,out,Muhammet Demir,83560,30,Türkiye,Centre-Forward,CF,1400000.0,Konyaspor,Türkiye,0.0,0
+2022,Super Lig,Gaziantep FK,summer,out,Vladyslav Kobylyanskyi,623323,20,Ukraine,Central Midfield,CM,50000.0,UD Leiria,Portugal,0.0,0
+2022,Super Lig,Gaziantep FK,summer,out,Doğan Erdoğan,239733,25,Türkiye,Defensive Midfield,DM,1100000.0,Fortuna Sittard,Netherlands,0.0,0
+2022,Super Lig,Gaziantep FK,summer,out,Ali Tur,869929,21,Türkiye,Centre-Forward,CF,,Ulubey Belediyespor,Türkiye,0.0,0
+2022,Super Lig,Gaziantep FK,summer,out,Pawel Olkowski,117469,32,Poland,Right-Back,RB,125000.0,Górnik Zabrze,Poland,0.0,0
+2022,Super Lig,Gaziantep FK,summer,out,Oğuz Ceylan,139316,31,Türkiye,Right-Back,RB,425000.0,MKE Ankaragücü,Türkiye,0.0,0
+2022,Super Lig,Gaziantep FK,summer,out,Recep Niyaz,105653,27,Türkiye,Attacking Midfield,AM,1500000.0,Eyüpspor,Türkiye,0.0,0
+2022,Super Lig,Gaziantep FK,summer,out,Ahmed El Messaoudi,303939,27,Morocco,Central Midfield,CM,675000.0,FC Emmen,Netherlands,0.0,0
+2022,Super Lig,Gaziantep FK,summer,out,Ali Ateş,601029,23,Türkiye,Left Winger,LW,25000.0,Bayburt Özel Idare Spor,Türkiye,0.0,0
+2022,Super Lig,Gaziantep FK,summer,out,Berke Gürbüz,655907,19,Türkiye,Attacking Midfield,AM,100000.0,Etimesgut Belediyespor,Türkiye,0.0,1
+2022,Super Lig,Gaziantep FK,summer,out,Ulaş Zengin,354259,25,Türkiye,Centre-Back,CB,100000.0,Karacabey Belediye Spor,Türkiye,0.0,1
+2022,Super Lig,Gaziantep FK,summer,out,Yusuf Türk,315287,24,Türkiye,Centre-Forward,CF,75000.0,Somaspor,Türkiye,0.0,1
+2022,Super Lig,Gaziantep FK,summer,out,Hasan Yurtseven,696796,21,Türkiye,Attacking Midfield,AM,75000.0,Esenler Erokspor,Türkiye,0.0,1
+2022,Super Lig,Gaziantep FK,summer,out,Çağlar Akbaba,264431,27,Türkiye,Goalkeeper,GK,450000.0,Boluspor,Türkiye,,0
+2022,Super Lig,Gaziantep FK,summer,out,Berkay Erkul,857694,19,Türkiye,Goalkeeper,GK,50000.0,Nigde Anadolu FK,Türkiye,,0
+2022,Super Lig,Gaziantep FK,summer,out,Ekrem Kılıçarslan,464378,24,Türkiye,Goalkeeper,GK,50000.0,Göztepe,Türkiye,0.0,1
+2022,Super Lig,Gaziantep FK,summer,out,Amedej Vetrih,121481,31,Slovenia,Defensive Midfield,DM,275000.0,Retired,,,0
+2022,Super Lig,Gaziantep FK,summer,out,Fatih Durna,387385,24,Türkiye,Central Midfield,CM,,Without Club,,,0
+2022,Super Lig,Gaziantep FK,summer,out,João Figueiredo,439343,26,Malaysia,Centre-Forward,CF,3000000.0,Al-Wasl FC,United Arab Emirates,0.0,1
+2022,Super Lig,Gaziantep FK,summer,out,Hamza Mendyl,447221,24,Morocco,Left-Back,LB,800000.0,FC Schalke 04,Germany,0.0,1
+2022,Super Lig,Gaziantep FK,summer,out,Ertuğrul Ersoy,251079,25,Türkiye,Centre-Back,CB,600000.0,Le Havre AC,France,0.0,1
+2022,Super Lig,Gaziantep FK,winter,out,João Figueiredo,439343,26,Malaysia,Centre-Forward,CF,3200000.0,Basaksehir FK,Türkiye,650000.0,0
+2022,Super Lig,Gaziantep FK,winter,out,Alin Toșca,148004,30,Romania,Centre-Back,CB,1400000.0,Benevento Calcio,Italy,0.0,0
+2022,Super Lig,Gaziantep FK,winter,out,Stelios Kitsiou,189151,29,Greece,Right-Back,RB,875000.0,MKE Ankaragücü,Türkiye,0.0,0
+2022,Super Lig,Gaziantep FK,winter,out,İbrahim Pehlivan,291760,29,Türkiye,Left-Back,LB,400000.0,Caykur Rizespor,Türkiye,0.0,0
+2022,Super Lig,Gaziantep FK,winter,out,Ertuğrul Ersoy,251079,26,Türkiye,Centre-Back,CB,750000.0,Istanbulspor,Türkiye,0.0,1
+2022,Super Lig,Gaziantep FK,winter,out,Lazar Markovic,144303,28,Serbia,Right Winger,RW,2000000.0,Trabzonspor,Türkiye,0.0,1
+2022,Super Lig,Gaziantep FK,winter,out,Berkan Küpelikılınç,690552,20,Germany,Right-Back,RB,50000.0,Karaman FK,Türkiye,0.0,1
+2022,Super Lig,Gaziantep FK,winter,out,Burak Bozan,587726,22,Türkiye,Goalkeeper,GK,50000.0,Tuzlaspor,Türkiye,0.0,1
+2022,Super Lig,Gaziantep FK,winter,out,Ömürcan Artan,702988,23,Türkiye,Right-Back,RB,200000.0,Tuzlaspor,Türkiye,0.0,1
+2022,Super Lig,Gaziantep FK,winter,out,Ángelo Sagal,190941,29,Chile,Left Winger,LW,1300000.0,Ferencvárosi TC,Hungary,0.0,1
+2022,Super Lig,Gaziantep FK,winter,out,Arda Kızıldağ,532905,24,Türkiye,Centre-Back,CB,550000.0,MKE Ankaragücü,Türkiye,0.0,1
+2022,Super Lig,Gaziantep FK,winter,out,Papy Djilobodji,136610,34,Senegal,Centre-Back,CB,1100000.0,Kasimpasa,Türkiye,0.0,1
+2022,Super Lig,Gaziantep FK,winter,out,Valmir Veliu,603348,22,Kosovo,Left Winger,LW,450000.0,Istanbulspor,Türkiye,0.0,1
+2022,Super Lig,Gaziantep FK,winter,out,Mirza Cihan,583970,22,Türkiye,Left Winger,LW,225000.0,Istanbulspor,Türkiye,0.0,1
+2022,Super Lig,Gaziantep FK,winter,out,Mustafa Eskihellaç,390379,25,Türkiye,Left-Back,LB,1300000.0,Kasimpasa,Türkiye,0.0,1
+2022,Super Lig,Gaziantep FK,winter,out,Günay Güvenç,114422,31,Türkiye,Goalkeeper,GK,2300000.0,Kasimpasa,Türkiye,0.0,1
+2022,Super Lig,Gaziantep FK,winter,out,Furkan Soyalp,221285,27,Türkiye,Central Midfield,CM,1000000.0,Adana Demirspor,Türkiye,0.0,1
+2022,Super Lig,Gaziantep FK,winter,out,Alexandru Maxim,129513,32,Romania,Attacking Midfield,AM,3500000.0,Besiktas JK,Türkiye,0.0,1
+2022,Super Lig,Gaziantep FK,winter,out,Luka Stankovski,626771,20,North Macedonia,Attacking Midfield,AM,1000000.0,ND Gorica,Slovenia,0.0,1
+2022,Super Lig,Gaziantep FK,winter,out,Tomas Pekhart,38746,33,Czech Republic,Centre-Forward,CF,500000.0,Without Club,,,0
+2022,Super Lig,Gaziantep FK,winter,out,Matej Hanousek,267473,29,Czech Republic,Left-Back,LB,500000.0,AC Sparta Prague,Czech Republic,0.0,1
+2022,Super Lig,Gaziantep FK,winter,out,Abdulkadir Parmak,276337,28,Türkiye,Central Midfield,CM,1800000.0,Trabzonspor,Türkiye,0.0,1
+2022,Super Lig,Giresunspor,summer,in,Kadir Seven,930056,19,Türkiye,Centre-Back,CB,,Orduspor 1967 SK,Türkiye,329000.0,0
+2022,Super Lig,Giresunspor,summer,in,Faustin Senghor,627034,28,Senegal,Centre-Back,CB,300000.0,FC Shkupi,North Macedonia,250000.0,0
+2022,Super Lig,Giresunspor,summer,in,Jorman Campuzano,459467,26,Colombia,Defensive Midfield,DM,2000000.0,CA Boca Juniors,Argentina,200000.0,1
+2022,Super Lig,Giresunspor,summer,in,Brandley Kuwas,232219,29,Curacao,Right Winger,RW,700000.0,Maccabi Tel Aviv,Israel,0.0,0
+2022,Super Lig,Giresunspor,summer,in,Vukan Savicevic,197521,28,Montenegro,Central Midfield,CM,375000.0,Samsunspor,Türkiye,0.0,0
+2022,Super Lig,Giresunspor,summer,in,Borja Sainz,634461,21,Spain,Left Winger,LW,2200000.0,Deportivo Alavés,Spain,0.0,0
+2022,Super Lig,Giresunspor,summer,in,Talha Ülvan,708111,21,Türkiye,Right-Back,RB,50000.0,Samsunspor,Türkiye,0.0,0
+2022,Super Lig,Giresunspor,summer,in,Riad Bajic,263267,28,Bosnia-Herzegovina,Centre-Forward,CF,1500000.0,Udinese Calcio,Italy,0.0,0
+2022,Super Lig,Giresunspor,summer,in,Ramón Arias,131095,30,Uruguay,Centre-Back,CB,550000.0,CA Peñarol,Uruguay,0.0,0
+2022,Super Lig,Giresunspor,summer,in,Rahmetullah Berişbek,534706,23,Türkiye,Right-Back,RB,300000.0,Genclerbirligi Ankara,Türkiye,0.0,0
+2022,Super Lig,Giresunspor,summer,in,Mert Kurt,1028566,19,Türkiye,Centre-Forward,CF,50000.0,Jong Cercle,Belgium,0.0,0
+2022,Super Lig,Giresunspor,summer,in,Doğan Can Davas,340961,24,Türkiye,Attacking Midfield,AM,500000.0,Bandirmaspor,Türkiye,0.0,0
+2022,Super Lig,Giresunspor,summer,in,Görkem Sağlam,251345,24,Türkiye,Central Midfield,CM,600000.0,Willem II Tilburg,Netherlands,0.0,0
+2022,Super Lig,Giresunspor,summer,in,Faruk Can Genç,588171,22,Türkiye,Left-Back,LB,275000.0,Trabzonspor,Türkiye,0.0,0
+2022,Super Lig,Giresunspor,summer,in,Oğulcan Çağlayan,248219,26,Türkiye,Right Winger,RW,625000.0,Galatasaray,Türkiye,0.0,1
+2022,Super Lig,Giresunspor,summer,in,Alper Uludağ,55524,31,Türkiye,Left-Back,LB,400000.0,Adana Demirspor,Türkiye,,0
+2022,Super Lig,Giresunspor,summer,in,Robert Mejía,572818,21,Colombia,Defensive Midfield,DM,600000.0,Once Caldas,Colombia,0.0,1
+2022,Super Lig,Giresunspor,summer,in,Ferhat Kaplan,93104,33,Türkiye,Goalkeeper,GK,100000.0,Without Club,,,0
+2022,Super Lig,Giresunspor,summer,in,Murat Cem Akpınar,388913,23,Türkiye,Central Midfield,CM,150000.0,Trabzonspor,Türkiye,0.0,1
+2022,Super Lig,Giresunspor,winter,in,Arda Kılıç,793415,17,Türkiye,Centre-Back,CB,50000.0,Without Club,,,0
+2022,Super Lig,Giresunspor,summer,out,Hamidou Traoré,262609,25,Mali,Defensive Midfield,DM,2000000.0,FK Partizan Belgrade,Serbia,700000.0,0
+2022,Super Lig,Giresunspor,summer,out,Umut Nayir,248271,29,Türkiye,Centre-Forward,CF,700000.0,Eyüpspor,Türkiye,0.0,0
+2022,Super Lig,Giresunspor,summer,out,Zeki Yavru,98131,30,Türkiye,Right-Back,RB,650000.0,Samsunspor,Türkiye,0.0,0
+2022,Super Lig,Giresunspor,summer,out,Ibrahima Balde,134497,33,Senegal,Centre-Forward,CF,225000.0,Boluspor,Türkiye,0.0,0
+2022,Super Lig,Giresunspor,summer,out,Aziz Behich,136834,31,Australia,Left-Back,LB,775000.0,Dundee United FC,Scotland,0.0,0
+2022,Super Lig,Giresunspor,summer,out,Esat Mala,574492,23,Albania,Right Winger,RW,300000.0,KF Vllaznia,Albania,0.0,0
+2022,Super Lig,Giresunspor,summer,out,Joey Pelupessy,187293,29,Indonesia,Defensive Midfield,DM,350000.0,FC Groningen,Netherlands,0.0,0
+2022,Super Lig,Giresunspor,summer,out,Anıl Yiğit Çınar,982344,19,Türkiye,Centre-Back,CB,50000.0,Eynesil Belediye Spor,Türkiye,0.0,1
+2022,Super Lig,Giresunspor,summer,out,Furkan Kütük,926924,19,Türkiye,Defensive Midfield,DM,75000.0,52 Orduspor FK,Türkiye,0.0,1
+2022,Super Lig,Giresunspor,summer,out,Göktan Cörüt,684699,22,Türkiye,Goalkeeper,GK,50000.0,Agri 1970 Spor,Türkiye,0.0,1
+2022,Super Lig,Giresunspor,summer,out,Alperen Aydın,606274,21,Türkiye,Defensive Midfield,DM,50000.0,Bayrampasa Spor,Türkiye,,0
+2022,Super Lig,Giresunspor,summer,out,Çekdar Orhan,315209,24,Türkiye,Attacking Midfield,AM,325000.0,Tuzlaspor,Türkiye,0.0,1
+2022,Super Lig,Giresunspor,summer,out,Erol Can Akdağ,414680,26,Türkiye,Defensive Midfield,DM,325000.0,Tuzlaspor,Türkiye,0.0,1
+2022,Super Lig,Giresunspor,summer,out,Doğanay Aygün,613312,22,Türkiye,Defensive Midfield,DM,25000.0,Without Club,,,0
+2022,Super Lig,Giresunspor,summer,out,Cihat Topatan,701335,21,Türkiye,Left Winger,LW,25000.0,Without Club,,,0
+2022,Super Lig,Giresunspor,summer,out,Rahmetullah Berişbek,534706,24,Türkiye,Right-Back,RB,400000.0,Without Club,,,0
+2022,Super Lig,Giresunspor,summer,out,Arda Kılıç,793415,17,Türkiye,Centre-Back,CB,50000.0,Without Club,,,0
+2022,Super Lig,Giresunspor,summer,out,Joe Champness,539321,25,New Zealand,Left Winger,LW,250000.0,Without Club,,,0
+2022,Super Lig,Giresunspor,summer,out,Chiquinho,334557,26,Portugal,Attacking Midfield,AM,4500000.0,SL Benfica,Portugal,0.0,1
+2022,Super Lig,Giresunspor,summer,out,Muhammed Gümüşkaya,558727,21,Türkiye,Attacking Midfield,AM,2500000.0,Fenerbahce,Türkiye,0.0,1
+2022,Super Lig,Giresunspor,summer,out,Shapi Suleymanov,335725,22,Russia,Right Winger,RW,3500000.0,FC Krasnodar,Russia,0.0,1
+2022,Super Lig,Giresunspor,summer,out,Emre Taşdemir,204201,26,Türkiye,Left-Back,LB,300000.0,Galatasaray,Türkiye,0.0,1
+2022,Super Lig,Giresunspor,summer,out,Fousseni Diabaté,364861,26,Mali,Right Winger,RW,2700000.0,Trabzonspor,Türkiye,0.0,1
+2022,Super Lig,Giresunspor,summer,out,Flávio,373191,26,Brazil,Central Midfield,CM,2000000.0,Trabzonspor,Türkiye,0.0,1
+2022,Super Lig,Giresunspor,summer,out,Okan Kocuk,204189,26,Türkiye,Goalkeeper,GK,1100000.0,Galatasaray,Türkiye,0.0,1
+2022,Super Lig,Giresunspor,winter,out,Osman Paşa Zorlu,700251,23,Türkiye,Centre-Back,CB,25000.0,Zonguldak Kömürspor,Türkiye,0.0,0
+2022,Super Lig,Giresunspor,winter,out,Fatih Yılmaz,813032,20,Türkiye,Centre-Back,CB,75000.0,Osmaniyespor FK,Türkiye,0.0,1
+2022,Super Lig,Giresunspor,winter,out,Ertuğrul Şenlikoğlu,385909,23,Türkiye,Right-Back,RB,25000.0,Erbaaspor,Türkiye,0.0,1
+2022,Super Lig,Giresunspor,winter,out,Sergen Piçinciol,306222,27,Türkiye,Centre-Back,CB,575000.0,Bandirmaspor,Türkiye,,0
+2022,Super Lig,Giresunspor,winter,out,Çekdar Orhan,315209,24,Türkiye,Attacking Midfield,AM,275000.0,Amed SK,Türkiye,0.0,1
+2022,Super Lig,Giresunspor,winter,out,Oğulcan Çağlayan,248219,26,Türkiye,Right Winger,RW,600000.0,Galatasaray,Türkiye,0.0,1
+2022,Super Lig,Hatayspor,summer,in,Erce Kardeşler,291548,28,Türkiye,Goalkeeper,GK,250000.0,Trabzonspor,Türkiye,400000.0,0
+2022,Super Lig,Hatayspor,summer,in,Kerim Alıcı,341646,25,Türkiye,Right-Back,RB,550000.0,Göztepe,Türkiye,110000.0,0
+2022,Super Lig,Hatayspor,summer,in,Zé Luís,134602,31,Cape Verde,Centre-Forward,CF,1500000.0,Al-Taawoun FC,Saudi Arabia,0.0,0
+2022,Super Lig,Hatayspor,summer,in,Kevin Varga,385906,26,Hungary,Left Winger,LW,1400000.0,Kasimpasa,Türkiye,0.0,0
+2022,Super Lig,Hatayspor,summer,in,Christian Atsu,186997,31,Ghana,Left Winger,LW,700000.0,Al-Raed SFC,Saudi Arabia,0.0,0
+2022,Super Lig,Hatayspor,summer,in,Ognjen Vranjes,94807,32,Bosnia-Herzegovina,Centre-Back,CB,800000.0,AEK Athens,Greece,0.0,0
+2022,Super Lig,Hatayspor,summer,in,Cengiz Demir,646948,21,Türkiye,Centre-Back,CB,75000.0,Antalyaspor,Türkiye,0.0,0
+2022,Super Lig,Hatayspor,summer,in,Koray Yağcı,720612,19,Türkiye,Centre-Forward,CF,100000.0,Besiktas JK U19,Türkiye,0.0,0
+2022,Super Lig,Hatayspor,summer,in,Burak Yılmaz,291927,26,Türkiye,Centre-Back,CB,100000.0,Samsunspor,Türkiye,0.0,0
+2022,Super Lig,Hatayspor,summer,in,Rayane Aabid,468244,30,France,Central Midfield,CM,1000000.0,Kasimpasa,Türkiye,0.0,0
+2022,Super Lig,Hatayspor,summer,in,Musa Çağıran,90959,29,Türkiye,Defensive Midfield,DM,375000.0,Konyaspor,Türkiye,0.0,0
+2022,Super Lig,Hatayspor,summer,in,Kévin Soni,353959,24,Cameroon,Centre-Forward,CF,800000.0,Asteras Tripolis,Greece,0.0,1
+2022,Super Lig,Hatayspor,summer,in,Sarper Çağlar,655913,19,Türkiye,Left-Back,LB,100000.0,Galatasaray U19,Türkiye,,0
+2022,Super Lig,Hatayspor,summer,in,Berke Önde,461954,22,Türkiye,Centre-Forward,CF,10000.0,Without Club,,,0
+2022,Super Lig,Hatayspor,summer,in,Kaan Kanak,123527,31,Türkiye,Left-Back,LB,150000.0,Without Club,,,0
+2022,Super Lig,Hatayspor,winter,in,Jeremy Dudziak,147359,27,Tunisia,Central Midfield,CM,1000000.0,SpVgg Greuther Fürth,Germany,0.0,1
+2022,Super Lig,Hatayspor,winter,in,Burak Bekaroğlu,293903,25,Türkiye,Centre-Back,CB,600000.0,Without Club,,,0
+2022,Super Lig,Hatayspor,summer,out,Mohammed Kamara,637273,24,Liberia,Left Winger,LW,1400000.0,Hapoel Haifa,Israel,0.0,0
+2022,Super Lig,Hatayspor,summer,out,Fatih Kurucuk,337516,24,Türkiye,Centre-Back,CB,1800000.0,Bandirmaspor,Türkiye,0.0,0
+2022,Super Lig,Hatayspor,summer,out,Munir El Kajoui,97925,33,Morocco,Goalkeeper,GK,1500000.0,Al-Wehda FC,Saudi Arabia,0.0,0
+2022,Super Lig,Hatayspor,summer,out,Mame Diouf,62049,34,Senegal,Centre-Forward,CF,1200000.0,Konyaspor,Türkiye,0.0,0
+2022,Super Lig,Hatayspor,summer,out,Burak Çamoğlu,197402,25,Türkiye,Right-Back,RB,150000.0,Adanaspor,Türkiye,0.0,0
+2022,Super Lig,Hatayspor,summer,out,Adama Traoré,262608,27,Mali,Attacking Midfield,AM,4000000.0,Hull City,England,0.0,0
+2022,Super Lig,Hatayspor,summer,out,Berke Önde,461954,22,Türkiye,Centre-Forward,CF,10000.0,Usak Spor,Türkiye,0.0,1
+2022,Super Lig,Hatayspor,summer,out,Cengiz Demir,646948,21,Türkiye,Centre-Back,CB,75000.0,Kirklarelispor,Türkiye,0.0,1
+2022,Super Lig,Hatayspor,summer,out,Eren Fansa,873550,19,Türkiye,Centre-Back,CB,50000.0,Diyarbekir Spor,Türkiye,,0
+2022,Super Lig,Hatayspor,summer,out,Ahmet Hakan Şahin,539955,23,Türkiye,Centre-Forward,CF,50000.0,Usak Spor,Türkiye,,0
+2022,Super Lig,Hatayspor,summer,out,Osman Şahin,563956,24,Türkiye,Right Winger,RW,50000.0,Igdir FK,Türkiye,,0
+2022,Super Lig,Hatayspor,summer,out,Isaac Sackey,259943,28,Ghana,Defensive Midfield,DM,1200000.0,Ümraniyespor,Türkiye,,0
+2022,Super Lig,Hatayspor,summer,out,Abdurrahman Canlı,319679,25,Türkiye,Defensive Midfield,DM,350000.0,Bodrum FK,Türkiye,,0
+2022,Super Lig,Hatayspor,summer,out,Kahraba,176072,28,Egypt,Centre-Forward,CF,1100000.0,Al Ahly FC,Egypt,0.0,1
+2022,Super Lig,Hatayspor,summer,out,Yassine Benzia,187847,27,Algeria,Attacking Midfield,AM,1900000.0,Dijon FCO,France,0.0,1
+2022,Super Lig,Hatayspor,summer,out,Emre Kaplan,645932,21,Türkiye,Left-Back,LB,300000.0,Basaksehir FK,Türkiye,0.0,1
+2022,Super Lig,Hatayspor,winter,out,Mehdi Boudjemaa,496357,24,Algeria,Central Midfield,CM,1500000.0,Ferencvárosi TC,Hungary,100000.0,1
+2022,Super Lig,Hatayspor,winter,out,Muhammed Mert,183233,28,Türkiye,Central Midfield,CM,150000.0,Manisa FK,Türkiye,0.0,0
+2022,Super Lig,Hatayspor,winter,out,Ayoub El Kaabi,521127,29,Morocco,Centre-Forward,CF,4099999.9999999995,Al-Sadd SC,Qatar,0.0,0
+2022,Super Lig,Hatayspor,winter,out,Kaan Kanak,123527,32,Türkiye,Left-Back,LB,175000.0,Manisa FK,Türkiye,0.0,0
+2022,Super Lig,Hatayspor,winter,out,Kevin Varga,385906,26,Hungary,Left Winger,LW,1500000.0,Debreceni VSC,Hungary,0.0,0
+2022,Super Lig,Hatayspor,winter,out,Onur Ergün,293998,30,Türkiye,Defensive Midfield,DM,1200000.0,Istanbulspor,Türkiye,0.0,1
+2022,Super Lig,Hatayspor,winter,out,Sadık Baş,294091,28,Türkiye,Right Winger,RW,300000.0,Bucaspor 1928 ,Türkiye,0.0,1
+2022,Super Lig,Hatayspor,winter,out,Engin Can Aksoy,880259,19,Türkiye,Left-Back,LB,50000.0,Eyüpspor,Türkiye,0.0,1
+2022,Super Lig,Hatayspor,winter,out,Abdullah Yiğiter,393371,22,Türkiye,Goalkeeper,GK,100000.0,Caykur Rizespor,Türkiye,0.0,1
+2022,Super Lig,Hatayspor,winter,out,Burak Öksüz,393243,27,Türkiye,Centre-Back,CB,1100000.0,Bodrum FK,Türkiye,0.0,1
+2022,Super Lig,Hatayspor,winter,out,Sarper Çağlar,655913,20,Türkiye,Left-Back,LB,100000.0,Eyüpspor,Türkiye,0.0,1
+2022,Super Lig,Hatayspor,winter,out,Selimcan Temel,653877,22,Türkiye,Defensive Midfield,DM,100000.0,Fethiyespor,Türkiye,0.0,1
+2022,Super Lig,Hatayspor,winter,out,Ali Yıldız,1105761,15,Türkiye,Central Midfield,CM,,Pendikspor,Türkiye,0.0,1
+2022,Super Lig,Hatayspor,winter,out,Cengiz Demir,646948,21,Türkiye,Centre-Back,CB,100000.0,Usak Spor,Türkiye,0.0,1
+2022,Super Lig,Hatayspor,winter,out,Koray Yağcı,720612,19,Türkiye,Centre-Forward,CF,100000.0,Isparta 32 Spor,Türkiye,0.0,1
+2022,Super Lig,Hatayspor,winter,out,Musa Çağıran,90959,30,Türkiye,Defensive Midfield,DM,300000.0,Bucaspor 1928 ,Türkiye,0.0,1
+2022,Super Lig,Hatayspor,winter,out,Kerim Alıcı,341646,25,Türkiye,Right-Back,RB,450000.0,Altinordu FK,Türkiye,0.0,1
+2022,Super Lig,Hatayspor,winter,out,Saba Lobjanidze,251029,28,Georgia,Left Winger,LW,3300000.0,Fatih Karagümrük,Türkiye,0.0,1
+2022,Super Lig,Hatayspor,winter,out,Bertuğ Yıldırım,672803,20,Türkiye,Centre-Forward,CF,700000.0,Antalyaspor,Türkiye,0.0,1
+2022,Super Lig,Hatayspor,winter,out,Sam Adekugbe,287578,28,Canada,Left-Back,LB,2000000.0,Galatasaray,Türkiye,0.0,1
+2022,Super Lig,Hatayspor,winter,out,Kévin Soni,353959,24,Cameroon,Centre-Forward,CF,700000.0,Asteras Tripolis,Greece,0.0,1
+2022,Super Lig,Istanbulspor,summer,in,Raymond Owusu,837005,20,Ghana,Centre-Forward,CF,400000.0,Zorya Lugansk,Ukraine,0.0,0
+2022,Super Lig,Istanbulspor,summer,in,Adi Mehremic,192897,30,Bosnia-Herzegovina,Centre-Back,CB,150000.0,Wisla Kraków,Poland,0.0,0
+2022,Super Lig,Istanbulspor,summer,in,Sidrit Guri,189604,28,Albania,Centre-Forward,CF,400000.0,Shkendija Tetovo,North Macedonia,0.0,0
+2022,Super Lig,Istanbulspor,summer,in,Denis Kovacevic,672248,19,Bosnia-Herzegovina,Left-Back,LB,50000.0,FK Zeljeznicar Sarajevo,Bosnia-Herzegovina,0.0,0
+2022,Super Lig,Istanbulspor,summer,in,David Jensen,78819,30,Denmark,Goalkeeper,GK,700000.0,New York Red Bulls,United States,0.0,0
+2022,Super Lig,Istanbulspor,summer,in,Patrick Ebert,32622,35,Germany,Right Winger,RW,125000.0,AO Kavala,Greece,0.0,0
+2022,Super Lig,Istanbulspor,summer,in,Vefa Temel,700006,19,Türkiye,Attacking Midfield,AM,75000.0,Bursaspor,Türkiye,0.0,0
+2022,Super Lig,Istanbulspor,summer,in,Demeaco Duhaney,380913,23,England,Right-Back,RB,300000.0,Stoke City,England,0.0,1
+2022,Super Lig,Istanbulspor,winter,in,Onur Ergün,293998,30,Türkiye,Defensive Midfield,DM,1200000.0,Hatayspor,Türkiye,0.0,1
+2022,Super Lig,Istanbulspor,winter,in,Ertuğrul Ersoy,251079,26,Türkiye,Centre-Back,CB,750000.0,Gaziantep FK,Türkiye,0.0,1
+2022,Super Lig,Istanbulspor,winter,in,Simon Deli,234124,31,Cote d'Ivoire,Centre-Back,CB,1000000.0,Adana Demirspor,Türkiye,0.0,1
+2022,Super Lig,Istanbulspor,winter,in,Kerem Şen,700010,20,Türkiye,Central Midfield,CM,400000.0,Trabzonspor,Türkiye,0.0,1
+2022,Super Lig,Istanbulspor,winter,in,Mahamadou Ba,627443,23,Mali,Defensive Midfield,DM,175000.0,Adana Demirspor,Türkiye,0.0,1
+2022,Super Lig,Istanbulspor,winter,in,Emeka Eze,498517,26,Nigeria,Centre-Forward,CF,800000.0,Eyüpspor,Türkiye,0.0,1
+2022,Super Lig,Istanbulspor,winter,in,Kubilay Köylü,459965,23,Türkiye,Left Winger,LW,,Malatya Arguvan Spor Kulübü,Türkiye,,0
+2022,Super Lig,Istanbulspor,winter,in,Jason Lokilo,325200,24,DR Congo,Left Winger,LW,400000.0,Sparta Rotterdam,Netherlands,0.0,1
+2022,Super Lig,Istanbulspor,winter,in,Mirza Cihan,583970,22,Türkiye,Left Winger,LW,225000.0,Gaziantep FK,Türkiye,0.0,1
+2022,Super Lig,Istanbulspor,winter,in,Valmir Veliu,603348,22,Kosovo,Left Winger,LW,450000.0,Gaziantep FK,Türkiye,0.0,1
+2022,Super Lig,Istanbulspor,winter,in,Ahmet Kıvanç,340880,24,Türkiye,Goalkeeper,GK,50000.0,Adanaspor,Türkiye,0.0,1
+2022,Super Lig,Istanbulspor,summer,out,Emrecan Uzunhan,683828,21,Türkiye,Centre-Back,CB,525000.0,Besiktas JK,Türkiye,2000000.0,0
+2022,Super Lig,Istanbulspor,summer,out,Alperen Uysal,137610,28,Türkiye,Goalkeeper,GK,600000.0,Antalyaspor,Türkiye,0.0,0
+2022,Super Lig,Istanbulspor,summer,out,Fatih Aydın,398883,26,Türkiye,Right-Back,RB,,Büyükcekmece Tepecik Spor,Türkiye,0.0,0
+2022,Super Lig,Istanbulspor,summer,out,Yusuf Aklan,618153,21,Türkiye,Goalkeeper,GK,25000.0,Artvin Hopaspor,Türkiye,0.0,0
+2022,Super Lig,Istanbulspor,summer,out,Ferhat Yazgan,94037,29,Türkiye,Defensive Midfield,DM,250000.0,Igdir FK,Türkiye,0.0,0
+2022,Super Lig,Istanbulspor,summer,out,Mertan Öztürk,186813,29,Türkiye,Centre-Forward,CF,50000.0,Kocaelispor,Türkiye,0.0,0
+2022,Super Lig,Istanbulspor,summer,out,Alim Esgi,331646,23,Germany,Left Winger,LW,25000.0,Bayrampasa Spor,Türkiye,0.0,0
+2022,Super Lig,Istanbulspor,summer,out,Berk Ali Nizam,683827,22,Türkiye,Left Winger,LW,100000.0,Beyoglu Yeni Carsi FK,Türkiye,0.0,1
+2022,Super Lig,Istanbulspor,summer,out,Alperen Çaylak,587906,22,Türkiye,Left-Back,LB,25000.0,Karaköprü Belediye Spor,Türkiye,0.0,1
+2022,Super Lig,Istanbulspor,summer,out,Enes Durmuş,314215,25,Türkiye,Left Winger,LW,150000.0,Iskenderunspor,Türkiye,0.0,1
+2022,Super Lig,Istanbulspor,summer,out,Mustafa Sol,578106,20,Türkiye,Centre-Forward,CF,50000.0,Kirsehir FSK,Türkiye,0.0,1
+2022,Super Lig,Istanbulspor,summer,out,Yiğit Yitmez,621931,22,Türkiye,Goalkeeper,GK,25000.0,Ankara Demirspor,Türkiye,0.0,1
+2022,Super Lig,Istanbulspor,summer,out,Egehan Gök,404684,22,Türkiye,Central Midfield,CM,125000.0,Sivas Belediye Spor,Türkiye,0.0,1
+2022,Super Lig,Istanbulspor,summer,out,İsmail Şahinbaş,855619,19,Türkiye,Goalkeeper,GK,25000.0,Siirt Il Özel Idaresi Spor,Türkiye,0.0,1
+2022,Super Lig,Istanbulspor,summer,out,Arda Belen,617809,21,Türkiye,Right-Back,RB,50000.0,Sivas Belediye Spor,Türkiye,0.0,1
+2022,Super Lig,Istanbulspor,summer,out,Abdurrahman Emek,697321,21,Türkiye,Left Winger,LW,25000.0,Yeni Mersin Idmanyurdu,Türkiye,0.0,1
+2022,Super Lig,Istanbulspor,summer,out,Erdem Seçgin,461947,22,Türkiye,Attacking Midfield,AM,50000.0,Isparta 32 Spor,Türkiye,0.0,1
+2022,Super Lig,Istanbulspor,summer,out,Sabit Hakan Yılmaz,251111,25,Türkiye,Right Winger,RW,50000.0,Van Spor FK,Türkiye,0.0,1
+2022,Super Lig,Istanbulspor,summer,out,Fatih Tultak,605037,21,Türkiye,Centre-Back,CB,25000.0,Nazilli Belediyespor,Türkiye,0.0,1
+2022,Super Lig,Istanbulspor,summer,out,Berkay Görmez,411652,22,Türkiye,Left Winger,LW,400000.0,Sariyer,Türkiye,0.0,1
+2022,Super Lig,Istanbulspor,summer,out,Yusuf Tunç,622862,21,Türkiye,Centre-Forward,CF,175000.0,52 Orduspor FK,Türkiye,0.0,1
+2022,Super Lig,Istanbulspor,summer,out,Yunus Emre Yalçın,309850,27,Türkiye,Central Midfield,CM,175000.0,Without Club,,,0
+2022,Super Lig,Istanbulspor,summer,out,Marin Ljubic,532772,24,Croatia,Goalkeeper,GK,300000.0,Without Club,,,0
+2022,Super Lig,Istanbulspor,summer,out,Mustafa Yıldırım,672445,20,Azerbaijan,Centre-Forward,CF,100000.0,Without Club,,,0
+2022,Super Lig,Istanbulspor,summer,out,Görkem Güven,338837,24,Türkiye,Left Winger,LW,25000.0,Bulvarspor,Türkiye,0.0,1
+2022,Super Lig,Istanbulspor,summer,out,Ebrar Cumur,433612,22,Türkiye,Attacking Midfield,AM,50000.0,Trabzonspor,Türkiye,0.0,1
+2022,Super Lig,Istanbulspor,winter,out,Kristal Abazaj,481795,26,Albania,Right Winger,RW,225000.0,KF Tirana,Albania,0.0,0
+2022,Super Lig,Istanbulspor,winter,out,Mustafa Sol,578106,20,Türkiye,Centre-Forward,CF,25000.0,Catalcaspor,Türkiye,0.0,1
+2022,Super Lig,Istanbulspor,winter,out,Egehan Gök,404684,22,Türkiye,Central Midfield,CM,50000.0,Arnavutköy Belediyesi Genclik Ve Spor,Türkiye,0.0,1
+2022,Super Lig,Istanbulspor,winter,out,Kağan Bağış,432604,24,Türkiye,Right Winger,RW,150000.0,Yeni Mersin Idmanyurdu,Türkiye,0.0,1
+2022,Super Lig,Istanbulspor,winter,out,Enes Durmuş,314215,26,Türkiye,Left Winger,LW,100000.0,GMG Kastamonuspor ,Türkiye,0.0,1
+2022,Super Lig,Istanbulspor,winter,out,Fatih Tultak,605037,21,Türkiye,Centre-Back,CB,25000.0,Ergene Velimese Spor,Türkiye,0.0,1
+2022,Super Lig,Istanbulspor,winter,out,Dijlan Aydın,683826,22,Türkiye,Central Midfield,CM,100000.0,Karacabey Belediye Spor,Türkiye,0.0,1
+2022,Super Lig,Istanbulspor,winter,out,Melih Kabasakal,275683,26,Türkiye,Defensive Midfield,DM,525000.0,Eyüpspor,Türkiye,,0
+2022,Super Lig,Istanbulspor,winter,out,İbrahim Yılmaz,172565,28,Türkiye,Centre-Forward,CF,1000000.0,Eyüpspor,Türkiye,0.0,1
+2022,Super Lig,Istanbulspor,winter,out,Aldin Cajic,163380,30,Bosnia-Herzegovina,Central Midfield,CM,150000.0,Without Club,,,0
+2022,Super Lig,Istanbulspor,winter,out,İsmail Şahinbaş,855619,19,Türkiye,Goalkeeper,GK,25000.0,Without Club,,,0
+2022,Super Lig,Istanbulspor,winter,out,Patrick Ebert,32622,35,Germany,Right Winger,RW,75000.0,Retired,,,0
+2022,Super Lig,Kasimpasa,summer,in,Yunus Mallı,85352,30,Türkiye,Central Midfield,CM,400000.0,Trabzonspor,Türkiye,0.0,0
+2022,Super Lig,Kasimpasa,summer,in,Aytaç Kara,159908,29,Türkiye,Central Midfield,CM,1000000.0,Galatasaray,Türkiye,0.0,0
+2022,Super Lig,Kasimpasa,summer,in,Selim Dilli,395849,24,Türkiye,Central Midfield,CM,50000.0,Artvin Hopaspor,Türkiye,0.0,0
+2022,Super Lig,Kasimpasa,summer,in,Stéphane Bahoken,170953,30,Cameroon,Centre-Forward,CF,4000000.0,Angers SCO,France,0.0,0
+2022,Super Lig,Kasimpasa,summer,in,Raoul Petretta,243878,25,Italy,Left-Back,LB,500000.0,FC Basel 1893,Switzerland,0.0,0
+2022,Super Lig,Kasimpasa,summer,in,Fodé Koita,79110,31,Guinea,Centre-Forward,CF,300000.0,Trabzonspor,Türkiye,0.0,1
+2022,Super Lig,Kasimpasa,summer,in,Mickaël Tirpan,201248,28,Türkiye,Right-Back,RB,700000.0,Fortuna Sittard,Netherlands,,0
+2022,Super Lig,Kasimpasa,summer,in,Ali Demirel,606126,19,Türkiye,Centre-Forward,CF,50000.0,VfL Bochum U19,Germany,,0
+2022,Super Lig,Kasimpasa,summer,in,Daniel Graovac,131728,29,Bosnia-Herzegovina,Centre-Back,CB,1600000.0,CFR Cluj,Romania,,0
+2022,Super Lig,Kasimpasa,summer,in,Oğuzhan Yılmaz,891989,19,Türkiye,Defensive Midfield,DM,100000.0,Ankaraspor,Türkiye,,0
+2022,Super Lig,Kasimpasa,summer,in,Erdem Çetinkaya,701834,21,Türkiye,Left Winger,LW,300000.0,Ankaraspor,Türkiye,,0
+2022,Super Lig,Kasimpasa,summer,in,Recep Yemişci,352651,23,Türkiye,Centre-Back,CB,175000.0,Ankaraspor,Türkiye,0.0,1
+2022,Super Lig,Kasimpasa,summer,in,Turgay Gemicibaşı,169460,26,Türkiye,Defensive Midfield,DM,1000000.0,SK Austria Klagenfurt,Austria,0.0,1
+2022,Super Lig,Kasimpasa,summer,in,Bersant Celina,229695,25,Kosovo,Attacking Midfield,AM,3000000.0,Dijon FCO,France,0.0,1
+2022,Super Lig,Kasimpasa,summer,in,Sadık Çiftpınar,176354,29,Türkiye,Centre-Back,CB,350000.0,Without Club,,,0
+2022,Super Lig,Kasimpasa,winter,in,Gökhan Gül,269171,24,Germany,Defensive Midfield,DM,400000.0,Genclerbirligi Ankara,Türkiye,,0
+2022,Super Lig,Kasimpasa,winter,in,Mounir Chouiar,355641,24,France,Left Winger,LW,4000000.0,Basaksehir FK,Türkiye,0.0,1
+2022,Super Lig,Kasimpasa,winter,in,Ali Gholizadeh,294772,26,Iran,Right Winger,RW,2000000.0,Royal Charleroi SC,Belgium,0.0,1
+2022,Super Lig,Kasimpasa,winter,in,Fabiano,657387,22,Brazil,Right-Back,RB,3500000.0,SC Braga,Portugal,0.0,1
+2022,Super Lig,Kasimpasa,winter,in,Mickaël Malsa,205569,27,Martinique,Defensive Midfield,DM,1500000.0,Real Valladolid CF,Spain,0.0,1
+2022,Super Lig,Kasimpasa,winter,in,Günay Güvenç,114422,31,Türkiye,Goalkeeper,GK,2300000.0,Gaziantep FK,Türkiye,0.0,1
+2022,Super Lig,Kasimpasa,winter,in,Mustafa Eskihellaç,390379,25,Türkiye,Left-Back,LB,1300000.0,Gaziantep FK,Türkiye,0.0,1
+2022,Super Lig,Kasimpasa,winter,in,Papy Djilobodji,136610,34,Senegal,Centre-Back,CB,1100000.0,Gaziantep FK,Türkiye,0.0,1
+2022,Super Lig,Kasimpasa,summer,out,Eren Elmalı,616894,21,Türkiye,Left-Back,LB,3200000.0,Trabzonspor,Türkiye,3600000.0,0
+2022,Super Lig,Kasimpasa,summer,out,Doğucan Haspolat,387143,22,Türkiye,Defensive Midfield,DM,2000000.0,Trabzonspor,Türkiye,1200000.0,0
+2022,Super Lig,Kasimpasa,summer,out,Kevin Varga,385906,26,Hungary,Left Winger,LW,1400000.0,Hatayspor,Türkiye,0.0,0
+2022,Super Lig,Kasimpasa,summer,out,Berk Çetin,382759,22,Türkiye,Left-Back,LB,75000.0,Olympic Charleroi,Belgium,0.0,0
+2022,Super Lig,Kasimpasa,summer,out,Hasan Bilal,406295,24,Türkiye,Left Winger,LW,50000.0,Van Spor FK,Türkiye,0.0,0
+2022,Super Lig,Kasimpasa,summer,out,Sakıb Aytaç,114491,30,Türkiye,Centre-Back,CB,100000.0,Esenler Erokspor,Türkiye,0.0,0
+2022,Super Lig,Kasimpasa,summer,out,Rayane Aabid,468244,30,France,Central Midfield,CM,1000000.0,Hatayspor,Türkiye,0.0,0
+2022,Super Lig,Kasimpasa,summer,out,Nabil Dirar,42267,36,Morocco,Right-Back,RB,100000.0,SC Chabab Mohammédia,Morocco,0.0,0
+2022,Super Lig,Kasimpasa,summer,out,Hasan Emre Yeşilyurt,622830,22,Türkiye,Central Midfield,CM,50000.0,Kirklarelispor,Türkiye,0.0,1
+2022,Super Lig,Kasimpasa,summer,out,Ramazan Özkanlı,867079,19,Türkiye,Goalkeeper,GK,,Sariyer,Türkiye,0.0,1
+2022,Super Lig,Kasimpasa,summer,out,Ahmet Demirli,616891,22,Türkiye,Centre-Forward,CF,100000.0,Artvin Hopaspor,Türkiye,0.0,1
+2022,Super Lig,Kasimpasa,summer,out,Furkan Külekçi,622831,21,Türkiye,Centre-Forward,CF,100000.0,Edirnespor,Türkiye,0.0,1
+2022,Super Lig,Kasimpasa,summer,out,Murat Can Yıldız,505934,24,Türkiye,Goalkeeper,GK,50000.0,Etimesgut Belediyespor,Türkiye,0.0,1
+2022,Super Lig,Kasimpasa,summer,out,Ethem Erboğa,338066,23,Türkiye,Centre-Forward,CF,175000.0,Sanliurfaspor,Türkiye,0.0,1
+2022,Super Lig,Kasimpasa,summer,out,Yasin Dülger,296919,26,Türkiye,Left Winger,LW,50000.0,24 Erzincanspor,Türkiye,,0
+2022,Super Lig,Kasimpasa,summer,out,Tomas Brecka,265879,28,Czech Republic,Centre-Back,CB,400000.0,1.FC Slovacko,Czech Republic,,0
+2022,Super Lig,Kasimpasa,summer,out,Harun Tekin,85213,33,Türkiye,Goalkeeper,GK,100000.0,Eyüpspor,Türkiye,,0
+2022,Super Lig,Kasimpasa,summer,out,Erdem Çetinkaya,701834,21,Türkiye,Left Winger,LW,300000.0,Bodrum FK,Türkiye,0.0,1
+2022,Super Lig,Kasimpasa,summer,out,Uros Spajic,160222,29,Serbia,Centre-Back,CB,2200000.0,Without Club,,,0
+2022,Super Lig,Kasimpasa,summer,out,Recep Yemişci,352651,23,Türkiye,Centre-Back,CB,175000.0,Ankaraspor,Türkiye,0.0,1
+2022,Super Lig,Kasimpasa,summer,out,Michal Travnik,189640,28,Czech Republic,Central Midfield,CM,650000.0,AC Sparta Prague,Czech Republic,0.0,1
+2022,Super Lig,Kasimpasa,summer,out,Jackson Muleka,549966,22,DR Congo,Centre-Forward,CF,5000000.0,Standard Liège,Belgium,0.0,1
+2022,Super Lig,Kasimpasa,summer,out,Awer Mabil,255729,26,Australia,Left Winger,LW,1800000.0,FC Midtjylland,Denmark,0.0,1
+2022,Super Lig,Kasimpasa,summer,out,Umut Bozok,259025,25,Türkiye,Centre-Forward,CF,5000000.0,FC Lorient,France,0.0,1
+2022,Super Lig,Kasimpasa,winter,out,Jeffrey Bruma,88721,31,Netherlands,Centre-Back,CB,450000.0,SC Heerenveen,Netherlands,0.0,0
+2022,Super Lig,Kasimpasa,winter,out,Murat Can Yıldız,505934,24,Türkiye,Goalkeeper,GK,50000.0,Mus 1984 Musspor,Türkiye,0.0,1
+2022,Super Lig,Kasimpasa,winter,out,Selim Dilli,395849,24,Türkiye,Central Midfield,CM,75000.0,Karaman FK,Türkiye,0.0,1
+2022,Super Lig,Kasimpasa,winter,out,Ahmet Demirli,616891,22,Türkiye,Centre-Forward,CF,100000.0,Somaspor,Türkiye,0.0,1
+2022,Super Lig,Kasimpasa,winter,out,Oğuzhan Yılmaz,891989,19,Türkiye,Defensive Midfield,DM,100000.0,Kirklarelispor,Türkiye,0.0,1
+2022,Super Lig,Kasimpasa,winter,out,Furkan Külekçi,622831,21,Türkiye,Centre-Forward,CF,100000.0,Nigde Anadolu FK,Türkiye,0.0,1
+2022,Super Lig,Kasimpasa,winter,out,Ethem Erboğa,338066,24,Türkiye,Centre-Forward,CF,100000.0,Büyükcekmece Tepecik Spor,Türkiye,0.0,1
+2022,Super Lig,Kasimpasa,winter,out,Raoul Petretta,243878,25,Italy,Left-Back,LB,400000.0,Toronto FC,United States,,0
+2022,Super Lig,Kasimpasa,winter,out,Bersant Celina,229695,26,Kosovo,Attacking Midfield,AM,3000000.0,Dijon FCO,France,0.0,1
+2022,Super Lig,Kayserispor,summer,out,Emre Demir,637669,18,Türkiye,Attacking Midfield,AM,1800000.0,FC Barcelona Atlètic,Spain,2000000.0,0
+2022,Super Lig,Kayserispor,summer,out,İbrahim Akdağ,182079,30,Türkiye,Central Midfield,CM,675000.0,Eyüpspor,Türkiye,0.0,0
+2022,Super Lig,Kayserispor,summer,out,Silviu Lung Jr.,73731,33,Romania,Goalkeeper,GK,400000.0,Al-Raed SFC,Saudi Arabia,0.0,0
+2022,Super Lig,Kayserispor,summer,out,Yasir Subaşı,375719,26,Türkiye,Left-Back,LB,300000.0,Konyaspor,Türkiye,0.0,0
+2022,Super Lig,Kayserispor,summer,out,Jocelyn Janneh,973852,19,Guinea,Defensive Midfield,DM,50000.0,SC Bastia,France,0.0,0
+2022,Super Lig,Kayserispor,summer,out,Denis Alibec,81396,31,Romania,Centre-Forward,CF,700000.0,FCV Farul Constanta,Romania,0.0,0
+2022,Super Lig,Kayserispor,summer,out,Emin Can Uysal,700035,20,Türkiye,Attacking Midfield,AM,,Adana 1954 FK,Türkiye,0.0,0
+2022,Super Lig,Kayserispor,summer,out,Kevin Brobbey,187290,29,Netherlands,Centre-Forward,CF,800000.0,FC Rapid 1923,Romania,0.0,0
+2022,Super Lig,Kayserispor,summer,out,Uğur Demirok,44977,34,Türkiye,Centre-Back,CB,150000.0,Eyüpspor,Türkiye,,0
+2022,Super Lig,Kayserispor,summer,out,Taner Gümüş,653091,21,Türkiye,Left Winger,LW,150000.0,Amed SK,Türkiye,,0
+2022,Super Lig,Kayserispor,summer,out,Nuh Naci Kırlankıçoğlu,567664,25,Türkiye,Goalkeeper,GK,,Without Club,,,0
+2022,Super Lig,Kayserispor,summer,out,Serkan Kenter,859105,23,France,Right Winger,RW,25000.0,Without Club,,,0
+2022,Super Lig,Kayserispor,summer,out,Abdulkadir Parmak,276337,27,Türkiye,Central Midfield,CM,2000000.0,Trabzonspor,Türkiye,0.0,1
+2022,Super Lig,Kayserispor,summer,out,Mert Çetin,391498,25,Türkiye,Centre-Back,CB,1700000.0,Hellas Verona,Italy,0.0,1
+2022,Super Lig,Kayserispor,winter,out,Onur Bulut,152733,28,Türkiye,Right-Back,RB,3000000.0,Besiktas JK,Türkiye,1000000.0,0
+2022,Super Lig,Kayserispor,winter,out,Campanharo,103674,30,Brazil,Central Midfield,CM,1200000.0,Sport Club Internacional,Brazil,0.0,0
+2022,Super Lig,Kayserispor,winter,out,Hayrullah Erkip,873542,19,Türkiye,Right Winger,RW,100000.0,Genclerbirligi Ankara,Türkiye,0.0,1
+2022,Super Lig,Kayserispor,winter,out,Eray Özbek,662140,20,Türkiye,Attacking Midfield,AM,50000.0,Kirsehir FSK,Türkiye,0.0,1
+2022,Super Lig,Kayserispor,winter,out,Mustafa Pektemek,58602,34,Türkiye,Centre-Forward,CF,125000.0,Eyüpspor,Türkiye,,0
+2022,Super Lig,Kayserispor,winter,out,Andrea Bertolacci,99227,31,Italy,Central Midfield,CM,1900000.0,Without Club,,,0
+2022,Super Lig,Konyaspor,summer,in,Konrad Michalak,387160,24,Poland,Left Winger,LW,1700000.0,Akhmat Grozny,Russia,500000.0,0
+2022,Super Lig,Konyaspor,summer,in,Francisco Calvo,188470,30,Costa Rica,Centre-Back,CB,1000000.0,San Jose Earthquakes,United States,495000.0,0
+2022,Super Lig,Konyaspor,summer,in,Erhan Erentürk,342065,27,Türkiye,Goalkeeper,GK,300000.0,Bursaspor,Türkiye,0.0,0
+2022,Super Lig,Konyaspor,summer,in,Hüseyin Mert Uyanıker,634419,22,Türkiye,Defensive Midfield,DM,25000.0,1922 Konyaspor,Türkiye,0.0,0
+2022,Super Lig,Konyaspor,summer,in,Fuat Duran,663480,21,Türkiye,Defensive Midfield,DM,50000.0,1922 Konyaspor,Türkiye,0.0,0
+2022,Super Lig,Konyaspor,summer,in,Uche Ikpeazu,245765,27,Uganda,Centre-Forward,CF,800000.0,Middlesbrough FC,England,0.0,0
+2022,Super Lig,Konyaspor,summer,in,Muhammet Demir,83560,30,Türkiye,Centre-Forward,CF,1400000.0,Gaziantep FK,Türkiye,0.0,0
+2022,Super Lig,Konyaspor,summer,in,Kahraman Demirtaş,403834,28,Türkiye,Centre-Back,CB,350000.0,Göztepe,Türkiye,0.0,0
+2022,Super Lig,Konyaspor,summer,in,Domagoj Pavicic,131326,28,Croatia,Central Midfield,CM,2000000.0,HNK Rijeka,Croatia,0.0,0
+2022,Super Lig,Konyaspor,summer,in,Ahmet Oğuz,291758,29,Türkiye,Right-Back,RB,1300000.0,Sivasspor,Türkiye,0.0,0
+2022,Super Lig,Konyaspor,summer,in,Yasir Subaşı,375719,26,Türkiye,Left-Back,LB,300000.0,Kayserispor,Türkiye,0.0,0
+2022,Super Lig,Konyaspor,summer,in,Bruno Paz,314963,24,Angola,Central Midfield,CM,225000.0,Sporting CP B,Portugal,0.0,0
+2022,Super Lig,Konyaspor,summer,in,Mame Diouf,62049,34,Senegal,Centre-Forward,CF,1200000.0,Hatayspor,Türkiye,0.0,0
+2022,Super Lig,Konyaspor,summer,in,Cebrail Karayel,260330,27,Türkiye,Right-Back,RB,875000.0,Altay SK,Türkiye,0.0,0
+2022,Super Lig,Konyaspor,summer,in,Robert Muric,226085,26,Croatia,Right Winger,RW,3500000.0,HNK Rijeka,Croatia,,0
+2022,Super Lig,Konyaspor,winter,in,Niko Rak,672243,19,Croatia,Defensive Midfield,DM,1500000.0,HNK Sibenik,Croatia,200000.0,0
+2022,Super Lig,Konyaspor,winter,in,Alejandro Pozuelo,188853,31,Spain,Attacking Midfield,AM,4000000.0,Inter Miami CF,United States,0.0,0
+2022,Super Lig,Konyaspor,winter,in,Metehan Mert,633442,23,Türkiye,Centre-Back,CB,400000.0,Genclerbirligi Ankara,Türkiye,,0
+2022,Super Lig,Konyaspor,winter,in,Andreas Bouchalakis,157535,29,Greece,Central Midfield,CM,4000000.0,Olympiacos Piraeus,Greece,0.0,1
+2022,Super Lig,Konyaspor,winter,in,Mahir Emreli,255957,25,Azerbaijan,Centre-Forward,CF,1000000.0,GNK Dinamo Zagreb,Croatia,0.0,1
+2022,Super Lig,Konyaspor,winter,in,Marlos Moreno,345654,26,Colombia,Left Winger,LW,800000.0,ESTAC Troyes,France,0.0,1
+2022,Super Lig,Konyaspor,summer,out,Abdülkerim Bardakcı,199316,27,Türkiye,Centre-Back,CB,5000000.0,Galatasaray,Türkiye,2800000.0,0
+2022,Super Lig,Konyaspor,summer,out,Amar Rahmanovic,166086,28,Bosnia-Herzegovina,Attacking Midfield,AM,2800000.0,Krylya Sovetov Samara,Russia,750000.0,0
+2022,Super Lig,Konyaspor,summer,out,Fuat Duran,663480,21,Türkiye,Defensive Midfield,DM,50000.0,Menemen FK,Türkiye,0.0,0
+2022,Super Lig,Konyaspor,summer,out,Erten Ersu,203986,28,Türkiye,Goalkeeper,GK,50000.0,Gaziantep FK,Türkiye,0.0,0
+2022,Super Lig,Konyaspor,summer,out,Eray Birniçan,45212,34,Türkiye,Goalkeeper,GK,50000.0,GMG Kastamonuspor ,Türkiye,0.0,0
+2022,Super Lig,Konyaspor,summer,out,Marin Anicic,60784,32,Bosnia-Herzegovina,Centre-Back,CB,50000.0,FK Sarajevo,Bosnia-Herzegovina,0.0,0
+2022,Super Lig,Konyaspor,summer,out,Musa Çağıran,90959,29,Türkiye,Defensive Midfield,DM,375000.0,Hatayspor,Türkiye,0.0,0
+2022,Super Lig,Konyaspor,summer,out,Şener Kaya,738867,19,Türkiye,Left Winger,LW,75000.0,Samsunspor,Türkiye,0.0,0
+2022,Super Lig,Konyaspor,summer,out,Nafican Yardımcı,647805,21,Türkiye,Left-Back,LB,75000.0,1461 Trabzon FK,Türkiye,0.0,1
+2022,Super Lig,Konyaspor,summer,out,Adem Eren Kabak,620083,21,Türkiye,Defensive Midfield,DM,150000.0,Bucaspor 1928 ,Türkiye,0.0,1
+2022,Super Lig,Konyaspor,summer,out,Hüseyin Mert Uyanıker,634419,22,Türkiye,Defensive Midfield,DM,25000.0,1922 Konyaspor,Türkiye,0.0,1
+2022,Super Lig,Konyaspor,summer,out,Sokol Cikalleshi,99047,32,Albania,Centre-Forward,CF,1200000.0,Al-Khaleej FC,Saudi Arabia,0.0,1
+2022,Super Lig,Konyaspor,summer,out,Ozan Can Oruç,361272,22,Türkiye,Goalkeeper,GK,100000.0,1922 Konyaspor,Türkiye,0.0,1
+2022,Super Lig,Konyaspor,summer,out,Ekrem Kayılıbal,621911,22,Türkiye,Right Winger,RW,75000.0,Menemen FK,Türkiye,,0
+2022,Super Lig,Konyaspor,summer,out,Nejc Skubic,91434,33,Slovenia,Right-Back,RB,,Retired,,,0
+2022,Super Lig,Konyaspor,summer,out,Paul-José Mpoku,73846,30,DR Congo,Attacking Midfield,AM,1500000.0,Without Club,,,0
+2022,Super Lig,Konyaspor,summer,out,Alberk Koç,374882,25,Türkiye,Left-Back,LB,150000.0,Caykur Rizespor,Türkiye,0.0,1
+2022,Super Lig,Konyaspor,summer,out,Ahmed Hassan,184816,29,Egypt,Centre-Forward,CF,3000000.0,Olympiacos Piraeus,Greece,0.0,1
+2022,Super Lig,Konyaspor,summer,out,Konrad Michalak,387160,24,Poland,Left Winger,LW,1700000.0,Akhmat Grozny,Russia,0.0,1
+2022,Super Lig,Konyaspor,winter,out,Amir Hadziahmetovic,293213,25,Bosnia-Herzegovina,Defensive Midfield,DM,6000000.0,Besiktas JK,Türkiye,3200000.0,0
+2022,Super Lig,Konyaspor,winter,out,Zymer Bytyqi,213555,26,Kosovo,Left Winger,LW,5000000.0,Olympiacos Piraeus,Greece,1000000.0,0
+2022,Super Lig,Konyaspor,winter,out,Amilton,227676,33,Brazil,Right Winger,RW,550000.0,Caykur Rizespor,Türkiye,0.0,0
+2022,Super Lig,Konyaspor,winter,out,Barış Yardımcı,91948,30,Türkiye,Right-Back,RB,100000.0,Ankara Keciörengücü,Türkiye,0.0,0
+2022,Super Lig,Konyaspor,winter,out,Adem Eren Kabak,620083,22,Türkiye,Defensive Midfield,DM,150000.0,Sanliurfaspor,Türkiye,0.0,1
+2022,Super Lig,Konyaspor,winter,out,Ahmet Karademir,727085,18,Türkiye,Left Winger,LW,175000.0,Karaman FK,Türkiye,0.0,1
+2022,Super Lig,MKE Ankaragücü,summer,in,Nihad Mujakic,380919,24,Bosnia-Herzegovina,Centre-Back,CB,400000.0,FK Sarajevo,Bosnia-Herzegovina,500000.0,0
+2022,Super Lig,MKE Ankaragücü,summer,in,Lamine Diack,649024,21,Senegal,Defensive Midfield,DM,500000.0,Fenerbahce,Türkiye,350000.0,0
+2022,Super Lig,MKE Ankaragücü,summer,in,Mervan Yiğit,719263,21,Türkiye,Right Winger,RW,50000.0,Kocaelispor,Türkiye,154000.0,0
+2022,Super Lig,MKE Ankaragücü,summer,in,Doğukan Kaya,670295,22,Türkiye,Goalkeeper,GK,25000.0,Kocaelispor,Türkiye,55000.0,0
+2022,Super Lig,MKE Ankaragücü,summer,in,Uros Radakovic,169511,28,Serbia,Centre-Back,CB,800000.0,Arsenal Tula,Russia,0.0,0
+2022,Super Lig,MKE Ankaragücü,summer,in,Marlon,406675,25,Brazil,Left-Back,LB,3500000.0,Fluminense Football Club,Brazil,0.0,0
+2022,Super Lig,MKE Ankaragücü,summer,in,Federico Macheda,61887,30,Italy,Centre-Forward,CF,1200000.0,Panathinaikos FC,Greece,0.0,0
+2022,Super Lig,MKE Ankaragücü,summer,in,Jesé,134936,29,Spain,Left Winger,LW,3000000.0,UD Las Palmas,Spain,0.0,0
+2022,Super Lig,MKE Ankaragücü,summer,in,Fıratcan Üzüm,508994,23,Türkiye,Right-Back,RB,350000.0,Adanaspor,Türkiye,0.0,0
+2022,Super Lig,MKE Ankaragücü,summer,in,Giorgi Beridze,264137,25,Georgia,Left Winger,LW,750000.0,Újpest FC,Hungary,0.0,0
+2022,Super Lig,MKE Ankaragücü,summer,in,Kévin Malcuit,126711,31,Morocco,Right-Back,RB,1000000.0,SSC Napoli,Italy,0.0,0
+2022,Super Lig,MKE Ankaragücü,summer,in,Anastasios Chatzigiovanis,402887,25,Greece,Left Winger,LW,1500000.0,Panathinaikos FC,Greece,0.0,0
+2022,Super Lig,MKE Ankaragücü,summer,in,Tolga Ciğerci,94199,30,Türkiye,Defensive Midfield,DM,1100000.0,Basaksehir FK,Türkiye,0.0,0
+2022,Super Lig,MKE Ankaragücü,summer,in,Oğuz Ceylan,139316,31,Türkiye,Right-Back,RB,425000.0,Gaziantep FK,Türkiye,0.0,0
+2022,Super Lig,MKE Ankaragücü,summer,in,Emre Kılınç,208848,28,Türkiye,Left Winger,LW,3000000.0,Galatasaray,Türkiye,0.0,1
+2022,Super Lig,MKE Ankaragücü,summer,in,Taylan Antalyalı,204176,27,Türkiye,Central Midfield,CM,3500000.0,Galatasaray,Türkiye,0.0,1
+2022,Super Lig,MKE Ankaragücü,summer,in,Pedrinho,197981,29,Portugal,Central Midfield,CM,1500000.0,Gil Vicente FC,Portugal,,0
+2022,Super Lig,MKE Ankaragücü,summer,in,Pêpê,258018,25,Portugal,Central Midfield,CM,3500000.0,Olympiacos Piraeus,Greece,0.0,1
+2022,Super Lig,MKE Ankaragücü,summer,in,Nurullah Aslan,458173,25,Türkiye,Goalkeeper,GK,550000.0,Samsunspor,Türkiye,0.0,1
+2022,Super Lig,MKE Ankaragücü,summer,in,Gökhan Akkan,223025,27,Türkiye,Goalkeeper,GK,1500000.0,Caykur Rizespor,Türkiye,0.0,1
+2022,Super Lig,MKE Ankaragücü,summer,in,Ali Sowe,229817,28,The Gambia,Centre-Forward,CF,2500000.0,FC Rostov,Russia,0.0,1
+2022,Super Lig,MKE Ankaragücü,winter,in,Andrej Djokanovic,483008,21,Bosnia-Herzegovina,Defensive Midfield,DM,900000.0,FK Sarajevo,Bosnia-Herzegovina,760000.0,0
+2022,Super Lig,MKE Ankaragücü,winter,in,Milson,589374,23,Angola,Left Winger,LW,700000.0,FC Pari Nizhniy Novgorod,Russia,100000.0,1
+2022,Super Lig,MKE Ankaragücü,winter,in,Stelios Kitsiou,189151,29,Greece,Right-Back,RB,875000.0,Gaziantep FK,Türkiye,0.0,0
+2022,Super Lig,MKE Ankaragücü,winter,in,Gökhan Töre,82130,31,Türkiye,Right Winger,RW,250000.0,Adana Demirspor,Türkiye,0.0,0
+2022,Super Lig,MKE Ankaragücü,winter,in,Bevic Moussiti-Oko,364525,28,Congo,Centre-Forward,CF,700000.0,AC Ajaccio,France,0.0,0
+2022,Super Lig,MKE Ankaragücü,winter,in,Hasan Ali Kaldırım,55605,33,Türkiye,Left-Back,LB,400000.0,Basaksehir FK,Türkiye,0.0,0
+2022,Super Lig,MKE Ankaragücü,winter,in,Matej Hanousek,267473,29,Czech Republic,Left-Back,LB,500000.0,AC Sparta Prague,Czech Republic,0.0,1
+2022,Super Lig,MKE Ankaragücü,winter,in,Arda Kızıldağ,532905,24,Türkiye,Centre-Back,CB,550000.0,Gaziantep FK,Türkiye,0.0,1
+2022,Super Lig,MKE Ankaragücü,winter,in,Enock Kwateng,288241,25,France,Right-Back,RB,2500000.0,Without Club,,,0
+2022,Super Lig,MKE Ankaragücü,summer,out,Erdi Dikmen,251078,25,Türkiye,Centre-Back,CB,225000.0,Altinordu FK,Türkiye,167000.0,0
+2022,Super Lig,MKE Ankaragücü,summer,out,Yusuf Abdioğlu,199938,32,Türkiye,Centre-Back,CB,500000.0,Samsunspor,Türkiye,0.0,0
+2022,Super Lig,MKE Ankaragücü,summer,out,Hasan Acar,285634,27,Türkiye,Central Midfield,CM,200000.0,Altinordu FK,Türkiye,0.0,0
+2022,Super Lig,MKE Ankaragücü,summer,out,Erdem Özgenç,58855,37,Türkiye,Right-Back,RB,150000.0,Pendikspor,Türkiye,0.0,0
+2022,Super Lig,MKE Ankaragücü,summer,out,Murat Uçar,292545,30,Türkiye,Right-Back,RB,350000.0,Eyüpspor,Türkiye,0.0,0
+2022,Super Lig,MKE Ankaragücü,summer,out,Cem Ekinci,90772,32,Türkiye,Left Winger,LW,200000.0,Kocaelispor,Türkiye,0.0,0
+2022,Super Lig,MKE Ankaragücü,summer,out,Akın Alkan,252056,33,Türkiye,Goalkeeper,GK,250000.0,Esenler Erokspor,Türkiye,0.0,0
+2022,Super Lig,MKE Ankaragücü,summer,out,Geraldo,127169,30,Angola,Right Winger,RW,325000.0,Ümraniyespor,Türkiye,0.0,0
+2022,Super Lig,MKE Ankaragücü,summer,out,Anıl Dikmen,700266,20,Türkiye,Left-Back,LB,25000.0,Hacettepe 1945 SK,Türkiye,0.0,0
+2022,Super Lig,MKE Ankaragücü,summer,out,Mahmut Altınkaya,576994,22,Türkiye,Central Midfield,CM,75000.0,Ankara Demirspor,Türkiye,0.0,1
+2022,Super Lig,MKE Ankaragücü,summer,out,Emre Eren,874111,20,Türkiye,Right Winger,RW,25000.0,Ankara Demirspor,Türkiye,0.0,1
+2022,Super Lig,MKE Ankaragücü,summer,out,Mervan Yiğit,719263,21,Türkiye,Right Winger,RW,50000.0,Ankara Demirspor,Türkiye,0.0,1
+2022,Super Lig,MKE Ankaragücü,summer,out,Atakan Dama,869964,18,Türkiye,Attacking Midfield,AM,50000.0,Ankara Demirspor,Türkiye,0.0,1
+2022,Super Lig,MKE Ankaragücü,summer,out,Abdullah Celik,321551,25,Austria,Centre-Back,CB,100000.0,Ankara Demirspor,Türkiye,0.0,1
+2022,Super Lig,MKE Ankaragücü,summer,out,Alperen Kuyubaşı,576982,22,Türkiye,Centre-Back,CB,75000.0,Ankara Demirspor,Türkiye,0.0,1
+2022,Super Lig,MKE Ankaragücü,summer,out,Mert Topuz,635993,21,Türkiye,Goalkeeper,GK,75000.0,Ankara Demirspor,Türkiye,0.0,1
+2022,Super Lig,MKE Ankaragücü,summer,out,Ender Aygören,576990,22,Türkiye,Central Midfield,CM,75000.0,Ankara Demirspor,Türkiye,0.0,1
+2022,Super Lig,MKE Ankaragücü,summer,out,Murat Sipahioğlu,700264,20,Türkiye,Centre-Back,CB,50000.0,Ankara Demirspor,Türkiye,0.0,1
+2022,Super Lig,MKE Ankaragücü,summer,out,Yasir Karabay,705557,23,Türkiye,Right Winger,RW,50000.0,Ankara Demirspor,Türkiye,0.0,1
+2022,Super Lig,MKE Ankaragücü,summer,out,Hakan Öztürk,874113,20,Türkiye,Left Winger,LW,25000.0,Ankara Demirspor,Türkiye,0.0,1
+2022,Super Lig,MKE Ankaragücü,summer,out,Ulaş Yılmaz,880327,18,Türkiye,Defensive Midfield,DM,100000.0,Ankara Demirspor,Türkiye,0.0,1
+2022,Super Lig,MKE Ankaragücü,summer,out,Embiya Ayyıldız,543197,22,Türkiye,Centre-Forward,CF,125000.0,Zonguldak Kömürspor,Türkiye,,0
+2022,Super Lig,MKE Ankaragücü,summer,out,Suat Kaya,511115,23,Türkiye,Right Winger,RW,200000.0,Corum FK,Türkiye,,0
+2022,Super Lig,MKE Ankaragücü,summer,out,İshak Çakmak,144456,29,Türkiye,Defensive Midfield,DM,300000.0,Igdir FK,Türkiye,,0
+2022,Super Lig,MKE Ankaragücü,summer,out,Ali Kaan Güneren,483495,22,Türkiye,Central Midfield,CM,850000.0,Samsunspor,Türkiye,0.0,1
+2022,Super Lig,MKE Ankaragücü,summer,out,Aatif Chahechouhe,73480,35,Morocco,Attacking Midfield,AM,200000.0,Retired,,,0
+2022,Super Lig,MKE Ankaragücü,summer,out,Tiago Pinto,63293,34,Portugal,Left-Back,LB,,Retired,,,0
+2022,Super Lig,MKE Ankaragücü,summer,out,Owusu Kwabena,457782,25,Ghana,Left Winger,LW,700000.0,Qarabağ FK,Azerbaijan,0.0,1
+2022,Super Lig,MKE Ankaragücü,winter,out,Tolga Ciğerci,94199,30,Türkiye,Defensive Midfield,DM,1000000.0,Hertha BSC,Germany,350000.0,0
+2022,Super Lig,MKE Ankaragücü,winter,out,Marlon,406675,25,Brazil,Left-Back,LB,2200000.0,Cruzeiro Esporte Clube,Brazil,0.0,0
+2022,Super Lig,MKE Ankaragücü,winter,out,Mert Topuz,635993,22,Türkiye,Goalkeeper,GK,25000.0,Bodrum FK,Türkiye,0.0,0
+2022,Super Lig,MKE Ankaragücü,winter,out,Ender Aygören,576990,22,Türkiye,Central Midfield,CM,25000.0,Kirklarelispor,Türkiye,0.0,0
+2022,Super Lig,MKE Ankaragücü,winter,out,Yasin Güreler,294008,31,Türkiye,Left-Back,LB,300000.0,Genclerbirligi Ankara,Türkiye,0.0,0
+2022,Super Lig,MKE Ankaragücü,winter,out,Şahverdi Çetin,342100,22,Türkiye,Central Midfield,CM,350000.0,FC Dordrecht,Netherlands,0.0,0
+2022,Super Lig,MKE Ankaragücü,winter,out,Sinan Osmanoğlu,74040,33,Türkiye,Centre-Back,CB,200000.0,Caykur Rizespor,Türkiye,0.0,0
+2022,Super Lig,MKE Ankaragücü,winter,out,Abdullah Durak,82713,35,Türkiye,Central Midfield,CM,100000.0,Genclerbirligi Ankara,Türkiye,0.0,0
+2022,Super Lig,MKE Ankaragücü,winter,out,Alperen Babacan,341102,25,Türkiye,Right-Back,RB,200000.0,Genclerbirligi Ankara,Türkiye,0.0,0
+2022,Super Lig,MKE Ankaragücü,winter,out,Oğuz Ceylan,139316,32,Türkiye,Right-Back,RB,400000.0,Caykur Rizespor,Türkiye,0.0,0
+2022,Super Lig,MKE Ankaragücü,winter,out,Ender Aygören,576990,22,Türkiye,Central Midfield,CM,25000.0,Diyarbekir Spor,Türkiye,0.0,1
+2022,Super Lig,MKE Ankaragücü,winter,out,Mahmut Altınkaya,576994,22,Türkiye,Central Midfield,CM,25000.0,Hacettepe 1945 SK,Türkiye,0.0,1
+2022,Super Lig,MKE Ankaragücü,winter,out,Mervan Yiğit,719263,21,Türkiye,Right Winger,RW,200000.0,Igdir FK,Türkiye,0.0,1
+2022,Super Lig,MKE Ankaragücü,winter,out,Federico Macheda,61887,31,Italy,Centre-Forward,CF,1000000.0,APOEL Nicosia,Cyprus,0.0,1
+2022,Super Lig,MKE Ankaragücü,winter,out,Eren Derdiyok,47543,34,Switzerland,Centre-Forward,CF,100000.0,Without Club,,,0
+2022,Super Lig,MKE Ankaragücü,winter,out,Hakan Öztürk,874113,20,Türkiye,Left Winger,LW,25000.0,Without Club,,,0
+2022,Super Lig,MKE Ankaragücü,winter,out,Jesé,134936,29,Spain,Left Winger,LW,2700000.0,Without Club,,,0
+2022,Super Lig,MKE Ankaragücü,winter,out,Pêpê,258018,25,Portugal,Central Midfield,CM,3000000.0,Olympiacos Piraeus,Greece,0.0,1
+2022,Super Lig,MKE Ankaragücü,winter,out,Nurullah Aslan,458173,25,Türkiye,Goalkeeper,GK,400000.0,Samsunspor,Türkiye,0.0,1
+2022,Super Lig,Sivasspor,summer,in,Karol Angielski,253290,26,Poland,Centre-Forward,CF,1500000.0,Radomiak Radom,Poland,650000.0,0
+2022,Super Lig,Sivasspor,summer,in,Charilaos Charisis,257482,27,Greece,Central Midfield,CM,600000.0,Atromitos Athens,Greece,500000.0,0
+2022,Super Lig,Sivasspor,summer,in,Robin Yalçın,124422,28,Türkiye,Centre-Back,CB,800000.0,SC Paderborn 07,Germany,0.0,0
+2022,Super Lig,Sivasspor,summer,in,Kader Keita,658835,21,Cote d'Ivoire,Defensive Midfield,DM,625000.0,KVC Westerlo,Belgium,0.0,0
+2022,Super Lig,Sivasspor,summer,in,Dia Saba,193928,29,Israel,Attacking Midfield,AM,4800000.0,Al-Nasr SC (UAE),United Arab Emirates,0.0,0
+2022,Super Lig,Sivasspor,summer,in,Ahmed Musa,168337,29,Nigeria,Left Winger,LW,3400000.0,Fatih Karagümrük,Türkiye,0.0,0
+2022,Super Lig,Sivasspor,summer,in,Clinton N'Jie,241119,28,Cameroon,Right Winger,RW,1200000.0,Dynamo Moscow,Russia,0.0,0
+2022,Super Lig,Sivasspor,summer,in,Murat Paluli,288858,27,Türkiye,Right-Back,RB,575000.0,Göztepe,Türkiye,0.0,0
+2022,Super Lig,Sivasspor,winter,in,Samu Saiz,131506,32,Spain,Attacking Midfield,AM,900000.0,Girona FC,Spain,0.0,0
+2022,Super Lig,Sivasspor,winter,in,Jordy Caicedo,360412,25,Ecuador,Centre-Forward,CF,2000000.0,Tigres UANL,Mexico,0.0,1
+2022,Super Lig,Sivasspor,summer,out,Kerem Atakan Kesgin,361264,21,Türkiye,Central Midfield,CM,1000000.0,Besiktas JK,Türkiye,1400000.0,0
+2022,Super Lig,Sivasspor,summer,out,Volkan Eğri,279634,24,Türkiye,Left Winger,LW,50000.0,Tuzlaspor,Türkiye,0.0,0
+2022,Super Lig,Sivasspor,summer,out,Safa Gundak,668051,21,Türkiye,Attacking Midfield,AM,25000.0,Sivas Belediye Spor,Türkiye,0.0,0
+2022,Super Lig,Sivasspor,summer,out,Fayçal Fajr,174344,33,Morocco,Central Midfield,CM,1800000.0,Al-Wehda FC,Saudi Arabia,0.0,0
+2022,Super Lig,Sivasspor,summer,out,Ahmet Oğuz,291758,29,Türkiye,Right-Back,RB,1300000.0,Konyaspor,Türkiye,0.0,0
+2022,Super Lig,Sivasspor,summer,out,Jorge Félix,251930,30,Spain,Left Winger,LW,500000.0,Piast Gliwice,Poland,0.0,0
+2022,Super Lig,Sivasspor,summer,out,Emirhan Tak,662147,19,Türkiye,Right-Back,RB,,Tuzlaspor,Türkiye,0.0,1
+2022,Super Lig,Sivasspor,summer,out,Halit Çokyaşar,700079,20,Türkiye,Attacking Midfield,AM,,Amed SK,Türkiye,0.0,1
+2022,Super Lig,Sivasspor,summer,out,Muhammed Ergin,700074,21,Türkiye,Right Winger,RW,50000.0,Sapanca Genclikspor,Türkiye,0.0,1
+2022,Super Lig,Sivasspor,summer,out,Eren Şahin,668069,21,Türkiye,Right Winger,RW,75000.0,Bayburt Özel Idare Spor,Türkiye,0.0,1
+2022,Super Lig,Sivasspor,summer,out,Koray Altınay,148550,30,Türkiye,Right-Back,RB,325000.0,Caykur Rizespor,Türkiye,,0
+2022,Super Lig,Sivasspor,summer,out,Sefa Yılmaz,56518,32,Türkiye,Right Winger,RW,250000.0,Caykur Rizespor,Türkiye,,0
+2022,Super Lig,Sivasspor,summer,out,Batuhan Akkuzu,869924,20,Türkiye,Midfielder,Midfielder,,Without Club,,,0
+2022,Super Lig,Sivasspor,summer,out,Serhat Öztürk,869927,21,Türkiye,Midfielder,Midfielder,,Without Club,,,0
+2022,Super Lig,Sivasspor,summer,out,Olarenwaju Kayode,131694,29,Nigeria,Centre-Forward,CF,3200000.0,Shakhtar Donetsk,Ukraine,0.0,1
+2022,Super Lig,Sivasspor,summer,out,Moussa Konaté,192774,29,Senegal,Centre-Forward,CF,1800000.0,Dijon FCO,France,0.0,1
+2022,Super Lig,Sivasspor,winter,out,Dia Saba,193928,30,Israel,Attacking Midfield,AM,4500000.0,Maccabi Haifa,Israel,0.0,0
+2022,Super Lig,Sivasspor,winter,out,Özkan Yiğiter,668048,23,Türkiye,Defensive Midfield,DM,100000.0,Genclerbirligi Ankara,Türkiye,0.0,1
+2022,Super Lig,Sivasspor,winter,out,Emirhan Tak,662147,19,Türkiye,Right-Back,RB,50000.0,Edirnespor,Türkiye,0.0,1
+2022,Super Lig,Trabzonspor,summer,in,Mahmoud Trezeguet,234189,27,Egypt,Left Winger,LW,10000000.0,Aston Villa,England,4000000.0,0
+2022,Super Lig,Trabzonspor,summer,in,Eren Elmalı,616894,21,Türkiye,Left-Back,LB,3200000.0,Kasimpasa,Türkiye,3600000.0,0
+2022,Super Lig,Trabzonspor,summer,in,Maxi Gómez,396894,26,Uruguay,Centre-Forward,CF,12000000.0,Valencia CF,Spain,3000000.0,0
+2022,Super Lig,Trabzonspor,summer,in,Enis Bardhi,245014,27,North Macedonia,Attacking Midfield,AM,8000000.0,Levante UD,Spain,3000000.0,0
+2022,Super Lig,Trabzonspor,summer,in,Umut Bozok,259025,25,Türkiye,Centre-Forward,CF,5000000.0,FC Lorient,France,2000000.0,0
+2022,Super Lig,Trabzonspor,summer,in,Marc Bartra,99922,31,Spain,Centre-Back,CB,6000000.0,Real Betis Balompié,Spain,1250000.0,0
+2022,Super Lig,Trabzonspor,summer,in,Doğucan Haspolat,387143,22,Türkiye,Defensive Midfield,DM,2000000.0,Kasimpasa,Türkiye,1200000.0,0
+2022,Super Lig,Trabzonspor,summer,in,Montassir Lahtimi,731876,21,Morocco,Right Winger,RW,400000.0,FUS Rabat,Morocco,600000.0,0
+2022,Super Lig,Trabzonspor,summer,in,Yusuf Yazıcı,386726,25,Türkiye,Attacking Midfield,AM,17000000.0,LOSC Lille,France,500000.0,1
+2022,Super Lig,Trabzonspor,summer,in,Naci Ünüvar,508639,19,Türkiye,Left Winger,LW,3500000.0,Ajax Amsterdam,Netherlands,150000.0,1
+2022,Super Lig,Trabzonspor,summer,in,Jens Stryger Larsen,69646,31,Denmark,Right-Back,RB,2000000.0,Udinese Calcio,Italy,0.0,0
+2022,Super Lig,Trabzonspor,summer,in,Stefano Denswil,182923,29,Suriname,Centre-Back,CB,4200000.0,Bologna FC 1909,Italy,0.0,0
+2022,Super Lig,Trabzonspor,summer,in,Jean-Philippe Gbamin,182894,26,Cote d'Ivoire,Defensive Midfield,DM,9000000.0,Everton FC,England,0.0,1
+2022,Super Lig,Trabzonspor,winter,in,Lazar Markovic,144303,28,Serbia,Right Winger,RW,2000000.0,Gaziantep FK,Türkiye,0.0,1
+2022,Super Lig,Trabzonspor,summer,out,Ahmetcan Kaplan,662131,19,Türkiye,Centre-Back,CB,2800000.0,Ajax Amsterdam,Netherlands,9500000.0,0
+2022,Super Lig,Trabzonspor,summer,out,Andreas Cornelius,203412,29,Denmark,Centre-Forward,CF,9000000.0,FC Copenhagen,Denmark,6000000.0,0
+2022,Super Lig,Trabzonspor,summer,out,Berat Özdemir,483063,24,Türkiye,Defensive Midfield,DM,4700000.0,Al-Ettifaq FC,Saudi Arabia,2440000.0,0
+2022,Super Lig,Trabzonspor,summer,out,Jean Evrard Kouassi,178322,27,Cote d'Ivoire,Left Winger,LW,2000000.0,Fatih Karagümrük,Türkiye,700000.0,1
+2022,Super Lig,Trabzonspor,summer,out,Erce Kardeşler,291548,28,Türkiye,Goalkeeper,GK,250000.0,Hatayspor,Türkiye,400000.0,0
+2022,Super Lig,Trabzonspor,summer,out,Flávio,373191,26,Brazil,Central Midfield,CM,2000000.0,Al-Taawoun FC,Saudi Arabia,196000.0,1
+2022,Super Lig,Trabzonspor,summer,out,Enis Destan,699980,20,Türkiye,Centre-Forward,CF,1500000.0,Warta Poznan,Poland,75000.0,1
+2022,Super Lig,Trabzonspor,summer,out,Fousseni Diabaté,364861,26,Mali,Right Winger,RW,2700000.0,FK Partizan Belgrade,Serbia,30000.0,0
+2022,Super Lig,Trabzonspor,summer,out,İsmail Köybaşı,74641,33,Türkiye,Left Midfield,LM,200000.0,Göztepe,Türkiye,0.0,0
+2022,Super Lig,Trabzonspor,summer,out,Gervinho,33481,35,Cote d'Ivoire,Left Winger,LW,825000.0,Aris Thessaloniki,Greece,0.0,0
+2022,Super Lig,Trabzonspor,summer,out,Yunus Mallı,85352,30,Türkiye,Central Midfield,CM,400000.0,Kasimpasa,Türkiye,0.0,0
+2022,Super Lig,Trabzonspor,summer,out,Hüseyin Mert Kurt,605637,21,Türkiye,Central Midfield,CM,25000.0,Yomra Spor,Türkiye,0.0,0
+2022,Super Lig,Trabzonspor,summer,out,Koray Kılınç,607201,22,Türkiye,Centre-Forward,CF,175000.0,Bodrum FK,Türkiye,0.0,0
+2022,Super Lig,Trabzonspor,summer,out,Salih Kavrazlı,633434,20,Türkiye,Left Winger,LW,125000.0,Adana Demirspor,Türkiye,0.0,0
+2022,Super Lig,Trabzonspor,summer,out,Anthony Nwakaeme,175988,33,Nigeria,Left Winger,LW,5000000.0,Al-Fayha FC,Saudi Arabia,0.0,0
+2022,Super Lig,Trabzonspor,summer,out,Taha Tunç,477936,21,Türkiye,Central Midfield,CM,50000.0,Mus 1984 Musspor,Türkiye,0.0,0
+2022,Super Lig,Trabzonspor,summer,out,Atakan Gündüz,477927,21,Türkiye,Centre-Back,CB,50000.0,Kirklarelispor,Türkiye,0.0,0
+2022,Super Lig,Trabzonspor,summer,out,Abdurrahim Dursun,366194,23,Türkiye,Left-Back,LB,375000.0,Adana Demirspor,Türkiye,0.0,0
+2022,Super Lig,Trabzonspor,summer,out,Muhammet Akpınar,628080,20,Türkiye,Centre-Forward,CF,150000.0,Serik Belediyespor,Türkiye,0.0,0
+2022,Super Lig,Trabzonspor,summer,out,Faruk Can Genç,588171,22,Türkiye,Left-Back,LB,275000.0,Giresunspor,Türkiye,0.0,0
+2022,Super Lig,Trabzonspor,summer,out,Anıl Başaran,494667,22,Türkiye,Centre-Forward,CF,150000.0,Bayrampasa Spor,Türkiye,0.0,0
+2022,Super Lig,Trabzonspor,summer,out,Fodé Koita,79110,31,Guinea,Centre-Forward,CF,300000.0,Kasimpasa,Türkiye,0.0,1
+2022,Super Lig,Trabzonspor,summer,out,Hakan Yeşil,433325,20,Türkiye,Defensive Midfield,DM,250000.0,Adanaspor,Türkiye,0.0,1
+2022,Super Lig,Trabzonspor,summer,out,Faruk Can Genç,588171,22,Türkiye,Left-Back,LB,275000.0,Ankara Keciörengücü,Türkiye,0.0,1
+2022,Super Lig,Trabzonspor,summer,out,Kadir Bakırtaş,707876,19,Türkiye,Central Midfield,CM,,Karaman FK,Türkiye,0.0,1
+2022,Super Lig,Trabzonspor,summer,out,Arda Akbulut,347383,21,Türkiye,Goalkeeper,GK,150000.0,Bandirmaspor,Türkiye,0.0,1
+2022,Super Lig,Trabzonspor,summer,out,Safa Kınalı,592360,23,Türkiye,Right Winger,RW,275000.0,Altinordu FK,Türkiye,0.0,1
+2022,Super Lig,Trabzonspor,summer,out,Batuhan Kör,631576,21,Türkiye,Centre-Forward,CF,625000.0,Manisa FK,Türkiye,0.0,1
+2022,Super Lig,Trabzonspor,summer,out,Abdulkadir Parmak,276337,27,Türkiye,Central Midfield,CM,2000000.0,Gaziantep FK,Türkiye,0.0,1
+2022,Super Lig,Trabzonspor,summer,out,Anders Trondsen,228042,27,Norway,Left-Back,LB,575000.0,Without Club,,,0
+2022,Super Lig,Trabzonspor,summer,out,Murat Cem Akpınar,388913,23,Türkiye,Central Midfield,CM,150000.0,Giresunspor,Türkiye,0.0,1
+2022,Super Lig,Trabzonspor,summer,out,Naci Ünüvar,508639,19,Türkiye,Left Winger,LW,3000000.0,Ajax Amsterdam,Netherlands,0.0,1
+2022,Super Lig,Trabzonspor,summer,out,Tymoteusz Puchacz,361575,23,Poland,Left-Back,LB,2300000.0,1.FC Union Berlin,Germany,0.0,1
+2022,Super Lig,Trabzonspor,summer,out,Stefano Denswil,182923,29,Suriname,Centre-Back,CB,4200000.0,Bologna FC 1909,Italy,0.0,1
+2022,Super Lig,Trabzonspor,winter,out,Vitor Hugo,149752,31,Brazil,Centre-Back,CB,4500000.0,Esporte Clube Bahia,Brazil,1800000.0,0
+2022,Super Lig,Trabzonspor,winter,out,Yusuf Erdoğan,191391,30,Türkiye,Left Winger,LW,1000000.0,Adana Demirspor,Türkiye,100000.0,0
+2022,Super Lig,Trabzonspor,winter,out,Jean Evrard Kouassi,178322,28,Cote d'Ivoire,Left Winger,LW,2700000.0,Zhejiang FC,China,0.0,0
+2022,Super Lig,Trabzonspor,winter,out,Safa Kınalı,592360,23,Türkiye,Right Winger,RW,250000.0,Boluspor,Türkiye,0.0,1
+2022,Super Lig,Trabzonspor,winter,out,Arda Akbulut,347383,22,Türkiye,Goalkeeper,GK,125000.0,Adanaspor,Türkiye,0.0,1
+2022,Super Lig,Trabzonspor,winter,out,Hakan Yeşil,433325,21,Türkiye,Defensive Midfield,DM,575000.0,Bodrum FK,Türkiye,0.0,1
+2022,Super Lig,Trabzonspor,winter,out,Kerem Şen,700010,20,Türkiye,Central Midfield,CM,400000.0,Istanbulspor,Türkiye,0.0,1
+2022,Super Lig,Trabzonspor,winter,out,Batuhan Kör,631576,21,Türkiye,Centre-Forward,CF,750000.0,1461 Trabzon FK,Türkiye,0.0,1
+2022,Super Lig,Trabzonspor,winter,out,Emrehan Gedikli,580276,19,Türkiye,Centre-Forward,CF,1100000.0,SC Austria Lustenau,Austria,0.0,1
+2022,Super Lig,Trabzonspor,winter,out,Djaniny,197170,31,Cape Verde,Centre-Forward,CF,4200000.0,Sharjah FC,United Arab Emirates,0.0,1
+2022,Super Lig,Trabzonspor,winter,out,Bruno Peres,148751,33,Brazil,Right-Back,RB,1700000.0,Without Club,,,0
+2022,Super Lig,Ümraniyespor,summer,in,Strahil Popov,87299,32,Bulgaria,Right-Back,RB,575000.0,Eyüpspor,Türkiye,0.0,0
+2022,Super Lig,Ümraniyespor,summer,in,Durel Avounou,416168,24,Congo,Central Midfield,CM,300000.0,Le Mans FC,France,0.0,0
+2022,Super Lig,Ümraniyespor,summer,in,Ermir Lenjani,66052,32,Albania,Left-Back,LB,400000.0,Grasshopper Club Zurich,Switzerland,0.0,0
+2022,Super Lig,Ümraniyespor,summer,in,Geraldo,127169,30,Angola,Right Winger,RW,325000.0,MKE Ankaragücü,Türkiye,0.0,0
+2022,Super Lig,Ümraniyespor,summer,in,Allyson,390695,31,Brazil,Centre-Back,CB,200000.0,Bandirmaspor,Türkiye,0.0,0
+2022,Super Lig,Ümraniyespor,summer,in,Onur Atasayar,287925,27,Türkiye,Left-Back,LB,200000.0,Bursaspor,Türkiye,0.0,0
+2022,Super Lig,Ümraniyespor,summer,in,Serkan Kırıntılı,16058,37,Türkiye,Goalkeeper,GK,100000.0,Alanyaspor,Türkiye,0.0,0
+2022,Super Lig,Ümraniyespor,summer,in,Adel Bettaieb,610484,25,Tunisia,Left Winger,LW,200000.0,F91 Dudelange,Luxembourg,0.0,0
+2022,Super Lig,Ümraniyespor,summer,in,Valentin Gheorghe,453810,25,Romania,Left Winger,LW,1000000.0,FCSB,Romania,0.0,1
+2022,Super Lig,Ümraniyespor,summer,in,Isaac Sackey,259943,28,Ghana,Defensive Midfield,DM,1200000.0,Hatayspor,Türkiye,,0
+2022,Super Lig,Ümraniyespor,summer,in,Nika Gagnidze,658060,21,Georgia,Central Midfield,CM,400000.0,FC Dila Gori,Georgia,0.0,1
+2022,Super Lig,Ümraniyespor,summer,in,Mert Yılmaz,393217,23,Türkiye,Right-Back,RB,400000.0,Antalyaspor,Türkiye,0.0,1
+2022,Super Lig,Ümraniyespor,summer,in,Metehan Mimaroğlu,294100,28,Türkiye,Left Winger,LW,525000.0,Eyüpspor,Türkiye,0.0,1
+2022,Super Lig,Ümraniyespor,summer,in,Umut Nayir,248271,29,Türkiye,Centre-Forward,CF,700000.0,Eyüpspor,Türkiye,0.0,1
+2022,Super Lig,Ümraniyespor,summer,in,Kartal Yılmaz,461951,21,Türkiye,Defensive Midfield,DM,1000000.0,Besiktas JK,Türkiye,0.0,1
+2022,Super Lig,Ümraniyespor,winter,in,Alexandru Epureanu,45340,36,Moldova,Centre-Back,CB,100000.0,Basaksehir FK,Türkiye,0.0,0
+2022,Super Lig,Ümraniyespor,winter,in,Berke Özer,361256,22,Türkiye,Goalkeeper,GK,3000000.0,Eyüpspor,Türkiye,0.0,1
+2022,Super Lig,Ümraniyespor,winter,in,Jesse Sekidika,437392,26,Nigeria,Left Winger,LW,650000.0,Eyüpspor,Türkiye,0.0,1
+2022,Super Lig,Ümraniyespor,winter,in,Olarenwaju Kayode,131694,29,Nigeria,Centre-Forward,CF,2000000.0,Shakhtar Donetsk,Ukraine,0.0,1
+2022,Super Lig,Ümraniyespor,summer,out,Avdija Vrsajevic,28481,36,Bosnia-Herzegovina,Right-Back,RB,75000.0,FK Sarajevo,Bosnia-Herzegovina,0.0,0
+2022,Super Lig,Ümraniyespor,summer,out,Alim Öztürk,189186,29,Türkiye,Centre-Back,CB,500000.0,Samsunspor,Türkiye,0.0,0
+2022,Super Lig,Ümraniyespor,summer,out,Mevlüt Erdinç,38360,35,Türkiye,Centre-Forward,CF,50000.0,Racing Besançon,France,0.0,0
+2022,Super Lig,Ümraniyespor,summer,out,Yacine Bammou,276255,30,Morocco,Centre-Forward,CF,700000.0,Al-Shamal SC,Qatar,0.0,0
+2022,Super Lig,Ümraniyespor,summer,out,Idrissa Camara,822241,24,Senegal,Left Winger,LW,625000.0,Dijon FCO,France,0.0,0
+2022,Super Lig,Ümraniyespor,summer,out,Mustafa Can Karagöz,842815,20,Türkiye,Central Midfield,CM,100000.0,Amasyaspor FK,Türkiye,0.0,1
+2022,Super Lig,Ümraniyespor,summer,out,Denizhan Taşkan,749793,22,Türkiye,Right Winger,RW,150000.0,1461 Trabzon FK,Türkiye,0.0,1
+2022,Super Lig,Ümraniyespor,summer,out,Burak Öğür,191556,32,Türkiye,Goalkeeper,GK,200000.0,Pendikspor,Türkiye,,0
+2022,Super Lig,Ümraniyespor,summer,out,Ercan Coşkun,338198,27,Türkiye,Centre-Back,CB,350000.0,Caykur Rizespor,Türkiye,,0
+2022,Super Lig,Ümraniyespor,summer,out,Emirhan Çalışkan,798177,20,Türkiye,Defensive Midfield,DM,25000.0,Adiyaman FK,Türkiye,,0
+2022,Super Lig,Ümraniyespor,summer,out,Fuat Bavuk,607171,21,Türkiye,Centre-Forward,CF,125000.0,Iskenderunspor,Türkiye,,0
+2022,Super Lig,Ümraniyespor,summer,out,Yusuf Gültekin,184444,29,Türkiye,Central Midfield,CM,325000.0,Samsunspor,Türkiye,,0
+2022,Super Lig,Ümraniyespor,summer,out,Stefano Napoleoni,43518,36,Italy,Centre-Forward,CF,50000.0,Without Club,,,0
+2022,Super Lig,Ümraniyespor,summer,out,Kartal Yılmaz,461951,21,Türkiye,Defensive Midfield,DM,1000000.0,Besiktas JK,Türkiye,0.0,1
+2022,Super Lig,Ümraniyespor,summer,out,Atalay Babacan,361266,22,Türkiye,Central Midfield,CM,175000.0,Galatasaray,Türkiye,0.0,1
+2022,Super Lig,Ümraniyespor,summer,out,Ajdin Hasic,522851,20,Bosnia-Herzegovina,Attacking Midfield,AM,625000.0,Besiktas JK,Türkiye,0.0,1
+2022,Super Lig,Ümraniyespor,summer,out,Atakan Üner,370834,23,Türkiye,Right Winger,RW,400000.0,Besiktas JK,Türkiye,0.0,1
+2022,Super Lig,Ümraniyespor,summer,out,Faruk Can Genç,588171,22,Türkiye,Left-Back,LB,275000.0,Trabzonspor,Türkiye,0.0,1
+2022,Super Lig,Ümraniyespor,winter,out,Emre Nefiz,217169,28,Türkiye,Central Midfield,CM,75000.0,Kocaelispor,Türkiye,0.0,0
+2022,Super Lig,Ümraniyespor,winter,out,Tahsin Hacımustafaoğlu,367680,25,Türkiye,Right Winger,RW,50000.0,68 Aksaray Belediye Spor,Türkiye,0.0,0
+2022,Super Lig,Ümraniyespor,winter,out,Yonathan Del Valle,72643,32,Venezuela,Left Winger,LW,200000.0,Eyüpspor,Türkiye,0.0,0
+2022,Super Lig,Ümraniyespor,winter,out,Allyson,390695,32,Brazil,Centre-Back,CB,125000.0,Cuiabá Esporte Clube (MT),Brazil,0.0,0
+2022,Super Lig,Ümraniyespor,winter,out,Mustafa Can Karagöz,842815,20,Türkiye,Central Midfield,CM,50000.0,Edirnespor,Türkiye,0.0,1
+2022,Super Lig,Ümraniyespor,winter,out,Durel Avounou,416168,25,Congo,Central Midfield,CM,600000.0,Without Club,,,0
+2022,Super Lig,Ümraniyespor,winter,out,Nika Gagnidze,658060,21,Georgia,Central Midfield,CM,400000.0,FC Dila Gori,Georgia,0.0,1
+2022,Super Lig,Ümraniyespor,winter,out,Metehan Mimaroğlu,294100,28,Türkiye,Left Winger,LW,475000.0,Eyüpspor,Türkiye,0.0,1

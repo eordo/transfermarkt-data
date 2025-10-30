@@ -1,0 +1,716 @@
+season,league,club,window,movement,player_name,player_id,age,nationality,position,pos,market_value,dealing_club,dealing_country,fee,is_loan
+2006,Super Lig,Ankaraspor,summer,in,Deniz Aydoğdu,28281,22,Türkiye,Centre-Forward,CF,,Türkiyemspor Berlin,Germany,100000.0,0
+2006,Super Lig,Ankaraspor,summer,in,Devran Ayhan,7191,28,Türkiye,Central Midfield,CM,1750000.0,Kayseri Erciyesspor,Türkiye,0.0,0
+2006,Super Lig,Ankaraspor,summer,in,Murat Tosun,28959,22,Türkiye,Right Winger,RW,,Karsiyaka,Türkiye,0.0,0
+2006,Super Lig,Ankaraspor,summer,in,Murat Hacıoğlu,7201,27,Türkiye,Second Striker,SS,2500000.0,Fenerbahce,Türkiye,0.0,0
+2006,Super Lig,Ankaraspor,summer,in,Anıl Taşdemir,44993,18,Türkiye,Attacking Midfield,AM,,Göztepe,Türkiye,0.0,0
+2006,Super Lig,Ankaraspor,summer,in,Bilal Kısa,7444,23,Türkiye,Attacking Midfield,AM,900000.0,Malatyaspor,Türkiye,0.0,0
+2006,Super Lig,Ankaraspor,summer,in,Ardijan Djokaj,34404,27,Montenegro,Left Winger,LW,475000.0,Trabzonspor,Türkiye,0.0,1
+2006,Super Lig,Ankaraspor,summer,in,Adem Koçak,6994,22,Türkiye,Central Midfield,CM,2200000.0,Trabzonspor,Türkiye,0.0,0
+2006,Super Lig,Ankaraspor,summer,in,Mehmet Yılmaz,6915,27,Türkiye,Centre-Forward,CF,1900000.0,Trabzonspor,Türkiye,0.0,0
+2006,Super Lig,Ankaraspor,summer,in,Murat Akyüz,44995,24,Türkiye,Right-Back,RB,,Kayseri Erciyesspor,Türkiye,,0
+2006,Super Lig,Ankaraspor,summer,in,Volkan Arslan,6884,28,Türkiye,Central Midfield,CM,1300000.0,Galatasaray,Türkiye,,0
+2006,Super Lig,Ankaraspor,winter,in,Uğur Demirkol,45951,17,Türkiye,Left-Back,LB,,Hertha BSC U19,Germany,100000.0,0
+2006,Super Lig,Ankaraspor,winter,in,Hamílton,48293,26,Togo,Defensive Midfield,DM,,Sport Club do Recife,Brazil,0.0,0
+2006,Super Lig,Ankaraspor,winter,in,Kamer Şenel,33035,26,Türkiye,Attacking Midfield,AM,,Berlin Ankaraspor Külübü,Germany,0.0,0
+2006,Super Lig,Ankaraspor,winter,in,Hasan Vural,3149,33,Türkiye,Centre-Back,CB,175000.0,Berlin Ankaraspor Külübü,Germany,0.0,0
+2006,Super Lig,Ankaraspor,winter,in,Ibrahim Keser,31613,22,Türkiye,Defensive Midfield,DM,,Berlin Ankaraspor Külübü,Germany,0.0,0
+2006,Super Lig,Ankaraspor,winter,in,Serdar Güneş,41634,19,Türkiye,Central Midfield,CM,,Berlin Ankaraspor Külübü,Germany,0.0,0
+2006,Super Lig,Ankaraspor,winter,in,Erhan Aydın,1798,25,Türkiye,Centre-Forward,CF,,Berlin Ankaraspor Külübü,Germany,0.0,0
+2006,Super Lig,Ankaraspor,winter,in,Illés Sitku,29488,28,Hungary,Centre-Forward,CF,,FC Fehérvár,Hungary,0.0,0
+2006,Super Lig,Ankaraspor,winter,in,Fırat Akkoyun,44969,25,Türkiye,Centre-Back,CB,,Konyaspor,Türkiye,,0
+2006,Super Lig,Ankaraspor,winter,in,Ramazan Kurşunlu,6894,25,Türkiye,Goalkeeper,GK,500000.0,Besiktas JK,Türkiye,0.0,1
+2006,Super Lig,Ankaraspor,summer,out,Iskender Aydemir,37969,20,Türkiye,Goalkeeper,GK,,FC Türkiyemspor Amsterdam,Netherlands,0.0,0
+2006,Super Lig,Ankaraspor,summer,out,Özgür Bayer,7061,27,Türkiye,Centre-Back,CB,975000.0,Kayseri Erciyesspor,Türkiye,0.0,0
+2006,Super Lig,Ankaraspor,summer,out,Mustafa Sarp,21522,25,Türkiye,Defensive Midfield,DM,350000.0,Kayseri Erciyesspor,Türkiye,0.0,0
+2006,Super Lig,Ankaraspor,summer,out,Ersen Martin,7035,27,Türkiye,Centre-Forward,CF,2600000.0,Trabzonspor,Türkiye,0.0,0
+2006,Super Lig,Ankaraspor,summer,out,Hasan Yiğit,7233,31,Türkiye,Right-Back,RB,1600000.0,Bursaspor,Türkiye,0.0,0
+2006,Super Lig,Ankaraspor,summer,out,Tita,21488,25,Brazil,Left Winger,LW,2000000.0,MKE Ankaragücü,Türkiye,0.0,1
+2006,Super Lig,Ankaraspor,summer,out,Emre Aktaş,37968,19,Türkiye,Centre-Forward,CF,50000.0,Keciörengücü,Türkiye,0.0,1
+2006,Super Lig,Ankaraspor,summer,out,Musa Büyük,10138,26,Türkiye,Right-Back,RB,2500000.0,Trabzonspor,Türkiye,0.0,0
+2006,Super Lig,Ankaraspor,summer,out,Ahmet Yıldırım,6905,32,Türkiye,Defensive Midfield,DM,2250000.0,Etimesgut Sekerspor,Türkiye,,0
+2006,Super Lig,Ankaraspor,summer,out,Erman Özgür,7375,29,Türkiye,Attacking Midfield,AM,2000000.0,Konyaspor,Türkiye,,0
+2006,Super Lig,Ankaraspor,summer,out,Murat Erdoğan,7194,29,Türkiye,Central Midfield,CM,1250000.0,Sakaryaspor,Türkiye,,0
+2006,Super Lig,Ankaraspor,summer,out,Ali Köksal Kulaksizoglu,185826,20,Türkiye,Goalkeeper,GK,,Bugsas Spor,Türkiye,0.0,1
+2006,Super Lig,Ankaraspor,summer,out,Deniz Aydoğdu,28281,23,Türkiye,Centre-Forward,CF,,Karsiyaka,Türkiye,0.0,1
+2006,Super Lig,Ankaraspor,winter,out,Kürşat Duymuş,14151,27,Türkiye,Centre-Back,CB,750000.0,Kayseri Erciyesspor,Türkiye,0.0,0
+2006,Super Lig,Ankaraspor,winter,out,Dragoslav Jevric,4414,32,Serbia,Goalkeeper,GK,1000000.0,Maccabi Tel Aviv,Israel,0.0,0
+2006,Super Lig,Ankaraspor,winter,out,Mustafa Yalçınkaya,6908,25,Türkiye,Right-Back,RB,1000000.0,Mardinspor,Türkiye,0.0,0
+2006,Super Lig,Ankaraspor,winter,out,Richard Kingson,7125,28,Ghana,Goalkeeper,GK,1100000.0,Hammarby IF,Sweden,0.0,1
+2006,Super Lig,Ankaraspor,winter,out,Hasan Vural,3149,33,Türkiye,Centre-Back,CB,175000.0,Keciörengücü,Türkiye,0.0,1
+2006,Super Lig,Ankaraspor,winter,out,Cem Yanık,7126,29,Türkiye,Centre-Forward,CF,1000000.0,Sakaryaspor,Türkiye,,0
+2006,Super Lig,Ankaraspor,winter,out,Ibrahim Keser,31613,22,Türkiye,Defensive Midfield,DM,,Keciörengücü,Türkiye,0.0,1
+2006,Super Lig,Ankaraspor,winter,out,Kamer Şenel,33035,26,Türkiye,Attacking Midfield,AM,,Keciörengücü,Türkiye,0.0,1
+2006,Super Lig,Ankaraspor,winter,out,Devran Ayhan,7191,28,Türkiye,Central Midfield,CM,1750000.0,Without Club,,,0
+2006,Super Lig,Antalyaspor,summer,in,Jaroslaw Bieniuk,24497,27,Poland,Centre-Back,CB,1500000.0,Amica Wronki,Poland,500000.0,0
+2006,Super Lig,Antalyaspor,summer,in,Vahap Işık,37105,23,Türkiye,Centre-Back,CB,,Gaziantep Büyüksehir Belediyespor,Türkiye,150000.0,0
+2006,Super Lig,Antalyaspor,summer,in,Ali Bilgin,1841,24,Türkiye,Central Midfield,CM,500000.0,Rot-Weiss Essen,Germany,0.0,0
+2006,Super Lig,Antalyaspor,summer,in,Uğur Kavuk,29678,26,Türkiye,Right-Back,RB,,Büyüksehir Belediyespor,Türkiye,0.0,0
+2006,Super Lig,Antalyaspor,summer,in,Şenol Can,7309,23,Türkiye,Left-Back,LB,50000.0,Inegölspor,Türkiye,0.0,0
+2006,Super Lig,Antalyaspor,summer,in,Levent Kartop,7107,26,Türkiye,Defensive Midfield,DM,1200000.0,Denizlispor,Türkiye,0.0,0
+2006,Super Lig,Antalyaspor,summer,in,İlyas Kahraman,7044,30,Türkiye,Attacking Midfield,AM,1350000.0,Diyarbakirspor,Türkiye,0.0,0
+2006,Super Lig,Antalyaspor,summer,in,Piotr Dziewicki,24503,27,Poland,Centre-Back,CB,500000.0,Amica Wronki,Poland,0.0,0
+2006,Super Lig,Antalyaspor,summer,in,Óscar Córdoba,6862,36,Colombia,Goalkeeper,GK,1500000.0,Besiktas JK,Türkiye,0.0,0
+2006,Super Lig,Antalyaspor,summer,in,Pavol Straka,41012,25,Slovakia,Centre-Forward,CF,,MSK Zilina,Slovakia,,0
+2006,Super Lig,Antalyaspor,summer,in,Ali Cansun Begeçarslan,7422,23,Türkiye,Centre-Forward,CF,750000.0,Genclerbirligi Ankara,Türkiye,,0
+2006,Super Lig,Antalyaspor,summer,in,Maynor Suazo,14188,26,Honduras,Defensive Midfield,DM,800000.0,Red Bull Salzburg,Austria,,0
+2006,Super Lig,Antalyaspor,summer,in,İdris Hacıfazlıoğlu,58558,24,Türkiye,Left Winger,LW,,Sariyer,Türkiye,,0
+2006,Super Lig,Antalyaspor,winter,in,Ali Zitouni,37858,25,Tunisia,Right Winger,RW,250000.0,Esperance Tunis,Tunisia,400000.0,0
+2006,Super Lig,Antalyaspor,winter,in,Ersan Tekkan,16049,22,Germany,Attacking Midfield,AM,150000.0,VfL Bochum,Germany,100000.0,0
+2006,Super Lig,Antalyaspor,winter,in,Sezer Güler,50795,21,Türkiye,Central Midfield,CM,,Usakspor (-2010),Türkiye,5000.0,0
+2006,Super Lig,Antalyaspor,winter,in,Polat Keser,17734,21,Türkiye,Goalkeeper,GK,50000.0,VfL Bochum II,Germany,,0
+2006,Super Lig,Antalyaspor,winter,in,Ahmet Dursun,6863,29,Türkiye,Centre-Forward,CF,1250000.0,Etimesgut Sekerspor,Türkiye,,0
+2006,Super Lig,Antalyaspor,winter,in,Bahadır Öztepe,58920,24,Türkiye,Right Midfield,RM,,Pazarspor,Türkiye,,0
+2006,Super Lig,Antalyaspor,summer,out,Burak Yılmaz,34987,20,Türkiye,Centre-Forward,CF,50000.0,Besiktas JK,Türkiye,1000000.0,0
+2006,Super Lig,Antalyaspor,summer,out,Levent Yücel,34989,25,Türkiye,Centre-Back,CB,60000.0,Mardinspor,Türkiye,0.0,0
+2006,Super Lig,Antalyaspor,summer,out,Hakan Keleş,7018,34,Türkiye,Centre-Forward,CF,500000.0,Dardanelspor,Türkiye,0.0,0
+2006,Super Lig,Antalyaspor,summer,out,Şenol Karagöl,7212,32,Türkiye,Goalkeeper,GK,550000.0,Malatyaspor,Türkiye,0.0,0
+2006,Super Lig,Antalyaspor,summer,out,Hasan Özer,7183,31,Türkiye,Centre-Forward,CF,850000.0,Elazigspor,Türkiye,0.0,0
+2006,Super Lig,Antalyaspor,summer,out,Osman Fırat,34966,21,Türkiye,Left-Back,LB,50000.0,Gaziantep Büyüksehir Belediyespor,Türkiye,0.0,0
+2006,Super Lig,Antalyaspor,summer,out,Suat Usta,6920,24,Türkiye,Centre-Back,CB,725000.0,Sakaryaspor,Türkiye,0.0,0
+2006,Super Lig,Antalyaspor,summer,out,Cem Sinan Vergül,16710,27,Türkiye,Defensive Midfield,DM,50000.0,Kocaelispor,Türkiye,,0
+2006,Super Lig,Antalyaspor,summer,out,Roman Dabrowski,6889,34,Poland,Right Midfield,RM,450000.0,Kocaelispor,Türkiye,,0
+2006,Super Lig,Antalyaspor,summer,out,Ümit Aydın,6916,26,Türkiye,Defensive Midfield,DM,950000.0,Eskisehirspor,Türkiye,,0
+2006,Super Lig,Antalyaspor,summer,out,Mehmet Yılmaz,69828,24,Türkiye,Centre-Back,CB,,Adana Demirspor,Türkiye,,0
+2006,Super Lig,Antalyaspor,summer,out,Nihat Baştürk,7047,32,Türkiye,Central Midfield,CM,850000.0,Without Club,,,0
+2006,Super Lig,Antalyaspor,summer,out,Onur Tuncer,8539,22,Türkiye,Defensive Midfield,DM,50000.0,Fenerbahce,Türkiye,0.0,1
+2006,Super Lig,Antalyaspor,winter,out,Hakan Çimen,7083,33,Türkiye,Centre-Back,CB,300000.0,Istanbulspor,Türkiye,0.0,0
+2006,Super Lig,Antalyaspor,winter,out,Mustafa Özkaya,34975,20,Türkiye,Attacking Midfield,AM,25000.0,Maltepespor,Türkiye,0.0,1
+2006,Super Lig,Antalyaspor,winter,out,Ergün Eryakıcı,34965,20,Türkiye,Midfielder,Midfielder,50000.0,Ispartaspor,Türkiye,0.0,1
+2006,Super Lig,Antalyaspor,winter,out,Alican Tez,34983,19,Türkiye,Centre-Forward,CF,50000.0,Maltepespor,Türkiye,0.0,1
+2006,Super Lig,Antalyaspor,winter,out,Ercan Ünal,6946,24,Türkiye,Centre-Back,CB,300000.0,Mardinspor,Türkiye,,0
+2006,Super Lig,Antalyaspor,winter,out,Taner Gülleri,34968,30,Türkiye,Centre-Forward,CF,50000.0,Kocaelispor,Türkiye,,0
+2006,Super Lig,Antalyaspor,winter,out,Serkan Özen,7060,30,Türkiye,Attacking Midfield,AM,200000.0,Usakspor (-2010),Türkiye,,0
+2006,Super Lig,Besiktas JK,summer,in,Matías Delgado,8886,23,Argentina,Attacking Midfield,AM,6000000.0,FC Basel 1893,Switzerland,5500000.0,0
+2006,Super Lig,Besiktas JK,summer,in,Ricardinho,13833,30,Brazil,Attacking Midfield,AM,4000000.0,Sport Club Corinthians Paulista,Brazil,3750000.0,0
+2006,Super Lig,Besiktas JK,summer,in,Bobô,37944,21,Brazil,Centre-Forward,CF,2400000.0,Sport Club Corinthians Paulista,Brazil,2000000.0,0
+2006,Super Lig,Besiktas JK,summer,in,Mert Nobre,15821,25,Brazil,Centre-Forward,CF,4650000.0,Cruzeiro Esporte Clube,Brazil,1800000.0,0
+2006,Super Lig,Besiktas JK,summer,in,Burak Yılmaz,34987,20,Türkiye,Centre-Forward,CF,50000.0,Antalyaspor,Türkiye,1000000.0,0
+2006,Super Lig,Besiktas JK,summer,in,Vedran Runje,5310,30,Croatia,Goalkeeper,GK,3000000.0,Standard Liège,Belgium,1000000.0,0
+2006,Super Lig,Besiktas JK,summer,in,Serdar Kurtuluş,35275,18,Türkiye,Right-Back,RB,35000.0,Bursaspor,Türkiye,750000.0,0
+2006,Super Lig,Besiktas JK,summer,in,Fahri Tatan,7442,23,Türkiye,Defensive Midfield,DM,750000.0,Caykur Rizespor,Türkiye,150000.0,0
+2006,Super Lig,Besiktas JK,summer,in,Baki Mercimek,10122,23,Türkiye,Centre-Back,CB,1750000.0,Genclerbirligi Ankara,Türkiye,0.0,0
+2006,Super Lig,Besiktas JK,summer,in,Sezer Sezgin,45221,20,Türkiye,Left-Back,LB,,Kayserispor,Türkiye,,0
+2006,Super Lig,Besiktas JK,summer,out,Souleymane Youla,1081,24,Guinea,Centre-Forward,CF,2000000.0,LOSC Lille,France,1600000.0,0
+2006,Super Lig,Besiktas JK,summer,out,Daniel Pancu,6888,28,Romania,Centre-Forward,CF,3400000.0,Bursaspor,Türkiye,900000.0,0
+2006,Super Lig,Besiktas JK,summer,out,Çağdaş Atan,10152,26,Türkiye,Centre-Back,CB,1500000.0,Trabzonspor,Türkiye,750000.0,0
+2006,Super Lig,Besiktas JK,summer,out,Aílton,516,33,Brazil,Centre-Forward,CF,2500000.0,Red Star Belgrade,Serbia,300000.0,0
+2006,Super Lig,Besiktas JK,summer,out,Sergen Yalçın,6904,33,Türkiye,Attacking Midfield,AM,2000000.0,Etimesgut Sekerspor,Türkiye,0.0,0
+2006,Super Lig,Besiktas JK,summer,out,Okan Buruk,5791,32,Türkiye,Right Midfield,RM,2000000.0,Galatasaray,Türkiye,0.0,0
+2006,Super Lig,Besiktas JK,summer,out,Sinan Kaloğlu,6873,25,Türkiye,Centre-Forward,CF,1500000.0,Bursaspor,Türkiye,0.0,0
+2006,Super Lig,Besiktas JK,summer,out,Juanfran,7542,29,Spain,Left-Back,LB,3000000.0,Real Zaragoza,Spain,0.0,0
+2006,Super Lig,Besiktas JK,summer,out,Eser Yağmur,35281,23,Türkiye,Centre-Forward,CF,75000.0,Bursaspor,Türkiye,0.0,0
+2006,Super Lig,Besiktas JK,summer,out,Tümer Metin,6879,31,Türkiye,Attacking Midfield,AM,3500000.0,Fenerbahce,Türkiye,0.0,0
+2006,Super Lig,Besiktas JK,summer,out,Ahmed Hassan,6878,31,Egypt,Attacking Midfield,AM,4500000.0,RSC Anderlecht,Belgium,0.0,0
+2006,Super Lig,Besiktas JK,summer,out,Óscar Córdoba,6862,36,Colombia,Goalkeeper,GK,1500000.0,Antalyaspor,Türkiye,0.0,0
+2006,Super Lig,Besiktas JK,summer,out,Rıza Şen,38196,20,Türkiye,Right Midfield,RM,175000.0,Etimesgut Sekerspor,Türkiye,0.0,1
+2006,Super Lig,Besiktas JK,summer,out,Sezer Sezgin,45221,20,Türkiye,Left-Back,LB,,Karsiyaka,Türkiye,0.0,1
+2006,Super Lig,Besiktas JK,summer,out,Ahmet Dursun,6863,28,Türkiye,Centre-Forward,CF,1500000.0,Etimesgut Sekerspor,Türkiye,,0
+2006,Super Lig,Besiktas JK,summer,out,Erkan Sekman,41011,22,Türkiye,Right-Back,RB,,Konyaspor,Türkiye,,0
+2006,Super Lig,Besiktas JK,summer,out,Tayfur Havutçu,6869,36,Türkiye,Defensive Midfield,DM,,Retired,,,0
+2006,Super Lig,Besiktas JK,summer,out,Bobô,37944,21,Brazil,Centre-Forward,CF,300000.0,Sport Club Corinthians Paulista,Brazil,0.0,1
+2006,Super Lig,Besiktas JK,summer,out,Tomas Jun,9692,23,Czech Republic,Second Striker,SS,3500000.0,Trabzonspor,Türkiye,0.0,1
+2006,Super Lig,Besiktas JK,winter,out,Volkan Ünlü,1720,23,Türkiye,Goalkeeper,GK,400000.0,Caykur Rizespor,Türkiye,0.0,0
+2006,Super Lig,Besiktas JK,winter,out,Serdar Özkan,8487,20,Türkiye,Left Winger,LW,750000.0,Samsunspor,Türkiye,0.0,1
+2006,Super Lig,Besiktas JK,winter,out,Rıza Şen,38196,20,Türkiye,Right Midfield,RM,175000.0,Arsinspor,Türkiye,0.0,1
+2006,Super Lig,Besiktas JK,winter,out,Kléberson,3365,27,Brazil,Central Midfield,CM,6350000.0,Without Club,,,0
+2006,Super Lig,Besiktas JK,winter,out,Ramazan Kurşunlu,6894,25,Türkiye,Goalkeeper,GK,500000.0,Ankaraspor,Türkiye,0.0,1
+2006,Super Lig,Bursaspor,summer,in,Daniel Pancu,6888,28,Romania,Centre-Forward,CF,3400000.0,Besiktas JK,Türkiye,900000.0,0
+2006,Super Lig,Bursaspor,summer,in,Velice Sumulikoski,16550,25,North Macedonia,Defensive Midfield,DM,800000.0,Zenit St. Petersburg,Russia,800000.0,0
+2006,Super Lig,Bursaspor,summer,in,Eser Yağmur,35281,23,Türkiye,Centre-Forward,CF,75000.0,Besiktas JK,Türkiye,0.0,0
+2006,Super Lig,Bursaspor,summer,in,Bekir Ozan Has,7023,21,Türkiye,Central Midfield,CM,200000.0,Bursa Merinosspor,Türkiye,0.0,0
+2006,Super Lig,Bursaspor,summer,in,İsmail Güldüren,7049,27,Türkiye,Centre-Back,CB,1300000.0,Genclerbirligi Ankara,Türkiye,0.0,0
+2006,Super Lig,Bursaspor,summer,in,Ömer Çatkıç,7249,31,Türkiye,Goalkeeper,GK,1250000.0,Genclerbirligi Ankara,Türkiye,0.0,0
+2006,Super Lig,Bursaspor,summer,in,Sinan Kaloğlu,6873,25,Türkiye,Centre-Forward,CF,1500000.0,Besiktas JK,Türkiye,0.0,0
+2006,Super Lig,Bursaspor,summer,in,Can Cumhur Bozacı,7195,31,Türkiye,Centre-Back,CB,850000.0,Diyarbakirspor,Türkiye,0.0,0
+2006,Super Lig,Bursaspor,summer,in,Hasan Yiğit,7233,31,Türkiye,Right-Back,RB,1600000.0,Ankaraspor,Türkiye,0.0,0
+2006,Super Lig,Bursaspor,summer,in,Zafer Biryol,7388,29,Türkiye,Centre-Forward,CF,1730000.0,Fenerbahce,Türkiye,,0
+2006,Super Lig,Bursaspor,summer,in,Ömer Erdoğan,7423,29,Türkiye,Centre-Back,CB,1250000.0,Malatyaspor,Türkiye,,0
+2006,Super Lig,Bursaspor,summer,in,Volkan Bekiroğlu,6955,28,Türkiye,Left-Back,LB,1600000.0,Malatyaspor,Türkiye,,0
+2006,Super Lig,Bursaspor,summer,in,Yavuz Özkan,45007,21,Türkiye,Goalkeeper,GK,,Denizli Belediyespor,Türkiye,,0
+2006,Super Lig,Bursaspor,summer,in,Yenal Tuncer,45009,21,Türkiye,Left-Back,LB,,Denizli Belediyespor,Türkiye,,0
+2006,Super Lig,Bursaspor,summer,in,Mateus Paraná,45000,19,Brazil,Right Winger,RW,,Fenerbahce,Türkiye,0.0,1
+2006,Super Lig,Bursaspor,winter,in,Zafer Demiray,10200,30,Türkiye,Right Winger,RW,1600000.0,Kayseri Erciyesspor,Türkiye,,0
+2006,Super Lig,Bursaspor,summer,out,Serdar Kurtuluş,35275,18,Türkiye,Right-Back,RB,35000.0,Besiktas JK,Türkiye,750000.0,0
+2006,Super Lig,Bursaspor,summer,out,Mesut Ünal,17464,33,Türkiye,Centre-Back,CB,350000.0,Oyak-Renault GSK,Türkiye,0.0,0
+2006,Super Lig,Bursaspor,summer,out,Ünsal Aka,8038,31,Türkiye,Centre-Back,CB,50000.0,Adana Demirspor,Türkiye,0.0,0
+2006,Super Lig,Bursaspor,summer,out,Tamer Coşkun,10177,25,Türkiye,Goalkeeper,GK,200000.0,Karsiyaka,Türkiye,0.0,0
+2006,Super Lig,Bursaspor,summer,out,Yunus Altun,8711,28,Türkiye,Centre-Forward,CF,850000.0,Mardinspor,Türkiye,0.0,0
+2006,Super Lig,Bursaspor,summer,out,Bülent Bal,7113,28,Türkiye,Centre-Back,CB,50000.0,Eskisehirspor,Türkiye,0.0,0
+2006,Super Lig,Bursaspor,summer,out,Serkan Reçber,35279,30,Türkiye,Defensive Midfield,DM,250000.0,Eskisehirspor,Türkiye,0.0,0
+2006,Super Lig,Bursaspor,summer,out,Mehmet Al,10128,23,Türkiye,Left Winger,LW,100000.0,Eskisehirspor,Türkiye,0.0,0
+2006,Super Lig,Bursaspor,summer,out,Serdar Topraktepe,6909,29,Türkiye,Left Winger,LW,750000.0,Sivasspor,Türkiye,0.0,0
+2006,Super Lig,Bursaspor,summer,out,Ömer Kaplan,35270,21,Türkiye,Centre-Forward,CF,100000.0,Altay SK,Türkiye,0.0,1
+2006,Super Lig,Bursaspor,summer,out,Iulian Miu,10125,30,Romania,Left-Back,LB,650000.0,NC Foresta Suceava (- 2003),Romania,0.0,1
+2006,Super Lig,Bursaspor,summer,out,Volkan Şen,56386,19,Türkiye,Left Winger,LW,,Bursa Merinosspor,Türkiye,0.0,1
+2006,Super Lig,Bursaspor,summer,out,Yunus Acar,231430,19,Türkiye,Attacking Midfield,AM,,Bursa Merinosspor,Türkiye,0.0,1
+2006,Super Lig,Bursaspor,summer,out,Mehmet Türkmehmet,7003,25,Türkiye,Left-Back,LB,1000000.0,Eskisehirspor,Türkiye,,0
+2006,Super Lig,Bursaspor,summer,out,Yakup Sertkaya,7316,27,Türkiye,Central Midfield,CM,500000.0,Altay SK,Türkiye,,0
+2006,Super Lig,Bursaspor,summer,out,Selim Yörük,67579,19,Türkiye,Central Midfield,CM,,Bursa Merinosspor,Türkiye,0.0,1
+2006,Super Lig,Bursaspor,summer,out,Eser Yağmur,35281,23,Türkiye,Centre-Forward,CF,75000.0,Besiktas JK,Türkiye,0.0,1
+2006,Super Lig,Bursaspor,summer,out,Ertuğrul Arslan,33550,26,Türkiye,Defensive Midfield,DM,300000.0,Sivasspor,Türkiye,0.0,1
+2006,Super Lig,Bursaspor,winter,out,Zafer Biryol,7388,30,Türkiye,Centre-Forward,CF,1730000.0,Caykur Rizespor,Türkiye,0.0,0
+2006,Super Lig,Caykur Rizespor,summer,in,Dragan Jelic,24268,20,Slovenia,Centre-Forward,CF,,NK Maribor,Slovenia,450000.0,1
+2006,Super Lig,Caykur Rizespor,summer,in,Erhan Albayrak,1393,29,Türkiye,Left Midfield,LM,1400000.0,Konyaspor,Türkiye,120000.0,0
+2006,Super Lig,Caykur Rizespor,summer,in,Razundara Tjikuzu,537,26,Namibia,Right-Back,RB,1000000.0,MSV Duisburg,Germany,0.0,0
+2006,Super Lig,Caykur Rizespor,summer,in,Sezer Akbulut,59014,21,Türkiye,Defensive Midfield,DM,,Ispartaspor,Türkiye,0.0,0
+2006,Super Lig,Caykur Rizespor,summer,in,Cemil Mengi,20608,19,Türkiye,Left Midfield,LM,,Türkiyemspor Berlin,Germany,0.0,0
+2006,Super Lig,Caykur Rizespor,summer,in,Emrah Eren,28283,27,Türkiye,Right-Back,RB,2300000.0,Malatyaspor,Türkiye,0.0,0
+2006,Super Lig,Caykur Rizespor,summer,in,Murat Uluç,41013,25,Türkiye,Centre-Forward,CF,,Büyüksehir Belediyespor,Türkiye,,0
+2006,Super Lig,Caykur Rizespor,summer,in,Enis Ulusan,44410,21,Türkiye,Central Midfield,CM,,FC Den Bosch U21,Netherlands,,0
+2006,Super Lig,Caykur Rizespor,summer,in,Altan Aksoy,8051,30,Türkiye,Attacking Midfield,AM,1500000.0,Galatasaray,Türkiye,,0
+2006,Super Lig,Caykur Rizespor,summer,in,Yavuz Onuk,3382,22,Türkiye,Defensive Midfield,DM,50000.0,Mersin Idmanyurdu,Türkiye,,0
+2006,Super Lig,Caykur Rizespor,summer,in,Tolga Doğantez,13451,31,Türkiye,Centre-Back,CB,750000.0,Sivasspor,Türkiye,,0
+2006,Super Lig,Caykur Rizespor,winter,in,Ibrahim Said,3587,27,Egypt,Centre-Back,CB,1000000.0,Zamalek SC,Egypt,300000.0,0
+2006,Super Lig,Caykur Rizespor,winter,in,Zafer Biryol,7388,30,Türkiye,Centre-Forward,CF,1730000.0,Bursaspor,Türkiye,0.0,0
+2006,Super Lig,Caykur Rizespor,winter,in,Anderson,33557,23,Brazil,Centre-Forward,CF,1000000.0,Sivasspor,Türkiye,0.0,0
+2006,Super Lig,Caykur Rizespor,winter,in,Volkan Ünlü,1720,23,Türkiye,Goalkeeper,GK,400000.0,Besiktas JK,Türkiye,0.0,0
+2006,Super Lig,Caykur Rizespor,winter,in,Görkem Görk,34166,23,Türkiye,Centre-Back,CB,225000.0,Eyüpspor,Türkiye,0.0,0
+2006,Super Lig,Caykur Rizespor,summer,out,Fahri Tatan,7442,23,Türkiye,Defensive Midfield,DM,750000.0,Besiktas JK,Türkiye,150000.0,0
+2006,Super Lig,Caykur Rizespor,summer,out,Merthan Açıl,8713,24,Türkiye,Centre-Back,CB,350000.0,Kasimpasa,Türkiye,0.0,0
+2006,Super Lig,Caykur Rizespor,summer,out,Tarik Divarci,559678,23,Netherlands,Striker,Striker,,SV Huizen,Netherlands,0.0,0
+2006,Super Lig,Caykur Rizespor,summer,out,Serkan Özdemir,7226,30,Türkiye,Right Winger,RW,1200000.0,Samsunspor,Türkiye,0.0,0
+2006,Super Lig,Caykur Rizespor,summer,out,Ünal Alpugan,257,32,Germany,Defensive Midfield,DM,600000.0,Büyüksehir Belediyespor,Türkiye,0.0,0
+2006,Super Lig,Caykur Rizespor,summer,out,Şener Aşkaroğlu,7188,26,Türkiye,Right Midfield,RM,800000.0,Manisaspor,Türkiye,0.0,0
+2006,Super Lig,Caykur Rizespor,summer,out,Okan Öztürk,7184,28,Türkiye,Centre-Forward,CF,1300000.0,Genclerbirligi Ankara,Türkiye,0.0,0
+2006,Super Lig,Caykur Rizespor,summer,out,Gökhan Kaba,35636,22,Türkiye,Centre-Forward,CF,100000.0,Samsunspor,Türkiye,0.0,1
+2006,Super Lig,Caykur Rizespor,summer,out,Soner Eser Baş,185768,20,Türkiye,Centre-Back,CB,,Siirtspor,Türkiye,0.0,1
+2006,Super Lig,Caykur Rizespor,summer,out,Eray Açıkgöz,37952,21,Türkiye,Right-Back,RB,75000.0,Boluspor,Türkiye,0.0,1
+2006,Super Lig,Caykur Rizespor,summer,out,Yüksel Babayiğit,126264,22,Türkiye,Midfielder,Midfielder,,Muglaspor,Türkiye,,0
+2006,Super Lig,Caykur Rizespor,summer,out,Abdullah Atik,923173,23,Türkiye,Striker,Striker,,Erzurumspor,Türkiye,,0
+2006,Super Lig,Caykur Rizespor,summer,out,Ahmed Salah Hosny,601,26,Egypt,Centre-Forward,CF,500000.0,El Mokawloon SC,Egypt,,0
+2006,Super Lig,Caykur Rizespor,summer,out,Atilla Koca,34169,26,Türkiye,Goalkeeper,GK,75000.0,Diyarbakirspor,Türkiye,,0
+2006,Super Lig,Caykur Rizespor,summer,out,Douglas,34332,24,Brazil,Attacking Midfield,AM,400000.0,Criciúma EC,Brazil,,0
+2006,Super Lig,Caykur Rizespor,summer,out,Ersin Güreler,8040,27,Türkiye,Left-Back,LB,300000.0,Kocaelispor,Türkiye,,0
+2006,Super Lig,Caykur Rizespor,summer,out,Evren Kürkçü,7197,23,Türkiye,Centre-Back,CB,120000.0,Samsunspor,Türkiye,,0
+2006,Super Lig,Caykur Rizespor,summer,out,Allyson,34331,24,Brazil,Centre-Back,CB,500000.0,Esporte Clube Bahia,Brazil,0.0,1
+2006,Super Lig,Caykur Rizespor,summer,out,Altan Aksoy,8051,30,Türkiye,Attacking Midfield,AM,1500000.0,Galatasaray,Türkiye,0.0,1
+2006,Super Lig,Caykur Rizespor,winter,out,Cemil Mengi,20608,20,Türkiye,Left Midfield,LM,,Turgutluspor,Türkiye,0.0,0
+2006,Super Lig,Caykur Rizespor,winter,out,Murat Uluç,41013,25,Türkiye,Centre-Forward,CF,,Büyüksehir Belediyespor,Türkiye,0.0,1
+2006,Super Lig,Caykur Rizespor,winter,out,Aydın Kuzu,44984,20,Türkiye,Right Winger,RW,,Malatyaspor,Türkiye,0.0,1
+2006,Super Lig,Caykur Rizespor,winter,out,Hüseyin Bak,44971,22,Türkiye,Defensive Midfield,DM,,Ünyespor,Türkiye,0.0,1
+2006,Super Lig,Caykur Rizespor,winter,out,Fatih Gültekin,103376,19,Türkiye,Centre-Back,CB,,Pazarspor,Türkiye,0.0,1
+2006,Super Lig,Caykur Rizespor,winter,out,Sezer Akbulut,59014,22,Türkiye,Defensive Midfield,DM,,Kardemir DC Karabükspor,Türkiye,0.0,1
+2006,Super Lig,Caykur Rizespor,winter,out,Mehmet Bölükbaşı,6938,28,Türkiye,Goalkeeper,GK,700000.0,Boluspor,Türkiye,0.0,1
+2006,Super Lig,Caykur Rizespor,winter,out,Yavuz Onuk,3382,23,Türkiye,Defensive Midfield,DM,50000.0,Yalovaspor,Türkiye,0.0,1
+2006,Super Lig,Caykur Rizespor,winter,out,Dragan Jelic,24268,20,Slovenia,Centre-Forward,CF,,NK Maribor,Slovenia,0.0,1
+2006,Super Lig,Denizlispor,summer,in,Adriano,38695,26,Brazil,Centre-Forward,CF,,Saturn Ramenskoe,Russia,400000.0,0
+2006,Super Lig,Denizlispor,summer,in,Dani García,7608,31,Spain,Centre-Forward,CF,1500000.0,Olympiacos Piraeus,Greece,0.0,0
+2006,Super Lig,Denizlispor,summer,in,İlkay Demir,45213,19,Türkiye,Centre-Forward,CF,,Pendikspor,Türkiye,0.0,0
+2006,Super Lig,Denizlispor,summer,in,Süleyman Görgün,45215,25,Türkiye,Right-Back,RB,,Usakspor (-2010),Türkiye,0.0,0
+2006,Super Lig,Denizlispor,summer,in,Emin Aladağ,58861,23,Türkiye,Defensive Midfield,DM,,Inegölspor,Türkiye,0.0,0
+2006,Super Lig,Denizlispor,summer,in,Çağlar Birinci,22952,20,Türkiye,Centre-Back,CB,350000.0,Bakirköyspor,Türkiye,0.0,0
+2006,Super Lig,Denizlispor,summer,in,Ramazan Irmak,910399,19,Türkiye,Defender,Defender,,Yalikavak Belediyespor,Türkiye,,0
+2006,Super Lig,Denizlispor,summer,in,Erman Güraçar,7313,31,Türkiye,Centre-Back,CB,1500000.0,MKE Ankaragücü,Türkiye,,0
+2006,Super Lig,Denizlispor,summer,in,Osman Kodalak,45217,20,Türkiye,Centre-Back,CB,,Aydinspor,Türkiye,,0
+2006,Super Lig,Denizlispor,summer,in,Burak Akyıldız,60278,21,Türkiye,Centre-Back,CB,,Göztepe,Türkiye,,0
+2006,Super Lig,Denizlispor,summer,in,Murat Karakoç,29638,26,Türkiye,Left Midfield,LM,,Karsiyaka,Türkiye,,0
+2006,Super Lig,Denizlispor,summer,in,Bayram Toysal,8681,29,Türkiye,Central Midfield,CM,850000.0,Kayserispor,Türkiye,,0
+2006,Super Lig,Denizlispor,summer,in,Valmir,45222,19,Brazil,Left-Back,LB,,Clube de Regatas Brasil (AL),Brazil,,0
+2006,Super Lig,Denizlispor,summer,in,Sedat Yeşilkaya,8046,26,Türkiye,Central Midfield,CM,750000.0,Genclerbirligi Ankara,Türkiye,0.0,1
+2006,Super Lig,Denizlispor,summer,in,Zafer Şakar,29389,20,Türkiye,Central Midfield,CM,675000.0,Galatasaray,Türkiye,0.0,1
+2006,Super Lig,Denizlispor,summer,in,Júlio César,45218,23,Brazil,Left-Back,LB,,Belasitsa Petrich,Bulgaria,0.0,1
+2006,Super Lig,Denizlispor,winter,in,Karel Kroupa,21057,26,Czech Republic,Centre-Forward,CF,,FK Teplice,Czech Republic,0.0,0
+2006,Super Lig,Denizlispor,winter,in,Muhittin Tekin,49072,21,Türkiye,Right-Back,RB,,Denizli Belediyespor,Türkiye,,0
+2006,Super Lig,Denizlispor,summer,out,Burak Özsaraç,7005,27,Türkiye,Centre-Back,CB,1600000.0,Manisaspor,Türkiye,0.0,0
+2006,Super Lig,Denizlispor,summer,out,Soner Şahin,7073,25,Türkiye,Goalkeeper,GK,50000.0,Giresunspor,Türkiye,0.0,0
+2006,Super Lig,Denizlispor,summer,out,Taylan Uzunoğlu,31688,24,Türkiye,Centre-Forward,CF,220000.0,Karsiyaka,Türkiye,0.0,0
+2006,Super Lig,Denizlispor,summer,out,Mustafa Keçeli,7072,27,Türkiye,Left-Back,LB,1500000.0,Trabzonspor,Türkiye,0.0,0
+2006,Super Lig,Denizlispor,summer,out,Levent Kartop,7107,26,Türkiye,Defensive Midfield,DM,1200000.0,Antalyaspor,Türkiye,0.0,0
+2006,Super Lig,Denizlispor,summer,out,Miikka Multaharju,10154,28,Finland,Right Midfield,RM,2000000.0,Fredrikstad FK,Norway,0.0,0
+2006,Super Lig,Denizlispor,summer,out,Çağlar Birinci,22952,20,Türkiye,Centre-Back,CB,350000.0,Istanbulspor,Türkiye,0.0,1
+2006,Super Lig,Denizlispor,summer,out,Murat Korkmaz,669031,20,Türkiye,Central Midfield,CM,,Kahramanmaras Spor,Türkiye,0.0,1
+2006,Super Lig,Denizlispor,summer,out,Barış Bakır,138340,22,Türkiye,Left Midfield,LM,,Aydinspor,Türkiye,0.0,1
+2006,Super Lig,Denizlispor,summer,out,Hüseyin Ateş,37210,21,Türkiye,Attacking Midfield,AM,150000.0,Altay SK,Türkiye,0.0,1
+2006,Super Lig,Denizlispor,summer,out,Onur İçli,37879,24,Türkiye,Centre-Forward,CF,250000.0,Istanbulspor,Türkiye,0.0,1
+2006,Super Lig,Denizlispor,summer,out,Yaser Yıldız,35686,18,Türkiye,Centre-Forward,CF,120000.0,Usakspor (-2010),Türkiye,0.0,1
+2006,Super Lig,Denizlispor,summer,out,Emin Aladağ,58861,23,Türkiye,Defensive Midfield,DM,,Samsunspor,Türkiye,0.0,1
+2006,Super Lig,Denizlispor,summer,out,İsmail Konuk,60795,18,Türkiye,Centre-Back,CB,,Istanbulspor,Türkiye,0.0,1
+2006,Super Lig,Denizlispor,summer,out,Bulut Basmaz,35016,22,Türkiye,Goalkeeper,GK,35000.0,Elazigspor,Türkiye,0.0,1
+2006,Super Lig,Denizlispor,summer,out,Onur İçli,37879,25,Türkiye,Centre-Forward,CF,250000.0,Kahramanmaras Spor,Türkiye,0.0,1
+2006,Super Lig,Denizlispor,summer,out,Özdoğan Demircioğlu,1193499,19,Türkiye,Midfielder,Midfielder,,Etimesgut Sekerspor,Türkiye,,0
+2006,Super Lig,Denizlispor,summer,out,Sultan Yildiz,197916,22,,Right-Back,RB,,Sariyer,Türkiye,,0
+2006,Super Lig,Denizlispor,summer,out,Mehmet Öncan,10130,25,Türkiye,Attacking Midfield,AM,650000.0,Orduspor,Türkiye,,0
+2006,Super Lig,Denizlispor,summer,out,Güven Varol,10139,25,Türkiye,Right Midfield,RM,750000.0,Manisaspor,Türkiye,,0
+2006,Super Lig,Denizlispor,summer,out,Eyüp Kaymakçı,29679,24,Türkiye,Attacking Midfield,AM,,Usakspor (-2010),Türkiye,0.0,1
+2006,Super Lig,Denizlispor,summer,out,Burak Akyıldız,60278,21,Türkiye,Centre-Back,CB,,Bilecikspor,Türkiye,0.0,1
+2006,Super Lig,Denizlispor,summer,out,Bayram Toysal,8681,29,Türkiye,Central Midfield,CM,850000.0,Without Club,,,0
+2006,Super Lig,Denizlispor,summer,out,Valmir,45222,19,Brazil,Left-Back,LB,,Without Club,,,0
+2006,Super Lig,Denizlispor,summer,out,Mehmet Yılmaz,6915,27,Türkiye,Centre-Forward,CF,1900000.0,Trabzonspor,Türkiye,0.0,1
+2006,Super Lig,Denizlispor,summer,out,Alex Alves,37555,30,Brazil,Centre-Forward,CF,850000.0,Botafogo de Futebol e Regatas,Brazil,0.0,1
+2006,Super Lig,Denizlispor,winter,out,Alessandro Cambalhota,37878,33,Brazil,Right Winger,RW,700000.0,Guaratinguetá (SP),Brazil,0.0,0
+2006,Super Lig,Denizlispor,winter,out,Barış Bakır,138340,22,Türkiye,Left Midfield,LM,,Aydinspor,Türkiye,0.0,0
+2006,Super Lig,Denizlispor,winter,out,Burak Akyıldız,60278,22,Türkiye,Centre-Back,CB,,Marmaris Belediye Genclikspor,Türkiye,0.0,1
+2006,Super Lig,Denizlispor,winter,out,Çağlar Birinci,22952,21,Türkiye,Centre-Back,CB,350000.0,Denizli Belediyespor,Türkiye,0.0,1
+2006,Super Lig,Denizlispor,winter,out,Ersin Aslantoğ,138339,18,Türkiye,Defensive Midfield,DM,,Denizli Belediyespor,Türkiye,0.0,1
+2006,Super Lig,Denizlispor,winter,out,Eyüp Kaymakçı,29679,25,Türkiye,Attacking Midfield,AM,,Etimesgut Sekerspor,Türkiye,,0
+2006,Super Lig,Denizlispor,winter,out,Hüseyin Kartal,6989,25,Türkiye,Centre-Forward,CF,2200000.0,Diyarbakirspor,Türkiye,,0
+2006,Super Lig,Denizlispor,winter,out,Yaser Yıldız,35686,18,Türkiye,Centre-Forward,CF,120000.0,Kartalspor,Türkiye,,0
+2006,Super Lig,Denizlispor,winter,out,Hüseyin Ateş,37210,21,Türkiye,Attacking Midfield,AM,150000.0,Turgutluspor,Türkiye,,0
+2006,Super Lig,Denizlispor,winter,out,Levent Canım,144201,19,Türkiye,Left Winger,LW,,Denizli Belediyespor,Türkiye,0.0,1
+2006,Super Lig,Denizlispor,winter,out,Zafer Şakar,29389,21,Türkiye,Central Midfield,CM,675000.0,Galatasaray,Türkiye,0.0,1
+2006,Super Lig,Denizlispor,winter,out,Sedat Yeşilkaya,8046,26,Türkiye,Central Midfield,CM,750000.0,Genclerbirligi Ankara,Türkiye,0.0,1
+2006,Super Lig,Denizlispor,winter,out,Osman Kodalak,45217,20,Türkiye,Centre-Back,CB,,Adiyamanspor,Türkiye,,0
+2006,Super Lig,Fenerbahce,summer,in,Diego Lugano,13829,25,Uruguay,Centre-Back,CB,2000000.0,São Paulo Futebol Clube,Brazil,7500000.0,0
+2006,Super Lig,Fenerbahce,summer,in,Mateja Kežman,4358,27,Serbia,Centre-Forward,CF,12500000.0,Atlético de Madrid,Spain,7000000.0,0
+2006,Super Lig,Fenerbahce,summer,in,Edú Dracena,15419,25,Brazil,Centre-Back,CB,1500000.0,Cruzeiro Esporte Clube,Brazil,5700000.0,0
+2006,Super Lig,Fenerbahce,summer,in,Deivid,6800,26,Brazil,Centre-Forward,CF,3500000.0,Sporting CP,Portugal,4500000.0,0
+2006,Super Lig,Fenerbahce,summer,in,Tümer Metin,6879,31,Türkiye,Attacking Midfield,AM,3500000.0,Besiktas JK,Türkiye,0.0,0
+2006,Super Lig,Fenerbahce,summer,in,Rüştü Reçber,4077,33,Türkiye,Goalkeeper,GK,2600000.0,FC Barcelona,Spain,0.0,0
+2006,Super Lig,Fenerbahce,summer,in,Uğur Boral,7346,24,Türkiye,Left Midfield,LM,950000.0,Genclerbirligi Ankara,Türkiye,0.0,0
+2006,Super Lig,Fenerbahce,summer,in,Mateus Paraná,45000,19,Brazil,Right Winger,RW,,Iraty Sport Club (PR),Brazil,,0
+2006,Super Lig,Fenerbahce,summer,out,Nicolas Anelka,3226,27,France,Centre-Forward,CF,12000000.0,Bolton Wanderers,England,12000000.0,0
+2006,Super Lig,Fenerbahce,summer,out,Servet Çetin,7041,25,Türkiye,Centre-Back,CB,2200000.0,Sivasspor,Türkiye,0.0,0
+2006,Super Lig,Fenerbahce,summer,out,Murat Hacıoğlu,7201,27,Türkiye,Second Striker,SS,2500000.0,Ankaraspor,Türkiye,0.0,0
+2006,Super Lig,Fenerbahce,summer,out,Mahmut Hanefi Erdoğdu,8235,23,Türkiye,Left-Back,LB,725000.0,Gaziantepspor,Türkiye,0.0,1
+2006,Super Lig,Fenerbahce,summer,out,Gürhan Gürsoy,6953,18,Türkiye,Left Midfield,LM,400000.0,Sivasspor,Türkiye,0.0,1
+2006,Super Lig,Fenerbahce,summer,out,Zafer Biryol,7388,29,Türkiye,Centre-Forward,CF,1730000.0,Bursaspor,Türkiye,,0
+2006,Super Lig,Fenerbahce,summer,out,Onur Tuncer,8539,22,Türkiye,Defensive Midfield,DM,50000.0,Mardinspor,Türkiye,0.0,1
+2006,Super Lig,Fenerbahce,summer,out,Mateus Paraná,45000,19,Brazil,Right Winger,RW,,Bursaspor,Türkiye,0.0,1
+2006,Super Lig,Fenerbahce,summer,out,Recep Biler,6919,25,Türkiye,Goalkeeper,GK,500000.0,Karsiyaka,Türkiye,0.0,1
+2006,Super Lig,Fenerbahce,summer,out,Mert Nobre,15821,25,Brazil,Centre-Forward,CF,4800000.0,Cruzeiro Esporte Clube,Brazil,0.0,1
+2006,Super Lig,Fenerbahce,summer,out,Rüştü Reçber,4077,33,Türkiye,Goalkeeper,GK,2600000.0,FC Barcelona,Spain,0.0,1
+2006,Super Lig,Galatasaray,summer,in,Marcelo Carrusca,27451,22,Argentina,Attacking Midfield,AM,1800000.0,Club Estudiantes de La Plata,Argentina,2000000.0,0
+2006,Super Lig,Galatasaray,summer,in,Mehmet Topal,44402,20,Türkiye,Defensive Midfield,DM,,Dardanelspor,Türkiye,1000000.0,0
+2006,Super Lig,Galatasaray,summer,in,Tolga Seyhan,6966,29,Türkiye,Centre-Back,CB,3500000.0,Shakhtar Donetsk,Ukraine,500000.0,1
+2006,Super Lig,Galatasaray,summer,in,Junichi Inamoto,3568,26,Japan,Defensive Midfield,DM,2250000.0,West Bromwich Albion,England,300000.0,0
+2006,Super Lig,Galatasaray,summer,in,Okan Buruk,5791,32,Türkiye,Right Midfield,RM,2000000.0,Besiktas JK,Türkiye,0.0,0
+2006,Super Lig,Galatasaray,summer,in,İlker Erbay,8707,22,Türkiye,Centre-Back,CB,350000.0,Gaziantep Büyüksehir Belediyespor,Türkiye,0.0,0
+2006,Super Lig,Galatasaray,summer,out,Cafercan Aksu,21366,19,Türkiye,Central Midfield,CM,750000.0,Büyüksehir Belediyespor,Türkiye,100000.0,1
+2006,Super Lig,Galatasaray,summer,out,Alioum Saidou,7160,28,Cameroon,Defensive Midfield,DM,3500000.0,FC Nantes,France,0.0,0
+2006,Super Lig,Galatasaray,summer,out,Marek Heinz,306,29,Czech Republic,Centre-Forward,CF,2000000.0,AS Saint-Étienne,France,0.0,0
+2006,Super Lig,Galatasaray,summer,out,Uğur Demirok,44977,18,Türkiye,Centre-Back,CB,,Gaziantepspor,Türkiye,0.0,1
+2006,Super Lig,Galatasaray,summer,out,Erkan Ferin,51817,18,Türkiye,Right-Back,RB,,Büyüksehir Belediyespor,Türkiye,0.0,1
+2006,Super Lig,Galatasaray,summer,out,İlker Erbay,8707,22,Türkiye,Centre-Back,CB,350000.0,Kocaelispor,Türkiye,0.0,1
+2006,Super Lig,Galatasaray,summer,out,Uğur Uçar,21370,19,Türkiye,Right-Back,RB,1400000.0,Kayserispor,Türkiye,0.0,1
+2006,Super Lig,Galatasaray,summer,out,Yalçın Ayhan,7152,24,Türkiye,Centre-Back,CB,650000.0,Kayseri Erciyesspor,Türkiye,,0
+2006,Super Lig,Galatasaray,summer,out,Volkan Arslan,6884,28,Türkiye,Central Midfield,CM,1300000.0,Ankaraspor,Türkiye,,0
+2006,Super Lig,Galatasaray,summer,out,Altan Aksoy,8051,30,Türkiye,Attacking Midfield,AM,1500000.0,Caykur Rizespor,Türkiye,,0
+2006,Super Lig,Galatasaray,summer,out,Zafer Şakar,29389,20,Türkiye,Central Midfield,CM,675000.0,Denizlispor,Türkiye,0.0,1
+2006,Super Lig,Galatasaray,winter,out,Oğuz Sabankay,47642,19,Türkiye,Attacking Midfield,AM,,Manisaspor,Türkiye,100000.0,1
+2006,Super Lig,Galatasaray,winter,out,Özgür Can Özcan,35252,18,Türkiye,Centre-Forward,CF,450000.0,Kayserispor,Türkiye,0.0,1
+2006,Super Lig,Galatasaray,winter,out,Zafer Şakar,29389,21,Türkiye,Central Midfield,CM,675000.0,Samsunspor,Türkiye,0.0,1
+2006,Super Lig,Gaziantepspor,summer,in,Önder Çengel,21680,23,Türkiye,Centre-Forward,CF,175000.0,FC Thun,Switzerland,800000.0,0
+2006,Super Lig,Gaziantepspor,summer,in,Göksel Akıncı,10141,29,Türkiye,Right-Back,RB,1100000.0,Diyarbakirspor,Türkiye,0.0,0
+2006,Super Lig,Gaziantepspor,summer,in,Kaba Diawara,5571,30,Guinea,Centre-Forward,CF,900000.0,AC Ajaccio,France,0.0,0
+2006,Super Lig,Gaziantepspor,summer,in,Nikola Jozic,35780,23,Serbia,Centre-Back,CB,,FSV Ludwigshafen Oggersheim,Germany,0.0,0
+2006,Super Lig,Gaziantepspor,summer,in,Nikola Drincic,35989,21,Montenegro,Defensive Midfield,DM,,FK Partizan Belgrade,Serbia,0.0,0
+2006,Super Lig,Gaziantepspor,summer,in,Oğuz Dağlaroğlu,7090,26,Türkiye,Goalkeeper,GK,1000000.0,Sivasspor,Türkiye,0.0,0
+2006,Super Lig,Gaziantepspor,summer,in,Uğur Demirok,44977,18,Türkiye,Centre-Back,CB,,Galatasaray,Türkiye,0.0,1
+2006,Super Lig,Gaziantepspor,summer,in,Mahmut Hanefi Erdoğdu,8235,23,Türkiye,Left-Back,LB,725000.0,Fenerbahce,Türkiye,0.0,1
+2006,Super Lig,Gaziantepspor,summer,in,Sinan Demircioğlu,7240,31,Türkiye,Left-Back,LB,750000.0,Diyarbakirspor,Türkiye,,0
+2006,Super Lig,Gaziantepspor,summer,in,Antonio de Nigris,44975,28,Mexico,Centre-Forward,CF,,Santos FC,Brazil,,0
+2006,Super Lig,Gaziantepspor,summer,in,Fatih Şen,45014,21,Türkiye,Central Midfield,CM,,Gaziantep Büyüksehir Belediyespor,Türkiye,,0
+2006,Super Lig,Gaziantepspor,summer,in,Cristian Zurita,44992,26,Argentina,Central Midfield,CM,,CA Colón,Argentina,,0
+2006,Super Lig,Gaziantepspor,winter,in,Mehmet Polat,6101,28,Türkiye,Centre-Back,CB,750000.0,Without Club,,,0
+2006,Super Lig,Gaziantepspor,winter,in,Tamer Tuna,16071,30,Türkiye,Right Midfield,RM,2000000.0,Etimesgut Sekerspor,Türkiye,,0
+2006,Super Lig,Gaziantepspor,winter,in,Metin Tuğlu,48299,22,Türkiye,Second Striker,SS,,Akcaabat Sebatspor,Türkiye,,0
+2006,Super Lig,Gaziantepspor,winter,in,Kodjo Afanou,3917,29,Togo,Centre-Back,CB,1000000.0,Without Club,,,0
+2006,Super Lig,Gaziantepspor,summer,out,Sedat Ağçay,8691,24,Türkiye,Defensive Midfield,DM,50000.0,Konyaspor,Türkiye,0.0,0
+2006,Super Lig,Gaziantepspor,summer,out,Serkan Atak,33809,22,Türkiye,Central Midfield,CM,350000.0,Genclerbirligi Oftasspor,Türkiye,0.0,0
+2006,Super Lig,Gaziantepspor,summer,out,Sofiene Melliti,38067,27,Tunisia,Central Midfield,CM,650000.0,CS Hammam-Lif,Tunisia,0.0,0
+2006,Super Lig,Gaziantepspor,summer,out,Adem Dursun,6993,26,Türkiye,Centre-Back,CB,2000000.0,Genclerbirligi Ankara,Türkiye,0.0,0
+2006,Super Lig,Gaziantepspor,summer,out,Shingayi Kaondera,37996,24,Zimbabwe,Attacking Midfield,AM,350000.0,SuperSport United,South Africa,0.0,0
+2006,Super Lig,Gaziantepspor,summer,out,Sinan Demircioğlu,7240,31,Türkiye,Left-Back,LB,750000.0,Samsunspor,Türkiye,0.0,0
+2006,Super Lig,Gaziantepspor,summer,out,Zdravko Lazarov,10126,30,Bulgaria,Left Winger,LW,2750000.0,Kayseri Erciyesspor,Türkiye,0.0,0
+2006,Super Lig,Gaziantepspor,summer,out,Tolgahan Acar,37951,20,Türkiye,Goalkeeper,GK,300000.0,Adanaspor,Türkiye,0.0,1
+2006,Super Lig,Gaziantepspor,summer,out,Ozan Tahtaişleyen,21448,21,Türkiye,Centre-Back,CB,50000.0,Usakspor (-2010),Türkiye,0.0,1
+2006,Super Lig,Gaziantepspor,summer,out,Barış Durmaz,33811,25,Türkiye,Right-Back,RB,150000.0,Samsunspor,Türkiye,0.0,1
+2006,Super Lig,Gaziantepspor,summer,out,Şevki Koç,7307,23,Türkiye,Right Midfield,RM,500000.0,Istanbulspor,Türkiye,,0
+2006,Super Lig,Gaziantepspor,summer,out,Kaya Tarakçı,7253,25,Türkiye,Goalkeeper,GK,350000.0,Kocaelispor,Türkiye,,0
+2006,Super Lig,Gaziantepspor,summer,out,Tarik El Taib,18694,29,Libya,Attacking Midfield,AM,1000000.0,Al-Hilal SFC,Saudi Arabia,,0
+2006,Super Lig,Gaziantepspor,summer,out,Mustafa Ümit Temel,7285,25,Türkiye,Midfielder,Midfielder,300000.0,Giresunspor,Türkiye,,0
+2006,Super Lig,Gaziantepspor,summer,out,Serkan Özsoy,10132,28,Türkiye,Centre-Back,CB,1250000.0,Diyarbakirspor,Türkiye,,0
+2006,Super Lig,Gaziantepspor,summer,out,Ahmet Burak Solakel,58909,24,Türkiye,Left-Back,LB,,Mardinspor,Türkiye,,0
+2006,Super Lig,Gaziantepspor,summer,out,Hasan Yurt,7289,28,Türkiye,Centre-Back,CB,2750000.0,Sivasspor,Türkiye,,0
+2006,Super Lig,Gaziantepspor,summer,out,Kerem Sarıhan,91144,22,Türkiye,Left-Back,LB,,Yimpas Yozgatspor,Türkiye,,0
+2006,Super Lig,Gaziantepspor,summer,out,Murat Yılmaz,33816,20,Türkiye,Centre-Forward,CF,150000.0,Gaskispor,Türkiye,0.0,1
+2006,Super Lig,Gaziantepspor,winter,out,Aytek Aşıkoğlu,31680,24,Türkiye,Centre-Back,CB,150000.0,Elazigspor,Türkiye,0.0,0
+2006,Super Lig,Gaziantepspor,winter,out,Önder Çengel,21680,24,Türkiye,Centre-Forward,CF,175000.0,FC Winterthur,Switzerland,0.0,0
+2006,Super Lig,Gaziantepspor,winter,out,Nikola Drincic,35989,22,Montenegro,Defensive Midfield,DM,,Amkar Perm,Russia,0.0,0
+2006,Super Lig,Gaziantepspor,winter,out,Ali Bayraktar,31681,21,Türkiye,Right Winger,RW,750000.0,Eskisehirspor,Türkiye,0.0,1
+2006,Super Lig,Gaziantepspor,winter,out,Erdal Güneş,7287,24,Türkiye,Defensive Midfield,DM,1750000.0,Kayserispor,Türkiye,,0
+2006,Super Lig,Gaziantepspor,winter,out,Nikola Jozic,35780,24,Serbia,Centre-Back,CB,,FK Radnik Bijeljina,Bosnia-Herzegovina,,0
+2006,Super Lig,Gaziantepspor,winter,out,Mehmet Kara,46904,23,Türkiye,Left Winger,LW,,Without Club,,,0
+2006,Super Lig,Genclerbirligi Ankara,summer,in,Mickael Nicoise,33900,21,Guadeloupe,Right Winger,RW,1500000.0,FC Molenbeek Brüssel,Belgium,250000.0,0
+2006,Super Lig,Genclerbirligi Ankara,summer,in,Draman Haminu,34395,20,Ghana,Left Winger,LW,350000.0,Red Star Belgrade,Serbia,220000.0,0
+2006,Super Lig,Genclerbirligi Ankara,summer,in,Adem Dursun,6993,26,Türkiye,Centre-Back,CB,2000000.0,Gaziantepspor,Türkiye,0.0,0
+2006,Super Lig,Genclerbirligi Ankara,summer,in,Lamine Traoré,9607,24,Burkina Faso,Centre-Back,CB,600000.0,RSC Anderlecht,Belgium,0.0,0
+2006,Super Lig,Genclerbirligi Ankara,summer,in,Recep Öztürk,17466,29,Türkiye,Goalkeeper,GK,250000.0,Sakaryaspor,Türkiye,0.0,0
+2006,Super Lig,Genclerbirligi Ankara,summer,in,Ulaş Güler,41001,26,Türkiye,Goalkeeper,GK,,Marmaris Belediye Genclikspor,Türkiye,0.0,0
+2006,Super Lig,Genclerbirligi Ankara,summer,in,Okan Öztürk,7184,28,Türkiye,Centre-Forward,CF,1300000.0,Caykur Rizespor,Türkiye,0.0,0
+2006,Super Lig,Genclerbirligi Ankara,winter,in,Sandro Mendonça,37429,23,Brazil,Second Striker,SS,,Paraná Clube,Brazil,600000.0,0
+2006,Super Lig,Genclerbirligi Ankara,winter,in,Fatih Akyel,6857,29,Türkiye,Right-Back,RB,2250000.0,Trabzonspor,Türkiye,0.0,0
+2006,Super Lig,Genclerbirligi Ankara,winter,in,Tozo,48620,26,Brazil,Defensive Midfield,DM,,Clube Náutico Capibaribe,Brazil,,0
+2006,Super Lig,Genclerbirligi Ankara,summer,out,David Abwo,37842,20,Nigeria,Right Midfield,RM,850000.0,Dijon FCO,France,0.0,0
+2006,Super Lig,Genclerbirligi Ankara,summer,out,Serdar Sinik,43065,25,Türkiye,Second Striker,SS,,Türk Telekomspor,Türkiye,0.0,0
+2006,Super Lig,Genclerbirligi Ankara,summer,out,Yalçın Çöpçü,144424,20,Türkiye,Midfielder,Midfielder,,Unknown,,0.0,0
+2006,Super Lig,Genclerbirligi Ankara,summer,out,Christophe Lepoint,4742,21,Belgium,Central Midfield,CM,250000.0,AFC Tubize,Belgium,0.0,0
+2006,Super Lig,Genclerbirligi Ankara,summer,out,Baki Mercimek,10122,23,Türkiye,Centre-Back,CB,1750000.0,Besiktas JK,Türkiye,0.0,0
+2006,Super Lig,Genclerbirligi Ankara,summer,out,Uğur Boral,7346,24,Türkiye,Left Midfield,LM,950000.0,Fenerbahce,Türkiye,0.0,0
+2006,Super Lig,Genclerbirligi Ankara,summer,out,İsmail Güldüren,7049,27,Türkiye,Centre-Back,CB,1300000.0,Bursaspor,Türkiye,0.0,0
+2006,Super Lig,Genclerbirligi Ankara,summer,out,Ömer Çatkıç,7249,31,Türkiye,Goalkeeper,GK,1250000.0,Bursaspor,Türkiye,0.0,0
+2006,Super Lig,Genclerbirligi Ankara,summer,out,Doğa Kaya,33796,22,Türkiye,Central Midfield,CM,200000.0,Genclerbirligi Oftasspor,Türkiye,0.0,1
+2006,Super Lig,Genclerbirligi Ankara,summer,out,Fırat Sağesen,144523,20,Türkiye,Right-Back,RB,,Arsinspor,Türkiye,0.0,1
+2006,Super Lig,Genclerbirligi Ankara,summer,out,Murat Kalkan,51601,20,Türkiye,Centre-Back,CB,,Genclerbirligi Oftasspor,Türkiye,0.0,1
+2006,Super Lig,Genclerbirligi Ankara,summer,out,Kemal Akbaba,51592,18,Türkiye,Centre-Forward,CF,,Genclerbirligi Oftasspor,Türkiye,0.0,1
+2006,Super Lig,Genclerbirligi Ankara,summer,out,Gökhan Gönül,33793,21,Türkiye,Right-Back,RB,100000.0,Genclerbirligi Oftasspor,Türkiye,0.0,1
+2006,Super Lig,Genclerbirligi Ankara,summer,out,Ali Cansun Begeçarslan,7422,23,Türkiye,Centre-Forward,CF,750000.0,Antalyaspor,Türkiye,,0
+2006,Super Lig,Genclerbirligi Ankara,summer,out,Evren Başaran,58676,23,Türkiye,Right Midfield,RM,,Gaziantep Büyüksehir Belediyespor,Türkiye,,0
+2006,Super Lig,Genclerbirligi Ankara,summer,out,Bora Sevim,16768,22,Türkiye,Goalkeeper,GK,150000.0,Yalovaspor,Türkiye,,0
+2006,Super Lig,Genclerbirligi Ankara,summer,out,Emrah Yılmaz,169914,22,Türkiye,Goalkeeper,GK,,Usakspor (-2010),Türkiye,0.0,1
+2006,Super Lig,Genclerbirligi Ankara,summer,out,Sedat Yeşilkaya,8046,26,Türkiye,Central Midfield,CM,750000.0,Denizlispor,Türkiye,0.0,1
+2006,Super Lig,Genclerbirligi Ankara,summer,out,Ali Öztürk,16769,20,Türkiye,Centre-Forward,CF,500000.0,Mersin Idmanyurdu,Türkiye,0.0,1
+2006,Super Lig,Genclerbirligi Ankara,summer,out,Tayfun Korkut,3376,32,Türkiye,Right Midfield,RM,750000.0,Retired,,,0
+2006,Super Lig,Genclerbirligi Ankara,winter,out,Fredrik Risp,6266,26,Sweden,Centre-Back,CB,1800000.0,Trabzonspor,Türkiye,1000000.0,0
+2006,Super Lig,Genclerbirligi Ankara,winter,out,Ayman Abdelaziz,6963,28,Egypt,Defensive Midfield,DM,1750000.0,Trabzonspor,Türkiye,1000000.0,0
+2006,Super Lig,Genclerbirligi Ankara,winter,out,Mickael Nicoise,33900,22,Guadeloupe,Right Winger,RW,1500000.0,Excelsior Mouscron (-2009),Belgium,125000.0,0
+2006,Super Lig,Genclerbirligi Ankara,winter,out,Marcinho,20406,23,Brazil,Attacking Midfield,AM,1500000.0,Clube Atlético Mineiro,Brazil,0.0,0
+2006,Super Lig,Genclerbirligi Ankara,winter,out,Ali Akburç,126038,18,Türkiye,Right Winger,RW,,Fethiyespor,Türkiye,0.0,1
+2006,Super Lig,Genclerbirligi Ankara,winter,out,Sedat Yeşilkaya,8046,26,Türkiye,Central Midfield,CM,750000.0,MKE Ankaragücü,Türkiye,0.0,1
+2006,Super Lig,Genclerbirligi Ankara,winter,out,Emrah Yılmaz,169914,22,Türkiye,Goalkeeper,GK,,Fatih Karagümrük,Türkiye,0.0,1
+2006,Super Lig,Kayseri Erciyesspor,summer,in,Radomir Djalovic,28954,23,Montenegro,Centre-Forward,CF,600000.0,NK Zagreb,Croatia,400000.0,0
+2006,Super Lig,Kayseri Erciyesspor,summer,in,Zdravko Lazarov,10126,30,Bulgaria,Left Winger,LW,2750000.0,Gaziantepspor,Türkiye,0.0,0
+2006,Super Lig,Kayseri Erciyesspor,summer,in,Mehmet Eren Boyraz,44979,24,Türkiye,Right Winger,RW,,Eskisehirspor,Türkiye,0.0,0
+2006,Super Lig,Kayseri Erciyesspor,summer,in,Zafer Özgültekin,7010,31,Türkiye,Goalkeeper,GK,850000.0,MKE Ankaragücü,Türkiye,0.0,0
+2006,Super Lig,Kayseri Erciyesspor,summer,in,Özgür Bayer,7061,27,Türkiye,Centre-Back,CB,975000.0,Ankaraspor,Türkiye,0.0,0
+2006,Super Lig,Kayseri Erciyesspor,summer,in,Mustafa Sarp,21522,25,Türkiye,Defensive Midfield,DM,350000.0,Ankaraspor,Türkiye,0.0,0
+2006,Super Lig,Kayseri Erciyesspor,summer,in,Zafer Demiray,10200,29,Türkiye,Right Winger,RW,1600000.0,Manisaspor,Türkiye,0.0,0
+2006,Super Lig,Kayseri Erciyesspor,summer,in,Yalçın Ayhan,7152,24,Türkiye,Centre-Back,CB,650000.0,Galatasaray,Türkiye,,0
+2006,Super Lig,Kayseri Erciyesspor,summer,in,Balázs Tóth,29402,24,Hungary,Defensive Midfield,DM,750000.0,Malatyaspor,Türkiye,0.0,1
+2006,Super Lig,Kayseri Erciyesspor,winter,in,Kürşat Duymuş,14151,27,Türkiye,Centre-Back,CB,750000.0,Ankaraspor,Türkiye,0.0,0
+2006,Super Lig,Kayseri Erciyesspor,winter,in,Orkun Usak,8706,26,Türkiye,Goalkeeper,GK,650000.0,MKE Ankaragücü,Türkiye,0.0,0
+2006,Super Lig,Kayseri Erciyesspor,winter,in,Daouda Jabi,5478,25,Guinea,Right-Back,RB,1000000.0,Grenoble Foot 38,France,0.0,0
+2006,Super Lig,Kayseri Erciyesspor,winter,in,Ergün Teber,29411,21,Türkiye,Left-Back,LB,2000000.0,Kayserispor,Türkiye,0.0,0
+2006,Super Lig,Kayseri Erciyesspor,winter,in,Ali Turan,18547,23,Türkiye,Centre-Back,CB,350000.0,Kayserispor,Türkiye,0.0,1
+2006,Super Lig,Kayseri Erciyesspor,winter,in,Muhammed Emin Bakan,47651,22,Türkiye,Defensive Midfield,DM,,Istanbulspor,Türkiye,,0
+2006,Super Lig,Kayseri Erciyesspor,winter,in,Timuçin Bayazit,22962,34,Türkiye,Left Midfield,LM,1800000.0,Without Club,,,0
+2006,Super Lig,Kayseri Erciyesspor,summer,out,Ali Akdeniz,7024,31,Türkiye,Left Midfield,LM,1250000.0,Mardinspor,Türkiye,0.0,0
+2006,Super Lig,Kayseri Erciyesspor,summer,out,Victor Agali,228,27,Nigeria,Centre-Forward,CF,2250000.0,MKE Ankaragücü,Türkiye,0.0,0
+2006,Super Lig,Kayseri Erciyesspor,summer,out,Özay Gökyeşil,6588,24,Türkiye,Midfielder,Midfielder,,SV Yesilyurt,Germany,0.0,0
+2006,Super Lig,Kayseri Erciyesspor,summer,out,Aydın Yıldırım,33800,29,Türkiye,Centre-Back,CB,200000.0,Samsunspor,Türkiye,0.0,0
+2006,Super Lig,Kayseri Erciyesspor,summer,out,Devran Ayhan,7191,28,Türkiye,Central Midfield,CM,1750000.0,Ankaraspor,Türkiye,0.0,0
+2006,Super Lig,Kayseri Erciyesspor,summer,out,Burhan Coşkun,33554,24,Türkiye,Centre-Forward,CF,150000.0,Kocaelispor,Türkiye,0.0,1
+2006,Super Lig,Kayseri Erciyesspor,summer,out,Kazım Şeker,33564,24,Türkiye,Attacking Midfield,AM,150000.0,Türk Telekomspor,Türkiye,0.0,1
+2006,Super Lig,Kayseri Erciyesspor,summer,out,Şenol Yavaş,7389,33,Türkiye,Centre-Back,CB,1500000.0,Malatyaspor,Türkiye,,0
+2006,Super Lig,Kayseri Erciyesspor,summer,out,Mutlu Kızıltan,33561,25,Türkiye,Attacking Midfield,AM,125000.0,Istanbulspor,Türkiye,,0
+2006,Super Lig,Kayseri Erciyesspor,summer,out,Barış Özkan,21724,27,Türkiye,Left Winger,LW,,Istanbulspor,Türkiye,,0
+2006,Super Lig,Kayseri Erciyesspor,summer,out,Mehmet Fatih Karaca,44980,17,Türkiye,Defensive Midfield,DM,,Unknown,,,0
+2006,Super Lig,Kayseri Erciyesspor,summer,out,Murat Akyüz,44995,24,Türkiye,Right-Back,RB,,Ankaraspor,Türkiye,,0
+2006,Super Lig,Kayseri Erciyesspor,summer,out,Fatih Kılıçkaya,79067,21,Türkiye,Centre-Back,CB,,Yimpas Yozgatspor,Türkiye,,0
+2006,Super Lig,Kayseri Erciyesspor,summer,out,Gökhan Yıldız,881430,23,Türkiye,Defensive Midfield,DM,,Tarsus Idman Yurdu,Türkiye,,0
+2006,Super Lig,Kayseri Erciyesspor,summer,out,Ömer Közen,7297,25,Türkiye,Left Midfield,LM,50000.0,Istanbulspor,Türkiye,0.0,1
+2006,Super Lig,Kayseri Erciyesspor,summer,out,Zafer Özgültekin,7010,31,Türkiye,Goalkeeper,GK,850000.0,MKE Ankaragücü,Türkiye,0.0,1
+2006,Super Lig,Kayseri Erciyesspor,winter,out,Zafer Özgültekin,7010,31,Türkiye,Goalkeeper,GK,850000.0,Eskisehirspor,Türkiye,0.0,0
+2006,Super Lig,Kayseri Erciyesspor,winter,out,Ömer Ateş,33551,25,Türkiye,Left-Back,LB,250000.0,Samsunspor,Türkiye,,0
+2006,Super Lig,Kayseri Erciyesspor,winter,out,Burhan Coşkun,33554,25,Türkiye,Centre-Forward,CF,150000.0,Samsunspor,Türkiye,,0
+2006,Super Lig,Kayseri Erciyesspor,winter,out,Zafer Demiray,10200,30,Türkiye,Right Winger,RW,1600000.0,Bursaspor,Türkiye,,0
+2006,Super Lig,Kayseri Erciyesspor,winter,out,Cem Karğın,33795,28,Türkiye,Centre-Back,CB,200000.0,Malatyaspor,Türkiye,,0
+2006,Super Lig,Kayseri Erciyesspor,winter,out,Yalçın Ayhan,7152,24,Türkiye,Centre-Back,CB,650000.0,Sakaryaspor,Türkiye,,0
+2006,Super Lig,Kayseri Erciyesspor,winter,out,Riadh Bouazizi,7263,33,Tunisia,Defensive Midfield,DM,1500000.0,Club Athlétique Bizertin,Tunisia,,0
+2006,Super Lig,Kayseri Erciyesspor,winter,out,Timuçin Bayazit,22962,34,Türkiye,Left Midfield,LM,1800000.0,Without Club,,,0
+2006,Super Lig,Kayserispor,summer,in,Muhammet Akagündüz,6299,28,Austria,Centre-Forward,CF,1500000.0,Rapid Vienna,Austria,30000.0,0
+2006,Super Lig,Kayserispor,summer,in,Delio Toledo,7969,29,Paraguay,Left-Back,LB,900000.0,Real Zaragoza,Spain,0.0,0
+2006,Super Lig,Kayserispor,summer,in,Hamed Kavianpour,24644,27,Iran,Central Midfield,CM,700000.0,Piroozi FC,Iran,0.0,0
+2006,Super Lig,Kayserispor,summer,in,Leonardo Iglesias,40996,27,Argentina,Centre-Forward,CF,,AMSD Atlético de Rafaela,Argentina,0.0,0
+2006,Super Lig,Kayserispor,summer,in,Marcelo Méndez,27250,25,Uruguay,Centre-Back,CB,,CA Peñarol,Uruguay,0.0,0
+2006,Super Lig,Kayserispor,summer,in,Hasan Sönmez,6895,29,Türkiye,Goalkeeper,GK,500000.0,Trabzonspor,Türkiye,0.0,1
+2006,Super Lig,Kayserispor,summer,in,Uğur Uçar,21370,19,Türkiye,Right-Back,RB,1400000.0,Galatasaray,Türkiye,0.0,1
+2006,Super Lig,Kayserispor,summer,in,Tayfun Cora,6885,22,Türkiye,Centre-Back,CB,2100000.0,Trabzonspor,Türkiye,0.0,1
+2006,Super Lig,Kayserispor,summer,in,Nuri İlker Kıldır,114134,27,Türkiye,Goalkeeper,GK,,Erzurumspor,Türkiye,,0
+2006,Super Lig,Kayserispor,winter,in,Éder Louco,48643,26,Brazil,Attacking Midfield,AM,,Vila Nova Futebol Clube (GO),Brazil,0.0,0
+2006,Super Lig,Kayserispor,winter,in,Özgür Can Özcan,35252,18,Türkiye,Centre-Forward,CF,450000.0,Galatasaray,Türkiye,0.0,1
+2006,Super Lig,Kayserispor,winter,in,Erdal Güneş,7287,24,Türkiye,Defensive Midfield,DM,1750000.0,Gaziantepspor,Türkiye,,0
+2006,Super Lig,Kayserispor,winter,in,Emrah Kaya,49125,20,Türkiye,Right Winger,RW,,Turgutluspor,Türkiye,,0
+2006,Super Lig,Kayserispor,winter,in,Ümit Aydın,6916,27,Türkiye,Defensive Midfield,DM,950000.0,Without Club,,,0
+2006,Super Lig,Kayserispor,summer,out,Rashad Sadyqov,33969,24,Azerbaijan,Centre-Back,CB,250000.0,Neftchi PFK,Azerbaijan,0.0,0
+2006,Super Lig,Kayserispor,summer,out,Müslim Can,7143,31,Türkiye,Right-Back,RB,1000000.0,Orduspor,Türkiye,0.0,0
+2006,Super Lig,Kayserispor,summer,out,Aleksandar Rodic,24569,26,Slovenia,Centre-Forward,CF,1000000.0,Litex Lovech,Bulgaria,0.0,0
+2006,Super Lig,Kayserispor,summer,out,Ergün Teber,29411,20,Türkiye,Left-Back,LB,2000000.0,Sakaryaspor,Türkiye,0.0,1
+2006,Super Lig,Kayserispor,summer,out,Bora Rıza Kalyon,24445,20,Türkiye,Defensive Midfield,DM,50000.0,Altay SK,Türkiye,0.0,1
+2006,Super Lig,Kayserispor,summer,out,Veysel Aksu,16061,21,Türkiye,Centre-Back,CB,100000.0,Gaziantep Büyüksehir Belediyespor,Türkiye,,0
+2006,Super Lig,Kayserispor,summer,out,Bayram Toysal,8681,29,Türkiye,Central Midfield,CM,850000.0,Denizlispor,Türkiye,,0
+2006,Super Lig,Kayserispor,summer,out,Altan Güneş,33966,20,Türkiye,Defensive Midfield,DM,50000.0,Boluspor,Türkiye,,0
+2006,Super Lig,Kayserispor,summer,out,Sezer Sezgin,45221,20,Türkiye,Left-Back,LB,,Besiktas JK,Türkiye,,0
+2006,Super Lig,Kayserispor,summer,out,Nuri İlker Kıldır,114134,27,Türkiye,Goalkeeper,GK,,Mersin Idmanyurdu,Türkiye,,0
+2006,Super Lig,Kayserispor,summer,out,Aleksandar Aleksandrov,14958,31,Bulgaria,Attacking Midfield,AM,3000000.0,Konyaspor,Türkiye,,0
+2006,Super Lig,Kayserispor,summer,out,Engin Cicem,31214,20,Germany,Centre-Forward,CF,100000.0,Etimesgut Sekerspor,Türkiye,0.0,1
+2006,Super Lig,Kayserispor,summer,out,Aydemir Yavuz,37096,20,Türkiye,Centre-Back,CB,50000.0,Without Club,,,0
+2006,Super Lig,Kayserispor,summer,out,Cem Karğın,33795,28,Türkiye,Centre-Back,CB,200000.0,Kayseri Erciyesspor,Türkiye,0.0,1
+2006,Super Lig,Kayserispor,summer,out,Muhammet Hanifi Yoldaş,13387,23,Türkiye,Centre-Back,CB,500000.0,Ankaraspor,Türkiye,0.0,1
+2006,Super Lig,Kayserispor,winter,out,Muhammet Akagündüz,6299,29,Austria,Centre-Forward,CF,1500000.0,Hellas Verona,Italy,0.0,0
+2006,Super Lig,Kayserispor,winter,out,Ergün Teber,29411,21,Türkiye,Left-Back,LB,2000000.0,Kayseri Erciyesspor,Türkiye,0.0,0
+2006,Super Lig,Kayserispor,winter,out,Ali Turan,18547,23,Türkiye,Centre-Back,CB,350000.0,Kayseri Erciyesspor,Türkiye,0.0,1
+2006,Super Lig,Kayserispor,winter,out,Enver Işık,45216,22,Türkiye,Right Winger,RW,,Yimpas Yozgatspor,Türkiye,0.0,1
+2006,Super Lig,Kayserispor,winter,out,Köksal Yedek,29412,22,Türkiye,Attacking Midfield,AM,250000.0,Sanliurfaspor,Türkiye,0.0,1
+2006,Super Lig,Konyaspor,summer,in,Kauê,27348,22,Brazil,Left-Back,LB,,Ituano Futebol Clube (SP),Brazil,3000000.0,0
+2006,Super Lig,Konyaspor,summer,in,Oğuzhan Bahadır,12530,26,Türkiye,Goalkeeper,GK,150000.0,Elazigspor,Türkiye,0.0,0
+2006,Super Lig,Konyaspor,summer,in,Sedat Ağçay,8691,24,Türkiye,Defensive Midfield,DM,50000.0,Gaziantepspor,Türkiye,0.0,0
+2006,Super Lig,Konyaspor,summer,in,Erkan Atılgan,8244,24,Germany,Left-Back,LB,100000.0,SV Wehen,Germany,0.0,0
+2006,Super Lig,Konyaspor,summer,in,Eren Şen,2773,21,Germany,Centre-Forward,CF,350000.0,FC Thun,Switzerland,0.0,0
+2006,Super Lig,Konyaspor,summer,in,Eder Ceccon,44974,23,Brazil,Centre-Forward,CF,,Esporte Clube Juventude,Brazil,,0
+2006,Super Lig,Konyaspor,summer,in,Erkan Sekman,41011,22,Türkiye,Right-Back,RB,,Besiktas JK,Türkiye,,0
+2006,Super Lig,Konyaspor,summer,in,Aleksandar Aleksandrov,14958,31,Bulgaria,Attacking Midfield,AM,3000000.0,Kayserispor,Türkiye,,0
+2006,Super Lig,Konyaspor,summer,in,Ufuk Ateş,6960,27,Türkiye,Centre-Forward,CF,500000.0,Altay SK,Türkiye,,0
+2006,Super Lig,Konyaspor,summer,in,Okan Koç,7182,24,Türkiye,Right Winger,RW,2000000.0,MKE Ankaragücü,Türkiye,,0
+2006,Super Lig,Konyaspor,summer,in,Erman Özgür,7375,29,Türkiye,Attacking Midfield,AM,2000000.0,Ankaraspor,Türkiye,,0
+2006,Super Lig,Konyaspor,winter,in,Mohamed Abdallah,39536,25,Egypt,Right-Back,RB,,Al Ahly FC,Egypt,50000.0,0
+2006,Super Lig,Konyaspor,winter,in,Cédric Sabin,23973,27,Martinique,Centre-Forward,CF,,Al-Ahli SC,Qatar,0.0,0
+2006,Super Lig,Konyaspor,winter,in,Neca,14201,27,Portugal,Attacking Midfield,AM,1000000.0,CS Marítimo,Portugal,,0
+2006,Super Lig,Konyaspor,winter,in,Koray İçten,49081,19,Türkiye,Left-Back,LB,,Izmirspor,Türkiye,,0
+2006,Super Lig,Konyaspor,summer,out,Eray Er,29497,29,Türkiye,Left-Back,LB,,Malatyaspor,Türkiye,300000.0,0
+2006,Super Lig,Konyaspor,summer,out,Erhan Albayrak,1393,29,Türkiye,Left Midfield,LM,1400000.0,Caykur Rizespor,Türkiye,120000.0,0
+2006,Super Lig,Konyaspor,summer,out,Gustave Bebbe,37085,24,Cameroon,Centre-Forward,CF,500000.0,MKE Ankaragücü,Türkiye,0.0,0
+2006,Super Lig,Konyaspor,summer,out,Cemal Köse,41806,19,Belgium,Defensive Midfield,DM,,Royal Antwerp FC,Belgium,0.0,0
+2006,Super Lig,Konyaspor,summer,out,Zafer Demir,8049,29,Türkiye,Defensive Midfield,DM,1000000.0,Sakaryaspor,Türkiye,0.0,0
+2006,Super Lig,Konyaspor,summer,out,Kaies Ghodhbane,16812,30,Tunisia,Central Midfield,CM,1000000.0,Etoile Sportive du Sahel,Tunisia,0.0,0
+2006,Super Lig,Konyaspor,summer,out,Volkan Al,144406,23,Türkiye,Centre-Back,CB,,Adiyamanspor,Türkiye,,0
+2006,Super Lig,Konyaspor,summer,out,Tayfun Seven,7317,26,Türkiye,Central Midfield,CM,500000.0,Büyüksehir Belediyespor,Türkiye,,0
+2006,Super Lig,Konyaspor,summer,out,Fatih Karabacak,1193392,24,Türkiye,Midfielder,Midfielder,,Aliaga Belediyespor,Türkiye,,0
+2006,Super Lig,Konyaspor,summer,out,Ümit Bozkurt,7050,30,Türkiye,Sweeper,SW,2000000.0,Manisaspor,Türkiye,,0
+2006,Super Lig,Konyaspor,summer,out,Haluk Tanrıseven,37094,27,Türkiye,Goalkeeper,GK,200000.0,Sariyer,Türkiye,,0
+2006,Super Lig,Konyaspor,summer,out,Okan Yılmaz,6113,28,Türkiye,Centre-Forward,CF,2750000.0,Sakaryaspor,Türkiye,,0
+2006,Super Lig,Konyaspor,summer,out,Soner Baymış,552974,20,Türkiye,Centre-Forward,CF,,Ispartaspor,Türkiye,0.0,1
+2006,Super Lig,Konyaspor,summer,out,Suat Usta,6920,23,Türkiye,Centre-Back,CB,1000000.0,Galatasaray,Türkiye,0.0,1
+2006,Super Lig,Konyaspor,summer,out,Yobanny Rivero,37956,25,Venezuela,Right Midfield,RM,500000.0,Caracas FC,Venezuela,0.0,1
+2006,Super Lig,Konyaspor,summer,out,Murat Hacıoğlu,7201,27,Türkiye,Second Striker,SS,2500000.0,Fenerbahce,Türkiye,0.0,1
+2006,Super Lig,Konyaspor,winter,out,Ufuk Ateş,6960,28,Türkiye,Centre-Forward,CF,500000.0,Büyüksehir Belediyespor,Türkiye,300000.0,0
+2006,Super Lig,Konyaspor,winter,out,Ahmed Belal,34414,26,Egypt,Centre-Forward,CF,1000000.0,Al Ahly FC,Egypt,250000.0,0
+2006,Super Lig,Konyaspor,winter,out,Okan Koç,7182,24,Türkiye,Right Winger,RW,2000000.0,Manisaspor,Türkiye,,0
+2006,Super Lig,Konyaspor,winter,out,Aleksandar Aleksandrov,14958,32,Bulgaria,Attacking Midfield,AM,3000000.0,MKE Ankaragücü,Türkiye,,0
+2006,Super Lig,Konyaspor,winter,out,Fırat Akkoyun,44969,25,Türkiye,Centre-Back,CB,,Ankaraspor,Türkiye,,0
+2006,Super Lig,Konyaspor,winter,out,Muhammed Fatih Çırak,37087,21,Türkiye,Centre-Back,CB,250000.0,Batman Petrolspor,Türkiye,0.0,1
+2006,Super Lig,Konyaspor,winter,out,Erkan Atılgan,8244,24,Germany,Left-Back,LB,100000.0,Elazigspor,Türkiye,0.0,1
+2006,Super Lig,Konyaspor,winter,out,Soner Baymış,552974,21,Türkiye,Centre-Forward,CF,,Kücükcekmecespor,Türkiye,0.0,1
+2006,Super Lig,Konyaspor,winter,out,Yasin Çelik,8039,31,Türkiye,Right-Back,RB,500000.0,Without Club,,,0
+2006,Super Lig,MKE Ankaragücü,summer,in,Aytaç Ak,44994,21,Türkiye,Centre-Back,CB,,Malatyaspor,Türkiye,0.0,0
+2006,Super Lig,MKE Ankaragücü,summer,in,André Silva,44999,26,Brazil,Defensive Midfield,DM,,Associação Atlética Ponte Preta,Brazil,0.0,0
+2006,Super Lig,MKE Ankaragücü,summer,in,Victor Agali,228,27,Nigeria,Centre-Forward,CF,2250000.0,Kayseri Erciyesspor,Türkiye,0.0,0
+2006,Super Lig,MKE Ankaragücü,summer,in,Mustafa Özkan,7278,31,Türkiye,Centre-Forward,CF,1250000.0,Malatyaspor,Türkiye,0.0,0
+2006,Super Lig,MKE Ankaragücü,summer,in,Ceyhun Eriş,7064,29,Türkiye,Attacking Midfield,AM,1500000.0,Samsunspor,Türkiye,0.0,0
+2006,Super Lig,MKE Ankaragücü,summer,in,Gustave Bebbe,37085,24,Cameroon,Centre-Forward,CF,500000.0,Konyaspor,Türkiye,0.0,0
+2006,Super Lig,MKE Ankaragücü,summer,in,Srebrenko Posavec,27916,26,Croatia,Attacking Midfield,AM,375000.0,NK Varteks Varazdin,Croatia,0.0,0
+2006,Super Lig,MKE Ankaragücü,summer,in,Tita,21488,25,Brazil,Left Winger,LW,2000000.0,Ankaraspor,Türkiye,0.0,1
+2006,Super Lig,MKE Ankaragücü,winter,in,Mehmet Aydin,56098,18,Türkiye,Centre-Forward,CF,,Tennis Borussia Berlin U19,Germany,0.0,0
+2006,Super Lig,MKE Ankaragücü,winter,in,Can Emre Yücel,10551,23,Türkiye,Goalkeeper,GK,100000.0,Yimpas Yozgatspor,Türkiye,,0
+2006,Super Lig,MKE Ankaragücü,winter,in,Aleksandar Aleksandrov,14958,32,Bulgaria,Attacking Midfield,AM,3000000.0,Konyaspor,Türkiye,,0
+2006,Super Lig,MKE Ankaragücü,winter,in,Murat Ocak,41339,25,Türkiye,Left-Back,LB,1000000.0,Trabzonspor,Türkiye,0.0,1
+2006,Super Lig,MKE Ankaragücü,winter,in,Sedat Yeşilkaya,8046,26,Türkiye,Central Midfield,CM,750000.0,Genclerbirligi Ankara,Türkiye,0.0,1
+2006,Super Lig,MKE Ankaragücü,winter,in,Yasin Çelik,8039,31,Türkiye,Right-Back,RB,500000.0,Without Club,,,0
+2006,Super Lig,MKE Ankaragücü,winter,in,Devran Ayhan,7191,28,Türkiye,Central Midfield,CM,1750000.0,Without Club,,,0
+2006,Super Lig,MKE Ankaragücü,summer,out,Umut Bulut,10143,23,Türkiye,Centre-Forward,CF,1500000.0,Trabzonspor,Türkiye,1750000.0,0
+2006,Super Lig,MKE Ankaragücü,summer,out,Hakan Gedik,12536,23,Türkiye,Goalkeeper,GK,325000.0,Arsinspor,Türkiye,0.0,0
+2006,Super Lig,MKE Ankaragücü,summer,out,Robson,34867,17,Brazil,Attacking Midfield,AM,350000.0,Sport Club Corinthians Paulista,Brazil,0.0,0
+2006,Super Lig,MKE Ankaragücü,summer,out,Elvir Baljic,6900,32,Bosnia-Herzegovina,Left Winger,LW,850000.0,Istanbulspor,Türkiye,0.0,0
+2006,Super Lig,MKE Ankaragücü,summer,out,Héverton,34866,20,Brazil,Attacking Midfield,AM,,União Barbarense FC (SP),Brazil,0.0,0
+2006,Super Lig,MKE Ankaragücü,summer,out,Zafer Özgültekin,7010,31,Türkiye,Goalkeeper,GK,850000.0,Kayseri Erciyesspor,Türkiye,0.0,0
+2006,Super Lig,MKE Ankaragücü,summer,out,Niyazi Güney,8042,32,Türkiye,Right-Back,RB,1500000.0,Mardinspor,Türkiye,0.0,0
+2006,Super Lig,MKE Ankaragücü,summer,out,Augustine Ahinful,6987,31,Ghana,Centre-Forward,CF,1500000.0,Okwawu United SC,Ghana,0.0,0
+2006,Super Lig,MKE Ankaragücü,summer,out,Evren Erdeniz,35635,23,Türkiye,Attacking Midfield,AM,250000.0,Karsiyaka,Türkiye,0.0,1
+2006,Super Lig,MKE Ankaragücü,summer,out,Charles-Edouard Coridon,5484,33,Martinique,Attacking Midfield,AM,1150000.0,Union Squiffiec-Tregonneau,France,,0
+2006,Super Lig,MKE Ankaragücü,summer,out,Okan Koç,7182,24,Türkiye,Right Winger,RW,2000000.0,Konyaspor,Türkiye,,0
+2006,Super Lig,MKE Ankaragücü,summer,out,Erman Güraçar,7313,31,Türkiye,Centre-Back,CB,1500000.0,Denizlispor,Türkiye,,0
+2006,Super Lig,MKE Ankaragücü,summer,out,Serhat Göcen,340678,20,Türkiye,Midfielder,Midfielder,,Etimesgut Sekerspor,Türkiye,,0
+2006,Super Lig,MKE Ankaragücü,summer,out,Arif Çoban,99870,21,Türkiye,Centre-Forward,CF,,Inegölspor,Türkiye,,0
+2006,Super Lig,MKE Ankaragücü,summer,out,Musa Ballı,6992,23,Türkiye,Left Winger,LW,50000.0,Etimesgut Sekerspor,Türkiye,,0
+2006,Super Lig,MKE Ankaragücü,summer,out,Birol Aksancak,26010,27,Türkiye,Left Winger,LW,500000.0,Karsiyaka,Türkiye,0.0,1
+2006,Super Lig,MKE Ankaragücü,summer,out,İlhan Mansız,6875,30,Türkiye,Centre-Forward,CF,3000000.0,Without Club,,,0
+2006,Super Lig,MKE Ankaragücü,summer,out,Ahmed Belal,34414,25,Egypt,Centre-Forward,CF,1000000.0,Konyaspor,Türkiye,0.0,1
+2006,Super Lig,MKE Ankaragücü,winter,out,Ceyhun Eriş,7064,29,Türkiye,Attacking Midfield,AM,1500000.0,Trabzonspor,Türkiye,500000.0,0
+2006,Super Lig,MKE Ankaragücü,winter,out,Jean Batista,34868,24,Brazil,Left-Back,LB,,Tupi FC,Brazil,0.0,0
+2006,Super Lig,MKE Ankaragücü,winter,out,Orkun Usak,8706,26,Türkiye,Goalkeeper,GK,650000.0,Kayseri Erciyesspor,Türkiye,0.0,0
+2006,Super Lig,MKE Ankaragücü,winter,out,Ergin Pektaş,45008,19,Türkiye,Midfielder,Midfielder,,Bozüyükspor,Türkiye,0.0,1
+2006,Super Lig,MKE Ankaragücü,winter,out,Eray Uzunkulaoğlu,170062,19,Türkiye,Midfielder,Midfielder,,Bozüyükspor,Türkiye,0.0,1
+2006,Super Lig,MKE Ankaragücü,winter,out,Aytaç Ak,44994,21,Türkiye,Centre-Back,CB,,Etimesgut Sekerspor,Türkiye,0.0,1
+2006,Super Lig,MKE Ankaragücü,winter,out,Ali Ölmez,29628,23,Türkiye,Left Winger,LW,150000.0,Adana Demirspor,Türkiye,0.0,1
+2006,Super Lig,MKE Ankaragücü,winter,out,Ali Ertekin,170584,19,Türkiye,Right-Back,RB,,Pazarspor,Türkiye,,0
+2006,Super Lig,MKE Ankaragücü,winter,out,İbrahim Yavuz,6948,24,Türkiye,Right-Back,RB,600000.0,Diyarbakirspor,Türkiye,,0
+2006,Super Lig,MKE Ankaragücü,winter,out,Srebrenko Posavec,27916,26,Croatia,Attacking Midfield,AM,375000.0,Slaven Belupo Koprivnica,Croatia,,0
+2006,Super Lig,MKE Ankaragücü,winter,out,Ayhan Evren,10142,24,Türkiye,Right-Back,RB,250000.0,Eskisehirspor,Türkiye,0.0,1
+2006,Super Lig,MKE Ankaragücü,winter,out,Victor Agali,228,28,Nigeria,Centre-Forward,CF,2250000.0,Without Club,,,0
+2006,Super Lig,Manisaspor,summer,in,Sezer Öztürk,8689,20,Türkiye,Attacking Midfield,AM,500000.0,1.FC Nuremberg,Germany,300000.0,0
+2006,Super Lig,Manisaspor,summer,in,Sinan Özkan,41007,20,Türkiye,Right Winger,RW,,Türk Telekomspor,Türkiye,280000.0,0
+2006,Super Lig,Manisaspor,summer,in,Nizamettin Çalışkan,30431,19,Türkiye,Defensive Midfield,DM,250000.0,Borussia Dortmund,Germany,250000.0,0
+2006,Super Lig,Manisaspor,summer,in,Burak Özsaraç,7005,27,Türkiye,Centre-Back,CB,1600000.0,Denizlispor,Türkiye,0.0,0
+2006,Super Lig,Manisaspor,summer,in,Şener Aşkaroğlu,7188,26,Türkiye,Right Midfield,RM,800000.0,Caykur Rizespor,Türkiye,0.0,0
+2006,Super Lig,Manisaspor,summer,in,Stéphane Borbiconi,12097,27,France,Centre-Back,CB,2500000.0,FC Metz,France,0.0,0
+2006,Super Lig,Manisaspor,summer,in,Ersan Gülüm,44982,19,Türkiye,Centre-Back,CB,,Coburg United SC,Australia,,0
+2006,Super Lig,Manisaspor,summer,in,Ümit Bozkurt,7050,30,Türkiye,Sweeper,SW,2000000.0,Konyaspor,Türkiye,,0
+2006,Super Lig,Manisaspor,summer,in,Metin Akan,7323,23,Türkiye,Second Striker,SS,100000.0,Inegölspor,Türkiye,,0
+2006,Super Lig,Manisaspor,summer,in,Rafael Marques,34862,23,Brazil,Centre-Forward,CF,850000.0,Samsunspor,Türkiye,,0
+2006,Super Lig,Manisaspor,summer,in,Güven Varol,10139,25,Türkiye,Right Midfield,RM,750000.0,Denizlispor,Türkiye,,0
+2006,Super Lig,Manisaspor,summer,in,Fevzi Tuncay,7055,28,Türkiye,Goalkeeper,GK,750000.0,Malatyaspor,Türkiye,,0
+2006,Super Lig,Manisaspor,winter,in,Oumar Kalabane,31758,25,Guinea,Centre-Back,CB,850000.0,AJ Auxerre,France,2000000.0,0
+2006,Super Lig,Manisaspor,winter,in,Serkan Akin,42709,20,Türkiye,Left Winger,LW,,RSC Anderlecht U21,Belgium,300000.0,0
+2006,Super Lig,Manisaspor,winter,in,Oğuz Sabankay,47642,19,Türkiye,Attacking Midfield,AM,,Galatasaray,Türkiye,100000.0,1
+2006,Super Lig,Manisaspor,winter,in,Enes Erciyas,49124,20,Türkiye,Central Midfield,CM,,Unknown,,0.0,0
+2006,Super Lig,Manisaspor,winter,in,Okan Koç,7182,24,Türkiye,Right Winger,RW,2000000.0,Konyaspor,Türkiye,,0
+2006,Super Lig,Manisaspor,winter,in,Reinaldo,40943,26,Brazil,Centre-Forward,CF,,Botafogo de Futebol e Regatas,Brazil,,0
+2006,Super Lig,Manisaspor,winter,in,Erhan Yılmaz,50975,20,Türkiye,Right-Back,RB,,Kocaelispor,Türkiye,,0
+2006,Super Lig,Manisaspor,summer,out,İnanç Gültekin,10133,31,Türkiye,Right Midfield,RM,500000.0,Orduspor,Türkiye,0.0,0
+2006,Super Lig,Manisaspor,summer,out,Tufan Esin,29498,26,Türkiye,Centre-Back,CB,100000.0,Samsunspor,Türkiye,0.0,0
+2006,Super Lig,Manisaspor,summer,out,Karel D'Haene,6861,25,Belgium,Centre-Back,CB,1250000.0,Zulte Waregem,Belgium,0.0,0
+2006,Super Lig,Manisaspor,summer,out,Zafer Demiray,10200,29,Türkiye,Right Winger,RW,1600000.0,Kayseri Erciyesspor,Türkiye,0.0,0
+2006,Super Lig,Manisaspor,summer,out,Kenan Aslanoğlu,29493,24,Türkiye,Attacking Midfield,AM,75000.0,Altay SK,Türkiye,0.0,1
+2006,Super Lig,Manisaspor,summer,out,Mehmet Kengel,56584,19,Türkiye,Centre-Forward,CF,,Turgutluspor,Türkiye,0.0,1
+2006,Super Lig,Manisaspor,summer,out,Özkan Gümüş,304,28,Türkiye,Right Winger,RW,75000.0,Kardemir DC Karabükspor,Türkiye,,0
+2006,Super Lig,Manisaspor,summer,out,Göksel Gencer,6865,32,Türkiye,Goalkeeper,GK,750000.0,Mersin Idmanyurdu,Türkiye,,0
+2006,Super Lig,Manisaspor,summer,out,İzzet Kaçar,29499,24,Türkiye,Left Winger,LW,,Kardemir DC Karabükspor,Türkiye,,0
+2006,Super Lig,Manisaspor,summer,out,Melih Tezel,906351,20,Türkiye,Defender,Defender,,Anadolu Üsküdar 1908 Spor,Türkiye,,0
+2006,Super Lig,Manisaspor,summer,out,Gündüz Gürol Azer,7192,26,Türkiye,Right-Back,RB,650000.0,Sivasspor,Türkiye,,0
+2006,Super Lig,Manisaspor,summer,out,Yılmaz Özlem,7008,34,Türkiye,Defensive Midfield,DM,850000.0,Diyarbakirspor,Türkiye,,0
+2006,Super Lig,Manisaspor,summer,out,Soner Sakarya,3258,22,Türkiye,Left Winger,LW,200000.0,Usakspor (-2010),Türkiye,0.0,1
+2006,Super Lig,Manisaspor,summer,out,Yunus Ceylan,29495,26,Türkiye,Right-Back,RB,100000.0,Diyarbakirspor,Türkiye,0.0,1
+2006,Super Lig,Manisaspor,summer,out,Michal Meduna,21080,25,Czech Republic,Striker,Striker,750000.0,Career break,,,0
+2006,Super Lig,Manisaspor,summer,out,Sinan Kaloğlu,6873,25,Türkiye,Centre-Forward,CF,1500000.0,Besiktas JK,Türkiye,0.0,1
+2006,Super Lig,Manisaspor,summer,out,Zafer Şakar,29389,20,Türkiye,Central Midfield,CM,600000.0,Galatasaray,Türkiye,0.0,1
+2006,Super Lig,Manisaspor,summer,out,Arda Turan,21369,19,Türkiye,Left Winger,LW,650000.0,Galatasaray,Türkiye,0.0,1
+2006,Super Lig,Manisaspor,winter,out,Caner Erkin,39333,18,Türkiye,Left-Back,LB,4000000.0,CSKA Moscow,Russia,4000000.0,0
+2006,Super Lig,Manisaspor,winter,out,Serkan Dökme,7173,29,Türkiye,Left Midfield,LM,1000000.0,Samsunspor,Türkiye,0.0,0
+2006,Super Lig,Manisaspor,winter,out,Petr Johana,9709,31,Czech Republic,Centre-Back,CB,1500000.0,FK SIAD Most,Czech Republic,0.0,0
+2006,Super Lig,Manisaspor,winter,out,Sinan Özkan,41007,20,Türkiye,Right Winger,RW,,Samsunspor,Türkiye,0.0,1
+2006,Super Lig,Sakaryaspor,summer,in,Ergin Keleş,35509,19,Türkiye,Centre-Forward,CF,275000.0,Trabzonspor,Türkiye,85000.0,1
+2006,Super Lig,Sakaryaspor,summer,in,Suat Usta,6920,24,Türkiye,Centre-Back,CB,725000.0,Antalyaspor,Türkiye,0.0,0
+2006,Super Lig,Sakaryaspor,summer,in,Luis Martínez,45013,24,Colombia,Goalkeeper,GK,,CA Independiente,Argentina,0.0,0
+2006,Super Lig,Sakaryaspor,summer,in,Sedat Debreli,10199,23,Türkiye,Centre-Forward,CF,725000.0,Istanbulspor,Türkiye,0.0,0
+2006,Super Lig,Sakaryaspor,summer,in,Franco Cángele,19953,22,Argentina,Second Striker,SS,,CA Colón,Argentina,0.0,0
+2006,Super Lig,Sakaryaspor,summer,in,Zafer Demir,8049,29,Türkiye,Defensive Midfield,DM,1000000.0,Konyaspor,Türkiye,0.0,0
+2006,Super Lig,Sakaryaspor,summer,in,Musa Aydın,7139,25,Türkiye,Right Winger,RW,1500000.0,Samsunspor,Türkiye,0.0,0
+2006,Super Lig,Sakaryaspor,summer,in,Ergün Teber,29411,20,Türkiye,Left-Back,LB,2000000.0,Kayserispor,Türkiye,0.0,1
+2006,Super Lig,Sakaryaspor,summer,in,Erdinç Yavuz,6912,27,Türkiye,Centre-Back,CB,2400000.0,Trabzonspor,Türkiye,0.0,1
+2006,Super Lig,Sakaryaspor,summer,in,Seyhan Cenk Tekelioğlu,45012,32,Türkiye,Goalkeeper,GK,,Altay SK,Türkiye,,0
+2006,Super Lig,Sakaryaspor,summer,in,Okan Yılmaz,6113,28,Türkiye,Centre-Forward,CF,2750000.0,Konyaspor,Türkiye,,0
+2006,Super Lig,Sakaryaspor,summer,in,Clayton,31426,32,Tunisia,Left-Back,LB,1100000.0,Al-Sadd SC,Qatar,,0
+2006,Super Lig,Sakaryaspor,summer,in,Murat Duman,6965,32,Türkiye,Right-Back,RB,1000000.0,Sivasspor,Türkiye,,0
+2006,Super Lig,Sakaryaspor,summer,in,Ali Kandil,6870,23,Türkiye,Left Winger,LW,800000.0,Trabzonspor,Türkiye,,0
+2006,Super Lig,Sakaryaspor,summer,in,Ferdi Tatlı,7128,27,Türkiye,Right Midfield,RM,50000.0,Istanbulspor,Türkiye,,0
+2006,Super Lig,Sakaryaspor,summer,in,Murat Erdoğan,7194,29,Türkiye,Central Midfield,CM,1250000.0,Ankaraspor,Türkiye,,0
+2006,Super Lig,Sakaryaspor,summer,in,Alejandro Capurro,30717,25,Argentina,Central Midfield,CM,,CA Colón,Argentina,0.0,1
+2006,Super Lig,Sakaryaspor,winter,in,Dominik Werling,8667,24,Germany,Left-Back,LB,50000.0,SpVgg Bayern Hof,Germany,0.0,0
+2006,Super Lig,Sakaryaspor,winter,in,Baba Adamu,34500,27,Ghana,Centre-Forward,CF,1500000.0,Krylya Sovetov Samara,Russia,0.0,0
+2006,Super Lig,Sakaryaspor,winter,in,Evren Turhan,7069,32,Türkiye,Attacking Midfield,AM,1250000.0,Etimesgut Sekerspor,Türkiye,0.0,1
+2006,Super Lig,Sakaryaspor,winter,in,Mariano Chirumbolo,847656,24,Argentina,Centre-Forward,CF,,Club Ferro Carril Oeste,Argentina,,0
+2006,Super Lig,Sakaryaspor,winter,in,Claudio Graf,48627,31,Argentina,Centre-Forward,CF,,CA Lanús,Argentina,,0
+2006,Super Lig,Sakaryaspor,winter,in,Özgür Karakaya,35027,28,Türkiye,Centre-Forward,CF,80000.0,Kocaelispor,Türkiye,,0
+2006,Super Lig,Sakaryaspor,winter,in,Yalçın Ayhan,7152,24,Türkiye,Centre-Back,CB,650000.0,Kayseri Erciyesspor,Türkiye,,0
+2006,Super Lig,Sakaryaspor,winter,in,Cem Yanık,7126,29,Türkiye,Centre-Forward,CF,1000000.0,Ankaraspor,Türkiye,,0
+2006,Super Lig,Sakaryaspor,summer,out,Aydın Çetin,1313,26,Türkiye,Centre-Forward,CF,900000.0,Altay SK,Türkiye,0.0,0
+2006,Super Lig,Sakaryaspor,summer,out,Nezir Narin,17459,30,Türkiye,Right-Back,RB,400000.0,Eskisehirspor,Türkiye,0.0,0
+2006,Super Lig,Sakaryaspor,summer,out,Recep Öztürk,17466,29,Türkiye,Goalkeeper,GK,250000.0,Genclerbirligi Ankara,Türkiye,0.0,0
+2006,Super Lig,Sakaryaspor,summer,out,Mehmet Akyüz,64997,20,Türkiye,Centre-Forward,CF,,Fethiyespor,Türkiye,0.0,1
+2006,Super Lig,Sakaryaspor,summer,out,Onur Nasuhoğulları,58594,23,Türkiye,Centre-Back,CB,,Karsiyaka,Türkiye,0.0,1
+2006,Super Lig,Sakaryaspor,summer,out,Kadir Söylemez,144662,25,Türkiye,Centre-Forward,CF,,Karsiyaka,Türkiye,0.0,1
+2006,Super Lig,Sakaryaspor,summer,out,Taner Yapağıcı,58651,22,Türkiye,Defender,Defender,,Arsinspor,Türkiye,0.0,1
+2006,Super Lig,Sakaryaspor,summer,out,Yücel Ejder,58535,24,Türkiye,Central Midfield,CM,,Karsiyaka,Türkiye,,0
+2006,Super Lig,Sakaryaspor,summer,out,Mehmet Ayaz,21707,24,Türkiye,Central Midfield,CM,450000.0,Boluspor,Türkiye,,0
+2006,Super Lig,Sakaryaspor,summer,out,Emrehan Ceylan,17458,26,Türkiye,Goalkeeper,GK,800000.0,Akcaabat Sebatspor,Türkiye,,0
+2006,Super Lig,Sakaryaspor,summer,out,Abedi Said Makasi,18125,23,Rwanda,Centre-Forward,CF,,Hapoel Petah Tikva,Israel,,0
+2006,Super Lig,Sakaryaspor,summer,out,Murat Bölükbaş,17449,25,Türkiye,Centre-Forward,CF,1500000.0,Boluspor,Türkiye,,0
+2006,Super Lig,Sakaryaspor,summer,out,Volkan Özkalyoncu,94352,27,Türkiye,Centre-Back,CB,,Mersin Idmanyurdu,Türkiye,,0
+2006,Super Lig,Sakaryaspor,summer,out,Levent Kayatekin,21713,27,Türkiye,Centre-Back,CB,450000.0,Zeytinburnuspor,Türkiye,,0
+2006,Super Lig,Sakaryaspor,summer,out,Cemil İbiş,17453,29,Türkiye,Centre-Back,CB,250000.0,Elazigspor,Türkiye,,0
+2006,Super Lig,Sakaryaspor,summer,out,Serdal Kurt,17456,28,Türkiye,Attacking Midfield,AM,500000.0,Dardanelspor,Türkiye,,0
+2006,Super Lig,Sakaryaspor,summer,out,Deniz Kolgu,33967,32,Türkiye,Central Midfield,CM,280000.0,Kocaelispor,Türkiye,,0
+2006,Super Lig,Sakaryaspor,summer,out,Ferdi Başoda,58517,23,Türkiye,Right Winger,RW,,Elazigspor,Türkiye,0.0,1
+2006,Super Lig,Sakaryaspor,summer,out,Cihan Can,35250,19,Türkiye,Centre-Back,CB,250000.0,Galatasaray U21,Türkiye,0.0,1
+2006,Super Lig,Sakaryaspor,summer,out,Mehmet Budak,8211,25,Türkiye,Centre-Back,CB,250000.0,Malatyaspor,Türkiye,0.0,1
+2006,Super Lig,Sakaryaspor,summer,out,Ramazan Kahya,29636,21,Türkiye,Left-Back,LB,300000.0,Malatyaspor,Türkiye,0.0,1
+2006,Super Lig,Sakaryaspor,summer,out,Ferdi Tatlı,7128,27,Türkiye,Right Midfield,RM,50000.0,Mardinspor,Türkiye,0.0,1
+2006,Super Lig,Sakaryaspor,winter,out,Okan Yılmaz,6113,28,Türkiye,Centre-Forward,CF,2750000.0,Diyarbakirspor,Türkiye,0.0,0
+2006,Super Lig,Sakaryaspor,winter,out,Musa Yılmazer,78236,20,Türkiye,Right Winger,RW,,Sariyer,Türkiye,0.0,1
+2006,Super Lig,Sakaryaspor,winter,out,Mustafa Pektemek,58602,18,Türkiye,Centre-Forward,CF,,Sariyer,Türkiye,0.0,1
+2006,Super Lig,Sakaryaspor,winter,out,Honoré Kabongo,23939,21,Rwanda,Centre-Forward,CF,,Hakoah Amidar Ramat Gan,Israel,,0
+2006,Super Lig,Sakaryaspor,winter,out,Gökhan Çalışal,17450,26,Türkiye,Left-Back,LB,600000.0,Boluspor,Türkiye,,0
+2006,Super Lig,Sakaryaspor,winter,out,Rasim Vardar,33971,27,Türkiye,Left Winger,LW,250000.0,Etimesgut Sekerspor,Türkiye,,0
+2006,Super Lig,Sakaryaspor,winter,out,Marcel Mbayo,7029,28,DR Congo,Attacking Midfield,AM,1000000.0,KSC Lokeren (-2020),Belgium,,0
+2006,Super Lig,Sakaryaspor,winter,out,Ali Kandil,6870,24,Türkiye,Left Winger,LW,800000.0,Without Club,,,0
+2006,Super Lig,Sakaryaspor,winter,out,Erdinç Yavuz,6912,28,Türkiye,Centre-Back,CB,2400000.0,Trabzonspor,Türkiye,0.0,1
+2006,Super Lig,Sakaryaspor,winter,out,Ergün Teber,29411,21,Türkiye,Left-Back,LB,2000000.0,Kayserispor,Türkiye,0.0,1
+2006,Super Lig,Sivasspor,summer,in,Harun Avgın,47644,24,Türkiye,Goalkeeper,GK,,Gaziantep Büyüksehir Belediyespor,Türkiye,0.0,0
+2006,Super Lig,Sivasspor,summer,in,Servet Çetin,7041,25,Türkiye,Centre-Back,CB,2200000.0,Fenerbahce,Türkiye,0.0,0
+2006,Super Lig,Sivasspor,summer,in,Serdar Akdoğan,54515,24,Türkiye,Centre-Forward,CF,,Kahramanmaras Spor,Türkiye,0.0,0
+2006,Super Lig,Sivasspor,summer,in,Serdar Topraktepe,6909,29,Türkiye,Left Winger,LW,750000.0,Bursaspor,Türkiye,0.0,0
+2006,Super Lig,Sivasspor,summer,in,Nordin Wooter,12090,29,Netherlands,Right Winger,RW,1500000.0,Panathinaikos FC,Greece,0.0,0
+2006,Super Lig,Sivasspor,summer,in,Gürhan Gürsoy,6953,18,Türkiye,Left Midfield,LM,400000.0,Fenerbahce,Türkiye,0.0,1
+2006,Super Lig,Sivasspor,summer,in,Fabrício,324187,28,Brazil,Central Midfield,CM,,Bangu Atlético Clube (RJ),Brazil,,0
+2006,Super Lig,Sivasspor,summer,in,Gündüz Gürol Azer,7192,26,Türkiye,Right-Back,RB,650000.0,Manisaspor,Türkiye,,0
+2006,Super Lig,Sivasspor,summer,in,Ali Eren Beşerler,10197,30,Türkiye,Right-Back,RB,1000000.0,Altay SK,Türkiye,,0
+2006,Super Lig,Sivasspor,summer,in,Hasan Yurt,7289,28,Türkiye,Centre-Back,CB,2750000.0,Gaziantepspor,Türkiye,,0
+2006,Super Lig,Sivasspor,summer,in,Tolga Doğantez,13451,31,Türkiye,Centre-Back,CB,750000.0,Samsunspor,Türkiye,,0
+2006,Super Lig,Sivasspor,winter,in,Simon Colosimo,29581,28,Australia,Centre-Back,CB,850000.0,Perth Glory,Australia,175000.0,1
+2006,Super Lig,Sivasspor,winter,in,Ivan Tsvetkov,7302,27,Bulgaria,Centre-Forward,CF,400000.0,Sparta Rotterdam,Netherlands,0.0,0
+2006,Super Lig,Sivasspor,winter,in,Hilmi Mihci,1607,30,Netherlands,Left Winger,LW,150000.0,Enosis Neon Paralimniou,Cyprus,0.0,0
+2006,Super Lig,Sivasspor,winter,in,Mehmet Yesil,18886,21,Türkiye,Right-Back,RB,50000.0,VfB Homberg,Germany,0.0,0
+2006,Super Lig,Sivasspor,winter,in,Seçkin Boylu,1052343,32,Türkiye,Midfielder,Midfielder,,Anadolu Üsküdar 1908 Spor,Türkiye,,0
+2006,Super Lig,Sivasspor,winter,in,Metekan Yılmaz,179456,22,Türkiye,Centre-Back,CB,,Bakirköyspor,Türkiye,,0
+2006,Super Lig,Sivasspor,winter,in,Mehmet Yazıcı,169331,18,Türkiye,Goalkeeper,GK,,Ispartaspor,Türkiye,,0
+2006,Super Lig,Sivasspor,summer,out,Yusuf Akbel,10232,22,Türkiye,Centre-Forward,CF,100000.0,Eyüpspor,Türkiye,50000.0,0
+2006,Super Lig,Sivasspor,summer,out,Görkem Görk,34166,23,Türkiye,Centre-Back,CB,225000.0,Eyüpspor,Türkiye,0.0,0
+2006,Super Lig,Sivasspor,summer,out,Vedat Kapurtu,34168,28,Türkiye,Goalkeeper,GK,200000.0,Mardinspor,Türkiye,0.0,0
+2006,Super Lig,Sivasspor,summer,out,Yusuf Peken,34170,26,Türkiye,Defensive Midfield,DM,250000.0,Alanyaspor,Türkiye,0.0,0
+2006,Super Lig,Sivasspor,summer,out,Peter Krebs Ulrich,23589,22,Denmark,Defensive Midfield,DM,550000.0,Unknown,,0.0,0
+2006,Super Lig,Sivasspor,summer,out,Raymond Kalla,1594,31,Cameroon,Centre-Back,CB,3000000.0,Union sportive de Douala,Cameroon,0.0,0
+2006,Super Lig,Sivasspor,summer,out,Oğuz Dağlaroğlu,7090,26,Türkiye,Goalkeeper,GK,1000000.0,Gaziantepspor,Türkiye,0.0,0
+2006,Super Lig,Sivasspor,summer,out,Muharrem Uz,6962,25,Türkiye,Central Midfield,CM,300000.0,SV Yesilyurt,Germany,0.0,0
+2006,Super Lig,Sivasspor,summer,out,Ünal Demirkıran,495,27,Germany,Defensive Midfield,DM,250000.0,SSV Reutlingen 05,Germany,0.0,0
+2006,Super Lig,Sivasspor,summer,out,Serdar Akdoğan,54515,24,Türkiye,Centre-Forward,CF,,Kasimpasa,Türkiye,0.0,1
+2006,Super Lig,Sivasspor,summer,out,Ahmet Solak,78252,18,Türkiye,Right-Back,RB,,Anadolu Üsküdar 1908 Spor,Türkiye,0.0,1
+2006,Super Lig,Sivasspor,summer,out,İbrahim Aydemir,28131,23,Türkiye,Right Winger,RW,200000.0,Samsunspor,Türkiye,,0
+2006,Super Lig,Sivasspor,summer,out,Tolga Doğantez,13451,31,Türkiye,Centre-Back,CB,750000.0,Caykur Rizespor,Türkiye,,0
+2006,Super Lig,Sivasspor,summer,out,Murat Duman,6965,32,Türkiye,Right-Back,RB,1000000.0,Sakaryaspor,Türkiye,,0
+2006,Super Lig,Sivasspor,summer,out,Atilla Birlik,1617,28,Türkiye,Centre-Forward,CF,1250000.0,Malatyaspor,Türkiye,,0
+2006,Super Lig,Sivasspor,winter,out,Anderson,33557,23,Brazil,Centre-Forward,CF,1000000.0,Caykur Rizespor,Türkiye,0.0,0
+2006,Super Lig,Sivasspor,winter,out,Ali Eren Beşerler,10197,31,Türkiye,Right-Back,RB,1000000.0,Turgutluspor,Türkiye,0.0,0
+2006,Super Lig,Sivasspor,winter,out,Nordin Wooter,12090,29,Netherlands,Right Winger,RW,1500000.0,AEK Larnaca,Cyprus,0.0,0
+2006,Super Lig,Sivasspor,winter,out,Hakan Bayraktar,7088,30,Türkiye,Defensive Midfield,DM,1500000.0,Malatyaspor,Türkiye,0.0,0
+2006,Super Lig,Sivasspor,winter,out,Ertuğrul Arslan,33550,26,Türkiye,Defensive Midfield,DM,300000.0,Elazigspor,Türkiye,0.0,1
+2006,Super Lig,Sivasspor,winter,out,Fatih Tutar,58914,22,Türkiye,Centre-Forward,CF,,Fatih Karagümrük,Türkiye,0.0,1
+2006,Super Lig,Sivasspor,winter,out,Serdar Akdoğan,54515,25,Türkiye,Centre-Forward,CF,,Kasimpasa,Türkiye,,0
+2006,Super Lig,Sivasspor,winter,out,Seçkin Boylu,1052343,32,Türkiye,Midfielder,Midfielder,,Anadolu Üsküdar 1908 Spor,Türkiye,0.0,1
+2006,Super Lig,Sivasspor,winter,out,Musa Kuş,7149,29,Türkiye,Right Midfield,RM,500000.0,Without Club,,,0
+2006,Super Lig,Sivasspor,winter,out,Fabrício,324187,28,Brazil,Central Midfield,CM,,Without Club,,,0
+2006,Super Lig,Trabzonspor,summer,in,Marcelinho Paraíba,953,31,Brazil,Attacking Midfield,AM,10000000.0,Hertha BSC,Germany,2500000.0,0
+2006,Super Lig,Trabzonspor,summer,in,Umut Bulut,10143,23,Türkiye,Centre-Forward,CF,1500000.0,MKE Ankaragücü,Türkiye,1750000.0,0
+2006,Super Lig,Trabzonspor,summer,in,Çağdaş Atan,10152,26,Türkiye,Centre-Back,CB,1500000.0,Besiktas JK,Türkiye,750000.0,0
+2006,Super Lig,Trabzonspor,summer,in,Ersen Martin,7035,27,Türkiye,Centre-Forward,CF,2600000.0,Ankaraspor,Türkiye,0.0,0
+2006,Super Lig,Trabzonspor,summer,in,Mustafa Keçeli,7072,27,Türkiye,Left-Back,LB,1500000.0,Denizlispor,Türkiye,0.0,0
+2006,Super Lig,Trabzonspor,summer,in,Kiki Musampa,7787,29,Netherlands,Left Winger,LW,7500000.0,Atlético de Madrid,Spain,0.0,0
+2006,Super Lig,Trabzonspor,summer,in,Emre Aygün,12046,21,Türkiye,Right-Back,RB,750000.0,Yimpas Yozgatspor,Türkiye,0.0,0
+2006,Super Lig,Trabzonspor,summer,in,Cem Demir,40620,21,Türkiye,Centre-Forward,CF,250000.0,Pendikspor,Türkiye,0.0,0
+2006,Super Lig,Trabzonspor,summer,in,Musa Büyük,10138,26,Türkiye,Right-Back,RB,2500000.0,Ankaraspor,Türkiye,0.0,0
+2006,Super Lig,Trabzonspor,summer,in,Murat Ocak,41339,24,Türkiye,Left-Back,LB,1000000.0,Büyüksehir Belediyespor,Türkiye,,0
+2006,Super Lig,Trabzonspor,winter,in,Fredrik Risp,6266,26,Sweden,Centre-Back,CB,1800000.0,Genclerbirligi Ankara,Türkiye,1000000.0,0
+2006,Super Lig,Trabzonspor,winter,in,Ayman Abdelaziz,6963,28,Egypt,Defensive Midfield,DM,1750000.0,Genclerbirligi Ankara,Türkiye,1000000.0,0
+2006,Super Lig,Trabzonspor,winter,in,Ceyhun Eriş,7064,29,Türkiye,Attacking Midfield,AM,1500000.0,MKE Ankaragücü,Türkiye,500000.0,0
+2006,Super Lig,Trabzonspor,winter,in,Zeki Ayvaz,93085,17,Türkiye,Goalkeeper,GK,,Akcaabat Sebatspor,Türkiye,0.0,0
+2006,Super Lig,Trabzonspor,summer,out,Fatih Tekke,6924,28,Türkiye,Centre-Forward,CF,8250000.0,Zenit St. Petersburg,Russia,7500000.0,0
+2006,Super Lig,Trabzonspor,summer,out,Ergin Keleş,35509,19,Türkiye,Centre-Forward,CF,275000.0,Sakaryaspor,Türkiye,85000.0,1
+2006,Super Lig,Trabzonspor,summer,out,Muhammet Reis,35043,21,Türkiye,Attacking Midfield,AM,75000.0,Akcaabat Sebatspor,Türkiye,0.0,0
+2006,Super Lig,Trabzonspor,summer,out,Emre Hızarcı,52486,21,Türkiye,Centre-Forward,CF,,Akcaabat Sebatspor,Türkiye,0.0,0
+2006,Super Lig,Trabzonspor,summer,out,Eul-yong Lee,22961,30,"Korea, South",Left Midfield,LM,1300000.0,FC Seoul,"Korea, South",0.0,0
+2006,Super Lig,Trabzonspor,summer,out,Ali Güzeldal,35508,20,Türkiye,Left Winger,LW,375000.0,Büyüksehir Belediyespor,Türkiye,0.0,0
+2006,Super Lig,Trabzonspor,summer,out,Emre Aygün,12046,21,Türkiye,Right-Back,RB,750000.0,Akcaabat Sebatspor,Türkiye,0.0,0
+2006,Super Lig,Trabzonspor,summer,out,Hasan Yaranlı,41296,20,Türkiye,Goalkeeper,GK,150000.0,Arsinspor,Türkiye,0.0,1
+2006,Super Lig,Trabzonspor,summer,out,Eyüp Kadri Ataoğlu,52482,19,Türkiye,Left-Back,LB,,Sariyer,Türkiye,0.0,1
+2006,Super Lig,Trabzonspor,summer,out,Aykut Akgün,37873,18,Türkiye,Defensive Midfield,DM,325000.0,Maltepespor,Türkiye,0.0,1
+2006,Super Lig,Trabzonspor,summer,out,Can Parlayan,41282,20,Türkiye,Centre-Forward,CF,300000.0,Degirmenderespor,Türkiye,0.0,1
+2006,Super Lig,Trabzonspor,summer,out,Hasan Sönmez,6895,29,Türkiye,Goalkeeper,GK,500000.0,Kayserispor,Türkiye,0.0,1
+2006,Super Lig,Trabzonspor,summer,out,Ufuk Bayraktar,54402,20,Türkiye,Left Winger,LW,,Akcaabat Sebatspor,Türkiye,0.0,1
+2006,Super Lig,Trabzonspor,summer,out,Erdinç Yavuz,6912,27,Türkiye,Centre-Back,CB,2400000.0,Sakaryaspor,Türkiye,0.0,1
+2006,Super Lig,Trabzonspor,summer,out,Ardijan Djokaj,34404,27,Montenegro,Left Winger,LW,475000.0,Ankaraspor,Türkiye,0.0,1
+2006,Super Lig,Trabzonspor,summer,out,Tayfun Cora,6885,22,Türkiye,Centre-Back,CB,2100000.0,Kayserispor,Türkiye,0.0,1
+2006,Super Lig,Trabzonspor,summer,out,Adem Koçak,6994,22,Türkiye,Central Midfield,CM,2200000.0,Ankaraspor,Türkiye,0.0,0
+2006,Super Lig,Trabzonspor,summer,out,Mehmet Yılmaz,6915,27,Türkiye,Centre-Forward,CF,1900000.0,Ankaraspor,Türkiye,0.0,0
+2006,Super Lig,Trabzonspor,summer,out,Muharrem Kara,41267,19,Türkiye,Right Midfield,RM,,Degirmenderespor,Türkiye,,0
+2006,Super Lig,Trabzonspor,summer,out,Ali Kandil,6870,23,Türkiye,Left Winger,LW,800000.0,Sakaryaspor,Türkiye,,0
+2006,Super Lig,Trabzonspor,summer,out,Selim Akbulut,22950,22,Türkiye,Centre-Back,CB,50000.0,Akcaabat Sebatspor,Türkiye,,0
+2006,Super Lig,Trabzonspor,summer,out,Tomas Jun,9692,23,Czech Republic,Second Striker,SS,3500000.0,AC Sparta Prague,Czech Republic,0.0,1
+2006,Super Lig,Trabzonspor,winter,out,Marcelinho Paraíba,953,31,Brazil,Attacking Midfield,AM,10000000.0,VfL Wolfsburg,Germany,2750000.0,0
+2006,Super Lig,Trabzonspor,winter,out,Fabiano Eller,32856,29,Brazil,Centre-Back,CB,1750000.0,Atlético de Madrid,Spain,1500000.0,0
+2006,Super Lig,Trabzonspor,winter,out,Fatih Akyel,6857,29,Türkiye,Right-Back,RB,2250000.0,Genclerbirligi Ankara,Türkiye,0.0,0
+2006,Super Lig,Trabzonspor,winter,out,Aykut Akgün,37873,19,Türkiye,Defensive Midfield,DM,325000.0,Zeytinburnuspor,Türkiye,0.0,0
+2006,Super Lig,Trabzonspor,winter,out,Can Parlayan,41282,21,Türkiye,Centre-Forward,CF,300000.0,Degirmenderespor,Türkiye,0.0,0
+2006,Super Lig,Trabzonspor,winter,out,Enis Kahraman,42575,19,Türkiye,Defensive Midfield,DM,350000.0,Akcaabat Sebatspor,Türkiye,0.0,1
+2006,Super Lig,Trabzonspor,winter,out,Feridun Sungur,7270,23,Türkiye,Right-Back,RB,250000.0,Samsunspor,Türkiye,0.0,1
+2006,Super Lig,Trabzonspor,winter,out,Murat Ocak,41339,25,Türkiye,Left-Back,LB,1000000.0,MKE Ankaragücü,Türkiye,0.0,1
+2006,Super Lig,Trabzonspor,winter,out,Miroslaw Szymkowiak,14918,30,Poland,Central Midfield,CM,4480000.0,Career break,,,0

@@ -1,0 +1,693 @@
+season,league,club,window,movement,player_name,player_id,age,nationality,position,pos,market_value,dealing_club,dealing_country,fee,is_loan
+2013,Super Lig,Akhisar Belediyespor,summer,in,Oumar Niasse,209781,23,Senegal,Centre-Forward,CF,50000.0,US Ouakam,Senegal,250000.0,0
+2013,Super Lig,Akhisar Belediyespor,summer,in,Bruno Mezenga,54044,24,Brazil,Centre-Forward,CF,900000.0,Orduspor,Türkiye,0.0,0
+2013,Super Lig,Akhisar Belediyespor,summer,in,Kerim Zengin,8548,28,Türkiye,Right-Back,RB,700000.0,Genclerbirligi Ankara,Türkiye,0.0,0
+2013,Super Lig,Akhisar Belediyespor,summer,in,Mehmet Akyüz,64997,27,Türkiye,Centre-Forward,CF,250000.0,Besiktas JK,Türkiye,0.0,0
+2013,Super Lig,Akhisar Belediyespor,summer,in,Alessandro Riedle,86506,22,Germany,Central Midfield,CM,125000.0,AC Bellinzona,Switzerland,0.0,0
+2013,Super Lig,Akhisar Belediyespor,summer,in,Ivan Sesar,69445,23,Bosnia-Herzegovina,Defensive Midfield,DM,1000000.0,FK Sarajevo,Bosnia-Herzegovina,0.0,0
+2013,Super Lig,Akhisar Belediyespor,summer,in,Erkan Taşkıran,114139,28,Türkiye,Left Winger,LW,800000.0,Bucaspor,Türkiye,,0
+2013,Super Lig,Akhisar Belediyespor,summer,in,İsmail Konuk,60795,25,Türkiye,Centre-Back,CB,100000.0,Nazilli Belediyespor,Türkiye,,0
+2013,Super Lig,Akhisar Belediyespor,winter,in,Wato Kuaté,277123,18,Portugal,Defensive Midfield,DM,,Barnsley FC U21,England,0.0,0
+2013,Super Lig,Akhisar Belediyespor,winter,in,Bahattin Köse,83230,23,Türkiye,Centre-Forward,CF,200000.0,RAEC Mons (-2015),Belgium,0.0,0
+2013,Super Lig,Akhisar Belediyespor,summer,out,Theofanis Gekas,16402,33,Greece,Centre-Forward,CF,1000000.0,Konyaspor,Türkiye,0.0,0
+2013,Super Lig,Akhisar Belediyespor,summer,out,Gideon Sani,200119,23,Nigeria,Left Winger,LW,100000.0,TKI Tavsanli Linyitspor,Türkiye,0.0,1
+2013,Super Lig,Akhisar Belediyespor,summer,out,Gökhan Dincer,159809,26,Türkiye,Left-Back,LB,150000.0,Fethiyespor,Türkiye,0.0,1
+2013,Super Lig,Akhisar Belediyespor,summer,out,Hakan Ateş,159789,25,Türkiye,Right-Back,RB,300000.0,Fethiyespor,Türkiye,0.0,1
+2013,Super Lig,Akhisar Belediyespor,summer,out,Kerem Bulut,114931,21,Australia,Centre-Forward,CF,250000.0,Karsiyaka,Türkiye,0.0,1
+2013,Super Lig,Akhisar Belediyespor,summer,out,Severin Bikoko,86614,25,Cameroon,Centre-Forward,CF,700000.0,Without Club,,,0
+2013,Super Lig,Akhisar Belediyespor,summer,out,Bruno Mezenga,54044,24,Brazil,Centre-Forward,CF,900000.0,Orduspor,Türkiye,0.0,1
+2013,Super Lig,Akhisar Belediyespor,winter,out,Mustafa Aşan,76438,25,Türkiye,Central Midfield,CM,700000.0,Sanliurfaspor,Türkiye,0.0,1
+2013,Super Lig,Akhisar Belediyespor,winter,out,Luciano Guaycochea,265082,21,Argentina,Attacking Midfield,AM,50000.0,TKI Tavsanli Linyitspor,Türkiye,0.0,1
+2013,Super Lig,Akhisar Belediyespor,winter,out,Özgür Can Özcan,35252,25,Türkiye,Centre-Forward,CF,50000.0,TKI Tavsanli Linyitspor,Türkiye,0.0,1
+2013,Super Lig,Antalyaspor,summer,in,Ömer Şişmanoğlu,50774,23,Türkiye,Centre-Forward,CF,1500000.0,Kayserispor,Türkiye,500000.0,0
+2013,Super Lig,Antalyaspor,summer,in,Anton Ferdinand,3698,28,England,Centre-Back,CB,2000000.0,Queens Park Rangers,England,0.0,0
+2013,Super Lig,Antalyaspor,summer,in,Fikret Sevilgen,285000,19,Türkiye,Centre-Back,CB,,Kepez Belediyespor,Türkiye,0.0,0
+2013,Super Lig,Antalyaspor,summer,in,Emre Akbaba,278654,20,Türkiye,Attacking Midfield,AM,50000.0,Kahramanmaras Büyüksehir Belediyespor,Türkiye,0.0,0
+2013,Super Lig,Antalyaspor,summer,in,Wederson,21480,32,Brazil,Left-Back,LB,1000000.0,Bursaspor,Türkiye,0.0,0
+2013,Super Lig,Antalyaspor,summer,in,Milan Baros,3216,31,Czech Republic,Centre-Forward,CF,3000000.0,FC Banik Ostrava,Czech Republic,0.0,0
+2013,Super Lig,Antalyaspor,summer,in,Natxo Insa,57808,27,Malaysia,Central Midfield,CM,900000.0,Celta de Vigo,Spain,0.0,0
+2013,Super Lig,Antalyaspor,summer,in,Serkan Balcı,7345,29,Türkiye,Right-Back,RB,2500000.0,Trabzonspor,Türkiye,0.0,0
+2013,Super Lig,Antalyaspor,summer,in,Saso Fornezzi,22109,30,Slovenia,Goalkeeper,GK,2000000.0,Orduspor,Türkiye,0.0,0
+2013,Super Lig,Antalyaspor,summer,in,Onur Tuncer,8539,29,Türkiye,Defensive Midfield,DM,300000.0,Gaziantep Büyüksehir Belediyespor,Türkiye,,0
+2013,Super Lig,Antalyaspor,summer,in,Ömer Arslan,203415,20,Türkiye,Centre-Back,CB,50000.0,Besiktas JK U21,Türkiye,0.0,1
+2013,Super Lig,Antalyaspor,winter,in,Giray Kaçar,55839,28,Türkiye,Centre-Back,CB,4000000.0,Trabzonspor,Türkiye,200000.0,0
+2013,Super Lig,Antalyaspor,winter,in,Eyong Enoh,47344,27,Cameroon,Defensive Midfield,DM,2500000.0,Ajax Amsterdam,Netherlands,100000.0,1
+2013,Super Lig,Antalyaspor,winter,in,Semih Şentürk,7043,30,Türkiye,Centre-Forward,CF,1500000.0,Fenerbahce,Türkiye,0.0,0
+2013,Super Lig,Antalyaspor,winter,in,İlkay Durmuş,119549,19,Türkiye,Left Winger,LW,150000.0,Genclerbirligi Ankara,Türkiye,0.0,0
+2013,Super Lig,Antalyaspor,winter,in,Köksal Yedek,29412,29,Türkiye,Attacking Midfield,AM,1300000.0,Elazigspor,Türkiye,0.0,0
+2013,Super Lig,Antalyaspor,winter,in,Ramazan Çevik,126888,21,Belgium,Left-Back,LB,125000.0,Standard de Liège U21,Belgium,0.0,0
+2013,Super Lig,Antalyaspor,winter,in,Abdurrahman Kuyucu,246133,22,Türkiye,Right Winger,RW,,Iskenderunspor 1967,Türkiye,,0
+2013,Super Lig,Antalyaspor,winter,in,Ozan Özenç,177852,21,Türkiye,Goalkeeper,GK,250000.0,Denizlispor,Türkiye,,0
+2013,Super Lig,Antalyaspor,winter,in,Joseph Boum,138409,27,Cameroon,Centre-Back,CB,500000.0,Without Club,,,0
+2013,Super Lig,Antalyaspor,summer,out,Ismail Aissati,30710,25,Morocco,Attacking Midfield,AM,3800000.0,Terek Grozny,Russia,3300000.0,0
+2013,Super Lig,Antalyaspor,summer,out,Ömer Şişmanoğlu,50774,23,Türkiye,Centre-Forward,CF,1500000.0,Besiktas JK,Türkiye,1650000.0,0
+2013,Super Lig,Antalyaspor,summer,out,Anton Ferdinand,3698,29,England,Centre-Back,CB,1000000.0,Police United (1960-2017),Thailand,0.0,0
+2013,Super Lig,Antalyaspor,summer,out,Hüseyin Sarigöz,152160,20,Denmark,Right-Back,RB,,Odder IGF,Denmark,0.0,0
+2013,Super Lig,Antalyaspor,summer,out,Ergün Teber,29411,27,Türkiye,Left-Back,LB,1000000.0,Konyaspor,Türkiye,0.0,0
+2013,Super Lig,Antalyaspor,summer,out,Hasan Demir,83902,23,Türkiye,Goalkeeper,GK,50000.0,Fatih Karagümrük,Türkiye,0.0,0
+2013,Super Lig,Antalyaspor,summer,out,Mehmet Eren Boyraz,44979,31,Türkiye,Right Winger,RW,700000.0,Adana Demirspor,Türkiye,0.0,0
+2013,Super Lig,Antalyaspor,summer,out,Ali Tandoğan,7054,35,Türkiye,Right-Back,RB,500000.0,Mersin Idmanyurdu,Türkiye,0.0,0
+2013,Super Lig,Antalyaspor,summer,out,Hüseyin Atalay,92431,21,Türkiye,Central Midfield,CM,200000.0,Karsiyaka,Türkiye,0.0,1
+2013,Super Lig,Antalyaspor,summer,out,Lokman Gör,177032,22,Türkiye,Centre-Back,CB,300000.0,Ankaraspor,Türkiye,0.0,1
+2013,Super Lig,Antalyaspor,summer,out,Sammy Ndjock,126666,23,Cameroon,Goalkeeper,GK,800000.0,Fethiyespor,Türkiye,0.0,1
+2013,Super Lig,Antalyaspor,summer,out,Emre Akbaba,278654,20,Türkiye,Attacking Midfield,AM,50000.0,Alanyaspor,Türkiye,0.0,1
+2013,Super Lig,Antalyaspor,summer,out,Ömer Şişmanoğlu,50774,23,Türkiye,Centre-Forward,CF,1500000.0,Kayserispor,Türkiye,0.0,1
+2013,Super Lig,Antalyaspor,winter,out,Nikola Zizic,174563,25,Croatia,Centre-Back,CB,200000.0,Fethiyespor,Türkiye,0.0,0
+2013,Super Lig,Antalyaspor,winter,out,Emre Torun,202245,20,Türkiye,Centre-Forward,CF,150000.0,1461 Trabzon,Türkiye,0.0,1
+2013,Super Lig,Antalyaspor,winter,out,Petr Janda,38339,27,Czech Republic,Central Midfield,CM,500000.0,Denizlispor,Türkiye,0.0,1
+2013,Super Lig,Antalyaspor,winter,out,Polat Keser,17734,28,Türkiye,Goalkeeper,GK,100000.0,Adanaspor,Türkiye,,0
+2013,Super Lig,Antalyaspor,winter,out,Onur Tuncer,8539,29,Türkiye,Defensive Midfield,DM,150000.0,Adana Demirspor,Türkiye,,0
+2013,Super Lig,Antalyaspor,winter,out,Milan Baros,3216,32,Czech Republic,Centre-Forward,CF,1500000.0,Without Club,,,0
+2013,Super Lig,Antalyaspor,winter,out,Ömer Arslan,203415,20,Türkiye,Centre-Back,CB,100000.0,Besiktas JK U21,Türkiye,0.0,1
+2013,Super Lig,Besiktas JK,summer,in,Kerim Frei,146844,19,Türkiye,Left Winger,LW,3000000.0,Fulham FC,England,3150000.0,0
+2013,Super Lig,Besiktas JK,summer,in,Tolga Zengin,16816,29,Türkiye,Goalkeeper,GK,3500000.0,Trabzonspor,Türkiye,2750000.0,0
+2013,Super Lig,Besiktas JK,summer,in,Pedro Franco,118998,22,Colombia,Centre-Back,CB,900000.0,Millonarios FC,Colombia,2400000.0,0
+2013,Super Lig,Besiktas JK,summer,in,Serdar Kurtuluş,35275,26,Türkiye,Right-Back,RB,3000000.0,Gaziantepspor,Türkiye,1750000.0,0
+2013,Super Lig,Besiktas JK,summer,in,Ömer Şişmanoğlu,50774,23,Türkiye,Centre-Forward,CF,1500000.0,Antalyaspor,Türkiye,1650000.0,0
+2013,Super Lig,Besiktas JK,summer,in,Sezer Öztürk,8689,27,Türkiye,Attacking Midfield,AM,1500000.0,Fenerbahce,Türkiye,1500000.0,0
+2013,Super Lig,Besiktas JK,summer,in,Gökhan Töre,82130,21,Türkiye,Right Winger,RW,3800000.0,Rubin Kazan,Russia,350000.0,1
+2013,Super Lig,Besiktas JK,summer,in,Günay Güvenç,114422,22,Türkiye,Goalkeeper,GK,150000.0,Stuttgarter Kickers,Germany,200000.0,0
+2013,Super Lig,Besiktas JK,summer,in,Atiba Hutchinson,16101,30,Canada,Defensive Midfield,DM,3250000.0,PSV Eindhoven,Netherlands,0.0,0
+2013,Super Lig,Besiktas JK,summer,in,Michael Eneramo,49838,27,Nigeria,Centre-Forward,CF,3500000.0,Sivasspor,Türkiye,0.0,0
+2013,Super Lig,Besiktas JK,summer,in,Ramon,55270,25,Brazil,Left-Back,LB,750000.0,Sport Club Corinthians Paulista,Brazil,0.0,1
+2013,Super Lig,Besiktas JK,winter,in,Jermaine Jones,1321,32,United States,Defensive Midfield,DM,3750000.0,FC Schalke 04,Germany,200000.0,0
+2013,Super Lig,Besiktas JK,winter,in,Dany Nounkeu,113938,27,Cameroon,Centre-Back,CB,4000000.0,Galatasaray,Türkiye,0.0,1
+2013,Super Lig,Besiktas JK,summer,out,Allan McGregor,9422,31,Scotland,Goalkeeper,GK,4000000.0,Hull City,England,1750000.0,0
+2013,Super Lig,Besiktas JK,summer,out,Hasan Türk,136304,20,Türkiye,Central Midfield,CM,400000.0,Göztepe,Türkiye,50000.0,1
+2013,Super Lig,Besiktas JK,summer,out,Erkan Kaş,165711,21,Türkiye,Left-Back,LB,350000.0,Kardemir Karabükspor,Türkiye,50000.0,1
+2013,Super Lig,Besiktas JK,summer,out,Roberto Hilbert,3256,28,Germany,Right-Back,RB,5000000.0,Bayer 04 Leverkusen,Germany,0.0,0
+2013,Super Lig,Besiktas JK,summer,out,Júlio Alves,86826,22,Portugal,Central Midfield,CM,1000000.0,Rio Ave FC,Portugal,0.0,0
+2013,Super Lig,Besiktas JK,summer,out,Umut Kaya,159480,23,Türkiye,Goalkeeper,GK,50000.0,Menemen Belediye Spor,Türkiye,0.0,0
+2013,Super Lig,Besiktas JK,summer,out,Mehmet Akyüz,64997,27,Türkiye,Centre-Forward,CF,250000.0,Akhisar Belediyespor,Türkiye,0.0,0
+2013,Super Lig,Besiktas JK,summer,out,Emre Özkan,47310,24,Türkiye,Centre-Back,CB,350000.0,Kardemir Karabükspor,Türkiye,0.0,0
+2013,Super Lig,Besiktas JK,summer,out,Berat Çetinkaya,94553,22,Türkiye,Centre-Back,CB,550000.0,Kahramanmaras Spor,Türkiye,0.0,1
+2013,Super Lig,Besiktas JK,summer,out,Burak Kaplan,61003,23,Türkiye,Attacking Midfield,AM,350000.0,Fethiyespor,Türkiye,0.0,1
+2013,Super Lig,Besiktas JK,summer,out,Sinan Kurumuş,216214,19,Türkiye,Centre-Forward,CF,400000.0,Boluspor,Türkiye,0.0,1
+2013,Super Lig,Besiktas JK,summer,out,Tanju Kayhan,56026,24,Austria,Right-Back,RB,700000.0,Eskisehirspor,Türkiye,0.0,1
+2013,Super Lig,Besiktas JK,summer,out,Mamadou Niang,6118,33,Senegal,Centre-Forward,CF,500000.0,Al-Sadd SC,Qatar,0.0,1
+2013,Super Lig,Besiktas JK,winter,out,Michael Eneramo,49838,28,Nigeria,Centre-Forward,CF,3500000.0,Kardemir Karabükspor,Türkiye,0.0,1
+2013,Super Lig,Besiktas JK,winter,out,Sinan Kurumuş,216214,19,Türkiye,Centre-Forward,CF,400000.0,Kahramanmaras Spor,Türkiye,0.0,1
+2013,Super Lig,Besiktas JK,winter,out,Tanju Kayhan,56026,24,Austria,Right-Back,RB,700000.0,Elazigspor,Türkiye,0.0,1
+2013,Super Lig,Besiktas JK,winter,out,Günay Güvenç,114422,22,Türkiye,Goalkeeper,GK,200000.0,Adanaspor,Türkiye,0.0,1
+2013,Super Lig,Besiktas JK,winter,out,Burak Kaplan,61003,23,Türkiye,Attacking Midfield,AM,300000.0,KFC Uerdingen 05,Germany,0.0,1
+2013,Super Lig,Besiktas JK,winter,out,Mehmet Akgün,10504,27,Türkiye,Central Midfield,CM,400000.0,Kayseri Erciyesspor,Türkiye,,0
+2013,Super Lig,Besiktas JK,winter,out,Dentinho,52787,24,Brazil,Centre-Forward,CF,3000000.0,Shakhtar Donetsk,Ukraine,0.0,1
+2013,Super Lig,Bursaspor,summer,in,Colin Kazım-Richards,36802,27,Türkiye,Centre-Forward,CF,3000000.0,Galatasaray,Türkiye,250000.0,0
+2013,Super Lig,Bursaspor,summer,in,Renato Civelli,30757,29,Argentina,Centre-Back,CB,3500000.0,OGC Nice,France,0.0,0
+2013,Super Lig,Bursaspor,summer,in,Yasin Pehlivan,64016,24,Austria,Defensive Midfield,DM,1400000.0,Gaziantepspor,Türkiye,0.0,0
+2013,Super Lig,Bursaspor,summer,in,Şamil Çinaz,30476,27,Türkiye,Defensive Midfield,DM,900000.0,Orduspor,Türkiye,0.0,0
+2013,Super Lig,Bursaspor,summer,in,Taye Taiwo,28922,28,Nigeria,Left-Back,LB,3000000.0,AC Milan,Italy,0.0,0
+2013,Super Lig,Bursaspor,summer,in,Sébastien Frey,5854,33,France,Goalkeeper,GK,5000000.0,Genoa CFC,Italy,,0
+2013,Super Lig,Bursaspor,winter,in,Volkan Şen,56386,26,Türkiye,Left Winger,LW,1700000.0,Trabzonspor,Türkiye,1250000.0,0
+2013,Super Lig,Bursaspor,winter,in,Fernandão,83886,26,Brazil,Centre-Forward,CF,400000.0,Atlético Paranaense,Brazil,400000.0,1
+2013,Super Lig,Bursaspor,winter,in,Bekir Yılmaz,114143,25,Türkiye,Central Midfield,CM,1000000.0,Manisaspor,Türkiye,310000.0,0
+2013,Super Lig,Bursaspor,winter,in,Renato Cajá,55489,29,Brazil,Attacking Midfield,AM,500000.0,Guangzhou Evergrande,China,185000.0,1
+2013,Super Lig,Bursaspor,winter,in,Onurcan Piri,199470,19,Türkiye,Goalkeeper,GK,75000.0,Giresunspor,Türkiye,130000.0,0
+2013,Super Lig,Bursaspor,winter,in,Oğuz Han Aynaoğlu,94296,21,Denmark,Left Winger,LW,150000.0,FC Nordsjaelland,Denmark,100000.0,0
+2013,Super Lig,Bursaspor,winter,in,Sercan Yıldırım,47604,23,Türkiye,Right Winger,RW,1400000.0,Galatasaray,Türkiye,100000.0,1
+2013,Super Lig,Bursaspor,winter,in,Ethem Pülgir,203309,20,Türkiye,Centre-Back,CB,300000.0,Kartalspor,Türkiye,40000.0,0
+2013,Super Lig,Bursaspor,winter,in,Taşkın Çalış,95967,20,Türkiye,Defensive Midfield,DM,800000.0,Gaziantepspor,Türkiye,0.0,0
+2013,Super Lig,Bursaspor,summer,out,Scott Carson,14555,27,England,Goalkeeper,GK,4200000.0,Wigan Athletic,England,820000.0,0
+2013,Super Lig,Bursaspor,summer,out,Prince Tagoe,37649,26,Ghana,Centre-Forward,CF,500000.0,Club Africain,Tunisia,0.0,0
+2013,Super Lig,Bursaspor,summer,out,Abdulmuttalip Altın,176438,21,Türkiye,Central Midfield,CM,50000.0,Without Club,,0.0,0
+2013,Super Lig,Bursaspor,summer,out,Wederson,21480,32,Brazil,Left-Back,LB,1000000.0,Antalyaspor,Türkiye,0.0,0
+2013,Super Lig,Bursaspor,summer,out,Mehmet Sak,58622,23,Türkiye,Left-Back,LB,100000.0,Bucaspor,Türkiye,0.0,0
+2013,Super Lig,Bursaspor,summer,out,İbrahim Kaş,35029,26,Türkiye,Centre-Back,CB,600000.0,Elazigspor,Türkiye,0.0,0
+2013,Super Lig,Bursaspor,summer,out,Barış Örücü,85223,21,Türkiye,Attacking Midfield,AM,150000.0,Denizlispor,Türkiye,0.0,0
+2013,Super Lig,Bursaspor,summer,out,Yavuz Özkan,45007,28,Türkiye,Goalkeeper,GK,250000.0,Sanliurfaspor,Türkiye,0.0,0
+2013,Super Lig,Bursaspor,summer,out,Onur Akbay,144452,26,Türkiye,Centre-Back,CB,350000.0,Sanliurfaspor,Türkiye,0.0,1
+2013,Super Lig,Bursaspor,summer,out,Aziz Behich,136834,22,Australia,Left-Back,LB,400000.0,Melbourne Heart FC,Australia,0.0,1
+2013,Super Lig,Bursaspor,summer,out,Ahmet Arı,68506,24,Türkiye,Right Winger,RW,200000.0,Denizlispor,Türkiye,,0
+2013,Super Lig,Bursaspor,summer,out,Yenal Tuncer,45009,28,Türkiye,Left-Back,LB,200000.0,Denizlispor,Türkiye,,0
+2013,Super Lig,Bursaspor,summer,out,Haktan Odabaşı,139956,21,Türkiye,Right Winger,RW,400000.0,Sanliurfaspor,Türkiye,,0
+2013,Super Lig,Bursaspor,summer,out,Teteh Bangura,174984,23,Sierra Leone,Centre-Forward,CF,1200000.0,Beitar Jerusalem,Israel,0.0,1
+2013,Super Lig,Bursaspor,summer,out,Petteri Forsell,73908,22,Finland,Attacking Midfield,AM,500000.0,Without Club,,,0
+2013,Super Lig,Bursaspor,summer,out,Ömer Erdoğan,7423,36,Türkiye,Centre-Back,CB,,Retired,,,0
+2013,Super Lig,Bursaspor,summer,out,Maurice Edu,50987,27,United States,Defensive Midfield,DM,2300000.0,Stoke City,England,0.0,1
+2013,Super Lig,Bursaspor,summer,out,Anton Ferdinand,3698,28,England,Centre-Back,CB,2000000.0,Queens Park Rangers,England,0.0,1
+2013,Super Lig,Bursaspor,winter,out,Pablo Batalla,26432,30,Argentina,Attacking Midfield,AM,6000000.0,Beijing Guoan,China,3500000.0,0
+2013,Super Lig,Bursaspor,winter,out,Murat Yıldırım,35530,26,Türkiye,Central Midfield,CM,2500000.0,Kayseri Erciyesspor,Türkiye,225000.0,0
+2013,Super Lig,Bursaspor,winter,out,Tunay Acar,59603,24,Türkiye,Right-Back,RB,200000.0,Fethiyespor,Türkiye,0.0,0
+2013,Super Lig,Bursaspor,winter,out,Musa Çağıran,90959,21,Türkiye,Defensive Midfield,DM,2000000.0,Kardemir Karabükspor,Türkiye,0.0,0
+2013,Super Lig,Bursaspor,winter,out,Hakan Aslantas,34161,28,Türkiye,Right-Back,RB,1000000.0,Genclerbirligi Ankara,Türkiye,0.0,0
+2013,Super Lig,Bursaspor,winter,out,Teteh Bangura,174984,24,Sierra Leone,Centre-Forward,CF,1200000.0,AIK,Sweden,0.0,1
+2013,Super Lig,Bursaspor,winter,out,Okan Deniz,176439,19,Türkiye,Left Winger,LW,800000.0,Balikesirspor,Türkiye,0.0,1
+2013,Super Lig,Bursaspor,winter,out,Tuncay Şanlı,6934,32,Türkiye,Left Winger,LW,1200000.0,Without Club,,,0
+2013,Super Lig,Caykur Rizespor,summer,in,Léonard Kweuke,80697,26,Cameroon,Centre-Forward,CF,2500000.0,AC Sparta Prague,Czech Republic,2000000.0,0
+2013,Super Lig,Caykur Rizespor,summer,in,Godfrey Oboabona,217656,22,Nigeria,Centre-Back,CB,300000.0,Sunshine Stars,Nigeria,500000.0,0
+2013,Super Lig,Caykur Rizespor,summer,in,Ali Adnan,261611,19,Iraq,Centre-Back,CB,500000.0,Amanat Baghdad,Iraq,500000.0,0
+2013,Super Lig,Caykur Rizespor,summer,in,Uche Kalu,192035,27,Nigeria,Centre-Forward,CF,500000.0,Enyimba Aba,Nigeria,400000.0,0
+2013,Super Lig,Caykur Rizespor,summer,in,Kıvanç Karakaş,90970,28,Türkiye,Central Midfield,CM,800000.0,Sanliurfaspor,Türkiye,0.0,0
+2013,Super Lig,Caykur Rizespor,summer,in,Serkan Kırıntılı,16058,28,Türkiye,Goalkeeper,GK,300000.0,Fenerbahce,Türkiye,0.0,0
+2013,Super Lig,Caykur Rizespor,summer,in,Cenk Güvenç,83469,21,Türkiye,Centre-Back,CB,100000.0,Atlético Madrileño,Spain,0.0,0
+2013,Super Lig,Caykur Rizespor,summer,in,Necati Yılmaz,51944,25,Türkiye,Goalkeeper,GK,250000.0,Karsiyaka,Türkiye,0.0,0
+2013,Super Lig,Caykur Rizespor,summer,in,Ousmane Viera,69014,26,Cote d'Ivoire,Centre-Back,CB,1700000.0,Pandurii Targu Jiu (- 2022),Romania,0.0,0
+2013,Super Lig,Caykur Rizespor,summer,in,Ludovic Sylvestre,43248,29,France,Central Midfield,CM,1000000.0,Blackpool FC,England,0.0,0
+2013,Super Lig,Caykur Rizespor,summer,in,Tevfik Köse,36661,24,Türkiye,Centre-Forward,CF,500000.0,Istanbul Büyüksehir Belediyespor,Türkiye,0.0,0
+2013,Super Lig,Caykur Rizespor,summer,in,Mariusz Pawelek,29819,32,Poland,Goalkeeper,GK,350000.0,Polonia Warsaw,Poland,0.0,0
+2013,Super Lig,Caykur Rizespor,summer,in,Kagan Söylemezgiller,56528,25,Türkiye,Central Midfield,CM,700000.0,Kardemir Karabükspor,Türkiye,0.0,0
+2013,Super Lig,Caykur Rizespor,summer,in,Koray Altınay,148550,21,Türkiye,Right-Back,RB,300000.0,SSV Jahn Regensburg,Germany,0.0,0
+2013,Super Lig,Caykur Rizespor,summer,in,Hursut Meriç,56372,30,Türkiye,Right Winger,RW,2500000.0,Genclerbirligi Ankara,Türkiye,,0
+2013,Super Lig,Caykur Rizespor,summer,in,Eray Birniçan,45212,25,Türkiye,Goalkeeper,GK,100000.0,Gaziantepspor,Türkiye,,0
+2013,Super Lig,Caykur Rizespor,winter,in,Liban Abdi,98502,25,Norway,Left Winger,LW,1000000.0,Académica Coimbra,Portugal,500000.0,0
+2013,Super Lig,Caykur Rizespor,winter,in,Martin Mutumba,49292,28,Uganda,Left Winger,LW,800000.0,AIK,Sweden,0.0,0
+2013,Super Lig,Caykur Rizespor,winter,in,Mehmet Gürkan Öztürk,58761,24,Türkiye,Centre-Forward,CF,50000.0,Aydinspor 1923,Türkiye,0.0,0
+2013,Super Lig,Caykur Rizespor,winter,in,Deniz Kadah,50413,27,Türkiye,Centre-Forward,CF,300000.0,Hannover 96,Germany,0.0,0
+2013,Super Lig,Caykur Rizespor,winter,in,Ümit Korkmaz,37977,28,Austria,Left Winger,LW,500000.0,FC Ingolstadt 04,Germany,0.0,0
+2013,Super Lig,Caykur Rizespor,winter,in,Lomana LuaLua,3458,33,DR Congo,Centre-Forward,CF,1000000.0,Kardemir Karabükspor,Türkiye,0.0,0
+2013,Super Lig,Caykur Rizespor,winter,in,Görkem Görk,34166,30,Türkiye,Centre-Back,CB,400000.0,Elazigspor,Türkiye,0.0,0
+2013,Super Lig,Caykur Rizespor,winter,in,Engin Baytar,8399,30,Türkiye,Attacking Midfield,AM,2000000.0,Galatasaray,Türkiye,0.0,1
+2013,Super Lig,Caykur Rizespor,winter,in,Aykut Akgün,37873,26,Türkiye,Defensive Midfield,DM,1000000.0,Trabzonspor,Türkiye,0.0,1
+2013,Super Lig,Caykur Rizespor,summer,out,Mehmet Al,10128,29,Türkiye,Left Winger,LW,150000.0,Balikesirspor,Türkiye,0.0,0
+2013,Super Lig,Caykur Rizespor,summer,out,Çetin Güngör,60702,23,Türkiye,Right-Back,RB,100000.0,Altay SK,Türkiye,0.0,0
+2013,Super Lig,Caykur Rizespor,summer,out,Murat Sözgelmez,29641,27,Türkiye,Centre-Back,CB,500000.0,Balikesirspor,Türkiye,0.0,0
+2013,Super Lig,Caykur Rizespor,summer,out,Eze Vincent Okeuhie,260695,20,Nigeria,Right Winger,RW,50000.0,Apollon Limassol,Cyprus,0.0,0
+2013,Super Lig,Caykur Rizespor,summer,out,Serhat Akyüz,28991,28,Türkiye,Centre-Back,CB,150000.0,Balikesirspor,Türkiye,0.0,0
+2013,Super Lig,Caykur Rizespor,summer,out,Çağrı Yarkın,50684,24,Türkiye,Central Midfield,CM,150000.0,Boluspor,Türkiye,0.0,0
+2013,Super Lig,Caykur Rizespor,summer,out,Samat Smakov,43444,34,Kazakhstan,Defensive Midfield,DM,200000.0,Kairat Almaty,Kazakhstan,0.0,0
+2013,Super Lig,Caykur Rizespor,summer,out,Fırat Kocaoğlu,50659,25,Türkiye,Goalkeeper,GK,100000.0,Boluspor,Türkiye,0.0,0
+2013,Super Lig,Caykur Rizespor,summer,out,Onur Güney,114421,30,Türkiye,Left-Back,LB,100000.0,Sanliurfaspor,Türkiye,0.0,0
+2013,Super Lig,Caykur Rizespor,summer,out,İlyas Çakmak,114493,24,Türkiye,Centre-Forward,CF,200000.0,Göztepe,Türkiye,0.0,1
+2013,Super Lig,Caykur Rizespor,summer,out,Şahinali Terzi,165717,22,Türkiye,Central Midfield,CM,250000.0,Kahramanmaras Spor,Türkiye,0.0,1
+2013,Super Lig,Caykur Rizespor,summer,out,Cumhur Yılmaztürk,85686,23,Türkiye,Defensive Midfield,DM,75000.0,Kahramanmaras Spor,Türkiye,0.0,1
+2013,Super Lig,Caykur Rizespor,summer,out,Mesut Yılmaz,59151,24,Türkiye,Centre-Back,CB,150000.0,Göztepe,Türkiye,0.0,1
+2013,Super Lig,Caykur Rizespor,summer,out,Mehmet Can Kasap,157170,22,Türkiye,Centre-Forward,CF,50000.0,Eyüpspor,Türkiye,0.0,1
+2013,Super Lig,Caykur Rizespor,summer,out,David Loria,43442,31,Kazakhstan,Goalkeeper,GK,300000.0,Kairat Almaty,Kazakhstan,,0
+2013,Super Lig,Caykur Rizespor,summer,out,Emre Torun,202245,20,Türkiye,Centre-Forward,CF,150000.0,Antalyaspor U21,Türkiye,0.0,1
+2013,Super Lig,Caykur Rizespor,summer,out,Hossam Hassan,127706,24,Egypt,Defensive Midfield,DM,250000.0,El Masry SC,Egypt,0.0,1
+2013,Super Lig,Caykur Rizespor,winter,out,Mehmet Can Kasap,157170,23,Türkiye,Centre-Forward,CF,50000.0,Ciksalin Spor,Türkiye,0.0,0
+2013,Super Lig,Caykur Rizespor,winter,out,Cenk Güvenç,83469,22,Türkiye,Centre-Back,CB,100000.0,Karsiyaka,Türkiye,0.0,1
+2013,Super Lig,Caykur Rizespor,winter,out,David Depetris,140026,25,Slovakia,Centre-Forward,CF,700000.0,SK Sigma Olomouc,Czech Republic,0.0,1
+2013,Super Lig,Caykur Rizespor,winter,out,İlyas Çakmak,114493,25,Türkiye,Centre-Forward,CF,250000.0,Yeni Malatyaspor,Türkiye,0.0,1
+2013,Super Lig,Caykur Rizespor,winter,out,Mariusz Pawelek,29819,32,Poland,Goalkeeper,GK,275000.0,Adana Demirspor,Türkiye,0.0,1
+2013,Super Lig,Caykur Rizespor,winter,out,Uche Kalu,192035,27,Nigeria,Centre-Forward,CF,500000.0,Adanaspor,Türkiye,0.0,1
+2013,Super Lig,Caykur Rizespor,winter,out,Mesut Yılmaz,59151,24,Türkiye,Centre-Back,CB,150000.0,Nazilli Belediyespor,Türkiye,0.0,1
+2013,Super Lig,Caykur Rizespor,winter,out,Şahinali Terzi,165717,23,Türkiye,Central Midfield,CM,250000.0,Yeni Malatyaspor,Türkiye,0.0,1
+2013,Super Lig,Caykur Rizespor,winter,out,Oğuzhan Berber,181751,21,Türkiye,Right-Back,RB,350000.0,Adana Demirspor,Türkiye,0.0,1
+2013,Super Lig,Caykur Rizespor,winter,out,Cenk Ahmet Alkılıç,68211,26,Türkiye,Right-Back,RB,1000000.0,Kayseri Erciyesspor,Türkiye,0.0,1
+2013,Super Lig,Caykur Rizespor,winter,out,Ozan Papaker,238218,17,Türkiye,Centre-Forward,CF,50000.0,Ofspor,Türkiye,0.0,1
+2013,Super Lig,Elazigspor,summer,in,Deniz Yılmaz,34753,25,Azerbaijan,Centre-Forward,CF,500000.0,1.FSV Mainz 05,Germany,250000.0,0
+2013,Super Lig,Elazigspor,summer,in,Pape Sow,20623,27,Senegal,Centre-Back,CB,1000000.0,Panathinaikos FC,Greece,100000.0,0
+2013,Super Lig,Elazigspor,summer,in,Gökhan Korkmaz,185823,22,Türkiye,Left Winger,LW,50000.0,Tekirova Belediyespor,Türkiye,0.0,0
+2013,Super Lig,Elazigspor,summer,in,Vitolo,27667,29,Spain,Central Midfield,CM,2250000.0,Panathinaikos FC,Greece,0.0,0
+2013,Super Lig,Elazigspor,summer,in,Luke Moore,4075,27,England,Centre-Forward,CF,1500000.0,Swansea City,England,0.0,0
+2013,Super Lig,Elazigspor,summer,in,Youssouf Hadji,5345,33,Morocco,Centre-Forward,CF,500000.0,Al-Arabi SC,Qatar,0.0,0
+2013,Super Lig,Elazigspor,summer,in,Hakan Söyler,34171,30,Türkiye,Defensive Midfield,DM,400000.0,Kardemir Karabükspor,Türkiye,0.0,0
+2013,Super Lig,Elazigspor,summer,in,İbrahim Kaş,35029,26,Türkiye,Centre-Back,CB,600000.0,Bursaspor,Türkiye,0.0,0
+2013,Super Lig,Elazigspor,summer,in,Çağlar Birinci,22952,27,Türkiye,Centre-Back,CB,500000.0,Galatasaray,Türkiye,0.0,0
+2013,Super Lig,Elazigspor,summer,in,Özgür Özkaya,76445,25,Türkiye,Left-Back,LB,250000.0,Besiktas JK U21,Türkiye,0.0,0
+2013,Super Lig,Elazigspor,summer,in,Onur Ayık,52006,23,Türkiye,Right Winger,RW,100000.0,FC Oberneuland,Germany,0.0,0
+2013,Super Lig,Elazigspor,summer,in,Zülküf Özer,58919,25,Türkiye,Goalkeeper,GK,200000.0,Adanaspor,Türkiye,0.0,0
+2013,Super Lig,Elazigspor,summer,in,Serdar Özkan,8487,26,Türkiye,Left Winger,LW,650000.0,Sanliurfaspor,Türkiye,0.0,0
+2013,Super Lig,Elazigspor,summer,in,Noyan Öz,83501,21,Türkiye,Centre-Forward,CF,75000.0,Eintracht Frankfurt II,Germany,0.0,0
+2013,Super Lig,Elazigspor,summer,in,Mehmet Nas,7153,33,Türkiye,Central Midfield,CM,600000.0,Sivasspor,Türkiye,0.0,0
+2013,Super Lig,Elazigspor,summer,in,Muhammed Ali Doğan,287417,18,Türkiye,Defensive Midfield,DM,,SG Wattenscheid 09 U19,Germany,,0
+2013,Super Lig,Elazigspor,summer,in,Deniz Aslan,69816,24,Türkiye,Right-Back,RB,100000.0,Antalyaspor U21,Türkiye,,0
+2013,Super Lig,Elazigspor,winter,in,Rodrigo Tello,3413,34,Chile,Left Winger,LW,400000.0,Eskisehirspor,Türkiye,0.0,0
+2013,Super Lig,Elazigspor,winter,in,Ognjen Vranjes,94807,24,Bosnia-Herzegovina,Centre-Back,CB,700000.0,Alania Vladikavkaz,Russia,0.0,0
+2013,Super Lig,Elazigspor,winter,in,Franco Cángele,19953,29,Argentina,Second Striker,SS,400000.0,CA Boca Juniors,Argentina,0.0,0
+2013,Super Lig,Elazigspor,winter,in,Tanju Kayhan,56026,24,Austria,Right-Back,RB,700000.0,Besiktas JK,Türkiye,0.0,1
+2013,Super Lig,Elazigspor,winter,in,Ali Gökdemir,83692,22,Azerbaijan,Left-Back,LB,150000.0,Hannover 96,Germany,0.0,1
+2013,Super Lig,Elazigspor,winter,in,Batuhan Karadeniz,52270,22,Türkiye,Centre-Forward,CF,500000.0,Trabzonspor,Türkiye,0.0,1
+2013,Super Lig,Elazigspor,summer,out,Emir Kujovic,47199,25,Sweden,Centre-Forward,CF,600000.0,IFK Norrköping,Sweden,0.0,0
+2013,Super Lig,Elazigspor,summer,out,Aydın Karabulut,37899,25,Türkiye,Right Winger,RW,1000000.0,Sivasspor,Türkiye,0.0,0
+2013,Super Lig,Elazigspor,summer,out,Mehmet Çakır,33791,29,Türkiye,Centre-Forward,CF,600000.0,MKE Ankaragücü,Türkiye,0.0,0
+2013,Super Lig,Elazigspor,summer,out,Roland Alberg,64481,23,Suriname,Attacking Midfield,AM,300000.0,ADO Den Haag,Netherlands,0.0,0
+2013,Super Lig,Elazigspor,summer,out,Enis Kahraman,42575,25,Türkiye,Defensive Midfield,DM,100000.0,Batman Petrolspor,Türkiye,0.0,0
+2013,Super Lig,Elazigspor,summer,out,Tolga Özgen,29686,33,Türkiye,Goalkeeper,GK,100000.0,Gaziantep Büyüksehir Belediyespor,Türkiye,0.0,0
+2013,Super Lig,Elazigspor,summer,out,Sedat Bayrak,8709,32,Türkiye,Centre-Back,CB,600000.0,Genclerbirligi Ankara,Türkiye,0.0,0
+2013,Super Lig,Elazigspor,summer,out,Murat Kayalı,58713,23,Türkiye,Central Midfield,CM,400000.0,Sanliurfaspor,Türkiye,0.0,0
+2013,Super Lig,Elazigspor,summer,out,Sinan Kaloğlu,6873,32,Türkiye,Centre-Forward,CF,400000.0,Kayseri Erciyesspor,Türkiye,0.0,0
+2013,Super Lig,Elazigspor,summer,out,Bülent Ertuğrul,7087,34,Türkiye,Defensive Midfield,DM,300000.0,Denizlispor,Türkiye,0.0,0
+2013,Super Lig,Elazigspor,summer,out,Mustafa Sarp,21522,32,Türkiye,Defensive Midfield,DM,400000.0,Istanbul Büyüksehir Belediyespor,Türkiye,0.0,0
+2013,Super Lig,Elazigspor,summer,out,Eren Aydın,28992,31,Türkiye,Left-Back,LB,350000.0,Sivasspor,Türkiye,0.0,0
+2013,Super Lig,Elazigspor,summer,out,Murat Akyüz,44995,32,Türkiye,Right-Back,RB,200000.0,Samsunspor,Türkiye,0.0,0
+2013,Super Lig,Elazigspor,summer,out,Orhan Ak,6860,33,Türkiye,Centre-Back,CB,200000.0,Istanbul Büyüksehir Belediyespor,Türkiye,0.0,0
+2013,Super Lig,Elazigspor,summer,out,Marvin Zeegelaar,92899,23,Netherlands,Left-Back,LB,500000.0,Blackpool FC,England,0.0,1
+2013,Super Lig,Elazigspor,summer,out,Gökhan Korkmaz,185823,22,Türkiye,Left Winger,LW,50000.0,Darica Genclerbirligi,Türkiye,0.0,1
+2013,Super Lig,Elazigspor,summer,out,İbrahim Eren Akduman,208644,23,Türkiye,Right-Back,RB,75000.0,Kahramanmaras Spor,Türkiye,,0
+2013,Super Lig,Elazigspor,summer,out,Volkan Bekci,51816,26,Türkiye,Attacking Midfield,AM,100000.0,Van Büyüksehir Belediyespor,Türkiye,,0
+2013,Super Lig,Elazigspor,summer,out,Jake Jervis,129074,21,England,Centre-Forward,CF,150000.0,Without Club,,,0
+2013,Super Lig,Elazigspor,summer,out,Hrvoje Spahija,80814,25,Croatia,Centre-Back,CB,200000.0,Without Club,,,0
+2013,Super Lig,Elazigspor,summer,out,Marvin Zeegelaar,92899,23,Netherlands,Left-Back,LB,500000.0,Without Club,,,0
+2013,Super Lig,Elazigspor,summer,out,Ivan Sesar,69445,23,Bosnia-Herzegovina,Defensive Midfield,DM,1000000.0,FK Sarajevo,Bosnia-Herzegovina,0.0,1
+2013,Super Lig,Elazigspor,winter,out,Adem Alkaşi,114466,29,Türkiye,Right-Back,RB,800000.0,Boluspor,Türkiye,0.0,0
+2013,Super Lig,Elazigspor,winter,out,Köksal Yedek,29412,29,Türkiye,Attacking Midfield,AM,1300000.0,Antalyaspor,Türkiye,0.0,0
+2013,Super Lig,Elazigspor,winter,out,Görkem Görk,34166,30,Türkiye,Centre-Back,CB,400000.0,Caykur Rizespor,Türkiye,0.0,0
+2013,Super Lig,Elazigspor,winter,out,Alper Kalemci,77005,22,Türkiye,Defensive Midfield,DM,200000.0,Göztepe,Türkiye,0.0,0
+2013,Super Lig,Elazigspor,winter,out,Luke Moore,4075,27,England,Centre-Forward,CF,1500000.0,CD Chivas USA,United States,0.0,0
+2013,Super Lig,Elazigspor,winter,out,Gökhan Korkmaz,185823,22,Türkiye,Left Winger,LW,50000.0,Kahramanmaras Büyüksehir Belediyespor,Türkiye,0.0,1
+2013,Super Lig,Elazigspor,winter,out,Oktay Pop,58730,25,Türkiye,Right Winger,RW,250000.0,Denizlispor,Türkiye,,0
+2013,Super Lig,Elazigspor,winter,out,Volkan Yılmaz,67566,26,Türkiye,Attacking Midfield,AM,100000.0,MKE Ankaragücü,Türkiye,,0
+2013,Super Lig,Elazigspor,winter,out,Caner Bulut,119346,24,Türkiye,Left-Back,LB,100000.0,Hatayspor,Türkiye,,0
+2013,Super Lig,Elazigspor,winter,out,Youssouf Hadji,5345,33,Morocco,Centre-Forward,CF,300000.0,Without Club,,,0
+2013,Super Lig,Elazigspor,winter,out,Vitolo,27667,30,Spain,Central Midfield,CM,2000000.0,Without Club,,,0
+2013,Super Lig,Eskisehirspor,summer,in,Erman Kılıç,53556,29,Türkiye,Attacking Midfield,AM,3700000.0,Galatasaray,Türkiye,200000.0,0
+2013,Super Lig,Eskisehirspor,summer,in,Okan Aydın,107184,19,Türkiye,Attacking Midfield,AM,200000.0,Bayer 04 Leverkusen II,Germany,150000.0,0
+2013,Super Lig,Eskisehirspor,summer,in,Henri Bienvenu,65921,25,Cameroon,Centre-Forward,CF,1800000.0,Fenerbahce,Türkiye,0.0,0
+2013,Super Lig,Eskisehirspor,summer,in,Onur Bayramoğlu,122649,23,Türkiye,Central Midfield,CM,200000.0,Genclerbirligi Ankara,Türkiye,0.0,0
+2013,Super Lig,Eskisehirspor,summer,in,Mahmut Boz,85302,22,Türkiye,Centre-Back,CB,600000.0,Genclerbirligi Ankara,Türkiye,0.0,0
+2013,Super Lig,Eskisehirspor,summer,in,Tanju Kayhan,56026,24,Austria,Right-Back,RB,700000.0,Besiktas JK,Türkiye,0.0,1
+2013,Super Lig,Eskisehirspor,summer,in,Bertul Kocabaş,114735,21,Türkiye,Attacking Midfield,AM,300000.0,Kardemir Karabükspor,Türkiye,0.0,1
+2013,Super Lig,Eskisehirspor,summer,in,Alfred N'Diaye,77737,23,Senegal,Defensive Midfield,DM,4500000.0,Sunderland AFC,England,0.0,1
+2013,Super Lig,Eskisehirspor,summer,in,Cristóbal Jorquera,66280,25,Chile,Attacking Midfield,AM,1300000.0,Parma FC,Italy,0.0,1
+2013,Super Lig,Eskisehirspor,winter,in,Murat Celik,315343,20,Türkiye,Defensive Midfield,DM,,Jeunesse Villenavaise,France,30000.0,0
+2013,Super Lig,Eskisehirspor,winter,in,Kamil Ahmet Çörekçi,110686,21,Türkiye,Right-Back,RB,800000.0,Kayserispor,Türkiye,0.0,0
+2013,Super Lig,Eskisehirspor,winter,in,Raheem Lawal,127768,23,Nigeria,Central Midfield,CM,1000000.0,Mersin Idmanyurdu,Türkiye,0.0,0
+2013,Super Lig,Eskisehirspor,winter,in,Efe Yildirim,63448,21,Sweden,Centre-Back,CB,,Karlstad BK (- 2019),Sweden,0.0,0
+2013,Super Lig,Eskisehirspor,summer,out,Alper Potuk,99186,22,Türkiye,Left Winger,LW,6500000.0,Fenerbahce,Türkiye,7250000.0,0
+2013,Super Lig,Eskisehirspor,summer,out,Burhan Eşer,33958,28,Türkiye,Right Winger,RW,1500000.0,Sivasspor,Türkiye,0.0,0
+2013,Super Lig,Eskisehirspor,summer,out,Batuhan Karadeniz,52270,22,Türkiye,Centre-Forward,CF,1000000.0,Trabzonspor,Türkiye,0.0,0
+2013,Super Lig,Eskisehirspor,summer,out,Adem Sari,15009,28,Türkiye,Centre-Forward,CF,100000.0,Altay SK,Türkiye,0.0,0
+2013,Super Lig,Eskisehirspor,summer,out,Serdar Dursun,80059,21,Türkiye,Centre-Forward,CF,100000.0,Denizlispor,Türkiye,0.0,1
+2013,Super Lig,Eskisehirspor,summer,out,Onur Bayramoğlu,122649,23,Türkiye,Central Midfield,CM,200000.0,Bozüyükspor,Türkiye,0.0,1
+2013,Super Lig,Eskisehirspor,summer,out,Mehmet Güven,37837,26,Türkiye,Central Midfield,CM,1500000.0,Konyaspor,Türkiye,,0
+2013,Super Lig,Eskisehirspor,summer,out,Yiğit Yöney,237479,21,Türkiye,Left-Back,LB,,Bozüyükspor,Türkiye,0.0,1
+2013,Super Lig,Eskisehirspor,summer,out,Andrej Mrkela,94329,21,Serbia,Right Winger,RW,400000.0,FK Rad,Serbia,0.0,1
+2013,Super Lig,Eskisehirspor,summer,out,Atdhe Nuhiu,53436,23,Kosovo,Centre-Forward,CF,800000.0,Rapid Vienna,Austria,0.0,1
+2013,Super Lig,Eskisehirspor,winter,out,Veysel Sarı,88374,25,Türkiye,Centre-Back,CB,5750000.0,Galatasaray,Türkiye,700000.0,0
+2013,Super Lig,Eskisehirspor,winter,out,Rodrigo Tello,3413,34,Chile,Left Winger,LW,400000.0,Elazigspor,Türkiye,0.0,0
+2013,Super Lig,Eskisehirspor,winter,out,Goran Causic,94304,21,Serbia,Central Midfield,CM,2000000.0,Manisaspor,Türkiye,0.0,1
+2013,Super Lig,Eskisehirspor,winter,out,Mahmut Boz,85302,22,Türkiye,Centre-Back,CB,600000.0,Gaziantep Büyüksehir Belediyespor,Türkiye,0.0,1
+2013,Super Lig,Eskisehirspor,winter,out,Murat Celik,315343,20,Türkiye,Defensive Midfield,DM,,Bursa Nilüferspor,Türkiye,0.0,1
+2013,Super Lig,Eskisehirspor,winter,out,Yiğit Yöney,237479,22,Türkiye,Left-Back,LB,25000.0,Sekerspor,Türkiye,0.0,1
+2013,Super Lig,Eskisehirspor,winter,out,Abdulaziz Solmaz,53570,25,Türkiye,Left Winger,LW,300000.0,Without Club,,,0
+2013,Super Lig,Eskisehirspor,winter,out,Tanju Kayhan,56026,24,Austria,Right-Back,RB,700000.0,Besiktas JK,Türkiye,0.0,1
+2013,Super Lig,Eskisehirspor,winter,out,Alfred N'Diaye,77737,23,Senegal,Defensive Midfield,DM,5250000.0,Sunderland AFC,England,0.0,1
+2013,Super Lig,Fenerbahce,summer,in,Emmanuel Emenike,120630,26,Nigeria,Centre-Forward,CF,12000000.0,Spartak Moscow,Russia,13000000.0,0
+2013,Super Lig,Fenerbahce,summer,in,Alper Potuk,99186,22,Türkiye,Left Winger,LW,6500000.0,Eskisehirspor,Türkiye,7250000.0,0
+2013,Super Lig,Fenerbahce,summer,in,Bruno Alves,13121,31,Portugal,Centre-Back,CB,6500000.0,Zenit St. Petersburg,Russia,5500000.0,0
+2013,Super Lig,Fenerbahce,summer,in,Michal Kadlec,21042,28,Czech Republic,Centre-Back,CB,5000000.0,Bayer 04 Leverkusen,Germany,4500000.0,0
+2013,Super Lig,Fenerbahce,summer,in,Samuel Holmén,24379,29,Sweden,Central Midfield,CM,4000000.0,Istanbul Büyüksehir Belediyespor,Türkiye,0.0,0
+2013,Super Lig,Fenerbahce,summer,out,Sezer Öztürk,8689,27,Türkiye,Attacking Midfield,AM,1500000.0,Besiktas JK,Türkiye,1500000.0,0
+2013,Super Lig,Fenerbahce,summer,out,Orhan Şam,10121,27,Türkiye,Right-Back,RB,1800000.0,Kasimpasa,Türkiye,1000000.0,0
+2013,Super Lig,Fenerbahce,summer,out,Miroslav Stoch,45559,23,Slovakia,Left Winger,LW,8000000.0,PAOK Thessaloniki,Greece,1000000.0,1
+2013,Super Lig,Fenerbahce,summer,out,Milos Krasic,18828,28,Serbia,Right Winger,RW,5500000.0,SC Bastia,France,800000.0,1
+2013,Super Lig,Fenerbahce,summer,out,Henri Bienvenu,65921,25,Cameroon,Centre-Forward,CF,1800000.0,Eskisehirspor,Türkiye,0.0,0
+2013,Super Lig,Fenerbahce,summer,out,Serkan Kırıntılı,16058,28,Türkiye,Goalkeeper,GK,300000.0,Caykur Rizespor,Türkiye,0.0,0
+2013,Super Lig,Fenerbahce,summer,out,Gökay Iravul,131756,20,Türkiye,Central Midfield,CM,850000.0,Adana Demirspor,Türkiye,0.0,1
+2013,Super Lig,Fenerbahce,summer,out,Beykan Şimşek,176341,18,Türkiye,Left Winger,LW,400000.0,Kardemir Karabükspor,Türkiye,0.0,1
+2013,Super Lig,Fenerbahce,summer,out,Recep Niyaz,105653,18,Türkiye,Attacking Midfield,AM,700000.0,Bucaspor,Türkiye,0.0,1
+2013,Super Lig,Fenerbahce,summer,out,Oğuz Mataracı,284545,18,Türkiye,Defensive Midfield,DM,,Turgutluspor,Türkiye,0.0,1
+2013,Super Lig,Fenerbahce,summer,out,Reto Ziegler,9915,27,Switzerland,Centre-Back,CB,6500000.0,Juventus FC,Italy,0.0,1
+2013,Super Lig,Fenerbahce,winter,out,Joseph Yobo,3270,33,Nigeria,Centre-Back,CB,2000000.0,Norwich City,England,850000.0,1
+2013,Super Lig,Fenerbahce,winter,out,Semih Şentürk,7043,30,Türkiye,Centre-Forward,CF,1500000.0,Antalyaspor,Türkiye,0.0,0
+2013,Super Lig,Fenerbahce,winter,out,Gökay Iravul,131756,21,Türkiye,Central Midfield,CM,850000.0,Manisaspor,Türkiye,0.0,1
+2013,Super Lig,Galatasaray,summer,in,Bruma,139396,18,Portugal,Left Winger,LW,2500000.0,Sporting CP,Portugal,13000000.0,0
+2013,Super Lig,Galatasaray,summer,in,Aurélien Chedjou,45624,28,Cameroon,Centre-Back,CB,12000000.0,LOSC Lille,France,6300000.0,0
+2013,Super Lig,Galatasaray,summer,in,Felipe Melo,35537,30,Brazil,Defensive Midfield,DM,11000000.0,Juventus FC,Italy,3750000.0,0
+2013,Super Lig,Galatasaray,summer,in,Umut Bulut,10143,30,Türkiye,Centre-Forward,CF,5000000.0,FC Toulouse,France,2700000.0,0
+2013,Super Lig,Galatasaray,summer,in,Erman Kılıç,53556,29,Türkiye,Attacking Midfield,AM,3700000.0,Sivasspor,Türkiye,0.0,0
+2013,Super Lig,Galatasaray,winter,in,Alex Telles,255755,21,Brazil,Left-Back,LB,1500000.0,Grêmio Foot-Ball Porto Alegrense,Brazil,6150000.0,0
+2013,Super Lig,Galatasaray,winter,in,Izet Hajrovic,74996,22,Bosnia-Herzegovina,Right Winger,RW,4000000.0,Grasshopper Club Zurich,Switzerland,3500000.0,0
+2013,Super Lig,Galatasaray,winter,in,Salih Dursun,176961,22,Türkiye,Centre-Back,CB,2200000.0,Kayserispor,Türkiye,2750000.0,0
+2013,Super Lig,Galatasaray,winter,in,Koray Günter,115763,19,Germany,Centre-Back,CB,500000.0,Borussia Dortmund,Germany,2500000.0,0
+2013,Super Lig,Galatasaray,winter,in,Lucas Ontivero,265916,19,Argentina,Right Winger,RW,200000.0,CA Fénix,Uruguay,2000000.0,0
+2013,Super Lig,Galatasaray,winter,in,Oğuzhan Kayar,286406,18,Türkiye,Attacking Midfield,AM,50000.0,Manisaspor,Türkiye,750000.0,0
+2013,Super Lig,Galatasaray,winter,in,Veysel Sarı,88374,25,Türkiye,Centre-Back,CB,5750000.0,Eskisehirspor,Türkiye,700000.0,0
+2013,Super Lig,Galatasaray,winter,in,Umut Gündoğan,45427,23,Türkiye,Central Midfield,CM,250000.0,Bucaspor,Türkiye,550000.0,0
+2013,Super Lig,Galatasaray,winter,in,Guillermo Burdisso,104233,25,Argentina,Centre-Back,CB,3000000.0,CA Boca Juniors,Argentina,185000.0,1
+2013,Super Lig,Galatasaray,summer,out,Johan Elmander,4383,32,Sweden,Centre-Forward,CF,4500000.0,Norwich City,England,700000.0,1
+2013,Super Lig,Galatasaray,summer,out,Colin Kazım-Richards,36802,27,Türkiye,Centre-Forward,CF,3000000.0,Bursaspor,Türkiye,250000.0,0
+2013,Super Lig,Galatasaray,summer,out,Erman Kılıç,53556,29,Türkiye,Attacking Midfield,AM,3700000.0,Eskisehirspor,Türkiye,200000.0,0
+2013,Super Lig,Galatasaray,summer,out,Sercan Yıldırım,47604,23,Türkiye,Right Winger,RW,1200000.0,Sanliurfaspor,Türkiye,150000.0,1
+2013,Super Lig,Galatasaray,summer,out,Furkan Özçal,57854,22,Türkiye,Central Midfield,CM,700000.0,Kardemir Karabükspor,Türkiye,100000.0,1
+2013,Super Lig,Galatasaray,summer,out,Mehmet Batdal,58378,27,Türkiye,Centre-Forward,CF,650000.0,Istanbul Büyüksehir Belediyespor,Türkiye,0.0,0
+2013,Super Lig,Galatasaray,summer,out,Tomas Ujfalusi,325,35,Czech Republic,Centre-Back,CB,300000.0,AC Sparta Prague,Czech Republic,0.0,0
+2013,Super Lig,Galatasaray,summer,out,Emmanuel Culio,30846,29,Argentina,Central Midfield,CM,2500000.0,Deportivo de La Coruña,Spain,0.0,0
+2013,Super Lig,Galatasaray,summer,out,Çağlar Birinci,22952,27,Türkiye,Centre-Back,CB,500000.0,Elazigspor,Türkiye,0.0,0
+2013,Super Lig,Galatasaray,summer,out,Serdar Eylik,85667,23,Türkiye,Left Winger,LW,400000.0,Ankaraspor,Türkiye,0.0,1
+2013,Super Lig,Galatasaray,summer,out,Umut Bulut,10143,30,Türkiye,Centre-Forward,CF,5000000.0,FC Toulouse,France,0.0,1
+2013,Super Lig,Galatasaray,summer,out,Felipe Melo,35537,30,Brazil,Defensive Midfield,DM,11000000.0,Juventus FC,Italy,0.0,1
+2013,Super Lig,Galatasaray,winter,out,Nordin Amrabat,55619,26,Morocco,Right Winger,RW,4600000.0,Málaga CF,Spain,300000.0,1
+2013,Super Lig,Galatasaray,winter,out,Sercan Yıldırım,47604,23,Türkiye,Right Winger,RW,1400000.0,Bursaspor,Türkiye,100000.0,1
+2013,Super Lig,Galatasaray,winter,out,Anıl Dilaver,85663,23,Türkiye,Centre-Forward,CF,100000.0,Bucaspor,Türkiye,0.0,0
+2013,Super Lig,Galatasaray,winter,out,Dany Nounkeu,113938,27,Cameroon,Centre-Back,CB,4000000.0,Besiktas JK,Türkiye,0.0,1
+2013,Super Lig,Galatasaray,winter,out,Bruma,139396,19,Portugal,Left Winger,LW,10000000.0,Gaziantepspor,Türkiye,0.0,1
+2013,Super Lig,Galatasaray,winter,out,Yiğit Gökoğlan,56587,24,Türkiye,Right Winger,RW,1000000.0,Kayseri Erciyesspor,Türkiye,0.0,1
+2013,Super Lig,Galatasaray,winter,out,Engin Baytar,8399,30,Türkiye,Attacking Midfield,AM,2000000.0,Caykur Rizespor,Türkiye,0.0,1
+2013,Super Lig,Galatasaray,winter,out,Albert Riera,7373,31,Spain,Left Midfield,LM,3750000.0,Without Club,,,0
+2013,Super Lig,Gaziantepspor,summer,in,Darvydas Sernas,63289,28,Lithuania,Centre-Forward,CF,900000.0,Zaglebie Lubin,Poland,150000.0,0
+2013,Super Lig,Gaziantepspor,summer,in,Serdar Kulbilge,7311,33,Türkiye,Goalkeeper,GK,150000.0,Boluspor,Türkiye,0.0,0
+2013,Super Lig,Gaziantepspor,summer,in,Marius Stankevicius,5966,32,Lithuania,Centre-Back,CB,300000.0,SS Lazio,Italy,0.0,0
+2013,Super Lig,Gaziantepspor,summer,in,Koray Öztürk,58661,26,Türkiye,Left-Back,LB,75000.0,Bandirmaspor,Türkiye,0.0,0
+2013,Super Lig,Gaziantepspor,summer,in,Semir Stilic,46340,25,Bosnia-Herzegovina,Attacking Midfield,AM,1300000.0,Karpaty Lviv,Ukraine,0.0,0
+2013,Super Lig,Gaziantepspor,summer,in,Artem Milevskyi,9800,28,Ukraine,Centre-Forward,CF,2500000.0,Dynamo Kyiv,Ukraine,0.0,0
+2013,Super Lig,Gaziantepspor,summer,in,Uğur Kavuk,29678,33,Türkiye,Right-Back,RB,400000.0,Sivasspor,Türkiye,0.0,0
+2013,Super Lig,Gaziantepspor,summer,in,Mustafa Durak,132154,25,Türkiye,Attacking Midfield,AM,200000.0,Chamois Niortais FC,France,0.0,0
+2013,Super Lig,Gaziantepspor,summer,in,Erman Bulucu,49121,24,Türkiye,Centre-Back,CB,50000.0,Sancaktepe Belediye Spor,Türkiye,,0
+2013,Super Lig,Gaziantepspor,winter,in,Oğulcan Çağlayan,248219,17,Türkiye,Right Winger,RW,100000.0,Bursaspor U18,Türkiye,130000.0,0
+2013,Super Lig,Gaziantepspor,winter,in,Birol Hikmet,58830,31,Türkiye,Defensive Midfield,DM,700000.0,Adana Demirspor,Türkiye,0.0,0
+2013,Super Lig,Gaziantepspor,winter,in,Muhammed Ildiz,59059,22,Austria,Central Midfield,CM,500000.0,1.FC Nuremberg,Germany,0.0,0
+2013,Super Lig,Gaziantepspor,winter,in,Bruma,139396,19,Portugal,Left Winger,LW,10000000.0,Galatasaray,Türkiye,0.0,1
+2013,Super Lig,Gaziantepspor,winter,in,Marek Sapara,40059,31,Slovakia,Attacking Midfield,AM,1500000.0,Without Club,,,0
+2013,Super Lig,Gaziantepspor,summer,out,Serdar Kurtuluş,35275,26,Türkiye,Right-Back,RB,3000000.0,Besiktas JK,Türkiye,1750000.0,0
+2013,Super Lig,Gaziantepspor,summer,out,Rıdvan Şimşek,90983,22,Türkiye,Right-Back,RB,300000.0,Karsiyaka,Türkiye,0.0,0
+2013,Super Lig,Gaziantepspor,summer,out,Yasin Pehlivan,64016,24,Austria,Defensive Midfield,DM,1400000.0,Bursaspor,Türkiye,0.0,0
+2013,Super Lig,Gaziantepspor,summer,out,Mahmut Bezgin,44972,27,Türkiye,Goalkeeper,GK,250000.0,Mersin Idmanyurdu,Türkiye,0.0,0
+2013,Super Lig,Gaziantepspor,summer,out,Eray Birniçan,45212,25,Türkiye,Goalkeeper,GK,100000.0,Caykur Rizespor,Türkiye,,0
+2013,Super Lig,Gaziantepspor,summer,out,Wílton Figueiredo,36262,31,Brazil,Second Striker,SS,600000.0,Without Club,,,0
+2013,Super Lig,Gaziantepspor,summer,out,Dorge Kouemaha,29220,30,Cameroon,Centre-Forward,CF,900000.0,Club Brugge KV,Belgium,0.0,1
+2013,Super Lig,Gaziantepspor,summer,out,Darvydas Sernas,63289,28,Lithuania,Centre-Forward,CF,900000.0,Zaglebie Lubin,Poland,0.0,1
+2013,Super Lig,Gaziantepspor,summer,out,Oktay Delibalta,85783,27,Türkiye,Attacking Midfield,AM,1200000.0,Genclerbirligi Ankara,Türkiye,0.0,1
+2013,Super Lig,Gaziantepspor,winter,out,Ivan Kecojevic,69005,25,Montenegro,Centre-Back,CB,1500000.0,FC Zürich,Switzerland,0.0,0
+2013,Super Lig,Gaziantepspor,winter,out,Taşkın Çalış,95967,20,Türkiye,Defensive Midfield,DM,800000.0,Bursaspor,Türkiye,0.0,0
+2013,Super Lig,Gaziantepspor,winter,out,Semir Stilic,46340,26,Bosnia-Herzegovina,Attacking Midfield,AM,1300000.0,Wisla Kraków,Poland,0.0,0
+2013,Super Lig,Gaziantepspor,winter,out,Koray Öztürk,58661,26,Türkiye,Left-Back,LB,75000.0,Tarsus Idman Yurdu,Türkiye,0.0,0
+2013,Super Lig,Gaziantepspor,winter,out,Süleyman Özdamar,131790,20,Türkiye,Centre-Back,CB,100000.0,Bayrampasa Spor,Türkiye,0.0,0
+2013,Super Lig,Gaziantepspor,winter,out,Darvydas Sernas,63289,29,Lithuania,Centre-Forward,CF,700000.0,Perth Glory,Australia,0.0,1
+2013,Super Lig,Gaziantepspor,winter,out,Artem Milevskyi,9800,29,Ukraine,Centre-Forward,CF,1000000.0,Without Club,,,0
+2013,Super Lig,Gaziantepspor,winter,out,Uğur Kavuk,29678,34,Türkiye,Right-Back,RB,400000.0,Without Club,,,0
+2013,Super Lig,Gaziantepspor,winter,out,Özden Öngün,7397,35,Türkiye,Goalkeeper,GK,100000.0,Retired,,,0
+2013,Super Lig,Genclerbirligi Ankara,summer,in,Bogdan Stancu,46658,26,Romania,Centre-Forward,CF,3500000.0,Orduspor,Türkiye,1500000.0,0
+2013,Super Lig,Genclerbirligi Ankara,summer,in,Mervan Çelik,72237,23,Sweden,Left Winger,LW,1100000.0,Delfino Pescara 1936,Italy,500000.0,0
+2013,Super Lig,Genclerbirligi Ankara,summer,in,Deniz Naki,52317,24,Germany,Second Striker,SS,600000.0,SC Paderborn 07,Germany,200000.0,0
+2013,Super Lig,Genclerbirligi Ankara,summer,in,Ferhat Görgülü,120050,21,Türkiye,Centre-Back,CB,100000.0,FC Oss,Netherlands,35000.0,0
+2013,Super Lig,Genclerbirligi Ankara,summer,in,Uğur Çiftçi,172163,21,Türkiye,Left-Back,LB,50000.0,Hacettepe Spor,Türkiye,0.0,0
+2013,Super Lig,Genclerbirligi Ankara,summer,in,Mehmet Çiçek,185787,20,Türkiye,Centre-Back,CB,,Hacettepe Spor,Türkiye,0.0,0
+2013,Super Lig,Genclerbirligi Ankara,summer,in,Sedat Bayrak,8709,32,Türkiye,Centre-Back,CB,600000.0,Elazigspor,Türkiye,0.0,0
+2013,Super Lig,Genclerbirligi Ankara,summer,in,Jean-Jacques Gosso,80696,30,Cote d'Ivoire,Defensive Midfield,DM,1500000.0,Mersin Idmanyurdu,Türkiye,0.0,0
+2013,Super Lig,Genclerbirligi Ankara,summer,in,Nizamettin Çalışkan,30431,26,Türkiye,Defensive Midfield,DM,1300000.0,Orduspor,Türkiye,0.0,0
+2013,Super Lig,Genclerbirligi Ankara,summer,in,Milan Smiljanic,34412,26,Serbia,Defensive Midfield,DM,750000.0,FK Partizan Belgrade,Serbia,0.0,0
+2013,Super Lig,Genclerbirligi Ankara,summer,in,Serkan Yanık,58749,26,Türkiye,Centre-Back,CB,500000.0,Mersin Idmanyurdu,Türkiye,0.0,0
+2013,Super Lig,Genclerbirligi Ankara,winter,in,Artem Radkov,15069,28,Belarus,Centre-Back,CB,1500000.0,BATE Borisov,Belarus,290000.0,0
+2013,Super Lig,Genclerbirligi Ankara,winter,in,Hakan Aslantas,34161,28,Türkiye,Right-Back,RB,1000000.0,Bursaspor,Türkiye,0.0,0
+2013,Super Lig,Genclerbirligi Ankara,winter,in,Johan Dahlin,41653,27,Sweden,Goalkeeper,GK,1300000.0,Malmö FF,Sweden,,0
+2013,Super Lig,Genclerbirligi Ankara,summer,out,Aykut Demir,37722,24,Türkiye,Centre-Back,CB,5000000.0,Trabzonspor,Türkiye,2900000.0,0
+2013,Super Lig,Genclerbirligi Ankara,summer,out,Randall Azofeifa,39564,28,Costa Rica,Defensive Midfield,DM,3000000.0,Kayseri Erciyesspor,Türkiye,0.0,0
+2013,Super Lig,Genclerbirligi Ankara,summer,out,Mahmut Boz,85302,22,Türkiye,Centre-Back,CB,600000.0,Eskisehirspor,Türkiye,0.0,0
+2013,Super Lig,Genclerbirligi Ankara,summer,out,Onur Bayramoğlu,122649,23,Türkiye,Central Midfield,CM,200000.0,Eskisehirspor,Türkiye,0.0,0
+2013,Super Lig,Genclerbirligi Ankara,summer,out,Kerim Zengin,8548,28,Türkiye,Right-Back,RB,700000.0,Akhisar Belediyespor,Türkiye,0.0,0
+2013,Super Lig,Genclerbirligi Ankara,summer,out,Mustafa Kayabaşı,119298,25,Türkiye,Attacking Midfield,AM,200000.0,Balikesirspor,Türkiye,0.0,0
+2013,Super Lig,Genclerbirligi Ankara,summer,out,Cem Can,44608,32,Türkiye,Right-Back,RB,1500000.0,Kayseri Erciyesspor,Türkiye,0.0,0
+2013,Super Lig,Genclerbirligi Ankara,summer,out,Ferhat Çapa,124651,22,Türkiye,Central Midfield,CM,50000.0,Kayseri Erciyesspor,Türkiye,0.0,0
+2013,Super Lig,Genclerbirligi Ankara,summer,out,Debatik Curri,43297,29,Albania,Centre-Back,CB,800000.0,Goverla Uzhgorod (- 2016),Ukraine,0.0,0
+2013,Super Lig,Genclerbirligi Ankara,summer,out,Özkan Karabulut,85339,22,Türkiye,Goalkeeper,GK,400000.0,Ankaraspor,Türkiye,0.0,1
+2013,Super Lig,Genclerbirligi Ankara,summer,out,Mehmet Çiçek,185787,20,Türkiye,Centre-Back,CB,,Denizlispor,Türkiye,0.0,1
+2013,Super Lig,Genclerbirligi Ankara,summer,out,Tayfur Bingöl,184440,20,Türkiye,Central Midfield,CM,100000.0,Bandirmaspor,Türkiye,0.0,1
+2013,Super Lig,Genclerbirligi Ankara,summer,out,Dejan Lekic,49795,28,Serbia,Centre-Forward,CF,1500000.0,Sporting Gijón,Spain,0.0,1
+2013,Super Lig,Genclerbirligi Ankara,summer,out,Artun Akçakın,137611,20,Türkiye,Centre-Forward,CF,500000.0,Fethiyespor,Türkiye,0.0,1
+2013,Super Lig,Genclerbirligi Ankara,summer,out,Mahmut Bilir,224874,18,Türkiye,Defensive Midfield,DM,50000.0,Hacettepe Spor,Türkiye,0.0,1
+2013,Super Lig,Genclerbirligi Ankara,summer,out,İrfan Can Kahveci,216603,18,Türkiye,Right Winger,RW,50000.0,Hacettepe Spor,Türkiye,0.0,1
+2013,Super Lig,Genclerbirligi Ankara,summer,out,Ehiosun Ekigho,181417,23,Nigeria,Centre-Forward,CF,600000.0,Samsunspor,Türkiye,0.0,1
+2013,Super Lig,Genclerbirligi Ankara,summer,out,Hursut Meriç,56372,30,Türkiye,Right Winger,RW,2500000.0,Caykur Rizespor,Türkiye,,0
+2013,Super Lig,Genclerbirligi Ankara,summer,out,Okan Köse,187781,20,Türkiye,Right Winger,RW,,Without Club,,,0
+2013,Super Lig,Genclerbirligi Ankara,summer,out,Björn Vleminckx,13103,27,Belgium,Centre-Forward,CF,3500000.0,Club Brugge KV,Belgium,0.0,1
+2013,Super Lig,Genclerbirligi Ankara,summer,out,Muhammed Güclü,669818,18,Türkiye,Midfielder,Midfielder,,Hacettepe Spor,Türkiye,0.0,1
+2013,Super Lig,Genclerbirligi Ankara,winter,out,Serkan Yanık,58749,26,Türkiye,Centre-Back,CB,400000.0,Mersin Idmanyurdu,Türkiye,0.0,0
+2013,Super Lig,Genclerbirligi Ankara,winter,out,İlkay Durmuş,119549,19,Türkiye,Left Winger,LW,150000.0,Antalyaspor,Türkiye,0.0,0
+2013,Super Lig,Genclerbirligi Ankara,winter,out,Atabey Çiçek,204180,18,Türkiye,Centre-Forward,CF,250000.0,Boluspor,Türkiye,0.0,1
+2013,Super Lig,Genclerbirligi Ankara,winter,out,Recep Karabacak,251086,15,Türkiye,Centre-Forward,CF,,Hacettepe Spor,Türkiye,0.0,1
+2013,Super Lig,Kardemir Karabükspor,summer,in,Sébastien Puygrenier,5667,31,France,Centre-Back,CB,1500000.0,AS Nancy-Lorraine,France,300000.0,0
+2013,Super Lig,Kardemir Karabükspor,summer,in,Joseph Akpala,38000,27,Nigeria,Centre-Forward,CF,1500000.0,SV Werder Bremen,Germany,250000.0,1
+2013,Super Lig,Kardemir Karabükspor,summer,in,Furkan Özçal,57854,22,Türkiye,Central Midfield,CM,700000.0,Galatasaray,Türkiye,100000.0,1
+2013,Super Lig,Kardemir Karabükspor,summer,in,Erkan Kaş,165711,21,Türkiye,Left-Back,LB,350000.0,Besiktas JK,Türkiye,50000.0,1
+2013,Super Lig,Kardemir Karabükspor,summer,in,Morten Gamst Pedersen,22741,31,Norway,Central Midfield,CM,2000000.0,Blackburn Rovers,England,0.0,0
+2013,Super Lig,Kardemir Karabükspor,summer,in,Eren Güngör,58829,25,Türkiye,Centre-Back,CB,2500000.0,Kayserispor,Türkiye,0.0,0
+2013,Super Lig,Kardemir Karabükspor,summer,in,Boy Waterman,4391,29,Netherlands,Goalkeeper,GK,1500000.0,PSV Eindhoven,Netherlands,0.0,0
+2013,Super Lig,Kardemir Karabükspor,summer,in,Samba Sow,89461,24,Mali,Defensive Midfield,DM,1000000.0,RC Lens,France,0.0,0
+2013,Super Lig,Kardemir Karabükspor,summer,in,Emre Özkan,47310,24,Türkiye,Centre-Back,CB,350000.0,Besiktas JK,Türkiye,0.0,0
+2013,Super Lig,Kardemir Karabükspor,summer,in,Beykan Şimşek,176341,18,Türkiye,Left Winger,LW,400000.0,Fenerbahce,Türkiye,0.0,1
+2013,Super Lig,Kardemir Karabükspor,winter,in,Murat Akça,66953,23,Türkiye,Centre-Back,CB,700000.0,Sivasspor,Türkiye,0.0,0
+2013,Super Lig,Kardemir Karabükspor,winter,in,Musa Çağıran,90959,21,Türkiye,Defensive Midfield,DM,2000000.0,Bursaspor,Türkiye,0.0,0
+2013,Super Lig,Kardemir Karabükspor,winter,in,Jones Carioca,157979,25,Brazil,Centre-Forward,CF,300000.0,Club Deportivo Maldonado,Uruguay,0.0,1
+2013,Super Lig,Kardemir Karabükspor,winter,in,Michael Eneramo,49838,28,Nigeria,Centre-Forward,CF,3500000.0,Besiktas JK,Türkiye,0.0,1
+2013,Super Lig,Kardemir Karabükspor,summer,out,Güven Varol,10139,32,Türkiye,Right Midfield,RM,300000.0,Mersin Idmanyurdu,Türkiye,0.0,0
+2013,Super Lig,Kardemir Karabükspor,summer,out,Birol Hikmet,58830,31,Türkiye,Defensive Midfield,DM,1000000.0,Adana Demirspor,Türkiye,0.0,0
+2013,Super Lig,Kardemir Karabükspor,summer,out,Hakan Söyler,34171,30,Türkiye,Defensive Midfield,DM,400000.0,Elazigspor,Türkiye,0.0,0
+2013,Super Lig,Kardemir Karabükspor,summer,out,Kagan Söylemezgiller,56528,25,Türkiye,Central Midfield,CM,700000.0,Caykur Rizespor,Türkiye,0.0,0
+2013,Super Lig,Kardemir Karabükspor,summer,out,Armand Deumi,4873,34,Cameroon,Centre-Back,CB,500000.0,Gaziantep Büyüksehir Belediyespor,Türkiye,0.0,0
+2013,Super Lig,Kardemir Karabükspor,summer,out,Vjekoslav Tomic,28124,30,Croatia,Goalkeeper,GK,1400000.0,FC Sheriff Tiraspol,Moldova,0.0,0
+2013,Super Lig,Kardemir Karabükspor,summer,out,Luton Shelton,38768,27,Jamaica,Left Winger,LW,2500000.0,Volga Nizhniy Novgorod,Russia,0.0,0
+2013,Super Lig,Kardemir Karabükspor,summer,out,Aybars Garhan,204152,22,Türkiye,Centre-Forward,CF,400000.0,Adana Demirspor,Türkiye,0.0,1
+2013,Super Lig,Kardemir Karabükspor,summer,out,Bertul Kocabaş,114735,21,Türkiye,Attacking Midfield,AM,300000.0,Eskisehirspor,Türkiye,0.0,1
+2013,Super Lig,Kardemir Karabükspor,summer,out,Anıl Karaer,50657,25,Türkiye,Centre-Back,CB,500000.0,Mersin Idmanyurdu,Türkiye,0.0,1
+2013,Super Lig,Kardemir Karabükspor,summer,out,Umut Sözen,51655,23,Türkiye,Central Midfield,CM,400000.0,Manisaspor,Türkiye,0.0,1
+2013,Super Lig,Kardemir Karabükspor,summer,out,Ceyhun Yazar,213028,21,Türkiye,Right-Back,RB,100000.0,Yeni Diyarbakir Spor,Türkiye,0.0,1
+2013,Super Lig,Kardemir Karabükspor,summer,out,Selim Teber,831,32,Germany,Central Midfield,CM,500000.0,MKE Ankaragücü,Türkiye,,0
+2013,Super Lig,Kardemir Karabükspor,summer,out,Anthony Seric,5967,34,Croatia,Left-Back,LB,400000.0,Without Club,,,0
+2013,Super Lig,Kardemir Karabükspor,summer,out,Sanel Jahic,28719,31,Bosnia-Herzegovina,Centre-Back,CB,600000.0,Without Club,,,0
+2013,Super Lig,Kardemir Karabükspor,summer,out,Gökhan Ünal,7394,31,Türkiye,Centre-Forward,CF,1000000.0,Without Club,,,0
+2013,Super Lig,Kardemir Karabükspor,summer,out,Adem Candir,125829,20,Türkiye,Midfielder,Midfielder,50000.0,Without Club,,,0
+2013,Super Lig,Kardemir Karabükspor,winter,out,Lomana LuaLua,3458,33,DR Congo,Centre-Forward,CF,1000000.0,Caykur Rizespor,Türkiye,0.0,0
+2013,Super Lig,Kardemir Karabükspor,winter,out,Morten Gamst Pedersen,22741,32,Norway,Central Midfield,CM,1300000.0,Rosenborg BK,Norway,0.0,0
+2013,Super Lig,Kardemir Karabükspor,winter,out,Umut Sözen,51655,24,Türkiye,Central Midfield,CM,500000.0,Adana Demirspor,Türkiye,0.0,1
+2013,Super Lig,Kasimpasa,summer,in,Oscar Scarione,47011,27,Argentina,Attacking Midfield,AM,2000000.0,FC St. Gallen 1879,Switzerland,2800000.0,0
+2013,Super Lig,Kasimpasa,summer,in,Sanharib Malki,20351,29,Syria,Centre-Forward,CF,2000000.0,Roda JC Kerkrade,Netherlands,1500000.0,0
+2013,Super Lig,Kasimpasa,summer,in,Orhan Şam,10121,27,Türkiye,Right-Back,RB,1800000.0,Fenerbahce,Türkiye,1000000.0,0
+2013,Super Lig,Kasimpasa,summer,in,Castro,58267,25,Portugal,Central Midfield,CM,3500000.0,FC Porto,Portugal,1000000.0,1
+2013,Super Lig,Kasimpasa,summer,in,Ryan Babel,16135,26,Netherlands,Left Winger,LW,4000000.0,Ajax Amsterdam,Netherlands,0.0,0
+2013,Super Lig,Kasimpasa,summer,in,Kubilay Aktaş,274466,18,Türkiye,Defensive Midfield,DM,,AS Saint-Étienne U19,France,,0
+2013,Super Lig,Kasimpasa,summer,in,Ryan Donk,38414,27,Suriname,Centre-Back,CB,3500000.0,Club Brugge KV,Belgium,,0
+2013,Super Lig,Kasimpasa,summer,in,Kafoumba Coulibaly,66788,27,Cote d'Ivoire,Defensive Midfield,DM,1000000.0,Without Club,,,0
+2013,Super Lig,Kasimpasa,winter,in,Tunay Torun,39247,23,Türkiye,Right Winger,RW,1500000.0,VfB Stuttgart,Germany,500000.0,0
+2013,Super Lig,Kasimpasa,winter,in,Alpaslan Öztürk,138736,20,Türkiye,Centre-Back,CB,1500000.0,Standard Liège,Belgium,0.0,1
+2013,Super Lig,Kasimpasa,summer,out,Kalu Uche,6585,30,Nigeria,Centre-Forward,CF,4500000.0,El-Jaish SC (- 2017),Qatar,3500000.0,0
+2013,Super Lig,Kasimpasa,summer,out,Santiago García,102432,22,Uruguay,Centre-Forward,CF,700000.0,Club Nacional,Uruguay,0.0,0
+2013,Super Lig,Kasimpasa,summer,out,Senijad Ibricic,27861,27,Bosnia-Herzegovina,Attacking Midfield,AM,2500000.0,Kayseri Erciyesspor,Türkiye,0.0,0
+2013,Super Lig,Kasimpasa,summer,out,Georgi Sarmov,44759,27,Bulgaria,Defensive Midfield,DM,800000.0,Botev Plovdiv,Bulgaria,0.0,0
+2013,Super Lig,Kasimpasa,summer,out,Pablo Pintos,76728,26,Uruguay,Right-Back,RB,500000.0,Club Atlético Tigre,Argentina,0.0,1
+2013,Super Lig,Kasimpasa,summer,out,Abdurrahman Dereli,7937,32,Türkiye,Right-Back,RB,1000000.0,Sivasspor,Türkiye,,0
+2013,Super Lig,Kasimpasa,summer,out,Taner Yıldız,186770,20,Türkiye,Central Midfield,CM,50000.0,Bayrampasa Spor,Türkiye,,0
+2013,Super Lig,Kasimpasa,summer,out,Fabian Ernst,299,34,Germany,Defensive Midfield,DM,,Career break,,,0
+2013,Super Lig,Kasimpasa,summer,out,Hüseyin Kala,159029,26,Türkiye,Right Winger,RW,600000.0,Without Club,,,0
+2013,Super Lig,Kasimpasa,summer,out,Djalma,51191,26,Angola,Right Winger,RW,3800000.0,FC Porto,Portugal,0.0,1
+2013,Super Lig,Kasimpasa,winter,out,Özer Hurmacı,45004,27,Türkiye,Attacking Midfield,AM,2300000.0,Trabzonspor,Türkiye,500000.0,1
+2013,Super Lig,Kasimpasa,winter,out,Pablo Pintos,76728,26,Uruguay,Right-Back,RB,500000.0,Defensor Sporting Club,Uruguay,0.0,0
+2013,Super Lig,Kasimpasa,winter,out,Şahin Aygüneş,57561,23,Türkiye,Left Winger,LW,400000.0,Trabzonspor,Türkiye,0.0,0
+2013,Super Lig,Kayseri Erciyesspor,summer,in,Georges Mandjeck,52112,24,Cameroon,Defensive Midfield,DM,1500000.0,AJ Auxerre,France,1000000.0,0
+2013,Super Lig,Kayseri Erciyesspor,summer,in,Yasin Öztekin,31867,26,Türkiye,Centre-Forward,CF,3500000.0,Trabzonspor,Türkiye,450000.0,0
+2013,Super Lig,Kayseri Erciyesspor,summer,in,Kerim Avcı,76569,23,Türkiye,Attacking Midfield,AM,175000.0,Rot-Weiss Essen,Germany,100000.0,0
+2013,Super Lig,Kayseri Erciyesspor,summer,in,Volkan Okumak,115793,23,Türkiye,Left Winger,LW,75000.0,SC Wiedenbrück,Germany,50000.0,0
+2013,Super Lig,Kayseri Erciyesspor,summer,in,Erhan Güven,33794,31,Türkiye,Right-Back,RB,800000.0,Sivasspor,Türkiye,0.0,0
+2013,Super Lig,Kayseri Erciyesspor,summer,in,Ekrem Ekşioğlu,8680,35,Türkiye,Left-Back,LB,300000.0,Istanbul Büyüksehir Belediyespor,Türkiye,0.0,0
+2013,Super Lig,Kayseri Erciyesspor,summer,in,Fazlı Kocabaş,42733,23,Belgium,Centre-Back,CB,400000.0,KAS Eupen,Belgium,0.0,0
+2013,Super Lig,Kayseri Erciyesspor,summer,in,Ziri Hammar,131918,21,Algeria,Right Winger,RW,500000.0,AS Nancy-Lorraine,France,0.0,0
+2013,Super Lig,Kayseri Erciyesspor,summer,in,Senijad Ibricic,27861,27,Bosnia-Herzegovina,Attacking Midfield,AM,2500000.0,Kasimpasa,Türkiye,0.0,0
+2013,Super Lig,Kayseri Erciyesspor,summer,in,Turgay Bahadır,16499,29,Türkiye,Centre-Forward,CF,1500000.0,Istanbul Büyüksehir Belediyespor,Türkiye,0.0,0
+2013,Super Lig,Kayseri Erciyesspor,summer,in,Emre Dönmez,291669,21,Türkiye,Attacking Midfield,AM,,Genclerbirligi Ankara U21,Türkiye,0.0,0
+2013,Super Lig,Kayseri Erciyesspor,summer,in,Hansell Arauz,128352,23,Costa Rica,Right Midfield,RM,300000.0,CS Cartaginés,Costa Rica,0.0,0
+2013,Super Lig,Kayseri Erciyesspor,summer,in,Cem Can,44608,32,Türkiye,Right-Back,RB,1500000.0,Genclerbirligi Ankara,Türkiye,0.0,0
+2013,Super Lig,Kayseri Erciyesspor,summer,in,Murat Akın,33530,26,Türkiye,Central Midfield,CM,500000.0,Konyaspor,Türkiye,0.0,0
+2013,Super Lig,Kayseri Erciyesspor,summer,in,Ferhat Çapa,124651,22,Türkiye,Central Midfield,CM,50000.0,Genclerbirligi Ankara,Türkiye,0.0,0
+2013,Super Lig,Kayseri Erciyesspor,summer,in,Sinan Kaloğlu,6873,32,Türkiye,Centre-Forward,CF,400000.0,Elazigspor,Türkiye,0.0,0
+2013,Super Lig,Kayseri Erciyesspor,summer,in,Randall Azofeifa,39564,28,Costa Rica,Defensive Midfield,DM,3000000.0,Genclerbirligi Ankara,Türkiye,0.0,0
+2013,Super Lig,Kayseri Erciyesspor,summer,in,Uğur Demirkol,45951,23,Türkiye,Left-Back,LB,75000.0,1.FC Union Berlin II,Germany,0.0,0
+2013,Super Lig,Kayseri Erciyesspor,summer,in,Bakaye Traoré,45168,28,Mali,Central Midfield,CM,1200000.0,AC Milan,Italy,0.0,1
+2013,Super Lig,Kayseri Erciyesspor,summer,in,Kader Mangane,4796,30,Senegal,Centre-Back,CB,1500000.0,Al-Hilal SFC,Saudi Arabia,0.0,1
+2013,Super Lig,Kayseri Erciyesspor,summer,in,Bojan Jorgacevic,36877,31,Serbia,Goalkeeper,GK,1000000.0,Club Brugge KV,Belgium,,0
+2013,Super Lig,Kayseri Erciyesspor,summer,in,Björn Vleminckx,13103,27,Belgium,Centre-Forward,CF,3500000.0,Club Brugge KV,Belgium,,0
+2013,Super Lig,Kayseri Erciyesspor,summer,in,Ugur Gazi,216679,25,,Attacking Midfield,AM,,FC Titus Lamadelaine (- 2015),Luxembourg,,0
+2013,Super Lig,Kayseri Erciyesspor,winter,in,Murat Yıldırım,35530,26,Türkiye,Central Midfield,CM,2500000.0,Bursaspor,Türkiye,225000.0,0
+2013,Super Lig,Kayseri Erciyesspor,winter,in,Josef Cinar,8740,29,Germany,Centre-Back,CB,250000.0,Chemnitzer FC,Germany,0.0,0
+2013,Super Lig,Kayseri Erciyesspor,winter,in,Edinho,29366,31,Portugal,Centre-Forward,CF,1500000.0,SC Braga,Portugal,0.0,0
+2013,Super Lig,Kayseri Erciyesspor,winter,in,Yakup Zorlu,125920,22,Türkiye,Centre-Forward,CF,50000.0,Giresunspor,Türkiye,0.0,0
+2013,Super Lig,Kayseri Erciyesspor,winter,in,Gökhan Değirmenci,58534,24,Türkiye,Goalkeeper,GK,1400000.0,Kayserispor,Türkiye,0.0,0
+2013,Super Lig,Kayseri Erciyesspor,winter,in,Cenk Ahmet Alkılıç,68211,26,Türkiye,Right-Back,RB,1000000.0,Caykur Rizespor,Türkiye,0.0,1
+2013,Super Lig,Kayseri Erciyesspor,winter,in,Pape Diakhaté,28318,29,Senegal,Centre-Back,CB,3000000.0,Granada CF,Spain,0.0,1
+2013,Super Lig,Kayseri Erciyesspor,winter,in,Yiğit Gökoğlan,56587,24,Türkiye,Right Winger,RW,1000000.0,Galatasaray,Türkiye,0.0,1
+2013,Super Lig,Kayseri Erciyesspor,winter,in,Mehmet Akgün,10504,27,Türkiye,Central Midfield,CM,400000.0,Besiktas JK,Türkiye,,0
+2013,Super Lig,Kayseri Erciyesspor,winter,in,Hüseyin Kala,159029,26,Türkiye,Right Winger,RW,600000.0,Without Club,,,0
+2013,Super Lig,Kayseri Erciyesspor,winter,in,Ramazan Övüç,208604,19,Türkiye,Central Midfield,CM,100000.0,Without Club,,,0
+2013,Super Lig,Kayseri Erciyesspor,summer,out,Bilal Aziz Özer,18831,28,Germany,Left-Back,LB,450000.0,Ankaraspor,Türkiye,0.0,0
+2013,Super Lig,Kayseri Erciyesspor,summer,out,Volkan Özcan,55847,26,Türkiye,Right-Back,RB,150000.0,Göztepe,Türkiye,0.0,0
+2013,Super Lig,Kayseri Erciyesspor,summer,out,Onur Bilgin,117981,27,Türkiye,Goalkeeper,GK,50000.0,Fethiyespor,Türkiye,0.0,0
+2013,Super Lig,Kayseri Erciyesspor,summer,out,Hüseyin Yoğurtçu,29503,30,Türkiye,Left-Back,LB,,Inegölspor,Türkiye,0.0,0
+2013,Super Lig,Kayseri Erciyesspor,summer,out,Fatih Kılıçkaya,79067,28,Türkiye,Centre-Back,CB,350000.0,Samsunspor,Türkiye,0.0,0
+2013,Super Lig,Kayseri Erciyesspor,summer,out,Tuna Kaya,35273,29,Türkiye,Right-Back,RB,200000.0,Orduspor,Türkiye,0.0,0
+2013,Super Lig,Kayseri Erciyesspor,summer,out,Mustafa Serkan Güçlü,208600,21,Türkiye,Attacking Midfield,AM,,Kayseri Sekerspor,Türkiye,0.0,0
+2013,Super Lig,Kayseri Erciyesspor,summer,out,Sofiane Hanni,113358,22,Algeria,Attacking Midfield,AM,2000000.0,Ankaraspor,Türkiye,0.0,0
+2013,Super Lig,Kayseri Erciyesspor,summer,out,Veli Torun,198073,25,Türkiye,Central Midfield,CM,75000.0,MKE Ankaragücü,Türkiye,0.0,0
+2013,Super Lig,Kayseri Erciyesspor,summer,out,Mustafa İşçelebi,265475,28,Türkiye,Left-Back,LB,,Ankaraspor,Türkiye,0.0,0
+2013,Super Lig,Kayseri Erciyesspor,summer,out,Alaattin Tosun,2617,29,Türkiye,Defensive Midfield,DM,150000.0,Istanbul Büyüksehir Belediyespor,Türkiye,0.0,0
+2013,Super Lig,Kayseri Erciyesspor,summer,out,Ragıp Başdağ,17448,35,Türkiye,Defensive Midfield,DM,100000.0,Ankaraspor,Türkiye,0.0,0
+2013,Super Lig,Kayseri Erciyesspor,summer,out,Göksu Türkdoğan,179478,28,Türkiye,Centre-Forward,CF,250000.0,Ankaraspor,Türkiye,0.0,0
+2013,Super Lig,Kayseri Erciyesspor,summer,out,Veysel Aksu,16061,28,Türkiye,Centre-Back,CB,250000.0,Istanbul Büyüksehir Belediyespor,Türkiye,0.0,0
+2013,Super Lig,Kayseri Erciyesspor,summer,out,Arif Şahin,58620,27,Türkiye,Attacking Midfield,AM,300000.0,Gaziantep Büyüksehir Belediyespor,Türkiye,0.0,0
+2013,Super Lig,Kayseri Erciyesspor,summer,out,Gerard Gohou,141796,24,Rwanda,Centre-Forward,CF,2000000.0,FC Krasnodar,Russia,0.0,0
+2013,Super Lig,Kayseri Erciyesspor,summer,out,Emrah Bozkurt,56715,33,Türkiye,Centre-Forward,CF,150000.0,Mersin Idmanyurdu,Türkiye,0.0,0
+2013,Super Lig,Kayseri Erciyesspor,summer,out,Kenan Sahin,8690,28,Türkiye,Centre-Forward,CF,150000.0,Mersin Idmanyurdu,Türkiye,0.0,0
+2013,Super Lig,Kayseri Erciyesspor,summer,out,Ozan Tahtaişleyen,21448,28,Türkiye,Centre-Back,CB,200000.0,Sanliurfaspor,Türkiye,0.0,0
+2013,Super Lig,Kayseri Erciyesspor,summer,out,Hacı Bilal Yıldırım,293933,19,Türkiye,Central Midfield,CM,,Kayseri Sekerspor,Türkiye,0.0,1
+2013,Super Lig,Kayseri Erciyesspor,summer,out,Sertaç Eren,91933,21,Türkiye,Centre-Back,CB,25000.0,Erzincan Refahiyespor,Türkiye,0.0,1
+2013,Super Lig,Kayseri Erciyesspor,summer,out,Emre Erol,200373,22,Türkiye,Defensive Midfield,DM,25000.0,Ünyespor,Türkiye,,0
+2013,Super Lig,Kayseri Erciyesspor,summer,out,Hakan Doğru,111542,22,Türkiye,Right-Back,RB,50000.0,Kahramanmaras Büyüksehir Belediyespor,Türkiye,,0
+2013,Super Lig,Kayseri Erciyesspor,summer,out,Gökhan Açıkgöz,208594,20,Türkiye,Centre-Back,CB,50000.0,Kayseri Sekerspor,Türkiye,,0
+2013,Super Lig,Kayseri Erciyesspor,summer,out,Ramazan Övüç,208604,19,Türkiye,Central Midfield,CM,100000.0,Without Club,,,0
+2013,Super Lig,Kayseri Erciyesspor,summer,out,Ugur Gazi,216679,26,,Attacking Midfield,AM,,Without Club,,,0
+2013,Super Lig,Kayseri Erciyesspor,summer,out,Serdar Eylik,85667,23,Türkiye,Left Winger,LW,400000.0,Galatasaray,Türkiye,0.0,1
+2013,Super Lig,Kayseri Erciyesspor,winter,out,Serkan Atak,33809,30,Türkiye,Central Midfield,CM,400000.0,Ankaraspor,Türkiye,0.0,0
+2013,Super Lig,Kayseri Erciyesspor,winter,out,Murat Akın,33530,27,Türkiye,Central Midfield,CM,500000.0,Istanbul Büyüksehir Belediyespor,Türkiye,0.0,0
+2013,Super Lig,Kayseri Erciyesspor,winter,out,Erhan Güven,33794,31,Türkiye,Right-Back,RB,800000.0,MKE Ankaragücü,Türkiye,0.0,0
+2013,Super Lig,Kayseri Erciyesspor,winter,out,Hansell Arauz,128352,24,Costa Rica,Right Midfield,RM,300000.0,Deportivo Saprissa,Costa Rica,0.0,0
+2013,Super Lig,Kayseri Erciyesspor,winter,out,Sinan Kaloğlu,6873,32,Türkiye,Centre-Forward,CF,400000.0,Mersin Idmanyurdu,Türkiye,0.0,0
+2013,Super Lig,Kayseri Erciyesspor,winter,out,Ramazan Övüç,208604,19,Türkiye,Central Midfield,CM,100000.0,1930 Bafra Spor,Türkiye,0.0,1
+2013,Super Lig,Kayseri Erciyesspor,winter,out,Sertaç Eren,91933,22,Türkiye,Centre-Back,CB,25000.0,Kizilcahamamspor,Türkiye,0.0,1
+2013,Super Lig,Kayseri Erciyesspor,winter,out,Volkan Okumak,115793,24,Türkiye,Left Winger,LW,75000.0,Sanliurfaspor,Türkiye,0.0,1
+2013,Super Lig,Kayseri Erciyesspor,winter,out,Bilal Kılıç,200393,19,Türkiye,Centre-Back,CB,50000.0,Batman Petrolspor,Türkiye,0.0,1
+2013,Super Lig,Kayseri Erciyesspor,winter,out,Uğur Demirkol,45951,23,Türkiye,Left-Back,LB,75000.0,Sanliurfaspor,Türkiye,0.0,1
+2013,Super Lig,Kayseri Erciyesspor,winter,out,Emre Dönmez,291669,21,Türkiye,Attacking Midfield,AM,50000.0,Altay SK,Türkiye,,0
+2013,Super Lig,Kayseri Erciyesspor,winter,out,Hacı Bilal Yıldırım,293933,20,Türkiye,Central Midfield,CM,,Körfez FK,Türkiye,,0
+2013,Super Lig,Kayseri Erciyesspor,winter,out,Ferhat Çapa,124651,22,Türkiye,Central Midfield,CM,50000.0,Retired,,,0
+2013,Super Lig,Kayseri Erciyesspor,winter,out,Ziri Hammar,131918,21,Algeria,Right Winger,RW,500000.0,Without Club,,,0
+2013,Super Lig,Kayserispor,summer,in,Srdjan Mijailovic,143558,19,Serbia,Defensive Midfield,DM,2000000.0,Red Star Belgrade,Serbia,600000.0,0
+2013,Super Lig,Kayserispor,summer,in,Sinan Bakış,134631,19,Türkiye,Centre-Forward,CF,100000.0,Bayer 04 Leverkusen II,Germany,150000.0,0
+2013,Super Lig,Kayserispor,summer,in,Mert Nobre,15821,32,Brazil,Centre-Forward,CF,1800000.0,Mersin Idmanyurdu,Türkiye,0.0,0
+2013,Super Lig,Kayserispor,summer,in,Sereno,48931,28,Portugal,Centre-Back,CB,1500000.0,FC Porto,Portugal,0.0,0
+2013,Super Lig,Kayserispor,summer,in,Alper Uludağ,55524,22,Türkiye,Left-Back,LB,500000.0,FC Ingolstadt 04,Germany,0.0,0
+2013,Super Lig,Kayserispor,summer,in,Cüneyt Köz,94757,20,Germany,Centre-Back,CB,125000.0,SG Dynamo Dresden,Germany,0.0,0
+2013,Super Lig,Kayserispor,summer,in,Taner Yalçın,52891,23,Germany,Defensive Midfield,DM,700000.0,Istanbul Büyüksehir Belediyespor,Türkiye,0.0,0
+2013,Super Lig,Kayserispor,summer,in,Bilal Gülden,137612,20,Türkiye,Defensive Midfield,DM,500000.0,MKE Ankaragücü,Türkiye,0.0,0
+2013,Super Lig,Kayserispor,summer,in,Jajá,27245,27,Brazil,Centre-Forward,CF,1500000.0,Metalist Kharkiv,Ukraine,0.0,1
+2013,Super Lig,Kayserispor,winter,in,Ondrej Vanek,134578,23,Czech Republic,Central Midfield,CM,800000.0,FK Baumit Jablonec,Czech Republic,1150000.0,0
+2013,Super Lig,Kayserispor,winter,in,Alexandros Tziolis,12883,28,Greece,Defensive Midfield,DM,2000000.0,PAOK Thessaloniki,Greece,100000.0,1
+2013,Super Lig,Kayserispor,winter,in,Levent Gülen,147045,19,Switzerland,Centre-Back,CB,50000.0,Grasshopper Club Zurich,Switzerland,0.0,1
+2013,Super Lig,Kayserispor,winter,in,Sinan Bolat,33862,25,Türkiye,Goalkeeper,GK,1000000.0,FC Porto,Portugal,0.0,1
+2013,Super Lig,Kayserispor,summer,out,Ömer Şişmanoğlu,50774,23,Türkiye,Centre-Forward,CF,1500000.0,Antalyaspor,Türkiye,500000.0,0
+2013,Super Lig,Kayserispor,summer,out,Nicolás Navarro,26727,28,Argentina,Goalkeeper,GK,,Club Atlético Tigre,Argentina,0.0,0
+2013,Super Lig,Kayserispor,summer,out,Eren Güngör,58829,25,Türkiye,Centre-Back,CB,2500000.0,Kardemir Karabükspor,Türkiye,0.0,0
+2013,Super Lig,Kayserispor,summer,out,Cristian Riveros,37713,30,Paraguay,Defensive Midfield,DM,2300000.0,Grêmio Foot-Ball Porto Alegrense,Brazil,0.0,0
+2013,Super Lig,Kayserispor,summer,out,Kamil Ahmet Çörekçi,110686,21,Türkiye,Right-Back,RB,500000.0,Adana Demirspor,Türkiye,0.0,1
+2013,Super Lig,Kayserispor,summer,out,Nurettin Kayaoğlu,85176,21,Türkiye,Centre-Back,CB,250000.0,Adana Demirspor,Türkiye,0.0,1
+2013,Super Lig,Kayserispor,summer,out,Grétar Steinsson,30304,31,Iceland,Right-Back,RB,1200000.0,Retired,,,0
+2013,Super Lig,Kayserispor,summer,out,Ceyhun Gülselam,37216,25,Türkiye,Defensive Midfield,DM,1200000.0,Galatasaray,Türkiye,0.0,1
+2013,Super Lig,Kayserispor,winter,out,Salih Dursun,176961,22,Türkiye,Centre-Back,CB,2200000.0,Galatasaray,Türkiye,2750000.0,0
+2013,Super Lig,Kayserispor,winter,out,Cem Sultan,73569,22,Türkiye,Centre-Forward,CF,250000.0,Mersin Idmanyurdu,Türkiye,0.0,0
+2013,Super Lig,Kayserispor,winter,out,Cleyton,24337,30,Brazil,Attacking Midfield,AM,2500000.0,GNK Dinamo Zagreb,Croatia,0.0,0
+2013,Super Lig,Kayserispor,winter,out,Kamil Ahmet Çörekçi,110686,21,Türkiye,Right-Back,RB,800000.0,Eskisehirspor,Türkiye,0.0,0
+2013,Super Lig,Kayserispor,winter,out,Gökhan Değirmenci,58534,24,Türkiye,Goalkeeper,GK,1400000.0,Kayseri Erciyesspor,Türkiye,0.0,0
+2013,Super Lig,Kayserispor,winter,out,Bilal Gülden,137612,20,Türkiye,Defensive Midfield,DM,500000.0,Adana Demirspor,Türkiye,0.0,1
+2013,Super Lig,Kayserispor,winter,out,Erdal Akdarı,121271,20,Türkiye,Centre-Back,CB,250000.0,Without Club,,,0
+2013,Super Lig,Kayserispor,winter,out,Jajá,27245,27,Brazil,Centre-Forward,CF,1500000.0,Metalist Kharkiv,Ukraine,0.0,1
+2013,Super Lig,Konyaspor,summer,in,Elvis Kokalovic,47517,24,Croatia,Centre-Back,CB,1500000.0,Slaven Belupo Koprivnica,Croatia,600000.0,0
+2013,Super Lig,Konyaspor,summer,in,Djalma,51191,26,Angola,Right Winger,RW,3800000.0,FC Porto,Portugal,500000.0,1
+2013,Super Lig,Konyaspor,summer,in,Marc Kibong Mbamba,86620,24,Cameroon,Central Midfield,CM,750000.0,Adanaspor,Türkiye,390000.0,0
+2013,Super Lig,Konyaspor,summer,in,Ahmet Sabri Fener,170649,21,Türkiye,Goalkeeper,GK,100000.0,Konya Anadolu Selcukluspor,Türkiye,0.0,0
+2013,Super Lig,Konyaspor,summer,in,Cristóvão Ramos,33233,30,Portugal,Right Winger,RW,1000000.0,Levski Sofia,Bulgaria,0.0,0
+2013,Super Lig,Konyaspor,summer,in,Theofanis Gekas,16402,33,Greece,Centre-Forward,CF,1000000.0,Akhisar Belediyespor,Türkiye,0.0,0
+2013,Super Lig,Konyaspor,summer,in,Hasan Kabze,29387,31,Türkiye,Centre-Forward,CF,1000000.0,Orduspor,Türkiye,0.0,0
+2013,Super Lig,Konyaspor,summer,in,Ergün Teber,29411,27,Türkiye,Left-Back,LB,1000000.0,Antalyaspor,Türkiye,0.0,0
+2013,Super Lig,Konyaspor,summer,in,Tomas Borek,62827,27,Czech Republic,Central Midfield,CM,500000.0,FK Dukla Prague,Czech Republic,0.0,0
+2013,Super Lig,Konyaspor,summer,in,Vedat Bora,216598,18,Türkiye,Central Midfield,CM,,Gebzespor,Türkiye,0.0,0
+2013,Super Lig,Konyaspor,summer,in,Ali Çamdalı,9339,29,Türkiye,Defensive Midfield,DM,1800000.0,Orduspor,Türkiye,0.0,0
+2013,Super Lig,Konyaspor,summer,in,Mehmet Uslu,45227,25,Türkiye,Left-Back,LB,700000.0,Kartalspor,Türkiye,0.0,0
+2013,Super Lig,Konyaspor,summer,in,Charles Itandje,5470,30,Cameroon,Goalkeeper,GK,1500000.0,PAOK Thessaloniki,Greece,0.0,1
+2013,Super Lig,Konyaspor,summer,in,Gunnar Heidar Thorvaldsson,32941,31,Iceland,Centre-Forward,CF,500000.0,IFK Norrköping,Sweden,,0
+2013,Super Lig,Konyaspor,summer,in,Mehmet Güven,37837,26,Türkiye,Central Midfield,CM,1500000.0,Eskisehirspor,Türkiye,,0
+2013,Super Lig,Konyaspor,summer,in,Ezechiel Ndouasel,82364,25,Chad,Centre-Forward,CF,1300000.0,Terek Grozny,Russia,0.0,1
+2013,Super Lig,Konyaspor,winter,in,Jagos Vukovic,46894,25,Serbia,Centre-Back,CB,600000.0,FK Vojvodina Novi Sad,Serbia,180000.0,0
+2013,Super Lig,Konyaspor,winter,in,Aleksandr Hleb,597,32,Belarus,Attacking Midfield,AM,1500000.0,BATE Borisov,Belarus,0.0,0
+2013,Super Lig,Konyaspor,winter,in,Okan Derici,95089,20,Türkiye,Central Midfield,CM,100000.0,Rot-Weiß Erfurt,Germany,0.0,0
+2013,Super Lig,Konyaspor,summer,out,Erkan Sekman,41011,29,Türkiye,Right-Back,RB,300000.0,Orduspor,Türkiye,0.0,0
+2013,Super Lig,Konyaspor,summer,out,Emrullah Şalk,64890,25,Türkiye,Goalkeeper,GK,75000.0,Balikesirspor,Türkiye,0.0,0
+2013,Super Lig,Konyaspor,summer,out,Murat Kalkan,51601,27,Türkiye,Centre-Back,CB,350000.0,Mersin Idmanyurdu,Türkiye,0.0,0
+2013,Super Lig,Konyaspor,summer,out,Neca,14201,33,Portugal,Attacking Midfield,AM,300000.0,SC Farense,Portugal,0.0,0
+2013,Super Lig,Konyaspor,summer,out,Murat Akın,33530,26,Türkiye,Central Midfield,CM,500000.0,Kayseri Erciyesspor,Türkiye,0.0,0
+2013,Super Lig,Konyaspor,summer,out,Abdullah Çoban,199328,22,Türkiye,Left-Back,LB,150000.0,Konya Anadolu Selcukluspor,Türkiye,0.0,1
+2013,Super Lig,Konyaspor,summer,out,Vedat Bora,216598,18,Türkiye,Central Midfield,CM,100000.0,Konya Anadolu Selcukluspor,Türkiye,0.0,1
+2013,Super Lig,Konyaspor,summer,out,Rifat Erdem,199337,23,Türkiye,Right-Back,RB,75000.0,Adiyamanspor,Türkiye,0.0,1
+2013,Super Lig,Konyaspor,summer,out,Abdülkerim Kılıç,184131,20,Türkiye,Attacking Midfield,AM,50000.0,Konya Anadolu Selcukluspor,Türkiye,0.0,1
+2013,Super Lig,Konyaspor,summer,out,Ali Kireş,199351,22,Türkiye,Right Winger,RW,50000.0,Adiyamanspor,Türkiye,0.0,1
+2013,Super Lig,Konyaspor,summer,out,Serkan Abaz,288970,20,Türkiye,Right Midfield,RM,,Konya Anadolu Selcukluspor,Türkiye,0.0,1
+2013,Super Lig,Konyaspor,summer,out,Ali Dere,156553,20,Türkiye,Left-Back,LB,450000.0,Fethiyespor,Türkiye,0.0,1
+2013,Super Lig,Konyaspor,summer,out,Atilla Yildirim,175596,22,Türkiye,Centre-Forward,CF,150000.0,Bucaspor,Türkiye,0.0,1
+2013,Super Lig,Konyaspor,summer,out,Serbay Yağız,184825,22,Türkiye,Right Winger,RW,200000.0,Hatayspor,Türkiye,,0
+2013,Super Lig,Konyaspor,summer,out,Deniz Öksüz,114899,25,Türkiye,Goalkeeper,GK,25000.0,Anadolu Üsküdar 1908 Spor,Türkiye,,0
+2013,Super Lig,Konyaspor,summer,out,Semih Aydilek,49644,25,Germany,Centre-Forward,CF,100000.0,Without Club,,,0
+2013,Super Lig,Konyaspor,summer,out,Sjoerd Ars,12115,29,Netherlands,Centre-Forward,CF,450000.0,Levski Sofia,Bulgaria,0.0,1
+2013,Super Lig,Konyaspor,winter,out,Şenol Akın,85227,29,Türkiye,Central Midfield,CM,300000.0,Sanliurfaspor,Türkiye,17000.0,0
+2013,Super Lig,Konyaspor,winter,out,Serkan Şahin,65284,25,Türkiye,Central Midfield,CM,300000.0,Fethiyespor,Türkiye,0.0,0
+2013,Super Lig,Konyaspor,winter,out,Cristóvão Ramos,33233,30,Portugal,Right Winger,RW,1000000.0,Levski Sofia,Bulgaria,0.0,0
+2013,Super Lig,Konyaspor,winter,out,Serkan Abaz,288970,20,Türkiye,Right Midfield,RM,,Kizilcabölükspor,Türkiye,0.0,0
+2013,Super Lig,Konyaspor,winter,out,Atilla Yildirim,175596,23,Türkiye,Centre-Forward,CF,250000.0,Sanliurfaspor,Türkiye,0.0,1
+2013,Super Lig,Konyaspor,winter,out,Abdülkerim Bardakcı,199316,19,Türkiye,Centre-Back,CB,100000.0,Konya Anadolu Selcukluspor,Türkiye,0.0,1
+2013,Super Lig,Konyaspor,winter,out,Muhammet Yürükuslu,157177,22,Türkiye,Left-Back,LB,300000.0,Konya Anadolu Selcukluspor,Türkiye,0.0,1
+2013,Super Lig,Konyaspor,winter,out,Ezechiel Ndouasel,82364,25,Chad,Centre-Forward,CF,1300000.0,Terek Grozny,Russia,0.0,1
+2013,Super Lig,Sivasspor,summer,in,Manuel da Costa,37398,27,Morocco,Centre-Back,CB,3000000.0,Lokomotiv Moskau,Russia,2200000.0,0
+2013,Super Lig,Sivasspor,summer,in,Hernán Rengifo,51225,30,Peru,Centre-Forward,CF,800000.0,Club Sporting Cristal,Peru,800000.0,0
+2013,Super Lig,Sivasspor,summer,in,Aydın Karabulut,37899,25,Türkiye,Right Winger,RW,1000000.0,Elazigspor,Türkiye,0.0,0
+2013,Super Lig,Sivasspor,summer,in,Timur Özgöz,38341,26,Germany,Attacking Midfield,AM,200000.0,MKE Ankaragücü,Türkiye,0.0,0
+2013,Super Lig,Sivasspor,summer,in,Ahmet Aras,44970,25,Türkiye,Centre-Forward,CF,50000.0,Anadolu Üsküdar 1908 Spor,Türkiye,0.0,0
+2013,Super Lig,Sivasspor,summer,in,Cicinho,26101,33,Brazil,Right-Back,RB,,Sport Club do Recife,Brazil,0.0,0
+2013,Super Lig,Sivasspor,summer,in,John Utaka,5495,31,Nigeria,Left Winger,LW,2500000.0,Montpellier HSC,France,0.0,0
+2013,Super Lig,Sivasspor,summer,in,Burhan Eşer,33958,28,Türkiye,Right Winger,RW,1500000.0,Eskisehirspor,Türkiye,0.0,0
+2013,Super Lig,Sivasspor,summer,in,Mehdi Taouil,10598,30,Morocco,Attacking Midfield,AM,250000.0,Heart of Midlothian FC,Scotland,0.0,0
+2013,Super Lig,Sivasspor,summer,in,Eren Aydın,28992,31,Türkiye,Left-Back,LB,350000.0,Elazigspor,Türkiye,0.0,0
+2013,Super Lig,Sivasspor,summer,in,Uğur Akdemir,51819,24,Türkiye,Right-Back,RB,350000.0,Kartalspor,Türkiye,0.0,0
+2013,Super Lig,Sivasspor,summer,in,Abdurrahman Dereli,7937,32,Türkiye,Right-Back,RB,1000000.0,Kasimpasa,Türkiye,,0
+2013,Super Lig,Sivasspor,summer,in,Rafik Djebbour,20903,29,Algeria,Centre-Forward,CF,6000000.0,Olympiacos Piraeus,Greece,0.0,1
+2013,Super Lig,Sivasspor,winter,in,Aykut Öztürk,49681,26,Türkiye,Centre-Forward,CF,375000.0,Rot-Weiß Erfurt,Germany,290000.0,0
+2013,Super Lig,Sivasspor,winter,in,Ahmet Şahbaz,247645,22,Türkiye,Centre-Back,CB,100000.0,Silivrispor,Türkiye,0.0,0
+2013,Super Lig,Sivasspor,winter,in,Pedro Oldoni,55389,28,Brazil,Centre-Forward,CF,400000.0,Esporte Clube Vitória,Brazil,0.0,0
+2013,Super Lig,Sivasspor,winter,in,Fatih Kıran,179750,20,Türkiye,Central Midfield,CM,50000.0,FC Ismaning,Germany,,0
+2013,Super Lig,Sivasspor,winter,in,Deniz Öksüz,114899,26,Türkiye,Goalkeeper,GK,50000.0,Anadolu Üsküdar 1908 Spor,Türkiye,,0
+2013,Super Lig,Sivasspor,winter,in,Mahmut Bezgin,44972,27,Türkiye,Goalkeeper,GK,250000.0,Without Club,,,0
+2013,Super Lig,Sivasspor,summer,out,Mehmet Nas,7153,33,Türkiye,Central Midfield,CM,600000.0,Elazigspor,Türkiye,0.0,0
+2013,Super Lig,Sivasspor,summer,out,Milan Cerny,34531,25,Czech Republic,Left Midfield,LM,1800000.0,FK Dukla Prague,Czech Republic,0.0,0
+2013,Super Lig,Sivasspor,summer,out,Arkadiusz Piech,100485,28,Poland,Centre-Forward,CF,700000.0,Zaglebie Lubin,Poland,0.0,0
+2013,Super Lig,Sivasspor,summer,out,Jan Rajnoch,21108,31,Czech Republic,Centre-Back,CB,1800000.0,Adana Demirspor,Türkiye,0.0,0
+2013,Super Lig,Sivasspor,summer,out,Erhan Güven,33794,31,Türkiye,Right-Back,RB,800000.0,Kayseri Erciyesspor,Türkiye,0.0,0
+2013,Super Lig,Sivasspor,summer,out,Michael Eneramo,49838,27,Nigeria,Centre-Forward,CF,3500000.0,Besiktas JK,Türkiye,0.0,0
+2013,Super Lig,Sivasspor,summer,out,Tomas Rada,35764,29,Czech Republic,Centre-Back,CB,250000.0,1.FC Slovacko,Czech Republic,0.0,0
+2013,Super Lig,Sivasspor,summer,out,Uğur Kavuk,29678,33,Türkiye,Right-Back,RB,400000.0,Gaziantepspor,Türkiye,0.0,0
+2013,Super Lig,Sivasspor,summer,out,Erman Kılıç,53556,29,Türkiye,Attacking Midfield,AM,3700000.0,Galatasaray,Türkiye,0.0,0
+2013,Super Lig,Sivasspor,summer,out,Alican Karadağ,169802,23,Türkiye,Defensive Midfield,DM,75000.0,Boluspor,Türkiye,0.0,1
+2013,Super Lig,Sivasspor,summer,out,Kaan Kılcı,228951,19,Türkiye,Centre-Back,CB,50000.0,Sivas Dört Eylül Belediyespor,Türkiye,0.0,1
+2013,Super Lig,Sivasspor,summer,out,Uğur Akdemir,51819,24,Türkiye,Right-Back,RB,350000.0,Kartalspor,Türkiye,0.0,1
+2013,Super Lig,Sivasspor,summer,out,Safa Yıldırım,292547,20,Türkiye,Centre-Back,CB,,Sivas Dört Eylül Belediyespor,Türkiye,0.0,1
+2013,Super Lig,Sivasspor,summer,out,Ahmet Aras,44970,25,Türkiye,Centre-Forward,CF,50000.0,Fethiyespor,Türkiye,0.0,1
+2013,Super Lig,Sivasspor,summer,out,Pedro Oldoni,55389,28,Brazil,Centre-Forward,CF,400000.0,Without Club,,,0
+2013,Super Lig,Sivasspor,summer,out,Hayrettin Yerlikaya,33569,31,Türkiye,Left-Back,LB,600000.0,Retired,,,0
+2013,Super Lig,Sivasspor,summer,out,Ricardo Pedriel,76281,26,Bolivia,Centre-Forward,CF,1800000.0,Without Club,,,0
+2013,Super Lig,Sivasspor,summer,out,Stefan Senecky,58633,33,Slovakia,Goalkeeper,GK,100000.0,Without Club,,,0
+2013,Super Lig,Sivasspor,summer,out,Sercan Yıldırım,47604,23,Türkiye,Right Winger,RW,1200000.0,Galatasaray,Türkiye,0.0,1
+2013,Super Lig,Sivasspor,winter,out,Kamil Grosicki,37920,25,Poland,Centre-Forward,CF,3800000.0,Stade Rennais FC,France,800000.0,0
+2013,Super Lig,Sivasspor,winter,out,Murat Akça,66953,23,Türkiye,Centre-Back,CB,700000.0,Kardemir Karabükspor,Türkiye,0.0,0
+2013,Super Lig,Sivasspor,winter,out,Abdulkadir Özgen,41426,27,Türkiye,Centre-Forward,CF,850000.0,Manisaspor,Türkiye,0.0,1
+2013,Super Lig,Sivasspor,winter,out,İbrahim Sürgülü,287943,20,Türkiye,Centre-Back,CB,50000.0,Fethiyespor,Türkiye,0.0,1
+2013,Super Lig,Sivasspor,winter,out,Uğur Akdemir,51819,25,Türkiye,Right-Back,RB,350000.0,Balikesirspor,Türkiye,0.0,1
+2013,Super Lig,Sivasspor,winter,out,Deniz Öksüz,114899,26,Türkiye,Goalkeeper,GK,50000.0,Anadolu Üsküdar 1908 Spor,Türkiye,0.0,1
+2013,Super Lig,Sivasspor,winter,out,Timur Özgöz,38341,26,Germany,Attacking Midfield,AM,200000.0,Adana Demirspor,Türkiye,0.0,1
+2013,Super Lig,Sivasspor,winter,out,Mahmut Bezgin,44972,28,Türkiye,Goalkeeper,GK,250000.0,Without Club,,,0
+2013,Super Lig,Sivasspor,winter,out,Milan Borjan,67797,26,Canada,Goalkeeper,GK,1400000.0,Without Club,,,0
+2013,Super Lig,Sivasspor,winter,out,Hernán Rengifo,51225,30,Peru,Centre-Forward,CF,800000.0,Without Club,,,0
+2013,Super Lig,Sivasspor,winter,out,Rafik Djebbour,20903,29,Algeria,Centre-Forward,CF,6000000.0,Olympiacos Piraeus,Greece,0.0,1
+2013,Super Lig,Trabzonspor,summer,in,Aykut Demir,37722,24,Türkiye,Centre-Back,CB,5000000.0,Genclerbirligi Ankara,Türkiye,2900000.0,0
+2013,Super Lig,Trabzonspor,summer,in,Fatih Öztürk,209574,26,Türkiye,Goalkeeper,GK,500000.0,1461 Trabzon,Türkiye,0.0,0
+2013,Super Lig,Trabzonspor,summer,in,Florent Malouda,5461,33,France,Left Winger,LW,2000000.0,Chelsea FC,England,0.0,0
+2013,Super Lig,Trabzonspor,summer,in,Bosingwa,9813,30,Portugal,Right-Back,RB,3000000.0,Queens Park Rangers,England,0.0,0
+2013,Super Lig,Trabzonspor,summer,in,Kadir Keleş,53555,25,Türkiye,Left-Back,LB,300000.0,1461 Trabzon,Türkiye,0.0,0
+2013,Super Lig,Trabzonspor,summer,in,Abdullah Karmil,53554,25,Türkiye,Centre-Back,CB,300000.0,1461 Trabzon,Türkiye,0.0,0
+2013,Super Lig,Trabzonspor,summer,in,Batuhan Karadeniz,52270,22,Türkiye,Centre-Forward,CF,1000000.0,Eskisehirspor,Türkiye,0.0,0
+2013,Super Lig,Trabzonspor,summer,in,Caner Osmanpaşa,157993,25,Türkiye,Centre-Back,CB,350000.0,1461 Trabzon,Türkiye,0.0,0
+2013,Super Lig,Trabzonspor,summer,in,Abdulkadir Özdemir,98133,22,Türkiye,Defensive Midfield,DM,800000.0,1461 Trabzon,Türkiye,0.0,0
+2013,Super Lig,Trabzonspor,summer,in,Yusuf Erdoğan,191391,20,Türkiye,Left Winger,LW,900000.0,1461 Trabzon,Türkiye,0.0,1
+2013,Super Lig,Trabzonspor,winter,in,Alexandru Bourceanu,64118,28,Romania,Defensive Midfield,DM,4000000.0,Steaua Bucharest,Romania,1300000.0,0
+2013,Super Lig,Trabzonspor,winter,in,Özer Hurmacı,45004,27,Türkiye,Attacking Midfield,AM,2300000.0,Kasimpasa,Türkiye,500000.0,1
+2013,Super Lig,Trabzonspor,winter,in,Şahin Aygüneş,57561,23,Türkiye,Left Winger,LW,400000.0,Kasimpasa,Türkiye,0.0,0
+2013,Super Lig,Trabzonspor,winter,in,Mustafa Akbaş,98113,23,Türkiye,Centre-Back,CB,500000.0,1461 Trabzon,Türkiye,0.0,0
+2013,Super Lig,Trabzonspor,winter,in,Gökhan Alsan,144723,23,Türkiye,Central Midfield,CM,800000.0,1461 Trabzon,Türkiye,0.0,0
+2013,Super Lig,Trabzonspor,summer,out,Tolga Zengin,16816,29,Türkiye,Goalkeeper,GK,3500000.0,Besiktas JK,Türkiye,2750000.0,0
+2013,Super Lig,Trabzonspor,summer,out,Yasin Öztekin,31867,26,Türkiye,Centre-Forward,CF,3500000.0,Kayseri Erciyesspor,Türkiye,450000.0,0
+2013,Super Lig,Trabzonspor,summer,out,Ondrej Celustka,70131,24,Czech Republic,Centre-Back,CB,3000000.0,Sunderland AFC,England,150000.0,1
+2013,Super Lig,Trabzonspor,summer,out,Abdullah Karmil,53554,25,Türkiye,Centre-Back,CB,300000.0,Ankaraspor,Türkiye,70000.0,1
+2013,Super Lig,Trabzonspor,summer,out,Sefa Akın Başıbüyük,185769,19,Türkiye,Left-Back,LB,200000.0,Giresunspor,Türkiye,0.0,0
+2013,Super Lig,Trabzonspor,summer,out,Émerson Conceição,39073,27,Brazil,Left-Back,LB,2000000.0,Stade Rennais FC,France,0.0,0
+2013,Super Lig,Trabzonspor,summer,out,Marek Cech,21354,30,Slovakia,Left-Back,LB,1500000.0,Bologna FC 1909,Italy,0.0,0
+2013,Super Lig,Trabzonspor,summer,out,Halil Altıntop,1791,30,Türkiye,Attacking Midfield,AM,3000000.0,FC Augsburg,Germany,0.0,0
+2013,Super Lig,Trabzonspor,summer,out,Serkan Balcı,7345,29,Türkiye,Right-Back,RB,2500000.0,Antalyaspor,Türkiye,0.0,0
+2013,Super Lig,Trabzonspor,summer,out,Bora Sevim,16768,29,Türkiye,Goalkeeper,GK,100000.0,1461 Trabzon,Türkiye,0.0,1
+2013,Super Lig,Trabzonspor,summer,out,Uğur Dündar,93594,20,Türkiye,Left-Back,LB,50000.0,1461 Trabzon,Türkiye,0.0,1
+2013,Super Lig,Trabzonspor,summer,out,Alim Öztürk,189186,20,Türkiye,Centre-Back,CB,200000.0,1461 Trabzon,Türkiye,0.0,1
+2013,Super Lig,Trabzonspor,summer,out,Oğulcan Gökce,110691,21,Türkiye,Centre-Back,CB,250000.0,1461 Trabzon,Türkiye,0.0,1
+2013,Super Lig,Trabzonspor,summer,out,Göksu Alhas,98115,23,Türkiye,Right-Back,RB,450000.0,1461 Trabzon,Türkiye,0.0,1
+2013,Super Lig,Trabzonspor,summer,out,Barış Memiş,62374,23,Türkiye,Left Winger,LW,100000.0,1461 Trabzon,Türkiye,0.0,1
+2013,Super Lig,Trabzonspor,summer,out,Marek Sapara,40059,30,Slovakia,Attacking Midfield,AM,3000000.0,Without Club,,,0
+2013,Super Lig,Trabzonspor,summer,out,Abdullah Karmil,53554,25,Türkiye,Centre-Back,CB,300000.0,1461 Trabzon,Türkiye,0.0,1
+2013,Super Lig,Trabzonspor,winter,out,Volkan Şen,56386,26,Türkiye,Left Winger,LW,1700000.0,Bursaspor,Türkiye,1250000.0,0
+2013,Super Lig,Trabzonspor,winter,out,Giray Kaçar,55839,28,Türkiye,Centre-Back,CB,4000000.0,Antalyaspor,Türkiye,200000.0,0
+2013,Super Lig,Trabzonspor,winter,out,Uğur Dündar,93594,21,Türkiye,Left-Back,LB,50000.0,FC 08 Homburg,Germany,0.0,0
+2013,Super Lig,Trabzonspor,winter,out,Aykut Akgün,37873,26,Türkiye,Defensive Midfield,DM,1000000.0,Caykur Rizespor,Türkiye,0.0,1
+2013,Super Lig,Trabzonspor,winter,out,Batuhan Karadeniz,52270,22,Türkiye,Centre-Forward,CF,500000.0,Elazigspor,Türkiye,0.0,1
+2013,Super Lig,Trabzonspor,winter,out,Alanzinho,36478,30,Brazil,Attacking Midfield,AM,3000000.0,Without Club,,,0
+2013,Super Lig,Trabzonspor,winter,out,Didier Zokora,13389,33,Cote d'Ivoire,Defensive Midfield,DM,3200000.0,Without Club,,,0
