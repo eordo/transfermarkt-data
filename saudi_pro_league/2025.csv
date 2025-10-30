@@ -1,0 +1,512 @@
+season,league,club,window,movement,player_name,player_id,age,nationality,position,pos,market_value,dealing_club,dealing_country,fee,is_loan
+2025,Saudi Pro League,Al-Ahli SFC,summer,in,Enzo Millot,569366,23,France,Attacking Midfield,AM,35000000.0,VfB Stuttgart,Germany,30000000.0,0
+2025,Saudi Pro League,Al-Ahli SFC,summer,in,Valentin Atangana,923759,20,France,Central Midfield,CM,10000000.0,Stade Reims,France,25000000.0,0
+2025,Saudi Pro League,Al-Ahli SFC,summer,in,Matheus Gonçalves,961046,20,Brazil,Right Winger,RW,5000000.0,CR Flamengo,Brazil,9000000.0,0
+2025,Saudi Pro League,Al-Ahli SFC,summer,in,Mohammed Abdulrahman,1169185,22,Saudi Arabia,Right-Back,RB,550000.0,Al-Ettifaq FC,Saudi Arabia,5760000.0,0
+2025,Saudi Pro League,Al-Ahli SFC,summer,in,Abdulelah Al-Khaibri,1169016,28,Saudi Arabia,Left-Back,LB,450000.0,Al-Riyadh SC,Saudi Arabia,2960000.0,0
+2025,Saudi Pro League,Al-Ahli SFC,summer,in,Zakaria Hawsawi,1057849,24,Saudi Arabia,Left-Back,LB,250000.0,Al-Raed SFC,Saudi Arabia,2730000.0,1
+2025,Saudi Pro League,Al-Ahli SFC,summer,in,Saleh Abu Al-Shamat,901129,22,Saudi Arabia,Left Winger,LW,300000.0,Al-Khaleej FC,Saudi Arabia,2069999.9999999998,0
+2025,Saudi Pro League,Al-Ahli SFC,summer,out,Gabri Veiga,699704,23,Spain,Attacking Midfield,AM,18000000.0,FC Porto,Portugal,15000000.0,0
+2025,Saudi Pro League,Al-Ahli SFC,summer,out,Allan Saint-Maximin,272642,28,France,Left Winger,LW,13000000.0,CF América,Mexico,10300000.0,0
+2025,Saudi Pro League,Al-Ahli SFC,summer,out,Roberto Firmino,131789,33,Brazil,Centre-Forward,CF,5000000.0,Al-Sadd SC,Qatar,7000000.0,0
+2025,Saudi Pro League,Al-Ahli SFC,summer,out,Alexsander,997714,21,Brazil,Defensive Midfield,DM,5000000.0,Clube Atlético Mineiro,Brazil,6500000.0,0
+2025,Saudi Pro League,Al-Ahli SFC,summer,out,Younes Al-Shanqeeti,1180071,21,Saudi Arabia,Central Midfield,CM,100000.0,NEOM SC U21,Saudi Arabia,450000.0,0
+2025,Saudi Pro League,Al-Ahli SFC,summer,out,Marcão,476102,31,Brazil,Centre-Forward,CF,1000000.0,Ulsan HD FC,"Korea, South",0.0,0
+2025,Saudi Pro League,Al-Ahli SFC,summer,out,Abdulkarim Darisi,1188907,22,Saudi Arabia,Left Winger,LW,150000.0,Al-Hilal SFC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Ahli SFC,summer,out,Faisal Al-Subiani,1060930,22,Saudi Arabia,Defensive Midfield,DM,350000.0,Al-Shabab FC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Ahli SFC,summer,out,Mohammed Al-Majhad,554034,27,Saudi Arabia,Central Midfield,CM,550000.0,Al-Ula FC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Ahli SFC,summer,out,Ezgjan Alioski,129604,33,North Macedonia,Left-Back,LB,1200000.0,FC Lugano,Switzerland,0.0,0
+2025,Saudi Pro League,Al-Ahli SFC,summer,out,Abdulrahman Al-Hamyani,1458547,22,Saudi Arabia,Attacking Midfield,AM,,Al-Tai FC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Ahli SFC,summer,out,Emad Al-Feda,901336,28,Saudi Arabia,Goalkeeper,GK,,Al-Riyadh SC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Ahli SFC,summer,out,Ghassan Barqawi,1229318,22,Saudi Arabia,Goalkeeper,GK,,Al-Ain SFC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Ahli SFC,summer,out,Bassam Al-Hurayji,901076,25,Saudi Arabia,Right-Back,RB,400000.0,Al-Taawoun FC,Saudi Arabia,,0
+2025,Saudi Pro League,Al-Ahli SFC,summer,out,Saad Balobaid,821382,25,Saudi Arabia,Left-Back,LB,650000.0,Al-Shabab FC,Saudi Arabia,0.0,1
+2025,Saudi Pro League,Al-Ahli SFC,summer,out,Feras Al-Ghamdi,478532,25,Saudi Arabia,Right Winger,RW,125000.0,Abha Club,Saudi Arabia,0.0,1
+2025,Saudi Pro League,Al-Ettifaq FC,summer,in,Mohau Nkota,1236525,20,South Africa,Right Winger,RW,800000.0,Orlando Pirates,South Africa,1200000.0,0
+2025,Saudi Pro League,Al-Ettifaq FC,summer,in,Matija Gluscevic,698540,21,Serbia,Left Winger,LW,1000000.0,FK Radnicki 1923 Kragujevac,Serbia,400000.0,0
+2025,Saudi Pro League,Al-Ettifaq FC,summer,in,Francisco Calvo,188470,33,Costa Rica,Centre-Back,CB,800000.0,Hatayspor,Türkiye,0.0,0
+2025,Saudi Pro League,Al-Ettifaq FC,summer,in,Ziyad Al-Ghamdi,1180065,20,Saudi Arabia,Right Winger,RW,,Al-Ahli SFC U19,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Ettifaq FC,summer,in,Ahmed Hassan,184816,32,Egypt,Centre-Forward,CF,800000.0,Le Havre AC,France,0.0,0
+2025,Saudi Pro League,Al-Ettifaq FC,summer,in,Abdulbasit Hawsawi,901307,24,Saudi Arabia,Goalkeeper,GK,75000.0,Damac FC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Ettifaq FC,summer,in,Ondrej Duda,232418,30,Slovakia,Central Midfield,CM,3500000.0,Hellas Verona,Italy,0.0,0
+2025,Saudi Pro League,Al-Ettifaq FC,summer,out,Hamed Al-Ghamdi,593337,26,Saudi Arabia,Central Midfield,CM,250000.0,Al-Ittihad Club,Saudi Arabia,9160000.0,0
+2025,Saudi Pro League,Al-Ettifaq FC,summer,out,Mohammed Abdulrahman,1169185,22,Saudi Arabia,Right-Back,RB,550000.0,Al-Ahli SFC,Saudi Arabia,5760000.0,0
+2025,Saudi Pro League,Al-Ettifaq FC,summer,out,Thamer Al-Khaibri,1180693,19,Saudi Arabia,Centre-Forward,CF,125000.0,NEOM SC,Saudi Arabia,2860000.0,0
+2025,Saudi Pro League,Al-Ettifaq FC,summer,out,Mohammed Mahzari,1169184,23,Saudi Arabia,Right-Back,RB,200000.0,Al-Taawoun FC,Saudi Arabia,1260000.0,0
+2025,Saudi Pro League,Al-Ettifaq FC,summer,out,Karl Toko Ekambi,315110,32,Cameroon,Centre-Forward,CF,2000000.0,Al-Fateh SC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Ettifaq FC,summer,out,Marcel Tisserand,170463,32,DR Congo,Centre-Back,CB,1500000.0,Sydney FC,Australia,0.0,0
+2025,Saudi Pro League,Al-Ettifaq FC,summer,out,Hamdan Al-Shammrani,505496,28,Saudi Arabia,Left-Back,LB,500000.0,Al-Ula FC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Ettifaq FC,summer,out,Salem Al-Maqadi,1181103,23,Saudi Arabia,Central Midfield,CM,150000.0,Al-Wehda FC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Ettifaq FC,summer,out,Demarai Gray,292417,29,Jamaica,Left Winger,LW,3500000.0,Birmingham City,England,0.0,0
+2025,Saudi Pro League,Al-Ettifaq FC,summer,out,Abdullah Al-Oaisher,187950,34,Saudi Arabia,Goalkeeper,GK,75000.0,Al-Wehda FC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Ettifaq FC,summer,out,Vitinho,213605,31,Brazil,Left Winger,LW,1500000.0,Sport Club Corinthians Paulista,Brazil,0.0,0
+2025,Saudi Pro League,Al-Ettifaq FC,summer,out,Berat Özdemir,483063,27,Türkiye,Defensive Midfield,DM,4200000.0,Basaksehir FK,Türkiye,0.0,0
+2025,Saudi Pro League,Al-Ettifaq FC,summer,out,Nawaf Hazazi,1054088,23,Saudi Arabia,Right Winger,RW,,Al-Jubail Club,Saudi Arabia,0.0,1
+2025,Saudi Pro League,Al-Ettifaq FC,summer,out,Ahmad Al-Rehaili,352715,30,Saudi Arabia,Goalkeeper,GK,100000.0,Al-Diraiyah FC,Saudi Arabia,0.0,1
+2025,Saudi Pro League,Al-Ettifaq FC,summer,out,Wissem Chaouali,1457705,18,Tunisia,Centre-Back,CB,,Al-Jubail Club,Saudi Arabia,0.0,1
+2025,Saudi Pro League,Al-Ettifaq FC,summer,out,Mishal Al-Alaeli,1143173,21,Saudi Arabia,Left-Back,LB,225000.0,Al-Taawoun FC,Saudi Arabia,0.0,1
+2025,Saudi Pro League,Al-Ettifaq FC,summer,out,Marwan Al-Haidari,821378,29,Saudi Arabia,Goalkeeper,GK,150000.0,Al-Khaleej FC,Saudi Arabia,0.0,1
+2025,Saudi Pro League,Al-Ettifaq FC,summer,out,Josen Escobar,1175703,20,Colombia,Defensive Midfield,DM,1700000.0,CD América de Cali,Colombia,0.0,1
+2025,Saudi Pro League,Al-Ettifaq FC,summer,out,Ahmed Bamsaud,514927,29,Saudi Arabia,Left-Back,LB,700000.0,Al-Ittihad Club,Saudi Arabia,0.0,1
+2025,Saudi Pro League,Al-Ettifaq FC,summer,out,Abdullah Radif,888633,22,Saudi Arabia,Centre-Forward,CF,500000.0,Al-Hilal SFC,Saudi Arabia,0.0,1
+2025,Saudi Pro League,Al-Ettifaq FC,summer,out,Abdulaziz Al-Aliwa,748080,21,Saudi Arabia,Left Winger,LW,100000.0,Al-Nassr FC,Saudi Arabia,0.0,1
+2025,Saudi Pro League,Al-Ettifaq FC,summer,out,Abdulelah Al-Malki,390855,30,Saudi Arabia,Defensive Midfield,DM,375000.0,Al-Hilal SFC,Saudi Arabia,0.0,1
+2025,Saudi Pro League,Al-Fateh SC,summer,in,Jefferson Ramos,1315396,20,Cape Verde,Left Winger,LW,,Clube União 1919,Portugal,0.0,0
+2025,Saudi Pro League,Al-Fateh SC,summer,in,Wesley Delgado,1315402,21,Cape Verde,Right Winger,RW,,Clube União 1919,Portugal,0.0,0
+2025,Saudi Pro League,Al-Fateh SC,summer,in,Karl Toko Ekambi,315110,32,Cameroon,Centre-Forward,CF,2000000.0,Al-Ettifaq FC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Fateh SC,summer,in,Faisal Darsi,537979,28,Saudi Arabia,Centre-Back,CB,200000.0,Al-Jandal SC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Fateh SC,summer,in,Amin Al-Bukhari,509875,28,Saudi Arabia,Goalkeeper,GK,125000.0,Al-Nassr FC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Fateh SC,summer,in,Fernando Pacheco,172015,33,Spain,Goalkeeper,GK,800000.0,RCD Espanyol Barcelona,Spain,0.0,0
+2025,Saudi Pro League,Al-Fateh SC,summer,in,Sattam Al-Tumbukti,1112825,23,Saudi Arabia,Right-Back,RB,175000.0,Al-Wehda FC,Saudi Arabia,,0
+2025,Saudi Pro League,Al-Fateh SC,summer,in,Fahad Aqeel Al-Zubaidi,1145037,23,Saudi Arabia,Right Winger,RW,175000.0,Al-Nassr FC,Saudi Arabia,,0
+2025,Saudi Pro League,Al-Fateh SC,summer,in,Majed Qasheesh,1065823,23,Saudi Arabia,Left-Back,LB,275000.0,Al-Nassr FC,Saudi Arabia,0.0,1
+2025,Saudi Pro League,Al-Fateh SC,summer,out,Ahmed Al-Julaydan,1060901,21,Saudi Arabia,Right-Back,RB,300000.0,Al-Ittihad Club,Saudi Arabia,10900000.0,0
+2025,Saudi Pro League,Al-Fateh SC,summer,out,Muhannad Al-Yahya,1112047,20,Saudi Arabia,Goalkeeper,GK,,Al-Kholood Club,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Fateh SC,summer,out,Sattam Al-Subaie,1180896,24,Saudi Arabia,Goalkeeper,GK,,Al-Washm,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Fateh SC,summer,out,Ammar Al-Dohaim,314859,31,Saudi Arabia,Centre-Back,CB,125000.0,Al-Ula FC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Fateh SC,summer,out,Walid Al-Enezi,939942,29,Saudi Arabia,Goalkeeper,GK,75000.0,Al-Najma SC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Fateh SC,summer,out,Péter Szappanos,168074,34,Hungary,Goalkeeper,GK,450000.0,Puskás Akadémia FC,Hungary,0.0,0
+2025,Saudi Pro League,Al-Fateh SC,summer,out,Hussain Al-Zarie,1305862,20,Saudi Arabia,Left-Back,LB,350000.0,Al-Diraiyah FC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Fateh SC,summer,out,Matheus Machado,1099718,22,Brazil,Centre-Forward,CF,450000.0,Ludogorets Razgrad,Bulgaria,0.0,1
+2025,Saudi Pro League,Al-Fateh SC,summer,out,Abdullah Al-Mogren,859792,28,Saudi Arabia,Centre-Forward,CF,100000.0,Al-Faisaly FC,Saudi Arabia,0.0,1
+2025,Saudi Pro League,Al-Fateh SC,summer,out,Amine Sbaï,851220,24,Morocco,Left Winger,LW,750000.0,Without Club,,,0
+2025,Saudi Pro League,Al-Fateh SC,summer,out,Mohammed Al-Fuhaid,154550,35,Saudi Arabia,Defensive Midfield,DM,100000.0,Without Club,,,0
+2025,Saudi Pro League,Al-Fateh SC,summer,out,Djaniny,197170,34,Cape Verde,Centre-Forward,CF,2000000.0,Without Club,,,0
+2025,Saudi Pro League,Al-Fateh SC,summer,out,Nawaf Al-Aqidi,886183,25,Saudi Arabia,Goalkeeper,GK,650000.0,Al-Nassr FC,Saudi Arabia,0.0,1
+2025,Saudi Pro League,Al-Fateh SC,summer,out,Suhayb Al-Zaid,1112072,20,Saudi Arabia,Defensive Midfield,DM,275000.0,Al-Hilal SFC,Saudi Arabia,0.0,1
+2025,Saudi Pro League,Al-Fayha FC,summer,in,Stylianos Vrontis,724254,20,Cyprus,Central Midfield,CM,300000.0,APOEL Nicosia,Cyprus,50000.0,1
+2025,Saudi Pro League,Al-Fayha FC,summer,in,Mikel Villanueva,308371,32,Venezuela,Centre-Back,CB,1000000.0,Vitória Guimarães SC,Portugal,0.0,0
+2025,Saudi Pro League,Al-Fayha FC,summer,in,Alfa Semedo,359210,27,Guinea-Bissau,Defensive Midfield,DM,1200000.0,NEOM SC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Fayha FC,summer,in,Yassine Benzia,187847,30,Algeria,Attacking Midfield,AM,1200000.0,Qarabağ FK,Azerbaijan,0.0,0
+2025,Saudi Pro League,Al-Fayha FC,summer,in,Ahmed Bamsaud,514927,29,Saudi Arabia,Left-Back,LB,700000.0,Al-Ittihad Club,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Fayha FC,summer,in,Jason Remeseiro,263860,30,Spain,Right Winger,RW,2500000.0,FC Arouca,Portugal,0.0,0
+2025,Saudi Pro League,Al-Fayha FC,summer,in,Silvere Ganvoula,312819,29,Congo,Centre-Forward,CF,1400000.0,AC Monza,Italy,,0
+2025,Saudi Pro League,Al-Fayha FC,summer,in,Rayan Enad,1170033,24,Saudi Arabia,Right Winger,RW,125000.0,Al-Najma SC,Saudi Arabia,,0
+2025,Saudi Pro League,Al-Fayha FC,summer,in,Abdullah Al-Jawaey,177477,29,Saudi Arabia,Left Winger,LW,75000.0,Without Club,,,0
+2025,Saudi Pro League,Al-Fayha FC,summer,out,Faris Abdi,578992,26,Saudi Arabia,Left-Back,LB,450000.0,NEOM SC,Saudi Arabia,3400000.0,0
+2025,Saudi Pro League,Al-Fayha FC,summer,out,Hussam Majrashi,1234327,21,Saudi Arabia,Centre-Back,CB,,Al-Anwar Club,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Fayha FC,summer,out,Rangel,980767,21,Brazil,Left-Back,LB,200000.0,Al-Dhafra FC,United Arab Emirates,0.0,0
+2025,Saudi Pro League,Al-Fayha FC,summer,out,Metaab Al-Khaldi,1188915,27,Saudi Arabia,Left-Back,LB,75000.0,Al-Adalah FC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Fayha FC,summer,out,Gojko Cimirot,150482,32,Bosnia-Herzegovina,Defensive Midfield,DM,800000.0,FK Sarajevo,Bosnia-Herzegovina,0.0,0
+2025,Saudi Pro League,Al-Fayha FC,summer,out,Khalid Kaabi,326012,33,Saudi Arabia,Right Winger,RW,100000.0,Al-Anwar Club,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Fayha FC,summer,out,Otabek Shukurov,294525,29,Uzbekistan,Central Midfield,CM,1800000.0,FC Baniyas,United Arab Emirates,0.0,0
+2025,Saudi Pro League,Al-Fayha FC,summer,out,Henry Onyekuru,380415,28,Nigeria,Left Winger,LW,3000000.0,Genclerbirligi Ankara,Türkiye,0.0,0
+2025,Saudi Pro League,Al-Fayha FC,summer,out,Renzo López,248030,31,Uruguay,Centre-Forward,CF,800000.0,Esporte Clube Vitória,Brazil,0.0,0
+2025,Saudi Pro League,Al-Fayha FC,summer,out,Abdulhadi Al-Harajin,359346,30,Saudi Arabia,Attacking Midfield,AM,150000.0,Al-Hazem SC,Saudi Arabia,0.0,1
+2025,Saudi Pro League,Al-Fayha FC,summer,out,Sami Al-Khaibari,506434,35,Saudi Arabia,Centre-Back,CB,150000.0,Without Club,,,0
+2025,Saudi Pro League,Al-Fayha FC,summer,out,Alejandro Pozuelo,188853,33,Spain,Attacking Midfield,AM,1000000.0,Without Club,,,0
+2025,Saudi Pro League,Al-Fayha FC,summer,out,Gabriel Vareta,1115721,20,Brazil,Centre-Back,CB,200000.0,Sociedade Esportiva Palmeiras,Brazil,0.0,1
+2025,Saudi Pro League,Al-Hazem SC,summer,in,Bruno Varela,182722,30,Cape Verde,Goalkeeper,GK,2500000.0,Vitória Guimarães SC,Portugal,500000.0,0
+2025,Saudi Pro League,Al-Hazem SC,summer,in,Elias Mokwana,968496,25,South Africa,Right Winger,RW,750000.0,Esperance Tunis,Tunisia,345000.0,1
+2025,Saudi Pro League,Al-Hazem SC,summer,in,Aboubacar Bah,1326883,19,Guinea,Central Midfield,CM,300000.0,Etoile Sportive Metlaoui,Tunisia,214000.0,0
+2025,Saudi Pro League,Al-Hazem SC,summer,in,Khalid Al-Subaie,1172146,25,Saudi Arabia,Left-Back,LB,225000.0,Al-Raed SFC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Hazem SC,summer,in,Omar Al-Somah,220688,36,Syria,Centre-Forward,CF,600000.0,Wydad Casablanca,Morocco,0.0,0
+2025,Saudi Pro League,Al-Hazem SC,summer,in,Fábio Martins,223029,32,Portugal,Left Winger,LW,2200000.0,Al-Khaleej FC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Hazem SC,summer,in,Abdelmounaim Boutouil,520438,27,Morocco,Centre-Back,CB,550000.0,Wydad Casablanca,Morocco,0.0,0
+2025,Saudi Pro League,Al-Hazem SC,summer,in,Amir Sayoud,122493,34,Algeria,Attacking Midfield,AM,550000.0,Al-Raed SFC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Hazem SC,summer,in,Loreintz Rosier,586855,27,France,Defensive Midfield,DM,900000.0,Fortuna Sittard,Netherlands,0.0,0
+2025,Saudi Pro League,Al-Hazem SC,summer,in,Abdulhadi Al-Harajin,359346,30,Saudi Arabia,Attacking Midfield,AM,150000.0,Al-Fayha FC,Saudi Arabia,0.0,1
+2025,Saudi Pro League,Al-Hazem SC,summer,in,Miguel Carvalho,931677,20,Spain,Attacking Midfield,AM,300000.0,Al-Qadsiah FC,Saudi Arabia,0.0,1
+2025,Saudi Pro League,Al-Hazem SC,summer,out,Mohamed Al-Thani,922103,28,Saudi Arabia,Right-Back,RB,900000.0,Al-Qadsiah FC,Saudi Arabia,2530000.0,0
+2025,Saudi Pro League,Al-Hazem SC,summer,out,Anwar Sharahili,1145533,19,Saudi Arabia,Midfielder,Midfielder,,NEOM SC U21,Saudi Arabia,230000.0,0
+2025,Saudi Pro League,Al-Hazem SC,summer,out,Abdulaziz Takrouni,314861,33,Saudi Arabia,Goalkeeper,GK,75000.0,Jeddah SC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Hazem SC,summer,out,Sultan Al-Sarihi,1330331,23,Saudi Arabia,Centre-Forward,CF,25000.0,Al-Ansar FC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Hazem SC,summer,out,Ibrahima Ndiaye,457031,27,Senegal,Left Winger,LW,400000.0,Al-Faisaly FC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Hazem SC,summer,out,Karim Yoda,61464,36,France,Right Winger,RW,50000.0,Al-Raed SFC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Hazem SC,summer,out,Zinho Gano,182446,31,Guinea-Bissau,Centre-Forward,CF,700000.0,Al-Raed SFC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Hazem SC,summer,out,Juriën Gaari,328455,31,Curacao,Centre-Back,CB,400000.0,Abha Club,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Hazem SC,summer,out,Sultan Al-Essa,1235479,20,Saudi Arabia,Right-Back,RB,25000.0,Al-Riyadh SC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Hazem SC,summer,out,Turki Al-Mutairi,886850,24,Saudi Arabia,Right Winger,RW,75000.0,Al-Tadamon SC (Kuwait),Kuwait,,0
+2025,Saudi Pro League,Al-Hazem SC,summer,out,Hussein Fraij,1057501,22,Saudi Arabia,Centre-Back,CB,10000.0,Without Club,,,0
+2025,Saudi Pro League,Al-Hazem SC,summer,out,Okacha Hamzaoui,233789,34,Algeria,Centre-Forward,CF,,Dibba Al-Hisn SC,United Arab Emirates,,0
+2025,Saudi Pro League,Al-Hazem SC,summer,out,Ben Traoré,665029,25,Cote d'Ivoire,Defensive Midfield,DM,100000.0,Without Club,,,0
+2025,Saudi Pro League,Al-Hazem SC,summer,out,Abdullah Al-Samti,153842,28,Saudi Arabia,Defensive Midfield,DM,50000.0,Without Club,,,0
+2025,Saudi Pro League,Al-Hilal SFC,summer,in,Darwin Núñez,546543,26,Uruguay,Centre-Forward,CF,45000000.0,Liverpool FC,England,53000000.0,0
+2025,Saudi Pro League,Al-Hilal SFC,summer,in,Theo Hernández,339808,27,France,Left-Back,LB,35000000.0,AC Milan,Italy,25000000.0,0
+2025,Saudi Pro League,Al-Hilal SFC,summer,in,Yusuf Akçiçek,1100642,19,Türkiye,Centre-Back,CB,12000000.0,Fenerbahce,Türkiye,22000000.0,0
+2025,Saudi Pro League,Al-Hilal SFC,summer,in,Ali Lajami,264909,29,Saudi Arabia,Centre-Back,CB,900000.0,Al-Nassr FC,Saudi Arabia,941000.0,0
+2025,Saudi Pro League,Al-Hilal SFC,summer,in,Mathieu Patouillet,744934,21,France,Goalkeeper,GK,800000.0,Olympique Lyon,France,342000.0,0
+2025,Saudi Pro League,Al-Hilal SFC,summer,in,Abdulkarim Darisi,1188907,22,Saudi Arabia,Left Winger,LW,150000.0,Al-Ahli SFC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Hilal SFC,summer,in,Abderrazak Hamdallah,235052,34,Morocco,Centre-Forward,CF,1800000.0,Al-Shabab FC,Saudi Arabia,0.0,1
+2025,Saudi Pro League,Al-Hilal SFC,summer,out,Musab Al-Juwayr,901181,22,Saudi Arabia,Central Midfield,CM,4000000.0,Al-Qadsiah FC,Saudi Arabia,11520000.0,0
+2025,Saudi Pro League,Al-Hilal SFC,summer,out,Mohammed Al-Owais,262845,33,Saudi Arabia,Goalkeeper,GK,350000.0,Al-Ula FC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Hilal SFC,summer,out,Mohammed Barnawi,1020850,19,Saudi Arabia,Centre-Back,CB,100000.0,Al-Ittihad Club,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Hilal SFC,summer,out,Yasser Al-Shahrani,171915,33,Saudi Arabia,Left-Back,LB,750000.0,Al-Qadsiah FC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Hilal SFC,summer,out,Aleksandar Mitrović,51152,30,Serbia,Centre-Forward,CF,18000000.0,Al-Rayyan SC,Qatar,0.0,0
+2025,Saudi Pro League,Al-Hilal SFC,summer,out,Khalifah Al-Dawsari,631928,26,Saudi Arabia,Centre-Back,CB,150000.0,NEOM SC,Saudi Arabia,,0
+2025,Saudi Pro League,Al-Hilal SFC,summer,out,Renan Lodi,476352,27,Brazil,Left-Back,LB,13000000.0,Without Club,,,0
+2025,Saudi Pro League,Al-Hilal SFC,summer,out,Khalid Al-Ghannam,631923,24,Saudi Arabia,Left Winger,LW,300000.0,Al-Ettifaq FC,Saudi Arabia,0.0,1
+2025,Saudi Pro League,Al-Hilal SFC,summer,out,Abderrazak Hamdallah,235052,34,Morocco,Centre-Forward,CF,1800000.0,Al-Shabab FC,Saudi Arabia,0.0,1
+2025,Saudi Pro League,Al-Ittihad Club,summer,in,Roger Fernandes,906329,19,Portugal,Right Winger,RW,22000000.0,SC Braga,Portugal,32000000.0,0
+2025,Saudi Pro League,Al-Ittihad Club,summer,in,Mahamadou Doumbia,1033919,21,Mali,Central Midfield,CM,9000000.0,Royal Antwerp FC,Belgium,16000000.0,0
+2025,Saudi Pro League,Al-Ittihad Club,summer,in,Ahmed Al-Julaydan,1060901,21,Saudi Arabia,Right-Back,RB,300000.0,Al-Fateh SC,Saudi Arabia,10900000.0,0
+2025,Saudi Pro League,Al-Ittihad Club,summer,in,Hamed Al-Ghamdi,593337,26,Saudi Arabia,Central Midfield,CM,250000.0,Al-Ettifaq FC,Saudi Arabia,9160000.0,0
+2025,Saudi Pro League,Al-Ittihad Club,summer,in,Jan-Carlo Simić,800948,20,Serbia,Centre-Back,CB,8000000.0,RSC Anderlecht,Belgium,6000000.0,1
+2025,Saudi Pro League,Al-Ittihad Club,summer,in,Mohammed Barnawi,1020850,19,Saudi Arabia,Centre-Back,CB,100000.0,Al-Hilal SFC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Ittihad Club,summer,in,Mohammed Al-Absi,975383,22,Saudi Arabia,Goalkeeper,GK,100000.0,Al-Shabab FC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Ittihad Club,summer,out,Ahmed Bamsaud,514927,29,Saudi Arabia,Left-Back,LB,700000.0,Al-Fayha FC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Ittihad Club,summer,out,Hammam Al-Hammami,1118034,21,Saudi Arabia,Right Winger,RW,400000.0,Al-Shabab FC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Ittihad Club,summer,out,Mohammed Al-Mahasneh,901096,28,Saudi Arabia,Goalkeeper,GK,225000.0,Al-Shabab FC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Ittihad Club,summer,out,Saleh Al-Amri,229940,31,Saudi Arabia,Left Winger,LW,550000.0,Al-Khaleej FC,Saudi Arabia,,0
+2025,Saudi Pro League,Al-Ittihad Club,summer,out,Sultan Al-Farhan,268095,28,Saudi Arabia,Defensive Midfield,DM,175000.0,Al-Diraiyah FC,Saudi Arabia,,0
+2025,Saudi Pro League,Al-Ittihad Club,summer,out,Talal Haji,1145312,17,Saudi Arabia,Centre-Forward,CF,800000.0,Al-Riyadh SC,Saudi Arabia,0.0,1
+2025,Saudi Pro League,Al-Ittihad Club,summer,out,Unai Hernández,970633,20,Spain,Central Midfield,CM,1500000.0,Al-Shabab FC,Saudi Arabia,0.0,1
+2025,Saudi Pro League,Al-Ittihad Club,summer,out,Isaías Rodríguez,1236676,20,Argentina,Left-Back,LB,175000.0,Al-Batin FC,Saudi Arabia,0.0,1
+2025,Saudi Pro League,Al-Ittihad Club,summer,out,Farhah Al-Shamrani,1145311,19,Saudi Arabia,Attacking Midfield,AM,600000.0,Al-Riyadh SC,Saudi Arabia,0.0,1
+2025,Saudi Pro League,Al-Ittihad Club,summer,out,Bryant Ortega,930194,22,Venezuela,Central Midfield,CM,600000.0,Khor Fakkan SSC,United Arab Emirates,0.0,1
+2025,Saudi Pro League,Al-Ittihad Club,summer,out,Mateo Borrell,1301433,19,Argentina,Defensive Midfield,DM,,Al-Okhdood Club,Saudi Arabia,0.0,1
+2025,Saudi Pro League,Al-Ittihad Club,summer,out,Ricardo Caraballo,744015,21,Colombia,Centre-Forward,CF,150000.0,Al-Anwar Club,Saudi Arabia,0.0,1
+2025,Saudi Pro League,Al-Ittihad Club,summer,out,Marwan Al-Sahafi,1057857,21,Saudi Arabia,Left Winger,LW,1000000.0,Royal Antwerp FC,Belgium,0.0,1
+2025,Saudi Pro League,Al-Ittihad Club,summer,out,Abdalellah Hawsawi,1168837,24,Saudi Arabia,Central Midfield,CM,325000.0,Al-Taawoun FC,Saudi Arabia,0.0,1
+2025,Saudi Pro League,Al-Ittihad Club,summer,out,Abdulelah Al-Amri,509894,28,Saudi Arabia,Centre-Back,CB,1200000.0,Al-Nassr FC,Saudi Arabia,0.0,1
+2025,Saudi Pro League,Al-Ittihad Club,summer,out,Omar Al-Jadani,672378,26,Saudi Arabia,Left Winger,LW,25000.0,Without Club,,,0
+2025,Saudi Pro League,Al-Ittihad Club,summer,out,Raghadan Matri,1183149,23,Saudi Arabia,Goalkeeper,GK,,Without Club,,,0
+2025,Saudi Pro League,Al-Ittihad Club,summer,out,Hamed Al-Ghamdi,593337,26,Saudi Arabia,Central Midfield,CM,250000.0,Al-Ettifaq FC,Saudi Arabia,0.0,1
+2025,Saudi Pro League,Al-Khaleej FC,summer,in,Bart Schenkeveld,124895,33,Netherlands,Centre-Back,CB,800000.0,Panathinaikos FC,Greece,0.0,0
+2025,Saudi Pro League,Al-Khaleej FC,summer,in,Ahmed Asiri,209499,33,Saudi Arabia,Centre-Back,CB,100000.0,Al-Riyadh SC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Khaleej FC,summer,in,Joshua King,91059,33,Norway,Centre-Forward,CF,1800000.0,FC Toulouse,France,0.0,0
+2025,Saudi Pro League,Al-Khaleej FC,summer,in,Hamad Al-Jayzani,364445,32,Saudi Arabia,Right-Back,RB,175000.0,Al-Raed SFC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Khaleej FC,summer,in,Majed Kanabah,209515,33,Saudi Arabia,Defensive Midfield,DM,150000.0,Al-Shabab FC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Khaleej FC,summer,in,Abdullah Al-Hafith,193151,32,Saudi Arabia,Centre-Back,CB,200000.0,Al-Wehda FC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Khaleej FC,summer,in,Paolo Fernandes,284876,26,Spain,Right Winger,RW,800000.0,AEK Athens,Greece,0.0,1
+2025,Saudi Pro League,Al-Khaleej FC,summer,in,Georgios Masouras,329517,31,Greece,Left Winger,LW,2000000.0,Olympiacos Piraeus,Greece,0.0,1
+2025,Saudi Pro League,Al-Khaleej FC,summer,in,Anthony Moris,78570,35,Luxembourg,Goalkeeper,GK,1800000.0,Union Saint-Gilloise,Belgium,,0
+2025,Saudi Pro League,Al-Khaleej FC,summer,in,Saleh Al-Amri,229940,31,Saudi Arabia,Left Winger,LW,550000.0,Al-Ittihad Club,Saudi Arabia,,0
+2025,Saudi Pro League,Al-Khaleej FC,summer,in,Murad Al-Hawsawi,1161121,24,Saudi Arabia,Central Midfield,CM,250000.0,Ohod Club,Saudi Arabia,,0
+2025,Saudi Pro League,Al-Khaleej FC,summer,out,Saleh Abu Al-Shamat,901129,22,Saudi Arabia,Left Winger,LW,300000.0,Al-Ahli SFC,Saudi Arabia,2069999.9999999998,0
+2025,Saudi Pro League,Al-Khaleej FC,summer,out,Raed Ozaybi,888626,23,Saudi Arabia,Goalkeeper,GK,125000.0,NEOM SC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Khaleej FC,summer,out,Fábio Martins,223029,32,Portugal,Left Winger,LW,2200000.0,Al-Hazem SC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Khaleej FC,summer,out,Khaled Al-Sumairi,470011,28,Saudi Arabia,Defensive Midfield,DM,225000.0,Damac FC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Khaleej FC,summer,out,Ibrahim Sehic,46252,36,Bosnia-Herzegovina,Goalkeeper,GK,600000.0,Corum FK,Türkiye,0.0,0
+2025,Saudi Pro League,Al-Khaleej FC,summer,out,Mohamed Sherif,380873,29,Egypt,Centre-Forward,CF,750000.0,Al Ahly FC,Egypt,0.0,0
+2025,Saudi Pro League,Al-Khaleej FC,summer,out,Mohammed Al-Khaibari,901180,23,Saudi Arabia,Centre-Back,CB,200000.0,Al-Riyadh SC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Khaleej FC,summer,out,Abdullah Al-Fahad,359350,31,Saudi Arabia,Centre-Back,CB,225000.0,Abha Club,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Khaleej FC,summer,out,Abdullah Al-Salem,270377,32,Saudi Arabia,Centre-Forward,CF,250000.0,Al-Qadsiah FC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Khaleej FC,summer,out,Omar Al-Oudah,613283,26,Saudi Arabia,Right-Back,RB,25000.0,Al-Jubail Club,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Khaleej FC,summer,out,Murad Al-Hawsawi,1161121,24,Saudi Arabia,Central Midfield,CM,250000.0,Ohod Club,Saudi Arabia,0.0,1
+2025,Saudi Pro League,Al-Khaleej FC,summer,out,Hassan Al-Musallam,1211634,19,Saudi Arabia,Defensive Midfield,DM,,Al-Ettifaq FC,Saudi Arabia,0.0,1
+2025,Saudi Pro League,Al-Khaleej FC,summer,out,Thomas Murg,153190,30,Austria,Attacking Midfield,AM,1500000.0,PAOK Thessaloniki,Greece,0.0,1
+2025,Saudi Pro League,Al-Khaleej FC,summer,out,Marcel Tisserand,170463,32,DR Congo,Centre-Back,CB,1500000.0,Al-Ettifaq FC,Saudi Arabia,0.0,1
+2025,Saudi Pro League,Al-Kholood Club,summer,in,Ramiro Enrique,863139,24,Argentina,Centre-Forward,CF,2500000.0,Orlando City SC,United States,2810000.0,0
+2025,Saudi Pro League,Al-Kholood Club,summer,in,Jackson Muleka,549966,25,DR Congo,Centre-Forward,CF,3000000.0,Besiktas JK,Türkiye,1500000.0,0
+2025,Saudi Pro League,Al-Kholood Club,summer,in,John Buckley,503781,25,England,Central Midfield,CM,2200000.0,Blackburn Rovers,England,1160000.0,0
+2025,Saudi Pro League,Al-Kholood Club,summer,in,Abdulaziz Al-Aliwa,748080,21,Saudi Arabia,Left Winger,LW,100000.0,Al-Nassr FC,Saudi Arabia,114000.0,0
+2025,Saudi Pro League,Al-Kholood Club,summer,in,Muhannad Al-Yahya,1112047,20,Saudi Arabia,Goalkeeper,GK,,Al-Fateh SC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Kholood Club,summer,in,Hattan Bahebri,201379,33,Saudi Arabia,Left Winger,LW,450000.0,Al-Taawoun FC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Kholood Club,summer,in,Ramzi Solan,680170,27,Saudi Arabia,Right-Back,RB,300000.0,Damac FC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Kholood Club,summer,in,Shaquille Pinas,446248,27,Suriname,Centre-Back,CB,2500000.0,Hammarby IF,Sweden,,0
+2025,Saudi Pro League,Al-Kholood Club,summer,in,Abdulrahman Al-Dawsari,474967,27,Saudi Arabia,Defensive Midfield,DM,150000.0,Al-Qadsiah FC,Saudi Arabia,,0
+2025,Saudi Pro League,Al-Kholood Club,summer,in,Juan Pablo Cozzani,570470,26,Argentina,Goalkeeper,GK,3800000.0,Club Atlético Platense,Argentina,0.0,1
+2025,Saudi Pro League,Al-Kholood Club,summer,in,Guga,1253930,18,Brazil,Centre-Forward,CF,,Al-Qadsiah FC,Saudi Arabia,0.0,1
+2025,Saudi Pro League,Al-Kholood Club,summer,out,Jackson Muleka,549966,25,DR Congo,Centre-Forward,CF,3000000.0,Konyaspor,Türkiye,0.0,0
+2025,Saudi Pro League,Al-Kholood Club,summer,out,Mohammed Jahfali,159561,34,Saudi Arabia,Centre-Back,CB,100000.0,Al-Faisaly FC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Kholood Club,summer,out,Abdullah Al-Hawsawi,922497,29,Saudi Arabia,Right-Back,RB,225000.0,Al-Najma SC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Kholood Club,summer,out,Marcelo Grohe,52313,38,Brazil,Goalkeeper,GK,300000.0,Al-Shabab FC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Kholood Club,summer,out,Jassim Al-Oshbaan,1131851,31,Saudi Arabia,Goalkeeper,GK,75000.0,Al-Orobah FC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Kholood Club,summer,out,Meshari Al-Oufi,1375679,20,Saudi Arabia,Right Winger,RW,25000.0,NEOM SC U21,Saudi Arabia,,0
+2025,Saudi Pro League,Al-Kholood Club,summer,out,Abdulfattah Asiri,264236,31,Saudi Arabia,Right Winger,RW,125000.0,Without Club,,,0
+2025,Saudi Pro League,Al-Kholood Club,summer,out,Kebba Sowe,669379,19,The Gambia,Centre-Forward,CF,200000.0,Esperance Tunis,Tunisia,0.0,1
+2025,Saudi Pro League,Al-Kholood Club,summer,out,Zaid Al-Anazi,1268924,20,Saudi Arabia,Attacking Midfield,AM,75000.0,Al-Ula FC,Saudi Arabia,0.0,1
+2025,Saudi Pro League,Al-Kholood Club,summer,out,Ambrose Ochigbo,1310454,19,Nigeria,Defensive Midfield,DM,150000.0,ES Zarzis,Tunisia,0.0,1
+2025,Saudi Pro League,Al-Kholood Club,summer,out,Bassem Al-Arini,1311420,21,Saudi Arabia,Centre-Forward,CF,100000.0,Al-Taawoun FC,Saudi Arabia,0.0,1
+2025,Saudi Pro League,Al-Kholood Club,summer,out,Farhah Al-Shamrani,1145311,19,Saudi Arabia,Attacking Midfield,AM,600000.0,Al-Ittihad Club,Saudi Arabia,0.0,1
+2025,Saudi Pro League,Al-Kholood Club,summer,out,Hammam Al-Hammami,1118034,21,Saudi Arabia,Right Winger,RW,400000.0,Al-Ittihad Club,Saudi Arabia,0.0,1
+2025,Saudi Pro League,Al-Kholood Club,summer,out,Álex Collado,282722,26,Spain,Attacking Midfield,AM,2200000.0,Real Betis Balompié,Spain,0.0,1
+2025,Saudi Pro League,Al-Kholood Club,summer,out,Jackson Muleka,549966,25,DR Congo,Centre-Forward,CF,3000000.0,Besiktas JK,Türkiye,0.0,1
+2025,Saudi Pro League,Al-Kholood Club,summer,out,Hamdan Al-Shammrani,505496,28,Saudi Arabia,Left-Back,LB,500000.0,Al-Ettifaq FC,Saudi Arabia,0.0,1
+2025,Saudi Pro League,Al-Najma SC,summer,in,Samir Caetano,255744,30,Brazil,Centre-Back,CB,1800000.0,Tigres UANL,Mexico,5100000.0,0
+2025,Saudi Pro League,Al-Najma SC,summer,in,Lázaro,574772,23,Brazil,Left Winger,LW,2000000.0,UD Almería,Spain,5000000.0,0
+2025,Saudi Pro League,Al-Najma SC,summer,in,Bilal Boutobba,344151,26,France,Right Winger,RW,1700000.0,Hatayspor,Türkiye,1200000.0,0
+2025,Saudi Pro League,Al-Najma SC,summer,in,Victor Braga,380478,33,Brazil,Goalkeeper,GK,350000.0,AEL Limassol,Cyprus,170000.0,0
+2025,Saudi Pro League,Al-Najma SC,summer,in,Vitor Vargas,1112448,21,Brazil,Left-Back,LB,,Al-Jazira Club,United Arab Emirates,0.0,0
+2025,Saudi Pro League,Al-Najma SC,summer,in,Abdulelah Al-Shammari,921112,26,Saudi Arabia,Attacking Midfield,AM,225000.0,Abha Club,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Najma SC,summer,in,Jawad El Yamiq,235412,33,Morocco,Centre-Back,CB,1200000.0,Al-Wehda FC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Najma SC,summer,in,Rakan Al-Tulayhi,1003583,22,Saudi Arabia,Attacking Midfield,AM,100000.0,Al-Taawoun FC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Najma SC,summer,in,Walid Al-Enezi,939942,29,Saudi Arabia,Goalkeeper,GK,75000.0,Al-Fateh SC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Najma SC,summer,in,Nasser Al-Haleel,1180570,25,Saudi Arabia,Centre-Back,CB,175000.0,Al-Jubail Club,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Najma SC,summer,in,Abdullah Al-Hawsawi,922497,29,Saudi Arabia,Right-Back,RB,225000.0,Al-Kholood Club,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Najma SC,summer,in,Fahad Al-Abdulrazzaq,1168993,25,Saudi Arabia,Right-Back,RB,175000.0,Al-Taawoun FC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Najma SC,summer,in,Mohammed Mansour,1161034,25,Saudi Arabia,Right Winger,RW,100000.0,Al-Arabi SC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Najma SC,summer,in,Abdulwahid Al-Nakhli,1131101,28,Saudi Arabia,Central Midfield,CM,175000.0,Al-Jandal SC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Najma SC,summer,in,Romell Quioto,221907,33,Honduras,Centre-Forward,CF,650000.0,Al-Arabi SC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Najma SC,summer,in,Ammar Al-Najjar,487472,28,Saudi Arabia,Attacking Midfield,AM,150000.0,Jeddah SC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Najma SC,summer,in,Deybi Flores,354775,29,Honduras,Defensive Midfield,DM,800000.0,Toronto FC,Canada,,0
+2025,Saudi Pro League,Al-Najma SC,summer,in,David Tijanic,351792,28,Slovenia,Attacking Midfield,AM,1800000.0,Göztepe,Türkiye,,0
+2025,Saudi Pro League,Al-Najma SC,summer,in,Mohammed Al-Kunaydiri,886841,24,Saudi Arabia,Left-Back,LB,225000.0,Al-Tai FC,Saudi Arabia,,0
+2025,Saudi Pro League,Al-Najma SC,summer,in,Nawaf Al-Hawsawi,1169025,24,Saudi Arabia,Left-Back,LB,125000.0,Al-Riyadh SC,Saudi Arabia,0.0,1
+2025,Saudi Pro League,Al-Najma SC,summer,in,Ali Jasim,877672,21,Iraq,Left Winger,LW,550000.0,Como 1907,Italy,0.0,1
+2025,Saudi Pro League,Al-Najma SC,summer,in,Hisham Al-Dubais,1051402,23,Saudi Arabia,Centre-Forward,CF,200000.0,Al-Shabab FC,Saudi Arabia,0.0,1
+2025,Saudi Pro League,Al-Najma SC,summer,in,Marin Prekodravac,946971,20,Croatia,Defensive Midfield,DM,350000.0,Without Club,,,0
+2025,Saudi Pro League,Al-Najma SC,summer,out,Ali Adnan,261611,31,Iraq,Centre-Back,CB,175000.0,Al-Wehda FC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Najma SC,summer,out,Riyadh Al-Ibrahim,364397,31,Saudi Arabia,Attacking Midfield,AM,100000.0,Al-Adalah FC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Najma SC,summer,out,Sylla Sow,343184,29,Netherlands,Centre-Forward,CF,550000.0,Abha Club,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Najma SC,summer,out,Nawaf Al-Reshoodi,821412,25,Saudi Arabia,Attacking Midfield,AM,25000.0,Al-Jubail Club,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Najma SC,summer,out,Riyadh Al-Asmari,1295508,22,Saudi Arabia,Right-Back,RB,50000.0,Al-Jubail Club,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Najma SC,summer,out,Léo Tilica,393839,30,Brazil,Central Midfield,CM,450000.0,Dibba Al-Hisn SC,United Arab Emirates,0.0,0
+2025,Saudi Pro League,Al-Najma SC,summer,out,Munif Doshy,1180569,28,Saudi Arabia,Left-Back,LB,225000.0,Al-Faisaly FC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Najma SC,summer,out,Ziyad Al-Qahtani,1170034,29,Saudi Arabia,Defensive Midfield,DM,275000.0,Al-Diraiyah FC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Najma SC,summer,out,Abdullah Bilal,470836,30,Saudi Arabia,Centre-Forward,CF,75000.0,Al-Washm,Saudi Arabia,,0
+2025,Saudi Pro League,Al-Najma SC,summer,out,Osama Al-Bawardi,1144235,26,Saudi Arabia,Right-Back,RB,250000.0,Al-Riyadh SC,Saudi Arabia,,0
+2025,Saudi Pro League,Al-Najma SC,summer,out,Rayan Enad,1170033,24,Saudi Arabia,Right Winger,RW,125000.0,Al-Fayha FC,Saudi Arabia,,0
+2025,Saudi Pro League,Al-Najma SC,summer,out,Mohammed Al-Furaydi,1170039,26,Saudi Arabia,Central Midfield,CM,25000.0,Tuwaiq FC,Saudi Arabia,0.0,1
+2025,Saudi Pro League,Al-Najma SC,summer,out,Omar Al-Ruwaili,901133,26,Saudi Arabia,Centre-Forward,CF,75000.0,Without Club,,,0
+2025,Saudi Pro League,Al-Najma SC,summer,out,Max Walef,592336,31,Brazil,Goalkeeper,GK,300000.0,Without Club,,,0
+2025,Saudi Pro League,Al-Najma SC,summer,out,Bilel Aouacheria,290530,31,France,Left Winger,LW,375000.0,Without Club,,,0
+2025,Saudi Pro League,Al-Najma SC,summer,out,Fahad Al-Taleb,1317910,21,Saudi Arabia,Attacking Midfield,AM,10000.0,Al-Nassr FC,Saudi Arabia,0.0,1
+2025,Saudi Pro League,Al-Najma SC,summer,out,Sultan Al-Akouz,967350,24,Saudi Arabia,Left Winger,LW,100000.0,Al-Wehda FC,Saudi Arabia,0.0,1
+2025,Saudi Pro League,Al-Najma SC,summer,out,Nasser Al-Bishi,1009026,23,Saudi Arabia,Central Midfield,CM,75000.0,Al-Riyadh SC,Saudi Arabia,0.0,1
+2025,Saudi Pro League,Al-Najma SC,summer,out,Abdulrahman Obaid Al-Obaid,1317911,20,Saudi Arabia,Centre-Back,CB,100000.0,Al-Ittihad Club,Saudi Arabia,0.0,1
+2025,Saudi Pro League,Al-Nassr FC,summer,in,Mohamed Simakan,666234,25,France,Centre-Back,CB,23000000.0,RB Leipzig,Germany,35000000.0,0
+2025,Saudi Pro League,Al-Nassr FC,summer,in,João Félix,462250,25,Portugal,Second Striker,SS,20000000.0,Chelsea FC,England,30000000.0,0
+2025,Saudi Pro League,Al-Nassr FC,summer,in,Kingsley Coman,243714,29,France,Left Winger,LW,30000000.0,Bayern Munich,Germany,25000000.0,0
+2025,Saudi Pro League,Al-Nassr FC,summer,in,Saad Al-Nasser,888634,24,Saudi Arabia,Left-Back,LB,650000.0,Al-Taawoun FC,Saudi Arabia,9770000.0,0
+2025,Saudi Pro League,Al-Nassr FC,summer,in,Haroune Camara,31406,27,Saudi Arabia,Centre-Forward,CF,400000.0,Al-Shabab FC,Saudi Arabia,3400000.0,0
+2025,Saudi Pro League,Al-Nassr FC,summer,in,Abdulmalik Al-Jaber,1020852,21,Saudi Arabia,Central Midfield,CM,700000.0,FK Zeljeznicar Sarajevo,Bosnia-Herzegovina,1800000.0,0
+2025,Saudi Pro League,Al-Nassr FC,summer,in,Iñigo Martínez,158863,34,Spain,Centre-Back,CB,5000000.0,FC Barcelona,Spain,0.0,0
+2025,Saudi Pro League,Al-Nassr FC,summer,in,Nader Al-Sharari,364773,29,Saudi Arabia,Centre-Back,CB,450000.0,Al-Shabab FC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Nassr FC,summer,out,Aymeric Laporte,176553,31,Spain,Centre-Back,CB,15000000.0,Athletic Bilbao,Spain,10000000.0,0
+2025,Saudi Pro League,Al-Nassr FC,summer,out,Ali Lajami,264909,29,Saudi Arabia,Centre-Back,CB,900000.0,Al-Hilal SFC,Saudi Arabia,941000.0,0
+2025,Saudi Pro League,Al-Nassr FC,summer,out,Meshari Al-Nemer,1013848,22,Saudi Arabia,Centre-Forward,CF,175000.0,Al-Diraiyah FC,Saudi Arabia,364000.0,0
+2025,Saudi Pro League,Al-Nassr FC,summer,out,Abdulaziz Al-Faraj,1020858,22,Saudi Arabia,Right-Back,RB,150000.0,Al-Diraiyah FC,Saudi Arabia,229000.0,0
+2025,Saudi Pro League,Al-Nassr FC,summer,out,Abdulaziz Al-Aliwa,748080,21,Saudi Arabia,Left Winger,LW,100000.0,Al-Kholood Club,Saudi Arabia,114000.0,0
+2025,Saudi Pro League,Al-Nassr FC,summer,out,Fahad Al-Taleb,1317910,22,Saudi Arabia,Attacking Midfield,AM,10000.0,Al-Wehda FC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Nassr FC,summer,out,Otávio,231289,30,Portugal,Attacking Midfield,AM,15000000.0,Al-Qadsiah FC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Nassr FC,summer,out,Amin Al-Bukhari,509875,28,Saudi Arabia,Goalkeeper,GK,125000.0,Al-Fateh SC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Nassr FC,summer,out,Mohammed Hazazi,1145309,19,Saudi Arabia,Defensive Midfield,DM,,Al-Ittihad Club U21,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Nassr FC,summer,out,Fahad Aqeel Al-Zubaidi,1145037,23,Saudi Arabia,Right Winger,RW,175000.0,Al-Fateh SC,Saudi Arabia,,0
+2025,Saudi Pro League,Al-Nassr FC,summer,out,Majed Qasheesh,1065823,23,Saudi Arabia,Left-Back,LB,275000.0,Al-Fateh SC,Saudi Arabia,0.0,1
+2025,Saudi Pro League,Al-Nassr FC,summer,out,Asser Housawi,1234325,23,Saudi Arabia,Centre-Back,CB,125000.0,Al-Arabi SC,Saudi Arabia,0.0,1
+2025,Saudi Pro League,Al-Nassr FC,summer,out,Abdulmajeed Al-Sulayhim,324633,31,Saudi Arabia,Central Midfield,CM,450000.0,Al-Ula FC,Saudi Arabia,0.0,1
+2025,Saudi Pro League,Al-Nassr FC,summer,out,Jhon Durán,649317,21,Colombia,Centre-Forward,CF,35000000.0,Fenerbahce,Türkiye,0.0,1
+2025,Saudi Pro League,Al-Nassr FC,summer,out,Ahmad Al-Rehaili,352715,30,Saudi Arabia,Goalkeeper,GK,100000.0,Al-Ettifaq FC,Saudi Arabia,0.0,1
+2025,Saudi Pro League,Al-Nassr FC,summer,out,Mohammed Al-Fatil,193150,33,Saudi Arabia,Centre-Back,CB,125000.0,Without Club,,,0
+2025,Saudi Pro League,Al-Nassr FC,summer,out,Hamad Al-Mansour,364454,32,Saudi Arabia,Right-Back,RB,50000.0,Without Club,,,0
+2025,Saudi Pro League,Al-Nassr FC,summer,out,Mansour Al-Shammari,935926,24,Saudi Arabia,Left-Back,LB,175000.0,Without Club,,,0
+2025,Saudi Pro League,Al-Nassr FC,summer,out,Mohamed Simakan,666234,25,France,Centre-Back,CB,23000000.0,RB Leipzig,Germany,0.0,1
+2025,Saudi Pro League,Al-Okhdood Club,summer,in,Blaz Kramer,322288,29,Slovenia,Centre-Forward,CF,1100000.0,Konyaspor,Türkiye,644000.0,1
+2025,Saudi Pro League,Al-Okhdood Club,summer,in,Samuel Portugal,284701,31,Brazil,Goalkeeper,GK,1000000.0,FC Porto,Portugal,215000.0,1
+2025,Saudi Pro League,Al-Okhdood Club,summer,in,Mohammed Abu Abd,1061462,23,Saudi Arabia,Right-Back,RB,175000.0,Al-Adalah FC,Saudi Arabia,183000.0,0
+2025,Saudi Pro League,Al-Okhdood Club,summer,in,Khaled Narey,153664,31,Togo,Right Winger,RW,2500000.0,Al-Ula FC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Okhdood Club,summer,in,Hatem Al-Juhani,364708,29,Saudi Arabia,Goalkeeper,GK,150000.0,Al-Adalah FC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Okhdood Club,summer,in,Koray Günter,115763,30,Germany,Centre-Back,CB,700000.0,Hellas Verona,Italy,0.0,0
+2025,Saudi Pro League,Al-Okhdood Club,summer,in,Gökhan Gül,269171,27,Germany,Defensive Midfield,DM,1700000.0,Kasimpasa,Türkiye,0.0,0
+2025,Saudi Pro League,Al-Okhdood Club,summer,in,Ali Al-Salem,1058034,27,Saudi Arabia,Centre-Back,CB,200000.0,Al-Wehda FC,Saudi Arabia,0.0,1
+2025,Saudi Pro League,Al-Okhdood Club,summer,in,Mateo Borrell,1301433,19,Argentina,Defensive Midfield,DM,,Al-Ittihad Club,Saudi Arabia,0.0,1
+2025,Saudi Pro League,Al-Okhdood Club,summer,in,Burak İnce,697144,21,Türkiye,Right Winger,RW,400000.0,Without Club,,,0
+2025,Saudi Pro League,Al-Okhdood Club,summer,out,Ousmane Pato,21286,33,Guinea,Centre-Forward,CF,150000.0,Al-Bukiryah FC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Okhdood Club,summer,out,Masalah Al-Shaekh,490831,29,Saudi Arabia,Left Winger,LW,225000.0,Al-Raed SFC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Okhdood Club,summer,out,Mohammed Al-Saeed,504124,28,Saudi Arabia,Left-Back,LB,175000.0,Al-Riyadh SC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Okhdood Club,summer,out,Diego Ferreira,668232,22,Brazil,Left-Back,LB,100000.0,Dibba SCC,United Arab Emirates,0.0,0
+2025,Saudi Pro League,Al-Okhdood Club,summer,out,Knowledge Musona,120785,35,Zimbabwe,Attacking Midfield,AM,350000.0,Scottland Football Club,Zimbabwe,0.0,0
+2025,Saudi Pro League,Al-Okhdood Club,summer,out,Karim Ashraf,1382789,21,Egypt,Centre-Forward,CF,25000.0,Al-Raed SFC U21,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Okhdood Club,summer,out,Saviour Godwin,295327,28,Nigeria,Left Winger,LW,2000000.0,FC Baniyas,United Arab Emirates,0.0,0
+2025,Saudi Pro League,Al-Okhdood Club,summer,out,Paulo Vítor,419120,36,Brazil,Goalkeeper,GK,200000.0,Atlético Clube Goianiense,Brazil,,0
+2025,Saudi Pro League,Al-Okhdood Club,summer,out,Damion Lowe,271716,32,Jamaica,Centre-Back,CB,400000.0,Without Club,,,0
+2025,Saudi Pro League,Al-Okhdood Club,summer,out,Awadh Khamis,265939,36,Saudi Arabia,Left-Back,LB,100000.0,Without Club,,,0
+2025,Saudi Pro League,Al-Okhdood Club,summer,out,Ibrahima Koné,490223,26,Mali,Centre-Forward,CF,1800000.0,UD Almería,Spain,0.0,1
+2025,Saudi Pro League,Al-Okhdood Club,summer,out,Yaseen Al-Zubaidi,1061025,22,Saudi Arabia,Right Winger,RW,175000.0,Al-Ahli SFC,Saudi Arabia,0.0,1
+2025,Saudi Pro League,Al-Qadsiah FC,summer,in,Mateo Retegui,554903,26,Italy,Centre-Forward,CF,45000000.0,Atalanta BC,Italy,68250000.0,0
+2025,Saudi Pro League,Al-Qadsiah FC,summer,in,Christopher Bonsu Baah,1119447,20,Ghana,Left Winger,LW,7500000.0,KRC Genk,Belgium,17000000.0,0
+2025,Saudi Pro League,Al-Qadsiah FC,summer,in,Gabriel Carvalho,1089144,18,Brazil,Right Winger,RW,12000000.0,Sport Club Internacional,Brazil,15600000.0,0
+2025,Saudi Pro League,Al-Qadsiah FC,summer,in,Musab Al-Juwayr,901181,22,Saudi Arabia,Central Midfield,CM,4000000.0,Al-Hilal SFC,Saudi Arabia,11520000.0,0
+2025,Saudi Pro League,Al-Qadsiah FC,summer,in,Julian Weigl,196792,29,Germany,Defensive Midfield,DM,6000000.0,Borussia Mönchengladbach,Germany,8000000.0,0
+2025,Saudi Pro League,Al-Qadsiah FC,summer,in,Mohamed Al-Thani,922103,28,Saudi Arabia,Right-Back,RB,900000.0,Al-Hazem SC,Saudi Arabia,2530000.0,0
+2025,Saudi Pro League,Al-Qadsiah FC,summer,in,Meshary Sanyor,901767,23,Saudi Arabia,Goalkeeper,GK,400000.0,Al-Raed SFC,Saudi Arabia,1150000.0,0
+2025,Saudi Pro League,Al-Qadsiah FC,summer,in,Otávio,231289,30,Portugal,Attacking Midfield,AM,15000000.0,Al-Nassr FC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Qadsiah FC,summer,in,Abdullah Al-Salem,270377,32,Saudi Arabia,Centre-Forward,CF,250000.0,Al-Khaleej FC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Qadsiah FC,summer,in,Yasser Al-Shahrani,171915,33,Saudi Arabia,Left-Back,LB,750000.0,Al-Hilal SFC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Qadsiah FC,summer,in,Anas Al-Ahmadi,1324802,20,Saudi Arabia,Right Winger,RW,25000.0,Ohod Club,Saudi Arabia,,0
+2025,Saudi Pro League,Al-Qadsiah FC,summer,out,Equi Fernández,664708,23,Argentina,Defensive Midfield,DM,12000000.0,Bayer 04 Leverkusen,Germany,25000000.0,0
+2025,Saudi Pro League,Al-Qadsiah FC,summer,out,Mohammed Al-Shanqiti,631931,26,Saudi Arabia,Left-Back,LB,75000.0,Al-Faisaly FC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Qadsiah FC,summer,out,Nafea Al-Sumairi,1353882,23,Saudi Arabia,Left Winger,LW,,Al-Jeel Club,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Qadsiah FC,summer,out,Mohammed Al-Marri,1020860,22,Saudi Arabia,Right Winger,RW,25000.0,Al-Adalah FC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Qadsiah FC,summer,out,Taher Wadi,1179619,23,Saudi Arabia,Right-Back,RB,,Al-Diraiyah FC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Qadsiah FC,summer,out,Pierre-Emerick Aubameyang,58864,36,Gabon,Centre-Forward,CF,3500000.0,Olympique Marseille,France,0.0,0
+2025,Saudi Pro League,Al-Qadsiah FC,summer,out,Carlos Jiménez,1063334,19,Spain,Centre-Back,CB,,CD Eldense,Spain,0.0,1
+2025,Saudi Pro League,Al-Qadsiah FC,summer,out,Abdulrahman Al-Dawsari,474967,27,Saudi Arabia,Defensive Midfield,DM,150000.0,Al-Kholood Club,Saudi Arabia,,0
+2025,Saudi Pro League,Al-Qadsiah FC,summer,out,Mousa Al-Hamidi Al-Harbi,1305989,22,Saudi Arabia,Centre-Back,CB,,Al-Bukiryah FC,Saudi Arabia,0.0,1
+2025,Saudi Pro League,Al-Qadsiah FC,summer,out,Abdulaziz Al-Othman,1208196,21,Saudi Arabia,Centre-Forward,CF,250000.0,Al-Shabab FC,Saudi Arabia,0.0,1
+2025,Saudi Pro League,Al-Qadsiah FC,summer,out,Miguel Carvalho,931677,20,Spain,Attacking Midfield,AM,300000.0,Al-Hazem SC,Saudi Arabia,0.0,1
+2025,Saudi Pro League,Al-Qadsiah FC,summer,out,Iker Almena,1061656,21,Spain,Right Winger,RW,1300000.0,HNK Hajduk Split,Croatia,0.0,1
+2025,Saudi Pro League,Al-Qadsiah FC,summer,out,Cameron Puertas,449592,27,Spain,Attacking Midfield,AM,13000000.0,SV Werder Bremen,Germany,0.0,1
+2025,Saudi Pro League,Al-Qadsiah FC,summer,out,Jerry Afriyie,1332184,18,Ghana,Centre-Forward,CF,200000.0,RAAL La Louvière ,Belgium,0.0,1
+2025,Saudi Pro League,Al-Qadsiah FC,summer,out,Guga,1253930,18,Brazil,Centre-Forward,CF,,Al-Kholood Club,Saudi Arabia,0.0,1
+2025,Saudi Pro League,Al-Qadsiah FC,summer,out,Aarón Martin,1270449,18,Spain,Central Midfield,CM,1000000.0,CD Mirandés,Spain,0.0,1
+2025,Saudi Pro League,Al-Qadsiah FC,summer,out,Abdullah Hassoun,509900,28,Saudi Arabia,Right-Back,RB,175000.0,Without Club,,,0
+2025,Saudi Pro League,Al-Qadsiah FC,summer,out,Abdulaziz Al-Awairdhi,1101703,23,Saudi Arabia,Goalkeeper,GK,100000.0,Al-Riyadh SC,Saudi Arabia,0.0,1
+2025,Saudi Pro League,Al-Riyadh SC,summer,in,Ahmed Khatir,1027421,20,Morocco,Centre-Back,CB,300000.0,SK Beveren,Belgium,400000.0,0
+2025,Saudi Pro League,Al-Riyadh SC,summer,in,Emad Al-Feda,901336,28,Saudi Arabia,Goalkeeper,GK,,Al-Ahli SFC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Riyadh SC,summer,in,Khalil Al-Absi,901253,24,Saudi Arabia,Left Winger,LW,200000.0,Al-Jabalain FC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Riyadh SC,summer,in,Mamadou Sylla,166683,31,Senegal,Centre-Forward,CF,1200000.0,Real Valladolid CF,Spain,0.0,0
+2025,Saudi Pro League,Al-Riyadh SC,summer,in,Sergio González,308989,33,Spain,Centre-Back,CB,800000.0,CD Leganés,Spain,0.0,0
+2025,Saudi Pro League,Al-Riyadh SC,summer,in,Khaled Al-Asbahi,1019988,22,Yemen,Left Midfield,LM,125000.0,Kalba FC,United Arab Emirates,0.0,0
+2025,Saudi Pro League,Al-Riyadh SC,summer,in,Sultan Al-Essa,1235479,20,Saudi Arabia,Right-Back,RB,25000.0,Al-Hazem SC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Riyadh SC,summer,in,Mohammed Al-Saeed,504124,28,Saudi Arabia,Left-Back,LB,175000.0,Al-Okhdood Club,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Riyadh SC,summer,in,Mohammed Al-Khaibari,901180,23,Saudi Arabia,Centre-Back,CB,200000.0,Al-Khaleej FC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Riyadh SC,summer,in,Jan Petek,1157538,19,Slovenia,Goalkeeper,GK,150000.0,NK Aluminij Kidricevo,Slovenia,0.0,0
+2025,Saudi Pro League,Al-Riyadh SC,summer,in,Sulaiman Hazazi,881438,22,Saudi Arabia,Left-Back,LB,150000.0,Al-Zulfi SFC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Riyadh SC,summer,in,Maher Al-Mutairi,1143308,26,Saudi Arabia,Attacking Midfield,AM,100000.0,Al-Zulfi SFC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Riyadh SC,summer,in,Ismaila Soro,466765,27,Cote d'Ivoire,Defensive Midfield,DM,750000.0,Beitar Jerusalem,Israel,0.0,0
+2025,Saudi Pro League,Al-Riyadh SC,summer,in,Talal Al-Shbely,1377531,20,Saudi Arabia,Defensive Midfield,DM,,Al-Raed SFC,Saudi Arabia,,0
+2025,Saudi Pro League,Al-Riyadh SC,summer,in,Teddy Okou,503327,27,France,Right Winger,RW,1200000.0,FC Luzern,Switzerland,,0
+2025,Saudi Pro League,Al-Riyadh SC,summer,in,Fahad Al-Jayzani,1303181,21,Saudi Arabia,Defensive Midfield,DM,125000.0,Jeddah SC,Saudi Arabia,,0
+2025,Saudi Pro League,Al-Riyadh SC,summer,in,Osama Al-Bawardi,1144235,26,Saudi Arabia,Right-Back,RB,250000.0,Al-Najma SC,Saudi Arabia,,0
+2025,Saudi Pro League,Al-Riyadh SC,summer,in,Talal Haji,1145312,17,Saudi Arabia,Centre-Forward,CF,800000.0,Al-Ittihad Club,Saudi Arabia,0.0,1
+2025,Saudi Pro League,Al-Riyadh SC,summer,in,Farhah Al-Shamrani,1145311,19,Saudi Arabia,Attacking Midfield,AM,600000.0,Al-Ittihad Club,Saudi Arabia,0.0,1
+2025,Saudi Pro League,Al-Riyadh SC,summer,in,Ammar Al-Harfi,1161128,24,Saudi Arabia,Right-Back,RB,,Al-Ula FC,Saudi Arabia,0.0,1
+2025,Saudi Pro League,Al-Riyadh SC,summer,in,Abdullah Hassoun,509900,28,Saudi Arabia,Right-Back,RB,175000.0,Without Club,,,0
+2025,Saudi Pro League,Al-Riyadh SC,summer,out,Abdulelah Al-Khaibri,1169016,28,Saudi Arabia,Left-Back,LB,450000.0,Al-Ahli SFC,Saudi Arabia,2960000.0,0
+2025,Saudi Pro League,Al-Riyadh SC,summer,out,Mohamed Konaté,457743,27,Burkina Faso,Centre-Forward,CF,2300000.0,Akhmat Grozny,Russia,0.0,0
+2025,Saudi Pro League,Al-Riyadh SC,summer,out,Abdulaziz Al-Awairdhi,1101703,23,Saudi Arabia,Goalkeeper,GK,100000.0,Al-Shabab FC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Riyadh SC,summer,out,Maher Al-Mutairi,1143308,26,Saudi Arabia,Attacking Midfield,AM,100000.0,Al-Zulfi SFC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Riyadh SC,summer,out,Yazeed Al-Bakr,164590,29,Saudi Arabia,Right-Back,RB,50000.0,Al-Zulfi SFC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Riyadh SC,summer,out,Ahmed Asiri,209499,33,Saudi Arabia,Centre-Back,CB,100000.0,Al-Khaleej FC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Riyadh SC,summer,out,Hussain Al-Nuweqi,1051397,29,Saudi Arabia,Right-Back,RB,225000.0,Al-Jabalain FC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Riyadh SC,summer,out,Mohammed Al-Aqel,922459,25,Saudi Arabia,Right Winger,RW,150000.0,Al-Taawoun FC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Riyadh SC,summer,out,Bernard Mensah,324321,30,Ghana,Attacking Midfield,AM,2500000.0,Al-Nasr SC (UAE),United Arab Emirates,0.0,0
+2025,Saudi Pro League,Al-Riyadh SC,summer,out,Lucas Kal,435489,29,Brazil,Central Midfield,CM,1300000.0,Sport Club do Recife,Brazil,0.0,0
+2025,Saudi Pro League,Al-Riyadh SC,summer,out,Faïz Selemani,352017,31,Comoros,Left Winger,LW,1500000.0,Qatar SC,Qatar,0.0,0
+2025,Saudi Pro League,Al-Riyadh SC,summer,out,Sekou Lega,744941,22,France,Centre-Forward,CF,200000.0,Kalba FC,United Arab Emirates,0.0,0
+2025,Saudi Pro League,Al-Riyadh SC,summer,out,Bader Al-Mutairi,1169021,21,Saudi Arabia,Midfielder,Midfielder,50000.0,Abha Club,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Riyadh SC,summer,out,Enzo Roco,186862,32,Chile,Centre-Back,CB,600000.0,Fatih Karagümrük,Türkiye,,0
+2025,Saudi Pro League,Al-Riyadh SC,summer,out,Rayan Al-Bloushi,901084,24,Saudi Arabia,Centre-Forward,CF,100000.0,Al-Jabalain FC,Saudi Arabia,0.0,1
+2025,Saudi Pro League,Al-Riyadh SC,summer,out,Suwailem Al-Manhali,1060927,21,Saudi Arabia,Centre-Back,CB,100000.0,Abha Club,Saudi Arabia,0.0,1
+2025,Saudi Pro League,Al-Riyadh SC,summer,out,Fahad Al-Jayzani,1303181,21,Saudi Arabia,Defensive Midfield,DM,125000.0,Abha Club,Saudi Arabia,0.0,1
+2025,Saudi Pro League,Al-Riyadh SC,summer,out,Nawaf Al-Hawsawi,1169025,24,Saudi Arabia,Left-Back,LB,125000.0,Al-Najma SC,Saudi Arabia,0.0,1
+2025,Saudi Pro League,Al-Riyadh SC,summer,out,Sultan Al-Essa,1235479,20,Saudi Arabia,Right-Back,RB,25000.0,Al-Hazem SC U21,Saudi Arabia,0.0,1
+2025,Saudi Pro League,Al-Riyadh SC,summer,out,Vincent Angelini,736251,21,Scotland,Goalkeeper,GK,75000.0,Without Club,,,0
+2025,Saudi Pro League,Al-Riyadh SC,summer,out,Nawaf Al-Abed,149643,35,Saudi Arabia,Attacking Midfield,AM,125000.0,Without Club,,,0
+2025,Saudi Pro League,Al-Riyadh SC,summer,out,Enes Sali,875252,19,Romania,Left Winger,LW,1200000.0,FC Dallas,United States,0.0,1
+2025,Saudi Pro League,Al-Riyadh SC,summer,out,Talal Haji,1145312,17,Saudi Arabia,Centre-Forward,CF,800000.0,Al-Ittihad Club,Saudi Arabia,0.0,1
+2025,Saudi Pro League,Al-Shabab FC,summer,in,Yacine Adli,395236,25,France,Defensive Midfield,DM,11000000.0,AC Milan,Italy,7000000.0,0
+2025,Saudi Pro League,Al-Shabab FC,summer,in,Vincent Sierro,280387,29,Switzerland,Central Midfield,CM,4000000.0,FC Toulouse,France,3000000.0,0
+2025,Saudi Pro League,Al-Shabab FC,summer,in,Ali Makki,1066198,26,Saudi Arabia,Centre-Back,CB,200000.0,Al-Wehda FC,Saudi Arabia,1370000.0,0
+2025,Saudi Pro League,Al-Shabab FC,summer,in,Mobarak Al-Rajeh,1092876,22,Saudi Arabia,Centre-Back,CB,375000.0,Al-Raed SFC,Saudi Arabia,343000.0,0
+2025,Saudi Pro League,Al-Shabab FC,summer,in,Faisal Al-Subiani,1060930,22,Saudi Arabia,Defensive Midfield,DM,350000.0,Al-Ahli SFC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Shabab FC,summer,in,Abdulaziz Al-Awairdhi,1101703,23,Saudi Arabia,Goalkeeper,GK,100000.0,Al-Riyadh SC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Shabab FC,summer,in,Mohammed Al-Mahasneh,901096,28,Saudi Arabia,Goalkeeper,GK,225000.0,Al-Ittihad Club,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Shabab FC,summer,in,Hammam Al-Hammami,1118034,21,Saudi Arabia,Right Winger,RW,400000.0,Al-Ittihad Club,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Shabab FC,summer,in,Marcelo Grohe,52313,38,Brazil,Goalkeeper,GK,300000.0,Al-Kholood Club,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Shabab FC,summer,in,Josh Brownhill,293569,29,England,Central Midfield,CM,14000000.0,Burnley FC,England,0.0,0
+2025,Saudi Pro League,Al-Shabab FC,summer,in,Abdulaziz Al-Othman,1208196,21,Saudi Arabia,Centre-Forward,CF,250000.0,Al-Qadsiah FC,Saudi Arabia,0.0,1
+2025,Saudi Pro League,Al-Shabab FC,summer,in,Unai Hernández,970633,20,Spain,Central Midfield,CM,1500000.0,Al-Ittihad Club,Saudi Arabia,0.0,1
+2025,Saudi Pro League,Al-Shabab FC,summer,in,Saad Balobaid,821382,25,Saudi Arabia,Left-Back,LB,650000.0,Al-Ahli SFC,Saudi Arabia,0.0,1
+2025,Saudi Pro League,Al-Shabab FC,summer,out,Haroune Camara,31406,27,Saudi Arabia,Centre-Forward,CF,400000.0,Al-Nassr FC,Saudi Arabia,3400000.0,0
+2025,Saudi Pro League,Al-Shabab FC,summer,out,Majed Kanabah,209515,33,Saudi Arabia,Defensive Midfield,DM,150000.0,Al-Khaleej FC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Shabab FC,summer,out,Mohammed Al-Absi,975383,22,Saudi Arabia,Goalkeeper,GK,100000.0,Al-Ittihad Club,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Shabab FC,summer,out,Cristian Guanca,167423,32,Argentina,Attacking Midfield,AM,3800000.0,Al-Ula FC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Shabab FC,summer,out,Habib Diallo,344888,30,Senegal,Centre-Forward,CF,6500000.0,FC Metz,France,0.0,0
+2025,Saudi Pro League,Al-Shabab FC,summer,out,Nader Al-Sharari,364773,29,Saudi Arabia,Centre-Back,CB,450000.0,Al-Nassr FC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Shabab FC,summer,out,Seung-gyu Kim,92076,34,"Korea, South",Goalkeeper,GK,650000.0,FC Tokyo,Japan,0.0,0
+2025,Saudi Pro League,Al-Shabab FC,summer,out,Daniel Podence,256977,29,Portugal,Left Winger,LW,5500000.0,Olympiacos Piraeus,Greece,0.0,1
+2025,Saudi Pro League,Al-Shabab FC,summer,out,Hisham Al-Dubais,1051402,23,Saudi Arabia,Centre-Forward,CF,200000.0,Al-Najma SC,Saudi Arabia,0.0,1
+2025,Saudi Pro League,Al-Shabab FC,summer,out,Abderrazak Hamdallah,235052,34,Morocco,Centre-Forward,CF,1800000.0,Al-Hilal SFC,Saudi Arabia,0.0,1
+2025,Saudi Pro League,Al-Shabab FC,summer,out,Fahad Al-Muwallad,193153,30,Saudi Arabia,Right Winger,RW,350000.0,Without Club,,,0
+2025,Saudi Pro League,Al-Shabab FC,summer,out,Abdullah Al-Mayouf,147866,38,Saudi Arabia,Goalkeeper,GK,50000.0,Without Club,,,0
+2025,Saudi Pro League,Al-Shabab FC,summer,out,Giacomo Bonaventura,57280,35,Italy,Attacking Midfield,AM,2000000.0,Without Club,,,0
+2025,Saudi Pro League,Al-Shabab FC,summer,out,Georgiy Bushchan,206888,31,Ukraine,Goalkeeper,GK,5000000.0,Polissya Zhytomyr,Ukraine,0.0,1
+2025,Saudi Pro League,Al-Shabab FC,summer,out,Glen Kamara,242632,29,Finland,Central Midfield,CM,5000000.0,Stade Rennais FC,France,0.0,1
+2025,Saudi Pro League,Al-Shabab FC,summer,out,Leandrinho,1083885,20,Brazil,Left-Back,LB,1800000.0,Clube de Regatas Vasco da Gama,Brazil,0.0,1
+2025,Saudi Pro League,Al-Shabab FC,summer,out,Mohamed Al-Thani,922103,28,Saudi Arabia,Right-Back,RB,900000.0,Al-Hazem SC,Saudi Arabia,0.0,1
+2025,Saudi Pro League,Al-Shabab FC,summer,out,Robert Renan,958598,21,Brazil,Centre-Back,CB,7500000.0,Zenit St. Petersburg,Russia,0.0,1
+2025,Saudi Pro League,Al-Shabab FC,summer,out,Musab Al-Juwayr,901181,21,Saudi Arabia,Central Midfield,CM,4000000.0,Al-Hilal SFC,Saudi Arabia,0.0,1
+2025,Saudi Pro League,Al-Shabab FC,summer,out,Younes Al-Shanqeeti,1180071,21,Saudi Arabia,Central Midfield,CM,100000.0,Al-Ahli SFC,Saudi Arabia,0.0,1
+2025,Saudi Pro League,Al-Taawoun FC,summer,in,Mohammed Mahzari,1169184,23,Saudi Arabia,Right-Back,RB,200000.0,Al-Ettifaq FC,Saudi Arabia,1260000.0,0
+2025,Saudi Pro League,Al-Taawoun FC,summer,in,Renne Rivas,685140,22,Venezuela,Left-Back,LB,400000.0,Caracas FC,Venezuela,600000.0,0
+2025,Saudi Pro League,Al-Taawoun FC,summer,in,Cristhoper Zambrano,885175,21,Ecuador,Centre-Forward,CF,350000.0,SD Aucas,Ecuador,170000.0,1
+2025,Saudi Pro League,Al-Taawoun FC,summer,in,Mohammed Al-Aqel,922459,25,Saudi Arabia,Right Winger,RW,150000.0,Al-Riyadh SC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Taawoun FC,summer,in,Moustapha Sémbène,1451603,19,Senegal,Centre-Back,CB,,AJEL de Rufisque,Senegal,,0
+2025,Saudi Pro League,Al-Taawoun FC,summer,in,Victor Hugo,1045599,21,Brazil,Central Midfield,CM,,FC Cascavel (PR),Brazil,,0
+2025,Saudi Pro League,Al-Taawoun FC,summer,in,Bassam Al-Hurayji,901076,25,Saudi Arabia,Right-Back,RB,400000.0,Al-Ahli SFC,Saudi Arabia,,0
+2025,Saudi Pro League,Al-Taawoun FC,summer,in,Angelo Fulgini,250013,29,France,Attacking Midfield,AM,5000000.0,RC Lens,France,0.0,1
+2025,Saudi Pro League,Al-Taawoun FC,summer,in,Abdalellah Hawsawi,1168837,24,Saudi Arabia,Central Midfield,CM,325000.0,Al-Ittihad Club,Saudi Arabia,0.0,1
+2025,Saudi Pro League,Al-Taawoun FC,summer,in,Mohammed Waleed Al-Dossary,1164513,24,Saudi Arabia,Centre-Back,CB,275000.0,NEOM SC,Saudi Arabia,0.0,1
+2025,Saudi Pro League,Al-Taawoun FC,summer,in,Mishal Al-Alaeli,1143173,21,Saudi Arabia,Left-Back,LB,225000.0,Al-Ettifaq FC,Saudi Arabia,0.0,1
+2025,Saudi Pro League,Al-Taawoun FC,summer,in,Romain Faivre,555076,27,France,Attacking Midfield,AM,6000000.0,AFC Bournemouth,England,0.0,1
+2025,Saudi Pro League,Al-Taawoun FC,summer,out,Saad Al-Nasser,888634,24,Saudi Arabia,Left-Back,LB,650000.0,Al-Nassr FC,Saudi Arabia,9770000.0,0
+2025,Saudi Pro League,Al-Taawoun FC,summer,out,Basil Al-Mehawes,994996,22,Saudi Arabia,Right Winger,RW,,Al-Washm,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Taawoun FC,summer,out,Mohammed Sultan Al-Dawsari,631925,25,Saudi Arabia,Goalkeeper,GK,25000.0,Al-Adalah FC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Taawoun FC,summer,out,Hattan Bahebri,201379,33,Saudi Arabia,Left Winger,LW,450000.0,Al-Kholood Club,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Taawoun FC,summer,out,Mohammed Al-Dhulayfai,901102,25,Saudi Arabia,Goalkeeper,GK,75000.0,Al-Anwar Club,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Taawoun FC,summer,out,Fahad Al-Abdulrazzaq,1168993,25,Saudi Arabia,Right-Back,RB,175000.0,Al-Najma SC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Taawoun FC,summer,out,Rakan Al-Tulayhi,1003583,22,Saudi Arabia,Attacking Midfield,AM,100000.0,Al-Najma SC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Taawoun FC,summer,out,Abdulmalek Al-Shammari,452889,29,Saudi Arabia,Left-Back,LB,125000.0,Al-Anwar Club,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Al-Taawoun FC,summer,out,Fahad Al-Jumaiya,537565,30,Saudi Arabia,Right Winger,RW,300000.0,Al-Ula FC,Saudi Arabia,,0
+2025,Saudi Pro League,Al-Taawoun FC,summer,out,Abdulrahmen Al-Mughais,1093360,22,Saudi Arabia,Midfielder,Midfielder,,Al-Hilaliyah Saudi Club,Saudi Arabia,,0
+2025,Saudi Pro League,Al-Taawoun FC,summer,out,Renne Rivas,685140,22,Venezuela,Left-Back,LB,400000.0,Kalba FC,United Arab Emirates,0.0,1
+2025,Saudi Pro League,Al-Taawoun FC,summer,out,Awn Al-Saluli,509893,27,Saudi Arabia,Centre-Back,CB,325000.0,NEOM SC,Saudi Arabia,0.0,1
+2025,Saudi Pro League,Al-Taawoun FC,summer,out,Emad Al-Qunaian,1175871,23,Saudi Arabia,Centre-Back,CB,,Without Club,,,0
+2025,Saudi Pro League,Al-Taawoun FC,summer,out,Mohammed Baker,1181089,23,Saudi Arabia,Central Midfield,CM,75000.0,Without Club,,,0
+2025,Saudi Pro League,Al-Taawoun FC,summer,out,Fayçal Fajr,174344,36,Morocco,Central Midfield,CM,750000.0,Without Club,,,0
+2025,Saudi Pro League,Al-Taawoun FC,summer,out,Abdelhamid Sabiri,340394,28,Morocco,Attacking Midfield,AM,1700000.0,ACF Fiorentina,Italy,0.0,1
+2025,Saudi Pro League,Al-Taawoun FC,summer,out,Lucas Chávez,889403,22,Bolivia,Attacking Midfield,AM,350000.0,Bolívar La Paz,Bolivia,0.0,1
+2025,Saudi Pro League,Al-Taawoun FC,summer,out,Renne Rivas,685140,22,Venezuela,Left-Back,LB,400000.0,Caracas FC,Venezuela,0.0,1
+2025,Saudi Pro League,Al-Taawoun FC,summer,out,Sultan Al-Farhan,268095,28,Saudi Arabia,Defensive Midfield,DM,175000.0,Al-Ittihad Club,Saudi Arabia,0.0,1
+2025,Saudi Pro League,Al-Taawoun FC,summer,out,Mohammed Mahzari,1169184,23,Saudi Arabia,Right-Back,RB,200000.0,Al-Ettifaq FC,Saudi Arabia,0.0,1
+2025,Saudi Pro League,Damac FC,summer,in,Jamal Harkass,612041,29,Morocco,Centre-Back,CB,1400000.0,Wydad Casablanca,Morocco,600000.0,0
+2025,Saudi Pro League,Damac FC,summer,in,Yakou Méïté,289433,29,Cote d'Ivoire,Centre-Forward,CF,1200000.0,Cardiff City,England,0.0,0
+2025,Saudi Pro League,Damac FC,summer,in,Nabil Alioui,344607,26,Morocco,Attacking Midfield,AM,1600000.0,Adana Demirspor,Türkiye,0.0,0
+2025,Saudi Pro League,Damac FC,summer,in,Moataz Al-Baqaawi,743948,27,Saudi Arabia,Goalkeeper,GK,225000.0,Al-Tai FC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Damac FC,summer,in,Khaled Al-Sumairi,470011,28,Saudi Arabia,Defensive Midfield,DM,225000.0,Al-Khaleej FC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Damac FC,summer,in,Valentín Vada,225004,29,Argentina,Central Midfield,CM,1800000.0,Rubin Kazan,Russia,0.0,0
+2025,Saudi Pro League,Damac FC,summer,in,Kewin,669219,30,Brazil,Goalkeeper,GK,1000000.0,Moreirense FC,Portugal,0.0,0
+2025,Saudi Pro League,Damac FC,summer,in,Morlaye Sylla,402112,27,Guinea,Left Winger,LW,2500000.0,FC Arouca,Portugal,0.0,0
+2025,Saudi Pro League,Damac FC,summer,in,Ahmed Omar,1161129,22,Saudi Arabia,Defensive Midfield,DM,75000.0,Ohod Club,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Damac FC,summer,in,Yahya Naji,673933,26,Saudi Arabia,Right Winger,RW,150000.0,Al-Wehda FC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Damac FC,summer,in,Jesús Medina,353037,28,Paraguay,Right Winger,RW,3000000.0,Spartak Moscow,Russia,0.0,0
+2025,Saudi Pro League,Damac FC,summer,in,Hassan Rabei,962515,22,Saudi Arabia,Centre-Back,CB,100000.0,Al-Ain SFC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Damac FC,summer,in,David Kaiki,983500,21,Brazil,Right Winger,RW,,Racing Strasbourg B,France,,0
+2025,Saudi Pro League,Damac FC,summer,in,Abdulrahman Al-Khaibre,1161126,25,Saudi Arabia,Right-Back,RB,125000.0,Al-Ula FC,Saudi Arabia,0.0,1
+2025,Saudi Pro League,Damac FC,summer,in,Riyadh Sharahili,187951,32,Saudi Arabia,Defensive Midfield,DM,200000.0,NEOM SC,Saudi Arabia,0.0,1
+2025,Saudi Pro League,Damac FC,summer,out,Georges-Kevin N'Koudou,215679,30,Cameroon,Left Winger,LW,5000000.0,Al-Diraiyah FC,Saudi Arabia,3000000.0,0
+2025,Saudi Pro League,Damac FC,summer,out,Abdulbasit Hawsawi,901307,24,Saudi Arabia,Goalkeeper,GK,75000.0,Al-Ettifaq FC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Damac FC,summer,out,Ahmed Harisi,1168833,25,Saudi Arabia,Right Winger,RW,100000.0,Al-Jandal SC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Damac FC,summer,out,Ramzi Solan,680170,27,Saudi Arabia,Right-Back,RB,300000.0,Al-Kholood Club,Saudi Arabia,0.0,0
+2025,Saudi Pro League,Damac FC,summer,out,Nicolae Stanciu,148372,32,Romania,Attacking Midfield,AM,3500000.0,Genoa CFC,Italy,0.0,0
+2025,Saudi Pro League,Damac FC,summer,out,François Kamano,333802,29,Guinea,Left Winger,LW,2500000.0,FC Sochi,Russia,0.0,0
+2025,Saudi Pro League,Damac FC,summer,out,Assan Ceesay,388382,31,The Gambia,Centre-Forward,CF,1200000.0,Without Club,,,0
+2025,Saudi Pro League,Damac FC,summer,out,Rayan Al-Qahtani,922513,23,Saudi Arabia,Right Winger,RW,25000.0,Without Club,,,0
+2025,Saudi Pro League,Damac FC,summer,out,Hassan Abu Shrarh,865103,28,Saudi Arabia,Right Winger,RW,50000.0,Without Club,,,0
+2025,Saudi Pro League,Damac FC,summer,out,Florin Niță,200475,37,Romania,Goalkeeper,GK,200000.0,Without Club,,,0
+2025,Saudi Pro League,Damac FC,summer,out,Farouk Chafaï,175170,35,Algeria,Centre-Back,CB,200000.0,Without Club,,,0
+2025,Saudi Pro League,Damac FC,summer,out,Tarek Hamed,149530,36,Egypt,Defensive Midfield,DM,300000.0,Without Club,,,0
+2025,Saudi Pro League,Damac FC,summer,out,Adam Maher,122421,31,Netherlands,Central Midfield,CM,1000000.0,Without Club,,,0
+2025,Saudi Pro League,Damac FC,summer,out,Mohammed Al-Khaibari,901180,23,Saudi Arabia,Centre-Back,CB,200000.0,Al-Khaleej FC,Saudi Arabia,0.0,1
+2025,Saudi Pro League,Damac FC,summer,out,Amin Al-Bukhari,509875,28,Saudi Arabia,Goalkeeper,GK,125000.0,Al-Nassr FC,Saudi Arabia,0.0,1
+2025,Saudi Pro League,Damac FC,summer,out,Faisal Al-Subiani,1060930,21,Saudi Arabia,Defensive Midfield,DM,350000.0,Al-Ahli SFC,Saudi Arabia,0.0,1
+2025,Saudi Pro League,Damac FC,summer,out,Meshari Al-Nemer,1013848,21,Saudi Arabia,Centre-Forward,CF,175000.0,Al-Nassr FC,Saudi Arabia,0.0,1
+2025,Saudi Pro League,Damac FC,summer,out,Ayman Fallatah,1188906,21,Saudi Arabia,Central Midfield,CM,300000.0,Al-Ahli SFC,Saudi Arabia,0.0,1
+2025,Saudi Pro League,Damac FC,summer,out,Habib Diallo,344888,30,Senegal,Centre-Forward,CF,6500000.0,Al-Shabab FC,Saudi Arabia,0.0,1
+2025,Saudi Pro League,Damac FC,summer,out,Abdullah Al-Mogren,859792,28,Saudi Arabia,Centre-Forward,CF,100000.0,Al-Fateh SC,Saudi Arabia,0.0,1
+2025,Saudi Pro League,NEOM SC,summer,in,Luciano Rodríguez,856143,22,Uruguay,Centre-Forward,CF,7000000.0,Esporte Clube Bahia,Brazil,20000000.0,0
+2025,Saudi Pro League,NEOM SC,summer,in,Nathan Zézé,923832,20,France,Centre-Back,CB,15000000.0,FC Nantes,France,20000000.0,0
+2025,Saudi Pro League,NEOM SC,summer,in,Marcin Bulka,465955,25,Poland,Goalkeeper,GK,20000000.0,OGC Nice,France,15000000.0,0
+2025,Saudi Pro League,NEOM SC,summer,in,Amadou Koné,1178474,20,Cote d'Ivoire,Defensive Midfield,DM,4000000.0,Stade Reims,France,13330000.0,0
+2025,Saudi Pro League,NEOM SC,summer,in,Saïd Benrahma,290532,29,Algeria,Left Winger,LW,10000000.0,Olympique Lyon,France,12000000.0,0
+2025,Saudi Pro League,NEOM SC,summer,in,Saïmon Bouabré,955356,19,France,Attacking Midfield,AM,300000.0,AS Monaco,France,10000000.0,0
+2025,Saudi Pro League,NEOM SC,summer,in,Luís Maximiano,367464,26,Portugal,Goalkeeper,GK,3000000.0,UD Almería,Spain,6000000.0,0
+2025,Saudi Pro League,NEOM SC,summer,in,Alaa Hejji,443937,29,Saudi Arabia,Central Midfield,CM,200000.0,Al-Wehda FC,Saudi Arabia,5730000.0,0
+2025,Saudi Pro League,NEOM SC,summer,in,Abdulaziz Noor,1058345,26,Saudi Arabia,Right Winger,RW,650000.0,Al-Wehda FC,Saudi Arabia,5730000.0,0
+2025,Saudi Pro League,NEOM SC,summer,in,Faris Abdi,578992,26,Saudi Arabia,Left-Back,LB,450000.0,Al-Fayha FC,Saudi Arabia,3400000.0,0
+2025,Saudi Pro League,NEOM SC,summer,in,Thamer Al-Khaibri,1180693,19,Saudi Arabia,Centre-Forward,CF,125000.0,Al-Ettifaq FC,Saudi Arabia,2860000.0,0
+2025,Saudi Pro League,NEOM SC,summer,in,Raed Ozaybi,888626,23,Saudi Arabia,Goalkeeper,GK,125000.0,Al-Khaleej FC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,NEOM SC,summer,in,Alexandre Lacazette,93720,34,France,Centre-Forward,CF,6000000.0,Olympique Lyon,France,0.0,0
+2025,Saudi Pro League,NEOM SC,summer,in,Abdoulaye Doucouré,127187,32,Mali,Attacking Midfield,AM,7000000.0,Everton FC,England,0.0,0
+2025,Saudi Pro League,NEOM SC,summer,in,Khalifah Al-Dawsari,631928,26,Saudi Arabia,Centre-Back,CB,150000.0,Al-Hilal SFC,Saudi Arabia,,0
+2025,Saudi Pro League,NEOM SC,summer,in,Awn Al-Saluli,509893,27,Saudi Arabia,Centre-Back,CB,325000.0,Al-Taawoun FC,Saudi Arabia,0.0,1
+2025,Saudi Pro League,NEOM SC,summer,out,Mohammed Al-Amri,364470,33,Saudi Arabia,Left-Back,LB,100000.0,Al-Orobah FC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,NEOM SC,summer,out,Sultan Al-Sawadi,224234,32,Saudi Arabia,Attacking Midfield,AM,50000.0,Al-Arabi SC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,NEOM SC,summer,out,Alfa Semedo,359210,27,Guinea-Bissau,Defensive Midfield,DM,1200000.0,Al-Fayha FC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,NEOM SC,summer,out,Mbaye Diagne,271966,33,Senegal,Centre-Forward,CF,1200000.0,Amed SK,Türkiye,0.0,0
+2025,Saudi Pro League,NEOM SC,summer,out,Fahad Al-Harbi,433919,28,Saudi Arabia,Centre-Back,CB,200000.0,Al-Jabalain FC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,NEOM SC,summer,out,Fahad Al-Muneef,364716,31,Saudi Arabia,Centre-Back,CB,50000.0,Al-Orobah FC,Saudi Arabia,0.0,0
+2025,Saudi Pro League,NEOM SC,summer,out,Abdulrahman Dagriri,361206,35,Saudi Arabia,Goalkeeper,GK,50000.0,Al-Tai FC,Saudi Arabia,0.0,1
+2025,Saudi Pro League,NEOM SC,summer,out,Osama Al-Khalaf,364392,28,Saudi Arabia,Defensive Midfield,DM,150000.0,Al-Adalah FC,Saudi Arabia,0.0,1
+2025,Saudi Pro League,NEOM SC,summer,out,Mohammed Al-Dawsari,1020857,22,Saudi Arabia,Centre-Back,CB,125000.0,Al-Raed SFC,Saudi Arabia,0.0,1
+2025,Saudi Pro League,NEOM SC,summer,out,Mohammed Waleed Al-Dossary,1164513,24,Saudi Arabia,Centre-Back,CB,275000.0,Al-Taawoun FC,Saudi Arabia,0.0,1
+2025,Saudi Pro League,NEOM SC,summer,out,Riyadh Sharahili,187951,32,Saudi Arabia,Defensive Midfield,DM,200000.0,Damac FC,Saudi Arabia,0.0,1
+2025,Saudi Pro League,NEOM SC,summer,out,Muhanad Al-Saad,1185707,22,Saudi Arabia,Right Winger,RW,600000.0,FC Lausanne-Sport,Switzerland,0.0,1
+2025,Saudi Pro League,NEOM SC,summer,out,Saïd Benrahma,290532,29,Algeria,Left Winger,LW,10000000.0,Olympique Lyon,France,0.0,1
+2025,Saudi Pro League,NEOM SC,summer,out,Ahmed Al-Ghamdi,671043,23,Saudi Arabia,Left Winger,LW,650000.0,Al-Ittihad Club,Saudi Arabia,0.0,1
+2025,Saudi Pro League,NEOM SC,summer,out,Carlos Júnior,284000,29,Brazil,Right Winger,RW,4000000.0,Al-Shabab FC,Saudi Arabia,0.0,1
+2025,Saudi Pro League,NEOM SC,summer,out,Abdullah Al-Zaid,1020861,21,Saudi Arabia,Left Winger,LW,175000.0,Al-Hilal SFC,Saudi Arabia,0.0,1
